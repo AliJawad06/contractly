@@ -4,563 +4,362 @@ import logging
 import csv 
 from playwright.async_api import async_playwright
 from typing import List, Dict, Any
-
+import concurrent.futures
+from pathlib import Path
 
 # Set up logging
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-class NetworkJobScraper:
+class SimplifiedJobScraper:
     def __init__(self, base_url: str, headless: bool = True, slow_mo: int = 0):
         self.base_url = base_url
         self.headless = headless
         self.slow_mo = slow_mo
-        self.all_job_data = []
-        self.network_responses = []
+        self.job_ids = []
+        self.job_details = []
         
-    async def setup_network_interception(self, page):
-        """Set up network request/response interception"""
+    async def setup_network_interception_for_ids(self, page):
+        """Set up network interception to capture job IDs from listing pages"""
         
         async def handle_response(response):
-            # Check if this is the searchjobsportal or getmore request
             is_job_request = (
                 'searchjobsportal' in response.url.lower() or 
                 'searchjobs' in response.url.lower() or
                 'getmore' in response.url.lower()
             )
             
-            if is_job_request:
+            if is_job_request and response.status == 200:
                 try:
-                    # Only process successful responses
-                    if response.status == 200:
-                        content_type = response.headers.get('content-type', '')
-                        if 'application/json' in content_type:
-                            json_data = await response.json()
-                            
-                            # Determine request type for logging
-                            request_type = 'getmore' if 'getmore' in response.url.lower() else 'searchjobsportal'
-                            logger.info(f"Captured {request_type} response from: {response.url}")
-                            
-                            self.network_responses.append({
-                                'url': response.url,
-                                'status': response.status,
-                                'data': json_data,
-                                'headers': dict(response.headers),
-                                'request_type': request_type
-                            })
-                        else:
-                            # Handle non-JSON responses
-                            text_data = await response.text()
-                            request_type = 'getmore' if 'getmore' in response.url.lower() else 'searchjobsportal'
-                            logger.info(f"Captured non-JSON {request_type} response from: {response.url}")
-                            self.network_responses.append({
-                                'url': response.url,
-                                'status': response.status,
-                                'data': text_data,
-                                'headers': dict(response.headers),
-                                'request_type': request_type
-                            })
+                    content_type = response.headers.get('content-type', '')
+                    if 'application/json' in content_type:
+                        json_data = await response.json()
+                        self.extract_job_ids_from_response(json_data)
                 except Exception as e:
-                    logger.error(f"Error processing network response: {e}")
+                    logger.error(f"Error processing listing response: {e}")
         
-        # Set up the response handler
         page.on('response', handle_response)
-        
-        async def handle_request(request):
-            # Log all requests to help identify the correct endpoint
-            is_job_request = any(keyword in request.url.lower() for keyword in ['job', 'search', 'portal', 'getmore'])
-            if is_job_request:
-                logger.debug(f"Request: {request.method} {request.url}")
-                
-                # Log pagination info from getmore requests
-                if 'getmore' in request.url.lower():
-                    import urllib.parse
-                    parsed = urllib.parse.urlparse(request.url)
-                    params = urllib.parse.parse_qs(parsed.query)
-                    from_param = params.get('from', ['unknown'])[0]
-                    count_param = params.get('count', ['unknown'])[0]
-                    logger.info(f"Getmore request - from: {from_param}, count: {count_param}")
-        
-        page.on('request', handle_request)
 
-    async def extract_jobs_from_network(self, page_number: int) -> List[Dict]:
-        """Extract job data from captured network responses"""
-        jobs_from_network = []
-        
-        # Process the most recent network responses
-        for response_data in self.network_responses[-5:]:  # Check last 5 responses
-            try:
-                data = response_data['data']
-                request_type = response_data.get('request_type', 'unknown')
-                
-                logger.info(f"Processing {request_type} response for page {page_number}")
-                
-                # Handle different response formats
-                if isinstance(data, dict):
-                    # Your specific API format with total and data fields
-                    jobs = self._extract_jobs_from_dict(data)
-                    if jobs:
-                        # Add request type metadata to each job
-                        for job in jobs:
-                            job['request_type'] = request_type
-                            job['source_url'] = response_data['url']
-                        jobs_from_network.extend(jobs)
-                        
-                elif isinstance(data, list):
-                    # Direct list of jobs (fallback)
-                    for item in data:
-                        if isinstance(item, dict):
-                            job_data = self._normalize_job_data(item, page_number)
-                            if job_data:
-                                job_data['request_type'] = request_type
-                                job_data['source_url'] = response_data['url']
-                                jobs_from_network.append(job_data)
-                                
-            except Exception as e:
-                logger.error(f"Error extracting jobs from network data: {e}")
-        
-        # Clear processed responses to avoid duplicates
-        self.network_responses.clear()
-        
-        return jobs_from_network
-
-    def _extract_jobs_from_dict(self, data: Dict) -> List[Dict]:
-        """Extract jobs from dictionary response with common patterns"""
-        jobs = []
-        
-        # Check if this matches your specific API format
-        if 'total' in data and 'data' in data and isinstance(data['data'], list):
-            logger.info(f"Found {data['total']} total jobs, processing {len(data['data'])} jobs from current page")
-            for job_item in data['data']:
-                if isinstance(job_item, dict):
-                    normalized_job = self._normalize_job_data(job_item, None)
-                    if normalized_job:
-                        jobs.append(normalized_job)
-            return jobs
-        
-        # Fallback: Common keys where job data might be stored
-        possible_job_keys = [
-            'data', 'jobs', 'results', 'items', 'listings', 
-            'jobListings', 'jobResults', 'positions', 'opportunities'
-        ]
-        
-        for key in possible_job_keys:
-            if key in data and isinstance(data[key], list):
-                logger.info(f"Found jobs under key: {key}")
-                for job_item in data[key]:
-                    if isinstance(job_item, dict):
-                        normalized_job = self._normalize_job_data(job_item, None)
-                        if normalized_job:
-                            jobs.append(normalized_job)
-                break  # Found jobs, no need to check other keys
-        
-        return jobs
-
-    def _normalize_job_data(self, job_data: Dict, page_number: int = None) -> Dict:
-        """Normalize job data to a standard format"""
+    def extract_job_ids_from_response(self, data):
+        """Extract job IDs from the listing response"""
         try:
-            # Your specific API field mappings
-            normalized = {
-                'job_id': job_data.get('id'),
-                'title': job_data.get('title'),
-                'ref_no': job_data.get('refNo'),
-                'company': job_data.get('company'),
-                'location': job_data.get('location'),
-                'main_location': job_data.get('mainLocation'),
-                'other_locations': job_data.get('otherLocations', []),
-                'description': job_data.get('jobDescription'),
-                'position_type': job_data.get('positionType'),
-                'pay_rate': job_data.get('payRate'),
-                'pay_frequency': job_data.get('payFrequency'),
-                'working_remote': job_data.get('workingRemote'),
-                'experience': job_data.get('experience'),
-                'direct_placement': job_data.get('directPlacement'),
-                'screening_enabled': job_data.get('screeningEnabled'),
-                
-                # Date fields (timestamps)
-                'post_date': job_data.get('postDate'),
-                'start_date': job_data.get('startDate'),
-                'end_date': job_data.get('endDate'),
-                'post_date_str': job_data.get('postDateStr'),
-                'start_date_str': job_data.get('startDateStr'),
-                'end_date_str': job_data.get('endDateStr'),
-                
-                # Recruiter information
-                'primary_recruiter_name': job_data.get('primaryRecruiterName'),
-                'primary_recruiter_email': job_data.get('primaryRecruiterEmail'),
-                'primary_recruiter_phone': job_data.get('primaryRecruiterPhone'),
-                
-                # Complex fields
-                'job_udfs': job_data.get('jobUDFs', []),
-                'healthcare_data': job_data.get('healthcareData', {}),
-                'eeo_settings': job_data.get('eeoSettings', {}),
-                'eeo': job_data.get('eeo', {}),
-                'facilities': job_data.get('facilities', []),
-                'screenings': job_data.get('screenings', []),
-                'licenses': job_data.get('licenses', {}),
-                'certificates': job_data.get('certificates', {}),
-                
-                # Metadata
-                'page_number': page_number,
-                'scraped_at': asyncio.get_event_loop().time()
-            }
-            
-            # Convert timestamps to readable dates if they exist
-            if normalized['post_date']:
-                try:
-                    import datetime
-                    normalized['post_date_readable'] = datetime.datetime.fromtimestamp(
-                        normalized['post_date'] / 1000
-                    ).strftime('%Y-%m-%d %H:%M:%S')
-                except:
-                    pass
-                    
-            if normalized['start_date'] and normalized['start_date'] > 0:
-                try:
-                    import datetime
-                    normalized['start_date_readable'] = datetime.datetime.fromtimestamp(
-                        normalized['start_date'] / 1000
-                    ).strftime('%Y-%m-%d %H:%M:%S')
-                except:
-                    pass
-                    
-            if normalized['end_date'] and normalized['end_date'] > 0:
-                try:
-                    import datetime
-                    normalized['end_date_readable'] = datetime.datetime.fromtimestamp(
-                        normalized['end_date'] / 1000
-                    ).strftime('%Y-%m-%d %H:%M:%S')
-                except:
-                    pass
-            
-            return normalized
-            
+            # Handle your specific API format
+            if isinstance(data, dict) and 'data' in data:
+                jobs = data['data']
+                if isinstance(jobs, list):
+                    for job in jobs:
+                        if isinstance(job, dict) and 'id' in job:
+                            job_id = job['id']
+                            if job_id not in self.job_ids:
+                                self.job_ids.append(job_id)
+                                logger.info(f"Found job ID: {job_id}")
         except Exception as e:
-            logger.error(f"Error normalizing job data: {e}")
-            return None
+            logger.error(f"Error extracting job IDs: {e}")
 
-    async def extract_jobs_from_page(self, page, page_number: int) -> List[Dict]:
-        """Extract jobs from network responses for the current page"""
-        return await self.extract_jobs_from_network(page_number)
-
-    async def scrape_job_listings_by_pagination(self, company: str = None):
-        """Scrape jobs by clicking through pagination buttons and capturing network requests"""
+    async def get_job_ids_from_listing(self, company: str):
+        """Get all job IDs from the job listing pages"""
         async with async_playwright() as p:
             browser = await p.chromium.launch(headless=self.headless, slow_mo=self.slow_mo)
             context = await browser.new_context()
             page = await context.new_page()
             
             try:
-                # Set up network interception before navigation
-                await self.setup_network_interception(page)
+                await self.setup_network_interception_for_ids(page)
                 
                 logger.info(f"Navigating to {self.base_url}")
                 await page.goto(self.base_url)
-                
-                # Wait for initial page load and network requests
                 await page.wait_for_load_state('networkidle', timeout=15000)
                 
                 current_page = 1
                 has_next_page = True
                 
                 while has_next_page:
-                    logger.info(f"Processing page {current_page}...")
-                    
-                    # Wait a bit for network requests to complete
+                    logger.info(f"Processing listing page {current_page}...")
                     await page.wait_for_timeout(3000)
                     
-                    # Extract job data from network responses
-                    jobs_on_page = await self.extract_jobs_from_page(page, current_page)
-                    
-                    if jobs_on_page:
-                        self.all_job_data.extend(jobs_on_page)
-                        logger.info(f"Found {len(jobs_on_page)} jobs on page {current_page} from network data")
-                    else:
-                        logger.warning(f"No jobs found in network responses for page {current_page}")
-                        # Optionally, you could fallback to HTML parsing here
-                    
-                    # Check if there's a next page button and if it's clickable
+                    # Check for next page
                     next_button = await page.query_selector('button[aria-label="Next Page"]:not([disabled])')
                     
                     if next_button:
                         try:
-                            # Click next page button
                             logger.info("Clicking next page button...")
                             await next_button.click()
-                            
-                            # Wait for network requests to complete
                             await page.wait_for_load_state('networkidle', timeout=15000)
-                            
                             current_page += 1
-                            
-                            # Be respectful to the server
                             await page.wait_for_timeout(2000)
-                            
                         except Exception as e:
                             logger.error(f"Error navigating to next page: {e}")
                             has_next_page = False
                     else:
-                        logger.info("No more pages found or next button is disabled")
+                        logger.info("No more pages found")
                         has_next_page = False
                     
-                    # Safety check to prevent infinite loops
-                    if current_page > 50:
+                    if current_page > 50:  # Safety limit
                         logger.warning("Reached maximum page limit")
                         break
                         
             except Exception as e:
-                logger.error(f"Error during scraping: {e}")
+                logger.error(f"Error getting job IDs: {e}")
             finally:
                 await browser.close()
         
-        logger.info(f"Scraping completed. Total jobs found: {len(self.all_job_data)}")
-        return self.all_job_data
+        logger.info(f"Found {len(self.job_ids)} job IDs for {company}")
+        return self.job_ids
 
-    async def save_to_csv(self, company):
-        """Save job data to CSV file"""
-        filename = f'{company}.csv'
+    async def setup_network_interception_for_job_detail(self, page, job_id):
+        """Set up network interception for individual job detail requests"""
+        job_data = None
+        
+        async def handle_response(response):
+            nonlocal job_data
+            # The request name should match the job ID
+            if str(job_id) in response.url and response.status == 200:
+                try:
+                    content_type = response.headers.get('content-type', '')
+                    if 'application/json' in content_type:
+                        json_data = await response.json()
+                        job_data = self.extract_job_details(json_data)
+                        logger.info(f"Captured job details for ID: {job_id}")
+                except Exception as e:
+                    logger.error(f"Error processing job detail response for {job_id}: {e}")
+        
+        page.on('response', handle_response)
+        return lambda: job_data
+
+    def extract_job_details(self, data):
+        """Extract only the required fields from job detail response"""
         try:
-            if not self.all_job_data:
-                logger.warning("No data to save to CSV")
-                return
+            # Handle the nested structure from your example
+            if isinstance(data, dict):
+                job_info = data.get('job', {})
+                
+                return {
+                    'id': job_info.get('id'),
+                    'title': job_info.get('title'),
+                    'ref_no': job_info.get('refNo'),
+                    'job_description': job_info.get('jobDescription'),
+                    'start_date': job_info.get('startDate'),
+                    'end_date': job_info.get('endDate'),
+                    'working_remote': job_info.get('workingRemote'),
+                    'primary_recruiter_name': job_info.get('primaryRecruiterName'),
+                    'primary_recruiter_email': job_info.get('primaryRecruiterEmail'),
+                    'primary_recruiter_phone': job_info.get('primaryRecruiterPhone')
+                }
+        except Exception as e:
+            logger.error(f"Error extracting job details: {e}")
+        return None
+
+    async def scrape_individual_job(self, job_id):
+        """Scrape details for a single job"""
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=self.headless, slow_mo=self.slow_mo)
+            context = await browser.new_context()
+            page = await context.new_page()
             
-            # Get all unique fieldnames from all jobs
-            all_fieldnames = set()
-            for job in self.all_job_data:
-                all_fieldnames.update(job.keys())
+            try:
+                # Set up network interception
+                get_job_data = await self.setup_network_interception_for_job_detail(page, job_id)
+                
+                # Navigate to individual job URL
+                job_url = f"{self.base_url}jobs/{job_id}"
+                logger.info(f"Navigating to job: {job_url}")
+                
+                await page.goto(job_url)
+                await page.wait_for_load_state('networkidle', timeout=15000)
+                await page.wait_for_timeout(2000)  # Give time for API calls
+                
+                # Get the captured job data
+                job_data = get_job_data()
+                if job_data:
+                    logger.info(f"Successfully scraped job {job_id}: {job_data.get('title', 'Unknown Title')}")
+                    return job_data
+                else:
+                    logger.warning(f"No job data captured for job {job_id}")
+                    return None
+                    
+            except Exception as e:
+                logger.error(f"Error scraping job {job_id}: {e}")
+                return None
+            finally:
+                await browser.close()
+
+    async def scrape_jobs_batch(self, job_ids_batch):
+        """Scrape a batch of jobs concurrently"""
+        tasks = [self.scrape_individual_job(job_id) for job_id in job_ids_batch]
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+        
+        successful_jobs = []
+        for result in results:
+            if isinstance(result, dict) and result is not None:
+                successful_jobs.append(result)
+            elif isinstance(result, Exception):
+                logger.error(f"Exception in batch: {result}")
+        
+        return successful_jobs
+
+    async def scrape_all_job_details(self, company: str, max_concurrent: int = 9):
+        """Scrape details for all jobs with controlled concurrency"""
+        if not self.job_ids:
+            logger.warning("No job IDs to process")
+            return []
+
+        # Split job IDs into batches for controlled concurrency
+        batch_size = max_concurrent
+        batches = [self.job_ids[i:i + batch_size] for i in range(0, len(self.job_ids), batch_size)]
+        
+        all_job_details = []
+        
+        for i, batch in enumerate(batches, 1):
+            logger.info(f"Processing batch {i}/{len(batches)} ({len(batch)} jobs)")
+            batch_results = await self.scrape_jobs_batch(batch)
+            all_job_details.extend(batch_results)
             
-            # Sort fieldnames for consistent column order
-            fieldnames = sorted(all_fieldnames)
+            # Add delay between batches to be respectful
+            if i < len(batches):
+                await asyncio.sleep(2)
+        
+        self.job_details = all_job_details
+        logger.info(f"Successfully scraped {len(all_job_details)} job details out of {len(self.job_ids)} total jobs")
+        return all_job_details
+
+    async def save_to_csv(self, company: str):
+        """Save job details to CSV file"""
+        if not self.job_details:
+            logger.warning(f"No job details to save for {company}")
+            return
+
+        filename = f'csv/{company}/{company}.csv'
+        
+        try:
+            fieldnames = [
+                'id', 'title', 'ref_no', 'job_description', 'start_date', 
+                'end_date', 'working_remote', 'primary_recruiter_name', 
+                'primary_recruiter_email', 'primary_recruiter_phone'
+            ]
             
             with open(filename, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
-                
                 writer.writeheader()
-                writer.writerows(self.all_job_data)
+                writer.writerows(self.job_details)
             
-            logger.info(f"Data saved to {filename}")
+            logger.info(f"Saved {len(self.job_details)} job details to {filename}")
         except Exception as e:
-            logger.error(f"Error saving CSV: {e}")
+            logger.error(f"Error saving CSV for {company}: {e}")
 
-    def print_jobs_summary(self):
-        """Print a summary of scraped jobs"""
-        if not self.all_job_data:
-            logger.info("No jobs were scraped")
-            return
-            
-        logger.info(f"\n=== JOB SCRAPING SUMMARY ===")
-        logger.info(f"Total jobs scraped: {len(self.all_job_data)}")
-        
-        # Print first few jobs as examples
-        for i, job in enumerate(self.all_job_data[:3]):
-            logger.info(f"\n--- Job {i+1} ---")
-            logger.info(f"ID: {job.get('job_id')}")
-            logger.info(f"Title: {job.get('title')}")
-            logger.info(f"Company: {job.get('company')}")
-            logger.info(f"Location: {job.get('location')}")
-            logger.info(f"Ref No: {job.get('ref_no')}")
-            logger.info(f"Post Date: {job.get('post_date_readable', job.get('post_date'))}")
-            if job.get('description'):
-                # Truncate description for summary
-                desc = job.get('description')[:200] + "..." if len(str(job.get('description', ''))) > 200 else job.get('description')
-                logger.info(f"Description: {desc}")
-        
-        # Print some statistics
-        companies = [job.get('company') for job in self.all_job_data if job.get('company')]
-        locations = [job.get('location') for job in self.all_job_data if job.get('location')]
-        
-        if companies:
-            from collections import Counter
-            company_counts = Counter(companies)
-            logger.info(f"\nTop 5 Companies:")
-            for company, count in company_counts.most_common(5):
-                logger.info(f"  {company}: {count} jobs")
-        
-        if locations:
-            from collections import Counter
-            location_counts = Counter(locations)
-            logger.info(f"\nTop 5 Locations:")
-            for location, count in location_counts.most_common(5):
-                logger.info(f"  {location}: {count} jobs")
-
-    def reset_data(self):
-        """Reset job data for a fresh start"""
-        self.all_job_data = []
-        self.network_responses = []
-
-    def get_jobs_count(self):
-        """Get current count of scraped jobs"""
-        return len(self.all_job_data)
-
-    def add_metadata_to_jobs(self, metadata_dict):
-        """Add metadata to all existing jobs"""
-        for job in self.all_job_data:
-            job.update(metadata_dict)
-
-    def add_job_if_unique(self, job_data):
-        """Add job only if not already exists (based on job_id)"""
-        job_id = job_data.get('job_id')
-        existing_ids = {job.get('job_id') for job in self.all_job_data}
-        
-        if job_id not in existing_ids:
-            self.all_job_data.append(job_data)
-            return True
-        return False
-
-# Helper functions for saving data
-async def save_combined_data(all_data):
-    """Save combined data from all companies"""
-    filename = 'all_companies_jobs.csv'
-    try:
-        if not all_data:
-            logger.warning("No combined data to save to CSV")
-            return
-        
-        # Get all unique fieldnames from all jobs
-        all_fieldnames = set()
-        for job in all_data:
-            all_fieldnames.update(job.keys())
-        
-        # Sort fieldnames for consistent column order
-        fieldnames = sorted(all_fieldnames)
-        
-        with open(filename, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
-            
-            writer.writeheader()
-            writer.writerows(all_data)
-        
-        logger.info(f"Combined data saved to {filename}")
-    except Exception as e:
-        logger.error(f"Error saving combined CSV: {e}")
-
-async def save_company_jobs(company, jobs):
-    """Save jobs for a specific company"""
-    filename = f'{company}.csv'
-    try:
-        if not jobs:
-            logger.warning(f"No data to save for {company}")
-            return
-        
-        # Get all unique fieldnames from all jobs
-        all_fieldnames = set()
-        for job in jobs:
-            all_fieldnames.update(job.keys())
-        
-        # Sort fieldnames for consistent column order
-        fieldnames = sorted(all_fieldnames)
-        
-        with open(filename, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
-            
-            writer.writeheader()
-            writer.writerows(jobs)
-        
-        logger.info(f"Data for {company} saved to {filename}")
-    except Exception as e:
-        logger.error(f"Error saving CSV for {company}: {e}")
-
-# Main function - approach 1: Separate scraper per company
-async def main():
-    # Replace with your actual job portal URL
-    cdata = []
-    with open('companies.csv') as csvfile:
-        spamreader = csv.reader(csvfile, delimiter=',')
-        for row in spamreader:
-            cdata.append(row)
-
-    all_companies_data = []  # Store data for all companies
+def run_company_scraper(company_data):
+    """Run scraper for a single company - to be used in thread pool"""
+    company, url = company_data
     
-    for company, url in cdata:
-        logger.info(f"Starting scrape for company: {company}")
-        
-        scraper = NetworkJobScraper(
+    async def scrape_company():
+        scraper = SimplifiedJobScraper(
             base_url=url,
-            headless=False,  # Set to True for production
-            slow_mo=1000     # Slow down for debugging
+            headless=True,  # Set to True for production
+            slow_mo=500
         )
         
         try:
-            # Scrape jobs for this company
-            jobs = await scraper.scrape_job_listings_by_pagination()
+            # Step 1: Get all job IDs from listing pages
+            logger.info(f"Getting job IDs for {company}...")
+            await scraper.get_job_ids_from_listing(company)
             
-            # Add company identifier to each job
-            for job in jobs:
+            if not scraper.job_ids:
+                logger.warning(f"No job IDs found for {company}")
+                return []
+            
+            # Step 2: Get detailed information for each job
+            logger.info(f"Scraping details for {len(scraper.job_ids)} jobs from {company}...")
+            job_details = await scraper.scrape_all_job_details(company, max_concurrent=5)
+            
+            # Add company info to each job
+            for job in job_details:
                 job['source_company'] = company
-                job['source_url_base'] = url
+                job['source_url'] = url
             
-            # Add to overall collection
-            all_companies_data.extend(jobs)
-            
-            # Print summary for this company
-            logger.info(f"=== SUMMARY FOR {company} ===")
-            scraper.print_jobs_summary()
-            
-            # Save individual company file
+            # Step 3: Save to CSV
             await scraper.save_to_csv(company)
             
-        except Exception as e:
-            logger.error(f"Scraping failed for {company}: {e}")
-            continue  # Continue to next company instead of returning
-    
-    # Save combined data for all companies
-    if all_companies_data:
-        await save_combined_data(all_companies_data)
-        logger.info(f"Total jobs across all companies: {len(all_companies_data)}")
-    
-    return all_companies_data
-
-# Alternative main function - approach 2: Single scraper instance
-async def main_single_scraper():
-    """Alternative approach using single scraper instance"""
-    cdata = []
-    with open('companies.csv') as csvfile:
-        spamreader = csv.reader(csvfile, delimiter=',')
-        for row in spamreader:
-            cdata.append(row)
-
-    # Single scraper instance that accumulates all data
-    scraper = NetworkJobScraper(
-        base_url="",  # Will be updated for each company
-        headless=False,
-        slow_mo=1000
-    )
-    
-    for company, url in cdata:
-        logger.info(f"Starting scrape for company: {company}")
-        
-        # Update the base URL for this company
-        scraper.base_url = url
-        
-        try:
-            # Get current count before scraping
-            jobs_before = len(scraper.all_job_data)
-            
-            # Scrape jobs for this company
-            await scraper.scrape_job_listings_by_pagination()
-            
-            # Add company identifier to newly scraped jobs
-            jobs_after = len(scraper.all_job_data)
-            for i in range(jobs_before, jobs_after):
-                scraper.all_job_data[i]['source_company'] = company
-                scraper.all_job_data[i]['source_url_base'] = url
-            
-            # Save individual company file
-            company_jobs = scraper.all_job_data[jobs_before:jobs_after]
-            await save_company_jobs(company, company_jobs)
-            
-            logger.info(f"Scraped {jobs_after - jobs_before} jobs for {company}")
+            return job_details
             
         except Exception as e:
-            logger.error(f"Scraping failed for {company}: {e}")
-            continue
+            logger.error(f"Error scraping {company}: {e}")
+            return []
     
-    # Print final summary and save all data
-    scraper.print_jobs_summary()
-    await scraper.save_to_csv("all_companies")
+    # Run the async function
+    return asyncio.run(scrape_company())
+
+async def main_multithreaded():
+    """Main function with multithreading for companies"""
+    # Load companies
+    companies_data = []
+    try:
+        with open('companies.csv', 'r') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                if len(row) >= 2:
+                    companies_data.append((row[0], row[1]))
+    except FileNotFoundError:
+        logger.error("companies.csv file not found")
+        return
     
-    return scraper.all_job_data
+    if not companies_data:
+        logger.error("No company data found")
+        return
+    
+    logger.info(f"Starting scraping for {len(companies_data)} companies")
+    
+    # Use ThreadPoolExecutor to run multiple companies in parallel
+    all_job_details = []
+    max_workers = min(3, len(companies_data))  # Limit concurrent companies
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all company scraping tasks
+        future_to_company = {
+            executor.submit(run_company_scraper, company_data): company_data[0] 
+            for company_data in companies_data
+        }
+        
+        # Process completed tasks
+        for future in concurrent.futures.as_completed(future_to_company):
+            company = future_to_company[future]
+            try:
+                company_jobs = future.result()
+                if company_jobs:
+                    all_job_details.extend(company_jobs)
+                    logger.info(f"Completed {company}: {len(company_jobs)} jobs")
+                else:
+                    logger.warning(f"No jobs retrieved for {company}")
+            except Exception as e:
+                logger.error(f"Company {company} generated an exception: {e}")
+    
+    # Save combined results
+    if all_job_details:
+        await save_combined_csv(all_job_details)
+        logger.info(f"Total jobs scraped across all companies: {len(all_job_details)}")
+    else:
+        logger.warning("No job details were scraped from any company")
+
+async def save_combined_csv(all_job_details):
+    """Save all job details to a combined CSV"""
+    filename = 'all_companies_job_details.csv'
+    
+    try:
+        fieldnames = [
+            'id', 'title', 'ref_no', 'job_description', 'start_date', 
+            'end_date', 'working_remote', 'primary_recruiter_name', 
+            'primary_recruiter_email', 'primary_recruiter_phone',
+            'source_company', 'source_url'
+        ]
+        
+        with open(filename, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
+            writer.writeheader()
+            writer.writerows(all_job_details)
+        
+        logger.info(f"Saved {len(all_job_details)} total job details to {filename}")
+    except Exception as e:
+        logger.error(f"Error saving combined CSV: {e}")
+
+
 
 if __name__ == "__main__":
-    # Use main() for approach 1 (separate scrapers) or main_single_scraper() for approach 2
-    asyncio.run(main())
+    asyncio.run(main_multithreaded())
