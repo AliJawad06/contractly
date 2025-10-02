@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Folder containing the CSVs (change this if needed)
-folder_path = "."
+folder_path = "/Users/aj/Downloads/DhikrUp/contractJobs/csv"
 
 # Output filename
 output_file = "combined.csv"
@@ -11,13 +11,17 @@ output_file = "combined.csv"
 dataframes = []
 
 # Loop through all files in the folder
-for filename in os.listdir(folder_path):
-    if filename.endswith(".csv") and filename != "companies.csv":
-        file_path = os.path.join(folder_path, filename)
-        print(f"Adding {filename}...")
-        df = pd.read_csv(file_path)
-        df["source_file"] = filename  # optional: track where each row came from
-        dataframes.append(df)
+for root, dirs, filenames in os.walk(folder_path):
+    for filename in filenames:
+        print(filename)
+        if filename.endswith(".csv") and filename != "companies.csv":
+            company = filename.replace(".csv","")
+            file_path = os.path.join(folder_path,company,filename)
+            print(f"Adding {filename}...")
+            print(file_path)
+            df = pd.read_csv(file_path)
+            df["source_file"] = filename  # optional: track where each row came from
+            dataframes.append(df)
 
 # Concatenate all dataframes
 if dataframes:
