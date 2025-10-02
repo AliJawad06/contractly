@@ -1,0 +1,33 @@
+[
+  {
+    "id": 26416159,
+    "title": "Recruiter",
+    "location": "Delhi, Noida",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "29/9/2025",
+      "date_posted": 1759160294000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "recruiter": [
+      "Humanize Ind",
+      "humanize_ind@eteaminc.com",
+      "1234567890"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=rbjdnweld32246lzg3taqwi54kvozt05179osu5qfv6m4t6jrkzmy95rqih6j9f1&compid=-1&SearchString=#/jobs/26416159",
+    "source_company": "rbjdnweld32246lzg3taqwi54kvozt05179osu5qfv6m4t6jrkzmy95rqih6j9f1",
+    "source_url": "https://www2.jobdiva.com/portal/?a=rbjdnweld32246lzg3taqwi54kvozt05179osu5qfv6m4t6jrkzmy95rqih6j9f1&compid=-1",
+    "date_cutoff_days": 15
+  }
+]

@@ -2,7 +2,7 @@ import os
 import re
 import pandas as pd
 
-df = pd.read_csv("combined.csv",dtype=str)
+df = pd.read_csv("categorized_jobs_multicore.csv",dtype=str)
 
 df = df.reset_index()
 df = df.astype(str) 
@@ -47,5 +47,5 @@ realign_df_inplace(df, templates)
 print(df)
 
     
-df.to_csv("cleaned.csv", index=False)
+df.to_csv("cleaned1.csv", index=False)
 
