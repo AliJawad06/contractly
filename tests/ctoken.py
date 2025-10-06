@@ -3,14 +3,16 @@ from collections import Counter
 import tiktoken
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
+import json
 
-
+#6828343
+#14782637
 # --- Helper: strip HTML using BeautifulSoup ---
 def strip_html(text: str) -> str:
-    if not text:
-        return ""
-    soup = BeautifulSoup(text, "html.parser")
-    return soup.get_text(separator=" ", strip=True)
+    #if not text:
+    #    return ""
+    #soup = BeautifulSoup(text, "html.parser")
+    return text #soup.get_text(separator=" ", strip=True)
 
 
 # --- Helper: get token count ---
@@ -24,12 +26,12 @@ def analyze_job_descriptions(csv_file: str, model: str = "gpt-4o"):
     token_counts = []
 
     with open(csv_file, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        if "job_description" not in reader.fieldnames:
-            raise ValueError("CSV file must contain a 'job_description' column")
+        data = json.load(f)
+        jobs = data['jobs']
+       
 
-        for row in reader:
-            raw_text = row.get("job_description", "")
+        for job in jobs:
+            raw_text = job.get("description", "")
             clean_text = strip_html(raw_text)
             tokens = num_tokens_from_string(clean_text, model)
             token_counts.append(tokens)
@@ -53,7 +55,7 @@ def plot_distribution(token_counts):
 
 
 if __name__ == "__main__":
-    csv_file = "combined.csv"  # <-- change to your CSV path
+    csv_file = "/Users/aj/Downloads/DhikrUp/contractJobs/all_companies_job_details_last_15_days_20251003_175606.json"  # <-- change to your CSV path
     distribution, token_counts, total_tokens = analyze_job_descriptions(csv_file)
 
     print("Token count distribution (sample):")

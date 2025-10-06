@@ -12,19 +12,20 @@ from bs4 import BeautifulSoup
 import time
 
 
+
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 
 class SimplifiedJobScraper:
-    def __init__(self, base_url: str, headless: bool = True, slow_mo: int = 0, date_cutoff_days: int = 30):
+    def __init__(self, base_url: str, headless: bool = True, slow_mo: int = 0, date_cutoff_days: int = 15):
         self.base_url = base_url
         self.headless = headless
         self.slow_mo = slow_mo
         self.job_ids = []
         self.job_details = []
-        
+        self.maxT = 1759426896000
         # Date cutoff setup
         self.date_cutoff_days = date_cutoff_days
         self.cutoff_date = datetime.now() - timedelta(days=date_cutoff_days)
@@ -54,6 +55,7 @@ class SimplifiedJobScraper:
             
         return False
 
+
     async def setup_network_interception_for_ids(self, page):
         """Set up network interception to capture job IDs from listing pages"""
         
@@ -77,6 +79,8 @@ class SimplifiedJobScraper:
         
         page.on('response', handle_response)
         self._should_continue_pagination = True  # Initialize
+
+
 
     def extract_job_ids_from_response(self, data) -> bool:
         """Extract job IDs from the listing response and check date cutoff"""
@@ -198,6 +202,7 @@ class SimplifiedJobScraper:
         page.on('response', handle_response)
         return lambda: job_data
 
+
     def extract_job_details(self, data, url):
         """Extract only the required fields from job detail response"""
         try:
@@ -217,6 +222,7 @@ class SimplifiedJobScraper:
                     'end': {'end_dateStr': job_info.get('endDateStr','N/A'), 'end_date': job_info.get('endDate','N/A'),},
                     'salary': job_info.get('payRate','N/A'),
                     'remote': job_info.get('workingRemote','N/A'),
+                    'description': job_info.get('jobDescription','N/A'),
                     'recruiter': [job_info.get('primaryRecruiterName'), job_info.get('primaryRecruiterEmail'), job_info.get('primaryRecruiterPhone','N/A')],
                     'url':url,
                     'time_scraped': int(time.time() * 1000)
@@ -363,7 +369,7 @@ def run_company_scraper(company_data, date_cutoff_days=15):
     # Run the async function
     return asyncio.run(scrape_company())
 
-async def main_multithreaded(date_cutoff_days=30):
+async def main_multithreaded(date_cutoff_days=15):
     """Main function with multithreading for companies"""
     logger.info(f"Starting job scraping with {date_cutoff_days} day cutoff")
     
