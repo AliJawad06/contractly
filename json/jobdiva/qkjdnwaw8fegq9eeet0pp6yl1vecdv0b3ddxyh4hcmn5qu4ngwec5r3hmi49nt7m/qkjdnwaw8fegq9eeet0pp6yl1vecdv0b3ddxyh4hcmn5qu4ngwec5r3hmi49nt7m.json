@@ -20,12 +20,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><strong><span style=\"color:#333333;\"><span style=\"font-family:Roboto;\"><span style=\"font-size:26.0pt;\">Nurse Job Requisition</span></span></span></strong><br>",
     "recruiter": [
       "Cody Rivera",
       "cody.rivera@lerhealthcare.com",
       "5027779387"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=qkjdnwaw8fegq9eeet0pp6yl1vecdv0b3ddxyh4hcmn5qu4ngwec5r3hmi49nt7m&compid=0&SearchString=#/jobs/31252179",
+    "time_scraped": 1759526279813,
     "source_company": "qkjdnwaw8fegq9eeet0pp6yl1vecdv0b3ddxyh4hcmn5qu4ngwec5r3hmi49nt7m",
     "source_url": "https://www1.jobdiva.com/portal/?a=qkjdnwaw8fegq9eeet0pp6yl1vecdv0b3ddxyh4hcmn5qu4ngwec5r3hmi49nt7m&compid=0",
     "date_cutoff_days": 15
@@ -51,12 +53,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br>Update <br>",
     "recruiter": [
       "Cody Rivera",
       "cody.rivera@lerhealthcare.com",
       "5027779387"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=qkjdnwaw8fegq9eeet0pp6yl1vecdv0b3ddxyh4hcmn5qu4ngwec5r3hmi49nt7m&compid=0&SearchString=#/jobs/31252165",
+    "time_scraped": 1759526279945,
     "source_company": "qkjdnwaw8fegq9eeet0pp6yl1vecdv0b3ddxyh4hcmn5qu4ngwec5r3hmi49nt7m",
     "source_url": "https://www1.jobdiva.com/portal/?a=qkjdnwaw8fegq9eeet0pp6yl1vecdv0b3ddxyh4hcmn5qu4ngwec5r3hmi49nt7m&compid=0",
     "date_cutoff_days": 15

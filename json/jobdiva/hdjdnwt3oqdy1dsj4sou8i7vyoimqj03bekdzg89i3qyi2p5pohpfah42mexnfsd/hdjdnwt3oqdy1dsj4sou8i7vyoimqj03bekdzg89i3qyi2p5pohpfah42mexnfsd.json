@@ -1,14 +1,14 @@
 [
   {
-    "id": 26436292,
-    "title": "Sr Java - AWS Programmer Analyst (MicroPact entelli-trak platform) :: Richmond, VA (Remote/Hybrid)",
-    "location": "VA, Richmond",
+    "id": 26449363,
+    "title": "Systems Administrator - Workday HCM Digital Transformation Project :: REMOTE",
+    "location": "NC, Raleigh",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759342353000
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759520491000
     },
     "start": {
       "start_dateStr": null,
@@ -19,13 +19,246 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 80,
+    "remote": 100,
+    "description": "<br><h3>Systems Administrator - Workday HCM Digital Transformation Project</h3>\r\n\r\n<p>Duration: 12 Months | Location: REMOTE</p>\r\n\r\n<p>Join our team as a Systems Administrator for the HCM Digital Transformation Project. You will collaborate with key stakeholders to enhance and expand Workday capabilities across state agencies. Your role will involve strategic planning, process design, and implementation of new business processes.</p>\r\n\r\n<ul>\r\n\t<li>Strategize and plan for the expansion of Workday Onboarding/Offboarding capabilities.</li>\r\n\t<li>Document findings and recommend approach options for roadmap development.</li>\r\n\t<li>Design, develop, document, configure, test, and implement new Workday business processes.</li>\r\n\t<li>Partner with the Technical Lead for testing integration enhancements.</li>\r\n\t<li>Work closely with subject matter experts to develop new or changed business process designs.</li>\r\n\t<li>Assist the Workday Delivery Team with post go-live support and ongoing sustainment.</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n<br>",
+    "recruiter": [
+      "Satyam Mishra",
+      "Satyam@ARKSolutionsInc.com",
+      "(571) 895-1989"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26449363",
+    "time_scraped": 1759524566028,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26448691,
+    "title": "Database Administrator :: Tallahassee, FL",
+    "location": "FL, Tallahassee",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759515941000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Database Administrator</h3>\r\n\r\n<p>Location: Tallahassee, FL | Duration: 8 months | Onsite</p>\r\n\r\n<p><strong>Scope of Services:</strong></p>\r\n\r\n<p>The DBA team ensures that application and processing architectures, data dictionaries, and database schemas meet department standards. The candidate will assist in designing, developing, amending, and optimizing schemas to meet system requirements. Understanding and developing database and warehousing design across multiple platforms is crucial. The candidate will work as part of a team to develop a data architecture that supports departmental needs and meets security standards.</p>\r\n\r\n<p><strong>Primary Job Duties/Tasks:</strong></p>\r\n\r\n<ul>\r\n\t<li>Perform daily operational and database administration activities</li>\r\n\t<li>Plan, design, implement, and support database structures</li>\r\n\t<li>Conduct database performance monitoring and tuning</li>\r\n\t<li>Develop and maintain database administration procedures and documentation</li>\r\n\t<li>Perform SQL Code reviews</li>\r\n\t<li>Assist with training and mentoring other technical staff</li>\r\n\t<li>Perform other database or infrastructure activities as requested</li>\r\n</ul>\r\n\r\n<p><strong>Job Specific Knowledge, Skills, and Abilities (KSAs):</strong></p>\r\n\r\n<ul>\r\n\t<li>Advanced knowledge of DB2 for z/OS application integration and performance management</li>\r\n\t<li>Advanced knowledge of DB2 for z/OS upgrades and catalog maintenance</li>\r\n\t<li>Advanced knowledge of JCL and z/OS integrated platform</li>\r\n\t<li>In-depth knowledge of CA GEN, ISPF, ASG Scheduler, and COBOL</li>\r\n\t<li>Solid working knowledge of Oracle and MSSQL application integration</li>\r\n\t<li>Working knowledge of Windows Servers and Azure</li>\r\n</ul>\r\n\r\n<p><strong>Experience:</strong></p>\r\n\r\n<p>The candidate must have 15 years of combined experience in database administration for:</p>\r\n\r\n<ul>\r\n\t<li>DB2 for z/OS</li>\r\n\t<li>SQL Server 2008R2, 2012</li>\r\n\t<li>Oracle 10g and above</li>\r\n</ul>\r\n\r\n<p>Experience with Federal/State/Government/Transportation Department integrated database infrastructure is a plus.</p>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s Degree in Computer Science, Information Systems, or related field, or equivalent work experience.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Charanjeet Singh",
+      "Charan@arksolutionsinc.com",
+      "5718952406"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26448691",
+    "time_scraped": 1759524565970,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26448172,
+    "title": "Systems Administrator :: Tallahassee, FL (Onsite)",
+    "location": "FL, Tallahassee",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759513503000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Systems Administrator</h3>\r\n\r\n<p>Location: Tallahassee, FL</p>\r\n\r\n<p>Duration: 8 months, Onsite</p>\r\n\r\n<p>Join our team as a Systems Administrator, where you will play a crucial role in supporting our Strategic Architecture Services team. You will be responsible for maintaining and troubleshooting Power Platform and SharePoint servers and sites.</p>\r\n\r\n<h3>Scope of Services:</h3>\r\n\r\n<ul>\r\n\t<li>Monitor, maintain, and troubleshoot Power Platform applications and SharePoint environments.</li>\r\n\t<li>Establish system specifications by consulting with users and analyzing requirements.</li>\r\n\t<li>Upgrade SharePoint systems by working with vendors and installing enhancements.</li>\r\n\t<li>Provide user support and resolve issues related to Power Platform and SharePoint.</li>\r\n\t<li>Assist users with applications, workflows, and dashboards.</li>\r\n\t<li>Conduct regular site audits and ensure optimal performance.</li>\r\n\t<li>Generate reports on usage and ticket resolutions.</li>\r\n\t<li>Collaborate with end-users to recommend solutions and enhancements.</li>\r\n\t<li>Maintain documentation, including design documents and user guides.</li>\r\n\t<li>Conduct training sessions and create knowledge base articles.</li>\r\n\t<li>Ensure seamless integration with other enterprise systems.</li>\r\n\t<li>Protect confidential information and support organizational goals.</li>\r\n</ul>\r\n\r\n<h3>Education:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in Computer Science, Information Systems, or related field. Or equivalent work experience.</li>\r\n</ul>\r\n\r\n<h3>Experience:</h3>\r\n\r\n<ul>\r\n\t<li>Knowledge of SharePoint Online and/or On-Premises administration.</li>\r\n\t<li>Experience with Power Platform applications, including Power Apps, Power Automate, and Power BI.</li>\r\n\t<li>Familiarity with Microsoft products like Office 365, OneDrive, and Teams.</li>\r\n\t<li>Ability to troubleshoot and resolve system and application issues.</li>\r\n\t<li>Understanding of governance and compliance best practices.</li>\r\n\t<li>Analytical and problem-solving skills for technical issues.</li>\r\n\t<li>Basic network concepts and web-based application troubleshooting.</li>\r\n\t<li>Experience with IT service management platforms (e.g., ServiceNow).</li>\r\n\t<li>IIS Administration experience is a plus.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Charanjeet Singh",
+      "Charan@arksolutionsinc.com",
+      "5718952406"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26448172",
+    "time_scraped": 1759524565997,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26448131,
+    "title": "Organizational Change Management and Communications Leader :: REMOTE (Durham, NC)",
+    "location": "NC, Durham",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759513351000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<br><h3>Organizational Change Management and Communications Leader</h3>\r\n\r\n<p>Location: Durham, NC (REMOTE)</p>\r\n\r\n<p>Duration: 12 Months</p>\r\n\r\n<p>We are seeking a dynamic leader to spearhead organizational change management and communications for a transformative project. This role involves guiding hundreds of stakeholders through a transition to new business processes and technology. We need someone empathetic, creative, and collaborative, with strong technical expertise in organizational change management (OCM).</p>\r\n\r\n<p><strong>Key Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Apply structured change management methodologies to support project adoption.</li>\r\n\t<li>Lead hands-on communication efforts and craft project communications for diverse stakeholders.</li>\r\n\t<li>Facilitate and lead a cross-functional Stakeholder Advisory Forum.</li>\r\n\t<li>Conduct impact analyses and assess change readiness.</li>\r\n\t<li>Support the design and delivery of training and testing programs.</li>\r\n</ul>\r\n\r\n<p><strong>Additional Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Complete change management assessments and prepare risk mitigation tactics.</li>\r\n\t<li>Manage resistance and drive adoption in complex environments.</li>\r\n\t<li>Consult and coach project teams and senior leaders.</li>\r\n\t<li>Create actionable deliverables for change management plans.</li>\r\n\t<li>Integrate change management activities into the project plan.</li>\r\n\t<li>Track and report issues, and define and measure success metrics.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>5+ years of Organizational Change Management experience.</li>\r\n\t<li>10+ years of Communication experience in OCM.</li>\r\n\t<li>5+ years of Project Management experience.</li>\r\n\t<li>10+ years of strong written and verbal communication skills.</li>\r\n\t<li>10+ years of experience with training program design and end-user readiness assessment.</li>\r\n\t<li>10+ years of experience managing resistance and driving adoption in complex environments.</li>\r\n\t<li>10+ years of experience with process transformation initiatives.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Vaibhav Mishra",
+      "Vaibhav@arksolutionsinc.com",
+      "5718951990"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26448131",
+    "time_scraped": 1759524566012,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26446869,
+    "title": ".NET Full Stack Developer :: Dover, DE (Hybrid)",
+    "location": "DE, Dover",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759504624000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 40,
+    "description": "<br><h3>.NET Full Stack Developer</h3>\r\n\r\n<p>Dover, DE - 8 months - Hybrid</p>\r\n\r\n<p>Join our team as a .NET Full Stack Developer where you&#39;ll be responsible for maintaining and supporting existing systems, as well as developing new ones. A positive attitude and a team player mentality are essential, along with the ability to shift priorities quickly.</p>\r\n\r\n<p><strong>Must-Have Skills &amp; Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li>Languages: C#, JavaScript, HTML5, CSS3, SQL, XML/XSLT - 3+ years</li>\r\n\t<li>Tools &amp; Technologies: Visual Studio/VS Code, Web Application, SOAP Web Services, REST API, JSON, Git, SQL Server, Oracle DB, Microsoft Azure, SSRS - 3+ years</li>\r\n\t<li>Libraries &amp; Framework: .NET, .NET CORE - 3+ years</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Libraries &amp; Framework: ASP.NET Blazor (Optional), jQuery, Bootstrap, RabbitMQ (or other Messaging queue), React (Preferred), Angular (Preferred)</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n<br>",
+    "recruiter": [
+      "Shivam Aditya",
+      "Shivam@arksolutionsinc.com",
+      "2029843420"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26446869",
+    "time_scraped": 1759524565909,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26446827,
+    "title": "EHR Technical Support Analyst :: Richmond, VA (Hybrid)",
+    "location": "VA, Richmond",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759504360000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>EHR Technical Support Analyst</h3>\r\n\r\n<p>Location: Richmond, VA (Hybrid)</p>\r\n\r\n<p>Duration: 8+ months</p>\r\n\r\n<p>Join our team as a Technical Support Analyst, where you&#39;ll provide essential support for Electronic Health Record (EHR) systems. Your role will involve troubleshooting, configuration, and ensuring the smooth operation of EHR applications for end-users.</p>\r\n\r\n<ul>\r\n\t<li>Provide Tier 1 support to EHR end-users, focusing on clinical and patient accounting applications.</li>\r\n\t<li>Resolve issues promptly, determining when to escalate to Tier 2 support.</li>\r\n\t<li>Conduct pre- and post-go-live system health checks to ensure operational readiness.</li>\r\n\t<li>Monitor system performance and identify potential issues early.</li>\r\n\t<li>Coordinate with teams to ensure continuity of care and system performance.</li>\r\n\t<li>Maintain readiness checklists and dashboards for EHR leadership.</li>\r\n\t<li>Support issue escalation and problem diagnosis.</li>\r\n\t<li>Contribute to process improvements and future deployments.</li>\r\n\t<li>Prepare reports on system performance and user adoption.</li>\r\n\t<li>Ensure compliance with healthcare regulations like HIPAA.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>5+ years of Application Support Experience.</li>\r\n\t<li>3+ years of strong technical troubleshooting skills for hardware, software, and basic network issues.</li>\r\n\t<li>3+ years of experience supporting remote users.</li>\r\n\t<li>Ability to multitask efficiently in a dynamic environment.</li>\r\n\t<li>Demonstrated commitment to exceptional customer service.</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Shane Agarwal",
       "Shane@ARKSolutionsInc.com",
       "5715137907"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26436292",
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26446827",
+    "time_scraped": 1759524573049,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26446816,
+    "title": "Network Engineer :: Staunton, VA (Onsite)",
+    "location": "VA, Staunton",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759504294000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Network Engineer</h3>\r\n\r\n<p>Location: Staunton, VA</p>\r\n\r\n<p>Duration: 8+ months (Onsite)</p>\r\n\r\n<p>Join our team to independently and collaboratively achieve department service and support objectives for the Transportation Operations Center. We are looking for a skilled professional to respond to network support requests, design network extensions, and improve cybersecurity controls.</p>\r\n\r\n<ul>\r\n\t<li>Respond to Tier 1-3 network support requests.</li>\r\n\t<li>Communicate effectively with teammates and customers of varying levels of technical expertise.</li>\r\n\t<li>Respond to all break/fix requests associated with network resources.</li>\r\n\t<li>Design extensions of and connections to the campus network.</li>\r\n\t<li>Configure and deploy new/replacement network hardware and communications infrastructure.</li>\r\n\t<li>Maintain up-to-date project and architecture documentation.</li>\r\n\t<li>Maintain up-to-date inventory and maintenance records.</li>\r\n\t<li>Monitor network resources for faults and traffic anomalies.</li>\r\n\t<li>Resolve connection issues between users and resources.</li>\r\n\t<li>Maintain detailed change history of network changes.</li>\r\n\t<li>Support ITS Field Maintenance with communications implementation and troubleshooting.</li>\r\n\t<li>Support team efforts to improve cybersecurity controls and defenses.</li>\r\n\t<li>Support team efforts for threat hunting and mitigation.</li>\r\n\t<li>Manage time and resource constraints.</li>\r\n</ul>\r\n\r\n<p><strong>Must Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Cisco Routing and Switching: 5 Years</li>\r\n\t<li>VLAN Management: 5 Years</li>\r\n\t<li>Network Design: 5 Years</li>\r\n\t<li>Access Control Lists: 5 Years</li>\r\n\t<li>Subnetting: 5 Years</li>\r\n\t<li>Routing Protocols (BGP, OSPF, etc): 5 Years</li>\r\n\t<li>Authentication (Radius, TACACS, etc): 5 Years</li>\r\n\t<li>Cisco FMC/Firepower: 3 Years</li>\r\n\t<li>Network Monitoring: 3 Years</li>\r\n\t<li>DNS/DHCP: 3 Years</li>\r\n\t<li>Network Security: 3 Years</li>\r\n\t<li>VPN &amp; Remote Access Technologies: 3 Years</li>\r\n\t<li>Wireless Technologies: 2 Years (Desired)</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Shane Agarwal",
+      "Shane@ARKSolutionsInc.com",
+      "5715137907"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26446816",
+    "time_scraped": 1759524573070,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26440797,
+    "title": "Senior Security Operations Engineer - Richmond, VA (Onsite)",
+    "location": "VA, Richmond",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/2/2025",
+      "date_posted": 1759416143000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Senior Security Operations Engineer - Richmond, VA</h3>\r\n\r\n<p>Duration: 8+ months (Onsite)</p>\r\n\r\n<p>We are seeking an experienced professional to join our team as a Senior Security Operations Engineer. This role involves working with cutting-edge security infrastructure and contributing to our technology roadmap.</p>\r\n\r\n<h3>Key Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Design, implement, and support security infrastructure.</li>\r\n\t<li>Identify security risks and engineer solutions at an enterprise level.</li>\r\n\t<li>Collaborate with IT and vendors for secure network deployment.</li>\r\n\t<li>Maintain effective collaboration with the Office of Information Security and ITD groups.</li>\r\n\t<li>Create, document, and maintain system policies and procedures.</li>\r\n\t<li>Conduct network scans, penetration testing, and monitor threats.</li>\r\n\t<li>Evaluate vulnerability scans and coordinate remediation.</li>\r\n\t<li>Participate in Azure cloud solution reviews.</li>\r\n\t<li>Document daily security functions and coordinate incident resolution.</li>\r\n</ul>\r\n\r\n<h3>Must Have Skills and Experience:</h3>\r\n\r\n<ul>\r\n\t<li>7+ years in information systems security and security policy.</li>\r\n\t<li>Experience with web security gateways, network access control, endpoint security, and perimeter security technologies.</li>\r\n\t<li>Proficiency with firewalls, anti-virus, anti-malware, anti-phishing, and authentication systems.</li>\r\n\t<li>Experience with intrusion detection/prevention, log analysis, and web content filtering.</li>\r\n\t<li>Knowledge of network protocols and security/authentication protocols, especially TCP/IP.</li>\r\n\t<li>Ability to identify and manage security risks across the enterprise.</li>\r\n\t<li>Experience in protecting information assets and technology infrastructure.</li>\r\n\t<li>Proficiency in detecting, responding to, and remediating security incidents.</li>\r\n\t<li>Experience with System Security Plans (SSP) and Risk Assessment (RA).</li>\r\n\t<li>Experience in threat, vulnerability, and risk assessment.</li>\r\n\t<li>Knowledge of web technologies and penetration testing tools.</li>\r\n\t<li>CISSP certification is desired but not required.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Suraj Shukla",
+      "Suraj@arksolutionsinc.com",
+      "2029383891"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26440797",
+    "time_scraped": 1759524573022,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -51,12 +284,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><h3>Microsoft .NET Specialist</h3>\r\n\r\n<p>Location: Raleigh, NC</p>\r\n\r\n<p>Duration: 12 months (Onsite)</p>\r\n\r\n<p>We are seeking a Senior Developer/Specialist to enhance and support applications in Microsoft .NET Core and SQL Server, ensuring ADA compliance. This role involves senior-level system management, configuration, administration, and support for regulatory, website, and other applications. Candidates should excel under tight timelines and work effectively with business executives and IT personnel to refine and execute program requirements.</p>\r\n\r\n<p>Responsibilities include:</p>\r\n\r\n<ul>\r\n\t<li>Full-stack development using Microsoft .NET (Framework &amp; Core), C#, ASP.NET MVC, WebAPI, AngularJS/Angular, JavaScript, jQuery, Bootstrap</li>\r\n\t<li>Database design and development with Microsoft SQL Server 2019 and above, including stored procedures/SQL queries, database optimization, and relational data modeling</li>\r\n\t<li>Claims-based authentication, Azure Active Directory, SAML, and web service integration (SOAP, REST, HTTP, UDDI, WSDL)</li>\r\n\t<li>Developing and deploying reports using Microsoft SQL Server Reporting Services (SSRS)</li>\r\n\t<li>Understanding of HTML5, CSS3, XML, XSL, VBScript, AJAX</li>\r\n</ul>\r\n\r\n<p>Key duties include:</p>\r\n\r\n<ul>\r\n\t<li>Strategic and tactical planning with business partners, vendors, and management</li>\r\n\t<li>Project planning and estimating efforts</li>\r\n\t<li>Consultation and planning for application modifications and enhancements</li>\r\n\t<li>Monitoring technical efforts for schedule adherence and quality assurance</li>\r\n\t<li>Application/system assessment and performance monitoring</li>\r\n</ul>\r\n\r\n<p>Must-have skills and experience:</p>\r\n\r\n<ul>\r\n\t<li>7 years of experience with Microsoft .NET (Framework &amp; Core), DNN, C#, ASP.NET MVC, WebAPI, AngularJS/Angular, JavaScript, jQuery, Bootstrap</li>\r\n\t<li>7 years of experience with Microsoft SQL Server 2019 and above, including stored procedures/SQL queries, database optimization, and relational data modeling</li>\r\n\t<li>7 years of experience with HTML5, CSS3, XML, XSL, VBScript, AJAX</li>\r\n\t<li>7 years of experience in modifying and testing Microsoft .NET applications for ADA compliance</li>\r\n\t<li>7 years of experience with web service integration (SOAP, REST, HTTP, UDDI, WSDL)</li>\r\n\t<li>7 years of experience with SQL Server Reporting System</li>\r\n\t<li>Good communication skills and ability to maintain effective working relationships</li>\r\n\t<li>5 years of experience with Visual Developer Tools including XRMToolBox, Plugins, Ribbon Workbench, and REST Builder for API calls</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n<br>",
     "recruiter": [
       "Shane Agarwal",
       "Shane@ARKSolutionsInc.com",
       "5715137907"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26434816",
+    "time_scraped": 1759524573011,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -82,105 +317,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><h3>EHR Helpdesk Lead (2nd Shift) - Durham, NC</h3>\r\n\r\n<p>Duration: 9 months | Hybrid</p>\r\n\r\n<p>Working hours: 3 PM &ndash; 11:30 PM EST</p>\r\n\r\n<p>The EHR Helpdesk Shift Lead is responsible for providing expert-level support for Epic-related activities within the centralized IT Helpdesk. This role involves troubleshooting, guiding support staff, and ensuring effective coverage during the assigned shift. The Shift Lead ensures incident resolution and alignment of support activities with clinical and business objectives across 13 state-operated healthcare facilities.</p>\r\n\r\n<ul>\r\n\t<li>Serve as the highest escalation point for complex Epic-related incidents and service requests.</li>\r\n\t<li>Provide expert-level support for Epic applications, including issue triage and resolution.</li>\r\n\t<li>Lead and mentor support staff, offering guidance and performance oversight.</li>\r\n\t<li>Monitor and prioritize ServiceNow ticket queues to meet service level agreements (SLAs).</li>\r\n\t<li>Coordinate with clinical informatics and application teams to address cross-functional issues.</li>\r\n\t<li>Oversee helpdesk operations during shifts, including workload distribution and escalation handling.</li>\r\n\t<li>Assist in planning and supporting Epic go-lives and system upgrades.</li>\r\n\t<li>Develop and maintain technical documentation and knowledge base content.</li>\r\n\t<li>Report critical incidents and risks to leadership.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in Information Technology, Health Informatics, or related field, or equivalent experience.</li>\r\n\t<li>Minimum of 3 years supporting Epic and healthcare applications.</li>\r\n\t<li>Proficiency with ServiceNow.</li>\r\n\t<li>Experience supervising or mentoring helpdesk teams in a healthcare setting.</li>\r\n\t<li>Strong understanding of clinical workflows and healthcare operations.</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Vaibhav Mishra",
       "Vaibhav@arksolutionsinc.com",
       "5718951990"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26434798",
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26434790,
-    "title": "EHR Helpdesk Analyst (2nd Shift) - Durham, NC (Remote/Hybrid)",
-    "location": "NC, Durham",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759335147000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 90,
-    "recruiter": [
-      "Vaibhav Mishra",
-      "Vaibhav@arksolutionsinc.com",
-      "5718951990"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26434790",
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26434553,
-    "title": "Senior Agile Scrum/Flow Master :: Durham, NC (Hybrid)",
-    "location": "NC, Durham",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759333406000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Vaibhav Mishra",
-      "Vaibhav@arksolutionsinc.com",
-      "5718951990"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26434553",
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26434541,
-    "title": "Network/Telecom Specialist :: Raleigh, NC (Onsite)",
-    "location": "NC, Raleigh",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759333342000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Vaibhav Mishra",
-      "Vaibhav@arksolutionsinc.com",
-      "5718951990"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26434541",
+    "time_scraped": 1759524573096,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -206,12 +350,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><h3>System Analyst/Rhapsody Integration Engineer&nbsp;- Richmond, VA (Hybrid)</h3>\r\n\r\n<p>Duration: 8+ months</p>\r\n\r\n<p>Join our team as a System Analyst (Rhapsody Integration Engineer) to develop and maintain multiple Rhapsody solutions within the Department.</p>\r\n\r\n<ul>\r\n\t<li>Develop, maintain, and enhance Rhapsody solutions</li>\r\n\t<li>Expertise in HL7, FHIR, eICR, Javascript</li>\r\n\t<li>Good SQL development skills</li>\r\n</ul>\r\n\r\n<p>Must-Have Skills:</p>\r\n\r\n<ul>\r\n\t<li>3 years of Rhapsody development experience</li>\r\n\t<li>3 years of HL7, eICR, and JavaScript experience</li>\r\n\t<li>2 years of FHIR experience</li>\r\n\t<li>3 years of SQL development</li>\r\n\t<li>1 year of experience with transport protocols: Webservices, SFTP, TCPIP, HTTPS</li>\r\n\t<li>Very good communication and documentation skills</li>\r\n</ul>\r\n\r\n<p>Required Skills:</p>\r\n\r\n<ul>\r\n\t<li>3 years of HL7 interface experience in Rhapsody</li>\r\n\t<li>2 years of experience with EHR &ndash; Cerner Millennium preferred</li>\r\n\t<li>Working knowledge of TCP/IP, HTTPs, Webservices, Microsoft OS, and security protocols</li>\r\n\t<li>Experience with SQL Server, XML, and interface engines</li>\r\n\t<li>Solid understanding of healthcare interoperability standards such as HL7, FHIR, and X12</li>\r\n\t<li>Proven ability to perform data mapping, transformation, and validation across disparate systems</li>\r\n\t<li>Familiarity with secure data exchange protocols (e.g., VPN, SFTP, HTTPS) and regulatory compliance frameworks including HIPAA and HITECH</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Suraj Shukla",
       "Suraj@arksolutionsinc.com",
       "2029383891"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26432702",
+    "time_scraped": 1759524579671,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -237,12 +383,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><h3>Solutions Architect - Richmond, VA</h3>\r\n\r\n<p>Contract Duration: 8 months</p>\r\n\r\n<p>Hybrid/Remote</p>\r\n\r\n<p><strong>Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Create overall application and solution architectures, component designs, and systems integration for business solutions.</li>\r\n\t<li>Lead efforts in defining, documenting, and estimating enterprise applications.</li>\r\n\t<li>Capture requirements for data, workflow, logical processes, and system inputs and outputs.</li>\r\n\t<li>Collaborate with IT staff to assess business needs and translate them into automated solutions.</li>\r\n\t<li>Produce relevant solution design artifacts, including technical estimates and system designs.</li>\r\n\t<li>Coordinate new system development to ensure integration with existing systems and COTS solutions.</li>\r\n\t<li>Consult with clients to prototype, architect, and design applications.</li>\r\n\t<li>Collaborate with business areas and Enterprise Architects to understand business needs.</li>\r\n\t<li>Partner with architects and technical team members to develop roadmaps and strategies.</li>\r\n\t<li>Design and implement Enterprise Security/technology Patterns.</li>\r\n\t<li>Provide tactical direction and architecture considerations on legacy solutions.</li>\r\n</ul>\r\n\r\n<p><strong>Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with SAFe architecture and Agile/Scrum teams.</li>\r\n\t<li>Proven experience in developing enterprise and solution-level architectural designs.</li>\r\n\t<li>Experience in linking cross-functional applications between disparate business units.</li>\r\n\t<li>Knowledge of relational database design and management techniques.</li>\r\n\t<li>Strong project management skills and exposure to project-based work structures.</li>\r\n\t<li>Competency with XML constructs and schemas.</li>\r\n\t<li>Confidence and experience with API protocols like SOAP and REST.</li>\r\n\t<li>Strong understanding of end-user needs and requirements.</li>\r\n\t<li>Excellent communication and documentation skills.</li>\r\n</ul>\r\n\r\n<p><strong>Must Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>8+ years in enterprise-level application design and integration.</li>\r\n\t<li>8+ years in Azure (cloud-native and hybrid architecture).</li>\r\n\t<li>5+ years with Docker and Azure cloud services (AKS, Azure functions, Azure Container Service, Azure App services, Azure API Management).</li>\r\n\t<li>2+ years with Azure Data Factory and Azure Data Lake.</li>\r\n\t<li>8+ years in SaaS architecture.</li>\r\n\t<li>8+ years with integration architecture and Agile/Scrum teams.</li>\r\n\t<li>8+ years with architecture engagement in Agile methodologies (SAFe and Scrum).</li>\r\n\t<li>2+ years with Microsoft Power Platform (Power Apps, Power Automate, Dataverse) and Dynamics365.</li>\r\n\t<li>2+ years with Esri ArcGIS (desired).</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Shane Agarwal",
       "Shane@ARKSolutionsInc.com",
       "5715137907"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26432696",
+    "time_scraped": 1759524579713,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -268,12 +416,14 @@
     },
     "salary": null,
     "remote": 60,
+    "description": "<br><h3>Trainer cum User Support Specialist</h3>\r\n\r\n<p>Columbia, SC (Hybrid)</p>\r\n\r\n<p>20+ Months Contract</p>\r\n\r\n<p><strong>Education:</strong> Undergrad degree preferred</p>\r\n\r\n<p><strong>Day-to-day Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Performing help desk functions</li>\r\n\t<li>Training end users</li>\r\n\t<li>Developing training materials</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience teaching and training users on computer applications</li>\r\n\t<li>Developing training course materials</li>\r\n\t<li>Experience with litigation support and eDiscovery</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Relativity</li>\r\n\t<li>Microsoft Office Suite</li>\r\n</ul>\r\n\r\n<p><strong>Expected Deliverables:</strong></p>\r\n\r\n<ul>\r\n\t<li>Help desk related completed tickets</li>\r\n\t<li>Training materials (PPT decks, how-to articles, curriculum)</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Suraj Shukla",
       "Suraj@arksolutionsinc.com",
       "2029383891"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26429602",
+    "time_scraped": 1759524579713,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -299,12 +449,14 @@
     },
     "salary": null,
     "remote": 90,
+    "description": "<br><h3>Artificial Intelligence Developer/Machine Learning (ML) Vision Engineer</h3>\r\n\r\n<p>Location: Middletown, PA (Remote/Hybrid)</p>\r\n\r\n<p>Duration: 8 months</p>\r\n\r\n<p>We are seeking a skilled Machine Learning (ML) Vision Engineer to join our team. This role focuses on developing and optimizing computer vision components for our Optical Character Recognition (OCR) project, which facilitates real-time, large-scale image-based transaction processing.</p>\r\n\r\n<h3>Key Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Design and implement ML-based computer vision components, including object detection and image classification models.</li>\r\n\t<li>Develop OCR pipelines integrating third-party and in-house engines.</li>\r\n\t<li>Create image quality assessment classifiers.</li>\r\n\t<li>Write production-ready Python code with strong Object-Oriented Design principles.</li>\r\n\t<li>Collaborate with system architects for seamless integration of ML components.</li>\r\n\t<li>Optimize model performance for real-time transaction workflows.</li>\r\n\t<li>Engage in system-level design discussions for scalability and maintainability.</li>\r\n\t<li>Work with database, API, and DevOps teams to ensure smooth deployment.</li>\r\n\t<li>Document all work, including technical designs, test plans, and best practices.</li>\r\n\t<li>Lead and participate in project team activities and work independently on assigned tasks.</li>\r\n</ul>\r\n\r\n<h3>Must-Have Skills and Experience:</h3>\r\n\r\n<ul>\r\n\t<li>Strong professional experience with Python.</li>\r\n\t<li>Solid background in software engineering: OOP, design patterns, and clean code.</li>\r\n\t<li>Experience with image processing and computer vision frameworks (e.g., OpenCV, Pillow).</li>\r\n\t<li>Hands-on experience with ML frameworks (e.g., PyTorch, TensorFlow).</li>\r\n\t<li>OCR-related experience (e.g., Tesseract, PaddleOCR, EasyOCR).</li>\r\n\t<li>Familiarity with object detection frameworks (e.g., YOLO, Faster R-CNN).</li>\r\n\t<li>Proficient in Microsoft Office 365 suite and Microsoft ADO Testing Module.</li>\r\n\t<li>Bachelor&#39;s degree in business management or information systems, or equivalent experience.</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Vikrant Sharma",
       "Vikrant@arksolutionsinc.com",
       "5718951907"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26419026",
+    "time_scraped": 1759524579848,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -330,12 +482,14 @@
     },
     "salary": null,
     "remote": 100,
+    "description": "<br><h3>Project Execution Specialist II - Atlanta, GA (Remote)</h3>\r\n\r\n<p>Duration: 10 months<br />\r\n<br />\r\n<strong>Day-to-Day Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Advise on optimizing compliance monitoring tools and processes</li>\r\n\t<li>Provide technical assistance on fund forecasting and resource distribution</li>\r\n\t<li>Assist in designing and strengthening internal control processes</li>\r\n\t<li>Guide audit preparation, including documentation and controls</li>\r\n\t<li>Review program requirements and recommend process improvements</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with CDC-specific audit and compliance processes</li>\r\n\t<li>Understanding of Department of State audit and reporting requirements</li>\r\n\t<li>Experience with CDC financial systems (RMS)</li>\r\n\t<li>Program planning and projections for CDC cooperative agreements</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>10 years managing budgets or cooperative agreements at CDC</li>\r\n\t<li>Financial reporting for PEPFAR program implementers</li>\r\n</ul>\r\n\r\n<p><strong>Expected Deliverables:</strong></p>\r\n\r\n<ul>\r\n\t<li>SOPs for CAN reconciliation, fiscal planning, program oversight, audit preparation, and compliance monitoring</li>\r\n</ul>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Suraj Shukla",
       "Suraj@arksolutionsinc.com",
       "2029383891"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26414889",
+    "time_scraped": 1759524579614,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -361,12 +515,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><h3>Sr. Systems Administrator</h3>\r\n\r\n<p>Location: Ocoee, FL &amp; Pompano Beach, FL</p>\r\n\r\n<p>Duration: 8+ months (Onsite)</p>\r\n\r\n<p><strong>Position Summary:</strong></p>\r\n\r\n<p>Responsible for the daily operations support and maintenance of server and storage systems. Skilled in managing virtual servers and ensuring system integrity through proactive monitoring and updates.</p>\r\n\r\n<p><strong>Duties and Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Participate in team projects and meetings.</li>\r\n\t<li>Plan and implement server and storage system requirements.</li>\r\n\t<li>Perform capacity and resource planning.</li>\r\n\t<li>Research and implement software service rollouts.</li>\r\n\t<li>Manage users and groups in a multi-domain environment.</li>\r\n\t<li>Configure DNS, DHCP, and Certificates.</li>\r\n\t<li>Ensure compliance with PCI and technology standards.</li>\r\n\t<li>Document technology solutions and server configurations.</li>\r\n\t<li>Mentor junior staff in systems administration.</li>\r\n\t<li>Travel to remote locations for support as needed.</li>\r\n\t<li>Participate in on-call rotation and work outside normal hours.</li>\r\n\t<li>Ability to lift up to 50 pounds.</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Group Policy Management</li>\r\n\t<li>Hardware utilization forecasting</li>\r\n\t<li>Excellent communication skills</li>\r\n\t<li>Compliance and auditing</li>\r\n\t<li>Server virtualization</li>\r\n\t<li>Backup and recovery</li>\r\n\t<li>Understanding of Basic Networking</li>\r\n\t<li>Time management and organizational skills</li>\r\n\t<li>PowerShell scripting</li>\r\n\t<li>Experience with cloud platforms like AWS, Azure, or Google Cloud</li>\r\n</ul>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s Degree or Technical Institute Degree/Certificate in Information Systems or related fields or equivalent work experience.</li>\r\n</ul>\r\n\r\n<p><strong>Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li>At least 7 years of IT work experience in infrastructure/server environments.</li>\r\n\t<li>At least 3 years of enterprise experience.</li>\r\n\t<li>Experience with vSphere is highly desired.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Certifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Azure Fundamentals</li>\r\n\t<li>Microsoft Certified Solutions Expert (MCSE)</li>\r\n\t<li>Security certifications such as CISSP, CISM, or CompTIA Security</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Charanjeet Singh",
       "Charan@arksolutionsinc.com",
       "5718952406"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26407884",
+    "time_scraped": 1759524586426,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -392,12 +548,14 @@
     },
     "salary": null,
     "remote": 100,
+    "description": "<br><h3>Senior Salesforce AI Engineer</h3>\r\n\r\n<p>Location: Remote | Duration: 6+ Months</p>\r\n\r\n<p>We are looking for a Senior Salesforce AI Engineer to lead the development of exciting new Salesforce AI initiatives. Join us to drive innovation and deliver impactful solutions!</p>\r\n\r\n<h3>Key Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Act as a technical architect and hands-on Salesforce engineer, leveraging AI expertise.</li>\r\n\t<li>Deliver secure, scalable, and high-performance technical solutions.</li>\r\n\t<li>Lead Salesforce development, ensuring best practices and quality standards.</li>\r\n\t<li>Collaborate effectively within a team environment.</li>\r\n\t<li>Make informed decisions on architectural design and provide consultation.</li>\r\n\t<li>Coordinate with teams for deployment and production support.</li>\r\n\t<li>Work with business analysts and product managers to translate requirements into solutions.</li>\r\n</ul>\r\n\r\n<h3>Must-Have Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in computer science or equivalent experience.</li>\r\n\t<li>6 years of experience with Salesforce development and AI solutions.</li>\r\n\t<li>3-5 years of experience with web services.</li>\r\n\t<li>1-2 years of experience with the Lightning framework (Aura, LWC).</li>\r\n\t<li>Expertise in Java and Apex programming languages.</li>\r\n\t<li>Proficiency in web technologies like JavaScript, CSS, HTML5, XML, JSON, and/or Ajax.</li>\r\n\t<li>Experience integrating Salesforce with other applications using APIs.</li>\r\n\t<li>Strong understanding of Agile and SCRUM methodologies.</li>\r\n</ul>\r\n\r\n<h3>Preferred Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>Salesforce developer/architect/admin certifications, including Salesforce Einstein certifications.</li>\r\n\t<li>Experience in AI application development.</li>\r\n\t<li>Leadership experience in a sourced environment.</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Satyam Mishra",
       "Satyam@ARKSolutionsInc.com",
       "(571) 895-1989"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26407339",
+    "time_scraped": 1759524586383,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -423,43 +581,14 @@
     },
     "salary": null,
     "remote": 40,
+    "description": "<br><h3>Senior Software Engineer - Salesforce Service Cloud</h3>\r\n\r\n<p><strong>Location:</strong> Bethesda, MD (Hybrid)</p>\r\n\r\n<p><strong>Duration:</strong> 12 Months</p>\r\n\r\n<p>We are looking for a Senior Service Cloud Engineer to lead ongoing support for both new and existing Salesforce Service and Sales Cloud platforms. The ideal candidate will be an experienced engineer with a proven track record of implementing Salesforce Service Cloud and integrating them into large enterprise solutions. This role requires strong communication skills, a positive attitude, and the ability to thrive in a highly matrixed environment.</p>\r\n\r\n<ul>\r\n\t<li>Leverage Salesforce Service expertise to act as technical architect and hands-on Salesforce engineer</li>\r\n\t<li>Deliver technical solutions with a focus on security, authentication, scalability, and performance</li>\r\n\t<li>Work independently or as part of a team</li>\r\n\t<li>Serve as lead Salesforce developer, ensuring adherence to best practices and quality standards</li>\r\n\t<li>Strong communication and collaboration skills</li>\r\n\t<li>Ability to work in an Enterprise Agile/Transitioning development environment</li>\r\n\t<li>Review and approve design documents, code reviews, test plans, and deployment plans</li>\r\n\t<li>Collaborate with business analysts and product managers to understand requirements and translate them into solutions</li>\r\n</ul>\r\n\r\n<p><strong>Education and Experience Required:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in computer science or equivalent experience</li>\r\n\t<li>6 years of experience with Salesforce administration and development</li>\r\n\t<li>3-5 years of experience with consuming web services</li>\r\n\t<li>1-2 years of experience with Lightning framework (Aura, LWC)</li>\r\n\t<li>Strong understanding of lightning flows and trigger framework</li>\r\n</ul>\r\n\r\n<p><strong>Technical Requirements:</strong></p>\r\n\r\n<ul>\r\n\t<li>Expertise in programming languages like Java and Apex</li>\r\n\t<li>Solid understanding of web technologies such as JavaScript, CSS, HTML5, XML, JSON, and Ajax</li>\r\n\t<li>Proficiency in integrating Salesforce with other applications using Connected Apps and APIs</li>\r\n\t<li>Strong understanding of SDLC methodologies (Agile, SCRUM, etc.)</li>\r\n</ul>\r\n\r\n<p><strong>Other Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>An unbridled curiosity and interest in problem-solving and iterative development</li>\r\n\t<li>Salesforce developer/architect/admin certifications are a plus</li>\r\n\t<li>Experience in the development of hotel property applications</li>\r\n\t<li>Leadership experience in a sourced environment</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Satyam Mishra",
       "Satyam@ARKSolutionsInc.com",
       "(571) 895-1989"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26407244",
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26406756,
-    "title": "Sr. Genesys Developer :: Lansing, MI (Hybrid)",
-    "location": "MI, Lansing",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758908666000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 60,
-    "recruiter": [
-      "Shivam Aditya",
-      "Shivam@arksolutionsinc.com",
-      "2029843420"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26406756",
+    "time_scraped": 1759524586313,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -485,43 +614,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><h3>Project Manager</h3>\r\n\r\n<p>Location: Tallahassee, FL</p>\r\n\r\n<p>Duration: 8 months (Onsite)</p>\r\n\r\n<p>We are seeking a dynamic and experienced Project Manager with strong communication and organizational skills. The ideal candidate will work independently, managing multiple large projects concurrently, and possess a solid understanding of project management methodologies and tools.</p>\r\n\r\n<h3>Scope of Services:</h3>\r\n\r\n<ul>\r\n\t<li>Manage and update project status tracking.</li>\r\n\t<li>Complete project status reporting as required.</li>\r\n\t<li>Comply with reporting and documentation requirements.</li>\r\n\t<li>Update schedule status, produce reports, and track variances.</li>\r\n\t<li>Analyze schedules and review critical paths.</li>\r\n\t<li>Collaborate with the Project Team and vendors to resolve conflicts.</li>\r\n\t<li>Prepare and maintain cost estimates and budgets.</li>\r\n\t<li>Perform legislative budget requests duties.</li>\r\n</ul>\r\n\r\n<h3>Job Specific Knowledge, Skills, and Abilities (KSAs):</h3>\r\n\r\n<ul>\r\n\t<li>Extensive knowledge of PMBOK principles and practices.</li>\r\n\t<li>Experience with risk assessment and mitigation.</li>\r\n\t<li>Ability to manage projects and resources effectively.</li>\r\n\t<li>Strong analytical and documentation skills.</li>\r\n\t<li>Proficiency in Microsoft Word, Excel, PowerPoint, Visio, and Project.</li>\r\n</ul>\r\n\r\n<h3>Experience:</h3>\r\n\r\n<ul>\r\n\t<li>Six years of professional experience in Information Systems, Business Administration, or Communications.</li>\r\n\t<li>Experience in compiling legislative budget requests is highly desired.</li>\r\n\t<li>Knowledge of Program management and Construction scheduling processes is highly desired.</li>\r\n</ul>\r\n\r\n<h3>Education:</h3>\r\n\r\n<ul>\r\n\t<li>Degree in Computer Science, Information Systems, Business Administration, Communication, or related field.</li>\r\n\t<li>Certified Project Management Professional (PMP) with the Project Management Institute (PMI) is required.</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Charanjeet Singh",
       "Charan@arksolutionsinc.com",
       "5718952406"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26401227",
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26395245,
-    "title": "Business Analyst :: Tallahassee, FL (Onsite)",
-    "location": "FL, Tallahassee",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758743425000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Charanjeet Singh",
-      "Charan@arksolutionsinc.com",
-      "5718952406"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26395245",
+    "time_scraped": 1759524586331,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
@@ -547,12 +647,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><h3>Product Owner - Alexandria, VA (Onsite)</h3>\r\n\r\n<p>Duration: 6 months</p>\r\n\r\n<h3>About the Role:</h3>\r\n\r\n<p>Join our dynamic IT Department as a Product Owner supporting the Reporting &amp; Analytics function. This role is pivotal in keeping projects on track by managing timelines, overseeing work in ClickUp, and enhancing agile practices. You&#39;ll facilitate process improvements to boost efficiency and outcomes.</p>\r\n\r\n<h3>Must-Have Skills:</h3>\r\n\r\n<ul>\r\n\t<li>Experience with agile project management and leading standups, planning sessions, retrospectives, and backlog refinement.</li>\r\n\t<li>Proficiency in using ClickUp (preferred) or similar platforms like Jira, Asana, or Trello for task management and reporting.</li>\r\n\t<li>Understanding of the end-to-end reporting process, from requirements gathering to delivery.</li>\r\n\t<li>Strong organizational skills with a methodical, timeline-driven approach.</li>\r\n\t<li>Proactive, solutions-oriented mindset with the ability to drive improvements.</li>\r\n\t<li>Capability to review processes, facilitate meetings, co-create workflows, and document them for consistency.</li>\r\n\t<li>Excellent communication skills to bridge technical and non-technical audiences.</li>\r\n\t<li>Willingness to learn new tools and processes in a fast-paced environment.</li>\r\n</ul>\r\n\r\n<h3>Preferred Skills:</h3>\r\n\r\n<ul>\r\n\t<li>Familiarity with business intelligence tools like Tableau or Power BI.</li>\r\n\t<li>Experience in K&ndash;12 education, public sector, or compliance-driven reporting environments.</li>\r\n\t<li>Exposure to data governance or quality assurance practices.</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Charanjeet Singh",
       "Charan@arksolutionsinc.com",
       "5718952406"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26370012",
+    "time_scraped": 1759524586383,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15

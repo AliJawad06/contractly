@@ -1,5 +1,71 @@
 [
   {
+    "id": 31267342,
+    "title": "Physical Therapist",
+    "location": "NY, Brooklyn",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759508417000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": "$45-$50",
+    "remote": 0,
+    "description": "<br><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">1 day a week&nbsp;<br />\r\n8a - 4p or 8:30 - 5p<br />\r\nUnpaid lunch meal<br />\r\nNo holiday, overtime or work travel required.<br />\r\nFree Parking Provided<br />\r\n<br />\r\nAssess patients for physical therapy needs. Work with patients across the inpatient units. Issues worked on mobility, pain, and deconditioning. Provide treatment to help improve patient physical function. Work on development and implementation of treatment plans.<br />\r\n<br />\r\nNYS active license required</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Salary commensurate with scope of work job experience<br />\r\nProper footwear required to perform tasks in a safe manner.</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Perform other reasonably related duties as required.<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">New Wave People is an Equal Opportunity Employer (EEO).</span></strong></span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">#HCIND123</span></span></strong><br />\r\n<br />\r\n&nbsp;<br>",
+    "recruiter": [
+      "Patrick Maher",
+      "pwm@nwpusa.com",
+      "7328511224"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31267342",
+    "time_scraped": 1759526811297,
+    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
+    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31266809,
+    "title": "Occupational Therapists",
+    "location": "NY, Brooklyn",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759504723000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": "$45-$50",
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">One Day per week<br />\r\n8a - 4 or 8:30 - 5<br />\r\nUnpaid meal break<br />\r\nNo travel ot or work on a holiday<br />\r\nFree Parking Provided<br />\r\n<br />\r\nAssess Inpatients Sensory needs. Teach Patients Adaptive Techniques. Will Participate in Development and Implementation of Treatment Plans around Occupational Therapy Needs.<br />\r\nAlso may </span></span>Assist occupational therapists in providing occupational therapy treatments and procedures. May, in accordance with State laws, carry out routine functions, direct activity programs, and document the progress of treatments<br />\r\nNYS active license required.<br />\r\n<br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Salary commensurate with scope of work job experience<br />\r\nProper footwear required to perform tasks in a safe manner.</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Perform other reasonably related duties as required.<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">New Wave People is an Equal Opportunity Employer (EEO).</span></strong></span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">#HCIND123</span></span></strong><br />\r\n&nbsp;</div>\r\n<br>",
+    "recruiter": [
+      "Patrick Maher",
+      "pwm@nwpusa.com",
+      "7328511224"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31266809",
+    "time_scraped": 1759526811347,
+    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
+    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
     "id": 31252615,
     "title": "Registered Nurse",
     "location": "NY, Cape Vincent",
@@ -20,12 +86,14 @@
     },
     "salary": "$45-$50",
     "remote": 0,
+    "description": "<br><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">Registered Nurse<br />\r\n<br />\r\nThe shifts are miscellaneous, mostly evenings with some potential midnight coverage. Each nurse may be required to work up to 2-weekends per month and holidays. The shifts are full time, but the facility will consider part time availability. Travel is not required. Free parking provided<br />\r\n<br />\r\nDiagnose and treat a patient&#39;s health problems. Perform health assessments to identify new symptoms of possibly undiagnosed conditions or complications. Administer medication. Manage and deliver restorative or palliative care to the ill, disabled and dying. Teach and counsel patients about maintenance of health and prevention of illness or complications. Contribute as a member of an interdisciplinary health care team and as a consultant on health related committees to plan and implement the health care needs of consumers. Execute medical regimens as prescribed by licensed physicians, dentists, nurse practitioners, physician assistants, and podiatrists, and dentists. Includes advance practice nurses such as: clinical nurse specialists, certified nurse midwives, and certified registered nurse anesthetists. Advanced practice nursing is practiced by RNs who have specialized formal, post-basic education and who function in highly autonomous and specialized roles. Registered nurses must be licensed in New York State and have a minimum of one year work experience post-licensure.<br />\r\nCandidate will need to do EKG&#39;s and blood draws, as well as have strong assessment skills.</span></span><br />\r\n<br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Salary commensurate with scope of work job experience<br />\r\nProper footwear required to perform tasks in a safe manner.</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Perform other reasonably related duties as required.<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">New Wave People is an Equal Opportunity Employer (EEO).</span></strong></span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">#HCIND123</span></span></strong><br />\r\n<br />\r\n<br />\r\n&nbsp;<br>",
     "recruiter": [
       "Connor Maher",
       "cem@nwpusa.com",
       "7328511215"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31252615",
+    "time_scraped": 1759526811341,
     "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
     "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
     "date_cutoff_days": 15
@@ -39,7 +107,7 @@
     },
     "posted": {
       "date_postedStr": "10/1/2025",
-      "date_posted": 1759337223000
+      "date_posted": 1759332240000
     },
     "start": {
       "start_dateStr": null,
@@ -49,14 +117,16 @@
       "end_dateStr": null,
       "end_date": null
     },
-    "salary": null,
+    "salary": "$45-$50",
     "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">Shift/Hours: Day Shift 6a-2:30p<br />\r\nTues&nbsp;- Sat&nbsp;(includes 30-minutes meal break) </span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">No Overtime or travel required<br />\r\nFree Parking Provided&nbsp;</span></span><br />\r\n&nbsp;<br />\r\n<span style=\"font-family: verdana\"><span style=\"font-size: 12px\">To provide nursing interventions and medication administration consistent with the established systematic problem-solving approach for the delivery of comprehensive nursing care, which are compliant with the regulatory standards in a juvenile correctional setting.The dress code is business casual or scrubs. Currently, there are no vaccine requirements. Supervision staff will be present when the employee is providing nursing care to youth.<br />\r\n<br />\r\nJob duties:<br />\r\nJob duties include, but may not be limited to: maintaining general medical inventory (including controlled substances); conducting medication administration; reviewing the overall health conditions of youth (i.e. preparing, reviewing and evaluating nursing intervention plans); ensuring that interventions are consistent with comprehensive treatment plans; participating in staff trainings; preparing required clinical and administrative reports; maintain infection control standards; and, serve as a member of the facility&#39;s medical treatment team. Additional duties to be discussed in detail during the interview.<br />\r\n<br />\r\nQualifications:<br />\r\nLicensed and registered to practice nursing in New York State.<br />\r\nBLS required</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Salary commensurate with scope of work job experience<br />\r\nProper footwear required to perform tasks in a safe manner.</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Perform other reasonably related duties as required.<br />\r\n<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">New Wave People is an Equal Opportunity Employer (EEO).</span></strong></span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">#HCIND123</span></span></strong></div>\r\n<br>",
     "recruiter": [
       "Connor Maher",
       "cem@nwpusa.com",
       "7328511215"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31246635",
+    "time_scraped": 1759526811349,
     "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
     "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
     "date_cutoff_days": 15
@@ -82,43 +152,14 @@
     },
     "salary": "$30-$33",
     "remote": 0,
+    "description": "<br><div><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">M-F 9a - 5p&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />\r\nUnpaid Lunch Break<br />\r\nHybrid Available&nbsp;</span></span><br />\r\n-Currently onsite Tuesday and Wednesday<br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">No Holiday work, Overtime or travel required<br />\r\nNo Parking Provided for a fee</span></span><br />\r\n&nbsp;<br />\r\n<span style=\"font-family: verdana\"><span style=\"font-size: 12px\">1. AR/Billing &amp; Accounting Operations Analyst &ndash; 1 position<br />\r\n<br />\r\nJob description<br />\r\n&bull; In search of a business professional with an undergraduate degree in accounting or an individual with 2 years of experience in accounting as described below.<br />\r\n&bull; Assist Financial Analysts within the Accounting Operations team of the University Controllers office.<br />\r\n&bull; Specific duties will include helping with year-end audit schedules.<br />\r\n&bull; Prepare general ledger journal entries and credit card reclassification entries and related analysis.<br />\r\n&bull; Assist with the preparation of expense account reconciliations.<br />\r\n&bull; Assist with the fringe calculations and other analysis as needed to complete the department&#39;s deliverables.<br />\r\n&bull; Research historical balances using information readily available, discussions with other departments or campus accountants.<br />\r\n&bull; Assist with documenting new or existing business processes being used by the department.<br />\r\n&bull; Process information and data received within CUNY to prepare for transition to new ERP system, which may include validating data, reviewing data requests from an accounting perspective for completeness and reasonableness, and escalating matters to supervisor or the University Executive Controller in a timely and effective manner.<br />\r\nQualifications:<br />\r\n<br />\r\n&bull; Knowledge of Microsoft Excel and experience or willingness to learn advance excel functions such as pivot tables and VLOOKUP.<br />\r\n&bull; Attention to details.<br />\r\n&bull; Strong numerical analysis, evaluation, and research skills.<br />\r\n&bull; Strong writing/verbal communication and interpersonal skills.<br />\r\n&bull; Strong organization skills with files and communications</span></span><br />\r\n<br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Salary commensurate with scope of work job experience<br />\r\nProper footwear required to perform tasks in a safe manner.</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Perform other reasonably related duties as required.<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">New Wave People is an Equal Opportunity Employer (EEO).</span></strong></span></span><br />\r\n&nbsp;<br />\r\n<font face=\"Calibri, sans-serif\"><span style=\"font-size: 14.6667px;\"><b>#OTIND123</b></span></font></div>\r\n<br>",
     "recruiter": [
       "Patrick Maher",
       "pwm@nwpusa.com",
       "7328511224"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31241070",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31228229,
-    "title": "Nurse Practitioner",
-    "location": "NY, Dix Hills",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759161180000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$82-$87",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31228229",
+    "time_scraped": 1759526811303,
     "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
     "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
     "date_cutoff_days": 15
@@ -144,353 +185,14 @@
     },
     "salary": "$22-$23",
     "remote": 0,
+    "description": "<br><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">NYS Department of Health, Office of Professional Medical Conduct (OPMC)<br />\r\nPOSITION REQUESTED: Executive Secretary (3)<br />\r\nWORK HOURS AND LOCATION:<br />\r\nFull-Time, 7.5 hours daily, 9AM to 5PM,&nbsp;</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Unpaid Lunch Break<br />\r\nNo Holiday work, Overtime or travel required<br />\r\nFree Parking Provided for a fee</span></span><br />\r\n<span style=\"font-family: verdana\"><span style=\"font-size: 12px\">OPMC is responsible for professional discipline of physicians, physician assistants and specialist assistants. All complaints of misconduct are investigated.<br />\r\nMINIMUM QUALIFICATIONS:<br />\r\n- Prior administrative or secretarial experience supporting multiple senior level executives.<br />\r\n- Excellent communication (written and verbal) skills.<br />\r\n- Excellent problem-solving and research skills.<br />\r\n- Excellent organizational skills, with strong attention to detail, ability to multi-task, and meet deadlines.<br />\r\n- Proficiency with Microsoft Office Suite programs including but not limited to databases and web-based applications.<br />\r\n- Experience coordinating meetings and calendars of multiple senior level executives, note-taking, expense reports, travel arrangement, and communication with internal and external stakeholders.<br />\r\n- Experience with office operations including but not limited to program operations, personnel, and fiscal services.<br />\r\nPREFERRED QUALIFICATIONS:<br />\r\n- Experience with the medical conduct process.<br />\r\n- Experience with the Statewide Financial System (SFS).<br />\r\n- Experience with SharePoint.<br />\r\n- Experience purchasing, receipting, and tracking fiscal expenses.<br />\r\n- Experience providing supervision and0or training for other staff.<br />\r\n- Experience participating in staff procurement and recruitment process.<br />\r\n- Degree in business administration, management, or a related field.<br />\r\nOther related job duties as assigned.</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Salary commensurate with scope of work job experience<br />\r\nProper footwear required to perform tasks in a safe manner.</span></span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Perform other reasonably related duties as required.<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">New Wave People is an Equal Opportunity Employer (EEO).</span></strong></span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">#ADMIND123</span></span></strong><br />\r\n&nbsp;<br>",
     "recruiter": [
       "Connor Maher",
       "cem@nwpusa.com",
       "7328511215"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31217355",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31215235,
-    "title": "Computer Support Specialist",
-    "location": "NY, New York",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758904260000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$22-$25",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31215235",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31210588,
-    "title": "Receptionists",
-    "location": "NY, Rensselaer",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758833760000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$19-$20",
-    "remote": 0,
-    "recruiter": [
-      "Connor Maher",
-      "cem@nwpusa.com",
-      "7328511215"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31210588",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31210381,
-    "title": "Computer Support Specialist",
-    "location": "NY, New York",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758832088000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$21-$23",
-    "remote": 0,
-    "recruiter": [
-      "Connor Maher",
-      "cem@nwpusa.com",
-      "7328511215"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31210381",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31209207,
-    "title": "GIS Specialist",
-    "location": "NY, New York",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758822464000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$27-$32",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31209207",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31195473,
-    "title": "Clerk - Bookkeeper",
-    "location": "NY, Albany",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758659820000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$20-$21",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31195473",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31188279,
-    "title": "Accountant 1",
-    "location": "NY, Albany",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758573060000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$30-$35",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31188279",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31176448,
-    "title": "Occupational Therapists",
-    "location": "NY, Batavia",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758310380000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$45-$50",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31176448",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31176681,
-    "title": "Physical Therapists",
-    "location": "NY, Batavia",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758310380000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$45-$50",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31176681",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31176980,
-    "title": "Speech-Language Pathologists",
-    "location": "NY, Batavia",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758310320000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$45-$50",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31176980",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31170326,
-    "title": "Registered Nurse",
-    "location": "NY, Binghamton",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758224940000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$47-$50",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31170326",
-    "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31165900,
-    "title": "Dental Assistant",
-    "location": "NJ, Plainsboro",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758192420000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": "$20-$21",
-    "remote": 0,
-    "recruiter": [
-      "Patrick Maher",
-      "pwm@nwpusa.com",
-      "7328511224"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0&SearchString=#/jobs/31165900",
+    "time_scraped": 1759526817201,
     "source_company": "tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7",
     "source_url": "https://www1.jobdiva.com/portal/?a=tbjdnwb2n6o6j2k3zxlxglugtsy30305abvhxfdi7xl9j26o4ygo4ae3fx14gme7&compid=0",
     "date_cutoff_days": 15

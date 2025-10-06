@@ -1,5 +1,203 @@
 [
   {
+    "id": 26449368,
+    "title": "Application Support resources (Onsite) - Chicago, IL",
+    "location": "N/A",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759520543000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div>  <span style=\"font-size:9pt;\">  <span style=\"font-family:Verdana,Geneva,sans-serif;\">  <strong>  Title:</strong> Application Support resources (Onsite)<br />  \r\n<strong>  Location:</strong> Chicago, IL<br />  \r\n<strong>  Experience</strong>: 5 to 8 Years.<br />  \r\n<strong>  Looking for GC / Citizen</strong>  <br />  \r\n<br />  \r\n<strong>  Job Description:</strong><br />  \r\n1. Exp in FIX Protocol and other Order protocols-Order/ RFQ/Trading. <br />  \r\n2. Exp in Rabbit MQ, SQL<br />  \r\n3. Good Knowledge in Capital Market and Investment Banking.<br />  \r\n4. Exp in CI/CD, Jenkins, Docker, K8s, ELK Stack, Cloud Tech.<br />  \r\n5. Exp in Scripting Language -TCL, Python, Perl Etc.<br />  \r\n6. Exp in Unix / Linux and Windows Env.<br />  \r\n7. Support and DevOps exp across all stages (Inception, Analysis, Design, Runtime, Maintenance and Support).<br />  \r\n8. Good Communication, Analytical and Problem-Solving skills.<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n <br />  \r\n </span>  </span>  </div>  \r\n<br>",
+    "recruiter": [
+      "Gary Jordan",
+      "Gary.jordan@georgiait.com",
+      "4707985002"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26449368",
+    "time_scraped": 1759524326443,
+    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
+    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26448488,
+    "title": "Data Engineer- Seattle WA",
+    "location": "WA, Seattle",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759515010000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div> <strong> Job Title: Data Engineer (NoSQL) – Seattle, Washington</strong><br /> \r\n<br /> \r\nWe are seeking a skilled <strong> Data Engineer</strong> with strong experience in <strong> NoSQL databases</strong> to join our team in Seattle, WA. This role requires a versatile technologist who can work across <strong> NoSQL, relational, caching, and streaming technologies</strong> while applying a software engineering mindset to build scalable and efficient data solutions.<br /> \r\n<strong> Roles & Responsibilities</strong>\r\n<ul> \r\n\t<li> Design, develop, and maintain scalable data pipelines and storage solutions.</li> \r\n\t<li> Work with <strong> NoSQL databases (MongoDB, Cassandra, DynamoDB, etc.)</strong> to manage and optimize large datasets.</li> \r\n\t<li> Integrate data from multiple sources including relational databases, caching layers, and streaming platforms (Kafka, Spark, etc.).</li> \r\n\t<li> Ensure data quality, security, and availability across systems.</li> \r\n\t<li> Collaborate with software engineers, data scientists, and business teams to deliver data-driven solutions.</li> \r\n\t<li> Troubleshoot and optimize performance across data platforms.</li> \r\n\t<li> Apply best practices in data engineering, cloud services, and modern DevOps processes.</li> \r\n</ul> \r\n<strong> Requirements</strong>\r\n\r\n<ul> \r\n\t<li> 5&plus; years of experience as a <strong> Data Engineer</strong> or in a similar data-focused role.</li> \r\n\t<li> Strong hands-on experience with <strong> NoSQL databases</strong> (MongoDB, Cassandra, DynamoDB, or similar).</li> \r\n\t<li> Experience with <strong> relational databases</strong> (SQL Server, Oracle, PostgreSQL, MySQL).</li> \r\n\t<li> Knowledge of <strong> caching technologies</strong> (Redis, Memcached).</li> \r\n\t<li> Familiarity with <strong> streaming technologies</strong> (Kafka, Spark Streaming, AWS Kinesis).</li> \r\n\t<li> Proficiency in programming languages such as <strong> Python, Java, or Scala</strong>.</li> \r\n\t<li> Solid understanding of <strong> cloud platforms</strong> (AWS, Azure, or GCP).</li> \r\n\t<li> Strong problem-solving and analytical skills with a software engineering mindset.</li> \r\n</ul> \r\n\r\n<div align=\"center\"> \r\n<hr align=\"center\" size=\"2\" width=\"100%\" /> </div> \r\n<span style=\"font-family:Segoe UI Emoji,sans-serif;\"> 📍</span>  <strong> Location:</strong> Seattle, Washingto<br /> \r\n </div> \r\n<br>",
+    "recruiter": [
+      "Brad Davidson",
+      "brad@georgiait.com",
+      "4707985002"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26448488",
+    "time_scraped": 1759524326163,
+    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
+    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26447669,
+    "title": "NOSQL Data Engineer ",
+    "location": "WA, Seattle",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759511383000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"> <strong>Job Description: NOSQL Data Engineer (Seattle, WA &ndash; Local Candidates Only)</strong><br />\r\n<strong>Location:</strong> Seattle, WA (Onsite/Hybrid &ndash; Local Candidates Preferred)<br />\r\n<strong>Employment Type:</strong> Contract<br />\r\n<br />\r\n<br />\r\n<strong>Required Skills &amp; Experience</strong></span></span>\r\n<ul>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">7&plus; years of professional experience in data engineering, data platforms, or related roles.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Strong hands-on expertise in <strong>NoSQL databases</strong> (e.g., MongoDB, Cassandra, DynamoDB).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Proficiency with <strong>relational databases</strong> (e.g., PostgreSQL, MySQL, Oracle, SQL Server).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Solid experience with <strong>caching solutions</strong> (e.g., Redis, Memcached, Hazelcast).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Experience with <strong>streaming/data messaging frameworks</strong> (e.g., Apache Kafka, AWS Kinesis, Apache Flink, Spark Streaming).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Proficiency in <strong>software engineering languages</strong> (Java, Python, or Scala).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Strong background in <strong>data modeling, schema design, and query optimization</strong>.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Familiarity with cloud platforms (<strong>AWS, Azure, or GCP</strong>) and their native data services.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Excellent problem-solving skills and ability to thrive in a fast-paced, cross-functional team.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"> </span></span></div>\r\n<br>",
+    "recruiter": [
+      "Jason Roy",
+      "Jason@georgiait.com",
+      "4707985000"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26447669",
+    "time_scraped": 1759524326226,
+    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
+    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26442423,
+    "title": "EDI Developer- Remote",
+    "location": "N/A",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/2/2025",
+      "date_posted": 1759427750000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><p data-end=\"242\" data-start=\"148\"><strong data-end=\"202\" data-start=\"148\">Job Title: EDI Developer (IBM Sterling Integrator)</strong><br data-end=\"205\" data-start=\"202\" />\r\n<strong data-end=\"240\" data-start=\"205\">Location: Remote, United States</strong></p>\r\n\r\n<p data-end=\"574\" data-start=\"244\">We are looking for an experienced <strong data-end=\"295\" data-start=\"278\">EDI Developer</strong> with strong expertise in <strong data-end=\"348\" data-start=\"321\">IBM Sterling Integrator</strong> to join our remote team. The ideal candidate will be skilled in building, supporting, and optimizing <strong data-end=\"483\" data-start=\"450\">EDI/B2B integration solutions</strong>, while collaborating with business and technical teams to ensure seamless data exchange.</p>\r\n\r\n<h3 data-end=\"612\" data-start=\"576\"><strong data-end=\"610\" data-start=\"580\">Roles and Responsibilities</strong></h3>\r\n\r\n<ul data-end=\"1362\" data-start=\"613\">\r\n\t<li data-end=\"715\" data-start=\"613\">\r\n\t<p data-end=\"715\" data-start=\"615\">Design, develop, and deploy <strong data-end=\"660\" data-start=\"643\">EDI solutions</strong> using IBM Sterling B2B Integrator (v5.2.6 or above).</p>\r\n\t</li>\r\n\t<li data-end=\"821\" data-start=\"716\">\r\n\t<p data-end=\"821\" data-start=\"718\">Build, configure, and maintain <strong data-end=\"778\" data-start=\"749\">business processes (BPML)</strong> and adapters within Sterling Integrator.</p>\r\n\t</li>\r\n\t<li data-end=\"908\" data-start=\"822\">\r\n\t<p data-end=\"908\" data-start=\"824\">Create and support EDI maps for <strong data-end=\"905\" data-start=\"856\">ANSI X12, XML, EDIFACT, CSV, Flat files, JSON</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"997\" data-start=\"909\">\r\n\t<p data-end=\"997\" data-start=\"911\">Manage <strong data-end=\"945\" data-start=\"918\">communication protocols</strong> like FTP, SFTP, AS2, VAN for secure transactions.</p>\r\n\t</li>\r\n\t<li data-end=\"1089\" data-start=\"998\">\r\n\t<p data-end=\"1089\" data-start=\"1000\">Monitor, troubleshoot, and enhance <strong data-end=\"1055\" data-start=\"1035\">EDI transactions</strong> and overall system performance.</p>\r\n\t</li>\r\n\t<li data-end=\"1192\" data-start=\"1090\">\r\n\t<p data-end=\"1192\" data-start=\"1092\">Work closely with stakeholders to gather requirements and translate them into technical solutions.</p>\r\n\t</li>\r\n\t<li data-end=\"1264\" data-start=\"1193\">\r\n\t<p data-end=\"1264\" data-start=\"1195\">Provide <strong data-end=\"1240\" data-start=\"1203\">technical guidance and mentorship</strong> to junior developers.</p>\r\n\t</li>\r\n\t<li data-end=\"1362\" data-start=\"1265\">\r\n\t<p data-end=\"1362\" data-start=\"1267\">Support Agile ceremonies such as <strong data-end=\"1359\" data-start=\"1300\">backlog refinement, sprint planning, and retrospectives</strong>.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1386\" data-start=\"1364\"><strong data-end=\"1384\" data-start=\"1368\">Requirements</strong></h3>\r\n\r\n<ul data-end=\"1864\" data-start=\"1387\">\r\n\t<li data-end=\"1474\" data-start=\"1387\">\r\n\t<p data-end=\"1474\" data-start=\"1389\">12&plus; years of hands-on experience with <strong data-end=\"1454\" data-start=\"1427\">IBM Sterling Integrator</strong> (5.2.6 or above).</p>\r\n\t</li>\r\n\t<li data-end=\"1556\" data-start=\"1475\">\r\n\t<p data-end=\"1556\" data-start=\"1477\">Strong knowledge of <strong data-end=\"1553\" data-start=\"1497\">Sterling Commerce modules, pipelines, and monitoring</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1620\" data-start=\"1557\">\r\n\t<p data-end=\"1620\" data-start=\"1559\">Proficiency in <strong data-end=\"1617\" data-start=\"1574\">DB2, SQL, XML, XSLT, APIs, Web Services</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1679\" data-start=\"1621\">\r\n\t<p data-end=\"1679\" data-start=\"1623\">Familiarity with <strong data-end=\"1666\" data-start=\"1640\">supply chain processes</strong> is a plus.</p>\r\n\t</li>\r\n\t<li data-end=\"1751\" data-start=\"1680\">\r\n\t<p data-end=\"1751\" data-start=\"1682\">Strong <strong data-end=\"1741\" data-start=\"1689\">analytical, troubleshooting, and problem-solving</strong> skills.</p>\r\n\t</li>\r\n\t<li data-end=\"1810\" data-start=\"1752\">\r\n\t<p data-end=\"1810\" data-start=\"1754\">Ability to work independently in a remote environment.</p>\r\n\t</li>\r\n\t<li data-end=\"1864\" data-start=\"1811\">\r\n\t<p data-end=\"1864\" data-start=\"1813\">Excellent communication and interpersonal skills.</p>\r\n\t</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Brad Davidson",
+      "brad@georgiait.com",
+      "4707985002"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26442423",
+    "time_scraped": 1759524326268,
+    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
+    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26441941,
+    "title": "EDI Developer",
+    "location": "N/A",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/2/2025",
+      "date_posted": 1759424614000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<br><div><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"> <strong>Job Title:</strong> Senior IBM Sterling Integrator Developer<br />\r\n<strong>Location:</strong> Remote (Must work in EST Time Zone)<br />\r\n<strong>Duration:</strong> 10/14/2025 &ndash; 04/24/2026<br />\r\n<strong>Rate:</strong>DOE<br />\r\n <br />\r\n<strong>Job Description:</strong><br />\r\n </span></span>\r\n<ul>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">We are seeking a highly skilled <strong>IBM Sterling Integrator Developer</strong> with extensive experience in EDI/B2B integration. The ideal candidate will have <strong>12&plus; years of hands-on experience</strong> in designing, developing, supporting, and monitoring IBM Sterling Integrator (version 5.2.6 or above) solutions across various modules and pipelines.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"> <br />\r\n <br />\r\n<strong>Required Skills / Keywords for Sourcing:</strong><br />\r\n </span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">IBM Sterling Integrator, B2B Integrator, EDI, BPML, Adapters, Map Development, ANSI X12, EDIFACT, XML, CSV, JSON, FTP, SFTP, AS2, VAN, DB2, SQL, XSLT, Web Services, APIs, Agile, Backlog Refinement, Sprint Planning, Technical Leadership, Mentorship, Supply Chain, EDI Transactions, Remote EST</span></span></li>\r\n</ul>\r\n<span style=\"font-size:11pt;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"> </span></span></div>\r\n<br>",
+    "recruiter": [
+      "Jason Roy",
+      "Jason@georgiait.com",
+      "4707985000"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26441941",
+    "time_scraped": 1759524326339,
+    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
+    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26441833,
+    "title": "EDI Developer-Remote",
+    "location": "N/A",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/2/2025",
+      "date_posted": 1759423388000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> Title        :EDI Developer<br /> \r\nLocation : remote - should work in EST time zone<br /> \r\n<br /> \r\nJob Description :<br /> \r\n• 12&plus; years of hands-on experience on IBM Sterling Integrator version 5.2.6 or above.<br /> \r\n• Knowledge and experience in developing, maintaining, supporting, and monitoring of IBM Sterling Commerce application and all different module/pipelines.<br /> \r\n• Lead the design, development, and deployment of EDI solutions using IBM Sterling B2B Integrator.<br /> \r\n• Good Knowledge and hands on experience in business processes (BPML) and adapters within Sterling Integrator.<br /> \r\n• Extensive exposure on map development formats like ANSI X12, XML, EDIFACT, CSV, Flat files, JSON.<br /> \r\n• Good understanding of communication protocols like FTP, SFTP, AS2, VAN.<br /> \r\n• Having knowledge of supply chain will be added advantage.<br /> \r\n• Proficiency in DB2&plus;SQL, XML, XSLT, Web services, APIs.<br /> \r\n• Monitor and troubleshoot EDI transactions and system performance.<br /> \r\n• Provide technical leadership and mentorship to junior EDI developers.<br /> \r\n• Experience with Agile Development practices, backlog refinements, sprint planning, retrospectives model.<br /> \r\n• Collaborate with business stakeholders to gather requirements and translate them into technical specifications.<br /> \r\n• Should be a self-starter and independent learner.<br /> \r\n• Analytical and Problem-solving skills are must.<br /> \r\n• Good interpersonal and communication skills.<br /> \r\n </div> \r\n<br>",
+    "recruiter": [
+      "Jokim Michael",
+      "jokim@georgiait.com",
+      "4707985002"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26441833",
+    "time_scraped": 1759524332788,
+    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
+    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
+    "date_cutoff_days": 15
+  },
+  {
     "id": 26441130,
     "title": "EDI Developer _ Remote",
     "location": "N/A",
@@ -20,12 +218,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div>Job Title _  EDI Developer<br />\r\nLocation _  Remote<br />\r\nDuration _12&plus; Months Contract<br />\r\nRate $57/hr w2 or $62/hr c2c<br />\r\n <br />\r\n<strong><u>Job Description</u></strong><br />\r\n<br />\r\n&bull; 12&plus; years of hands-on experience on IBM Sterling Integrator version 5.2.6 or above.<br />\r\n&bull; Knowledge and experience in developing, maintaining, supporting, and monitoring of IBM Sterling Commerce application and all different module/pipelines.<br />\r\n&bull; Lead the design, development, and deployment of EDI solutions using IBM Sterling B2B Integrator.<br />\r\n&bull; Good Knowledge and hands on experience in business processes (BPML) and adapters within Sterling Integrator.<br />\r\n&bull; Extensive exposure on map development formats like ANSI X12, XML, EDIFACT, CSV, Flat files, JSON.<br />\r\n&bull; Good understanding of communication protocols like FTP, SFTP, AS2, VAN.<br />\r\n&bull; Having knowledge of supply chain will be added advantage.<br />\r\n&bull; Proficiency in DB2&plus;SQL, XML, XSLT, Web services, APIs.<br />\r\n&bull; Monitor and troubleshoot EDI transactions and system performance.<br />\r\n&bull; Provide technical leadership and mentorship to junior EDI developers.<br />\r\n&bull; Experience with Agile Development practices, backlog refinements, sprint planning, retrospectives model.<br />\r\n&bull; Collaborate with business stakeholders to gather requirements and translate them into technical specifications.<br />\r\n&bull; Should be a self-starter and independent learner.<br />\r\n&bull; Analytical and Problem-solving skills are must.<br />\r\n&bull; Good interpersonal and communication skills.</div>\r\n<br>",
     "recruiter": [
       "Glaro Ace",
       "Glaro@georgiait.com",
       "9257652884"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26441130",
+    "time_scraped": 1759524332702,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -51,12 +251,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div>\r\n<div style=\"text-align: justify;\"><strong>Title:</strong> Project Manager<br />\r\n<strong>Duration </strong>: 12&plus; months<br />\r\n<strong>VISA</strong>: USC/GC<br />\r\n<strong>Exp: </strong>9 to 10 Years.<br />\r\n<strong>Location: </strong>Austin, Texas.<br />\r\n<strong><em><u>Job Description:.</u></em></strong></div>\r\n\r\n<ul>\r\n\t<li style=\"text-align: justify;\">Must-Have:</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li style=\"text-align: justify;\">Public Sector</li>\r\n\t<li style=\"text-align: justify;\">Client Department Experience (example Health/Human Services)</li>\r\n</ul>\r\n\r\n<div style=\"text-align: justify;\"><strong>Read Below For Residency requirement</strong></div>\r\n\r\n<ul>\r\n\t<li style=\"text-align: justify;\"><strong>10 Years (Required):</strong> Skilled in managing projects with implementations across large organizations, including project plans, risk/issue documentation, and contingency planning.</li>\r\n\t<li style=\"text-align: justify;\"><strong>10 Years (Required):</strong> Ability to research, gather, assemble, correlate, and analyze facts; devise solutions to complex problems; and prepare concise reports.</li>\r\n\t<li style=\"text-align: justify;\"><strong>10 Years (Required):</strong> Experience overseeing the development of SDLC artifacts, translating business requirements into technical specifications, and guiding the SDLC process.</li>\r\n\t<li style=\"text-align: justify;\"><strong>10 Years (Required):</strong> Experience building and maintaining strong relationships with multiple project sponsors and stakeholders; strong communication and presentation skills.</li>\r\n\t<li style=\"text-align: justify;\"><strong>10 Years (Required):</strong> Ability to summarize and escalate issues appropriately, present weekly status updates, and conduct regular project team meetings.</li>\r\n\t<li style=\"text-align: justify;\"><strong>10 Years (Required):</strong> Ability to work effectively in a collaborative, fast-paced environment.</li>\r\n\t<li style=\"text-align: justify;\"><strong>10 Years (Required):</strong> Strong analytical and problem-solving skills.</li>\r\n\t<li style=\"text-align: justify;\"><strong>8 Years (Required):</strong> Agile methodology experience, including tracking development progress and ensuring alignment with project timelines.</li>\r\n\t<li style=\"text-align: justify;\"><strong>8 Years (Required):</strong> Agile experience managing projects with feature-driven sprints.</li>\r\n\t<li style=\"text-align: justify;\"><strong>8 Years (Required):</strong> Experience leading and driving multi-million-dollar software and IT projects.</li>\r\n\t<li style=\"text-align: justify;\"><strong>1 Year (Preferred):</strong> Experience implementing and using agile methodologies and best practices for one or more State of Texas agencies.</li>\r\n\t<li style=\"text-align: justify;\"><strong>1 Year (Preferred):</strong> Prior experience in healthcare or public health.</li>\r\n\t<li style=\"text-align: justify;\"><strong>1 Year (Preferred):</strong> PMP Certification.</li>\r\n</ul>\r\n</div>\r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26440852",
+    "time_scraped": 1759524332830,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -82,12 +284,14 @@
     },
     "salary": null,
     "remote": 100,
+    "description": "<br><div> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\">  <strong> Position:</strong> AEM Manager<br /> \r\n<strong> Location:</strong> Remote (US)<br /> \r\n<strong> Employment Type:</strong> Contract <br /> \r\n<span style=\"background-color:#00ffff;\"> US Citizens, GC visa holders preferred, NO third-party corp to corp accepted for this job</span> <br /> \r\n <br /> \r\n<strong> Required Skills:</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> AEM Certification (mandatory).</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> 5–12 years of AEM experience with a focus on <strong> FHIR/healthcare integrations</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Strong understanding of <strong> FHIR resources, APIs, and data exchange standards</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Proficiency in Java, OSGi, Sling, JCR, REST APIs.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Knowledge of healthcare interoperability standards (HL7, CCD, CDA).</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Experience in healthcare domain projects (mandatory for senior roles).</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\">  <br /> \r\n </span> </span> </div> \r\n<br>",
     "recruiter": [
       "Jason Roy",
       "Jason@georgiait.com",
       "4707985000"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26440259",
+    "time_scraped": 1759524332802,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -113,12 +317,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div>  <span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">   </span>  </span>  <strong>  Title: AI Engineer</strong><br />  \r\n<strong>  Location: [TX, Onsite/Hybrid]</strong><br />  \r\n<strong>  Employment Type: Full-time </strong><br />  \r\n <br />  \r\n<strong>  Job Overview:</strong><br />  \r\nWe are seeking a highly skilled AI Engineer with strong expertise in Agent Development, Large Language Models (LLMs), and Python. The ideal candidate will design, build, and deploy intelligent AI/ML solutions that enhance automation, decision-making, and user experience.<br />  \r\n<strong>  Key Responsibilities:</strong><br />  \r\nDesign and develop AI/ML applications with a focus on agent-based systems and LLM integration.<br />  \r\nBuild, fine-tune, and optimize machine learning models for production environments.<br />  \r\nDevelop robust, scalable APIs and services in Python for AI-powered applications.<br />  \r\nCollaborate with cross-functional teams (data engineers, software developers, and product managers) to deliver end-to-end AI solutions.<br />  \r\nResearch and evaluate emerging AI/ML frameworks, tools, and methodologies.<br />  \r\nEnsure security, scalability, and performance of deployed models.<br />  \r\n <br />  \r\n<strong>  <u>  Required Skills & Qualifications:</u>  </strong><br />  \r\nStrong programming experience in Python (FastAPI, Flask, or Django a plus).<br />  \r\nHands-on experience with Large Language Models (LLMs) such as OpenAI, Hugging Face, or similar.<br />  \r\nKnowledge of agent development frameworks (LangChain, AutoGen, or equivalent).<br />  \r\nExperience with ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.<br />  \r\nFamiliarity with cloud platforms (AWS, GCP, Azure) and containerization (Docker/Kubernetes).<br />  \r\nStrong problem-solving skills and ability to work independently or in a team environment.<br />  \r\n <br />  \r\n <br />  \r\n<strong>  Nice to Haves:</strong><br />  \r\nExperience in AI security and compliance in cloud-native environments.<br />  \r\nFamiliarity with vector databases (Pinecone, Weaviate, FAISS).<br />  \r\nExposure to MLOps tools and practices.<br />  \r\n <br />  \r\n<strong>  Eligibility:</strong><br />  \r\nOpen to candidates with H4 EAD, L2 EAD, Green Card, or U.S. Citizens only.<br />  \r\n <br />  \r\n <br />  \r\n </div>  \r\n<br>",
     "recruiter": [
       "Brad Davidson",
       "brad@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26436494",
+    "time_scraped": 1759524332769,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -144,12 +350,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div> <strong> Location                    : [TX, Onsite/Hybrid]<br /> \r\nEmployment Type    : Full-time <br /> \r\nJob Overview:</strong><br /> \r\n<br /> \r\nWe are seeking a highly skilled AI Engineer with strong expertise in Agent Development, Large Language Models (LLMs), and Python. The ideal candidate will design, build, and deploy intelligent AI/ML solutions that enhance automation, decision-making, and user experience.<br /> \r\nKey Responsibilities:<br /> \r\nDesign and develop AI/ML applications with a focus on agent-based systems and LLM integration.<br /> \r\nBuild, fine-tune, and optimize machine learning models for production environments.<br /> \r\nDevelop robust, scalable APIs and services in Python for AI-powered applications.<br /> \r\nCollaborate with cross-functional teams (data engineers, software developers, and product managers) to deliver end-to-end AI solutions.<br /> \r\nResearch and evaluate emerging AI/ML frameworks, tools, and methodologies.<br /> \r\nEnsure security, scalability, and performance of deployed models.<br /> \r\nRequired Skills & Qualifications:<br /> \r\nStrong programming experience in Python (FastAPI, Flask, or Django a plus).<br /> \r\nHands-on experience with Large Language Models (LLMs) such as OpenAI, Hugging Face, or similar.<br /> \r\nKnowledge of agent development frameworks (LangChain, AutoGen, or equivalent).<br /> \r\nExperience with ML frameworks such as TensorFlow, PyTorch, or Scikit-learn.<br /> \r\nFamiliarity with cloud platforms (AWS, GCP, Azure) and containerization (Docker/Kubernetes).<br /> \r\nStrong problem-solving skills and ability to work independently or in a team environment.<br /> \r\n<strong> Nice to Have:</strong><br /> \r\nExperience in AI security and compliance in cloud-native environments.<br /> \r\nFamiliarity with vector databases (Pinecone, Weaviate, FAISS).<br /> \r\nExposure to MLOps tools and practices.<br /> \r\nEligibility:<br /> \r\nOpen to candidates with H<strong> 4 EAD, L2 EAD, Green Card, or U.S. Citizens only.</strong></div> \r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26433656",
+    "time_scraped": 1759524338913,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -175,12 +383,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> <strong> NYB - Infrastructure SME (NY)<br /> \r\nDuration: 6 Months (Possible Extension)<br /> \r\nLocation: Remote (US/MX/Canada (EST working hours)</strong><br /> \r\n<br /> \r\n<strong> JOB DESCRIPTION </strong></span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> We are looking for an Infrastructure SME to lead the planning, execution, and delivery projects related to monitoring improvements, especially for critical applications (Murex, Darwin, Risk applications). The skills would be: </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  MUST SKILLS: </strong></span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Previous experience on Observability projects and tools. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Infrastructure projects management experience (DR, obsolescence, hardening, Security, monitoring, Vulnerability/patching/hardening) </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Technical background is required (system engineer, IT operations, ...) </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  MAIN SKILLS: </strong></span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Ability to collect critical process from the applications to improve the monitoring for the critical applications. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Strong ability detecting and escalating applications issues. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Ability to investigate applications, server and service log to find root causes. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Define a plan with all the activities that need to be addressed. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Coordinate the execution with the teams involved.  &quot; </span> </span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
     "recruiter": [
       "Stephan Biravin",
       "Stephan@georgiait.com",
       "4049401010"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26425487",
+    "time_scraped": 1759524338940,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -206,12 +416,14 @@
     },
     "salary": null,
     "remote": 50,
+    "description": "<br><div> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Title:</strong> System Analyst  (4days per week, onsite)<br /> \r\n<strong> Location:</strong> Atlanta/Chicago<br /> \r\n<strong> Experience:</strong> 9-10&plus; Years<br /> \r\n<br /> \r\n<strong> core skills :</strong><br /> \r\nThis is a migration project from Mainframe to Java so we need strong skills with any 2 skills-<br /> \r\nCobol/ java/lotus notes<br /> \r\n<br /> \r\n<strong> Primary Skill:</strong><br /> \r\n-Java, SpringBoot, REST API, Open API Specification, SOAP , COBOL , Lotus Notes<br /> \r\n-Hands-on experience in developing REST API and Microservices using Java /Spring Boot<br /> \r\n-Good knowledge and hands-on experience in creating Open API spec per REST standards<br /> \r\n-Read source code (mostly COBOL, JAVA, and Lotus Notes) to understand processes to<br /> \r\ndocument in layman terms for a business person to understand<br /> \r\n-Strong understanding for deployment of API proxy on MuleSoft Flex Gateway<br /> \r\n-Experience integrating with DB2, SOAP, Mainframe and REST services<br /> \r\n-Familiarity with microservices architecture, design patterns and monitoring tools<br /> \r\n<br /> \r\n<strong> Secondary Skill:</strong> MuleSoft, Azure Cloud, DB2<br /> \r\n <br /> \r\n </span> </span> </div> \r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26425076",
+    "time_scraped": 1759524338968,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -237,12 +449,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <strong> Job Description – Systems Analyst</strong><br /> \r\n<strong> Location:</strong> Atlanta, Georgia | Chicago, Illinois<br /> \r\nWe are looking for a talented <strong> Systems Analyst</strong> to join our team for a high-impact <strong> Mainframe to Java migration project</strong>. This role requires strong technical expertise in Java, COBOL, or Lotus Notes, with hands-on experience in building modern solutions using APIs and Microservices.<br /> \r\n<strong> Roles and Responsibilities</strong>\r\n<ul> \r\n\t<li> Analyze existing applications (COBOL, Java, Lotus Notes) and document processes in clear business terms.</li> \r\n\t<li> Design and develop <strong> REST APIs and Microservices</strong> using Java and Spring Boot.</li> \r\n\t<li> Create <strong> Open API specifications</strong> per REST standards for integration and documentation.</li> \r\n\t<li> Support the deployment of API proxies on <strong> MuleSoft Flex Gateway</strong>.</li> \r\n\t<li> Integrate with <strong> DB2, SOAP, Mainframe, and REST services</strong>.</li> \r\n\t<li> Apply <strong> microservices architecture and design patterns</strong> to ensure scalable, efficient solutions.</li> \r\n\t<li> Collaborate with cross-functional teams to ensure smooth migration and implementation.</li> \r\n\t<li> Provide system analysis, troubleshooting, and support throughout the migration process.</li> \r\n</ul> \r\n<strong> Key Requirements</strong>\r\n\r\n<ul> \r\n\t<li> Strong experience with <strong> Java, Spring Boot, REST API, SOAP</strong>.</li> \r\n\t<li> Hands-on experience in <strong> COBOL or Lotus Notes</strong> (any 2 skills required: COBOL/Java/Lotus Notes).</li> \r\n\t<li> Proficiency in <strong> Open API specification development</strong>.</li> \r\n\t<li> Knowledge of <strong> MuleSoft Flex Gateway deployment</strong>.</li> \r\n\t<li> Experience with <strong> DB2, Mainframe systems, and API integration</strong>.</li> \r\n\t<li> Familiarity with <strong> microservices design, patterns, and monitoring tools</strong>.</li> \r\n\t<li> Strong analytical, documentation, and communication skills.</li> \r\n</ul> \r\n <br /> \r\n </div> \r\n<br>",
     "recruiter": [
       "Brad Davidson",
       "brad@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26424953",
+    "time_scraped": 1759524339016,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -268,12 +482,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <em> Job Title: </em> <strong> IT Business Systems Analyst (On-Site)</strong><br /> \r\n<em> Position Type: </em> <strong> Contract (11-03-2025 - 05-01-2026)</strong><br /> \r\n<em> Location: </em> <strong> Sacramento, CA</strong><br /> \r\n<br /> \r\n<strong> Responsibilities:</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Configure, install, and maintain routers, switches, voice gateways, access points, and microwave radio equipment.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Support day-to-day network operations, including troubleshooting, monitoring, and incident response.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Assist with implementation of new projects and upgrades.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Maintain accurate documentation of network diagrams, configurations, and processes.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Work independently and collaboratively to support network availability and performance.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Qualifications / Experience:</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Cisco Associate-level experience.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Hands-on expertise with Cisco and non-Cisco routers and switches.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Experience with microwave radios and wireless access points.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Knowledge of the OSI model and Cisco three-layer hierarchical model.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Strong analytical and problem-solving skills.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Ability to prioritize and execute tasks with minimal supervision.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Effective communication and interpersonal skills.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Flexible and adaptable to new tools, technologies, and environments.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> CCNA certification is a plus</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\">  </span> </span> </div> \r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26424477",
+    "time_scraped": 1759524338997,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -299,12 +515,14 @@
     },
     "salary": null,
     "remote": 50,
+    "description": "<br><div> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Title:</strong> Senior Application Developer / Analyst Position (Hybrid) <br /> \r\n<strong> Location:</strong> Wayzata, MN<br /> \r\n<strong> GC / US Citizen only.</strong><br /> \r\n <br /> \r\n<strong> Key Accountabilities</strong><br /> \r\n<br /> \r\n1. As a member of the Finance Single Source Product team, work together to manage technical aspects of the OneStream platform and define the platform direction, in accordance with architecture standards, to ensure optimized performance. Lead release planning, environment management and change control.<br /> \r\n2. Lead and provide guidance on strategy and technical planning of FP&A software applications in accordance with software compliance standards.<br /> \r\n3. Partner with internal and external stakeholders in providing consultation, analysis and solution direction.<br /> \r\n4. Collaborate with other Systems Analysts to understand the Finance architectural landscape and make decisions regarding the best solution to meet Finance requirements.<br /> \r\n5.Apply in-depth knowledge to investigate, analyze and interpret complex business and system issues through research, development and identification of more complex and innovative solutions.<br /> \r\n6.Independently handle complex issues with minimal supervision, while escalating only the most complex issues to appropriate staff.<br /> \r\n7. Other duties as assigned.<br /> \r\n <br /> \r\n<strong> Qualifications</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Minimum requirement of 4 years of relevant work experience. Typically reflects 5 years or more of relevant experience.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Preferred Qualifications:</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Proficient in .Net, C#</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Strong previous experience with finance applications</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Has the desire to learn Finance processes and gain solution expertise</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Previous experience with OneStream, Hyperion or other corporate consolidation and planning tools</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Knowledge of financial close and consolidation processes</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Knowledge of financial planning and analysis</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> VB.Net and/or C# experience for business rules</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\">  </span> </span> </div> \r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26414208",
+    "time_scraped": 1759524347593,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -330,12 +548,14 @@
     },
     "salary": null,
     "remote": 50,
+    "description": "<br><div> <em> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Job Title: </span> </span> </em> <strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Sr. OIPA Engineer (Hybrid/Remote)</span> </span> </strong><br /> \r\n<em> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Position Type: </span> </span> </em> <strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Contract</span> </span> </strong><br /> \r\n<em> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Location: </span> </span> </em> <strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Durham, NC</span> </span> </strong><br /> \r\n<em> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Primary Skills: </span> </span> </em> <strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Java, Oracle</span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Description</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> The Purpose:</span> </span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> As a Principal Software Engineer on the team, you will have the opportunity to leverage all of your skills in engineering, modernizing, and testing Annuity contract generation and account opening applications. You will be expected to quickly gain understanding of all the components of our applications and will work with the team to deliver best in class solutions.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> 4&plus; years of Expertise in developing policy administration systems using Oracle Policy Administration System (OIPA), including configuration language, integration, AS Files, data intake, database architecture, and data extraction patterns; building OIPA extensions; and performing palette and application security implementations, screens (policy, roles segment, allocation, and valuation), and release management.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Expertise in implementing design patterns, using UML</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Test Driven Development, Junit, Jasmine, Karma, Protractor</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> IDE's Spring Tool Suite, and Eclipse, within a UNIX and Windows environment.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Writing SQL queries and debugging stored procedures within an Oracle environment.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Leadership: Team player, self-starter, collaborative, innovative, eager to learn every day.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Understanding of docker, cloud-computing / cloud services platforms (e.g. AWS or Azure) will be a plus</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> AWS Certification is a plus</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26404880",
+    "time_scraped": 1759524347541,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -361,12 +581,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Description:<br />\r\nTitle             : Sr.Project Manager         <br />\r\nLocation      : Remote<br />\r\nDuration      : 10 months<br />\r\nVisa             : USC and GC  only W2 consultant and C2C Self Corp <br />\r\n<br />\r\nCore skills<br />\r\nPM role-The project is focused on larger process transformation and technology deliverables project management.<br />\r\n<br />\r\n&bull; Financial reporting transformation and technology delivery project management<br />\r\n&bull; Coordinating execution deliverables with onshore and offshore team<br />\r\n&bull; Creating weekly project status updates<br />\r\n&bull; Reviewing change management activities, providing feedback, and project management of change activities.<br />\r\n&bull; Strong on business process side<br />\r\n&bull; Managing Senior stake holders<br />\r\n&bull; Reporting to Business<br />\r\n </div>\r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26404111",
+    "time_scraped": 1759524347540,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -392,12 +614,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div>Job Title _ Backend Developer<br />\r\nLocation _ Remote<br />\r\nDuration _12&plus; Months Contract<br />\r\n <br />\r\n<strong><u>Job Description </u></strong>\r\n<ul>\r\n\t<li>Backend Developer Requirement - AI Tools Intergration / Configuration</li>\r\n\t<li>This would be for their new initiative to optimize for GenAI Search Engines.</li>\r\n\t<li>The resources would need the normal BED SFCC requirements in addition to AI</li>\r\n\t<li>Search Engine Optimization knowledge.</li>\r\n\t<li>RestAPI / Web services, application integration, AI Tools configuration.</li>\r\n\t<li>Knowledge of AI tools for content creation / analytics (Profound - <a href=\"http://www.profound.com\">www.profound.com</a>) or similar is an advantage</li>\r\n\t<li>The role involves integration/configuration of this tool and potentially some other AI related web request.</li>\r\n</ul>\r\n</div>\r\n<br>",
     "recruiter": [
       "Glaro Ace",
       "Glaro@georgiait.com",
       "9257652884"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26400289",
+    "time_scraped": 1759524347539,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -423,12 +647,14 @@
     },
     "salary": null,
     "remote": 40,
+    "description": "<br><div> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> <strong> Title: Ai Engineer<br /> \r\nDuration: 6 Months CTH <br /> \r\nLocation: Jersey City, NJ (Open to Whitehouse Station, NJ OR New York)</strong><br /> \r\n<br /> \r\n<strong> JOB DESCRIPTION </strong><br /> \r\n<strong> JOB SUMMARY </strong></span> </span> </span> \r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Client is the world's largest publicly traded property and casualty insurer. With operations in 54 countries, Client provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance, and life insurance to a diverse group of clients. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> The company is distinguished by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength, underwriting excellence, superior claims handling expertise and local operations globally. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> The North America Data Analytics team at Client is seeking an AI Engineer with 5&plus; years of industry experience to join our fast-paced, high-energy team. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> This team is responsible for delivering generative AI solutions to our business partners that will meet business objectives and move-the-needle to improve upon key performance metrics. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> As an AI Engineer for North America Data Analytics focusing on Generative AI capabilities, you will develop solutions to complex business problems which combine industry standard practices with innovation. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> You will focus on building pipelines and designing architecture to facilitate generative AI capabilities. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> This position offers exposure to a wide variety of analytic tools and technologies. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Be ready to meet analytic challenges head-on as you develop and refine generative AI data processes for Client. </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  RESPONSIBILITIES </strong></span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Collaborate with business partners and peers within the organization to understand and scope the problem, gather business requirements, and facilitate the data integration process. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Work closely with teams of data scientists to develop, implement and test Artificial Intelligence and Machine learning models to solve complex business challenges on Azure platform. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Research & implement state of the art modeling approaches including but not limited to zero-shot/few-shot learning, embedding techniques, fine-tuning etc. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Ensure high quality code that meets business objectives, quality standards and secure web development guidelines. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Integrate with data / document sources using APIs and / or data pipelines. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Create excellent working relationships with business partners across the Client's organization, IT and Analytics peer groups. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Effectively communicate with key stakeholders in written, oral and presentation formats. </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  QUALIFICATIONS </strong><br /> \r\n<strong> REQUIRED </strong>:</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> 4&plus; years' experience in Machine Learning (ML), with deep expertise in writing, and reviewing production code in Python. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Knowledge of ML frameworks and libraries (such as TensorFlow/Pytorch), and exposure to various ML algorithms and their practical implementation in production at large scale. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Experience with designing and deploying scalable end-to-end Machine Learning/NLP systems as Databricks jobs/ dockerized containers </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Experience on distributed, high throughput and low latency architecture. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Experience with NLP techniques around text cleaning/pre-processing, entity extraction, encoder-decoder architectures, similarity matching etc. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Experience with Prompt Engineering techniques </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Understanding of LLM functionality and inference techniques </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Experience building software on top of containerization technology (Kubernetes, Docker etc.), and familiarity with frameworks/tools such as FastAPI, Uvicorn. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Familiarity with Continuous Integration tools such as Jenkins. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Experience with architecting and consuming APIs in a scalable (multi-threaded/batched) fashion. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Ability to multi-task, learn new things quickly, and have excellent problem solving & communication skills. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> A mindset for collaboration, knowledge sharing and keeping up to date on emerging industry trends. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Appetite for learning and keeping up to date on the latest generative AI technologies and processes </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  PREFERRED </strong>:</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Comfortable with command line (Linux, Windows) scripting. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Familiarity with generative AI techniques, such as GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), or other generative models. </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  NICE TO HAVE </strong>:</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Experience with at least one other programming language (R, Julia, Scala, Go, Java, C&plus;&plus;). </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Exposure to technologies such as DBT, Apache AirFlow or Luigi. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Working knowledge of containers, specifically Dockerizing APIs. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Exposure to CI-CD pipelines. </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Comfortable with at least one NoSQL database (MongoDB, ElasticSearch, CosmosDB, etc.). </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  EDUCATION </strong></span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Bachelor's / master's degree in a technical field such as Statistics, Computer Science, Data Science, Bioinformatics, Physics, Mathematics or Engineering (advanced degree a plus). </span> </span> </span> </li> \r\n</ul> \r\n<span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\">  <strong>  LOCATION: </strong></span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> We are open to the following work locations for this position: (Jersey City, NJ - Whitehouse Station, NJ). </span> </span> </span> </li> \r\n\t<li> <span style=\"color:#000000\"> <span style=\"font-size:10pt\"> <span style=\"font-family:verdana,geneva,sans-serif\"> Please note there will be limited expected travel to various work locations for in person collaboration and meetings. </span> </span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
     "recruiter": [
       "Stephan Biravin",
       "Stephan@georgiait.com",
       "4049401010"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26400117",
+    "time_scraped": 1759524347540,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -454,12 +680,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><strong><span style=\"color:red;\"><span style=\"font-size:10.0pt;\">Sr. Backed App developer. (AI Tools Intergration / Configuration)</span></span></strong><br />\r\n<span style=\"font-size:10.0pt;\">Public Storage.</span><br />\r\n<span style=\"font-size:10.0pt;\">Work Hours: 8 AM to 5 PM Pacific Time (Mon-Fri)</span><br />\r\n<span style=\"font-size:10.0pt;\">Remote is ok</span><br />\r\n<span style=\"font-size:10.0pt;\">Visa &ndash; USC and GC </span><br />\r\n<br />\r\n<span style=\"font-size:10.0pt;\">Backend Developer Requirement - AI Tools Intergration / Configuration</span><br />\r\n<span style=\"font-size:10.0pt;\">This would be for their new initiative to optimize for GenAI Search Engines. </span><br />\r\n<span style=\"font-size:10.0pt;\">The resources would need the normal BED SFCC requirements in addition to AI Search Engine Optimization knowledge.</span><br />\r\n<strong><span style=\"font-size:10.0pt;\">SENIOR Backend developer</span></strong><span style=\"font-size:10.0pt;\"> &ndash; </span><br />\r\n<span style=\"font-size:10.0pt;\">RestAPI / Web services, application integration, AI Tools configuration.</span><br />\r\n<span style=\"font-size:10.0pt;\">Knowledge of AI tools for content creation / analytics (Profound - <a href=\"https://www.profound.com\" target=\"_blank\" title=\"https://www.profound.com/\">www.profound.com</a>) or similar is an advantage</span><br />\r\n<span style=\"font-size:10.0pt;\">The role involves integration/configuration of this tool and potentially some other AI related web request.</span><br />\r\n <br />\r\n <br />\r\n </div>\r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26399634",
+    "time_scraped": 1759524354060,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -485,12 +713,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> \r\n<p data-end=\"211\" data-start=\"93\"> <strong data-end=\"107\" data-start=\"93\"> Job Title:</strong> Project Manager – Process Transformation & Technology Delivery<br data-end=\"173\" data-start=\"170\" /> \r\n<strong data-end=\"186\" data-start=\"173\"> Location:</strong> United States (Remote)</p> \r\n\r\n<p data-end=\"611\" data-start=\"213\"> We are looking for an experienced <strong data-end=\"266\" data-start=\"247\"> Project Manager</strong> to lead large-scale <strong data-end=\"346\" data-start=\"287\"> process transformation and technology delivery projects</strong>. This role requires strong expertise in <strong data-end=\"482\" data-start=\"387\"> financial reporting transformation, business process management, and stakeholder engagement</strong>. You will play a key role in driving change, coordinating global teams, and ensuring timely delivery of strategic initiatives.</p> \r\n\r\n<h3 data-end=\"647\" data-start=\"613\"> <strong data-end=\"645\" data-start=\"617\"> Roles & Responsibilities</strong></h3> \r\n\r\n<ul data-end=\"1275\" data-start=\"648\"> \r\n\t<li data-end=\"754\" data-start=\"648\"> \r\n\t<p data-end=\"754\" data-start=\"650\"> Lead <strong data-end=\"688\" data-start=\"655\"> end-to-end project management</strong> for process transformation and technology delivery initiatives.</p> \r\n\t</li> \r\n\t<li data-end=\"860\" data-start=\"755\"> \r\n\t<p data-end=\"860\" data-start=\"757\"> Drive <strong data-end=\"810\" data-start=\"763\"> financial reporting transformation projects</strong>, ensuring accuracy, compliance, and efficiency.</p> \r\n\t</li> \r\n\t<li data-end=\"937\" data-start=\"861\"> \r\n\t<p data-end=\"937\" data-start=\"863\"> Coordinate <strong data-end=\"900\" data-start=\"874\"> execution deliverables</strong> across onshore and offshore teams.</p> \r\n\t</li> \r\n\t<li data-end=\"1016\" data-start=\"938\"> \r\n\t<p data-end=\"1016\" data-start=\"940\"> Prepare and present <strong data-end=\"993\" data-start=\"960\"> weekly project status updates</strong> to business leaders.</p> \r\n\t</li> \r\n\t<li data-end=\"1108\" data-start=\"1017\"> \r\n\t<p data-end=\"1108\" data-start=\"1019\"> Oversee <strong data-end=\"1059\" data-start=\"1027\"> change management activities</strong>, provide feedback, and ensure smooth adoption.</p> \r\n\t</li> \r\n\t<li data-end=\"1202\" data-start=\"1109\"> \r\n\t<p data-end=\"1202\" data-start=\"1111\"> Collaborate closely with senior stakeholders, ensuring clear communication and alignment.</p> \r\n\t</li> \r\n\t<li data-end=\"1275\" data-start=\"1203\"> \r\n\t<p data-end=\"1275\" data-start=\"1205\"> Report project progress, risks, and outcomes to business leadership.</p> \r\n\t</li> \r\n</ul> \r\n\r\n<h3 data-end=\"1299\" data-start=\"1277\"> <strong data-end=\"1297\" data-start=\"1281\"> Requirements</strong></h3> \r\n\r\n<ul data-end=\"1798\" data-start=\"1300\"> \r\n\t<li data-end=\"1413\" data-start=\"1300\"> \r\n\t<p data-end=\"1413\" data-start=\"1302\"> Proven experience in <strong data-end=\"1345\" data-start=\"1323\"> project management</strong> with focus on <strong data-end=\"1410\" data-start=\"1360\"> process transformation and technology delivery</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"1496\" data-start=\"1414\"> \r\n\t<p data-end=\"1496\" data-start=\"1416\"> Strong background in <strong data-end=\"1493\" data-start=\"1437\"> financial reporting and business process improvement</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"1559\" data-start=\"1497\"> \r\n\t<p data-end=\"1559\" data-start=\"1499\"> Experience managing <strong data-end=\"1535\" data-start=\"1519\"> global teams</strong> (onshore & offshore).</p> \r\n\t</li> \r\n\t<li data-end=\"1631\" data-start=\"1560\"> \r\n\t<p data-end=\"1631\" data-start=\"1562\"> Skilled in <strong data-end=\"1594\" data-start=\"1573\"> change management</strong> and organizational transformation.</p> \r\n\t</li> \r\n\t<li data-end=\"1694\" data-start=\"1632\"> \r\n\t<p data-end=\"1694\" data-start=\"1634\"> Excellent communication and stakeholder management skills.</p> \r\n\t</li> \r\n\t<li data-end=\"1741\" data-start=\"1695\"> \r\n\t<p data-end=\"1741\" data-start=\"1697\"> PMP or equivalent certification preferred.</p> \r\n\t</li> \r\n\t<li data-end=\"1798\" data-start=\"1742\"> \r\n\t<p data-end=\"1798\" data-start=\"1744\"> Ability to work independently in a <strong data-end=\"1795\" data-start=\"1779\"> remote setup</strong>.</p> \r\n\t</li> \r\n</ul> \r\n\r\n<p data-end=\"1973\" data-start=\"1800\"> This is a great opportunity to make a significant impact by leading transformation initiatives, working with global teams, and driving technology-enabled business success.</p> \r\n</div> \r\n<br>",
     "recruiter": [
       "Brad Davidson",
       "brad@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26399537",
+    "time_scraped": 1759524354060,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -516,12 +746,14 @@
     },
     "salary": null,
     "remote": 100,
+    "description": "<br><div> <strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Title</span> </span> </strong><span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> : Cybersecurity-IAM senior (Remote)</span> </span> <br /> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Type:</span> </span> </strong><span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\">  Full-time</span> </span> <br /> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Visa Type:</span> </span> </strong><span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\">  GC / US Citizen Only</span> </span> <br /> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Location:</span> </span> </strong><span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\">  Remote, but the individual should be in one of these locations: NYC, Chicago, Washington DC, Atlanta, Houston, Boston. LA. The reason is, One day the individual has to go the law office.</span> </span> <br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Key Responsibilities:</span> </span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Lead IAM/IGA engineering and operations teams, providing mentorship, coaching, and performance management.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Partner with leadership to define strategic roadmaps and deliver measurable results.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Oversee implementation, integration, and optimization of IAM platforms (identity lifecycle, authentication, authorization, privileged access).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Ensure reliable day-to-day IAM services, incident response, and continuous improvement.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Manage vendor relationships and influence product development to meet firm's needs.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Promote Agile practices, supporting backlog grooming, sprint planning, and delivery.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Ensure IAM solutions meet security, compliance, and regulatory requirements.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Collaborate across IT, Security, and business units to design secure, user-friendly identity architectures.</span> </span> </li> \r\n</ul> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Technology Stack:</span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Current: Okta (IAM), SailPoint (IGA).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Future/Planned: Privileged Access Management (e.g., CyberArk).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Supporting: Active Directory/LDAP, SAML, OAuth, OIDC, MFA, APIs/integrations.</span> </span> </li> \r\n</ul> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Qualifications:</span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Bachelor's degree in Computer Science, Information Technology, or related field; advanced degree or certifications (CISSP, CISM, Okta/SailPoint) preferred.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> 10&plus; years of IAM or related cybersecurity experience, with leadership of engineering and operations teams.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Strong knowledge of IAM/IGA concepts: authentication, federation, RBAC, lifecycle management, and PAM.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Proven success delivering large-scale identity initiatives in an Agile environment.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Excellent communication skills and ability to translate technical solutions into business value.</span> </span> <br /> \r\n\t </li> \r\n</ul> \r\n<span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> This is a high-impact leadership role offering the opportunity to shape the future of IAM and security operations at a top-tier global law firm.</span> </span> <br /> \r\n<br /> \r\n<strong> <span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\"> Skills and Certifications</span> </span> </strong><span style=\"font-family:Verdana,sans-serif;\"> <span style=\"font-size:9.0pt;\">  [note: bold skills and certification are required]<br /> \r\n<strong> Bachelor's degree in Computer Science, Information Technology, or related field</strong><br /> \r\n<strong> Advanced degree or certifications (CISSP, CISM, Okta/SailPoint) preferred.</strong><br /> \r\n<strong> 10&plus; years of IAM or related cybersecurity experience, with leadership of engineering and operations</strong><br /> \r\n<strong> Strong knowledge of IAM/IGA concepts: authentication, federation, RBAC, lifecycle management, & PAM</strong><br /> \r\n<strong> Proven success delivering large-scale identity initiatives in an Agile environment.</strong><br /> \r\n<strong> Excellent communication skills and ability to translate technical solutions into business value.</strong></span> </span> <br /> \r\n </div> \r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26399473",
+    "time_scraped": 1759524354061,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -547,12 +779,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><strong>Description:</strong><br />\r\n <br />\r\nWe have an urgent need for a Shopify Architect on a 6-8 month project, we&#39;d love your help with. Please see a rough JD below:<br />\r\n<br />\r\nStart Date: Immediate<br />\r\n<br />\r\nLocation: Remote (CDT) Good to find someone in Dallas, TX as client might ask to come once in a while to Office<br />\r\n<br />\r\n<br />\r\n<br />\r\n<strong>Role Overview:</strong><br />\r\n<br />\r\nWe are seeking a highly Shopify Architect with a strong background in eCommerce platforms, particularly Shopify. The ideal candidate will play a key role in designing, developing, and maintaining high-performance web applications that drive exceptional user experiences and business outcomes.<br />\r\n<br />\r\n<strong>Key Responsibilities:</strong><br />\r\n<br />\r\nLead the development of scalable, responsive web applications using modern front-end frameworks (e.g., React, Vue.js).<br />\r\nBuild and customize Shopify themes, apps, and integrations to support commerce functionality.<br />\r\nCollaborate with cross-functional teams including design, product, and backend engineering to deliver seamless user experiences.<br />\r\nOptimize application performance, accessibility, and SEO.<br />\r\nImplement and maintain CI/CD pipelines and version control best practices.<br />\r\nTroubleshoot and resolve technical issues across the stack.<br />\r\nStay current with emerging technologies and industry trends in eCommerce and web development.<br />\r\n<br />\r\n<br />\r\n<strong>Required Qualifications:</strong><br />\r\n5&plus; years of professional experience in front-end or full stack development.<br />\r\nStrong proficiency in HTML, CSS, JavaScript, and modern frameworks (React, Vue, etc.).<br />\r\nProven experience with Shopify development, including Liquid templating, theme customization, and app integration.<br />\r\nFamiliarity with RESTful APIs, GraphQL, and headless commerce architectures.<br />\r\nExperience with version control systems (e.g., Git) and agile development methodologies.<br />\r\nExcellent problem-solving skills and attention to detail.<br />\r\nStrong communication and collaboration abilities.</div>\r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26398903",
+    "time_scraped": 1759524353848,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -578,12 +812,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\"><strong>Title:</strong> Senior Payroll Manager.<br />\r\n<strong>Type:</strong> Full-time.<br />\r\n<strong>Visa Type:</strong> US Citizen / Green Card Holder.<br />\r\n<br />\r\nThey are open to candidates being local to any of their US offices, including Atlanta, Boston, LA, Chicago, Dallas, Houston, NYC, Orange County, Palo Alto, San Diego, SF, and Washington DC (preference for highlighted ones)﻿<br />\r\n<br />\r\nKey Responsibilities<br />\r\n<strong>Payroll Operations</strong></span></span>\r\n<ul>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Direct and manage payroll processing across all U.S. offices with strict compliance to federal, state, and local regulations.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Oversee complex compensation structures, including bonuses, overtime, and special payments for attorneys and business professionals.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Ensure accurate payroll tax filings and compliance with all reporting requirements.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong>Leadership &amp; Team Management</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Supervise, mentor, and develop payroll staff to foster a culture of high performance and professional growth.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Recommend and implement best practices, process improvements, and technology enhancements to increase efficiency and accuracy.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong>Compliance &amp; Risk Management</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Ensure adherence to wage and hour laws, tax regulations, and internal policies.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Partner with auditors to ensure audit readiness and provide timely responses to inquiries.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Maintain strict data integrity, confidentiality, and security in all payroll systems.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong>Cross-Functional Collaboration</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Partner with Finance, HR, and Benefits teams to ensure alignment across payroll, compensation, and benefits programs.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Provide reporting, analytics, and insights to leadership to support financial planning and compensation strategies.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Serve as a subject matter expert on payroll implications of regulatory and policy changes.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong>Skills &amp; Proficiencies</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Strong knowledge of payroll regulations, wage &amp; hour laws, and multi-state payroll practices.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Proficiency with payroll systems such as ADP, Workday, or UKG; experience with Workday Payroll Integration, Absence, and Time Tracking is a plus.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Advanced Microsoft Office and Excel skills.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Exceptional leadership, communication, and problem-solving abilities.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Ability to balance strategic vision with meticulous attention to detail.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Proven success in managing, motivating, and developing high-performing teams.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Collaborative mindset with the ability to work effectively across departments.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Thrives in a fast-paced, deadline-driven environment.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong>Qualifications</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Bachelor&#39;s degree in Accounting, Finance, Business Administration, or a related field.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">CPP designation preferred.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">8&ndash;10&plus; years of progressive payroll experience, including 3&ndash;5 years in a management role.</span></span></li>\r\n\t<li><span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\">Experience managing payroll in a large, multi-office organization; professional services or law firm background strongly preferred.</span></span></li>\r\n</ul>\r\n<span style=\"font-size:9pt;\"><span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong>Skills and Certifications</strong> [note: bold skills and certification are required]<br />\r\n<br />\r\n<strong>Strong knowledge of payroll regulations, wage &amp; hour laws, and multi-state payroll practices.</strong><br />\r\n<strong>Proficiency with payroll systems such as ADP, Workday, or UKG</strong><br />\r\n<strong>Experience with Workday Payroll Integration, Absence, and Time Tracking is a plus.</strong><br />\r\n<strong>Advanced Microsoft Office and Excel skills.</strong><br />\r\n<strong>Exceptional leadership, communication, and problem-solving abilities.</strong><br />\r\n<strong>CPP designation preferred.</strong><br />\r\n<strong>8 to 10&plus; years of progressive payroll experience, including 3 to 5 years in a management role.</strong><br />\r\n<strong>Experience managing payroll in a large, multi-office organization</strong><br />\r\n<strong>professional services or law firm background strongly preferred.</strong></span></span><br />\r\n <br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26391623",
+    "time_scraped": 1759524354060,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -609,12 +845,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div>\r\n<p><strong><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Sr VMware Horizon Engineer<br />\r\nLocation: Jersey City \\ Whitehouse Station, NJ \\ Philadelphia.<br />\r\nDuration:6 Months CTH&nbsp;</span></span></span></strong></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"><strong>Job Hours: </strong>8-5PM EST with some After hours and Weekend work<br />\r\n<strong>Job Schedule: </strong>40 Hours in Office<br />\r\n<strong>Interview Process:</strong> Virtual</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">We are seeking a highly skilled and experienced Sr VMware Horizon Engineer (SME) to join our team. The ideal candidate will be responsible for designing, implementing, managing, and optimizing VMware Horizon environments to deliver seamless virtual desktop infrastructure (VDI) solutions. As the SME, you will provide technical expertise, troubleshoot complex issues, and ensure the stability, scalability, and performance of the VMware Horizon platform. This role requires a deep understanding of VMware Horizon, virtualization technologies, and end-user computing.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Primary Responsibilities:<br />\r\nDesign and Implementation:<br />\r\n&bull; Architect, design, and deploy VMware Horizon solutions to meet business requirements.<br />\r\n&bull; Configure and optimize VMware Horizon components, including Connection Servers, Unified Access Gateways, App Volumes, and Dynamic Environment Manager (DEM).<br />\r\n&bull; Integrate VMware Horizon with other enterprise systems, such as Active Directory, storage, and networking.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Administration and Maintenance:<br />\r\n&bull; Manage and maintain the VMware Horizon environment, ensuring high availability and performance.<br />\r\n&bull; Perform regular updates, patches, and upgrades to VMware Horizon components.<br />\r\n&bull; Monitor system performance, troubleshoot issues, and implement corrective actions.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Technical Expertise:<br />\r\n&bull; Serve as the subject matter expert for VMware Horizon and related technologies.<br />\r\n&bull; Provide guidance and mentorship to IT teams on best practices for VDI deployment and management.<br />\r\n&bull; Stay updated on the latest VMware Horizon features, updates, and industry trends.<br />\r\n&bull; Conduct Product and vendor analysis to ensure Client&#39;s alignment to industry standards and trends.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Support and Troubleshooting:<br />\r\n&bull; Provide Level 2/3 support for complex issues related to VMware Horizon and VDI environments.<br />\r\n&bull; Collaborate with cross-functional teams to resolve technical challenges and ensure user satisfaction.<br />\r\n&bull; Conduct root cause analysis for recurring issues and implement long-term solutions.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Documentation and Training:<br />\r\n&bull; Create and maintain detailed documentation, including architecture diagrams, configuration guides, and standard operating procedures.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Security and Compliance:<br />\r\n&bull; Ensure the VMware Horizon environment adheres to organizational security policies and compliance requirements.<br />\r\n&bull; Implement security best practices for VDI, including multi-factor authentication and data encryption.<br />\r\n&bull; Performance Optimization:<br />\r\n&bull; Analyze and optimize the performance of the VMware Horizon environment to ensure a seamless user experience.<br />\r\n&bull; Conduct capacity planning and scalability assessments to support future growth.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Qualifications Required:<br />\r\n&bull; Bachelor&#39;s degree in Computer Science, Information Technology, or a related field (or equivalent experience).<br />\r\n&bull; 5&plus; years of experience in IT infrastructure, with at least 3 years of hands-on experience with VMware Horizon.<br />\r\n&bull; Expertise in VMware Horizon components, including Connection Servers, Unified Access Gateways, App Volumes, and Dynamic Environment Manager.<br />\r\n&bull; Strong knowledge of virtualization technologies, including VMware vSphere and ESXi.<br />\r\n&bull; Proficiency in Windows Server, Active Directory, and Group Policy management.<br />\r\n&bull; Experience with networking concepts, including VLANs, firewalls, and load balancers.<br />\r\n&bull; Strong troubleshooting and problem-solving skills.<br />\r\n&bull; Excellent communication and documentation skills.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Preferred:<br />\r\n&bull; VMware Certified Professional (VCP) certification in Desktop and Mobility or Data Center Virtualization.<br />\r\n&bull; Experience with cloud-based VDI solutions, such as VMware Horizon Cloud on Azure or AWS.<br />\r\n&bull; Familiarity with scripting and automation tools (e.g., PowerShell, Python).<br />\r\n&bull; Knowledge of ITIL processes and frameworks.</span></span></span></p>\r\n\r\n<p><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Key Competencies:<br />\r\n&bull; Strong analytical and critical thinking skills.<br />\r\n&bull; Ability to work independently and as part of a team.<br />\r\n&bull; Strong organizational and time management skills.<br />\r\n&bull; Customer-focused mindset with a commitment to delivering high-quality solutions.</span></span></span></p>\r\n</div>\r\n<br>",
     "recruiter": [
       "Stephan Biravin",
       "Stephan@georgiait.com",
       "4049401010"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26388102",
+    "time_scraped": 1759524360006,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -640,12 +878,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>This is a for LPL.<br />\r\nLocation: fort mill<br />\r\n<span style=\"font-size:11.0pt;\">Onsite 3 days a week</span><br />\r\n <br />\r\n <br />\r\n<strong>AEM Lead &ndash; Job Description</strong><br />\r\nWe are seeking an experienced AEM Lead with deep expertise in AEM backend development, AWS integration, and proven experience in solution design and project planning. The ideal candidate will also have hands-on experience implementing AI chatbots and conversational interfaces within enterprise environments.<br />\r\n<strong>Key Responsibilities:</strong>\r\n<ul>\r\n\t<li>Lead the design, development, and deployment of AEM solutions, focusing on backend architecture and integrations.</li>\r\n\t<li>Architect and implement integrations between AEM and AWS services.</li>\r\n\t<li>Oversee project planning, technical design, and solution delivery, ensuring alignment with business requirements.</li>\r\n\t<li>Design and integrate AI chatbot solutions to enhance user engagement and automate support workflows.</li>\r\n\t<li>Collaborate with stakeholders, developers, and DevOps teams to define technical strategies and best practices.</li>\r\n\t<li>Mentor and guide development teams, conducting code reviews and ensuring adherence to standards.</li>\r\n\t<li>Troubleshoot complex issues and provide technical leadership throughout the project lifecycle.</li>\r\n</ul>\r\n<strong>Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>Extensive experience with AEM backend development and architecture.</li>\r\n\t<li>Strong knowledge of AWS services and integration patterns.</li>\r\n\t<li>Hands-on experience designing and deploying AI chatbot solutions.</li>\r\n\t<li>Proven track record in solution design, technical planning, and project leadership.</li>\r\n\t<li>Excellent communication and stakeholder management skills.</li>\r\n\t<li>Experience with CI/CD, DevOps practices, and agile methodologies is a plus.</li>\r\n</ul>\r\nThis role is ideal for a hands-on technical leader who can drive AEM projects from conception to delivery, including the integration of AI-powered chatbots for enhanced digital experiences.<br />\r\n <br />\r\n </div>\r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26384552",
+    "time_scraped": 1759524360008,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -671,12 +911,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"><strong>Job Title: NYB - Sr. Developer<br />\r\nLocation: New York, Hybrid (3-4 days/week on site)<br />\r\nDuration: Long Term -12 Months contract</strong>&nbsp;<br />\r\n<br />\r\n<strong>Role Description: </strong><br />\r\n*Hands-on Coding, design and testing of changes in the Rates and Credit eTrading platform.<br />\r\n*Changes including ECN connectivity, Pricing, RFQ processing, Pricing and STP.<br />\r\n*Focus on low latency, capacity and performance in terms of messaging layer, caching of data, management of data structures and concurrency.<br />\r\nCandidate Must-Have Skills and Requirements:<br />\r\n<br />\r\n<strong>Must haves </strong><br />\r\n*Languages &ndash; Server side Java and / or C&plus;&plus;, Python<br />\r\n*Messaging - Solace, Kafka, Aeron, MQ<br />\r\n*SQL/DB &ndash; SQL, DB (MS SQL, Oracle)<br />\r\n*DevOps - Jenkins, github actions, urbancode.<br />\r\n<br />\r\n<strong>Nice to haves </strong><br />\r\n*AWS &ndash; S3, SQS, SSM, KMS, etc<br />\r\n*2&plus; years of application development in Front-Office Fixed Income, EQ or FX platforms.</span></span></span></div>\r\n<br>",
     "recruiter": [
       "Stephan Biravin",
       "Stephan@georgiait.com",
       "4049401010"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26384531",
+    "time_scraped": 1759524360042,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -702,12 +944,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><span style=\"font-family:Cambria,serif;\">Description </span><br />\r\n<span style=\"font-family:Cambria,serif;\">* AWS,<br />\r\n* WebAPI<br />\r\n* .Net Core<br />\r\n* Kubernetes<br />\r\n* AWS<br />\r\n* AWS CLI<br />\r\n* Docker<br />\r\n<br />\r\nExperience with SOA principles and design patterns.<br />\r\nExperience with .NET Core, WebAPI,, C# and web services (REST/SOAP).<br />\r\nHands on experience in SQL server procedures, views, indexes and performance tuning.<br />\r\nShould have a good sense for Code Architecture and Design Principles.<br />\r\nExperience in deploying, operating, and managing services in AWS or other cloud environments.</span></div>\r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26384442",
+    "time_scraped": 1759524360060,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -733,12 +977,14 @@
     },
     "salary": null,
     "remote": 50,
+    "description": "<br><div><em><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Job Title: </span></span></em><strong><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Business Analyst 5 (Hybrid)</span></span></strong><br />\r\n<em><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Position Type: </span></span></em><strong><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Contract (10-27-2025 - 10-27-2026)</span></span></strong><br />\r\n<em><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Location: </span></span></em><strong><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Lansing, MI</span></span></strong><br />\r\n<em><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Primary Skills: </span></span></em><strong><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Business Analysis, Azure</span></span></strong><br />\r\n<br />\r\n<br />\r\n<strong><em><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Job Description</span></span></em></strong>﻿<br />\r\n<strong><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsibilities</span></span></strong>\r\n<ol>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for documenting business requirements that are clear, unambiguous, testable, and satisfy the business need in accordance with standard templates and adherence to DTMB and MDOS policies, standards, and guidelines.  </span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for facilitating requirement gathering meetings to identify impacted business processes and document the project business requirements.  Attendees include relevant project team members and stakeholders as identified in the Communication Plan.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for adhering to the project schedule by developing and maintaining the project backlog during Agile projects and working with the product owner to set priority throughout the duration of project.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for understanding project scope and actively monitoring requirements process to maintain adherence to the objectives set for the project.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for understanding high-level information governance objectives and ensuring appropriate Stakeholder inclusion and/or awareness regarding data requirements.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for appropriate resolution of critical IT issues as it pertains to the BA role.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for providing information and analysis for Build vs. Buy project decisions.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Responsible for understanding project specific benefits and related impact of changes to project scope or business requirements.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Ensures SEM (system engineering methodology) deliverables for the project that are a responsibility of the BA are completed, reviewed, and approved in alignment with area processes.</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Works directly with project team including user interface/user experience (UI/UX) solution architects, database administrators, developers, QA testers, and others to ensure understanding of the requirements, functionality, size, and scalability of the IT solution.</span></span></li>\r\n</ol>\r\n﻿<br />\r\n<strong><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Skill Set</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Business Analyst</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Quality Assurance Knowledge</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Azure DevOps Knowledge (comfortable with creating epics/features/user stories for projects as well as moving cards through project lifecycle)</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Understanding of BA, QA, DEV roles/responsibilities</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Experienced with as-is/to-be processes and content creation</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Experience with creating product roadmap</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Familiarity with Project Management Methodologies/Agile</span></span></li>\r\n\t<li><span style=\"font-family:Verdana,sans-serif;\"><span style=\"font-size:9.0pt;\">Adept with using BA tools (e.g., FIGMA, Visio)</span></span></li>\r\n</ul>\r\n﻿<br />\r\n </div>\r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26383734",
+    "time_scraped": 1759524360024,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -764,12 +1010,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div>\r\n<p data-end=\"419\" data-start=\"267\"><strong data-end=\"280\" data-start=\"267\">Position:</strong> . AWS WebApi Developer<br data-end=\"309\" data-start=\"306\" />\r\n<strong data-end=\"322\" data-start=\"309\">Location:</strong> Remote<br data-end=\"361\" data-start=\"358\" />\r\n<strong data-end=\"374\" data-start=\"361\">Duration:</strong>  12&plus; Months<br data-end=\"401\" data-start=\"398\" />\r\n<strong data-end=\"410\" data-start=\"401\">Rate:</strong> DOE</p>\r\n\r\n<h3 data-end=\"446\" data-start=\"421\"><strong data-end=\"444\" data-start=\"425\">Job Description</strong></h3>\r\n\r\n<p data-end=\"715\" data-start=\"447\">We are seeking an experienced <strong data-end=\"506\" data-start=\"477\">.NET Core / AWS Developer</strong> to join our team. The ideal candidate will have strong expertise in designing and developing scalable applications, leveraging <strong data-end=\"659\" data-start=\"634\">cloud-native services</strong>, and applying <strong data-end=\"712\" data-start=\"674\">SOA principles and design patterns</strong>.</p>\r\n\r\n<h3 data-end=\"747\" data-start=\"717\"><strong data-end=\"745\" data-start=\"721\">Key Responsibilities</strong></h3>\r\n\r\n<ul data-end=\"1403\" data-start=\"748\">\r\n\t<li data-end=\"822\" data-start=\"748\">\r\n\t<p data-end=\"822\" data-start=\"750\">Develop and maintain applications using <strong data-end=\"819\" data-start=\"790\">.NET Core, WebAPI, and C#</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"882\" data-start=\"823\">\r\n\t<p data-end=\"882\" data-start=\"825\">Design and implement <strong data-end=\"879\" data-start=\"846\">RESTful and SOAP web services</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"997\" data-start=\"883\">\r\n\t<p data-end=\"997\" data-start=\"885\">Work with <strong data-end=\"909\" data-start=\"895\">SQL Server</strong> (procedures, views, indexes) and perform <strong data-end=\"994\" data-start=\"951\">query optimization &amp; performance tuning</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1105\" data-start=\"998\">\r\n\t<p data-end=\"1105\" data-start=\"1000\">Apply strong <strong data-end=\"1056\" data-start=\"1013\">code architecture and design principles</strong> to ensure maintainable and scalable solutions.</p>\r\n\t</li>\r\n\t<li data-end=\"1200\" data-start=\"1106\">\r\n\t<p data-end=\"1200\" data-start=\"1108\">Deploy, operate, and manage services in <strong data-end=\"1161\" data-start=\"1148\">AWS Cloud</strong> using <strong data-end=\"1179\" data-start=\"1168\">AWS CLI</strong> and related tools.</p>\r\n\t</li>\r\n\t<li data-end=\"1299\" data-start=\"1201\">\r\n\t<p data-end=\"1299\" data-start=\"1203\">Utilize <strong data-end=\"1221\" data-start=\"1211\">Docker</strong> and <strong data-end=\"1240\" data-start=\"1226\">Kubernetes</strong> for containerization and orchestration of microservices.</p>\r\n\t</li>\r\n\t<li data-end=\"1403\" data-start=\"1300\">\r\n\t<p data-end=\"1403\" data-start=\"1302\">Collaborate with cross-functional teams to deliver high-quality, secure, and scalable applications.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1430\" data-start=\"1405\"><strong data-end=\"1428\" data-start=\"1409\">Required Skills</strong></h3>\r\n\r\n<ul data-end=\"1863\" data-start=\"1431\">\r\n\t<li data-end=\"1486\" data-start=\"1431\">\r\n\t<p data-end=\"1486\" data-start=\"1433\">Strong experience in <strong data-end=\"1483\" data-start=\"1454\">.NET Core, WebAPI, and C#</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1587\" data-start=\"1487\">\r\n\t<p data-end=\"1587\" data-start=\"1489\">Hands-on experience with <strong data-end=\"1528\" data-start=\"1514\">SQL Server</strong> (stored procedures, views, indexes, performance tuning).</p>\r\n\t</li>\r\n\t<li data-end=\"1665\" data-start=\"1588\">\r\n\t<p data-end=\"1665\" data-start=\"1590\">Proficiency in <strong data-end=\"1627\" data-start=\"1605\">AWS Cloud services</strong>, <strong data-end=\"1640\" data-start=\"1629\">AWS CLI</strong>, and cloud deployment.</p>\r\n\t</li>\r\n\t<li data-end=\"1716\" data-start=\"1666\">\r\n\t<p data-end=\"1716\" data-start=\"1668\">Experience with <strong data-end=\"1694\" data-start=\"1684\">Docker</strong> and <strong data-end=\"1713\" data-start=\"1699\">Kubernetes</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1786\" data-start=\"1717\">\r\n\t<p data-end=\"1786\" data-start=\"1719\">Deep understanding of <strong data-end=\"1759\" data-start=\"1741\">SOA principles</strong> and <strong data-end=\"1783\" data-start=\"1764\">design patterns</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1863\" data-start=\"1787\">\r\n\t<p data-end=\"1863\" data-start=\"1789\">Strong knowledge of <strong data-end=\"1830\" data-start=\"1809\">code architecture</strong> and <strong data-end=\"1860\" data-start=\"1835\">design best practices</strong>.</p>\r\n\t</li>\r\n</ul>\r\n</div>\r\n<br>",
     "recruiter": [
       "Glaro Ace",
       "Glaro@georgiait.com",
       "9257652884"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26383473",
+    "time_scraped": 1759524366057,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -795,12 +1043,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br>Job Title _ Mulesoft Lead Developer<br />\r\nLocation _ Remote  <br />\r\nDuration _12&plus; Months Contract<br />\r\n <br />\r\n<strong><u>Job Description </u></strong><br />\r\n&bull; Minimum 10&plus; years of experience in integration and middleware technologies.<br />\r\n&bull; At least 3&plus; years of hands-on experience with MuleSoft Anypoint Platform.<br />\r\n&bull; Experience with mule runtime versions 4.9.7 (Java 17 upgrades), 4.4.0, Anypoint Studio, Cloudhub, Dataweave transformations, Anypoint MQ, Azure Service Bus, IBM MQ, SFTP, Azure SQL DB, DataDog<br />\r\n&bull; Proven experience in migration projects from legacy systems to MuleSoft.<br />\r\n&bull; Strong understanding of API-led connectivity, ESB, and microservices architecture.<br />\r\n&bull; Experience with GitHub workflows or process know-how is nice to have<br />\r\n&bull; Excellent troubleshooting, communication, coordination, and stakeholder management skills.<br />\r\n________________________________________<br />\r\nPreferred Qualifications:<br />\r\n&bull; MuleSoft Certified Developer or Architect.<br />\r\n&bull; Experience with tools like JIRA, Confluence, GitHub, Jenkins.<br />\r\n&bull; Familiarity with Agile/Scrum methodologies.<br />\r\n&bull; Background in Supply chain / warehouse management system integrations is a plus.<br />\r\n <br>",
     "recruiter": [
       "Glaro Ace",
       "Glaro@georgiait.com",
       "9257652884"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26383235",
+    "time_scraped": 1759524366091,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -826,12 +1076,14 @@
     },
     "salary": null,
     "remote": 30,
+    "description": "<br><div><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"><strong>Sr. Data Analyst<br />\r\nLocation: Richmond, VA (3 Days On-site)<br />\r\nDuration: Full Time Employment&nbsp;</strong><br />\r\n<br />\r\nJob Duties<br />\r\n60% Essential &ndash; Data collection and analysis processes </span></span></span>\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Conduct advanced/complex quantitative data analyses to assess performance and identify root causes. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Collaborate with IT and Data Architect on data requirements. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Build data models (regression, forecasting, predictive analytics). </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Design and develop reports, visualizations, and dashboards. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Maintain data governance standards, archives, and dictionaries. </span></span></span></li>\r\n</ul>\r\n<span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"> 20% Essential &ndash; Project participation </span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Define and document data requirements for projects. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Ensure validation and retrieval of project data. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Work with project staff to evaluate and report performance. </span></span></span></li>\r\n</ul>\r\n<span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"> 20% Essential &ndash; Data Governance activities </span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Lead/assist with enterprise data governance initiatives. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Collaborate across organization to ensure compliance. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Support Data Governance Council with technical solutions. </span></span></span></li>\r\n</ul>\r\n<span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"> Knowledge, Skills, and Abilities </span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Strong knowledge of research, evaluation techniques, and statistical analysis. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Skilled in creating advanced visualizations, dashboards, and data models. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Experience in regression, forecasting, predictive analytics. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Strong policy/legislative analysis and organizational performance improvement background. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Knowledge of public/business administration and project planning. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Excellent presentation and communication skills. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Experience in Microsoft 365 (Word, Excel, PowerPoint, Power BI), with preferred skills in Microsoft Project, Visio, Python, and R. </span></span></span></li>\r\n</ul>\r\n<span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"> Education, Experience, Licensure, Certification </span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Experience in collecting, managing, and analyzing statistical data. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Background in strategic planning, project management, and policy analysis. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Strong data management skills aligned with industry standards. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Experience in preparing effective communications and presentations. </span></span></span></li>\r\n</ul>\r\n</div>\r\n<br>",
     "recruiter": [
       "Stephan Biravin",
       "Stephan@georgiait.com",
       "4049401010"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26380588",
+    "time_scraped": 1759524365996,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -857,12 +1109,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><br />\r\n <br />\r\n Description:<br />\r\n <br />\r\nTitle         :Sr Mulesoft Lead Developer/ Architect<br />\r\nclient       :Supply Chain Based client in PA<br />\r\nLocation  : Remote<br />\r\nDuration  :10 months<br />\r\n<br />\r\n&bull; Minimum 10&plus; years of experience in integration and middleware technologies.<br />\r\n&bull; At least 3&plus; years of hands-on experience with MuleSoft Anypoint Platform.<br />\r\n&bull; Experience with mule runtime versions 4.9.7 (Java 17 upgrades), 4.4.0, Anypoint Studio, Cloudhub, Dataweave transformations, Anypoint MQ, Azure Service Bus, IBM MQ, SFTP, Azure SQL DB, DataDog<br />\r\n&bull; Proven experience in migration projects from legacy systems to MuleSoft.<br />\r\n&bull; Strong understanding of API-led connectivity, ESB, and microservices architecture.<br />\r\n&bull; Experience with GitHub workflows or process know-how is nice to have<br />\r\n&bull; Excellent troubleshooting, communication, coordination, and stakeholder management skills.<br />\r\n________________________________________<br />\r\nPreferred Qualifications:<br />\r\n&bull; MuleSoft Certified Developer or Architect.<br />\r\n&bull; Experience with tools like JIRA, Confluence, GitHub, Jenkins.<br />\r\n&bull; Familiarity with Agile/Scrum methodologies.<br />\r\n&bull; Background in Supply chain / warehouse management system integrations is a plus.<br />\r\n </div>\r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26378376",
+    "time_scraped": 1759524366101,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -888,12 +1142,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Job Title: <strong> Tester (Onsite)</strong><br /> \r\nPosition Type: <strong> Contract (10-14-2025 - 10-16-2026)</strong><br /> \r\nLocation: <strong> Malvern, PA</strong><br /> \r\nPrimary Skills: <strong> Automated QA Testing</strong><br /> \r\n<br /> \r\n<strong> Job Description</strong>﻿<br /> \r\n<strong> Responsibilities</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Leads in the testing and documentation of business systems and user needs. </span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Defines criteria for testing, participates in test scenario planning, and implements testing tools to ensure proper test execution. </span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Assists in the quality assurance and implementation of systems and software. </span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Reviews all system changes prior to elevation and customizes validation suite based on coded system changes.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Responsible for the ongoing validation of the systems, ensuring that all software changes have successfully been deployed and elevated prior to exposure to the client and crew.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Qualifications</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Proven ability to work within agreed-upon timelines with attention to detail.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Ability to deal with ambiguity and rapid change.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Strong interpersonal, negotiating, and influencing skills.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Excellent verbal and written communication skills.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Demonstrated ability to effectively manage multiple priorities simultaneously.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Ability to work both independently and in a team environment.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Strong analytical, organizational, and problem-solving skills.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Ability to identify and interpret design workflows and processes.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Excellent documentation skills.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Ability to deal effectively and professionally with people at various levels.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> Experience with software testing automation tools (i.e., Cypress, Playwright)</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\">  </span> </span> </div> \r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26377187",
+    "time_scraped": 1759524366065,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -919,12 +1175,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\"><strong>Markets IT PM<br />\r\nLocation: New York, NY- Hybrid&nbsp;<br />\r\nDuration: 3&plus; Months (Possible Extension)</strong><br />\r\n<br />\r\n<strong>JOB DESCRIPTION </strong><br />\r\n<strong>IT Project Manager for Markets<u> </u> </strong><br />\r\n<br />\r\n<strong>Candidate Must-Have Skills and Requirements: </strong></span></span></span>\r\n<ul>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Proactive, independent, and well organized. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Knowledge of Markets activity and products (Rates, Credit, FX, Converts, etc.). </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Knowledge of IT terminology, concepts, and processes. </span></span></span></li>\r\n\t<li><span style=\"color:#000000\"><span style=\"font-size:10pt\"><span style=\"font-family:verdana,geneva,sans-serif\">Ability to discuss and understand technical concepts. </span></span></span></li>\r\n</ul>\r\n</div>\r\n<br>",
     "recruiter": [
       "Stephan Biravin",
       "Stephan@georgiait.com",
       "4049401010"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26375819",
+    "time_scraped": 1759524372113,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -950,12 +1208,14 @@
     },
     "salary": null,
     "remote": 100,
+    "description": "<br><div> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\">  <strong> Job Title: Sr. Backend App Developer – AI Tools Integration / Configuration</strong><br /> \r\n<strong> Location:</strong> Remote (U.S.)<br /> \r\n<strong> Type:</strong> Long-Term Contract<br /> \r\n<strong> Rate:</strong> Best possible<br /> \r\n<span style=\"background-color:#00ffff;\"> US Citizens, GC visa holders preferred, NO third party corp to corp accepted for this job</span> <br /> \r\n<br /> \r\n <br /> \r\n<strong> Key Responsibilities</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Design, develop, and maintain <strong> REST APIs</strong> and backend services for enterprise applications.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Integrate and configure <strong> AI tools</strong> (e.g., Profound or similar) for <strong> content creation, analytics, and SEO optimization</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Collaborate with cross-functional teams on <strong> AI-driven search engine initiatives (GenAI SEO)</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Ensure seamless <strong> application integration</strong> across multiple platforms.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Work with <strong> Salesforce Commerce Cloud (SFCC)</strong> backend components as required.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Support performance tuning, optimization, and troubleshooting of backend services.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Document technical solutions, best practices, and integration workflows.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\">  <br /> \r\n<strong> Required Skills & Qualifications</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> <strong> 7&plus; years</strong> of backend development experience.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Strong hands-on experience with <strong> REST API / Web Services</strong> and enterprise <strong> application integration</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Knowledge of <strong> AI tools</strong> for <strong> content creation, analytics, and SEO</strong> (Profound or similar).</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Experience with <strong> AI Search Engine Optimization (GenAI SEO)</strong> initiatives.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Familiarity with <strong> SFCC (Salesforce Commerce Cloud)</strong> backend requirements.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Strong problem-solving, debugging, and performance optimization skills.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> Excellent communication and ability to work across distributed teams.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:11pt;\"> <span style=\"font-family:Arial,Helvetica,sans-serif;\">  <br /> \r\n <br /> \r\n </span> </span> </div> \r\n<br>",
     "recruiter": [
       "Jason Roy",
       "Jason@georgiait.com",
       "4707985000"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26375817",
+    "time_scraped": 1759524372071,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -981,12 +1241,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div> <strong> <span style=\"font-family:Trebuchet MS,sans-serif;\"> <span style=\"font-size:10.0pt;\"> Please submit resumes with contact information of <u> <span style=\"color:red;\"> your own W2 Consultants only</span> </u> . We would also accept US Citizens / Green cards who are on a Corp-Corp with your company. <span style=\"color:red;\"> We will NOT accept candidates who are on 1099 setup with your company.</span>  Candidates expected MUST have excellent comm skills.</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:Trebuchet MS,sans-serif;\"> <span style=\"font-size:10.0pt;\"> Please include LinkedIn recommendations with every submission.</span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Location: Boston, MA (Remote)</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Duration: 4-6 Months </span> </span> </strong><br /> \r\n<br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Key Responsibilities</span> </span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Build and maintain automation frameworks for iOS (XCUITest), Android (Espresso), and cross-platform (Appium).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Develop automated test suites for mobile apps and REST/GraphQL APIs.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Integrate tests into CI/CD pipelines and enforce quality gates.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Collaborate with teams to define testable requirements and improve quality processes.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Required Skills</span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Strong coding in Java/Kotlin/Swift/C#</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Hands-on with XCUITest, Espresso, Appium, and API testing tools (REST Assured, Postman, Karate).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Experience with CI/CD tools (Azure DevOps, GitHub Actions, Jenkins).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Knowledge of HTTP, JSON, OAuth2, and debugging mobile apps.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n </div> \r\n<br>",
     "recruiter": [
       "Jokim Michael",
       "jokim@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26368309",
+    "time_scraped": 1759524372143,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15
@@ -1012,198 +1274,14 @@
     },
     "salary": null,
     "remote": 50,
+    "description": "<br><div> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <em> Job Title: </em> <strong> SAP Technical Analyst (Hybrid)</strong><br /> \r\n<em> Position Type: </em> <strong> Contract (10-13-2025 - 09-30-2026)</strong><br /> \r\n<em> Location: </em> <strong> Washington, DC</strong><br /> \r\n<em> Primary Skills: </em> <strong> SAP</strong><br /> \r\n<br /> \r\n<strong> Responsibilities</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Collect, consolidate, and document</strong> technical requirements and use cases from various stakeholders across procure-to-pay and supply chain processes.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Identify, design, and implement</strong> technical improvements and innovative solutions to enhance system functionality and efficiency.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Develop and maintain</strong> applications and custom solutions using SAP technologies, including ABAP, Fiori, and UI5.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Support</strong> BTP configurations and maintenance across multiple applications, ensuring system stability and performance.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Administer and support</strong> SAP Work Zone to facilitate seamless user experience and collaboration.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Manage and execute</strong> integrations between SAP and non-SAP systems, leveraging leading integration models such as APIs and web services.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Collaborate</strong> with data and analytics experts to improve data systems and support enhanced functionality.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Qualifications</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Proven experience</strong> as an SAP Technical Analyst, Developer, or a similar role, with a strong focus on SAP procure-to-pay and supply chain modules.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Expertise in SAP development</strong> with ABAP, Fiori, and UI5.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Familiarity with SAP Business Technology Platform (BTP)</strong> for application development and maintenance.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Experience supporting and configuring</strong> SAP Work Zone.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Demonstrated ability to develop integrations</strong> using APIs, web services, and other leading integration models.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Strong analytical skills</strong> with the ability to translate business needs into technical specifications.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Excellent communication and interpersonal skills</strong> to collaborate effectively with both technical and non-technical teams.</span> </span> </li> \r\n\t<li> <span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\"> <strong> Prior experience</strong> with data and analytics systems is a plus.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:9pt;\"> <span style=\"font-family:Verdana,Geneva,sans-serif;\">  </span> </span> </div> \r\n<br>",
     "recruiter": [
       "Gary Jordan",
       "Gary.jordan@georgiait.com",
       "4707985002"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26367881",
-    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
-    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26360274,
-    "title": "Salesforce Architect-CPQ-Revenue Cloud-Remote",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758208270000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Jokim Michael",
-      "jokim@georgiait.com",
-      "4707985002"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26360274",
-    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
-    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26360082,
-    "title": "Agiloft Consultant - Houston, TX (Onsite)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758206685000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Raymond Michael",
-      "raymond@georgiait.com",
-      "4049404414"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26360082",
-    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
-    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26359718,
-    "title": "Angular Developer- Charlotte, NC",
-    "location": "NC, Charlotte",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758203961000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Brad Davidson",
-      "brad@georgiait.com",
-      "4707985002"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26359718",
-    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
-    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26359702,
-    "title": "Sr. Project Manager SAP and Salesforce",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758203729000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Jokim Michael",
-      "jokim@georgiait.com",
-      "4707985002"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26359702",
-    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
-    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26359695,
-    "title": "Java Architect / Java Solution Architect (Onsite)  - Piscataway, NJ",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758203704000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Gary Jordan",
-      "Gary.jordan@georgiait.com",
-      "4707985002"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26359695",
-    "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
-    "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26359515,
-    "title": "Devops Engineer/ Site Reliability Engineer- Seattle WA",
-    "location": "WA, Seattle",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758202202000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Brad Davidson",
-      "brad@georgiait.com",
-      "4707985002"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google&SearchString=#/jobs/26359515",
+    "time_scraped": 1759524372019,
     "source_company": "g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08",
     "source_url": "https://www2.jobdiva.com/portal/?a=g9jdnwzjhnvto4vaplg752gwru3na902d0vak4s37zofm0lm6v3p80meq1rg0f08&jobid=23373760&source=google",
     "date_cutoff_days": 15

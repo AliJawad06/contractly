@@ -1,5 +1,71 @@
 [
   {
+    "id": 26442899,
+    "title": "Software Developer - Senior",
+    "location": "ON, Toronto",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/2/2025",
+      "date_posted": 1759431572000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><p>If interested, please share your resume at: <a href=\"mailto:pragathi.thalur@2iresourcing.ca\">pragathi.thalur@2iresourcing.ca</a></p>\r\n<strong>Job Title: <span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Software Developer - Senior</span></span></strong><br />\r\n<strong>Duration: 6 months</strong><br />\r\n<strong>Location: <span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">222 Jarvis St</span></span></strong><strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">, Toronto</span></span></strong><br />\r\n<br />\r\n<strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Must Have:</span></span></strong>\r\n\r\n<ul>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">5 &plus;years of experience in data analysis developing business intelligence and reporting in a medium to large size corporate environment demonstrating detailed knowledge of BI functions such as analytics, data modeling &amp; data mining, reporting, report conversion and data cleansing.  </span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Experience in Azure Databricks, Delta Lake, Azure Storage, ADF, Azure Analysis Service  </span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Design and develop BI dashboards and reports based on business requirements  </span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Implement, maintain, and support BI solutions in Microsoft and other BI platforms </span></span></li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Pragathi Thalur",
+      "pragathi.thalur@2iresourcing.ca",
+      "6473679627"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26442899",
+    "time_scraped": 1759525930870,
+    "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
+    "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26442336,
+    "title": "Solutions Designer - Intermediate",
+    "location": "ON, Toronto",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/2/2025",
+      "date_posted": 1759426989000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><p>If interested, please share your resume at: <a href=\"mailto:pragathi.thalur@2iresourcing.ca\">pragathi.thalur@2iresourcing.ca</a></p>\r\n<strong>Job Title: <span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Solutions Designer - Intermediate</span></span></strong><br />\r\n<strong>Duration: 12 months(possibility for extension)</strong><br />\r\n<b><strong>Location: 56 Wellesley Street West, Toronto</strong></b><br />\r\n<br />\r\n<strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Must Haves:</span></span></strong>\r\n\r\n<ul>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Demonstrated experience in Azure Databricks, Delta Lake, Azure Storage, ADF, Azure Analysis Service</span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Converting PL/SQL package into Databricks code and having some basic understanding of Oracle Cloud DB</span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Implement, maintain, and support BI solutions in Microsoft and other BI platforms</span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Experience with cloud platforms like Azure and working knowledge of cloud migration</span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Experience with Microsoft Azure data analytics tools, such as Azure Data Factories, Azure Databricks, and Azure Synapse</span></span></li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Pragathi Thalur",
+      "pragathi.thalur@2iresourcing.ca",
+      "6473679627"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26442336",
+    "time_scraped": 1759525930998,
+    "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
+    "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
+    "date_cutoff_days": 15
+  },
+  {
     "id": 26441607,
     "title": "Program Manager - Intermediate",
     "location": "ON, Oshawa",
@@ -20,12 +86,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><strong bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:23, &quot;w &quot;:402, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:356}\"> If interested, please share latest Resume at <a bis_size=\"{ &quot;x &quot;:244, &quot;y &quot;:23, &quot;w &quot;:173, &quot;h &quot;:14, &quot;abs_x &quot;:560, &quot;abs_y &quot;:356}\" href=\"mailto:hiten.shah@2iresourcing.ca\"> hiten.shah@2iresourcing.ca</a>  </strong><br /> \r\n<br bis_size=\"{ &quot;x &quot;:422, &quot;y &quot;:23, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:738, &quot;abs_y &quot;:356}\" /> \r\nRQ09765 - Program Manager - Intermediate<br bis_size=\"{ &quot;x &quot;:275, &quot;y &quot;:44, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:591, &quot;abs_y &quot;:377}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:64, &quot;w &quot;:56, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:397}\" style=\"color:black;\"> Location: </span> 33 King Street, Oshawa, ON<br bis_size=\"{ &quot;x &quot;:240, &quot;y &quot;:64, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:556, &quot;abs_y &quot;:397}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:85, &quot;w &quot;:98, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:418}\" style=\"color:black;\"> Period: 5 Months</span> <br bis_size=\"{ &quot;x &quot;:118, &quot;y &quot;:85, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:434, &quot;abs_y &quot;:418}\" /> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:106, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:439}\" /> \r\n<strong bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:127, &quot;w &quot;:69, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:460}\"> Must Have:</strong> \r\n<ul bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:157, &quot;w &quot;:619, &quot;h &quot;:104, &quot;abs_x &quot;:336, &quot;abs_y &quot;:490}\"> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:157, &quot;w &quot;:539, &quot;h &quot;:20, &quot;abs_x &quot;:376, &quot;abs_y &quot;:490}\"> Extensive experience with Program Management and strong PMLC exp.</li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:178, &quot;w &quot;:539, &quot;h &quot;:20, &quot;abs_x &quot;:376, &quot;abs_y &quot;:511}\"> Strong IT and vendor management exp.</li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:199, &quot;w &quot;:539, &quot;h &quot;:20, &quot;abs_x &quot;:376, &quot;abs_y &quot;:532}\"> Strong Governance exp.</li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:220, &quot;w &quot;:539, &quot;h &quot;:20, &quot;abs_x &quot;:376, &quot;abs_y &quot;:553}\"> Strong Product Management and KPIs experience.</li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:241, &quot;w &quot;:539, &quot;h &quot;:20, &quot;abs_x &quot;:376, &quot;abs_y &quot;:574}\"> Prior project exp ideal - vendor management (market profiling/analysis).</li> \r\n</ul> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:278, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:611}\" /> \r\n <br>",
     "recruiter": [
       "Hiten Shah",
       "hiten.shah@2iresourcing.ca",
       "647 547 5973"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26441607",
+    "time_scraped": 1759525930955,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -51,12 +119,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:23, &quot;w &quot;:447, &quot;h &quot;:56, &quot;abs_x &quot;:336, &quot;abs_y &quot;:356}\" style=\"color:black;\"> <strong bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:23, &quot;w &quot;:447, &quot;h &quot;:35, &quot;abs_x &quot;:336, &quot;abs_y &quot;:356}\"> If interested, please share latest Resume at <a bis_size=\"{ &quot;x &quot;:290, &quot;y &quot;:23, &quot;w &quot;:173, &quot;h &quot;:14, &quot;abs_x &quot;:606, &quot;abs_y &quot;:356}\" href=\"mailto:hiten.shah@2iresourcing.ca\"> hiten.shah@2iresourcing.ca</a>  <br bis_size=\"{ &quot;x &quot;:467, &quot;y &quot;:23, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:783, &quot;abs_y &quot;:356}\" /> \r\n </strong><br bis_size=\"{ &quot;x &quot;:23, &quot;y &quot;:44, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:339, &quot;abs_y &quot;:377}\" /> \r\nRQ09680 - Project Manager/Leader - Senior</span> <br bis_size=\"{ &quot;x &quot;:275, &quot;y &quot;:64, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:591, &quot;abs_y &quot;:397}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:85, &quot;w &quot;:56, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:418}\" style=\"color:black;\"> Location: </span> <span bis_size=\"{ &quot;x &quot;:76, &quot;y &quot;:85, &quot;w &quot;:199, &quot;h &quot;:14, &quot;abs_x &quot;:392, &quot;abs_y &quot;:418}\" style=\"color:black;\"> Onsite / 21 College Street, Toronto</span> <br bis_size=\"{ &quot;x &quot;:275, &quot;y &quot;:85, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:591, &quot;abs_y &quot;:418}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:106, &quot;w &quot;:98, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:439}\" style=\"color:black;\"> Period: 6 Months</span> <br bis_size=\"{ &quot;x &quot;:118, &quot;y &quot;:106, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:434, &quot;abs_y &quot;:439}\" /> \r\n <br bis_size=\"{ &quot;x &quot;:23, &quot;y &quot;:127, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:339, &quot;abs_y &quot;:460}\" /> \r\n<strong bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:148, &quot;w &quot;:75, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:481}\"> <span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:148, &quot;w &quot;:75, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:481}\" style=\"color:black;\"> Must haves:</span> </strong>\r\n<ul bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:178, &quot;w &quot;:619, &quot;h &quot;:124, &quot;abs_x &quot;:336, &quot;abs_y &quot;:511}\"> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:178, &quot;w &quot;:539, &quot;h &quot;:20, &quot;abs_x &quot;:376, &quot;abs_y &quot;:511}\"> <span bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:181, &quot;w &quot;:151, &quot;h &quot;:14, &quot;abs_x &quot;:376, &quot;abs_y &quot;:514}\" style=\"color:black;\"> Certified Project Manager </span> </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:199, &quot;w &quot;:539, &quot;h &quot;:41, &quot;abs_x &quot;:376, &quot;abs_y &quot;:532}\"> <span bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:202, &quot;w &quot;:533, &quot;h &quot;:35, &quot;abs_x &quot;:376, &quot;abs_y &quot;:535}\" style=\"color:black;\"> At least 8 years of Project Management experience in delivering complex digital/I&IT projects using agile, waterfall and hybrid methodologies</span> </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:241, &quot;w &quot;:539, &quot;h &quot;:62, &quot;abs_x &quot;:376, &quot;abs_y &quot;:574}\"> <span bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:244, &quot;w &quot;:526, &quot;h &quot;:56, &quot;abs_x &quot;:376, &quot;abs_y &quot;:577}\" style=\"color:black;\"> Demonstrate proficiency with different computer applications (MS office suite, Adobe, online engagement tools), to develop presentations of the project plan, risk, issues and other documents or topics as required.  </span> </li> \r\n</ul> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:319, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:652}\" /> \r\n <br>",
     "recruiter": [
       "Hiten Shah",
       "hiten.shah@2iresourcing.ca",
       "647 547 5973"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26441350",
+    "time_scraped": 1759525930947,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -82,12 +152,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><p>If interested, please share your resume at: <a href=\"mailto:pragathi.thalur@2iresourcing.ca\">pragathi.thalur@2iresourcing.ca</a> </p>\r\n<strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Job Title: Business Analyst - Senior</span></span></strong><br />\r\n<strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">Duration:</span></span></strong><strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\"> 6 months(possibility for extension)<br />\r\nLocation: 56 Wellesley Street West,</span></span></strong><strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\"> Toronto</span></span></strong><br />\r\n<br />\r\n<strong><span style=\"font-size:11.0000pt;\"><span style=\"font-family:Calibri;\">MUST HAVES:</span></span></strong>\r\n\r\n<ul>\r\n\t<li value=\"NaN\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">5&plus; years of leading and supporting federal, provincial, and broader public sector healthcare-related projects, including large, complex IT health initiatives.</span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Ability to bring a design-oriented perspective to requirements discovery and solution development, ensuring prototypes and business processes are shaped with user experience and service design principles at the forefront.</span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Conducting analysis across all phases of the project lifecycle, including requirements gathering, business/process modeling, transformation analysis, solution evaluation, and continual refinement of documentation.</span></span></li>\r\n\t<li value=\"NaN\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Applying advanced business modeling techniques (use cases, conceptual/logical data models, process/data flow modeling, business rules, and non-functional requirements) to define solution scope and design.</span></span></li>\r\n</ul>\r\n<br />\r\n<br />\r\n<br />\r\n <br>",
     "recruiter": [
       "Pragathi Thalur",
       "pragathi.thalur@2iresourcing.ca",
       "6473679627"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26440245",
+    "time_scraped": 1759525930820,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -113,12 +185,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><b bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:23, &quot;w &quot;:480, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:556}\"> If interested, please share your Latest Resume at <a bis_size=\"{ &quot;x &quot;:326, &quot;y &quot;:23, &quot;w &quot;:173, &quot;h &quot;:14, &quot;abs_x &quot;:642, &quot;abs_y &quot;:556}\" href=\"mailto:hiten.shah@2iresourcing.ca\"> hiten.shah@2iresourcing.ca</a> </b> <br bis_size=\"{ &quot;x &quot;:500, &quot;y &quot;:23, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:816, &quot;abs_y &quot;:556}\" /> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:44, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:577}\" /> \r\nRQ09772 - Project Manager/Leader - Senior<br bis_size=\"{ &quot;x &quot;:275, &quot;y &quot;:64, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:591, &quot;abs_y &quot;:597}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:85, &quot;w &quot;:56, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:618}\" style=\"color:black;\"> Location: </span> 56 Wellesley St., 2nd Floor, Toronto<br bis_size=\"{ &quot;x &quot;:281, &quot;y &quot;:85, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:597, &quot;abs_y &quot;:618}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:106, &quot;w &quot;:109, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:639}\" style=\"color:black;\"> Period: 5.5 months</span> <br bis_size=\"{ &quot;x &quot;:129, &quot;y &quot;:106, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:445, &quot;abs_y &quot;:639}\" /> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:127, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:660}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:148, &quot;w &quot;:82, &quot;h &quot;:15, &quot;abs_x &quot;:336, &quot;abs_y &quot;:681}\" style=\"font-family:Calibri,sans-serif;\"> <span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:147, &quot;w &quot;:82, &quot;h &quot;:17, &quot;abs_x &quot;:336, &quot;abs_y &quot;:680}\" style=\"font-size:11.0pt;\"> MUST HAVES:</span> </span> \r\n<ul bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:181, &quot;w &quot;:619, &quot;h &quot;:187, &quot;abs_x &quot;:336, &quot;abs_y &quot;:714}\"> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:181, &quot;w &quot;:539, &quot;h &quot;:41, &quot;abs_x &quot;:376, &quot;abs_y &quot;:714}\"> <span bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:184, &quot;w &quot;:525, &quot;h &quot;:35, &quot;abs_x &quot;:376, &quot;abs_y &quot;:717}\" lwc-4nfn2rc40ch=\"\"> 5&plus; years of knowledge and experience working with federal/provincial/broader public sector healthcare related projects</span> </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:222, &quot;w &quot;:539, &quot;h &quot;:41, &quot;abs_x &quot;:376, &quot;abs_y &quot;:755}\"> <span bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:226, &quot;w &quot;:484, &quot;h &quot;:35, &quot;abs_x &quot;:376, &quot;abs_y &quot;:759}\" lwc-4nfn2rc40ch=\"\"> Demonstrated alignment with the Ontario Digital Service Standard, ensuring delivery practices reflect user-centered design, accessibility, privacy, and security principles.</span> </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:264, &quot;w &quot;:539, &quot;h &quot;:41, &quot;abs_x &quot;:376, &quot;abs_y &quot;:797}\"> <span bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:267, &quot;w &quot;:536, &quot;h &quot;:35, &quot;abs_x &quot;:376, &quot;abs_y &quot;:800}\" lwc-4nfn2rc40ch=\"\"> Identifying, prioritizing, and articulating risks and issues at senior executive levels; developing and recommending mitigation strategies.</span> </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:306, &quot;w &quot;:539, &quot;h &quot;:62, &quot;abs_x &quot;:376, &quot;abs_y &quot;:839}\"> <span bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:309, &quot;w &quot;:521, &quot;h &quot;:56, &quot;abs_x &quot;:376, &quot;abs_y &quot;:842}\" lwc-4nfn2rc40ch=\"\"> Driving agile delivery with product-focused teams; collaborating with business analysts and system designers to define scope, translate business requirements into functional specifications, and ensure alignment with operational/IT needs.</span> </li> \r\n</ul> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:384, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:336, &quot;abs_y &quot;:917}\" /> \r\n <br>",
     "recruiter": [
       "Hiten Shah",
       "hiten.shah@2iresourcing.ca",
       "647 547 5973"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26439964",
+    "time_scraped": 1759525936934,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -144,43 +218,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:23,  &quot;w  &quot;:492,  &quot;h  &quot;:103,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:452}\" style=\"font-size:10pt;\">  <strong bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:23,  &quot;w  &quot;:492,  &quot;h  &quot;:37,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:452}\">  If interested, please share your Latest Resume at <a bis_size=\"{  &quot;x  &quot;:334,  &quot;y  &quot;:23,  &quot;w  &quot;:178,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:650,  &quot;abs_y  &quot;:452}\" href=\"mailto:hiten.shah@2iresourcing.ca\">  hiten.shah@2iresourcing.ca</a>  <br bis_size=\"{  &quot;x  &quot;:512,  &quot;y  &quot;:23,  &quot;w  &quot;:0,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:828,  &quot;abs_y  &quot;:452}\" />  \r\n </strong><br bis_size=\"{  &quot;x  &quot;:23,  &quot;y  &quot;:45,  &quot;w  &quot;:0,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:339,  &quot;abs_y  &quot;:474}\" />  \r\nGOAPRDJP00000698 - IMT Management Consultant, Strategist and Planner<br bis_size=\"{  &quot;x  &quot;:475,  &quot;y  &quot;:67,  &quot;w  &quot;:0,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:791,  &quot;abs_y  &quot;:496}\" />  \r\nDuration:  10-months (with possible extension of 12 month)<br bis_size=\"{  &quot;x  &quot;:368,  &quot;y  &quot;:89,  &quot;w  &quot;:0,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:684,  &quot;abs_y  &quot;:518}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:111,  &quot;w  &quot;:88,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:540}\" style=\"color:#1d2d3e;\">  Work Location:</span>   <span bis_size=\"{  &quot;x  &quot;:112,  &quot;y  &quot;:111,  &quot;w  &quot;:97,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:428,  &quot;abs_y  &quot;:540}\" style=\"color:#1d2d3e;\">  Calgary, Alberta </span>  </span>  <br bis_size=\"{  &quot;x  &quot;:209,  &quot;y  &quot;:111,  &quot;w  &quot;:0,  &quot;h  &quot;:15,  &quot;abs_x  &quot;:525,  &quot;abs_y  &quot;:540}\" />  \r\n<br bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:133,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:562}\" />  \r\n<strong bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:156,  &quot;w  &quot;:115,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:585}\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:156,  &quot;w  &quot;:110,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:585}\" style=\"color:#556b82;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:153,  &quot;w  &quot;:110,  &quot;h  &quot;:17,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:582}\" style=\"font-family:Segoe UI,sans-serif;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:153,  &quot;w  &quot;:110,  &quot;h  &quot;:18,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:582}\" style=\"font-size:10.5pt;\">  Work Experience</span>  </span>  </span>  :</strong><br bis_size=\"{  &quot;x  &quot;:135,  &quot;y  &quot;:156,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:451,  &quot;abs_y  &quot;:585}\" />  \r\n <br bis_size=\"{  &quot;x  &quot;:23,  &quot;y  &quot;:177,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:339,  &quot;abs_y  &quot;:606}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:199,  &quot;w  &quot;:613,  &quot;h  &quot;:36,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:628}\" style=\"color:#131e29;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:197,  &quot;w  &quot;:613,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:626}\" style=\"font-family:Segoe UI,sans-serif;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:196,  &quot;w  &quot;:613,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:625}\" style=\"font-size:10.5pt;\">  3 Years - Experience with architecting and integrating AI, ML and analytics services into the enterprise or government data platforms to support orchestration, analysis, and processing at scale.</span>  </span>  </span>  <br bis_size=\"{  &quot;x  &quot;:633,  &quot;y  &quot;:221,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:949,  &quot;abs_y  &quot;:650}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:244,  &quot;w  &quot;:615,  &quot;h  &quot;:36,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:673}\" style=\"color:#131e29;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:241,  &quot;w  &quot;:615,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:670}\" style=\"font-family:Segoe UI,sans-serif;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:241,  &quot;w  &quot;:615,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:670}\" style=\"font-size:10.5pt;\">  3 Years - Experience with managing end-to-end delivery of complex IMT projects, including solution reviews, progress tracking, risk management, and adoption planning.</span>  </span>  </span>  <br bis_size=\"{  &quot;x  &quot;:444,  &quot;y  &quot;:266,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:760,  &quot;abs_y  &quot;:695}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:289,  &quot;w  &quot;:555,  &quot;h  &quot;:36,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:718}\" style=\"color:#131e29;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:286,  &quot;w  &quot;:555,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:715}\" style=\"font-family:Segoe UI,sans-serif;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:285,  &quot;w  &quot;:555,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:714}\" style=\"font-size:10.5pt;\">  7 Years - Experience with leading the design, architecture, and delivery of IMT services and roadmaps using user-centered and agile approaches to meet evolving business needs.</span>  </span>  </span>  <br bis_size=\"{  &quot;x  &quot;:552,  &quot;y  &quot;:311,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:868,  &quot;abs_y  &quot;:740}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:333,  &quot;w  &quot;:604,  &quot;h  &quot;:36,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:762}\" style=\"color:#131e29;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:331,  &quot;w  &quot;:604,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:760}\" style=\"font-family:Segoe UI,sans-serif;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:330,  &quot;w  &quot;:604,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:759}\" style=\"font-size:10.5pt;\">  3 Years - Experience with leading strategic discussions with executives and cross-ministry teams to align stakeholder needs, architectural priorities, and business objectives.</span>  </span>  </span>  <br bis_size=\"{  &quot;x  &quot;:463,  &quot;y  &quot;:356,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:779,  &quot;abs_y  &quot;:785}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:378,  &quot;w  &quot;:595,  &quot;h  &quot;:59,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:807}\" style=\"color:#131e29;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:376,  &quot;w  &quot;:595,  &quot;h  &quot;:62,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:805}\" style=\"font-family:Segoe UI,sans-serif;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:375,  &quot;w  &quot;:595,  &quot;h  &quot;:63,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:804}\" style=\"font-size:10.5pt;\">  5 Years - Experience with designing and implementing enterprise data management frameworks, governance models, and lifecycle processes to support an environment equivalent in size and complexity to the Government of Alberta.</span>  </span>  </span>  <br bis_size=\"{  &quot;x  &quot;:276,  &quot;y  &quot;:423,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:592,  &quot;abs_y  &quot;:852}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:445,  &quot;w  &quot;:582,  &quot;h  &quot;:36,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:874}\" style=\"color:#131e29;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:443,  &quot;w  &quot;:582,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:872}\" style=\"font-family:Segoe UI,sans-serif;\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:442,  &quot;w  &quot;:582,  &quot;h  &quot;:40,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:871}\" style=\"font-size:10.5pt;\">  5 Years - Experience with developing business cases, feasibility studies, risk assessments, scope definitions, and project and program plans.</span>  </span>  </span>  <br bis_size=\"{  &quot;x  &quot;:286,  &quot;y  &quot;:468,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:602,  &quot;abs_y  &quot;:897}\" />  \r\n<br bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:489,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:918}\" />  \r\n<br bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:509,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:336,  &quot;abs_y  &quot;:938}\" />  \r\n <br>",
     "recruiter": [
       "Hiten Shah",
       "hiten.shah@2iresourcing.ca",
       "647 547 5973"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26439909",
-    "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
-    "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26429875,
-    "title": "IT Enterprise Architect/Strategist - Senior",
-    "location": "ON, Toronto",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759267592000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Pragathi Thalur",
-      "pragathi.thalur@2iresourcing.ca",
-      "6473679627"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26429875",
+    "time_scraped": 1759525936917,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -206,12 +251,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <strong> <span style=\"color:black;\"> If interested, please share your resume at <a href=\"mailto:simmi.mittal@2iresourcing.ca\"> simmi.mittal@2iresourcing.ca</a>  <br /> \r\n<br /> \r\nRQ09698 - Application Support Specialist - Junior</span> </strong><br /> \r\n<strong> <span style=\"color:black;\"> Client:</span> </strong> Ministry of Public and Business Service Delivery (former MGCS)<br /> \r\n<strong> <span style=\"color:black;\"> Location:</span> </strong> 222 Jarvis St, Toronto<br /> \r\n<strong> <span style=\"color:black;\"> Period:</span> </strong><span style=\"color:black;\">  6-months<br /> \r\n<strong> Start Date:</strong></span> <span style=\"color:black;\">   2025-09-22 </span> <br /> \r\n<strong> <span style=\"color:black;\"> End Date:</span> </strong><span style=\"color:black;\">   2026-03-31</span> <br /> \r\n<span style=\"color:black;\"> Hybrid: 3 Days onsite / 2 days remote</span> <br /> \r\n<span style=\"color:black;\"> • From October 20, 2025, the candidate is required to work onsite 4 days a week and 1 day from home</span> <br /> \r\n<span style=\"color:black;\"> • From January 5, 2026, the candidate is required to work onsite 5 days a week fully</span> <br /> \r\n <br /> \r\n<strong> <span style=\"color:black;\"> Must haves:</span> </strong><br /> \r\n<span style=\"color:black;\"> o IBM WebSphere Application Server</span> <br /> \r\n<span style=\"color:black;\"> o Deployment Automation - Urban Code Deploy and Urban Code Velocity</span> <br /> \r\n<span style=\"color:black;\"> o Middleware Monitoring tools e.g. ITCAM, Dynatrace</span> <br /> \r\n<span style=\"color:black;\"> o Cloud technology including OpenShift, Kubernetes and Ansible</span> <br /> \r\n<span style=\"color:black;\"> • Experience with ITIL Incident Management process</span> <br /> \r\n<span style=\"color:black;\"> • Experience with ITIL Change Management process</span> </span> </span> <br /> \r\n<br /> \r\n <br>",
     "recruiter": [
       "Simmi Mittal",
       "simmi.mittal@2iresourcing.ca",
       "6137076301"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26424798",
+    "time_scraped": 1759525936873,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -237,12 +284,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> If interested, please share your resume at <a href=\"mailto:simmi.mittal@2iresourcing.ca\"> simmi.mittal@2iresourcing.ca</a> <br /> \r\n<br /> \r\n<strong> <span style=\"color:black;\"> RQ09714 - Software Developer - Full Stack - Senior</span> </strong><br /> \r\n<strong> <span style=\"color:black;\"> Client:</span> </strong>  <span style=\"color:black;\"> Ministry of Public and Business Service Delivery and Procurement</span> <br /> \r\n<strong> <span style=\"color:black;\"> Location:</span> </strong> <span style=\"color:black;\">  40 St. Claire, Toronto</span> <br /> \r\n<strong> <span style=\"color:black;\"> Period: 6-months</span> </strong><br /> \r\n<strong> <span style=\"color:black;\"> Start Date:</span> </strong><span style=\"color:black;\">  2025-10-08</span> <br /> \r\n<strong> <span style=\"color:black;\"> End Date:</span> </strong><span style=\"color:black;\">  2026-03-31</span> <br /> \r\n <br /> \r\n<strong> Hybrid</strong> - Candidate MUST work 3 days onsite and 2 days remote - or as required by the Client which may be up to 5 days onsite.<br /> \r\n <br /> \r\nMUST HAVES:</span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> At least 1&plus; year experience developing and implementing java solutions targeting the soil management systems.</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> 7&plus; years of full stack java development knowledge and experience designing and delivering solutions using:</span> </span> </li> \r\n</ul> \r\n\r\n<ol style=\"list-style-type:lower-alpha;\"> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> Java/JEE technology with Sprint Boot version 2.5 or higher</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> Angular 2&plus;</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> HTML 5</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> Accessibility for Ontarians with Disability Act (AODA)</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> RESTful APIs</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> Azure DevOps Pipelines</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> Integration with ESRI ArcGIS Portal and ESRI ArcGIS Survey COTS</span> </span> </li> \r\n\t<li> <span style=\"font-size:12pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> RESTful API integration with ESRITools (Eclipse, Azure Git Repositories)<br /> \r\n\t                          </span> </span> <br /> \r\n\t</li> \r\n</ol> \r\n<br /> \r\n<br /> \r\n <br>",
     "recruiter": [
       "Simmi Mittal",
       "simmi.mittal@2iresourcing.ca",
       "6137076301"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26423881",
+    "time_scraped": 1759525936829,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -268,43 +317,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><p>If interested, please share your resume at: <a href=\"mailto:pragathi.thalur@2iresourcing.ca\"> pragathi.thalur@2iresourcing.ca</a> / <a href=\"mailto:HitenShah@2iresourcing.onmicrosoft.com\"> Hiten.Shah@2iresourcing.</a> ca</p>\r\n<br />\r\n<strong>Job Title: Technology Specialist/Developer (ServiceNow)<br />\r\nDuration: 12 Months<br />\r\nLocation: 10 Peel Centre Drive, Brampton<br />\r\nWork Mode: Hybrid (minimum 2 days/week onsite)<br />\r\n<br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Qualifications &amp; Experience </span> </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">3&ndash;5 years of hands-on experience with ServiceNow administration and development.</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Experience managing ServiceNow upgrades and patching cycles.</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Proficiency in <span style=\"font-family:Calibri,sans-serif;\"> JavaScript, HTML, CSS, REST/SOAP web services</span> .</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Experience with ServiceNow modules: <span style=\"font-family:Calibri,sans-serif;\"> Incident, Problem, Change, Request, CMDB, Knowledge Management</span> .</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Familiarity with <span style=\"font-family:Calibri,sans-serif;\"> Discovery, MID Servers, integrations</span> .</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Strong understanding of <span style=\"font-family:Calibri,sans-serif;\"> ITIL framework and service management</span> processes.</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Experience with <span style=\"font-family:Calibri,sans-serif;\"> Agile/Scrum</span> methodologies.</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Strong <span style=\"font-family:Calibri,sans-serif;\"> analytical and problem-solving</span> abilities.</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Excellent <span style=\"font-family:Calibri,sans-serif;\"> communication and interpersonal</span> skills.</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Ability to work <span style=\"font-family:Calibri,sans-serif;\"> independently and in a team environment</span> .</span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">Detail-oriented with strong <span style=\"font-family:Calibri,sans-serif;\"> organizational skills</span> .</span> </span></li>\r\n</ul>\r\n<strong> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:8.5pt;\"> Mandatory Certification </span> </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">ServiceNow Certified System Administrator (CSA)</span> </span> </strong></li>\r\n</ul>\r\n<strong> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:8.5pt;\"> Nice-to-Have Certifications </span> </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">ServiceNow Certified Application Developer </span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">ITIL Foundation Certification </span> </span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:8.5pt;\">ServiceNow Implementation Specialist (for ITSM, HRSD, etc.) </span> </span></li>\r\n</ul>\r\n<br />\r\n&nbsp;<br>",
     "recruiter": [
       "Pragathi Thalur",
       "pragathi.thalur@2iresourcing.ca",
       "6473679627"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26419697",
-    "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
-    "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26419488,
-    "title": "Software Developer - Full Stack - Senior",
-    "location": "ON, Toronto",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759172561000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Pragathi Thalur",
-      "pragathi.thalur@2iresourcing.ca",
-      "6473679627"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26419488",
+    "time_scraped": 1759525936928,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -330,12 +350,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><strong bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:23,  &quot;w  &quot;:475,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:356}\">  If interested, please share your latest Resume at <a bis_size=\"{  &quot;x  &quot;:322,  &quot;y  &quot;:23,  &quot;w  &quot;:173,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:398,  &quot;abs_y  &quot;:356}\" href=\"mailto:hiten.shah@2iresourcing.ca\">  hiten.shah@2iresourcing.ca</a>  </strong><br bis_size=\"{  &quot;x  &quot;:495,  &quot;y  &quot;:23,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:571,  &quot;abs_y  &quot;:356}\" />  \r\n<br bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:44,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:377}\" />  \r\nRQ00405 - Systems Testing/QA Specialist - Senior<br bis_size=\"{  &quot;x  &quot;:311,  &quot;y  &quot;:64,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:387,  &quot;abs_y  &quot;:397}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:85,  &quot;w  &quot;:56,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:418}\" style=\"color:black;\">  Location: </span>  200 Front St, Toronto<br bis_size=\"{  &quot;x  &quot;:198,  &quot;y  &quot;:85,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:274,  &quot;abs_y  &quot;:418}\" />  \r\n<span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:106,  &quot;w  &quot;:105,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:439}\" style=\"color:black;\">  Period: 12 Months</span>  <br bis_size=\"{  &quot;x  &quot;:125,  &quot;y  &quot;:106,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:201,  &quot;abs_y  &quot;:439}\" />  \r\n<br bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:127,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:460}\" />  \r\n<strong bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:148,  &quot;w  &quot;:76,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:481}\">  <span bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:148,  &quot;w  &quot;:76,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:481}\" style=\"color:#181818;\">  Must Haves:</span>  </strong> \r\n<ul bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:178,  &quot;w  &quot;:626,  &quot;h  &quot;:270,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:511}\">  \r\n\t<li bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:178,  &quot;w  &quot;:546,  &quot;h  &quot;:62,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:511}\">  <strong bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:181,  &quot;w  &quot;:480,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:514}\">  <span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:181,  &quot;w  &quot;:480,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:514}\" style=\"color:#181818;\">  5&plus; years' experience in enterprise-scale system testing and quality assurance</span>  </strong><span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:181,  &quot;w  &quot;:531,  &quot;h  &quot;:56,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:514}\" style=\"color:#181818;\">  , with demonstrated success in modern web platform implementations, API-driven architectures, or cloud-native application testing environments </span>  </li>  \r\n\t<li bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:241,  &quot;w  &quot;:546,  &quot;h  &quot;:62,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:574}\">  <strong bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:244,  &quot;w  &quot;:443,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:577}\">  <span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:244,  &quot;w  &quot;:443,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:577}\" style=\"color:#181818;\">  5&plus; years' experience testing complex multi-component digital platforms</span>  </strong><span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:244,  &quot;w  &quot;:501,  &quot;h  &quot;:56,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:577}\" style=\"color:#181818;\">   requiring comprehensive integration testing across content management systems, authentication services, search platforms, and data analytics infrastructure </span>  </li>  \r\n\t<li bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:303,  &quot;w  &quot;:546,  &quot;h  &quot;:62,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:636}\">  <strong bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:306,  &quot;w  &quot;:402,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:639}\">  <span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:306,  &quot;w  &quot;:402,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:639}\" style=\"color:#181818;\">  Deep expertise in modern web application testing methodologies</span>  </strong><span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:306,  &quot;w  &quot;:530,  &quot;h  &quot;:56,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:639}\" style=\"color:#181818;\">  , including API testing, responsive design validation, accessibility compliance verification, and performance testing under high-volume public sector usage scenarios </span>  </li>  \r\n\t<li bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:365,  &quot;w  &quot;:546,  &quot;h  &quot;:62,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:698}\">  <strong bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:369,  &quot;w  &quot;:471,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:702}\">  <span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:369,  &quot;w  &quot;:471,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:702}\" style=\"color:#181818;\">  5&plus; years' experience collaborating with cross-functional development teams</span>  </strong><span bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:369,  &quot;w  &quot;:539,  &quot;h  &quot;:56,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:702}\" style=\"color:#181818;\">   on large-scale digital transformation projects while effectively communicating testing results and quality metrics to technical and executive stakeholders </span>  </li>  \r\n\t<li bis_size=\"{  &quot;x  &quot;:60,  &quot;y  &quot;:428,  &quot;w  &quot;:546,  &quot;h  &quot;:20,  &quot;abs_x  &quot;:136,  &quot;abs_y  &quot;:761}\">  5&plus; years experience working in an Agile environment. </li>  \r\n</ul>  \r\n<br bis_size=\"{  &quot;x  &quot;:20,  &quot;y  &quot;:465,  &quot;w  &quot;:0,  &quot;h  &quot;:14,  &quot;abs_x  &quot;:96,  &quot;abs_y  &quot;:798}\" />  \r\n <br>",
     "recruiter": [
       "Hiten Shah",
       "hiten.shah@2iresourcing.ca",
       "647 547 5973"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26419278",
+    "time_scraped": 1759525943053,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -361,12 +383,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><strong bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:23, &quot;w &quot;:498, &quot;h &quot;:14, &quot;abs_x &quot;:96, &quot;abs_y &quot;:452}\"> If you interested, please share your latest resume at <a bis_size=\"{ &quot;x &quot;:344, &quot;y &quot;:23, &quot;w &quot;:173, &quot;h &quot;:14, &quot;abs_x &quot;:420, &quot;abs_y &quot;:452}\" href=\"mailto:hiten.shah@2iresourcing.ca\"> hiten.shah@2iresourcing.ca</a> </strong><br bis_size=\"{ &quot;x &quot;:518, &quot;y &quot;:23, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:594, &quot;abs_y &quot;:452}\" /> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:43, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:96, &quot;abs_y &quot;:472}\" /> \r\nRQ00401 - Specialized IT Consultant - Senior<br bis_size=\"{ &quot;x &quot;:283, &quot;y &quot;:64, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:359, &quot;abs_y &quot;:493}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:85, &quot;w &quot;:56, &quot;h &quot;:14, &quot;abs_x &quot;:96, &quot;abs_y &quot;:514}\" style=\"color:black;\"> Location: </span> Toronto<br bis_size=\"{ &quot;x &quot;:119, &quot;y &quot;:85, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:195, &quot;abs_y &quot;:514}\" /> \r\n<span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:106, &quot;w &quot;:98, &quot;h &quot;:14, &quot;abs_x &quot;:96, &quot;abs_y &quot;:535}\" style=\"color:black;\"> Period: 3 months</span> <br bis_size=\"{ &quot;x &quot;:118, &quot;y &quot;:106, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:194, &quot;abs_y &quot;:535}\" /> \r\n <br bis_size=\"{ &quot;x &quot;:23, &quot;y &quot;:127, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:99, &quot;abs_y &quot;:556}\" /> \r\n<strong bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:147, &quot;w &quot;:76, &quot;h &quot;:14, &quot;abs_x &quot;:96, &quot;abs_y &quot;:576}\"> <span bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:147, &quot;w &quot;:76, &quot;h &quot;:14, &quot;abs_x &quot;:96, &quot;abs_y &quot;:576}\" style=\"color:#181818;\"> Must Haves:</span> </strong> \r\n<ul bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:178, &quot;w &quot;:626, &quot;h &quot;:228, &quot;abs_x &quot;:96, &quot;abs_y &quot;:607}\"> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:178, &quot;w &quot;:546, &quot;h &quot;:62, &quot;abs_x &quot;:136, &quot;abs_y &quot;:607}\"> Minimum 10 years' hands-on experience in mapping and implementing clinical terminologies such as Systematized Nomenclature of Medicine (SNOMED-CT) and Logical Observation Identifiers Names and Codes (LOINC) </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:240, &quot;w &quot;:546, &quot;h &quot;:62, &quot;abs_x &quot;:136, &quot;abs_y &quot;:669}\"> Minimum 10 years' Extensive knowledge and understanding of digital exchange standards such as FHIR, clinical terminologies (e.g., SNOMED-CT, LOINC) and their application within Ontario Health with applicable terminology tools (e.g., Ontoserver) </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:303, &quot;w &quot;:546, &quot;h &quot;:41, &quot;abs_x &quot;:136, &quot;abs_y &quot;:732}\"> Minimum 10 years' Clinical experience within Canada in acute care, primary care and/or community care settings </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:345, &quot;w &quot;:546, &quot;h &quot;:41, &quot;abs_x &quot;:136, &quot;abs_y &quot;:774}\"> Minimum 10 years' Extensive knowledge and understanding of pan-Canadian digital exchange standards and tooling </li> \r\n\t<li bis_size=\"{ &quot;x &quot;:60, &quot;y &quot;:386, &quot;w &quot;:546, &quot;h &quot;:20, &quot;abs_x &quot;:136, &quot;abs_y &quot;:815}\"> Hands-on experience implementing terminology services and solutions </li> \r\n</ul> \r\n<br bis_size=\"{ &quot;x &quot;:20, &quot;y &quot;:423, &quot;w &quot;:0, &quot;h &quot;:14, &quot;abs_x &quot;:96, &quot;abs_y &quot;:852}\" /> \r\n <br>",
     "recruiter": [
       "Hiten Shah",
       "hiten.shah@2iresourcing.ca",
       "647 547 5973"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26417668",
+    "time_scraped": 1759525942983,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -392,12 +416,14 @@
     },
     "salary": null,
     "remote": 100,
+    "description": "<br>📧 <strong>If interested, please share your resume at: </strong><a aria-label=\"Link mubeenk@2iresourcing.ca\" data-linkindex=\"2\" href=\"mailto:mubeenk@2iresourcing.ca\" id=\"x_menur4mm\" title=\"mailto:mubeenk@2iresourcing.ca\"><strong>mubeenk@2iresourcing.ca</strong></a><br />\r\n<br />\r\n<strong>Job Title: Specialized IT Consultant - Senior<br />\r\nDuration: 6 Months <br />\r\nLocation: Remote</strong>\r\n<p><strong>Must Haves:</strong></p>\r\n\r\n<ul>\r\n\t<li>10&plus; years experience and understanding of digital health standards including but not limited to HL7 FHIR, clinical terminologies (e.g., Systematized Nomenclature of Medicine (SNOMED-CT), Logical Observation Identifiers Names and Codes (LOINC)) and their application.</li>\r\n\t<li>10&plus; years Healthcare experience within Canada in acute care, primary care and/or community care settings.</li>\r\n\t<li>10&plus; years Extensive knowledge and understanding of pan-Canadian digital health standards and tooling.</li>\r\n\t<li>10&plus; years Hands-on experience with HL7 FHIR tooling including but not limited to Simplifier, HL7 Validator, Forge or FHIR Shorthand.</li>\r\n</ul>\r\n<br />\r\n <br>",
     "recruiter": [
       "Mubeen Khalid",
       "mubeen.khalid@2iresourcing.ca",
       "2362162378"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26407091",
+    "time_scraped": 1759525942983,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -423,12 +449,14 @@
     },
     "salary": null,
     "remote": 90,
+    "description": "<br>📧 <strong>  If interested, please share your resume at: </strong><a aria-label=\"Link mubeenk@2iresourcing.ca\" data-linkindex=\"2\" href=\"mailto:mubeenk@2iresourcing.ca\" id=\"x_menur4mm\" title=\"mailto:mubeenk@2iresourcing.ca\">  <strong>  mubeenk@2iresourcing.ca</strong></a>  <br />  \r\n<br />  \r\n<strong>  Job Title: Application Developer - Intermediate<br />  \r\nLocation: Remote (Onsite for meetings only)<br />  \r\nDuration: 6 - 12 Months <br />  \r\n<br />  \r\nMust-Have:</strong>\r\n<ul>  \r\n\t<li>  5 years experience developing multi-user, n-tier, Object Oriented, Web Services, JSON REST API applications using C#, .NET, ASP.NET, or Visual Studio.</li>  \r\n\t<li>  5 years experience and technical knowledge of Microsoft SQL Server.</li>  \r\n\t<li>  5 years experience in application maintenance and development including writing, modifying, integrating, testing, and documenting software code.</li>  \r\n\t<li>  5 years experience designing, building, testing, deploying, and supporting applications in a controlled production environment.</li>  \r\n\t<li>  5 years experience with Microsoft Azure DevOps Server.</li>  \r\n\t<li>  5 years experience with various software development methodologies (e.g., Agile, Waterfall, Scrum, Kanban).</li>  \r\n\t<li>  3 years experience working in a Government development environment or in an environment equivalent in size and complexity to the Government of Alberta.</li>  \r\n</ul>  \r\n\r\n<p>  <strong>  Nice to Have</strong></p>  \r\n\r\n<ul>  \r\n\t<li>  3 years experience and technical knowledge using ASP.NET MVC (Model View Controller).</li>  \r\n\t<li>  3 years experience developing and maintaining applications that use Oracle Database 19c.</li>  \r\n\t<li>  4 years experience developing and maintaining web services, JSON REST API, and message queuing services using .NET C#.</li>  \r\n\t<li>  3 years experience using version-controlling tools such as Tortoise GIT, Tortoise SVN, Version Manager, and MS Azure DevOps.</li>  \r\n</ul>  \r\n<br>",
     "recruiter": [
       "Mubeen Khalid",
       "mubeen.khalid@2iresourcing.ca",
       "2362162378"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26407057",
+    "time_scraped": 1759525943021,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -454,12 +482,14 @@
     },
     "salary": null,
     "remote": 50,
+    "description": "<br>📧 <strong>If interested, please share your resume at: </strong><a aria-label=\"Link mubeenk@2iresourcing.ca\" data-linkindex=\"2\" href=\"mailto:mubeenk@2iresourcing.ca\" id=\"x_menur4mm\" title=\"mailto:mubeenk@2iresourcing.ca\"><strong>mubeenk@2iresourcing.ca</strong></a><br />\r\n<br />\r\n<strong>Job Title: Software Developer &ndash; Senior</strong><br />\r\n<strong>Location: 222 Jarvis St., Toronto, ON</strong><br />\r\n<strong>Period: 1-year Start Date: 2025-10-31 End Date: 2026-10-30</strong>\r\n<p><strong>Hybrid -</strong> Candidate MUST work 3 days onsite and 2 days remote - Starting October 20, resources are expected to come into the office 4 days per week. Starting January 5, resources are expected to come into the office 5 days per week. This is subject to the Hiring Manager&#39;s Discretion.</p>\r\n\r\n<p><strong>MUST HAVES</strong>:</p>\r\n&middot; Experience with COTS based Business Automation and Case Management solutions (ie: IBM Cloud Pack for Business Automation)<br />\r\n&middot; 7&plus; years experience in Java based development utilizing a combination of WebSphere, JDBC, Oracle, DB2, DataPower and associated Web technologies including JavaScript and JSP<br />\r\n&middot; 5&plus; years experience in integration of Open Source Software (OSS) products into new and existing systems<br />\r\nExperience developing or maintaining large scale IT systems, including high-volume public facing programs Integration of service API&#39;s and micro-services to existing or new web services.<br />\r\n&middot; Ability to understand and analyze business requirements, and to design structured programs that efficiently satisfy these requirements.<br />\r\n&middot; Ability to write programs that are modular, well-structured, and easy to maintain.<br>",
     "recruiter": [
       "Mubeen Khalid",
       "mubeen.khalid@2iresourcing.ca",
       "2362162378"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26406862",
+    "time_scraped": 1759525943051,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -485,12 +515,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><p> If interested, please share your resume at: <a href=\"mailto:pragathi.thalur@2iresourcing.ca\"> pragathi.thalur@2iresourcing.ca</a> </p> \r\n\r\n<p style=\"text-align: justify;\"> <br /> \r\n<br /> \r\nWe are seeking a senior-level Palo Alto Cortex XSOAR Cybersecurity consultant for a 1-year remote contract position in Canada for a large full-cycle implementation project.</p> \r\n\r\n<p style=\"text-align: justify;\">  </p> \r\n\r\n<p style=\"text-align: justify;\"> <strong> Responsibilities Include:</strong></p> \r\n\r\n<ul> \r\n\t<li style=\"text-align: justify;\"> Design, build, implement, and maintain automation workflows and playbooks within Cortex XSOAR to respond to security incidents. This includes use cases for incident triage, enrichment, and remediation, such as phishing response and threat intelligence.</li> \r\n\t<li style=\"text-align: justify;\"> Help to lead and guide the full cycle implementation of XSOAR as a senior-level consultant.</li> \r\n\t<li style=\"text-align: justify;\"> Integrate Cortex XSOAR with Security Information and Event Management (SIEM) systems, Endpoint Detection and Response (EDR) solutions, firewalls, and ticketing systems.</li> \r\n\t<li style=\"text-align: justify;\"> Automate and streamline incident response processes to reduce response times and handle a higher volume of alerts. This includes monitoring for security breaches and automating containment actions.</li> \r\n\t<li style=\"text-align: justify;\"> Write and maintain custom scripts for custom integrations and playbook development.</li> \r\n\t<li style=\"text-align: justify;\"> Work closely with Security Operations Center (SOC) analysts, incident responders, and other IT teams to identify automation opportunities and improve workflows.</li> \r\n\t<li style=\"text-align: justify;\"> Monitor the effectiveness of deployed automation, refine playbooks, and troubleshoot issues to ensure the platform operates efficiently.</li> \r\n\t<li style=\"text-align: justify;\"> Create technical documentation for playbooks and workflows. Conduct training for internal teams on using the platform.</li> \r\n</ul> \r\n\r\n<p style=\"text-align: justify;\">  </p> \r\n\r\n<p style=\"text-align: justify;\"> <strong> Key qualifications and skills:</strong></p> \r\n\r\n<ul> \r\n\t<li style=\"text-align: justify;\"> Proven, hands-on implementation experience with Cortex XSOAR as a senior or architect-level consultant.</li> \r\n\t<li style=\"text-align: justify;\"> A strong background in cybersecurity, including incident response, threat detection, and a solid understanding of security principles, protocols, and technologies.</li> \r\n\t<li style=\"text-align: justify;\"> Familiarity with Linux or Unix operating systems, networking fundamentals, and security tools such as IDS/IPS, SIEM, and endpoint solutions.</li> \r\n\t<li style=\"text-align: justify;\"> Experience working with REST APIs to integrate different security products and applications.</li> \r\n\t<li style=\"text-align: justify;\"> Strong analytical and problem-solving skills to design effective automation solutions and troubleshoot complex issues.</li> \r\n\t<li style=\"text-align: justify;\"> Excellent communication skills to interact with both technical and non-technical audiences, from analysts to executives.</li> \r\n\t<li style=\"text-align: justify;\"> Certifications such as Palo Alto Networks Certified Security Automation Engineer (PCSAE) or other relevant credentials like CISSP or CEH are a plus</li> \r\n</ul> \r\n<br>",
     "recruiter": [
       "Pragathi Thalur",
       "pragathi.thalur@2iresourcing.ca",
       "6473679627"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26398664",
+    "time_scraped": 1759525948794,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15
@@ -516,12 +548,14 @@
     },
     "salary": null,
     "remote": 50,
+    "description": "<br>📧 <strong> If interested, please share your resume at: </strong><a aria-label=\"Link mubeenk@2iresourcing.ca\" data-linkindex=\"2\" href=\"mailto:mubeenk@2iresourcing.ca\" id=\"x_menur4mm\" title=\"mailto:mubeenk@2iresourcing.ca\"> <strong> mubeenk@2iresourcing.ca</strong></a> <br /> \r\n<br /> \r\n<strong> Job Title: Project Manager/Leader - Senior<br /> \r\nDuration: 5 Months<br /> \r\nLocation: Toronto, ON</strong><br /> \r\n \r\n<p> <b data-olk-copy-source=\"MessageBody\"> Must Haves:</b> </p> \r\n· 10&plus; years years experience managing, coordinating, and overseeing multiple projects within an integrated framework, demonstrating strong program management capabilities.<br /> \r\n· 10&plus; years years experience handling client relationships, managing expectations, providing updates as required, identifies potential conflicts between project and functional areas<br /> \r\n· 10&plus; years years experience with and knowledge of Microsoft Office tools, Microsoft Project and Microsoft Project Server<br /> \r\n· 10&plus; years years experience managing and coordinating project monitoring, anticipates and troubleshoots issues, provides ongoing expertise, resolves problems, and provides project effectiveness<br>",
     "recruiter": [
       "Mubeen Khalid",
       "mubeen.khalid@2iresourcing.ca",
       "2362162378"
     ],
     "url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google&SearchString=#/jobs/26395287",
+    "time_scraped": 1759525948861,
     "source_company": "pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu",
     "source_url": "https://www2.jobdiva.com/portal/?a=pojdnw80b39b3ntfgwn4yb4jyt4x4z064338el3fkvabiv4hp8y45oqjqctk2pwu&jobid=17825558&source=google",
     "date_cutoff_days": 15

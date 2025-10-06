@@ -1,14 +1,14 @@
 [
   {
-    "id": 31187459,
-    "title": "Sr. BI Analyst (SQL, Power BI, SSIS, Azure)",
+    "id": 31266812,
+    "title": "RightAngle Technical Specialist (C#/pricing/datafeeds)",
     "location": "TX, Houston",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758568360000
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759504759000
     },
     "start": {
       "start_dateStr": null,
@@ -19,13 +19,15 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 100,
+    "remote": 0,
+    "description": "<br><strong><u>Title: RightAngle Technical Specialist (pricing/data feeds)</u></strong><br />\r\nDirect Hire Opportunity<br />\r\nNo Sponsorship<br />\r\n<strong>Onsite Opportunity &ndash; Can sit in Dallas, Houston or Philadelphia, PA</strong><br />\r\n&nbsp;<br />\r\nWe are seeking a seasoned Technical Specialist with deep expertise in OpenLink RightAngle to join a high-performing team supporting energy trading and risk management operations. The ideal candidate will bring 8+ years of experience with RightAngle development and support, strong technical proficiency in .NET and SQL, and a solid understanding of commodity trading, deal lifecycle processes, and financial interface development.<br />\r\nThis role is ideal for someone who thrives troubleshooting complex system issues, managing daily financial and data feeds, and building robust interfaces from the ground up. Strong leadership, communication, and strategic thinking skills are essential.<br />\r\n&nbsp;<br />\r\n<strong><u>Requirements:</u></strong>\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in IT, Computer Science, or a related field</li>\r\n\t<li>8+ years of experience in development and support on OpenLink RightAngle .Net</li>\r\n\t<li>Expertise in SQL Server scripts, stored procedures, and T-SQL</li>\r\n\t<li>Experience developing RightAngle customizations using .NET (C#), SSIS, and Web Services</li>\r\n\t<li>Strong understanding of commodity trading and risk management (ETRM)</li>\r\n\t<li>Proven ability to troubleshoot and resolve issues within RightAngle (S14 or higher preferred)</li>\r\n\t<li>Experience writing interfaces between RightAngle with ERP systems such as SAP or Oracle</li>\r\n\t<li>Experience ingesting pricing/data feeds from sources like Bloomberg, OPIS, Argus, Platts, and DTN</li>\r\n\t<li>Strong leadership, project management, and cross-functional collaboration skills</li>\r\n\t<li>Excellent written and verbal communication skills</li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><u>Responsibilities:</u></strong>\r\n\r\n<ul>\r\n\t<li>Provide technical and functional support for RightAngle, including inbound/outbound interfaces and daily operations</li>\r\n\t<li>Troubleshoot complex system issues, perform root cause analysis, and deliver timely solutions</li>\r\n\t<li>Lead or support the design, development, and maintenance of custom RightAngle enhancements</li>\r\n\t<li>Build new interfaces between RightAngle and ERP platforms for financial transaction processing</li>\r\n\t<li>Develop tools to ingest and manage pricing data feeds (e.g., Bloomberg, OPIS, Platts)</li>\r\n\t<li>Collaborate with business stakeholders to gather requirements and deliver solutions<br />\r\n\tDocument technical designs, test plans, key decisions, and risk assessments</li>\r\n\t<li>Coordinate and facilitate project meetings with business and technical teams</li>\r\n\t<li>Ensure data accuracy, system performance, and ongoing compliance with internal standards</li>\r\n</ul>\r\n&nbsp;<br>",
     "recruiter": [
-      "Kim Busker",
-      "kbusker@elanpartners.com",
-      "2142952848"
+      null,
+      null,
+      null
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk&compid=0&SearchString=#/jobs/31187459",
+    "url": "https://www1.jobdiva.com/portal/?a=l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk&compid=0&SearchString=#/jobs/31266812",
+    "time_scraped": 1759519442053,
     "source_company": "l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk",
     "source_url": "https://www1.jobdiva.com/portal/?a=l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk&compid=0",
     "date_cutoff_days": 15
@@ -51,43 +53,14 @@
     },
     "salary": null,
     "remote": 0,
+    "description": "<br><div><strong><span style=\"font-size:10pt;\"><u>Title: Sr. Network Engineer</u></span></strong><br />\r\nDirect Hire Opportunity<br />\r\nNo Sponsorship<br />\r\n<strong>Onsite</strong><br />\r\n<br />\r\nAs a Senior Network Engineer, you will play a pivotal role in designing, implementing, and maintaining sophisticated network infrastructure that supports critical systems for some of the world&#39;s largest financial institutions. This position requires a blend of technical expertise, problem-solving acumen, and a collaborative mindset to work within a high-performing team. This role is designed for a seasoned professional with over 10 years of experience in network engineering, who possesses a deep curiosity for diagnosing complex network issues and a passion for developing innovative solutions.<br />\r\n<br />\r\n<u><strong>REQUIREMENTS:</strong></u>\r\n<ul>\r\n\t<li>Minimum of 10 years of experience in network engineering, with a proven track record of resolving intricate network challenges.</li>\r\n\t<li>Expertise in command-line interface (CLI) operations, network automation, and scripting (Python, Bash).</li>\r\n\t<li>Strong familiarity with Cisco NX-OS, Palo Alto NGFWs, and VPN technologies.</li>\r\n\t<li>Ability to thrive in a collaborative, high-talent environment focused on delivering secure and reliable solutions.</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Expertise in managing firewalls and network switches</li>\r\n\t<li>Experience upgrading networking equipment and maintaining backups</li>\r\n\t<li>Experience reviewing firewall traffic logs</li>\r\n\t<li>Familiarity with network architecture and design best practices</li>\r\n\t<li>Familiarity with SNMP, DNS, NTP, TLS/SSL</li>\r\n</ul>\r\n<span style=\"font-size:10pt;\"><u><strong>Nice to have (not required):</strong></u></span>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree</li>\r\n\t<li>CompTIA Network+, Security+, Cisco CCNA, CCNP, CCIE</li>\r\n\t<li>Cisco CCNA, CCNP, CCIE</li>\r\n\t<li>Palo Alto Networks PCNSA and PCNSE</li>\r\n\t<li>Experience with DevOps and Software Risk Evaluation (SRE) methodologies</li>\r\n\t<li>Experience configuring Palo Alto Networks and Barracuda Firewalls, VPNs, configuring Cisco IOS and NX-OS, vPC (virtual Port Channels)</li>\r\n\t<li>Experience with network monitoring software such as Splunk, Nagios, or SolarWinds</li>\r\n</ul>\r\n<span style=\"font-size:10pt;\"><u><strong>RESPONSIBILITIES:</strong></u></span>\r\n\r\n<ul>\r\n\t<li>Maintain, support, and design network infrastructures in a data center and corporate environments.</li>\r\n\t<li>Manage network firewall and switch equipment, including racking, stacking, and cabling.</li>\r\n\t<li>Troubleshoot network, firewall, and infrastructure issues, assist Support Engineers in troubleshooting issues.</li>\r\n\t<li>Maintain firewall and switch configurations, and update firewall and switch operating systems.</li>\r\n\t<li>Analyze service stack and make recommendations for further improvements.</li>\r\n\t<li>Design out and implement network infrastructure with taking into consideration availability, scalability, and security with relation to SLA requirements.</li>\r\n\t<li>Identify processes and capabilities that can be streamlined and automated.</li>\r\n\t<li>Communicate effectively to help bridge stakeholder and development requirements.</li>\r\n\t<li>Work directly on production-level environments in a fast-paced, results-oriented organization with a rapid time to market.</li>\r\n</ul>\r\n<strong>Comprehensive Benefits Provided</strong></div>\r\n<br>",
     "recruiter": [
       "Donna Wolski",
       "dwolski@elanpartners.com",
       "2142952848"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk&compid=0&SearchString=#/jobs/31174952",
-    "source_company": "l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk",
-    "source_url": "https://www1.jobdiva.com/portal/?a=l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31166450,
-    "title": "Fuel Account Manager (Central Florida)",
-    "location": "TX, Dallas",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758199210000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "recruiter": [
-      "Kim Busker",
-      "kbusker@elanpartners.com",
-      "2142952848"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk&compid=0&SearchString=#/jobs/31166450",
+    "time_scraped": 1759519442052,
     "source_company": "l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk",
     "source_url": "https://www1.jobdiva.com/portal/?a=l9jdnw9wp41jkq4q26d63o59w4msbb09e94a7a2obzkaxjw3e6gmg7go8et2durk&compid=0",
     "date_cutoff_days": 15
