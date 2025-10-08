@@ -42,7 +42,7 @@ class SimplifiedJobScraper:
         try:
             # Handle timestamp in milliseconds
             if isinstance(post_date, (int, float)) and post_date > 0:
-                return post_date < self.cutoff_timestamp
+                return post_date < 1759526289000
             
             # Handle string dates if needed
             if isinstance(post_date, str):
