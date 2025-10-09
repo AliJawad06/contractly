@@ -1,14 +1,14 @@
 [
   {
-    "id": 26449050,
-    "title": "IICS Developer/Mclean, VA (Onsite) 6+ months",
+    "id": 26462144,
+    "title": "Alteryx Developer (DataFlux Migration) /McLean, VA-6+ months",
     "location": "VA, McLean",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759518742000
+      "date_postedStr": "10/7/2025",
+      "date_posted": 1759845248000
     },
     "start": {
       "start_dateStr": null,
@@ -20,94 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><strong>Informatica Developer &ndash; Data Warehousing &amp; ETL</strong><br />\r\n<strong>Role is 5 days a week onsite McLean, VA - local candidates only</strong><br />\r\n<strong>6&plus; months</strong><br />\r\n<br />\r\nAbout the Role<br />\r\nWe are seeking an experienced Informatica Developer to design, build, and optimize enterprise data integration and data warehouse solutions. The ideal candidate will have strong expertise in SQL, data warehouse concepts, and data loading/comparison mechanisms to support complex ETL workflows and ensure data accuracy, consistency, and scalability across business-critical systems.<br />\r\nKey Responsibilities<br />\r\nDesign, develop, and maintain ETL workflows using Informatica PowerCenter/Cloud to support enterprise data integration needs.<br />\r\nImplement data loading strategies for large-scale structured and semi-structured data.<br />\r\nDevelop efficient SQL queries, stored procedures, and performance tuning for optimal data processing.<br />\r\nWork with data warehouse concepts (fact tables, dimension tables, star/snowflake schemas, slowly changing dimensions, partitioning, indexing).<br />\r\nDesign and implement data comparison and reconciliation mechanisms to ensure data quality and consistency across systems.<br />\r\nCollaborate with data architects, analysts, and business teams to gather requirements and translate them into technical ETL solutions.<br />\r\nPerform data profiling, cleansing, and validation to support business reporting and analytics.<br />\r\nOptimize ETL pipelines for scalability, performance, and reliability.<br />\r\nParticipate in code reviews, debugging, and production support for ETL processes.<br />\r\nWork with version control, CI/CD, and scheduling tools for deployment and automation of data workflows.<br />\r\nWhat You&#39;ll Bring with You<br />\r\n5&plus; years of experience as an Informatica Developer in enterprise data warehouse environments.<br />\r\nStrong expertise in SQL (Oracle, SQL Server, PostgreSQL, or similar), including performance tuning.<br />\r\nDeep understanding of data warehouse concepts (ETL/ELT, OLAP/OLTP, dimensional modeling, star/snowflake schemas).<br />\r\nHands-on experience in data loading techniques (incremental loads, CDC, batch, streaming).<br />\r\nStrong knowledge of data comparison and reconciliation mechanisms for validating large data sets.<br />\r\nExperience with ETL performance optimization and error handling.<br />\r\nFamiliarity with cloud data platforms (AWS Redshift, Snowflake, Azure Synapse, or GCP BigQuery) is a plus.<br />\r\nStrong problem-solving and debugging skills for ETL and data issues.<br />\r\nAbility to work in Agile teams, collaborating with business and technical stakeholders.<br />\r\nExcellent communication skills with the ability to explain technical solutions to non-technical users.<br />\r\n <br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
-    "recruiter": [
-      "Prashanth Narasimha",
-      "Pras@suncaptech.com",
-      "9548932643"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26449050",
-    "time_scraped": 1759526301905,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26441302,
-    "title": "Senior Implementation Specialist/Long Island, NY (Onsite)-5 months",
-    "location": "NY, Long Island",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759420157000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><b data-olk-copy-source=\"MessageBody\">Position</b>: Senior Implementation Specialist</p>\r\n\r\n<p>Location: Long island NY (Onsite)</p>\r\n\r\n<p>Duration: 5 Months</p>\r\n\r\n<p><b>Job Summary: </b>Customer priority is their production environment and then support for their cyber vault. The resident responsibilities are outlined below</p>\r\n\r\n<p><b>Key Responsibilities:</b></p>\r\n\r\n<p>&bull; Day to day operational activities/tasks</p>\r\n\r\n<p>&bull; Review backup processes and policies (incident, capacity, performance, user and backup policies) to identify area of improvement</p>\r\n\r\n<p>&bull; Identity and monitor any capacity issues</p>\r\n\r\n<p>&bull; Assist with setting Networker policies for VM backups</p>\r\n\r\n<p>&bull; General troubleshooting/optimization - ensure the customer understands how to manage these areas</p>\r\n\r\n<p> </p>\r\n\r\n<p>Cyber Vault</p>\r\n\r\n<p>&bull; Monitor daily operations of the cyber vault</p>\r\n\r\n<p>&bull; Manage capacity and performance of replication jobs</p>\r\n\r\n<p>&bull; Review backup set reports, CyberSense reporting and the stages of Cyber Sense analysis (indexing, segments, etc.)</p>\r\n\r\n<p>&bull; Assist with Mtree replications (when needed)</p>\r\n\r\n<p>&bull; Note that the customer will be implementing a Clean Room and once complete the customer will need assist with day to day operations</p>\r\n\r\n<p> </p>\r\n\r\n<p><b>Requirements: Must have skills</b></p>\r\n\r\n<p>&bull; Data Domain</p>\r\n\r\n<p>&bull; Networker</p>\r\n\r\n<p>&bull; Cyber Sense</p>\r\n\r\n<p>&bull; Cyber Recovery</p>\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
-    "recruiter": [
-      "Prashanth Narasimha",
-      "Pras@suncaptech.com",
-      "9548932643"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26441302",
-    "time_scraped": 1759526301822,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26441113,
-    "title": "Collibra Data Governance/Data Quality-McLean, VA (Onsite)-6 months",
-    "location": "VA, McLean",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759418706000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p> <b data-olk-copy-source=\"MessageBody\"> Title: Collibra Data Governance/Data Quality</b> </p> \r\n\r\n<p> <b> Location: McLean, VA (On-site 5 days /week)</b> </p> \r\n\r\n<p> <b> Duration: 6&plus; months</b> </p> \r\n\r\n<p> <b> Must have DGC</b> </p> \r\n\r\n<p> We are seeking an experienced, hands-on consultant with deep proficiency in both Collibra Data Governance Center (DGC) and Collibra Data Quality (CDQ). This role is critical to helping our team mature our data quality governance framework, integrate data quality rules into enterprise processes, and operationalize end-to-end rule lineage and stewardship in Collibra. Candidates must be comfortable configuring Collibra workflows, enabling DQ dashboards, and supporting teams in the use of profiling and monitoring features. Experience with Informatica Cloud Data Quality is a strong plus.</p> \r\n\r\n<p> Key Responsibilities • Configure and deploy Collibra DGC workflows that support data quality rule creation, approval, escalation, and monitoring • Establish traceability between data quality rules, data domains, and controls using Collibra's governance models • Integrate Collibra DGC and CDQ, ensuring metadata flow, score synchronization, and issue routing is working as intended • Support business teams in operationalizing rule onboarding, rule ownership, and issue tracking via Collibra • Build out data quality dashboards and reports in Collibra • Work with governance leads to align DQ rules with BWise control frameworks or similar • Collaborate with Collibra platform administrators to define best practices • Deliver training and documentation to build internal adoption</p> \r\n\r\n<p> Required Skills & Experience • 5&plus; years working in data governance, metadata, or data quality domains • 3&plus; years of hands-on experience configuring and using Collibra DGC • 3&plus; years of hands-on experience using Collibra Data Quality (CDQ): o Profiling setup and interpretation o Rule results integration o Score and issue reporting • Experience designing and modifying Collibra workflows (BPMN 2.0) • Strong understanding of data quality dimensions, rule structures, and governance models • Familiarity with Snowflake, SQL, and common enterprise data platforms • Strong communication and stakeholder collaboration skills</p> \r\n\r\n<p> Big Plus Skills • Working knowledge of Informatica Cloud Data Quality (ICDQ) including rule setup and profiling • Familiarity with issue tracking tools like ServiceNow • Understanding of lineage capture and asset modeling in Collibra • Exposure to Collibra Edge, REST APIs, or bulk asset loaders</p> \r\n\r\n<p> Ideal Candidate • Brings real-world experience implementing Collibra tools—not just theoretical knowledge • Comfortable working directly with business and data teams to bridge requirements and technical solutions • Able to configure, test, and document solutions independently • Has a data-first mindset and understands how data quality drives business value</p> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n \r\n<div>  </div> \r\n<br>",
+    "description": "<br><p><b data-olk-copy-source=\"MessageBody\">Alteryx Developer (DataFlux Migration) </b></p>\r\n\r\n<p><b>McLean, VA</b></p>\r\n\r\n<p><b>6&plus; months</b></p>\r\n\r\n<p><b>Job Summary</b><br />\r\nWe are seeking an experienced and meticulous Alteryx Developer to join our data engineering team. This role will be critical in a company-wide initiative to migrate all data processing and ETL workflows from our legacy DataFlux environment to the Alteryx platform. The ideal candidate has a deep understanding of both DataFlux and Alteryx, with a proven track record of successfully migrating complex data management processes between platforms. You will analyze existing DataFlux jobs, translate the business logic, and build, test, and deploy robust, high-performance workflows in Alteryx.</p>\r\n\r\n<p><b>Responsibilities</b></p>\r\n\r\n<ul>\r\n\t<li>Serve as the subject matter expert for the DataFlux-to-Alteryx migration project.</li>\r\n\t<li>Analyze and document the business logic, data transformations, and rules within existing DataFlux jobs and processes.</li>\r\n\t<li>Design, develop, test, and deploy Alteryx workflows and macros to replicate and enhance the functionality of legacy DataFlux code.</li>\r\n\t<li>Work with stakeholders to gather requirements and validate the accuracy and functionality of the new Alteryx workflows against the legacy DataFlux outputs.</li>\r\n\t<li>Perform data cleansing, data blending, data validation, and data transformation using Alteryx Designer.</li>\r\n\t<li>Create and maintain comprehensive documentation, including technical specifications, implementation guides, and best practices for the migrated Alteryx workflows.</li>\r\n\t<li>Participate in testing activities, including unit, integration, and user acceptance testing, to ensure data integrity and process accuracy.</li>\r\n\t<li>Automate workflow execution and manage schedules on Alteryx Server, ensuring optimal performance and reliability.</li>\r\n\t<li>Troubleshoot and resolve data-related issues and discrepancies during and after the migration.</li>\r\n\t<li>Collaborate with data analysts, business users, and other IT teams to support and improve data-driven decision-making.</li>\r\n</ul>\r\n\r\n<p><b>Qualifications</b></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in Computer Science, Information Systems, or a related technical field.</li>\r\n\t<li>3&plus; years of experience as a Data Analyst, ETL Developer, or Data Engineer.</li>\r\n\t<li>Demonstrable, hands-on experience with both <b>DataFlux/SAS Data Management</b> and <b>Alteryx Designer</b>.</li>\r\n\t<li>Proven experience in migrating data processes and logic between different platforms.</li>\r\n\t<li>Advanced proficiency in developing workflows using Alteryx Designer and hands-on experience with Alteryx Server.</li>\r\n\t<li>Strong SQL skills for data extraction, manipulation, and validation.</li>\r\n\t<li>Experience with various data sources, including databases, flat files, APIs, and cloud-based data stores.</li>\r\n\t<li>Excellent problem-solving, analytical, and critical-thinking skills.</li>\r\n\t<li>Exceptional communication skills, both written and verbal, with the ability to explain complex technical concepts to non-technical stakeholders.</li>\r\n\t<li>Alteryx certifications (e.g., Alteryx Designer Core, Advanced) are a significant plus.</li>\r\n</ul>\r\n\r\n<p><b>Preferred Skills</b></p>\r\n\r\n<ul>\r\n\t<li>Experience with Mortgage Servicing</li>\r\n\t<li>Experience with other ETL tools or data management platforms.</li>\r\n\t<li>Familiarity with Agile methodologies and working in a Scrum team.</li>\r\n\t<li>Knowledge of data warehousing concepts and best practices.</li>\r\n\t<li>Experience with data visualization tools like Tableau or Power BI</li>\r\n</ul>\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
     "recruiter": [
       "Piyush Soni",
       "Piyush@suncaptech.com",
       "3343164873"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26441113",
-    "time_scraped": 1759526301751,
+    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26462144",
+    "time_scraped": 1759932115365,
     "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
     "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 26424375,
-    "title": "Collibra Data Lineage Automation Engineer / McLean, VA- 6+ months",
-    "location": "VA, McLean",
+    "id": 26455777,
+    "title": "Project Accountant",
+    "location": "FL, Miami",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759239788000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759765306000
     },
     "start": {
       "start_dateStr": null,
@@ -119,278 +53,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><span style=\"font-size:11pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <strong> <span style=\"color:black;\"> Collibra Data Lineage Automation Engineer </span> </strong><br /> \r\n<strong> <span style=\"color:black;\"> McLean, VA</span> </strong><br /> \r\n<strong> <span style=\"color:black;\"> 6&plus; months</span> </strong><br /> \r\n<strong> <span style=\"color:black;\"> Role is on-site in McLean 5 days per week</span> </strong><br /> \r\n <br /> \r\n<span style=\"color:#242424;\"> We are seeking a highly experienced Data Lineage Automation Engineer to lead the design and implementation of automated end-to-end lineage solutions across a highly heterogeneous enterprise data ecosystem. This role requires deep technical expertise in lineage frameworks (such as Spline and OpenLineage), experience across cloud and legacy environments, and a strong AI foundation to support intelligent metadata extraction and traceability.</span> <br /> \r\n<span style=\"color:#242424;\"> Key Responsibilities • Lead the implementation of automated data lineage across a complex data estate that includes: o Cloud platforms (e.g., Snowflake, AWS) o Legacy relational databases and ETLs o NoSQL data stores o BI/reporting platforms (e.g., Tableau, Power BI) • Implement or extend frameworks such as Spline, OpenLineage, or similar open frameworks to support active lineage capture • Build connectors, extractors, or agents where necessary to bridge gaps between systems and lineage frameworks • Integrate with metadata platforms (e.g., Collibra) to publish lineage in a consumable format • Apply AI/ML techniques to infer lineage where automation is incomplete (e.g., handling Java based ETLs), using logs, query patterns, or usage metadata • Develop reusable lineage components for operational reuse across domains • Guide stakeholders on best practices for lineage standardization, storage, and use</span> <br /> \r\n<span style=\"color:#242424;\"> Required Skills & Experience • Proven experience delivering automated data lineage solutions across hybrid architectures • Hands-on expertise with Spline, OpenLineage, Marquez, or comparable lineage frameworks • Deep understanding of metadata capture, ETL process tracing, and query execution mapping • Strong AI/ML background — particularly in metadata intelligence, natural language processing for code parsing, or pattern detection • Experience integrating lineage with data governance tools (e.g., Collibra, Alation, etc.) • Strong programming background in Python, Scala, or Java • Deep familiarity with SQL and query logs from systems like Snowflake, SQL Server, Oracle, MongoDB, etc.</span> <br /> \r\n<span style=\"color:#242424;\"> Big Plus Skills • Experience with third-party commercial data lineage solutions a plus (evaluations and implementations) • Prior work in regulated environments (e.g., financial services, healthcare) • Familiarity with event-based architectures for real-time lineage propagation • Knowledge of data mesh or domain-driven lineage strategies</span> <br /> \r\n<span style=\"color:#242424;\"> Ideal Candidate • Has successfully implemented automated lineage at enterprise scale • Operates at the intersection of data engineering, metadata management, and AI • Can act as a technical thought partner to architecture teams and governance leads • Brings the mindset of automation-first and reuse-oriented design</span> </span> </span> <br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n \r\n<div>  </div> \r\n<br>",
-    "recruiter": [
-      "Prashanth Narasimha",
-      "Pras@suncaptech.com",
-      "9548932643"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26424375",
-    "time_scraped": 1759526301783,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26414507,
-    "title": "Google GCP Technical Account Manager/Remote- 3 years",
-    "location": "None, Remote",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759154817000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><b data-olk-copy-source=\"MessageBody\">Title: </b><b>Google GCP Technical Account Manager</b><br />\r\n<b>Duration: 3 years</b><br />\r\n<b>Location: Remote</b><br />\r\n<br />\r\nLooking for a Google GCP Technical Account Manager<br />\r\nGCP knowledge base<br />\r\nExperienced knowledge of the Google Billing and Customer Portal<br />\r\nNortheast Area Residence<br />\r\n8-10 Hours / week<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
-    "recruiter": [
-      "Piyush Soni",
-      "Piyush@suncaptech.com",
-      "3343164873"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26414507",
-    "time_scraped": 1759526301916,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26407786,
-    "title": "Informatica IICS Developer/McLean, VA (Onsite)- 6+ months Contract",
-    "location": "VA, McLean",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758915380000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Title: Informatica IICS Developer<br /> \r\nLocation: McLean, VA (Onsite) Role is 5 days a week onsite McLean, VA<br /> \r\nDuration: 6&plus; months Contract\r\n<p> <b> Required Skills</b> </p> \r\n\r\n<p> Looking for strong IICS skills with Snowflake</p> \r\n\r\n<p> Must have AWS skills</p> \r\n\r\n<p> Nice to have Pyspark skills </p> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n \r\n<div>  </div> \r\n<br>",
-    "recruiter": [
-      "Piyush Soni",
-      "Piyush@suncaptech.com",
-      "3343164873"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26407786",
-    "time_scraped": 1759526308082,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26396018,
-    "title": "MLOps Engineers - NJ (Onsite)-6 months",
-    "location": "NJ, Metro",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758748246000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong> Title: MLOps Engineer</strong><br /> \r\n<strong> Duration: 6 months</strong><br /> \r\n<strong> Location: NJ, Metro</strong><br /> \r\n<br /> \r\n<br /> \r\nThe skillset is MLOps.<br /> \r\nMachine Learning Operations Engineers in NJ or willing to relocate to NJ.<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n \r\n<div>  </div> \r\n<br>",
-    "recruiter": [
-      "Piyush Soni",
-      "Piyush@suncaptech.com",
-      "3343164873"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26396018",
-    "time_scraped": 1759526308244,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26395927,
-    "title": "-Isilon/PowerScale Engineer / UK, Birmingham area (Onsite)/2 Weeks Contract",
-    "location": "None, Birmingham , United Kingdom(UK)",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758747692000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><b data-olk-copy-source=\"MailCompose\">Location :Birmingham, UK ( Onsite)  We pay hotel and Air</b><br />\r\n<b>Duration : 2 Weeks</b><br />\r\n<br />\r\n \r\n<p><b>Location:  Onsite</b></p>\r\n\r\n<p><b>Start date: </b><b>Immediately</b></p>\r\n\r\n<p><b>Number of positions: 3</b></p>\r\n\r\n<p> </p>\r\n\r\n<p><b>NOTE: </b>Any candidates will need a passport and stand on their own as far as international travel is concerned. We will reimburse actual approved expenses. A candidate who is not comfortable or capable or international travel should not be submitted.   </p>\r\n<br />\r\n<p>We are looking for <b>3</b> <b>Storage (Isilon/PowerScale)</b> resources to start <b>Immediately</b><b> </b>.</p>\r\n\r\n<p>&middot;       3 Storage (Isilon/PowerScale) </p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<ul>\r\n\t\t<li>We are seeking an experienced Isilon Engineer with deep expertise in Dell EMC Isilon/PowerScale platforms, OneFS scripting, and advanced OS management. This role will be responsible for executing secure recovery and validation procedures, including system isolation, password resets, host inspections, and malicious file extraction. The engineer will manage data cloning, OS cleansing, and cluster node validation across large-scale environments, ensuring operational integrity through node certification.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
-    "recruiter": [
-      null,
-      null,
-      null
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26395927",
-    "time_scraped": 1759526308035,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26386826,
-    "title": "Account Manager",
-    "location": "FL, West Palm Beach",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758653644000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Our client is the parent company of a full service Facilities Maintenance company, headquartered in Palm Beach, Florida. We have several locations including Orlando &amp; Tampa, Florida. The company is continuously growing, which provides new opportunities to our current employees, both geographically &amp; in their individual professional growth.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Responsibilities:<br />\r\nBuild &amp; maintain a network of sources from which to identify new sales leads.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Communicates with customers and leads to identify and understand their product or service needs; identifies and suggests products and services to meet those needs.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Demonstrates the functions and utility of services to customers based on their needs.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Ensures customer satisfaction through ongoing communication and relationship management; resolves any issues that may arise post-sale.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Maintains communication with existing and previous customers, alerting them of new products, services, and enhancements that may be of interest.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Maintains detailed reports of sales activities including calls, orders, sales, lost business and any customer or vendor relationship problems within Aspire.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Provides periodic territory sales forecasts.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Performs other duties as assigned.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Must use company software in accordance with company policy.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Must possess a strong understanding of field operations, estimating, oral &amp; written communication skills.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Must ALWAYS act in the best interest of company &amp; its clients.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Prioritize, delegate &amp; perform all work placing safety first in all things.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Good Communication skills to work effectively &amp; safely.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">At our company, we offer competitive compensation packages, including base salary plus commission. We also provide comprehensive training and ongoing professional development opportunities to support your success in this role. Join our dynamic team and be part of a growing organization that values innovation, teamwork, and customer satisfaction.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">**This is position is mainly in the field &amp; client facing.</span></span><br />\r\n<br />\r\n<br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Job Type: Full-time</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Benefits:</span></span>\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">401(k) matching</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Dental insurance</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Flexible spending account</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Health insurance</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Paid time off</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Parental leave</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Vision insurance</span></li>\r\n</ul>\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Schedule:</span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Monday to Friday</span></li>\r\n</ul>\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Supplemental Pay:</span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Bonus opportunities</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Commission pay</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Quarterly bonus</span></li>\r\n</ul>\r\n<span style=\"color:black;\"><span style=\"font-family:Times New Roman,serif;\">Work Location: In person</span></span><br />\r\n <br />\r\n <br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
+    "description": "<br>Project Accountant based out of our Miami, FL office.  This position is responsible for managing the lifecycle of project accounting in accordance with established accounting standards and project accounting policies. The role ensures compliance with contractual guidelines and requirements.<br />\r\n \r\n<h2>Primary Responsibilities:</h2>\r\n \r\n\r\n<ul>\r\n\t<li><b>Project Communication:</b> Collaborate with Project Managers (PMs) and teams regarding project setup, contract documents, contract modifications, approvals, and additional services related to billing.</li>\r\n\t<li><b>Billing and Accounting Setup: </b>Set up, review, and confirm billing terms, fees, and other accounting-related matters to ensure accurate allocation of labor and expenses to projects and proper revenue recognition.</li>\r\n\t<li><b>Project Charge Review:</b> Review and evaluate project charges for accuracy, complete cost transfers, update project budgets as needed, and ensure all project data is current.</li>\r\n\t<li><b>Project Performance Monitoring:</b> Monitor key indicators (e.g., negative variance, backlog) for projects and keep PMs and accounting informed of any concerns.</li>\r\n\t<li><b>Project Review:</b> Meet with PMs to review project performance and key financial data. Research unbilled issues and optimize billing opportunities.</li>\r\n\t<li><b>Subconsultant Expense Management:</b> Support PMs with subconsultant expenses by reviewing and approving subs invoices in line with contract terms.</li>\r\n\t<li><b>Invoice Processing:</b> Process subconsultant invoices, company invoices, and project financial reports on a monthly basis or according to the project schedule.</li>\r\n\t<li>Ensure draft invoices are accurate and aligned with contract requirements. Identify corrections needed, obtain documentation and approval from the PMs.</li>\r\n\t<li>Submit final invoices to clients. Maintain organized billing folders for all projects, including expenses, consultant invoices, and monthly invoices, per company standards.</li>\r\n\t<li>Prepare final invoice packages, including draft and final invoices, with all relevant backup documentation for reconciliation by the Accounting Department.</li>\r\n\t<li><b>Team Collaboration</b></li>\r\n\t<li>Work with the Accounts Payable team to resolve issues related to consultant invoicing and reimbursable expenses.</li>\r\n\t<li>Collaborate with the Accounts Receivable team to reconcile any discrepancies.           </li>\r\n\t<li><b>Write-Offs:</b> Process write-offs for uncollectible labor or expenses, as directed and approved by PMs and senior management.</li>\r\n\t<li><b>Audit Support:</b> Provide assistance to internal and external auditors, including research and reconciliations as required.</li>\r\n\t<li><b>Project Close-Out:</b> Assist the project management team with the project close-out process, including final invoices and the release of retainage.</li>\r\n\t<li>Close out project accounts upon project completion.</li>\r\n\t<li><b>Reporting:</b> Prepare special project analyses and reports for PMs and others.</li>\r\n\t<li><b>Process Improvements:</b> Recommend and implement process improvements for the billing cycle.</li>\r\n\t<li><b>Ongoing Learning:</b> Stay up to date with the latest project accounting principles and related subject matter.</li>\r\n\t<li><b>Additional Responsibilities:</b> Perform other duties and assignments as needed.</li>\r\n</ul>\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
     "recruiter": [
       "Jonathan Sherry",
       "jon@suncaptech.com",
       "5612265590"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26386826",
-    "time_scraped": 1759526308166,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26386726,
-    "title": "Senior Implementation Specialist/REMOTE- 3-6 months",
-    "location": "None, Remote",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758653038000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h3>Job Title: Senior Implementation Specialist</h3>\r\nFunction: PowerFlex Upgrade Engineer<br />\r\nLocation: [Remote]<br />\r\nDuration: 3-6 months &ndash; Starts ASAP - DEC is a freeze month.\r\n<h3>About the Role:</h3>\r\n\r\n<p>We are seeking a skilled and detail-oriented <strong> PowerFlex Upgrade Engineer</strong> to join our infrastructure team. This role focuses on performing software and firmware upgrades on Dell PowerFlex environments, ensuring minimal downtime and optimal system performance. The ideal candidate will have hands-on experience with Dell PowerFlex, strong troubleshooting skills, and a deep understanding of enterprise storage and hyper-converged infrastructure.</p>\r\n\r\n<h3>Key Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Plan, schedule, and execute code upgrades for Dell PowerFlex systems (including SDS, SDC, MDM, and PowerFlex Manager).</li>\r\n\t<li>Perform pre-upgrade health checks and post-upgrade validations to ensure system integrity.</li>\r\n\t<li>Collaborate with Dell support and internal teams to resolve upgrade-related issues.</li>\r\n\t<li>Maintain detailed documentation of upgrade procedures, configurations, and outcomes.</li>\r\n\t<li>Monitor system performance and proactively identify areas for improvement.</li>\r\n\t<li>Ensure compliance with change management and security policies.</li>\r\n\t<li>Provide technical guidance and support to other infrastructure teams.</li>\r\n</ul>\r\n\r\n<h3>Required Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>Proven experience with Dell PowerFlex (formerly VxFlex OS) in enterprise environments.</li>\r\n\t<li>Strong understanding of storage architecture, networking, and virtualization.</li>\r\n\t<li>Familiarity with Linux and Windows operating systems.</li>\r\n\t<li>Experience with PowerFlex Manager and REST APIs is a plus.</li>\r\n\t<li>Ability to troubleshoot complex system issues and work under pressure.</li>\r\n\t<li>Excellent communication and documentation skills.</li>\r\n</ul>\r\n\r\n<h3>Preferred Certifications:</h3>\r\n\r\n<ul>\r\n\t<li>Dell Technologies Proven Professional (PowerFlex-specific certifications)</li>\r\n\t<li>VMware Certified Professional (VCP)</li>\r\n\t<li>Red Hat Certified Engineer (RHCE) or equivalent</li>\r\n</ul>\r\n\r\n<h3>Education:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in Computer Science, Information Technology, or related field (or equivalent experience)</li>\r\n</ul>\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n&nbsp;\r\n<div>&nbsp;</div>\r\n<br>",
-    "recruiter": [
-      null,
-      null,
-      null
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26386726",
-    "time_scraped": 1759526308101,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26368983,
-    "title": "Lead Java Developer/ Newark, NJ (Onsite)- 6+ months",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758296678000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><b data-olk-copy-source=\"MessageBody\">Title: Lead Java Developer</b><br />\r\n<b>Newark, NJ (Onsite)</b><br />\r\n<b> 6&plus; months</b><br />\r\n<br />\r\n<br />\r\nWhat You&#39;ll Get to Do:  \r\n<ul>\r\n\t<li>Lead the development, deployment, and management of sophisticated API solutions using AWS cloud, Spring Boot, and Java</li>\r\n\t<li>Architect and oversee the implementation of solutions utilizing DocumentDB and Neptune DB deployed in AWS</li>\r\n\t<li>Establish and enforce best practices in API design and deployment, with a strong focus on performance, governance, and security</li>\r\n\t<li>Drive the adoption of modern design patterns and architectural principles across the team</li>\r\n\t<li>Spearhead problem-solving initiatives for complex issues and guide the team in developing innovative solutions</li>\r\n\t<li>Lead code reviews and establish team guidelines to ensure consistently high-quality deliverables</li>\r\n\t<li>Oversee the investigation and resolution of critical production issues</li>\r\n\t<li>Mentor and develop team members, fostering a culture of continuous learning and technical excellence</li>\r\n\t<li>Play a key role in architectural decisions and shape the technical direction of the team</li>\r\n\t<li>Collaborate with cross-functional teams to align technical solutions with business objectives</li>\r\n\t<li>Lead knowledge sharing initiatives, including technical presentations and lunch &amp; learn sessions</li>\r\n</ul>\r\nWhat You&#39;ll Bring with You:  \r\n\r\n<ul>\r\n\t<li>5&plus; years of experience as Java Lead </li>\r\n\t<li>Deep expertise in Java development, particularly with Spring Boot, and a proven track record of leading complex projects</li>\r\n\t<li>Extensive experience with AWS services, cloud-native application development, and CI/CD practices using Jenkins</li>\r\n\t<li>Demonstrated ability to architect and implement solutions using NoSQL DB&#39;s</li>\r\n\t<li>Strong background in microservices architecture and RESTful API design</li>\r\n\t<li>Proven experience in leading and mentoring development teams</li>\r\n\t<li>Excellence in problem-solving and the ability to guide teams through complex technical challenges</li>\r\n\t<li>Strong communication skills, with the ability to effectively convey technical concepts to both technical and non-technical stakeholders</li>\r\n</ul>\r\nPreferred Qualifications\r\n\r\n<ul>\r\n\t<li>Experience in the financial services or insurance industry</li>\r\n\t<li>Proficiency with containerization technologies (e.g., Docker, Kubernetes)</li>\r\n\t<li>Advanced knowledge of GraphDB, particularly Neptune on AWS</li>\r\n\t<li>Track record of implementing security best practices in software development</li>\r\n\t<li>Experience with agile methodologies and leading agile development teams</li>\r\n</ul>\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n \r\n<div> </div>\r\n<br>",
-    "recruiter": [
-      "Piyush Soni",
-      "Piyush@suncaptech.com",
-      "3343164873"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26368983",
-    "time_scraped": 1759526314088,
-    "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
-    "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 26368687,
-    "title": "Java Full Stack Developer/McLean VA (5 days Onsite)-6+ months Contract",
-    "location": "VA, McLean",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758294735000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong>  Java Fullstack Developer</strong><br />  \r\n<strong>  Mclean, VA (Onsite)</strong><br />  \r\n<strong>  6&plus; Months Contract</strong><br />  \r\n <br />  \r\nAs a Java Full Stack Developer, you'll work closely with the Development and Testing teams.<br />  \r\n<strong>  What You'll Get to Do:</strong>\r\n<ul>  \r\n\t<li>  The Senior Full Stack Engineer will provide pivotal engineering support for sophisticated system management activities related to our software architecture and operations</li>  \r\n\t<li>  This role involves hands-on work with micro-frontends and micro app architecture, where you will leverage your expertise in<strong>   Java/SpringBoot/Angular/MongoDB/Kubernetes/Cypress</strong></li>  \r\n\t<li>  Perform hands-on Java Development, adoption of modern software engineering & delivery practices using <strong>  Java, Spring Boot </strong></li>  \r\n\t<li>  Set up, configure, and maintain CI/CD pipelines using tools such as Jenkins</li>  \r\n\t<li>  Collaborate with cross-functional teams to gather requirements and translate them into technical solutions</li>  \r\n\t<li>  Conduct code reviews, troubleshoot issues, and perform debugging</li>  \r\n\t<li>  Ensure application security, scalability, and performance</li>  \r\n\t<li>  Continuously improve development processes and workflows</li>  \r\n\t<li>  Work with cloud platforms such as AWS</li>  \r\n\t<li>  Familiarity with database technologies like Oracle, MySQL</li>  \r\n\t<li>  You will also be responsible for interfacing and influencing with the business lines as well as others across IT</li>  \r\n\t<li>   </li>  \r\n</ul>  \r\n<strong>  What You'll Bring with You:</strong>\r\n\r\n<ul>  \r\n\t<li>  Design, develop, test, and deploy full stack applications using <strong>  Java/SpringBoot/Angular/MongoDB/Kubernetes/Cypress</strong></li>  \r\n\t<li>  Develop responsive front-end interfaces using frameworks such as  <strong>  Angular</strong></li>  \r\n\t<li>  Write clean, maintainable, and efficient code, following best practices and coding standards</li>  \r\n\t<li>  Implement RESTful APIs and integrate with various third-party services</li>  \r\n\t<li>  Set up, configure, and maintain CI/CD pipelines using tools such as Jenkins</li>  \r\n\t<li>  Collaborate with cross-functional teams to gather requirements and translate them into technical solutions</li>  \r\n\t<li>  Conduct code reviews, troubleshoot issues, and perform debugging</li>  \r\n\t<li>  Ensure application security, scalability, and performance</li>  \r\n\t<li>  Continuously improve development processes and workflows</li>  \r\n\t<li>  Experience with cloud platforms such as AWS</li>  \r\n\t<li>  Familiarity with database technologies like Oracle, MySQL</li>  \r\n\t<li>  Knowledge of automated testing frameworks and practices</li>  \r\n\t<li>  Knowledge of containerization and orchestration tools like Docker and Kubernetes is a plus</li>  \r\n\t<li>  Familiarity with version control systems, particularly Git</li>  \r\n</ul>  \r\n <br />  \r\n <br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n \r\n<div>   </div>  \r\n<br>",
-    "recruiter": [
-      "Prashanth Narasimha",
-      "Pras@suncaptech.com",
-      "9548932643"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26368687",
-    "time_scraped": 1759526313968,
+    "url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google&SearchString=#/jobs/26455777",
+    "time_scraped": 1759932115377,
     "source_company": "qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r",
     "source_url": "https://www2.jobdiva.com/portal/?a=qmjdnwxbt2xo6cgd4v07xzcp6xs8h801acdvz0k17y2rbydx0aqkiiztec0x7k5r&jobid=4744641&source=google",
     "date_cutoff_days": 15

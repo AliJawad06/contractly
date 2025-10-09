@@ -1,14 +1,14 @@
 [
   {
-    "id": 31270447,
-    "title": "Lead I - Software Engineering/Java Developer",
-    "location": "AR, Bentonville",
+    "id": 31280813,
+    "title": "Fullstack Developer",
+    "location": "Maharashtra, Pune",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759525018000
+      "date_postedStr": "10/7/2025",
+      "date_posted": 1759830413000
     },
     "start": {
       "start_dateStr": null,
@@ -20,457 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <strong><u>Skills and experiences:</u></strong><br />\r\n&bull; We are looking for candidates with Max 5-6 years of total experience in Java development<br />\r\n&bull; 4 plus years of experience with hands on development, testing and troubleshooting of complex backend Java programs<br />\r\n&bull; Java: Strong programming skills in Java, including object-oriented programming principles, design patterns, and familiarity with Java frameworks.<br />\r\n&bull; Spring Boot: Hands-on experience in developing Spring Boot applications, including dependency injection, ORM (Object-Relational Mapping), and REST API development.<br />\r\n&bull; Microservices: Understanding of microservices architecture and experience in building and deploying microservices-based applications. o Cloud: Strong familiarity with Azure, GCP or AWS cloud<br />\r\n&bull; CI/CD: Familiarity with Continuous Integration (CI) and Continuous Deployment (CD) practices o SQL: Proficiency in writing SQL queries, managing databases, and understanding of relational database concepts. &bull; Strong problem-solving abilities, good communication (written &amp; verbal) skills, and the ability to work effectively in a team are also important for this role.<br />\r\n&bull; Should be able to articulate past projects and do on the fly troubleshooting/ write logic during evaluation.</span></span></div>\r\n<br>",
-    "recruiter": [
-      "Manisha Shastry",
-      "mshastry@tranzeal.com",
-      "6692049623"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31270447",
-    "time_scraped": 1759525325949,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31267360,
-    "title": "Systems Engineer, Associate ",
-    "location": "AZ, Tucson",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759508576000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <strong><span style=\"color:black;\">Job Responsibilities/Qualifications</span></strong><br />\r\n<span style=\"color:black;\">&bull; Candidates should be able to perform each of these responsibilities satisfactorily to do this job successfully**<br />\r\n&bull; Learns to use company concepts, policies and procedures, familiar with and follows standard practices.<br />\r\n&bull; Normally receives detailed directions on all work.<br />\r\n&bull; Works on projects of moderate scope in which analysis of situation or data requires a review of identifiable factors.<br />\r\n&bull; Makes suggestions to improve work processes.<br />\r\n&bull; Assists in reducing to practice patentable inventions.<br />\r\n&bull; Exercises judgment within defined procedures and practices to determine appropriate action.<br />\r\n&bull; Participates in technical team activities.<br />\r\n&bull; Presents and discusses data within group.<br />\r\n&bull; Monitors work to ensure quality, and continuously promote Quality First Time.<br />\r\n&bull; Other duties as assigned by management.<br />\r\n<br />\r\n<strong>Required Skills:</strong><br />\r\n&bull; Knows basic and some specialized engineering techniques.<br />\r\n&bull; Familiar with searching technical literature.<br />\r\n&bull; Skilled with use of word processing, spreadsheets, graphical and presentation software applications.<br />\r\n<br />\r\n<strong>Experience/Education:</strong><br />\r\n- Bachelors in Engineering with 0-3 years of experience</span></span></span></div>\r\n<br>",
-    "recruiter": [
-      "Venkata Suresh",
-      "sureshs@tranzeal.com",
-      "4088840357"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31267360",
-    "time_scraped": 1759525325644,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31252931,
-    "title": "Wireless Site Reliability Engineer (SRE)",
-    "location": "Karnataka, Bengaluru",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759422316000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 100,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong><span style=\"color:black;\">Professional Experience</span></strong><br />\r\n<span style=\"color:black;\">&bull; Minimum of 8 years of industry experience in wireless site reliability engineering, wireless network operations, or related areas.<br />\r\n&bull; Solid understanding of underlying network and security components leveraged in wireless networks.</span><br />\r\n<strong><span style=\"color:black;\">Core Responsibilities</span></strong><br />\r\n<span style=\"color:black;\">&bull; Wireless Protocols and Standards: Expert-level knowledge in 802.11ac/802.11ax and related standards including WPA, RADIUS, EAP, and 802.1X.</span><br />\r\n<span style=\"color:black;\">&bull; Wireless Access Points &amp; Controllers: Strong experience with WLAN controllers, particularly Mist Wireless.</span><br />\r\n<span style=\"color:black;\">&bull; RF Design &amp; Troubleshooting: Skilled in RF fundamentals, site surveys, spectrum analysis, and interference mitigation. Ability to build and interpret wireless heatmaps, tune for scalability and high availability, and optimize wireless networks for events.</span><br />\r\n<span style=\"color:black;\">&bull; Networking Expertise: Deep knowledge of TCP/UDP, IPv4/IPv6, BGP, VPN, L2 switching, and proven background in network operations.</span><br />\r\n<span style=\"color:black;\">&bull; Programming &amp; Scripting: Hands-on experience in one or more: Python, Perl, Bash for automation and operational efficiency.</span><br />\r\n<span style=\"color:black;\">&bull; Monitoring Tools: Familiarity with tools such as Prometheus, Grafana, Alert Manager, Nautobot/Netbox, Netdisco.</span><br />\r\n<span style=\"color:black;\">&bull; System Administration: Strong fundamentals in Linux administration (preferred).</span><br />\r\n<span style=\"color:black;\">&bull; Problem-Solving &amp; Communication: Systematic troubleshooting ability, with excellent communication skills and a strong sense of ownership and accountability.</span><br />\r\n<span style=\"color:black;\">&bull; Automation &amp; Operations: Proven track record in leveraging operational signals (SNMP, Syslog, synthetics) to solve real-world challenges. Experience building or using synthetics (e.g., UXI, Signal7, Wyebot) for wireless availability and user experience monitoring.</span><br />\r\n<span style=\"color:black;\">&bull; Code Optimization: Ability to debug, optimize, and automate operational tasks.</span><br />\r\n<span style=\"color:black;\">&bull; Platform Exposure: Experience with Mellanox/Cumulus or Linux, Mist Wireless, Cisco Wireless.</span><br />\r\n<span style=\"color:black;\">&bull; Security Awareness: Hands-on experience with WLAN security platforms such as Cisco Client.</span><br />\r\n<span style=\"color:black;\">&bull; Previous SRE Experience: Demonstrated success in applying SRE principles to wireless and network operations.</span></span></span></div>\r\n<br>",
-    "recruiter": [
-      "Hemant Baradwaz",
-      "hbaradwaz@tranzeal.com",
-      "6239991415"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31252931",
-    "time_scraped": 1759525325864,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31252915,
-    "title": "Angular Front End Developer",
-    "location": "Karnataka, Bengaluru",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759422251000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 100,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Responsibilities</strong></span></span>\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Ensure high performance of both front-end and back-end applications.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Collaborate with teams to implement new features, improvements, and fixes.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Build, optimize, and scale our Angular web platform and applications.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Implement secure applications and data protection.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Integrate RESTful APIs and internal web services to ensure high performance.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Develop user interfaces for modern rich internet applications using the latest front-end technologies.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Write tested and documented JavaScript, HTML, and CSS code.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Make design and technical decisions for AngularJS projects.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Develop application code and perform unit testing using AngularJS, RESTful web services, and Go technologies.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Troubleshoot production issues and implement necessary fixes.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Work closely with product owners and internal teams to define and shape tasks.</span></span></li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <br />\r\n<strong>Required Skills &amp; Experience</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">4&plus; years of software development experience, with at least 2&ndash;3 years in <strong>Angular</strong>.</span></span></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Strong expertise in HTML, CSS, and writing cross-browser-compatible code.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Good understanding of AJAX and JavaScript DOM manipulation techniques.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Experience with RESTful services and integrating 3rd-party services.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Proficiency in JavaScript, with knowledge of Node.js /Go</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Familiarity with testing frameworks (e.g., Jasmine) and test runner frameworks (e.g., Karma).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Hands-on experience implementing complex AngularJS applications, directives, controllers, and services.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Strong problem-solving skills and a critical thinker.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Ability to work well in a team and possess good time-management skills.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Excellent interpersonal and communication skills.</span></span></li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Education &amp; Certifications</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Bachelor&#39;s degree in Computer Science, Engineering, or related field.</span></span></li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> </span></span></div>\r\n<br>",
-    "recruiter": [
-      "Hemant Baradwaz",
-      "hbaradwaz@tranzeal.com",
-      "6239991415"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31252915",
-    "time_scraped": 1759525325680,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31252900,
-    "title": "Golang Developer",
-    "location": "Karnataka, Bengaluru",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759422178000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 100,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Job Description:</strong></span></span><br />\r\n \r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Application Development</strong></span></span>\r\n\t<ul>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Design, develop, and maintain <strong>backend services and APIs</strong> using Go.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Implement <strong>microservices-based architectures</strong> for scalability and reliability.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Write clean, maintainable, and well-documented code following best practices.</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Integration &amp; Deployment</strong></span></span>\r\n\t<ul>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Build services that integrate with <strong>databases, message queues, and external APIs</strong>.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Collaborate with DevOps teams to enable CI/CD deployment pipelines.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Ensure applications are containerized and optimized for <strong>Kubernetes/Docker</strong> environments.</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Performance &amp; Optimization</strong></span></span>\r\n\t<ul>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Optimize applications for <strong>high concurrency, low latency, and resilience</strong>.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Conduct benchmarking, profiling, and code reviews.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Implement caching, load balancing, and distributed processing techniques.</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Security &amp; Compliance</strong></span></span>\r\n\t<ul>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Follow secure coding practices and conduct vulnerability remediation.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Implement authentication/authorization, data encryption, and API security.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Ensure compliance with enterprise security and data privacy policies.</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Collaboration &amp; Support</strong></span></span>\r\n\t<ul>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Work closely with frontend, DevOps, and QA teams for end-to-end delivery.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Support production troubleshooting and incident resolution.</span></span></li>\r\n\t\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><em>Contribute to reusable libraries and frameworks for the engineering team</em></span></span></li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>What you will bring:</strong><br />\r\n<strong>Required Skills &amp; Experience</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">4&plus; years of software development experience, with at least 2&ndash;3 years in <strong>Golang</strong>.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Strong understanding of <strong>concurrency, goroutines, and channels</strong> in Go.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Experience with <strong>REST/gRPC APIs, microservices, and event-driven architectures</strong>.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Familiarity with <strong>databases</strong> (PostgreSQL, Cassandra, MongoDB, or ClickHouse).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Experience with <strong>message queues/streaming platforms</strong> (Kafka, RabbitMQ, NATS).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Hands-on with <strong>Docker, Kubernetes, Git, and CI/CD pipelines</strong>.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Proficiency in <strong>unit testing and test automation</strong>.</span></span></li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Preferred Knowledge</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Familiarity with <strong>monitoring/logging</strong> (Prometheus, Grafana, ELK).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Understanding of <strong>Domain-Driven Design (DDD)</strong> and <strong>Clean Architecture</strong>.</span></span></li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>Education &amp; Certifications</strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Bachelor&#39;s degree in Computer Science, Engineering, or related field.</span></span></li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> </span></span></div>\r\n<br>",
-    "recruiter": [
-      "Hemant Baradwaz",
-      "hbaradwaz@tranzeal.com",
-      "6239991415"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31252900",
-    "time_scraped": 1759525325643,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31245766,
-    "title": "Senior Web Release Engineer",
-    "location": "CA, Sunnyvale",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759333629000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 100,
-    "description": "<br><div> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\">  <strong> Responsibilities</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <strong> Own and drive the end-to-end release management process for web applications.</strong></span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <strong> Design, implement, and optimize CI/CD pipelines using tools like Looper, Kubernetes, or Concord.</strong></span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Collaborate with developers, QA, DevOps, and product teams to ensure high-quality and timely releases.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Automate repetitive tasks to improve deployment efficiency and reduce errors.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Troubleshoot release-related issues, ensuring quick resolution and minimal downtime.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Maintain and integrate release workflows with tools like <strong> GitHub, Slack, and ServiceNow</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Ensure compliance with organizational policies, security guidelines, and audit requirements.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Provide visibility to leadership on release progress, risks, and dependencies.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Mentor junior engineers and promote best practices in release engineering and automation.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\">  <br /> \r\n<strong> Required Qualifications</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Bachelor's degree in Computer Science, Engineering, or related field (or equivalent experience).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> 5&plus; years of experience in <strong> Release Engineering, DevOps, or CI/CD pipelines</strong>.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Hands-on experience with <strong> Looper, Kubernetes, or Concord, Grafana Dashboards</strong>.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Experience in deploying web applications in canary & production environments.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Experience performing canary analysis in multiple Azure AZs and able to rollout or rollback.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Strong programming/scripting skills in <strong> JavaScript/TypeScript</strong>.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Proficiency in <strong> ReactJS</strong> and modern web development practices.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Experience integrating workflows with <strong> GitHub, Slack, ServiceNow</strong>, or similar tools.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Strong problem-solving and troubleshooting skills.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Excellent communication and interpersonal skills; ability to work cross-functionally.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\">  <br /> \r\n<strong> Preferred Qualifications</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Experience with <strong> automation frameworks</strong> and infrastructure-as-code.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Familiarity with monitoring and observability tools.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Previous experience in <strong> large-scale, enterprise-grade environments</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Strong focus on operational excellence, quality, and continuous improvement.</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
-    "recruiter": [
-      null,
-      null,
-      null
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31245766",
-    "time_scraped": 1759525332134,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231083,
-    "title": "Mechanical Design Lead Engineer - ADAS Sensing",
-    "location": "CA, Newark",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759170882000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><b><u>Your Role:</u></b><br />\r\n&bull; Design robust module mounts which support repeatable and accurate performance of exterior/interior ADAS sensors<br />\r\n&bull; Contribute with strong knowledge in designing kinematic mechanisms and shock and vibration stabilization structures.<br />\r\n&bull; Design and execute comprehensive tolerance stack-up analyses at both component and system levels to ensure proper fit, function, and manufacturing feasibility of ADAS sensor assemblies<br />\r\n&bull; Lead optical performance simulations using SPEOS software to validate ADAS sensor system performance across various environmental and operating conditions<br />\r\n&bull; Drive and oversee thermal and structural simulations &amp; Validation at the module level to ensure robust mechanical design and optimal sensor performance under diverse operating conditions<br />\r\n&bull; Collaborate with cross-functional groups including exterior surface design, interior cabin design, design studio, structural simulation group, ADAS group and module suppliers to optimize packaging space and fulfilling both manufacturing serviceability requirements.<br />\r\n&bull; Work with Tier 1 suppliers and understand mechanical system implementation.<br />\r\n<br />\r\n<b><u>Qualifications:</u></b><br />\r\n&bull; Proficiency in 3D CAD software CATIA<br />\r\n&bull; 5&plus; years of experience<br />\r\n&bull; Experience with ASME GD&amp;T, tolerance stack up, and detailed 2D drawings<br />\r\n&bull; Plastic and injection molding experience<br />\r\n&bull; Experience with CAE tools (for example ANSYS)<br />\r\n&bull; Knowledge of Thermal , Shock, and Vibration testing<br />\r\n&bull; Knowledge of rapid prototyping<br />\r\n&bull; Expertise in ADAS mechanical component design<br />\r\n&bull; Track record of creative mechanical design that will fit within a tight space<br />\r\n&bull; Knowledge of vehicle build and electrical harnessing<br />\r\n<br />\r\n<b><u>Education:</u></b><br />\r\n&bull; Bachelor&#39;s of Science (Master&#39;s preferred), Mechanical Engineering or related engineering field</span></span><br />\r\n </div>\r\n<br>",
-    "recruiter": [
-      "Manisha Shastry",
-      "mshastry@tranzeal.com",
-      "6692049623"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31231083",
-    "time_scraped": 1759525332232,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231016,
-    "title": "Mechanical Design Lead Engineer - ADAS Sensing",
-    "location": "CA, Newark",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759170641000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <b><u>Your Role:</u></b><br />\r\n&bull;       Design robust module mounts which support repeatable and accurate performance of exterior/interior ADAS sensors<br />\r\n&bull;       Contribute with strong knowledge in designing kinematic mechanisms and shock and vibration stabilization structures.<br />\r\n&bull;       Design and execute comprehensive tolerance stack-up analyses at both component and system levels to ensure proper fit, function, and manufacturing feasibility of ADAS sensor assemblies<br />\r\n&bull;       Lead optical performance simulations using SPEOS software to validate ADAS sensor system performance across various environmental and operating conditions<br />\r\n&bull;       Drive and oversee thermal and structural simulations &amp; Validation at the module level to ensure robust mechanical design and optimal sensor performance under diverse operating conditions<br />\r\n&bull;       Collaborate with cross-functional groups including exterior surface design, interior cabin design, design studio, structural simulation group, ADAS group and module suppliers to optimize packaging space and fulfilling both manufacturing serviceability requirements.<br />\r\n&bull;       Work with Tier 1 suppliers and understand mechanical system implementation.<br />\r\n<br />\r\n<b><u>Qualifications:</u></b><br />\r\n&bull;       Proficiency in 3D CAD software CATIA<br />\r\n&bull;       5&plus; years of experience<br />\r\n&bull;       Experience with ASME GD&amp;T, tolerance stack up, and detailed 2D drawings<br />\r\n&bull;       Plastic and injection molding experience<br />\r\n&bull;       Experience with CAE tools (for example ANSYS)<br />\r\n&bull;       Knowledge of Thermal , Shock, and Vibration testing<br />\r\n&bull;       Knowledge of rapid prototyping<br />\r\n&bull;       Expertise in ADAS mechanical component design<br />\r\n&bull;       Track record of creative mechanical design that will fit within tight space<br />\r\n&bull;       Knowledge of vehicle build and electrical harnessing<br />\r\n<br />\r\n<b><u>Education:</u></b><br />\r\n&bull;       Bachelor&#39;s of Science (Master&#39;s preferred), Mechanical Engineering or related engineering field</span></span><br />\r\n </div>\r\n<br>",
-    "recruiter": [
-      "Manisha Shastry",
-      "mshastry@tranzeal.com",
-      "6692049623"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31231016",
-    "time_scraped": 1759525332206,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31217489,
-    "title": "Lead II - DevOps Engineering",
-    "location": "CA, Milpitas",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758921529000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <strong><u><span style=\"color:#4b4b4b;\">Key Responsibilities</span></u></strong></span></span>\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Infrastructure as Code (IaC)</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Design, implement, and manage cloud infrastructure using Terraform (including custom providers, state management, and complex module structures).</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Work with Packer for building and managing machine images.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Handle environment provisioning across multiple stages (dev, staging, production).</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Cloud &amp; Infrastructure Management</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Deploy and maintain infrastructure on AWS (VPC, Security Groups, IAM, EC2, S3, RDS, Prefix Lists, etc.).</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Manage containerized workloads using Kubernetes (EKS).</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Configure and optimize Nginx ingress controllers, load balancers, and networking.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Support hybrid workloads on Linux systems (Debian, Ubuntu, Amazon Linux, CentOS-based).</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">CI/CD &amp; Automation</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Implement and optimize Jenkins pipelines, including dynamic JNLP agents in cloud environments.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Manage GitHub Enterprise with SAML authentication and automation workflows.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Develop and maintain deployment scripts (Bash, Python, and automation runners) for scalable and repeatable operations.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Use Helm charts for Kubernetes application deployments.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Monitoring &amp; Observability</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Set up and maintain logging, monitoring, and alerting solutions.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Integrate observability tools ELK Stack &amp; Filebeat.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Support SRE principles: incident management, root cause analysis (RCA), and reliability practices.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Security &amp; Compliance</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Implement security best practices across AWS, Kubernetes, and networking.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Manage IAM roles, policies, and secure secrets handling.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Understand deployment into Disconnected Environment.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Collaboration &amp; Support</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Partner with application teams to support deployments and infrastructure needs.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Provide troubleshooting for system, networking, and CI/CD pipeline issues.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Contribute to documentation and knowledge-sharing.</span></span></span></li>\r\n</ul>\r\n<br />\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\"><strong>Required Skills</strong></span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">In Depth knowledge on Terraform Enterprise, Github Enterprise Server, HashiCorp Vault, Jenkins, and Jfrog Artifactory</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Cloud Platforms: AWS (core services, networking, IAM, EKS).</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">IaC &amp; Automation: Terraform (advanced), Packer, Ansible, Terraform Enterprise</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Containers &amp; Orchestration: Kubernetes, Helm, Docker (advanced).</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">CI/CD: Jenkins (pipeline scripting, dynamic agents), GitHub Enterprise workflows.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Scripting &amp; Tools: Bash, Python, Linux administration.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Networking: VPCs, Security Groups, Prefix Lists, load balancers, DNS.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Monitoring &amp; Reliability: Observability stack, logging, incident response.</span></span></span></li>\r\n</ul>\r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong><span style=\"color:#4b4b4b;\">Preferred Qualifications</span></strong></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Experience with scaling Kubernetes clusters and handling ingress traffic with Nginx.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Familiarity with multi-environment deployments and parallelized automation scripts.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Knowledge of service quotas, resource optimization, and AWS networking nuances.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Strong problem-solving and troubleshooting skills.</span></span></span></li>\r\n\t<li><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><span style=\"color:#4b4b4b;\">Excellent communication for cross-team collaboration.</span></span></span></li>\r\n</ul>\r\n</div>\r\n<br>",
-    "recruiter": [
-      "Shashank Shekhar",
-      "shashanks@tranzeal.com",
-      "6692704911"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31217489",
-    "time_scraped": 1759525332163,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31216595,
-    "title": "Enterprise Solutions - Lead II - Enterprise Solutions",
-    "location": "CA, Santa Clara",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758915512000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <strong><u><span style=\"color:#4b4b4b;\">Key Responsibilities:</span></u></strong><br />\r\n<span style=\"color:#4b4b4b;\">&bull; Lead end-to-end project management of SAP implementation, upgrade, or migration initiatives with a focus on SAP GTS to S/4HANA (E4H).<br />\r\n&bull; Develop detailed project plans, timelines, resource allocations, and budgets.<br />\r\n&bull; Manage project scope, risks, and issues effectively to ensure timely delivery.<br />\r\n&bull; Collaborate closely with SAP functional and technical teams, business stakeholders, and third-party vendors.<br />\r\n&bull; Ensure alignment of project deliverables with business requirements and enterprise architecture.<br />\r\n&bull; Conduct regular project status meetings and provide executive-level reporting.<br />\r\n&bull; Manage stakeholder expectations and drive consensus on project priorities.<br />\r\n&bull; Ensure compliance with internal project governance and PMO standards.<br />\r\n&bull; Support change management, training, and transition-to-support activities during go-live.<br />\r\n<br />\r\n<strong><u>Qualifications:</u></strong><br />\r\n&bull; Bachelor&#39;s degree in information technology, Business, or a related field (master&#39;s preferred).<br />\r\n&bull; Project Management Certification (e.g., PMP, PRINCE2, or Agile equivalent).<br />\r\n&bull; Minimum 10 years of project management experience with at least 8 years managing SAP projects.<br />\r\n&bull; Strong experience in SAP GTS modules, and preferably direct experience with GTS to S/4HANA (E4H) migrations.<br />\r\n&bull; Solid understanding of SAP architecture, integration points, and data migration strategies.<br />\r\n&bull; Demonstrated ability to manage multi-functional, global project teams.<br />\r\n&bull; Familiarity with regulatory, trade compliance, and customs-related processes (a plus).<br />\r\n&bull; Experience working in Agile, Waterfall, or Hybrid project environments.<br />\r\n&bull; Excellent verbal and written communication, organizational, and leadership skills.<br />\r\n&bull; Prior involvement in S/4HANA greenfield or brownfield implementations.<br />\r\n&bull; Hands-on experience with SAP Activate methodology.<br />\r\n&bull; Working knowledge of tools such as Jira, SAP Solution Manager, MS Project, or Smartsheet.<br />\r\n&bull; Experience with multi-country rollouts or global SAP programs.</span><br />\r\n </span></span></div>\r\n<br>",
-    "recruiter": [
-      "Venkata Suresh",
-      "sureshs@tranzeal.com",
-      "4088840357"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31216595",
-    "time_scraped": 1759525332235,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31210500,
-    "title": "IT|Enterprise Solutions - Lead II - Enterprise Solutions",
-    "location": "MA, Boston",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758832996000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\">  <strong> <u> <span style=\"color:#4b4b4b;\"> Responsibilities</span> </u> </strong><br /> \r\n<span style=\"color:#4b4b4b;\"> • Lead the planning and execution of ERP integration activities for mergers and acquisitions, ensuring seamless transition and alignment with Waters' future-state SAP S/4HANA platform.<br /> \r\n• Develop and maintain an inventory of key merged company assets across people, process, technology, and data, enabling informed decisions on process harmonization and system alignment.<br /> \r\n• Define and drive decisions on data migration, process harmonization, and system integration, resulting in efficient and value-driven integration outcomes.<br /> \r\n• Partner with business and IT stakeholders to design and implement migration roadmaps, ensuring timely and successful adoption of Waters' SAP S/4HANA platform.<br /> \r\n• Build strong relationships with merged organizations and Waters business leaders, fostering alignment, buy-in, and trust throughout the integration process.<br /> \r\n• Facilitate cross-functional workshops and decision-making forums, driving consensus and effective problem-solving across teams.<br /> \r\n• Support ongoing operations of merged company SAP ecosystems during the transition, ensuring compliance with internal controls, audit requirements, and SOX regulations.</span> <br /> \r\n<br /> \r\n<span style=\"color:#4b4b4b;\"> <strong> <u> Qualifications</u> </strong><br /> \r\n• Bachelor's degree in IT, Computer Science, Systems Engineering, or a related field.<br /> \r\n• Minimum of 9-12 years of SAP ERP experience, including proven program leadership roles—ideally with a track record in M&A or divestiture integration projects.<br /> \r\n• Advanced negotiating, conflict management, and influencing skills to drive alignment across diverse stakeholders.<br /> \r\n• Demonstrated ability to provide strategic leadership in planning, designing, due diligence, and implementation of business objectives.<br /> \r\n• Strong business analysis and stakeholder management skills, with experience facilitating cross-functional workshops and decision-making forums.<br /> \r\n• Excellent communication and presentation abilities, especially with executive audiences.<br /> \r\nExperience with SAP S/4HANA preferred.</span> </span> </span> </div> \r\n<br>",
-    "recruiter": [
-      "Santhosh Lakshmipathy",
-      "santhoshl@tranzeal.com",
-      "4088840367"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31210500",
-    "time_scraped": 1759525338651,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31205708,
-    "title": "ServiceNow Developer – Now Assist / GenAI",
-    "location": "Telangana, Hyderabad",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758779675000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><strong><span style=\"color:black;\"><span style=\"font-size:11.0pt;\">Job Title:</span></span></strong><span style=\"color:black;\"><span style=\"font-size:11.0pt;\"> ServiceNow Developer &ndash; Now Assist / GenAI<br />\r\n<strong>Experience:</strong> 5&plus; Years<br />\r\n<strong>Client:</strong> ServiceNow (through Cognizant)<br />\r\n<strong>Location:</strong> Any Cognizant Location | Hybrid<br />\r\n<strong>Interview Mode:</strong> L1 (Virtual or In-Person &ndash; <em>one in-person round is mandatory</em>) &plus; Client Round (Virtual)</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-size:11.0pt;\">Salary range is <strong>around 30 LPA</strong></span></span><br />\r\n <br />\r\n<strong><span style=\"color:black;\"><span style=\"font-size:11.0pt;\">Key Skills &amp; Responsibilities:</span></span></strong>\r\n<ul>\r\n\t<li><span style=\"font-size:11.0pt;\">Strong hands-on experience in <strong>ServiceNow development</strong>.</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Expertise in <strong>Now Assist</strong> and <strong>GenAI capabilities</strong> within ServiceNow.</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Build, customize, and enhance ServiceNow applications/modules.</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Work on workflows, integrations, and automation solutions.</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Collaborate with cross-functional teams to deliver scalable solutions.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"color:black;\"><span style=\"font-size:11.0pt;\">Good to Have:</span></span></strong><span style=\"color:black;\"><span style=\"font-size:11.0pt;\"> ServiceNow certifications (CSA, CAD, or equivalent).</span></span></div>\r\n<br>",
-    "recruiter": [
-      "Ramya Gummadi",
-      "rgummadi@tranzeal.com",
-      "(469)367-9111"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31205708",
-    "time_scraped": 1759525338908,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31205693,
-    "title": "Network Operations Engineer",
-    "location": "Karnataka, Bengaluru",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758778234000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"color:black;\"> <strong> Job Description:</strong> </span> <br /> \r\n<span style=\"color:black;\"> •  Good at troubleshooting, setting up, fine-tuning, and testing dynamic routing protocols like EIGRP, OSPF, and BGP, and can handle tricky routing table issues.</span> <br /> \r\n<span style=\"color:black;\"> •  Having experience with EVPN and VXLAN is a big plus.</span> <br /> \r\n<span style=\"color:black;\"> •  Know how to work with Application Load Balancers like F5 Big IP LTM/GTM or Citrix NetScaler.</span> <br /> \r\n<span style=\"color:black;\"> •  Comfortable with WLANs and other wireless networks, especially using Cisco and Juniper MIST.</span> <br /> \r\n<span style=\"color:black;\"> •  Familiar with ServiceNow ITSM for managing incidents, changes, and problems.</span> <br /> \r\n<span style=\"color:black;\"> •  Basic skills with tools like Wireshark, Kentik, Prometheus, or other monitoring tools.</span> <br /> \r\n<span style=\"color:black;\"> •  Some Linux knowledge is a bonus.</span> <br /> \r\n<span style=\"color:black;\"> •  If you've worked with automation using SaltStack or Python, that's definitely a plus.</span> </div> \r\n<br>",
-    "recruiter": [
-      "Kiran Nagalla",
-      "kirann@tranzeal.com",
-      "9704778686"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31205693",
-    "time_scraped": 1759525338556,
-    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
-    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31198165,
-    "title": "NOC Engineer",
-    "location": "Karnataka, Bengaluru",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758689807000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<ul>\r\n\t<li data-end=\"1797\" data-start=\"1715\">\r\n\t<p data-end=\"1797\" data-start=\"1717\">Bachelor&#39;s degree in Computer Science, Information Technology, or related field.</p>\r\n\t</li>\r\n\t<li data-end=\"1886\" data-start=\"1798\">\r\n\t<p data-end=\"1886\" data-start=\"1800\">3&ndash;5 years of hands-on experience in a NOC or IT infrastructure monitoring environment.</p>\r\n\t</li>\r\n\t<li data-end=\"1978\" data-start=\"1887\">\r\n\t<p data-end=\"1978\" data-start=\"1889\">Familiarity with monitoring tools such as Nagios, Zabbix, SolarWinds, Splunk, or similar.</p>\r\n\t</li>\r\n\t<li data-end=\"2064\" data-start=\"1979\">\r\n\t<p data-end=\"2064\" data-start=\"1981\">Basic understanding of networking concepts: TCP/IP, DNS, DHCP, VPN, firewalls, etc.</p>\r\n\t</li>\r\n\t<li data-end=\"2126\" data-start=\"2065\">\r\n\t<p data-end=\"2126\" data-start=\"2067\">Experience with <strong>Linux/Unix</strong> and Windows server environments.</p>\r\n\t</li>\r\n\t<li data-end=\"2177\" data-start=\"2127\">\r\n\t<p data-end=\"2177\" data-start=\"2129\">Strong communication skills.</p>\r\n\t</li>\r\n\t<li data-end=\"2267\" data-start=\"2178\">\r\n\t<p data-end=\"2267\" data-start=\"2180\"><strong>Willingness to work in shifts, including nights, weekends, and holidays (24x7 support).</strong></p>\r\n\t</li>\r\n</ul>\r\n</div>\r\n<br>",
+    "description": "<br><div>  <span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">   </span>  </span>   <br />  \r\n<span style=\"color:black;\">  <span style=\"font-size:11.0pt;\">  JD:<br />  \r\n<br />  \r\nwork location is <strong>  Pune</strong>, <strong>  Hybrid</strong> mode </span>  </span>  <br />  \r\n <br />  \r\n <br />  \r\n<strong>  <span style=\"font-size:11.0pt;\">  Primary skill set :</span>  </strong><span style=\"font-size:11.0pt;\">   AWS, Docker, Node JS, Typescript and backend development</span>  <br />  \r\n <br />  \r\n<strong>  <u>  <span style=\"font-size:11.0pt;\">  Job Description for Full Stack Developer at offshore:</span>  </u>  </strong><br />  \r\n <br />  \r\n<span style=\"font-size:11.0pt;\">  We are looking for an engineer who can come and add features to an existing application as listed below<br />  \r\n<br />  \r\nThe application consists of three main services:</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  Frontend Client (/client)</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  React with Vite</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  Nginx for static file serving and API proxying (configuration in /nginx)</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  TypeScript for type safety</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  API Server (/api)</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  AdonisJS framework</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  RESTful API endpoints</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  TypeScript support</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  Authentication and middleware handling</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  JDBC Service (/xactly-service)</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  Spring Boot application</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  JDBC database connectivity</span>  <br />  \r\n<span style=\"font-size:11.0pt;\">  Secure proxy to Xactly services</span>  </div>  \r\n<br>",
     "recruiter": [
       "Divya Gaddam",
       "divyag@tranzeal.com",
       "9989852680"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31198165",
-    "time_scraped": 1759525338582,
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31280813",
+    "time_scraped": 1759931799705,
     "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
     "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31196474,
-    "title": "Plant Engineer ",
-    "location": "CA, Pleasanton",
+    "id": 31278763,
+    "title": "CAD Engineer/Engineer, Exterior Trim",
+    "location": "AZ, Phoenix Hub",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758662891000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759782843000
     },
     "start": {
       "start_dateStr": null,
@@ -482,28 +53,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong><span style=\"color:black;\">Description:</span></strong><br />\r\n <br />\r\n<strong><span style=\"color:black;\">Plant Engineering</span></strong><br />\r\n<br />\r\n<span style=\"color:black;\">Working in a regulated cGxP environment, identifies engineering needs for site facilities. Defines projects, develops innovative solutions, determines engineered solutions, develops project documentation, obtains capital or expense resources, obtains and evaluates competitive bids, and implements engineering changes/additions. Controls expenditures and project execution. Develops FDA validation protocols and data. Represent site as Facilities SME on capital projects.<br />\r\n<br />\r\n<strong>Facility Infrastructure Management - </strong>Supports the efficient operation of site facility infrastructure systems (to include all utility systems, HVAC systems etc). Monitors all system status and analyzes to identify trends. Develops maintenance strategies and programs (preventative, corrective, predictive etc) to ensure cost effective and reliable operation of all plant equipment and systems. Facilitates business units&#39; capability to perform their functions.<br />\r\n<br />\r\n<strong>Administrative -</strong> Develops and manages capital and expense budgets. Researches information and presents data on a wide variety of facility related topics including planning of facility needs, master facilities maintenance plan, and the disaster recovery plan. Performs management functions, including managing performance and providing training and development opportunities for staff. Acts as qualified trainer for Facilities related SOP&#39;s, programs to support site training needs.<br />\r\n<br />\r\n<strong>Energy Conservation -</strong> Analyzes energy consumption, identifies energy savings opportunities, develops appropriate projects and implements to improve energy conservation to achieve site, and corporate energy reduction goals. Develops cost and energy savings metrics and reports.<br />\r\n<br />\r\n<strong>&quot;Sustainable? Operations -</strong> Analyzes facilities processes and equipment to identify and implement opportunities to achieve Eco Team and Group Sustainability goals. Develops procedures, processes and/or projects to enhance sustainable operations at Bay Area sites.<br />\r\n<br />\r\n<strong>Asset Management - </strong>Manage and maintain site asset listings, to include all buildings and grounds, utility infrastructure and equipment. Develop and manage Life Cycle Asset Management process, to include Facility Condition Assessments at each site. Proactively identify potential projects.</span></span></span><br />\r\n<br />\r\n </div>\r\n<br>",
+    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Role<br />\r\n&bull;<br />\r\nLead or play a leading role in the packaging, engineering design, release and launch of exterior trims of a state-of-the-art car<br />\r\n&bull;<br />\r\nCreate cutting edge exterior systems focusing on quality, reliability, functionality, mass and cost efficiency<br />\r\n&bull;<br />\r\nWork interactively within a cross functional studio and vehicle engineering team, placing priority upon the greater benefit of the vehicle above any one individual system<br />\r\n&bull;<br />\r\nEmploy and develop world class engineering tools and an innovative approach to support the systems generation<br />\r\nQualifications<br />\r\n&bull;<br />\r\n2&plus; years of experience in vehicle exterior trim design &amp; development. This includes design related experience with at least some of the following areas:<br />\r\no<br />\r\nSide valences<br />\r\no<br />\r\nSill trims<br />\r\no<br />\r\nUnderbody aero shields<br />\r\no<br />\r\nWheelhouse liners Spoilers / Appliques<br />\r\no<br />\r\n&quot;Frunk&quot; / &quot;Froot&quot;<br />\r\no<br />\r\nRocker panels<br />\r\n&bull;<br />\r\nProven experience creating complex CAD schemes and models to an excellent standard, preferably using CATIA V5 or V6<br />\r\n&bull;<br />\r\nProven experience with thermoplastic &amp; thermoset resin materials and class A manufacturing technologies (including painting)<br />\r\n&bull;<br />\r\nA good understanding of the range of computational tools available to design engineers<br />\r\n&bull;<br />\r\nLaunch experience<br />\r\nAdvantageous<br />\r\n&bull;<br />\r\nA flair for creative engineering and 3D problem solving<br />\r\n&bull;<br />\r\nFive or more years of experience with plastics design, Class A surfaces, front crash, aero features, lighting integration, module integration, tooling, resins, supply base, fit and finish, gap and flush, module concept, thermal expansion, structural design, paint (matching).<br />\r\n&bull;<br />\r\nA strong desire to create the very best product, working as an integral part of a very capable team<br />\r\n&bull;<br />\r\nWell-developed team working and interpersonal skills<br />\r\n&bull;<br />\r\nA great work ethic<br />\r\nEducation<br />\r\n&bull;<br />\r\nBachelor of Science in Mechanical Engineering or relevant engineering discipline</span></span><br />\r\n </div>\r\n<br>",
     "recruiter": [
-      null,
-      null,
-      null
+      "Manisha Shastry",
+      "mshastry@tranzeal.com",
+      "6692049623"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31196474",
-    "time_scraped": 1759525338630,
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31278763",
+    "time_scraped": 1759931799680,
     "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
     "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31185913,
-    "title": "Engineer, Operations System (IT)",
-    "location": "TN, Nashville",
+    "id": 31278753,
+    "title": "Design Engineer- Nexus/Sr Engineer - Exterior Trim, Mechanisms & Glazing",
+    "location": "AZ, Phoenix Hub",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758562689000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759782769000
     },
     "start": {
       "start_dateStr": null,
@@ -515,28 +86,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <strong><span style=\"color:black;\">Skills:</span></strong><br />\r\n <br />\r\n<span style=\"color:black;\">&bull;    Deploy, smoke test, and validate new code releases.  Backup and restore environments to previous version in case of rollback  <br />\r\n&bull;    Maintain and control access to test environments through concept of least privilege<br />\r\n&bull;    Provide a weekly status report for current projects<br />\r\n&bull;    Review and provide recommendations to improve environment performance<br />\r\n&bull;    Manage tickets and tasks assigned to provide detailed information on all support provided, recommended solutions, and improvements that are implemented<br />\r\n&bull;    Provide technical assistance to other Systems Administrators as needed<br />\r\n&bull;    Understand and document how entire environment and its dependencies is integrated<br />\r\n&bull;    Spec and build out new environments as needed<br />\r\n&bull;    Monitor and maintain standard documentation for policies, procedures and practices<br />\r\n&bull;    Demonstrate effective time management and the ability to maintain multiple tasks<br />\r\n&bull;    Apply effective communication and customer support to our QA and Dev teammates</span><br />\r\n <br />\r\n<strong><span style=\"color:black;\">Education:</span></strong><br />\r\n <br />\r\n<span style=\"color:black;\">&bull;    Bachelor&#39;s Degree in Information Technology related fields or equivalent work experience<br />\r\n&bull;    Emphasis on Windows Server platforms, 2003, 2008, 2012, 2016, 2019 and 2022 SQL Clustering, PowerShell Automation, IIS configuration, AD, DNS, VLANS, Netscalers, etc.<br />\r\n&bull;    Familiarity with SQL connections and basic queries, Oracle connections, VMWare<br />\r\n&bull;    Minimum of 5 years of experience in Customer Service and Information Technology<br />\r\n&bull;    Strong written, verbal, and interpersonal communications skills including ability to listen attentively and to communicate information clearly and effectively<br />\r\n&bull;    Demonstrated ability to work well with cross-functional groups<br />\r\n&bull;    Demonstrated interpersonal, collaborative, and relationship-building skills; ability to interact positively with teammates at all levels of the company<br />\r\n&bull;    Approachable and open<br />\r\n&bull;    Demonstrated professionalism and courtesy in responding to phone calls and emails<br />\r\n&bull;    Strong Customer Service skills and the ability to train others in these skills<br />\r\n&bull;    Demonstrated ability to work in a team, facilitate effective team interactions, and to foster a positive work environment; willingness to assist teammates in order to achieve departmental goals<br />\r\n&bull;    Strong analytical skills with the ability to seek underlying assumptions through probing, questioning, and listening<br />\r\n&bull;    Demonstrated strengths in organizational, attention-to-detail, reasoning, critical thinking, and problem solving skills<br />\r\n&bull;    Demonstrated ability to manage multiple projects/tasks, meet deadlines, and adjust priorities appropriately in an evolving work environment with shifting time frames; self-starter with high degree of initiative, determination of sense of urgency, and follow through<br />\r\n&bull;    Occasional travel may be required<br />\r\n&bull;    Primary responsibilities occur during standard business hours but off hours work is part of the job</span><br />\r\n </span></span></div>\r\n<br>",
+    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">. Role<br />\r\n&bull;<br />\r\nLead or play a leading role in the packaging, engineering design, release and launch of exterior components of a state-of-the-art car<br />\r\n&bull;<br />\r\nCreate cutting edge exterior systems focusing on quality, reliability, functionality, mass and cost efficiency<br />\r\n&bull;<br />\r\nWork interactively within a cross functional studio and vehicle engineering team, placing priority upon the greater benefit of the vehicle above any one individual system<br />\r\n&bull;<br />\r\nEmploy and develop world class engineering tools and an innovative approach to support the systems generation<br />\r\nQualifications<br />\r\n&bull;<br />\r\n5&plus; years of experience in vehicle exterior component design &amp; development. This includes design related experience with at least some of the following areas:<br />\r\no<br />\r\nSide valences<br />\r\no<br />\r\nSill trims<br />\r\no<br />\r\nUnderbody aero shields<br />\r\no<br />\r\nWheelhouse liners Spoilers / Appliques<br />\r\no<br />\r\n&quot;Frunk&quot; / &quot;Froot&quot;<br />\r\no<br />\r\nRocker panels<br />\r\no<br />\r\nGlazing<br />\r\no<br />\r\nOSRVM (Mirros)<br />\r\no<br />\r\nWipers and Wash System<br />\r\n&bull;<br />\r\nProven experience creating complex CAD schemes and models to an excellent standard, preferably using CATIA V5 or V6<br />\r\n&bull;<br />\r\nProven experience with thermoplastic &amp; thermoset resin materials and class A manufacturing technologies (including painting)<br />\r\n&bull;<br />\r\nA good understanding of the range of computational tools available to design engineers<br />\r\n&bull;<br />\r\nLaunch experience<br />\r\nAdvantageous<br />\r\n&bull;<br />\r\nA flair for creative engineering and 3D problem solving<br />\r\n&bull;<br />\r\nFive or more years of experience with plastics design, Class A surfaces, front crash, aero features, lighting integration, module integration, tooling, resins, supply base, fit and finish, gap and flush, module concept, thermal expansion, structural design, paint (matching).<br />\r\n&bull;<br />\r\nFive or more years of experience with the development of glazing, wipers, wash systems or OSRVM.<br />\r\n&bull;<br />\r\nA strong desire to create the very best product, working as an integral part of a very capable team<br />\r\n&bull;<br />\r\nWell-developed team working and interpersonal skills<br />\r\n&bull;<br />\r\nA great work ethic<br />\r\nEducation<br />\r\n&bull;<br />\r\nBachelor of Science in Mechanical Engineering or relevant engineering discipline</span></span><br />\r\n </div>\r\n<br>",
     "recruiter": [
-      "Venkata Suresh",
-      "sureshs@tranzeal.com",
-      "4088840357"
+      "Manisha Shastry",
+      "mshastry@tranzeal.com",
+      "6692049623"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31185913",
-    "time_scraped": 1759525345599,
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31278753",
+    "time_scraped": 1759931799717,
     "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
     "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31183697,
-    "title": "Material Buyer - Instrument Operations Network (ION)",
-    "location": "AZ, Marana",
+    "id": 31278743,
+    "title": "CAE Optimization Engineer (Mid-Level)",
+    "location": "CA, Newark",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758555649000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759782656000
     },
     "start": {
       "start_dateStr": null,
@@ -548,28 +119,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <br />\r\n<span style=\"color:black;\"><strong>Main tasks and duties:<br />\r\n<br />\r\nOperational Buying:</strong><br />\r\n● Perform daily, weekly, bi-weekly and monthly standard work to meet all objectives.<br />\r\n● Order Handling: Process purchase requisitions, issue purchase orders for global suppliers, track deliveries, and resolve order-related issues.<br />\r\n● Supplier Forecasting: Manage supplier forecasts, anticipate production plan changes, and implement actions to ensure material availability.<br />\r\n● Invoice Verification and Approval: Review invoices for accuracy, resolve discrepancies, and ensure timely processing to avoid payment delays.<br />\r\n● Data Maintenance and Reporting: Maintain accurate supplier data in SAP and iCollab, generate reports on orders and supplier performance, and act as Key User &amp; first-level support for procurement tools.<br />\r\n<br />\r\n<strong>Ensure Material Availability:<br />\r\nDelivery Monitoring &amp; Escalation:</strong><br />\r\n● Track and ensure timely deliveries, escalate potential delays, and drive risk mitigation actions to prevent material shortages support supplier capacity planning to set correct priorities for our ION production network<br />\r\n● Confirms product availability and negotiates alternative solutions when appropriate. Interacts with external and internal customers, production planners, and warehouse staff to ensure items are made available on time.<br />\r\n<br />\r\n<strong>Supplier Management &amp; Supplier Collaboration:</strong><br />\r\n● provide sufficient information for supplier review meetings and background information to support long-term supplier development activities<br />\r\n● Ensure smooth processes of implemented supplier collaboration<br />\r\n● Support supplier collaboration project to improve efficiency and automation and manage supplier access and issue resolution in iCollab.<br />\r\n● Visits suppliers&#39; facilities for improvement initiatives and problem solving.</span><br />\r\n<strong><span style=\"color:black;\">Teamwork and Collaboration:</span></strong><br />\r\n<span style=\"color:black;\">● Ability to work with a wide variety of individuals at all levels and organizational structures at suppliers and within Roche to attain the delivery schedules required.<br />\r\n● Proactively communicates with appropriate departments, when problems are suspected or become evident.<br />\r\n● Facilitates discussion across teams to ensure any Change Orders are implemented in a timely manner to prevent disruption of supply.<br />\r\n● Interfaces with Manufacturing and Quality to disposition discrepant material..<br />\r\n<br />\r\n<strong>Project tasks (up to 30%):</strong><br />\r\n● Contribute to cross-site initiatives and stakeholder projects.<br />\r\n● Communicates with all departments when possible improvements can be made, such as quantity discounts or other cost savings.<br />\r\n<br />\r\n<strong>Additional tasks, duties and responsibilities:</strong><br />\r\n<br />\r\n● Permanently optimize processes to increase quality and efficiency standards.<br />\r\n● Complies with all FDA and Quality Systems requirements.<br />\r\n● Complete all training in a timely manner to meet compliance requirements of ?=95%<br />\r\n<br />\r\n<strong>Additional tasks, duties and responsibilities: -<br />\r\nOther duties as assigned by management.<br />\r\n<br />\r\nKnowledge Skills and Abilities :</strong><br />\r\n● Excellent verbal, written and interpersonal communication skills<br />\r\n● Excellent interpersonal skills<br />\r\n● Ability to follow written procedures and document work accurately<br />\r\n● Ability to be flexible, responsive to change, and multitask<br />\r\n● Detail oriented<br />\r\n● Strong mathematical aptitude<br />\r\n● Strong learning agility<br />\r\n● Promote, drive and implement a Team First culture<br />\r\n● Change Agent promoting and driving a culture of continuous improvement<br />\r\n● Must be able to learn ERP systems and use appropriately for planning and purchasing functions.<br />\r\n● Understanding of inventory management value and flow.<br />\r\n● Knowledge of SAP is a plus.<br />\r\n● Knowledge of Google Suite products is a plus.</span><br />\r\n <br />\r\n </span></span></div>\r\n<br>",
+    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong>🔧 Responsibilities</strong><br />\r\nSet up and execute structural optimizations (design space, constraints, objectives, etc.)<br />\r\n<br />\r\nInterpret results and propose manufacturable solutions<br />\r\n<br />\r\nPerform subsystem and full-vehicle level optimization (stiffness, stress, mass)<br />\r\n<br />\r\nApply multi-domain and multi-material optimization strategies<br />\r\n<br />\r\nUse tools like OptiStruct, NASTRAN, Hyperworks, BetaCAE<br />\r\n<br />\r\nCollaborate cross-functionally to balance performance across attributes<br />\r\n<br />\r\nProvide design guidance during concept phases<br />\r\n<br />\r\nScript in Python or TCL (a plus)<br />\r\n<br />\r\n<strong>🎓 Candidate Profile</strong><br />\r\nBachelor&#39;s (or higher) in Mechanical or Aerospace Engineering<br />\r\n<br />\r\nMinimum 4 years of experience, with 1&ndash;2 years in optimization<br />\r\n<br />\r\nStrong FEA fundamentals and CAE optimization knowledge<br />\r\n<br />\r\nFamiliar with OptiStruct/NASTRAN, Hyperworks, BetaCAE<br />\r\n<br />\r\nEnthusiastic, quick learner, problem solver, and team collaborator<br />\r\n<br />\r\nPerformance assessed via task-based evaluations</span></span></div>\r\n<br>",
     "recruiter": [
-      "Ravi Gopidi",
-      "ravi@tranzeal.com",
-      "8317089350"
+      "Manisha Shastry",
+      "mshastry@tranzeal.com",
+      "6692049623"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31183697",
-    "time_scraped": 1759525345598,
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31278743",
+    "time_scraped": 1759931799730,
     "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
     "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31179224,
-    "title": "ML Data Infrastructure Engineer, Sunnyvale",
-    "location": "CA, Sunnyvale",
+    "id": 31278294,
+    "title": "Engineering & IT - Manufacturing Engineer 1",
+    "location": "CA, Newark",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758321415000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759778773000
     },
     "start": {
       "start_dateStr": null,
@@ -581,28 +152,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <br />\r\n7&plus; years of software engineering experience, with 3&plus; years in ML serving/infrastructure<br />\r\nStrong expertise in container orchestration (Kubernetes) and cloud platforms<br />\r\nExperience with model serving technologies (TensorFlow Serving, Triton, KServe)<br />\r\nDeep knowledge of distributed systems and microservices architecture<br />\r\nProficiency in Python and experience with high-performance serving<br />\r\nStrong background in monitoring and observability tools<br />\r\nExperience with CI/CD pipelines and GitOps workflows<br />\r\n <br />\r\n </span></span></div>\r\n<br>",
+    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong><u>Job Description: Role</u></strong><br />\r\n&bull;       Be a significant contributor to a world-class Interior Components and Systems engineering team<br />\r\n&bull;       Create industry-leading Interior Components or Systems, with groundbreaking luxury, craftsmanship, performance, safety, ergonomics, and functionality<br />\r\n&bull;       Contribute to the packaging, engineering, release, and launch of Interior Components and Systems in the Lucid portfolio<br />\r\n&bull;       Work interactively within a cross-functional marketing, design, and vehicle engineering team, placing priority on the greater benefit of the vehicle above any one individual system<br />\r\n&bull;       Collaborate with Interior trim suppliers to ensure technical excellence and on time delivery of Lucid Interior Components and Systems<br />\r\n&bull;       Employ and develop effective tools and an innovative approach to supporting the development<br />\r\n<br />\r\n<strong><u>Qualifications</u></strong><br />\r\n&bull;       4&plus; years of demonstrated experience as a detail-oriented Interior Components and Systems development lead (for one or more: Hard trim, Soft trim, IP, Door trims, Consoles, Headliners, etc.)<br />\r\n&bull;       Knowledge and understanding of automotive Interior Components and Systems industry benchmark, trends and supplier competencies<br />\r\n&bull;       Experience creating/improving/establishing technical product specifications and timelines to achieve an accelerated development cycle towards SOP<br />\r\n&bull;       Experienced in using CAD to create 2D/3D concept drawings, Interior Components and Systems, packaging layouts and DFM studies (CATIA V5/V6 preferred)<br />\r\n&bull;       Vehicle and product launch experience<br />\r\n<br />\r\n<strong><u>Advantageous</u></strong><br />\r\n&bull;       Flexibility and ability to adapt to achieve success in a fast-paced startup environment<br />\r\n&bull;       One full program cycle experience from concept to production launch in automotive Interior Components and Systems<br />\r\n&bull;       Profound knowledge of vehicle Interior Components and Systems and demonstrable track record of technical excellence and program execution<br />\r\n&bull;       A solid knowledge of plastic parts design, structural performance, manufacturing technologies, craftsmanship, ergonomics, safety and homologation requirements<br />\r\n&bull;       Strong competency in materials selection, plastic injection molding/DFM, and GD&amp;T<br />\r\n&bull;       A strong desire to create the very best product, working as an integral part of a very capable team<br />\r\n&bull;       A practical hands-on approach to complement the theoretical<br />\r\n&bull;       Exceptional technical abilities paired with excellent communication skills<br />\r\n<br />\r\n<strong><u>Education</u></strong><br />\r\n&bull;       Bachelor or Masters degree in Mechanical Engineering or in a relevant discipline</span></span></div>\r\n<br>",
     "recruiter": [
-      "Ravi Gopidi",
-      "ravi@tranzeal.com",
-      "8317089350"
+      "Shashank Shekhar",
+      "shashanks@tranzeal.com",
+      "6692704911"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31179224",
-    "time_scraped": 1759525345710,
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31278294",
+    "time_scraped": 1759931799733,
     "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
     "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31176082,
+    "id": 31277813,
     "title": "Sr. Electronics Engineer, Power Electronics Test & Validation",
     "location": "CA, Newark",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758300004000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759775508000
     },
     "start": {
       "start_dateStr": null,
@@ -614,28 +185,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <strong><u>Responsibilities and qualifications</u></strong><br />\r\n&bull;       Strong understanding of low-voltage digital and analog circuits.<br />\r\n&bull;       Review schematics, PCB designs, calculation and simulation of electronics circuits.<br />\r\n&bull;       Conduct verification and validation tests of high-quality electronics hardware using in automotive applications.<br />\r\n&bull;       Strong hands-on and trouble-shooting skills in testing and verifications of electronics low-voltage electronics systems, including the use of lab equipment (oscilloscope, network analyzers, signal analyzers etc.)<br />\r\n&bull;       Capability to analysis the root-cause of the low-voltage electronics system and drive R&amp;D activities independently.<br />\r\n&bull;       Strong technical writing and communication skills, with the ability to convey complex concepts clearly.<br />\r\n<br />\r\n<strong><u>Preferred qualifications</u></strong><br />\r\n&bull;       B. S in Electrical Engineering, Electronics, or a related field.<br />\r\n&bull;       3&plus; years of experience in power electronics development and testing.<br />\r\n&bull;       Solid understanding low-voltage digital and analog circuits fundamentals.<br />\r\n<span style=\"color:#222222;\">&bull;       Knowledge of automotive and industrial requirements.</span></span></span></div>\r\n<br>",
+    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong><u>Responsibilities and qualifications</u></strong><br />\r\n&bull; Strong understanding of low-voltage digital and analog circuits.<br />\r\n&bull; Review schematics, PCB designs, calculation and simulation of electronics circuits.<br />\r\n&bull; Conduct verification and validation tests of high-quality electronics hardware using in automotive applications.<br />\r\n&bull; Strong hands-on and trouble-shooting skills in testing and verifications of electronics low-voltage electronics systems, including the use of lab equipment (oscilloscope, network analyzers, signal analyzers etc.)<br />\r\n&bull; Capability to analysis the root-cause of the low-voltage electronics system and drive R&amp;D activities independently.<br />\r\n&bull; Strong technical writing and communication skills, with the ability to convey complex concepts clearly.<br />\r\nPreferred qualifications<br />\r\n&bull; B. S in Electrical Engineering, Electronics, or a related field.<br />\r\n&bull; 3&plus; years of experience in power electronics development and testing.<br />\r\n&bull; Solid understanding low-voltage digital and analog circuits fundamentals.<br />\r\n&bull; Knowledge of automotive and industrial requirements.</span></span></div>\r\n<br>",
     "recruiter": [
-      "Venkata Suresh",
-      "sureshs@tranzeal.com",
-      "4088840357"
+      "Manisha Shastry",
+      "mshastry@tranzeal.com",
+      "6692049623"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31176082",
-    "time_scraped": 1759525345711,
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31277813",
+    "time_scraped": 1759931806493,
     "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
     "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31171503,
-    "title": "Senior Web Release Engineer",
-    "location": "CA, Sunnyvale",
+    "id": 31277802,
+    "title": "Senior Engineer – Vehicle Dynamics Simulation",
+    "location": "CA, Newark",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758230492000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759775428000
     },
     "start": {
       "start_dateStr": null,
@@ -646,15 +217,48 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 100,
-    "description": "<br><div> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <strong> Responsibilities</strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <strong> Own and drive the end-to-end release management process for web applications.</strong></span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <strong> Design, implement, and optimize CI/CD pipelines using tools like Looper, Kubernetes, or Concord.</strong></span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Collaborate with developers, QA, DevOps, and product teams to ensure high-quality and timely releases.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Automate repetitive tasks to improve deployment efficiency and reduce errors.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Troubleshoot release-related issues, ensuring quick resolution and minimal downtime.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Maintain and integrate release workflows with tools like <strong> GitHub, Slack, and ServiceNow</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Ensure compliance with organizational policies, security guidelines, and audit requirements.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Provide visibility to leadership on release progress, risks, and dependencies.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Mentor junior engineers and promote best practices in release engineering and automation.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\">  <br /> \r\n<strong> Required Qualifications</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Bachelor's degree in Computer Science, Engineering, or related field (or equivalent experience).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> 5&plus; years of experience in <strong> Release Engineering, DevOps, or CI/CD pipelines</strong>.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Hands-on experience with <strong> Looper, Kubernetes, or Concord, Grafana Dashboards</strong>.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Experience in deploying web applications in canary & production environments.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Experience performing canary analysis in multiple Azure AZs and able to rollout or rollback.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Strong programming/scripting skills in <strong> JavaScript/TypeScript</strong>.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Proficiency in <strong> ReactJS</strong> and modern web development practices.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Experience integrating workflows with <strong> GitHub, Slack, ServiceNow</strong>, or similar tools.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> <span style=\"color:black;\"> Strong problem-solving and troubleshooting skills.</span> </span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Excellent communication and interpersonal skills; ability to work cross-functionally.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\">  <br /> \r\n<strong> Preferred Qualifications</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Experience with <strong> automation frameworks</strong> and infrastructure-as-code.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Familiarity with monitoring and observability tools.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Previous experience in <strong> large-scale, enterprise-grade environments</strong>.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Strong focus on operational excellence, quality, and continuous improvement.</span> </span> </li> \r\n</ul> \r\n<strong>  </strong></div> \r\n<br>",
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"><strong><u><span style=\"color:black;\">Candidate Requirements</span></u></strong><br />\r\n<span style=\"color:black;\">&bull; Years of Experience Required:  3-5 overall years of experience in the field. </span><br />\r\n<span style=\"color:black;\">&bull; Degrees or certifications required:  BS/BEng or MS/MEng, or equivalent experience, in Mechanical Engineering</span><br />\r\n&bull; Disqualifiers: Candidates without vehicle dynamics or suspension or development design experience will not be considered.<br />\r\n&bull; Best vs. Average: The ideal resume would contain:<br />\r\n- Experience with Driver In The Loop software (DIL).<br />\r\n- Candidates with previous motorsport experience<br />\r\n- SAE knowledge or experience<br />\r\n<br />\r\n<strong>&bull; Performance Indicators: Performance will be assessed based on meeting deadlines and quality.</strong><br />\r\n<br />\r\n<strong><u>Top 3 Hard Skills Required &plus; Years of Experience</u></strong><br />\r\n1.  5 or more years of Automotive experience with a solid understanding of vehicle dynamics principles<br />\r\n2. Minimum 3 years&#39; Proven experience in ADAMS, CarRealTime, CarMaker, CarSim or similar<br />\r\n3. Minimum 3 years Understanding of Matlab/Simulink fundamentals<br />\r\n<br />\r\n<strong><u>Hard Skills Assessments</u></strong><br />\r\n&bull; Expected Dates that Hard Skills Assessments will be scheduled: ASAP<br />\r\n&bull; Hard Skills Assessment Process: The assessment process will include 1st round recruiting screening and a 2nd round technical screening and a final team panel.<br />\r\n&bull; Required Candidate Preparation: Once candidates go through the 2nd round assessment, they will need to complete a 3 slide deck presentation which will be presented to the panel in the 3rd round.<br />\r\n<br />\r\n<strong>We are looking for a Sr. Engineer &ndash; Vehicle Dynamics Simulation to guide development of ride, handling, steering and braking attributes from early concept stage through execution.</strong><br />\r\n<br />\r\nYou will work with development engineers, software engineers and system owners across the company to develop and deliver world-class suspension, steering, braking wheel/tire and vehicle dynamics systems from concept to production.<br />\r\n<br />\r\n<strong><u>The Role:</u></strong><br />\r\n&bull;       Develop, maintain and use vehicle/system models to support vehicle design and development<br />\r\n&bull;       Provide objective data guidance on vehicle dynamics and durability performance based on simulation outputs<br />\r\n&bull;       Guide vehicle development by subjectively evaluating vehicle dynamics performance in driving simulator<br />\r\n&bull;       Analysis of real world test data, correlation of models<br />\r\n<br />\r\n<strong><u>Qualifications:</u></strong><br />\r\n&bull;       5 or more years of Automotive experience with a solid understanding of vehicle dynamics principles<br />\r\n&bull;       Proven experience in ADAMS, CarRealTime, CarMaker, CarSim or similar<br />\r\n&bull;       Understanding of Matlab/Simulink fundamentals<br />\r\n&bull;       Familiarity with Python, C&plus;&plus;<br />\r\n<br />\r\n<strong><u>Advantageous:</u></strong><br />\r\n&bull;       8&plus; years of automotive (or relevant) engineering experience<br />\r\n&bull;       Experience with and/or working knowledge of simulation and analysis tools (e.g. ADAMS, Dymola, Carsim, MatLab, Python, etc.)<br />\r\n&bull;       Experience with and/or good knowledge of vehicle assembly plant processes and practices<br />\r\n&bull;       A creative problem-solving mindset combined with business acumen to aid teams in obtaining ideas as well as leading development and execution<br />\r\n<br />\r\n<strong><u>Education Requirements:</u></strong><br />\r\n&bull;       BS/BEng or MS/MEng in a related Engineering discipline</span></span></div>\r\n<br>",
     "recruiter": [
-      "Neha Varma",
-      "nvarma@tranzeal.com",
-      "4088248004"
+      "Manisha Shastry",
+      "mshastry@tranzeal.com",
+      "6692049623"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31171503",
-    "time_scraped": 1759525345835,
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31277802",
+    "time_scraped": 1759931806011,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31277792,
+    "title": "Senior Engineer in Vehicle Dynamics Development",
+    "location": "CA, Newark",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759775280000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\"> <strong><u>Candidate Requirements</u></strong><br />\r\n&bull; Years of Experience Required:  3-5 overall years of experience in the field. <br />\r\n&bull; Degrees or certifications required:  BS/BEng or MS/MEng, or equivalent experience, in Mechanical Engineering<br />\r\n&bull; Disqualifiers: Candidates without vehicle dynamics or suspension or development design experience will not be considered.<br />\r\n&bull; Best vs. Average: The ideal resume would contain:<br />\r\n- Specific vehicle dynamics experience for competitors such as General Motors, Porche, BMW specifically.<br />\r\n- Tire development experience<br />\r\n<br />\r\n<strong>&bull; Performance Indicators: Performance will be assessed based on meeting deadlines and quality.</strong><br />\r\n<br />\r\n<strong><u>Top 3 Hard Skills Required &plus; Years of Experience</u></strong><br />\r\n1. Minimum 3 years&#39; Experience in tuning several of the following: coil springs, air springs, dampers, anti-roll bars, bushings, tires, suspension control software, electric power steering, stability control, torque vectoring systems, and other dynamics-related control systems<br />\r\n2. Minimum 3 years&#39; Experience in both objective and subjective assessment, data acquisition and analysis<br />\r\n3. Minimum 3 years automotive experience with a solid understanding of vehicle dynamics principles<br />\r\n<br />\r\n<strong><u>Hard Skills Assessments</u></strong><br />\r\n&bull; Expected Dates that Hard Skills Assessments will be scheduled: ASAP<br />\r\n&bull; Hard Skills Assessment Process: The assessment process will include 1st round recruiting screening and a 2nd round technical screening and a final team panel.<br />\r\n&bull; Required Candidate Preparation: Once candidates go through the 2nd round assessment, they will need to complete a 3 slide deck presentation which will be presented to the panel in the 3rd round.<br />\r\n<br />\r\nAs a Senior Engineer in Vehicle Dynamics Development you will support the testing, tuning, development and validation of the best riding and handling vehicles in the world. You will work alongside other development and CAE engineers, mechanical and software engineers and system owners, key stakeholders and management across the company, to develop and deliver world-class suspension, steering, braking, wheel/tire and vehicle dynamics systems from concept to production.<br />\r\n<br />\r\n<strong><u>Responsibilities:</u></strong><br />\r\n&bull;       Develop and iterate vehicle hardware and software calibrations using subjective and data-driven processes<br />\r\n&bull;       Install robust data acquisition systems on prototype vehicles; create, perform, analyze, and document test results<br />\r\n&bull;       Objective and subjective analysis of attributes, on Lucid and benchmark vehicles<br />\r\n&bull;       Troubleshoot and document mechanical, electrical, and software problems in a fast-paced environment<br />\r\n&bull;       Work closely with cross-functional teams from across the business to make efficient, timely, data-driven decisions<br />\r\n&bull;       Assist preparation, component upgrades, and maintenance of vehicle dynamics prototype fleet<br />\r\n&bull;       Work with multiple complex projects in a demanding environment<br />\r\n&bull;       Travel domestically and internationally as required<br />\r\n&bull;       A strong desire to create state-of-the-art engineering products as an integral part of a very capable team<br />\r\n<br />\r\n<strong><u>Qualification:</u></strong><br />\r\n&bull;       5 or more years of automotive experience with a solid understanding of vehicle dynamics principles<br />\r\n&bull;       Demonstrated ability to deliver vehicles with world-class dynamics attributes<br />\r\n&bull;       Experience in both objective and subjective assessment, data acquisition and analysis<br />\r\n&bull;       Experience in tuning several of the following: coil springs, air springs, dampers, anti-roll bars, bushings, tires, suspension control software, electric power steering, stability control, torque vectoring systems, and other dynamics-related control systems<br />\r\n&bull;       Knowledge of the basic principles of ADAMS, CarRealTime, CarMaker, CarSim or similar<br />\r\n&bull;       Understanding of Matlab/Simulink fundamentals<br />\r\n&bull;       Familiarity with Python, C&plus;&plus;<br />\r\n<br />\r\n<strong><u>Advantageous:</u></strong><br />\r\n&bull;       Desire for continual learning<br />\r\n&bull;       Excellent problem-solving ability, using fundamental principles and data-driven decision making<br />\r\n&bull;       Formula/Baja SAE or motorsport background<br />\r\n&bull;       Advanced driving qualifications<br />\r\n<br />\r\n<strong><u>Education</u></strong><br />\r\n&bull;       BS/BEng or MS/MEng, or equivalent experience, in Mechanical Engineering</span></span></div>\r\n<br>",
+    "recruiter": [
+      "Ravi Gopidi",
+      "ravi@tranzeal.com",
+      "8317089350"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/31277792",
+    "time_scraped": 1759931805946,
     "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
     "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
     "date_cutoff_days": 15

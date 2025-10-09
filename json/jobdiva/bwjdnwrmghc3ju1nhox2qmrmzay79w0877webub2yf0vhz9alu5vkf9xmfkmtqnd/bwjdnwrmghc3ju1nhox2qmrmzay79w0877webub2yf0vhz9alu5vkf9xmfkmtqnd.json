@@ -1,212 +1,14 @@
 [
   {
-    "id": 31232000,
-    "title": "L4 Traveling Telecommunications Tech",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759175133000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong>L4 Traveling Telecommunications Tech needed ASAP for a position that will be 100% travel for a 1+ year contract!</strong><br />\r\n<br />\r\nOur client is looking for L4 Traveling Telecommunications Technicians for a nationwide optical deployment.\r\n<ul>\r\n\t<li>Have a minimum of 3 years&#39; accumulated experience or equivalent as determined by the Installation Supplier&#39;s training process and demonstrated to the TC representative upon request, proficiency in the system (Network Elements 1, 2, 3, and 4) being worked on, or hold a Certificate of Completion from a training facility providing an appropriate curriculum.</li>\r\n\t<li>Be capable of performing the same work operations/job activities as a Skill Level 3 Installer without supervision or direction.</li>\r\n\t<li>Be capable of performing as the Installation Supplier&#39;s in-charge person.</li>\r\n\t<li>Be capable of performing additions, removals, and modifications on working equipment and circuits.</li>\r\n</ul>\r\n<strong> Skill Level 4 work operations/job activities may include: </strong>\r\n\r\n<ul>\r\n\t<li>Circuit modifications Software additions or upgrades Power transition work Addition or removal of batteries.</li>\r\n\t<li>Addition or removal of circuits on working power distribution sources.</li>\r\n\t<li>Equipment testing and turn-up</li>\r\n</ul>\r\n<br />\r\n<strong>Requirements: </strong>\r\n\r\n<ul>\r\n\t<li>Must understand and know how to use Microsoft programs and applications on a PC and smart device.</li>\r\n\t<li>Must understand Ethernet and Serial connection requirements and be able to establish PC to Network Elements communications using appropriate interface cable.</li>\r\n\t<li>Must have a smart phone with picture capabilities and the ability to place applications used for work.</li>\r\n\t<li>Must have a smart phone with &quot;Mobile Hotspot&rdquo; capabilities and the ability to establish smart phone to PC connections for the purpose of assisting with remote support via desktop sharing.</li>\r\n\t<li>Must be able to work alone and with others in a fast-paced schedule.</li>\r\n\t<li>Must be able to take direction and constructive criticism.</li>\r\n\t<li>Must be able to think freely and overcome complex issues.</li>\r\n\t<li>Ability to learn to run scripts and commands for test and turn-up of equipment.</li>\r\n\t<li>Must be able to learn company and customer programs for data collection.</li>\r\n\t<li>Must have the ability to fly and ability to travel 100% for 3 consecutive weeks or more with field breaks as the company needs allow.</li>\r\n\t<li>Must pass criminal and drug tests to gain access badging from the telco customer.</li>\r\n\t<li>Must be able to interface politely with the customer using proper work ethics and etiquette while working under pressure.</li>\r\n\t<li>Must have the ability and aptitude to meet customer start and stop working hours.</li>\r\n\t<li>Must be able to climb ladders and work in tight spaces.</li>\r\n\t<li>Must have their own telecom insulated hand tools.</li>\r\n\t<li>Must know how to use telecom test equipment tools.\r\n\t<ul>\r\n\t\t<li>OTDR</li>\r\n\t\t<li>Fiber scope</li>\r\n\t\t<li>Volt Ohm Meter</li>\r\n\t\t<li>BER test sets</li>\r\n\t\t<li>Cable test equipment</li>\r\n\t\t<li>Visual Fault Locator (Ruby reds)</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Understanding of proper cabling installation and protection techniques.</li>\r\n\t<li>Understanding industry standards for securing cables using waxed 9-cord and Velcro.</li>\r\n\t<li>Understanding of proper fiber types, ends, jumper/JPOI handling and protection.</li>\r\n\t<li>Understanding of proper fiber cleaning and scoping techniques. (Will NOT be required to splice)</li>\r\n\t<li>Knowledge and understanding of DWDM, OME long haul, short haul, up to 100G circuits.</li>\r\n\t<li>Knowledge and understanding of Transport protocols Ethernet and OTN.</li>\r\n\t<li>Knowledge and understanding of mounting equipment in customer central offices, colocation areas, huts, and outdoor enclosures.</li>\r\n\t<li>Ability to make and test Cat-5/6 cables straight and crossover.</li>\r\n\t<li>Ability to see Understand the telecom color codes and wire wrap paired cable.</li>\r\n\t<li>Ability to read, interpret, and understand engineering documents, customer best practices, and manufacturer technical practices.\r\n\t<ul>\r\n\t\t<li>Scope of work</li>\r\n\t\t<li>Cable run lists</li>\r\n\t\t<li>Rack Face View (RFV) drawing</li>\r\n\t\t<li>Signal Flow Diagram (SFD)</li>\r\n\t\t<li>Circuit drawings</li>\r\n\t\t<li>Installation instructions</li>\r\n\t\t<li>Method Of Procedures (MOP) (E-MOPs)</li>\r\n\t\t<li>Knowledge of AC and DC power.</li>\r\n\t\t<li>Power Bays, verifying and installing -48V and return leads while protecting live circuits.</li>\r\n\t\t<li>Must be able to properly strip and crimp DC power leads.</li>\r\n\t\t<li>Crimping of lugs and H-Taps.</li>\r\n\t\t<li>Ability to terminate power safely.</li>\r\n\t\t<li>Use of electrical grease where required.</li>\r\n\t\t<li>Use of double insulated torque wrench and screwdriver.</li>\r\n\t\t<li>Able to work steadily in an enclosed power environment.</li>\r\n\t\t<li>Understanding of AC power and connections.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Knowledge of Telcordia GR1275 industry installation standards.</li>\r\n\t<li>Telco equipment manufacturer and customer knowledge is a plus.\r\n\t<ul>\r\n\t\t<li>Ciena</li>\r\n\t\t<li>Cisco</li>\r\n\t\t<li>Telecommunication</li>\r\n\t\t<li>Comcast</li>\r\n\t\t<li>Telecommunication</li>\r\n\t\t<li>Enterprise customers</li>\r\n\t\t<li>GCN customers</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Liz Cogliano",
-      "liz@jlcogliano.com",
-      "7817758610"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31232000",
-    "time_scraped": 1759523496805,
-    "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231267,
-    "title": "L3 Traveling Telecommunications Tech",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759171770000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong><span style=\"font-size:12pt\"><span style=\"font-family:times new roman,times,serif\">L3 Traveling Telecommunications Tech needed ASAP for a position that will be 100% travel for a 1&plus; year contract!</span></span><span style=\"font-family:times new roman,serif\"> </span> </strong><br />\r\n<br />\r\n<span style=\"font-family:times new roman,serif\"><span style=\"font-size:14.0pt\">Our client is looking for L3 Traveling Telecommunications Technicians</span> </span><br />\r\n<span style=\"font-family:times new roman,serif\"><span style=\"font-size:14.0pt\">for a nationwide optical deployment.</span> </span><br />\r\n<br />\r\n<strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Roles and Responsibilities: </span> </span> </strong><br />\r\n<span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Have a minimum of 2 years accumulated experience, or equivalent as determined by the&nbsp;</span> </span> <span style=\"font-family:times new roman,serif\"> <span style=\"font-size:12.0pt\"> Installation Supplier&#39;s training process and demonstrated to the TC representative upon&nbsp;</span> </span> <span style=\"font-family:times new roman,serif\"> <span style=\"font-size:12.0pt\"> request, proficiency in the system (Network Elements 1, 2, 3, or 4) being worked on, or&nbsp;</span> </span> <span style=\"font-family:times new roman,serif\"> <span style=\"font-size:12.0pt\"> hold a Certificate of Completion from a training facility providing an appropriate&nbsp;</span> </span> <span style=\"font-family:times new roman,serif\"> <span style=\"font-size:12.0pt\"> curriculum. </span> </span><br />\r\n<br />\r\n<strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Be capable of performing the following work operations or job activities without supervision or direction: </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li>Addition or removal of common systems equipment hardware.</li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Addition or removal of wiring and connections (on non-working equipment only). </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Lead verification/continuity testing. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Analysis of job specifications and drawings. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Understand the Scope of Work (SOW) and write comprehensive Job Change Order (JCO) summaries. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Provide work assignments to Skill Level 1 and 2 Installers. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Prepare a Method of Procedure (MOP). </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Write Job Information Memorandums (JIMs). </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Resolve job specification and/or drawing problems. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Mark/correct office record drawings. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">In-process and final quality inspections.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Be capable of performing as the Installation Supplier&#39;s in-charge person on Common Systems jobs. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Not perform Skill Level 4 work operations/job activities unless properly supervised. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Not progress to Skill Level 4 without a minimum of 6 years accumulated experience or equivalent as determined by the Installation Supplier&#39;s training process. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Not perform work operations/job activities on working equipment or circuits unless directly supervised. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Lead verification/continuity testing. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Not perform Skill Level 3 or 4 work operations/job activities unless properly supervised. </span> </span></li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Liz Cogliano",
-      "liz@jlcogliano.com",
-      "7817758610"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31231267",
-    "time_scraped": 1759523496743,
-    "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231203,
-    "title": "L2 Traveling Telecommunications Tech",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759171270000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><strong><span style=\"font-size:12pt\"><span style=\"font-family:times new roman,times,serif\">L2 Traveling Telecommunications Tech needed ASAP for a position that will be 100% travel for a 1+ year contract!</span></span><span style=\"font-family:times new roman,serif\"> </span> </strong><br />\r\n<br />\r\n<span style=\"font-family:times new roman,serif\"><span style=\"font-size:14.0pt\">Our client is looking for L2 Traveling Telecommunications Technicians&nbsp;for a nationwide optical deployment</span> </span> <strong> <span style=\"font-family:times new roman,serif\"> <span style=\"font-size:14.0pt\"> .</span> </span> </strong><br />\r\n<br />\r\n<strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Roles and Responsibilities: </span> </span> </strong>\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Be directly supervised and instructed by a Skill Level 3 or 4 Installer or the Installation</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Supervisor. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Be capable of performing the following work operations/job activities: Addition or</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">removal of non-powered equipment/hardware. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Have a minimum of 1-2 years of experience, or equivalent as determined by the Installation Supplier&#39;s training process and demonstrated to the TC representative upon request, proficiency in the system/environment (Network Elements 1, 2, or 3) being worked on or hold a Certificate of Completion from a training facility. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Be directly supervised and instructed by a Skill Level 3 or 4 Technician or the Installation Supervisor. </span> </span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Be capable of performing the following work operations/job activities: </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Addition or removal of non-powered equipment hardware. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Addition or removal of wiring and connections (on non-working equipment only and switchboard cable only). </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Lead verification/continuity testing. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Not perform Skill Level 3 or 4 work operations/job activities unless properly supervised. </span> </span></li>\r\n</ul>\r\n</div>\r\n<br>",
-    "recruiter": [
-      "Liz Cogliano",
-      "liz@jlcogliano.com",
-      "7817758610"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31231203",
-    "time_scraped": 1759523496757,
-    "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31230963,
-    "title": "Telecommunications Traveling Quality Auditor",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759170219000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:14.0pt\">Telecommunications Traveling Quality Auditor (100% Travel) needed ASAP for a 1+ year contract!</span></span></strong><br />\r\n<br />\r\n<strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">POSITION SUMMARY: </span> </span> </strong><br />\r\n<span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Inspects, reports, and maintains independent analysis of customer installation projects.&nbsp;</span> </span> <span style=\"font-family:times new roman,serif\"> <span style=\"font-size:12.0pt\"> Inspection includes physical installation of telecommunication and transport equipment. </span> </span>\r\n<ul>\r\n\t<li><strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">This is considered a 100% travel throughout the US</span> </span> </strong></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Review and report quality of all Engineering Specifications &amp; Installation packages to ensure that they are consistent with and meet all requirements of the customer. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">This is accomplished by performing audits during installation of the package and immediately after the job ends. Audits include all aspects of the project from engineering and installation. The goal is to find and report issues so that a superior product is delivered to the customer. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">May require weekend work at times. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Telecom Quality inspection knowledge is a must. 5 plus years of telecom installation experience plus years of quality auditing experience. </span> </span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Major Responsibility </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Interprets Customer Standards / Practices, T-BASD Drawings, Flashes and Manufacturers and understands documentation of the National Electric Code, and other industry standard documents. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Ensures engineering specifications, assignments, and job drawings are in accordance with specifications and that proper documentation is provided. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Audits engineering documentation and installation workmanship to ensure accuracy of the information presented. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Develops a list of deltas for correction and verifies completed corrections per company standards. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Audit customer job site on request, visually inspect pictures that have been uploaded to ensure that customer standards are met. Verify job spec information and documentation is properly and accurately collected and conveyed when necessary. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Ability to be at the job site to audit installed equipment to ensure that customer standards are met. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Must be AT&amp;T certified or able to pass their tests to become certified. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Knowledge of Ciena, Cisco, and other telecom equipment installation. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Ability to train technicians while performing installation inspection. </span> </span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">POSITION QUALIFICATIO/REQUIREMENTS: </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Computer skills, including Microsoft Office and other software applications. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">3M &amp; Hilti Fire Stop Certification or knowledge. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Ability to fly or operate a motor vehicle, possess valid US Driver&#39;s License, and maintain an approved Motor Vehicle Record. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Knowledge of Telecommunications and transport equipment installation. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Handle confidential/sensitive information with discretion. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Excellent communication &amp; good judgment. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Organizational skills. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Customer service skills. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Interpersonal skills. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Knowledge of equipment installation, detail engineering, COAR, site survey, knowledge and understanding of power, grounding, and Telephony theory.</span> </span></li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Liz Cogliano",
-      "liz@jlcogliano.com",
-      "7817758610"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31230963",
-    "time_scraped": 1759523496683,
-    "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31230700,
-    "title": "IT Depot Tech",
-    "location": "NJ, Englwood Cliffs",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759168929000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><strong>IT Depot Technician needed for a contract to hire position in Englewood Cliffs, NJ! </strong><br />\r\n<br />\r\nWe are seeking an organized and detail-oriented Depot Technician to manage our end client&#39;s depot activities. This role involves handling devices, fulfilling work orders and shipping orders as well as maintaining and updating the Asset Management systems. The Depot Technician is responsible for the smooth operation of all the depot activities and ensuring accuracy and efficiency in all stock handling and reporting.\r\n<h3><strong>Key Responsibilities: </strong></h3>\r\n\r\n<ul>\r\n\t<li>Conduct regular stock audits and update Asset Management system.</li>\r\n\t<li>Track inventory levels and maintain accurate records, reporting any discrepancies found.</li>\r\n\t<li>Respond to tickets by picking, packing, and preparing device orders for end user delivery or shipping.</li>\r\n\t<li>Receive, unload, and store incoming devices and depot goods.</li>\r\n\t<li>Maintain cleanliness and organization of the warehouse.</li>\r\n\t<li>Follow health and safety procedures at all times.</li>\r\n\t<li>Inspecting and verifying hardware issues on returned devices.</li>\r\n\t<li>Clean-up and reimaging if required of these devices and return to stock.</li>\r\n\t<li>Follow IT policies and procedures to ensure data security and compliance.</li>\r\n\t<li>Maintain accurate records of issues and solutions in the ticketing system.</li>\r\n</ul>\r\n\r\n<h3><strong>Requirements: </strong></h3>\r\n\r\n<ul>\r\n\t<li>Previous experience in a stock management or warehouse role.</li>\r\n\t<li>Basic knowledge of computer hardware and operating systems.</li>\r\n\t<li>Strong analytical and organizational skills.</li>\r\n\t<li>Proficiency in inventory software and Microsoft Excel. Experience with ticketing systems such as ServiceNow</li>\r\n\t<li>Attention to detail and accuracy.</li>\r\n\t<li>Ability to work in a fast-paced environment and manage multiple tasks under pressure meeting all deadlines.</li>\r\n\t<li>Strong communication and Customer service mindset.</li>\r\n\t<li>Ability to work independently and as part of a team.</li>\r\n\t<li>Punctual and reliable.</li>\r\n</ul>\r\n\r\n<h3><strong>Preferred Qualifications: </strong></h3>\r\n\r\n<ul>\r\n\t<li>CompTIA A+ or similar certification.</li>\r\n</ul>\r\n</div>\r\n<br>",
-    "recruiter": [
-      "Liz Cogliano",
-      "liz@jlcogliano.com",
-      "7817758610"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31230700",
-    "time_scraped": 1759523496779,
-    "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31230654,
-    "title": "IT Depot Tech",
-    "location": "CT, Trumbull",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759168738000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><strong><span style=\"font-family:times new roman,serif\"><span style=\"font-size:14.0pt\">IT Depot Technician needed for a contract to hire position in Trumbull, CT!</span></span></strong><br />\r\n<br />\r\n<span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">We are seeking an organized and detail-oriented Depot Technician to manage our end client&#39;s depot activities. This role involves handling devices, fulfilling work orders and shipping orders as well as maintaining and updating the Asset Management systems. The Depot Technician is responsible for the smooth operation of all the depot activities and ensuring accuracy and efficiency in all stock handling and reporting.</span> </span>\r\n<h3><strong><span style=\"color:windowtext\"><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Key Responsibilities:</span> </span> </span> </strong></h3>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Conduct regular stock audits and update Asset Management system.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Track inventory levels and maintain accurate records, reporting any discrepancies found.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Respond to tickets by picking, packing, and preparing device orders for end user delivery or shipping.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Receive, unload, and store incoming devices and depot goods.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Maintain cleanliness and organization of the warehouse.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Follow health and safety procedures at all times.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Inspecting and verifying hardware issues on returned devices.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Clean-up and reimaging if required of these devices and return to stock.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Follow IT policies and procedures to ensure data security and compliance. </span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Maintain accurate records of issues and solutions in the ticketing system.</span> </span></li>\r\n</ul>\r\n\r\n<h3><strong><span style=\"color:windowtext\"><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Requirements:</span> </span> </span> </strong></h3>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Previous experience in a stock management or warehouse role.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Basic knowledge of computer hardware and operating systems.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Strong analytical and organizational skills.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Proficiency in inventory software and Microsoft Excel. Experience with ticketing systems such as ServiceNow</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Attention to detail and accuracy.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Ability to work in a fast-paced environment and manage multiple tasks under pressure meeting all deadlines.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Strong communication and Customer service mindset.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Ability to work independently and as part of a team.</span> </span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Punctual and reliable.</span> </span></li>\r\n</ul>\r\n\r\n<h3><strong><span style=\"color:windowtext\"><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">Preferred Qualifications:</span> </span> </span> </strong></h3>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\"><span style=\"font-size:12.0pt\">CompTIA A+ or similar certification.</span> </span></li>\r\n</ul>\r\n</div>\r\n<br>",
-    "recruiter": [
-      "Liz Cogliano",
-      "liz@jlcogliano.com",
-      "7817758610"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31230654",
-    "time_scraped": 1759523502877,
-    "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31194340,
+    "id": 31292904,
     "title": "Desktop Support Technician",
-    "location": "MA, Devens",
+    "location": "CA, La Palma",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758654417000
+      "date_postedStr": "10/7/2025",
+      "date_posted": 1759854907000
     },
     "start": {
       "start_dateStr": null,
@@ -218,14 +20,47 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><strong>Onsite Desktop Support Techs needed ASAP for a 6+ month contract position in Atlanta, GA!</strong><br />\r\n<br />\r\n<strong>Work Hours: </strong>either Sunday through Wednesday or Wednesday through Saturday 7:00am - 5:30pm (4x10)<br />\r\n<br />\r\n<strong>JOB DUTIES DESCRIPTION</strong>\r\n<ul>\r\n\t<li>Diagnose, troubleshoot, and resolve production problems</li>\r\n\t<li>Ensures client organizations are maximizing the value of the technology platforms and that workflows are operating smoothly at all times</li>\r\n\t<li>Observes system functions to verify correct system operation and surface issues to Product and Engineering teams to improve the product</li>\r\n\t<li>Manage and continuously improve our processes for helping customers, managing the team, and working with the rest of the company.</li>\r\n\t<li>Responds to inquiries concerning systems operation and diagnoses system hardware, software, and operator problems.</li>\r\n\t<li>Environment is Windows 10 and Office 365</li>\r\n\t<li>Documents and tracks detail information about tickets opened in the Support Desk System and conducts required follow up to ensure the issue on the ticket has been successfully resolved</li>\r\n\t<li>Conducts technical research for problem resolution as needed and documents steps taken to resolve an issue, escalates appropriately</li>\r\n\t<li>Coordinates activities with help desk, network services, or other information systems groups</li>\r\n\t<li>Prepare various reports for management and auditing purposes. Provides updates, status, and completion information to manager</li>\r\n\t<li>Manage user provisioning and de-provisioning including accounts, equipment, data handoff, etc.</li>\r\n\t<li>Perform other duties as assigned</li>\r\n</ul>\r\n</div>\r\n<br>",
+    "description": "<br><div><strong>Onsite Desktop Support Techs needed ASAP for a 6+ month contract position in La Palma, CA!</strong><br />\r\n<br />\r\n<strong>Work Hours: </strong>either Sunday through Wednesday or Wednesday through Saturday 7:00am - 5:30pm (4x10).&nbsp; Will train Monday through Friday day shift.<br />\r\n<br />\r\n<strong>JOB DUTIES DESCRIPTION</strong>\r\n<ul>\r\n\t<li>Diagnose, troubleshoot, and resolve production problems</li>\r\n\t<li>Ensures client organizations are maximizing the value of the technology platforms and that workflows are operating smoothly at all times</li>\r\n\t<li>Observes system functions to verify correct system operation and surface issues to Product and Engineering teams to improve the product</li>\r\n\t<li>Manage and continuously improve our processes for helping customers, managing the team, and working with the rest of the company.</li>\r\n\t<li>Responds to inquiries concerning systems operation and diagnoses system hardware, software, and operator problems.</li>\r\n\t<li>Environment is Windows 10 and Office 365</li>\r\n\t<li>Documents and tracks detail information about tickets opened in the Support Desk System and conducts required follow up to ensure the issue on the ticket has been successfully resolved</li>\r\n\t<li>Conducts technical research for problem resolution as needed and documents steps taken to resolve an issue, escalates appropriately</li>\r\n\t<li>Coordinates activities with help desk, network services, or other information systems groups</li>\r\n\t<li>Prepare various reports for management and auditing purposes. Provides updates, status, and completion information to manager</li>\r\n\t<li>Manage user provisioning and de-provisioning including accounts, equipment, data handoff, etc.</li>\r\n\t<li>Perform other duties as assigned</li>\r\n</ul>\r\n</div>\r\n<br>",
     "recruiter": [
       "Liz Cogliano",
       "liz@jlcogliano.com",
       "7817758610"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31194340",
-    "time_scraped": 1759523502914,
+    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31292904",
+    "time_scraped": 1759931041383,
+    "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
+    "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31279075,
+    "title": "Desktop Support Technician",
+    "location": "MA, Haverhill",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759785121000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><strong><span style=\"font-family:times new roman,serif\">Desktop Support Technician Contract to Direct in Haverhill, MA (Onsite)</span> </strong><br />\r\n<br />\r\n<span style=\"font-family:times new roman,serif\">Our client is looking for a Desktop Support Technician for <strong> 3 days a week, Monday, Wednesday and Friday, </strong>to perform the following tasks.</span>\r\n<ul>\r\n\t<li><span style=\"font-family:times new roman,serif\">Provide first/second level contact and problem resolution for customer <strong> issues</strong>.</span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\">Work with Third Party Vendors to remediate complex AV issues as needed.</span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\">Provide timely communication on issue status and resolution.</span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\">Maintain ticket updates for all reported incidents.</span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\">Install, upgrade, support and troubleshoot XP, Windows 7, Windows 8.1,<br />\r\n\tWindows 10 and Microsoft Office 2010, Cisco Jabber, another authorized<br />\r\n\tdesktop application.</span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\">Should have basic knowledge of Mac operating system, to support Apple pc<br />\r\n\tusers.</span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\">Install, upgrade, support and troubleshoot for printers, computer hardware.</span></li>\r\n\t<li><span style=\"font-family:times new roman,serif\">Performs general preventative maintenance tasks on computers, laptops,<br />\r\n\tprinters.</span></li>\r\n</ul>\r\n</div>\r\n<br>",
+    "recruiter": [
+      "Liz Cogliano",
+      "liz@jlcogliano.com",
+      "7817758610"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd&SearchString=#/jobs/31279075",
+    "time_scraped": 1759931041486,
     "source_company": "bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
     "source_url": "https://www1.jobdiva.com/portal/?a=bwjdnwrmghc3ju1nhox2qmrmzay79w0877webub2yf0vhz9alu5vkf9xmfkmtqnd",
     "date_cutoff_days": 15

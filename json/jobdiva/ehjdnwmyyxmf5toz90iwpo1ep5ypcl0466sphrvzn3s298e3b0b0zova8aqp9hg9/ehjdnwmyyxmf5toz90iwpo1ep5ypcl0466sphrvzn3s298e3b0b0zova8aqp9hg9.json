@@ -1,18 +1,18 @@
 [
   {
-    "id": 31268267,
-    "title": "Backend developer - python",
-    "location": "NJ, Newark",
+    "id": 31278023,
+    "title": "Infrastructure Engineer",
+    "location": "FL, Tampa",
     "experience": {
-      "experience": 7
+      "experience": 5
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759514070000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759776836000
     },
     "start": {
-      "start_dateStr": "10/3/2025",
-      "start_date": 1759464000000
+      "start_dateStr": "10/6/2025",
+      "start_date": 1759723200000
     },
     "end": {
       "end_dateStr": null,
@@ -20,245 +20,14 @@
     },
     "salary": null,
     "remote": 40,
-    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\"> Long term contract with a major financial client. <br /> \r\n<br /> \r\nHybrid, 3 days/week in Newark, NJ. <br /> \r\n<br /> \r\nPay rate 70 - 80 per hour. <br /> \r\n<br /> \r\nLooking for a lead developer with strong python, AWS and React experience</span> </span> </div> \r\n<br>",
-    "recruiter": [
-      "Sugandha Parihar",
-      "sparihar@jsrtechconsulting.com",
-      "5712964457"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31268267",
-    "time_scraped": 1759524150629,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31254164,
-    "title": "Front Office BA",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": 7
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759431650000
-    },
-    "start": {
-      "start_dateStr": "2/5/2025",
-      "start_date": 1738731600000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<br><div><span style=\"font-family:verdana\"><span style=\"font-size:12px\">Long term contract with a major financial firm in Newark, NJ. 2 -3 days per week onsite are required.</span></span><br />\r\n<br />\r\nWe are seeking a highly motivated and experienced candidate to join our client&#39;s dynamic investment technology services team. The ideal candidate will possess a deep understanding of Fixed Income asset management across all asset classes and have a strong background in portfolio management and trading technology.&nbsp; Additionally, the candidate should be able to drive the execution of product development, analyze and document investment workflows effectively, and stay updated on industry tools.<br />\r\n&nbsp;<br />\r\n<strong><u>Key Responsibilities</u></strong>\r\n<ul>\r\n\t<li>Engage with the investment teams, portfolio managers, portfolio analysts, risk, and quantitative research to understand current investment tooling, data and challenges. This includes documenting workflows and processes.</li>\r\n\t<li>Collaborate across multiple teams and work closely with portfolio managers, quantitative research and engineers to design and deliver investments tools.</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Prototype portfolio management tools using Power BI, Python, and SQL.&nbsp;</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Drive investment solutions to enhance productivity through automation and leveraging generative AI to drive efficiencies.</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Coordinate with the development team to execute on product development.</li>\r\n\t<li>Provide day-to-day support for portfolio management team in their use of internal tools and platforms.</li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><u>Required Qualifications</u></strong>\r\n\r\n<ul>\r\n\t<li>7&plus; years of experience delivering portfolio management and/or quantitative tools in the fixed income asset management industry.</li>\r\n\t<li>Strong understanding of the investment process &ndash; portfolio construction, portfolio allocation, risk management</li>\r\n\t<li>Excellent analytical skills with the ability to deep-dive into current tools and workflows.</li>\r\n\t<li>Excellent communication skills across verbal, written emails and PowerPoints (e.g. visualizations, diagrams, etc).</li>\r\n\t<li>Exceptional attention to detail and organizational skills to document requirements.</li>\r\n\t<li>Strong technical aptitude in Python, SQL, Power BI.</li>\r\n\t<li>Ability to work collaboratively with the investment team, other stakeholders, and technology teams to design and implement effective solutions.</li>\r\n</ul>\r\n<strong><u>Preferred Qualifications</u></strong>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree with concentration(s) in Finance, Economics, Mathematics, Statistics, or Computer Science</li>\r\n\t<li>CFA, FRM or relevant designation</li>\r\n\t<li><span style=\"font-family:aptos,sans-serif\">Industry experience in Aladdin and Bloomberg.</span></li>\r\n\t<li>Experience in trading or portfolio specialist role.</li>\r\n\t<li>Hands on experience in coding &ndash; SQL, Python, Power BI, UX Design</li>\r\n</ul>\r\n</div>\r\n<br>",
-    "recruiter": [
-      "Tom Irtis",
-      "tirtis@jsrtechconsulting.com",
-      "7327374043"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31254164",
-    "time_scraped": 1759524150603,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31244320,
-    "title": "Project Manager",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": 7
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759326966000
-    },
-    "start": {
-      "start_dateStr": "10/1/2025",
-      "start_date": 1759291200000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 40,
-    "description": "<br><div>   <span style=\"font-family: verdana\">   <span style=\"font-size: 12px\">   Hybrid in Newark, NJ <br />   \r\nPayrate 70 - 75/hr</span>   </span>   <br />   \r\n<br />   \r\nAs a member of the Sustainability Management Action & Response Team (SMART) you will be responsible for executing operational sustainability projects that typically involve the remediation of End of Life (EOL) IT (Information Technology) Infrastructure (HW/SW); Vulnerability Remediation; Compliance; Modernization; and Process Improvements.<br />   \r\n<br />   \r\nResponsibilities:<br />   \r\n• Manage an assigned set of medium to large scale IT Infrastructure projects.<br />   \r\n• Conduct application architecture assessments and help define solutions for complex problems.<br />   \r\n• Design/customize and execute migration workflows.<br />   \r\n• Maintain focus on project risks and interdependencies across the life cycle, making contingency plans to proactively address concerns that pose risk to budget, schedule, and scope.<br />   \r\n• Engage cross-functional stakeholders across multiple business units and application areas for problem solving, short-and long-term technology solutions, and risk mitigation activities.<br />   \r\n• Drive results and resolve issues including the ability to assess and course correct, as necessary.<br />   \r\n• Display strong organizational skills with diligence evidenced through sound analytical skills.<br />   \r\n• Display strong initiative, addressing issues without prompting.<br />   \r\n• Assist in preparing presentations and presents to leadership and stakeholders.<br />   \r\n• Ability to work across organizations and through obstacles.<br />   \r\n<br />   \r\nQualifications:<br />   \r\n• 7&plus; years' experience in managing multiple medium-to-large scale IT Infrastructure projects / programs collaborating with cross functional teams in the financial services industry.<br />   \r\n• Persuasive communication and interpersonal skills; good consensus builder<br />   \r\n• Outstanding collaborative skills and ability to interface across organizational levels and cultures.<br />   \r\n• Ability to develop and leverage relationships.<br />   \r\n• Strong drive for results; able to meet tight deadlines in a fluid, challenging environment.<br />   \r\n• Capable of executing short-term (tactical) and long term (strategic) plans<br />   \r\n• Excellent customer focus, with experience effectively managing matrix relationships.<br />   \r\n• Skill at resolving conflict and negotiating effectively and tactfully.<br />   \r\n• Proven history of time-management, leadership, and people skills<br />   \r\n• Ability to multi-task and comfortable working with ambiguity at times<br />   \r\n• Project Management Professional (PMP), Certified Scrum Master (CSM) certifications is a plus.<br />   \r\n• Experience in Vulnerability Management<br />   \r\n<br />   \r\n#LI-JV1</div>   \r\n<br>",
-    "recruiter": [
-      "Jerry Vale",
-      "jvale@jsrtechconsulting.com",
-      "7328774265"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31244320",
-    "time_scraped": 1759524150586,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31232103,
-    "title": "Senior Servicing Specialist - Loans",
-    "location": "TX, Dallas",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759175631000
-    },
-    "start": {
-      "start_dateStr": "9/29/2025",
-      "start_date": 1759118400000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 40,
-    "description": "<br><div>  \r\n<h2>  <strong>  <span style=\"color:windowtext\">  <span style=\"font-size:10.0pt\">  Real Estate – Senior Servicing Specialist (Dallas, TX)</span>  </span>  </strong></h2>  \r\n <br />  \r\n<strong>  <span style=\"color:windowtext\">  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:10.0pt\">  What you will do </span>  </span>  </span>  </strong><br />  \r\n<span style=\"color:windowtext\">  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:10.0pt\">   Real Estate </span>  </span>  </span>  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:10.0pt\">  Loan Services is seeking to contract a Senior Servicing Specialist on the Collateral Management team who will assist with the administration and processing of lien releases, UCC filings, and records/document management.  This includes assistance with various types of loans including General Account, Institutional, CMBS, Client, Freddie Mac, FHA.  They will use their excellent communication skills to liaise with third parties and internal business teams to provide outstanding service. </span>  </span>  <br />  \r\n <br />  \r\n<span style=\"color:black\">  <span style=\"font-size:10.0pt\">  This team is based in Dallas, Texas and are currently working on-site three times a week. This is a temporary, six-month assignment, with the opportunity for extension based on business need and performance.</span>  </span>  <br />  \r\n \r\n<h2>  <strong>  <span style=\"color:windowtext\">  <span style=\"font-size:10.0pt\">  What you can expect</span>  </span>  </strong></h2>  \r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Process lien releases for commercial/multifamily/agriculture real estate loans that are paid in full by borrower, assignment, or escrow closings.  </span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Perform Uniform Commercial Code (UCC) continuations, terminations, and research rejections.</span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Perform Records Management duties including ordering files from document custodian, image corrections, archiving boxes to third party vendor, and document research, e.g. missing recorded documents.  </span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Review and verify third party vendor invoices for payment processing.</span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Utilize Power BI reports for monitoring work volume, quality control, audit support, and gathering data needed for processing requests.  </span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Collaborate with servicing, asset management, law, closing, or other internal teams as required.</span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Communicate with external parties as required, e.g. vendors, outside counsel, title companies, etc.  </span>  </li>  \r\n</ul>  \r\n \r\n\r\n<h2>  <strong>  <span style=\"color:windowtext\">  <span style=\"font-size:10.0pt\">  What you will bring</span>  </span>  </strong></h2>  \r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  5&plus; years of experience with commercial real estate loan servicing or collateral management functions.  </span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  A detailed understanding of loan terms, complex loan documents, capital structures, pooling, investor reporting and servicing agreements, servicing functions, and process flows.</span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Proven written/verbal communication, analytical, and problem-solving skills Ability to multi-task and work independently in a time sensitive environment.</span>  </li>  \r\n</ul>  \r\n \r\n\r\n<h2>  <strong>  <span style=\"color:windowtext\">  <span style=\"font-size:10.0pt\">  What will set you apart</span>  </span>  </strong></h2>  \r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Specific experience with lien release, UCC, or related processes.  </span>  </li>  \r\n\t<li>  <span style=\"font-size:10.0pt\">  Familiarity with HUD/FHA, Client and/or Freddie Mac.</span>  </li>  \r\n</ul>  \r\n<br />  \r\n <br />  \r\n <br />  \r\n<span style=\"font-family:aptos display,sans-serif\">  <span style=\"font-size:10.0pt\">  #LI-AR1</span>   </span>  </div>  \r\n<br>",
-    "recruiter": [
-      "Arianna Russo",
-      "arusso@jsrtechconsulting.com",
-      "9083076083"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31232103",
-    "time_scraped": 1759524150649,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231528,
-    "title": "Annuities, configuration  - FAST Technology",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": 3
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759172954000
-    },
-    "start": {
-      "start_dateStr": "6/9/2025",
-      "start_date": 1749441600000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<br><div>  Long term, right to hire position with a major Insurance client.<br />  \r\n<br />  \r\nPayrate 55 - 65/hr<br />  \r\n<br />  \r\nFAST experience is a must.<br />  \r\n<br />  \r\nHybrid in Newark, NJ.<br />  \r\n<br />  \r\nAs a Senior Platform Engineer, you will partner with product owners, tech leads, designers, engineers, and delivery professionals to improve the FAST platform. You will code, test and debug new and existing applications as you implement capabilities to solve sophisticated business problems, deploy innovative products, services and experiences. In addition to applied experience, you will bring excellent problem solving, communication and teamwork skills, along with agile ways of working, strong business insight, an inclusive leadership attitude and a continuous learning focus to all that you do.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\n<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nRequirements:<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nConfigure and build applications ensuring that the solution follows latest practices and industry standards for FAST, using modern design patterns and architectural principles; actively code against the roadmap.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nDevelop high quality, well documented and efficient code adhering to all applicable standards that stay aligned with platform vendor roadmap and direction.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nCraft the business logic and integration patterns with the Ecosystem, using modern integration, data, and security patterns.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nWrite unit, integration tests and functional automation, researching problems discovered by quality assurance or product support, developing solutions to address the problems.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nBring an applied understanding of relevant and emerging technologies, begin to identify opportunities to provide input to the team and coach others, and embed learning and innovation in the day-to-day<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nWork on complex problems in which analysis of situations or data requires an in-depth evaluation of various factors.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nUse programming languages including but not limited to Fast Configuration, Python, Java, or JavaScript and React, Springboot, Node.js frameworks.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\n<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nThe Skills & Expertise You Bring:<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nMinimum of 3 years' experience in Fast Configuration and Development<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nBachelor of Computer Science or Engineering or experience in related fields<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nLeverage diverse ideas, experiences, thoughts and perspectives to the benefit of the organization.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nExperience with agile development methodologies and Test-Driven Development (TDD)<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nKnowledge of business concepts tools and processes that are needed for making sound decisions in the context of the company's business<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nExcellent problem solving, communication and collaboration skills.<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nApplied experience with several of the following:<br data-uw-rm-sr=\"\" role=\"presentation\" />  \r\nProgramming Languages: Core Platforms & Languages: FAST - Full Stack &plus; FAST<br />  \r\n<br />  \r\n#LI-PP1</div>  \r\n<br>",
+    "description": "<br><div> <span style=\"color:black;\"> Contract position with a financial client in Tampa, FL. Hybrid, 3 days / week in Tampa.<br /> \r\n<br /> \r\nWe are seeking a highly capable Infrastructure Engineer to join our dynamic IT Operations and Infrastructure team. This role is ideal for someone with a strong background in enterprise infrastructure, scripting, and modernization initiatives. You'll work closely with peers and senior engineers to manage and evolve our infrastructure landscape, support cloud migrations, and independently deliver on key automation and integration projects.<br /> \r\n<br /> \r\nWhat you can expect:<br /> \r\n<br /> \r\nManaged File Transfer (MFT) Ownership<br /> \r\n• Develop and maintain ETL processes across 50&plus; internal flows for critical daily financial file transfers.<br /> \r\n• Modernize legacy MFT systems, including script refactoring and secure internal vault integration.<br /> \r\n• Collaborate with Global Technology file transfer teams to ensure secure and reliable operations.<br /> \r\n.NET Logging & Monitoring Libraries<br /> \r\n• Maintain and enhance common .NET libraries used for application and ETL logging.<br /> \r\n• Deliver automation solutions in PowerShell for ETL and operational tasks.<br /> \r\n• Integrate logging solutions across distributed systems such as Splunk, Dynatrace and Azure Log Analytics Workspace.<br /> \r\nAPI & Data Ingestion<br /> \r\n• Modernize and support data ingestion pipelines using RESTful APIs and automation frameworks.<br /> \r\nCloud & Infrastructure Management<br /> \r\n• Contribute to Azure and AWS cloud migration efforts.<br /> \r\n• Support Splunk, Dynatrace and Azure Log Analytics workspace integrations.<br /> \r\n• Perform Windows servers Administration duties including software patching.<br /> \r\nOperational Support Team<br /> \r\n• Handle certificate lifecycle management and software renewals.<br /> \r\n• Participate in incident response, triage, and outage management.<br /> \r\n• Assist in disaster recovery planning and execution.<br /> \r\n• Implement regular software security patch updates<br /> \r\nCross-Team Collaboration<br /> \r\n• Communicate effectively across infrastructure, development, and business teams.<br /> \r\n• Take ownership of assigned .NET or MFT projects and deliver with minimal oversight.<br /> \r\n<br /> \r\nWhat you will bring:<br /> \r\n<br /> \r\n• 3-5 years of experience working in IT infrastructure, DevOps, techops, or systems engineering.<br /> \r\n• Strong understanding of ETL systems and API integrations.<br /> \r\n• Demonstrated expertise in observability, monitoring, alerting, and troubleshooting within complex technical environments.<br /> \r\n• Strong hands-on experience with monitoring and enterprise observability tools such as Splunk and Dynatrace<br /> \r\n• Solid understanding of incident management, root cause analysis, and developing effective resolution workflows.<br /> \r\n• Proficiency in scripting and automation for operational tasks (Powershell, Azure CLI, or similar).<br /> \r\n• Excellent communication, collaboration, and problem-solving skills.<br /> \r\n• Detail-oriented documentation and strong management of team knowledge bases<br /> \r\n<br /> \r\nBonus Qualifications<br /> \r\n<br /> \r\n• Microsoft Azure and AWS experience<br /> \r\n• Experience working within Agile or DevOps teams.<br /> \r\n• Knowledge of enterprise security, compliance, and governance in cloud environments.<br /> \r\n<br /> \r\n#LI-PP1</span> </div> \r\n<br>",
     "recruiter": [
       "Parth Panchal",
       "ppanchal@jsrtechconsulting.com",
       "8622134457"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31231528",
-    "time_scraped": 1759524150647,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31195447,
-    "title": "Technical Business Analyst - REMOTE",
-    "location": "N/A",
-    "experience": {
-      "experience": 5
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758659310000
-    },
-    "start": {
-      "start_dateStr": "9/23/2025",
-      "start_date": 1758600000000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<br><div>  <span style=\"color:#4b4b4b\">  <span style=\"font-family:lato,sans-serif\">  <span style=\"font-size:10.5pt\">  Remote contract. EST work hours. <br />  \r\n<br />  \r\nLooking for resources who are high collaborative, organized, strong communicator, effective project management skills, technical acumen, knowledge of APIs and experience working with SaaS platforms</span>   </span>   </span>  <br />  \r\n<br />  \r\n* Defines logical functional requirements that trace back to the business requirements, in collaboration with the lead developer for technical design<br />  \r\n* Formulates logical statements of business, scientific and or engineering requirements<br />  \r\n* Develops Functional Specification Document Requirements Traceability Matrix, and Technical Specification in close collaboration with technology peers<br />  \r\n* Researches and evaluates alternative solutions and recommends the most efficient and cost effective solution for the systems design considering existing systems, available technology, the capacity and limitations of equipment, operating time and form of desired results<br />  \r\n* Works with development, operations, technical support and other technology areas as appropriate throughout the design and development project phases<br />  \r\n* Prepares charts, tables and diagrams to assist in analyzing problems, utilizing, if necessary, various business, scientific and or engineering mathematical techniques<br />  \r\n* Analyzes existing system logic difficulties and revises the logic and procedures involved as necessary<br />  \r\n<br />  \r\nRequirements:<br />  \r\n* Has experience with SaaS platforms<br />  \r\n* Working knowledge of APIs<br />  \r\n<br />  \r\n<br />  \r\n#LI-LB1</div>  \r\n<br>",
-    "recruiter": [
-      "Leila Budavari",
-      "lbudavari@jsrtechconsulting.com",
-      "9084514971"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31195447",
-    "time_scraped": 1759524156588,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31194582,
-    "title": "Full Stack Developer",
-    "location": "PA, Scranton",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758656005000
-    },
-    "start": {
-      "start_dateStr": "9/23/2025",
-      "start_date": 1758600000000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"font-family:verdana\"> <span style=\"font-size:12px\"> Hybrid, in Scranton, PA. </span>  </span> <br /> \r\n<br /> \r\nAs a Lead developer on Retirement Strategies Institutional team, you will partner with product owners, tech leads, designers, engineers and delivery professionals to deliver quality platforms and products with speed. You will code, test and debug new and existing applications as you implement capabilities to solve sophisticated business problems, deploy innovative products, services and experiences to delight our customers! In addition to advanced technical expertise and experience, you will bring excellent problem solving, communication and teamwork skills, along with agile ways of working, strong business insight, an inclusive leadership attitude and a continuous learning focus to all that you do.<br /> \r\n<br /> \r\nHere is What You Can Expect on a Typical Day<br /> \r\n• Build applications ensuring that the code follows latest coding practices and industry standards, using modern design patterns and architectural principles; remove technical impediments<br /> \r\n• Develop high quality, well documented and efficient code adhering to all applicable Prudential standards<br /> \r\n• Collaborate with product owners in understanding needs and defining feature stories, tech leads in defining technical design and other team members to understand the system end-to-end and deliver robust solutions that bring about business impact<br /> \r\n• Write unit, integration tests and functional automation, researching problems discovered by quality assurance or product support, developing solutions to address the problems<br /> \r\n• Bring a strong understanding of relevant and emerging technologies, provide input and coach team members and embed learning and innovation in the day-to-day<br /> \r\n• Work on complex problems in which analysis of situations or data requires an evaluation of intangible variables.<br /> \r\n• Use programming languages including but not limited to Python, Java, or JavaScript and React, Springboot, Node.js frameworks<br /> \r\n<br /> \r\nThe Skills & Expertise You Bring<br /> \r\n• Bachelor of Computer Science or Engineering or experience in related fields<br /> \r\n• Ability to coach others with minimal guidance and effectively leverage diverse ideas, experiences, thoughts and perspectives to the benefit of the organization<br /> \r\n• Experience with agile development methodologies and Test-Driven Development (TDD)<br /> \r\n• Knowledge of business concepts tools and processes that are needed for making sound decisions in the context of the company's business<br /> \r\n• Ability to learn new skills and knowledge on an on-going basis through self-initiative and tackling challenges<br /> \r\n• Excellent problem solving, communication and collaboration skills<br /> \r\n<br /> \r\n• Advanced experience and/or expertise with several of the following:<br /> \r\no Programming Languages: Python, Java, Java Script; C#, working in distributed systems, object oriented programming, design patterns and design methodology; JAVA services using Spring, Maven, Microservices, multi-threading, Concurrency and parallel processing<br /> \r\no Frameworks: React, Springboot, Node.js, Flask, Django<br /> \r\no Data Store: NoSQL or Relational Data structures;<br /> \r\no Data Streaming: SQS, Kinesis<br /> \r\no Application Programming Interfaces (API): Consumption & Development; implementing service oriented architecture (SOA) patterns; Web service technologies such as APIs, REST, JSON, SOAP, XML, JDBC, MySQL<br /> \r\no Unit, interface and end user testing concepts and tooling (functional & non-functional)<br /> \r\no Automated testing<br /> \r\no Accessibility awareness<br /> \r\no Software security skills including secure coding, web application security and DevSecOps; Solid grasp of security concepts (authentication, authorization, encryption, digital signature, JWT), SSL, web service proxies, firewall, SAML 2.0, OpenID Connect, OAuth 2.0)<br /> \r\no Dev Ops Tools & Practices: Branching techniques and usage of GitHub, Bitbucket or Subversion; DevOps, Jenkins<br /> \r\no Software Development Life Cycle (SDLC): Monitoring and logging techniques<br /> \r\no AWS Core Services across compute, storage, DB, IAM and analytics<br /> \r\n• Preferred Qualifications:<br /> \r\no Strong experience with Domain Driven Development (DDD)<br /> \r\no AWS cloud native solution development<br /> \r\no Architecture Patterns<br /> \r\no Design and critical Thinking<br /> \r\no Financial/Insurance industry experience is a must, not a plus<br /> \r\no People Leadership Experience is a must, not a plus<br /> \r\no Pension Risk Transfer business experience is a plus, not a must<br /> \r\n<br /> \r\nlooking for candidates local to Scranton PA<br /> \r\n<br /> \r\n#LI-PP1</div> \r\n<br>",
-    "recruiter": [
-      "Parth Panchal",
-      "ppanchal@jsrtechconsulting.com",
-      "8622134457"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31194582",
-    "time_scraped": 1759524156595,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31194391,
-    "title": "Scrum Master",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": 5
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758654699000
-    },
-    "start": {
-      "start_dateStr": "9/23/2025",
-      "start_date": 1758600000000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 40,
-    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\"> Hybrid in Newark, NJ<br /> \r\n<br /> \r\nPayrate 65 - 75/hr </span> </span> <br /> \r\n<br /> \r\n<br /> \r\n<span style=\"color:#4b4b4b;\"> <span style=\"font-family:Lato,sans-serif;\"> <span style=\"font-size:10.5pt;\"> As a Scrum Master in the Chief Data Office, you will join a team of change agents who are responsible for coaching, teaching and guiding individuals, bringing to bear agile principles, practices and frameworks to solve sophisticated business problems, deploy innovative products, services and experiences to delight our customers! You will partner with product owners, tech leads, designers, engineers and delivery professionals to improve data science, insights and other data related projects. You will bring excellent problem solving, communication and teamwork skills, strong business insight, an inclusive leadership attitude and a continuous learning focus to all that you do.</span> </span> </span> <br /> \r\n<br /> \r\n<span style=\"color:#4b4b4b;\"> <span style=\"font-family:Lato,sans-serif;\"> <span style=\"font-size:10.5pt;\"> Key Responsibilities:</span> <br /> \r\n• Lead and facilitate agile ceremonies including daily stand-ups, backlog refinements, sprint planning, sprint reviews, and retrospectives.</span> <br /> \r\n• Advocate for Agile values and principles to ensure consistent delivery of high-quality data solutions.</span> <br /> \r\n• Partner with product owners and technical leads to develop and maintain a prioritized, well-groomed product backlog.<br /> \r\n• Collaborate with Team to define and refine features and user stories with clear acceptance criteria.<br /> \r\n• Facilitate discussions, decision-making, and conflict resolution among team members.<br /> \r\n• Assist team members in navigating roadblocks and mitigating interferences that may impede progress.<br /> \r\n• Manage risks and resolve impediments effectively.<br /> \r\n• Foster a collaborative and transparent team environment.<br /> \r\n• Operate with a high degree of autonomy and accountability.<br /> \r\n<br /> \r\nSkills and Competencies:<br /> \r\n• Strong understanding of Agile principles, ceremony facilitation, and continuous improvement techniques.<br /> \r\n• Exceptional servant leadership and people management skills for guiding high-performing teams of data professionals.<br /> \r\n• Excellent communication, collaboration, and conflict resolution abilities.<br /> \r\n• Proficiency in Agile tools such as Jira, Jira Align, and Miro.<br /> \r\n<br /> \r\nQualifications:<br /> \r\n• Certified Scrum Master (CSM) or equivalent certification.<br /> \r\n• Extensive knowledge of Agile methodologies and Scrum techniques.<br /> \r\n• Proven experience as a Scrum Master in delivering complex, high-value data solutions.<br /> \r\n• Familiarity with Chief Data Office environments is preferred.<br /> \r\n• Background in Financial Services or Insurance sectors is a plus.<br /> \r\n<br /> \r\n#LI-SP1<br /> \r\n </div> \r\n<br>",
-    "recruiter": [
-      "Sugandha Parihar",
-      "sparihar@jsrtechconsulting.com",
-      "5712964457"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31194391",
-    "time_scraped": 1759524156574,
+    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/31278023",
+    "time_scraped": 1759931282044,
     "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
     "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
     "date_cutoff_days": 15

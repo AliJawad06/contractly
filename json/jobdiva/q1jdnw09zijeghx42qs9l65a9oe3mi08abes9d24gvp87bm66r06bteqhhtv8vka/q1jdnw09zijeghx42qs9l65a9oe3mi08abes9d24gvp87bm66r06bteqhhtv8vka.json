@@ -1,14 +1,14 @@
 [
   {
-    "id": 31269926,
-    "title": "Solutions Integration Engineer",
+    "id": 31293381,
+    "title": "Civil and Structural Engineer - ETOÂ",
     "location": "TX, Houston",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759520514000
+      "date_postedStr": "10/7/2025",
+      "date_posted": 1759857735000
     },
     "start": {
       "start_dateStr": null,
@@ -20,28 +20,61 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title: Solutions Integration Engineer/Houston Systems HPC Systems Engineer<br />\r\nLocation: 10001 Richmond Ave Houston TX 77042<br />\r\nDuration: 6&plus; Months </span></span></strong><br />\r\n<br />\r\n<span style=\"font-family:calibri,sans-serif\">**This is an onsite position, no hybrid opportunity**</span><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary</span></strong><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">:</span></span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">As Solutions Integration Engineer, mission is to support the Geounits, internal users and solutions teams in ensuring the appropriate cloud solution in DELFI is deployed for the customer (internal or external) and adoption is addressed. He/she provides the HQ technical support in order for the field locations to position and deploy the various solutions. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Develop the necessary Solution Design capabilities and competencies for ensuring successful deployment of cloud solutions.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Continuous knowledge capture on best practices.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Technology watch: keeping track of technology trends to improve our Cloud designs and deployments and share knowledge with Solution teams and Engineering.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure successful client onboarding to their DELFI environment.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Manage Infrastructure and Image Customizations in line with Cloud Adoption processes.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Engage with Geo units across the sales cycle to provide technical advisory (client presentations, workshops, deployment assessment, solution design), and contribute to the technical proposal.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Identify, Diagnose and Troubleshot complex issues with web applications, backend services and IaaS deployments across Azure, Google and other Cloud Service Providers.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Assist in the translation of technical issues and complex problems into non-technical summaries for management up to and including president level.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Specific Work Requirements:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">A minimum of 5 years’ experience working in a large HPC enterprise environment comprising thousands of servers, large storage solutions, tape and tape automation.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Proficient in the installation, configuration and management of Linux based operating systems, preferably using RHEL, CentOS, Rocky Linux.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with IBM’s xCAT distributed computing management software.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with installation and maintenance of computer hardware including servers, tape drives, robotic tape libraries, GPGPU, SSD, disk arrays.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with containerization.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Knowledge of networking and datacenter technologies, switching, routing, high-availability, LAN / WAN / WLAN topologies and system configuration for Ethernet, InfiniBand, and Fiber Channel SAN..</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with HPC Storage Solutions, for example configuration and operation of HPE ClusterStor systems, NetApp, Dell Isilon, and Pure Storage.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ability to write and troubleshoot Bourne, Bash and C Shell, Perl, Python, Ruby and MRTG scripts.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with PostgreSQL and database installation and support.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with Google Cloud Platform and Azure public clouds. Able to provision and manage instances, build images, write installation scripts.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with configuration tools like Ansible and Terraform.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with backup and recovery tools, IBM Spectrum, Dell Networker.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Good knowledge of Linux security, including configuration of endpoint security tools.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ability to evaluate HPC system environments and make recommendations for improvement in performance and manageability.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ability to investigate, debug and diagnose system level issues.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">General Work Requirements:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Conform to local change management philosophies, including full testing on non-production systems, prior to production deployment.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Effectively communicate all change activities to all affected parties including a clear description of the change, related service outages and possible effects on the different environments we support.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure IT deployment standards are maintained, with verification through reporting systems.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Meet KPO requirements for InTouch support processing, including full documentation of problem resolution, creation of knowledge content and best practice items.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Show a good understanding of computer equipment, and its care and maintenance.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Work with other internal support groups, systems, networking, programming, desktop support, computer operations, and facilities as required to complete administration functions.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Work with a variety of vendors in technical environments and in the reporting and investigation of system problems.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Provide a written weekly status report to the team manager and be prepared to present and discuss this with the team at a weekly status meeting.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Prepared to work outside of normal hours as system maintenance often must be performed outside of prime time; provide 24/7 support to computer operations; work with other remote support locations, for example Kuala Lumpur, backing follow the sun support.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in support on-call schedule and in weekend power outages, normally two per year and in emergency data center activities.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Peer-review all major projects, as part of the normal deployment philosophy.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure compliance with all quality assurance, best practice procedures and QHSE requirements, as defined by job position.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Personal Traits:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Self-motivated, able to work with minimum direction.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Able to work as part of a team, either in small groups, or as part of the Data Center support team as a whole and accomplish this in either a lead or reporting role.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Able to demonstrate good written, phone and face to face communication skills when working with a peer group and with internal and external customers and with vendors.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Adhere to industry standard systems administration techniques and procedures.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Document standard user and operational requirements.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Willingness to train others.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Beneficial Experience:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience with software including Omega2 and Petrel.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience in Omega2 infrastructure software, OPM, RDM, OSM, OCM, WHSM, MMS, etc.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Experience in other software, ECL, IX, Visage, PetroMod.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Qualifications:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Bachelor's degree from a four-year college in computer science studies or 5-10 years equivalent work experience, and current industry recognized training and certification, for example from Cisco, RedHat or Microsoft.</span></li>\r\n</ul>\r\n<br>",
+    "description": "<br><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title:</span></span></strong> <strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Civil and Structural Engineer/</span></span></strong> <strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Structural AutoCad Designer</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Location:</span></span></strong> <strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Houston TX 77056</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Duration: 12&plus; Months </span></span></strong><br />\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary</span></strong><br />\r\n<span style=\"font-family:calibri,sans-serif\">This is a Structural Designer Job and not an Engineer</span><br />\r\n<span style=\"font-family:calibri,sans-serif\">Structural Designer will develop Structural Designs from concept through construction.</span><br />\r\n<span style=\"font-family:calibri,sans-serif\">Candidates with approximately 10 years of relevant experience can expect compensation at the lower end of the range, while those with 20&plus; years may qualify for the higher end.</span><br />\r\n<span style=\"font-family:calibri,sans-serif\">Location: Initially based in Houston, TX for approximately 2-3 months. The position will transition to Sugar Land, TX thereafter.</span><br />\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Responsibilities</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Utilization of software such as AVEVA (E3D), AutoCAD for development of design drawing packages.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Interface directly with Lead structural engineer, other discipline counterparts in the same team as directed.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure all design projects meet design standards and adhere to applicable codes and regulations.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Assist with checking, updating, and maintaining structural design standards and procedures.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Prioritize meeting discipline project scopes while adhering to schedules and budgets.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Responsible for initial setup of AutoCAD drawings based on files received from Lead Engineer.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Create plans and details based on sketches and red line markups received from discipline Lead Engineer.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Assist in maintaining, expanding, and improving AVEVA (E3D) and CAD standards.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Work with the discipline team to coordinate, develop, and maintain project coordination models using MS office, AutoCAD, Navisworks and AVEVA (E3D).</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Comply with Company’s Quality Control and Project Management procedures.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Promote a positive working environment to achieve the organization’s goals.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Perform other duties as assigned.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Skills and Qualifications</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Associate’s degree in Computer Aided Drafting or equivalent experience is required.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">10 years of experience is required.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Proficiency in Microsoft Office, AutoCAD, AVEVA/E3D is required.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Strong computer skills (e.g. Microsoft Office Suite).</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Excellent written and verbal communication skills.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Strong attention to detail, facilitation, team building, collaboration, organization, and problem-solving skills.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Requires effective time management skills, personal conduct, and change management abilities. </span></li>\r\n</ul>\r\n <br />\r\n <br />\r\n <br>",
     "recruiter": [
-      "Aditya Yadav",
-      "Aditya.Y@nrconsulting.com",
-      "6503858668"
+      "Salim Chauhan",
+      "Salim.C@nrconsulting.com",
+      "7207411634"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31269926",
-    "time_scraped": 1759525999717,
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31293381",
+    "time_scraped": 1759932069019,
     "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
     "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31268269,
-    "title": "Senior Product Manager – Claims Technology & AI Solutions",
-    "location": "None, Remote",
+    "id": 31291026,
+    "title": "Inspector A",
+    "location": "GA, Dublin",
     "experience": {
-      "experience": 8
+      "experience": 2
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759514076000
+      "date_postedStr": "10/7/2025",
+      "date_posted": 1759849457000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"764\">\r\n\t<tbody>\r\n\t\t<tr height=\"25\">\r\n\t\t\t<td height=\"125\" rowspan=\"5\" width=\"764\">Job title: Inspector A<br />\r\n\t\t\tShift: 1st shift 6:00am – 4:30pm Monday - Thursday<br />\r\n\t\t\tDuration: Contract<br />\r\n\t\t\tLocation: Dublin, GA<br />\r\n\t\t\t <br />\r\n\t\t\t<br />\r\n\t\t\tRESPONSIBILITIES::<br />\r\n\t\t\tMaintain accurate and up‐to‐date acceptance and rejection records and/or certifications systems as required by<br />\r\n\t\t\tthe applicable specifications.<br />\r\n\t\t\tDetermine acceptance or rejection after inspection and/or calibration of parts. Identify defective conditions and<br />\r\n\t\t\ttest failures and prepare all appropriate documentation and/or calibration history.<br />\r\n\t\t\t<br />\r\n\t\t\tINSPECTION<br />\r\n\t\t\tPerform inspection on detailed machined parts using a wide variety of measuring and test equipment to determine acceptability or rejections of parts and/or parts finish.<br />\r\n\t\t\tInterpret specifications, charts and manuals. Use mathematics to convert blueprint dimensions and<br />\r\n\t\t\ttolerances. Work within the guidelines of drawings, schematics, blueprints, route sheets, travelers, quality<br />\r\n\t\t\tdirectives, technical engineering specifications, customer's requirements and military standards and/or calibrations procedures.<br />\r\n\t\t\tObserve and perform audits of a moderate scope or complexity on assembly and test, machining and other functions for compliance to procedures.<br />\r\n\t\t\t<br />\r\n\t\t\t<br />\r\n\t\t\tJob Requirements:<br />\r\n\t\t\tTwo years related inspection experience or demonstrated ability to perform described responsibilities.<br />\r\n\t\t\tDemonstrated ability to read and interpret blueprints, manufacturer's specifications and internal drawings and procedures.<br />\r\n\t\t\tAbility to use and/or calibrate mechanical, hydraulic and electrical instruments/gages.<br />\r\n\t\t\tPossess working knowledge of machine shop mathematics.<br />\r\n\t\t\tKnowledge of applicable military standards may be required.<br />\r\n\t\t\tPersonal hand tools may be required.<br />\r\n\t\t\tMay be required to lift up to 50 lbs.<br />\r\n\t\t\tMust demonstrate effective verbal, written and interpersonal communications skills.<br />\r\n\t\t\tAbility to work effectively with others and be a participative team player.</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n<br>",
+    "recruiter": [
+      "Vaibhav Rathi",
+      "Vaibhav.R@nrconsulting.com",
+      "7207411361"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31291026",
+    "time_scraped": 1759932068993,
+    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
+    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31290918,
+    "title": "Accounts Pay/Rec Specialist",
+    "location": "CA, Irvine",
+    "experience": {
+      "experience": 2
+    },
+    "posted": {
+      "date_postedStr": "10/7/2025",
+      "date_posted": 1759848799000
     },
     "start": {
       "start_dateStr": null,
@@ -53,28 +86,28 @@
     },
     "salary": null,
     "remote": 100,
-    "description": "<br><div><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Title: Senior Product Manager – Claims Technology & AI Solutions</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Location: USA (Remote)</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Duration: 6 Months&plus; can be extendable</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Domain/Industry: Preferably Insurance</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Year of Experience: 8-12 Years</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Type:  Fulltime/Contract</span></span></span><br />\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Key Responsibilities:</span></span></span>\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Drive product vision, strategy, and execution for claims-focused technology solutions.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Partner with engineering and business leadership to design scalable, AI-powered products.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Simplify complex claims processes into user-friendly digital workflows.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Define and manage product roadmaps, prioritize features, and deliver measurable business outcomes.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Ensure solutions meet compliance, data privacy, and enterprise integration standards.</span></span></li>\r\n</ul>\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Ideal Candidate Profile:</span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">8–15 years of product management experience, with deep expertise in claims operations at a carrier or TPA.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Strong knowledge of claims technology platforms and enterprise systems.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Hands-on exposure to AI/ML technologies (NLP, predictive analytics, automation).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Track record of successfully partnering with engineering and business stakeholders to deliver products.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Background in technology consulting or product companies is a plus.</span></span></li>\r\n</ul>\r\n</div>\r\n<br>",
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> \"Description:<br />\r\n<br />\r\nPay range: $23-$27<br />\r\n1st shift: 9AM-5:30PM<br />\r\n<br />\r\nLast day of the month – if during the week it will be until 9 PM and if last day of the month on weekend, weekends, Holidays<br />\r\n<br />\r\nMUST BE OK WORKING 2 Saturdays a month.<br />\r\n<br />\r\n<br />\r\nAccounts Receivable Specialist<br />\r\n<br />\r\nSUMMARY:<br />\r\nHas responsibilities for Invoicing daily sales, performing month-end dock walk audits, tracking non-invoiced work orders on a weekly basis, and daily/weekly/monthly reporting.<br />\r\n<br />\r\nSCOPE/SUPERVISION AND INTERACTION:<br />\r\nThe individual contributor will report to the Accounting Team Lead or Business Unit Controller and will routinely interact with Operations, Shipping, Planning, Production Support, and other internal teams to support day-to-day accounting invoicing activities. Occasional contact with customers may be required.<br />\r\n<br />\r\nESSENTIAL FUNCTIONS:<br />\r\n• Prepare and issue customer invoices accurately and in a timely manner using the company ERP system.<br />\r\n• Verify purchase orders, contracts, shipping documentation, and order entry prior to invoicing to ensure billing accuracy.<br />\r\n• Review and reconcile invoice discrepancies, and coordinate corrections with Operations, Sales, and Shipping.<br />\r\n• Support month end close activities related to invoicing and revenue recognition (cutoffs, accruals, reconciliations).<br />\r\n• Ensure invoicing processes comply with company policies, contractual terms, and relevant regulations (tax, export controls, etc.).<br />\r\n• Provide documentation and support for internal and external audits.<br />\r\n• Continuously identify opportunities to improve invoicing processes, automation, and data quality.<br />\r\n<br />\r\nESSENTIAL REQUIREMENTS:<br />\r\n• High school diploma or equivalent; Associate’s degree in Accounting, Finance, or related field preferred.<br />\r\n• Minimum 2 years of relevant invoicing/accounts receivable or accounting experience.<br />\r\n• Proficient in Microsoft Excel (required): pivot tables, VLOOKUP/XLOOKUP, INDEX/MATCH, basic formulas.<br />\r\n• Experience with ERP or billing systems and order-to-cash processes.<br />\r\n• Strong attention to detail and accuracy in data entry and reconciliation.<br />\r\n• Ability to work overtime and commit to at least two Saturdays per month as business needs require.<br />\r\n• Reliable, punctual, and able to meet strict deadlines in a fast paced environment.<br />\r\n• Good written and verbal communication skills; comfortable interacting with internal teams (Operations, Shipping, Sales) and external customers.<br />\r\n• Ability to prioritize workload, manage multiple tasks, and escalate issues as appropriate.<br />\r\n• Demonstrated problem solving skills and ability to follow documented procedures.<br />\r\n<br />\r\nPREFERRED / DESIRABLE QUALIFICATIONS<br />\r\n• Experience with Microsoft Power BI or other reporting tools.<br />\r\n• Prior experience in a manufacturing, distribution, or government contracting environment.<br />\r\n• Familiarity with billing compliance, tax requirements, or export controls related to invoicing.<br />\r\n<br />\r\nSCHEDULING REQUIREMENTS<br />\r\n• Ability to work occasional extended hours and/or weekends (minimum two Saturdays/month).<br />\r\n• Ability to sit at a workstation and perform repetitive keyboard tasks for extended periods.\"</span></span></div>\r\n<br>",
     "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
+      "Vaibhav Rathi",
+      "Vaibhav.R@nrconsulting.com",
+      "7207411361"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31268269",
-    "time_scraped": 1759525999748,
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31290918",
+    "time_scraped": 1759932069083,
     "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
     "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31268213,
-    "title": "Senior Security Engineer – Perimeter & Cloud Security",
-    "location": "None, Remote",
+    "id": 31278207,
+    "title": "Repair Tech",
+    "location": "TX, Haslet",
     "experience": {
-      "experience": 8
+      "experience": -1
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759513720000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759778151000
     },
     "start": {
       "start_dateStr": null,
@@ -85,29 +118,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 100,
-    "description": "<br><div> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Role: Senior Security Engineer – Perimeter & Cloud Security</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Location: USA (Remote)</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Duration: 6 Months&plus; can be extendable</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> No of position: 1</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Domain/Industry: Preferably Insurance</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Year of Experience: 8-12 Years</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Type: Fulltime/Contract</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Job Description: We are seeking a Senior Security Architect with deep expertise in perimeter and cloud security to design, implement, and lead enterprise-wide security initiatives. This role requires a strong technical background in SD-WAN, Palo Alto GlobalProtect, AWS security services, and Microsoft 365 Defender Suite, along with proven leadership in driving secure architecture across hybrid environments.</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Primary Responsibilities (Must-Haves)</span> </span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Architect and implement SD-WAN solutions to optimize secure connectivity across distributed environments.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Lead deployment and configuration of Palo Alto GlobalProtect VPN for secure remote access.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Design and enforce perimeter security policies including firewall rules, intrusion prevention, and secure web gateways.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Oversee AWS cloud security including IAM, GuardDuty, Security Hub, CloudTrail, and KMS.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Additional Responsibilities (Nice-to-Haves)</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Implement and manage identity and access management (IAM) solutions using Okta and Microsoft Entra.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Manage and monitor Microsoft 365 security configurations (Defender Suite, Exchange Online Protection, etc.).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Integrate and maintain secure authentication protocols including OAuth2 and SAML.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Lead access recertification processes to ensure compliance and least privilege principles.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Conduct risk assessments and vulnerability scans across hybrid infrastructure.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Collaborate with infrastructure and application teams to ensure secure design and compliance with regulatory standards.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Develop and maintain security documentation, runbooks, and incident response procedures.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Qualifications & Requirements</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 8&plus; years of progressive experience in cybersecurity roles with focus on perimeter and cloud security.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Proven hands-on expertise with:</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> SD-WAN solutions</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Palo Alto GlobalProtect VPN</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> AWS security services (IAM, GuardDuty, Security Hub, CloudTrail, KMS)</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Microsoft 365 Defender Suite</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Strong knowledge and implementation experience with Okta and Microsoft Entra for IAM.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Familiarity with OAuth2, SAML, and access recertification processes.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Understanding of security frameworks such as NIST, ISO 27001, SOC 2.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Proficiency in scripting languages (PowerShell, Python) for automation and integration.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Excellent communication, leadership, and collaboration skills with the ability to influence across teams.</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
+    "remote": 0,
+    "description": "<br><div>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:482px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"height:442px; width:230px\"><strong><span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\">Job title: </span> </span> </strong><br />\r\n\t\t\t<strong><span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\">Repair Tech<br />\r\n\t\t\tLocation: Bessemer AL, 35022</span> </span> </strong><br />\r\n\t\t\t<strong><span style=\"font-family:calibri,sans-serif\">Summary</span> </strong><br />\r\n\t\t\t<span style=\"font-family:calibri,sans-serif\">In this role you will provide services to the country&#39;s largest wireless telecommunications providers, as well as the largest High-speed Internet &amp; Cable providers. The Repair Technician is responsible for troubleshooting and repair to a component level to ensure an efficient and timely process for completing repair orders and projects. The Repair Technician will utilize soldering equipment to repair, modify, and change parts on electronic circuit boards.</span><br />\r\n\t\t\t<strong><span style=\"font-family:calibri,sans-serif\">Key Responsibilities:</span> </strong>\r\n\t\t\t<ul>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Troubleshoot and Repair to component level of electronic circuit boards.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Understand electronic circuits, read sophisticated schematic diagrams, and layout to trace components to perform troubleshooting and repair.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Use test and measurement equipment such as oscilloscopes, signal generators and volt meters. </span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Perform both surface mount and thru-hole soldering techniques.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Keeping ESD policy standards. </span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Maintains satisfactory Quality performance levels.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Maintain a clean, organized workstation.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Other duties as assigned.</span></li>\r\n\t\t\t</ul>\r\n\t\t\t<br />\r\n\t\t\t<strong><span style=\"font-family:calibri,sans-serif\">Essential Skills and Experience:</span> </strong>\r\n\r\n\t\t\t<ul>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Proven ability to test and troubleshoot various types of electronic circuit boards.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Experience in board-level and multi-layer board repair of electronics products.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Experience with voltmeter and oscilloscope.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Proven track record of experience in soldering with various types of IC packages.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Excellent attention to detail.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Ability to multitask.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Excellent analytical, written verbal communication skills.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Proactive problem-solving ability.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Desirable knowledge and experience in IPC A-610 &amp; IPC-7711</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Minimum 2-year Electronics degree, equivalent certification or equivalent job experience in electronics or technical role.</span></li>\r\n\t\t\t</ul>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n<br>",
     "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
+      "Akshay Charan",
+      "Akshay.C@nrconsulting.com",
+      "7207341010"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31268213",
-    "time_scraped": 1759525999730,
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31278207",
+    "time_scraped": 1759932069039,
     "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
     "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31268174,
-    "title": "C#.Net Developer",
-    "location": "None, Remote",
+    "id": 31277968,
+    "title": "Repair Tech",
+    "location": "CA, Fontana",
     "experience": {
-      "experience": 5
+      "experience": -1
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759513437000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759776478000
     },
     "start": {
       "start_dateStr": null,
@@ -118,29 +151,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 100,
-    "description": "<br><span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Role: .Net Developer<br /> \r\nLocation: Remote<br /> \r\nDuration: Longe Term<br /> \r\n<br /> \r\n<strong> Job Description</strong><strong> :</strong><br /> \r\nWe are seeking a skilled and versatile Full Stack C#.NET Developer with strong expertise in backend Web API development and frontend UI implementation. The ideal candidate will have hands-on experience with .NET Core, RESTful services, and modern JavaScript frameworks to deliver high-quality, scalable web solutions.          </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Design, develop, and maintain RESTful APIs using C# and ASP.NET Core.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Build responsive, user-friendly web interfaces with HTML, CSS, JavaScript, and modern frameworks such as Angular or React.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Integrate frontend components with backend services to ensure seamless user experiences.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Optimize applications for performance, scalability, and security across the technology stack.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Collaborate closely with designers, QA engineers, and DevOps teams to deliver end-to-end solutions.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Participate in code reviews, share best practices, and contribute to continuous improvement initiatives.</span> </span> </li> \r\n</ul> \r\n<span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> <strong> Required Skills & Experience</strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Strong proficiency in C#, .NET Core, and ASP.NET Web API.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Solid experience with frontend technologies: JavaScript, TypeScript, HTML5, CSS3.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Hands-on knowledge of frameworks such as Angular or React.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Experience with Entity Framework, LINQ, and SQL Server.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Understanding of API security (OAuth, JWT) and responsive design principles.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Proficiency with Git, CI/CD pipelines, and Agile methodologies.</span> </span> </li> \r\n</ul> \r\n<br>",
+    "remote": 0,
+    "description": "<br><div>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:482px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"height:442px; width:230px\"><strong><span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\">Job title: </span> </span> </strong><br />\r\n\t\t\t<strong><span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\">Repair Tech<br />\r\n\t\t\tLocation: Fontana&nbsp;CA, 92336</span> </span> </strong><br />\r\n\t\t\t<strong><span style=\"font-family:calibri,sans-serif\">Summary</span> </strong><br />\r\n\t\t\t<span style=\"font-family:calibri,sans-serif\">In this role you will provide services to the country&#39;s largest wireless telecommunications providers, as well as the largest High-speed Internet &amp; Cable providers. The Repair Technician is responsible for troubleshooting and repair to a component level to ensure an efficient and timely process for completing repair orders and projects. The Repair Technician will utilize soldering equipment to repair, modify, and change parts on electronic circuit boards.</span><br />\r\n\t\t\t<strong><span style=\"font-family:calibri,sans-serif\">Key Responsibilities:</span> </strong>\r\n\t\t\t<ul>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Troubleshoot and Repair to component level of electronic circuit boards.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Understand electronic circuits, read sophisticated schematic diagrams, and layout to trace components to perform troubleshooting and repair.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Use test and measurement equipment such as oscilloscopes, signal generators and volt meters. </span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Perform both surface mount and thru-hole soldering techniques.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Keeping ESD policy standards. </span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Maintains satisfactory Quality performance levels.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Maintain a clean, organized workstation.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Other duties as assigned.</span></li>\r\n\t\t\t</ul>\r\n\t\t\t<br />\r\n\t\t\t<strong><span style=\"font-family:calibri,sans-serif\">Essential Skills and Experience:</span> </strong>\r\n\r\n\t\t\t<ul>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Proven ability to test and troubleshoot various types of electronic circuit boards.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Experience in board-level and multi-layer board repair of electronics products.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Experience with voltmeter and oscilloscope.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Proven track record of experience in soldering with various types of IC packages.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Excellent attention to detail.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Ability to multitask.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Excellent analytical, written verbal communication skills.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Proactive problem-solving ability.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Desirable knowledge and experience in IPC A-610 &amp; IPC-7711</span></li>\r\n\t\t\t\t<li><span style=\"font-family:calibri,sans-serif\">Minimum 2-year Electronics degree, equivalent certification or equivalent job experience in electronics or technical role.</span></li>\r\n\t\t\t</ul>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n<br>",
     "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
+      "Akshay Charan",
+      "Akshay.C@nrconsulting.com",
+      "7207341010"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31268174",
-    "time_scraped": 1759525999747,
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31277968",
+    "time_scraped": 1759932069071,
     "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
     "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31268159,
-    "title": "Program Manager",
+    "id": 31275058,
+    "title": "ServiceNow Consultant – IRM & App Engine",
     "location": "None, Remote",
     "experience": {
       "experience": 11
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759513357000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759759306000
     },
     "start": {
       "start_dateStr": null,
@@ -152,773 +185,14 @@
     },
     "salary": null,
     "remote": 100,
-    "description": "<br><div><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Title: Program Manager</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Location: USA (Remote)</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Domain/Industry: Preferably Insurance</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Year of Experience: 15&plus;Years</span></span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Type: Fulltime</span></span></span><br />\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">About the Role: We are seeking an experienced Program Manager who can oversee and coordinate multiple workstreams within complex programs. The ideal candidate will be adept at managing tools like JIRA, tracking progress against milestones, and providing clear, concise reporting to stakeholders.</span></span></span><br />\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Key Responsibilities:</span></span></span>\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Manage and coordinate multiple workstreams, ensuring alignment with program objectives and timelines.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Handle JIRA administration for tracking epics, stories, tasks, and progress across teams.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Develop and share weekly reports highlighting status updates, risks, issues, and dependencies.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Drive milestone planning and ensure timely delivery of program deliverables.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Track, manage, and communicate dependencies across projects and teams.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Create and maintain program dashboards for real-time visibility of progress, risks, and KPIs.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Collaborate with cross-functional teams, including engineering, product, and business stakeholders, to ensure program success.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Facilitate regular governance meetings, stand-ups, and review sessions to monitor execution.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Identify risks early, propose mitigations, and ensure escalation when required.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Ensure high-quality documentation, processes, and communication across all levels of stakeholders.</span></span></li>\r\n</ul>\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Required Skills & Qualifications:</span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Proven experience (X&plus; years) as a Program Manager or Senior Project Manager in IT or related fields.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Strong expertise with JIRA and related reporting tools.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Ability to create and manage dashboards, trackers, and program reports.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Strong organizational and multitasking skills to handle multiple workstreams.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Experience in managing milestones, dependencies, and risk mitigation.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Excellent communication and stakeholder management skills.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Proficiency in MS Office/Google Suite; knowledge of advanced Excel or BI tools is a plus.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">PMP, PgMP, or Agile certifications are an advantage.</span></span></li>\r\n</ul>\r\n</div>\r\n<br>",
+    "description": "<br><div> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Job Title: ServiceNow Consultant – IRM & App Engine</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Location: Remote</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Type: Contract</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Duration: Long Term</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Job Description: We are seeking a highly skilled ServiceNow professional with strong expertise in Integrated Risk Management (IRM) and ServiceNow App Engine. The ideal candidate will be responsible for designing, developing, and implementing ServiceNow solutions aligned with business requirements and best practices.</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Key Responsibilities:</span> </span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Develop and configure ServiceNow applications, primarily focusing on IRM and App Engine modules.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Collaborate with stakeholders to gather requirements and translate them into technical solutions.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Integrate ServiceNow with external systems as needed.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Ensure solutions follow governance, compliance, and performance standards.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Provide ongoing support, optimization, and enhancement of ServiceNow applications.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Required Skills & Experience:</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 8&plus; years of hands-on experience with ServiceNow platform development and administration.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Proven experience in IRM (Integrated Risk Management) module implementation.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Strong background with ServiceNow App Engine for custom app development.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Solid understanding of ServiceNow architecture, scripting, and workflows.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Excellent communication and problem-solving skills.</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
     "recruiter": [
       "Salim Chauhan",
       "Salim.C@nrconsulting.com",
       "7207411634"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31268159",
-    "time_scraped": 1759525999819,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31268060,
-    "title": "Data Engineer",
-    "location": "None, Remote",
-    "experience": {
-      "experience": 9
-    },
-    "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759512946000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 100,
-    "description": "<br><div> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Title: Data Engineer</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Location: USA (Remote)</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Duration: 6 month&plus; can be extendable</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Domain/Industry: Preferably Insurance</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Year of Experience: 6-10 Years</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Type: Fulltime/Contract</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> About the Role: We are looking for a highly skilled Data Engineer with strong Databricks expertise to design, build, and maintain robust data pipelines and architectures. The role involves ensuring data integrity, scalability, and compliance while enabling data-driven decision-making across the organization.</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Key Responsibilities:</span> </span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Develop and maintain scalable data pipelines and ETL processes to support diverse business and analytics requirements.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Design and optimize data architectures (including data lakes, data warehouses, and other modern data platforms).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Manage and enhance data ingestion processes and data cataloging to ensure discoverability and governance.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Build, monitor, and troubleshoot data workflows and pipeline performance to ensure reliability and efficiency.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Ensure data quality, integrity, security, and compliance with organizational and regulatory standards.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Collaborate with cross-functional teams (engineering, analytics, product, and business) to understand data needs and deliver effective solutions.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Leverage Databricks to manage large-scale data processing, transformations, and orchestration.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Continuously evaluate and implement improvements for performance optimization and scalability.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Required Skills & Qualifications:</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Proven experience as a Data Engineer with strong background in Databricks.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Hands-on experience with building and managing data pipelines and ingestion frameworks.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Expertise in ETL development, orchestration, and monitoring.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Strong knowledge of data cataloging, governance, and metadata management.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Proficiency in SQL, Python, and Spark.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Experience with data lakes, warehouses, and modern cloud-based data platforms (Azure, AWS, or GCP).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Strong problem-solving skills with the ability to troubleshoot complex data workflow issues.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Knowledge of data security, compliance, and best practices.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Familiarity with BI/analytics tools and stakeholder collaboration.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Preferred Qualifications:</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Experience with Delta Lake, Lakehouse architectures, and data modeling.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Exposure to tools like Airflow, Azure Data Factory, or similar orchestration tools.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Knowledge of CI/CD practices for data pipelines.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Relevant certifications in Databricks, Azure, AWS, or GCP.</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31268060",
-    "time_scraped": 1759526006110,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31267575,
-    "title": "Tax Manager",
-    "location": "IL, Oak Brook",
-    "experience": {
-      "experience": 2
-    },
-    "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759510364000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"font-size:12pt\"> <strong> <span style=\"font-family:calibri,sans-serif\"> Job Title:         Tax Manager   </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Location:         Oak Brook, Illinois</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> , United States</span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Duration:        Direct Hire Full Time Role</span> </strong></span> <br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> DUTIES/RESPONSIBILITIES: </span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Provide tax compliance and advisory services to corporations, partnerships, and individuals</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Work as part of a team providing consultative advice and industry knowledge</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Manage a team of tax professionals and monitor individual progress and provide mentorship</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Manage clients of various sizes and industries and maintain communications with clients</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Set the culture for your team and mentor members in their career development</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Build the client relationships by providing an excellent client experience</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Understand and utilize client processes and procedures</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Understand and manage the overall performance of engagements</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Proactively develop business</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> EDUCATION & EXPERIENCE:</span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> 5&plus; years of current tax experience in a public accounting firm</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Demonstrated supervisory experience</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Bachelor's degree</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Licensed CPA preferred</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Experience managing multiple client engagements and teams</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Excellent verbal and written communications skills with the ability to articulate complex information</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> WHAT WE OFFER:</span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Competitive salary commensurate with experience.</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Medical, dental, vision, and disability insurance</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> 401(k) Safe Harbor with 3% employer contribution</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Generous PTO</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Holidays – Memorial Day, Juneteenth, Independence Day, Labor Day, Thanksgiving, Day After Thanksgiving, Christmas Day, New Year’s Eve, New Year's Day</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Paid holiday break the last week of the year</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Summer Fridays in July</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Bonus program and incentive opportunities</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Professional development opportunities</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> Hybrid work schedule</span> </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:10.0pt\"> CPA licensing reimbursement</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
-    "recruiter": [
-      "Akshay Charan",
-      "Akshay.C@nrconsulting.com",
-      "7207341010"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31267575",
-    "time_scraped": 1759526006221,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31256000,
-    "title": "Driver",
-    "location": "NY, Horseheads",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759463538000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title: CDL Driver</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Location: Horseheads NY 14845</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Duration: 06&plus; Months </span></span></strong><br />\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary:</span></strong><br />\r\n<span style=\"font-family:calibri,sans-serif\">The Driver is responsible for driving a vehicle. Adhere to all driving related safety procedures.</span><br />\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Budget and Compensation</span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Bonuses:</span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Air slide runs</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Silo moves (up to 2–3 bonuses/day)</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hotshot deliveries</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Reimbursable Expenses:</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Coverall laundry ($20/rotation)</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Checked baggage and airport parking</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hazmat fingerprinting</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Business-related vehicle expenses (e.g., oil)</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Key Responsibilities</span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Operate various vehicles including:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Tractor trailer units</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Body load units</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">550s with gooseneck trailers</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hook up hoses, run air slide controls, strap loads</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hotshot pallets of chemicals between districts</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">May assist equipment operators when needed</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Not a “no-touch” driving role — physical involvement is required</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Experience and Skills</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Must be able to drive manual transmission vehicles</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">(Automatic transmission restrictions disqualify candidates due to limited availability of automatic trucks)</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Top 3 skills:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Willingness to learn</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Adaptability to changing schedules and tasks</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Time management and self-regulation</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">No minimum years of experience required but prefer oil & gas/driver experience</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">License and Certification Requirements</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Valid Class A CDL with no restrictions</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Air brakes endorsement</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Tanker endorsement</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Manual transmission capability required</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hazmat endorsement is a plus but not required</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Minimum education: High school diploma or equivalent</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Travel Requirements</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Travel required; housing and flights provided</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Local candidates preferred</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">For rotator drivers- When possible client will assign worker with light vehicle to drive from hotel to work, car pooling, or a Client driver will mover worker around.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Work Environment</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Based in Horseheads, NY</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Field/onshore, heavy industrial environment</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hands-on, physically active role</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Training</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Conducted in Kellyville:</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">NEST</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">HVT</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">QUEST certifications</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Additional in-house and site-specific safety training</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Shadowing with experienced drivers before solo assignments</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Shift/Hours</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Rotation: 15 days on / 6 days off</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hours: Up to 14 hours/day, occasionally 16 hours/day</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Typically work up to 70 hours/week, followed by a DOT reset</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Weekly Average: 70–80 hours/week</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Physical Demands</span></strong><br />\r\n<span style=\"font-family:calibri,sans-serif\">Must be able to:</span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Strap loads</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hook up hoses</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Operate trailer and body load units</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Not a sedentary or “drive-only” role</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Safety</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">DOT reset compliance required</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Emergency evacuation and site-specific safety training included</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Interview Process</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">One round, typically phone interview</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">In-person possible for local candidates</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">No formal driving test</span></li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31256000",
-    "time_scraped": 1759526006150,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31253659,
-    "title": "Marine Electrical Engineering Lead",
-    "location": "TX, Houston",
-    "experience": {
-      "experience": 7
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759427657000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><strong>Title: Marine Electrical Engineering Lead</strong><br />\r\n<strong>Location: Houston TX</strong><br />\r\n<strong>Duration: Fulltime Role</strong>\r\n\r\n<ul>\r\n\t<li>Design low and medium-voltage marine electrical power systems to support carbon capture equipment (motors, compressors, pumps, control systems).</li>\r\n\t<li>Develop one-line diagrams, load analyses, protection coordination studies, and grounding/bonding strategies compliant with marine class society rules (ABS, DNV, Lloyd’s).</li>\r\n\t<li>Prepare marine-class-compliant design documentation including electrical load lists, cable schedules, wiring diagrams, interconnection diagrams, and equipment data sheets.</li>\r\n\t<li>Specify electrical equipment (e.g., switchboards, transformers, VFDs, MCCs, UPS systems) for marine environments and ensure compatibility with onboard generation capacity.</li>\r\n\t<li>Coordinate integration of carbon capture power demands with shipboard electrical distribution and propulsion systems.</li>\r\n\t<li>Perform cable sizing, voltage drop, and heat dissipation calculations for new equipment loads.</li>\r\n\t<li>Generate technical specifications, installation work packages, and vendor requirement documents.</li>\r\n\t<li>Support the development of Functional Design Specifications (FDS), Interface Control Documents (ICDs), and Control Philosophy for power system interfaces.</li>\r\n\t<li>Assist our Marine Certification team with class submittals and responses to surveyor comments.</li>\r\n\t<li>Develop pre-commissioning and commissioning plans for carbon capture electrical systems, including energization procedures and FAT/SAT protocols.</li>\r\n\t<li>Coordinate testing and verification requirements with shipyards, EPCs, and OEMs.</li>\r\n\t<li>Support sea trial preparation and post-commissioning troubleshooting of electrical system performance and safety interlocks.</li>\r\n\t<li>Team planning, recruiting, and managing a marine electrical engineering team. Mentor junior engineers and prioritize team tasks and goals in line with department and company goals.</li>\r\n</ul>\r\n <br />\r\n<strong>A strong candidate will have the following skills: </strong>\r\n\r\n<ul>\r\n\t<li>Bachelor’s degree in Electrical Engineering or Marine Engineering (Electrical).</li>\r\n\t<li>Minimum 7 years of experience in marine electrical engineering, preferably involving newbuild or retrofit projects for commercial ships or offshore vessels.</li>\r\n\t<li>Deep understanding of marine electrical distribution systems (LV and MV), including main switchboards, emergency power systems, and UPS systems.</li>\r\n\t<li>Familiarity with marine codes and standards (e.g., IEC 60092, IEEE 45, SOLAS, ABS, DNV, IMO).</li>\r\n\t<li>Proficient in power system modeling and analysis tools (ETAP, SKM, or similar).</li>\r\n\t<li>Experience with VFDs, motor starting systems, and harmonics analysis in shipboard environments.</li>\r\n\t<li>Strong working knowledge of insulation resistance monitoring, isolation transformers, and EMC/EMI compliance strategies.</li>\r\n\t<li>Comfortable with CAD tools (e.g., AutoCAD Electrical, etc.) and project documentation platforms (e.g., SharePoint, Autodesk Vault, or similar).</li>\r\n\t<li>Excellent communication and coordination skills for working with cross-functional engineering teams, shipyards, and regulatory bodies.</li>\r\n\t<li>Bonus Experience (Preferred but not required):</li>\r\n\t<li>Master’s degree in Electrical Engineering or Marine Engineering (Electrical).</li>\r\n\t<li>Experience with power systems supporting process or chemical systems onboard vessels.</li>\r\n\t<li>Previous work on decarbonization technologies (e.g., carbon capture, exhaust gas cleaning, or alternative fuels).</li>\r\n\t<li>Familiarity with integration of marine automation and control systems (e.g., IAS, PLC-based control).</li>\r\n</ul>\r\n</div>\r\n<br>",
-    "recruiter": [
-      "Akshay Charan",
-      "Akshay.C@nrconsulting.com",
-      "7207341010"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31253659",
-    "time_scraped": 1759526006093,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31247831,
-    "title": "CNC Machinist",
-    "location": "IN, Lafyette",
-    "experience": {
-      "experience": 2
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759344393000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\"><strong>Job Title : CNC Machinist</strong><br />\r\n<strong>Location : Lafyette, IN</strong><br />\r\n<strong>Hire Type : Fulltime Permanent Role/ Direct Hire</strong><br />\r\n<br />\r\nAs a Skilled Machinist, you will be responsible for producing precision components that power heavy equipment and industrial solutions worldwide. You will operate, set up, and maintain CNC machines while ensuring the highest levels of safety, quality, and efficiency.<br />\r\n<br />\r\n<strong>Key Responsibilities</strong></span> </span>\r\n<ul>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Operate, set up, and adjust CNC and manual machines (lathes, mills, grinders, boring machines, etc.) to produce precision parts for large diesel and natural gas engines.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Interpret and work from blueprints, engineering drawings, and CAT quality specifications.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Perform machining operations including cutting, turning, milling, drilling, tapping, and finishing to tight tolerances.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Monitor machine performance, make necessary offsets/adjustments, and conduct basic troubleshooting.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Inspect finished components using precision measurement tools (calipers, micrometers, CMM, gauges) to ensure conformance to specifications.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Complete routine maintenance on machines and tooling; report issues proactively.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Adhere to client safety, environmental, and lean manufacturing standards.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Document production data, maintain records, and participate in continuous improvement initiatives</span> </span></li>\r\n</ul>\r\n<span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> <strong> Qualifications</strong></span> </span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">High school diploma or GED required; technical or trade certification in machining strongly preferred.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Minimum 2–4 years of machinist experience in a high-volume manufacturing environment.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Proficiency in reading blueprints, GD&T, and interpreting engineering specifications.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Strong experience with CNC programming offsets and G/M codes (Fanuc or Siemens control knowledge is a plus).</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Skilled in precision measurement and inspection techniques.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Knowledge of cutting tools, speeds/feeds, and machining best practices.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Ability to work independently and as part of a cross-functional production team.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Willingness to work shifts (including nights and weekends as needed).</span> </span></li>\r\n</ul>\r\n<span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> <strong> Desired Attributes</strong></span> </span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Strong mechanical aptitude and problem-solving ability.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Commitment to safety and quality as top priorities.</span> </span></li>\r\n\t<li><span style=\"font-size:11pt\"><span style=\"font-family:calibri,helvetica,sans-serif\">Continuous improvement mindset with experience in lean manufacturing</span> </span></li>\r\n</ul>\r\n<span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> </span> </span><br>",
-    "recruiter": [
-      "Akshay Charan",
-      "Akshay.C@nrconsulting.com",
-      "7207341010"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31247831",
-    "time_scraped": 1759526006178,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31241587,
-    "title": "Electrical Engineer III",
-    "location": "KY, Lexington",
-    "experience": {
-      "experience": 8
-    },
-    "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759264901000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><span style=\"font-size:11pt\"><strong><span style=\"font-family:calibri,sans-serif\">Job Title: Electrical Engineer III</span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Location: Lexington, Kentucky</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> , United States</span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Duration: Direct Hire Full Time Role</span> </strong></span><br />\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">JOB SUMMARY: </span> </span> </strong><br />\r\n<span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">The Electrical Engineer III position is responsible for the development, integration, and testing of electrical systems to execute the intended goals of specific spaceflight projects and Internal Research And Development (IRAD) projects. Responsibilities of the position include, but are not limited to, serving as the Electrical Engineering functional team representative for specific projects throughout the lifecycle process from concept ideation through return from flight and ensuring that assigned projects adhere to the client’s architecture, processes, and quality standards.</span> </span><br />\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">DUTIES/RESPONSIBILITIES: </span> </span> </strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Represent the Electrical Engineering team on multiple, interdisciplinary spaceflight projects.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Develop/assist with technical design documentation (requirements, diagrams, experiment protocols, etc.) and execute on the project electrical systems accordingly.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Implement and verify electrical systems through various tests along the project lifecycle. Develop associated test plans and action plans based on results.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Adhere to functional team quality assurance practices to ensure high quality EE products.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Serve as the primary electrical engineering representative for spaceflight projects by leading electrical integration and assisting with build, testing, checkout, and quality assurance.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Take initiative to coordinate inter-project team communication to solve project issues as they arise.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Utilize other functional team members to provide feedback and guidance for project troubleshooting activities when issues arise.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Participate in external stakeholder and internal team communication in a professional manner.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Identify improvements in standard project electrical systems to improve reliability, usability, and scalability.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Lead and/or assist with IRAD projects when assigned.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Continually review, learn, and discuss with other team members about applicable NASA safety requirements and regulations that apply to electrical engineering designs for spaceflight projects.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Research existing industry electrical engineering platforms that could positively impact current or future company designs.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Work closely with the Electrical Engineering functional team and project team(s) to ensure success of assigned projects.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Travel to support customer or partner projects and launches.</span> </span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">EDUCATION & EXPERIENCE:</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">REQUIRED SKILLS: </span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Bachelor’s degree in Electrical Engineering or related technical discipline </span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">4&plus; years related engineering experience </span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Extensive knowledge of PCB design and development including part selection, interpreting datasheets, analog and digital electronics design, schematic development, complex layout and routing (multi-layer stack-up, thermal management techniques, high speed design, RF and analog layout, etc.) associated fabrication and population, board bring-up and debugging, and quality management</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Extensive knowledge of firmware skills including embedded C/C&plus;&plus; programming, assembly languages, RTOS, microcontroller architectures, device drivers (sensors, comm modules, storage, actuators, etc.), debugging tools, version control, bootloaders and firmware update mechanisms, and common buses and protocols (I2C, SPI, UART, GPIO, USB, Ethernet, etc)</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Extensive knowledge of hands-on hardware integration and testing including sensor selection and interfaces, cable and connector design, electrical safety, system integration (PCBS, sensors, actuators, mechanical interfaces, firmware, etc), and general engineering troubleshooting and verification techniques</span> </span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">PREFERRED SKILLS:</span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">6&plus; years related engineering experience, 4&plus; years experience in space industry</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Master’s degree (or advanced training) in a related technical discipline</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Experience in spaceflight payload design from concept to implementation in microgravity</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Knowledge of NASA safety requirements and regulations Interpersonal Skills</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Manage and track multiple priorities while maintaining a focus towards common project goals</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Attention to detail and creative and innovative problem-solving skills</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Ability to work effectively in a dynamic environment that includes working with changing needs and requirements</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Ability to lead multiple technical projects and work with Director of Electrical Engineering and Project Managers to determine the urgency of a given task</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Exceptional project and technical management skills</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Excellent written and verbal communication skills for both a technical and non-technical audience</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Motivated for self, functional team, and company success</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Willingness to teach/learn new skills and techniques to/from both external and internal sources</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif; font-size:11.0pt\"><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Advocate for collaboration, team-work, integration, and support among team members</span> </span> </span></li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Akshay Charan",
-      "Akshay.C@nrconsulting.com",
-      "7207341010"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31241587",
-    "time_scraped": 1759526012552,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31236991,
-    "title": "Senior Business Analyst / Product Owner - Credit Card Functional Expert",
-    "location": "DE, Wilmington",
-    "experience": {
-      "experience": 10
-    },
-    "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759240828000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 60,
-    "description": "<br><div> <span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Title: Senior Business Analyst / Product Owner - Credit Card Functional Expert</span>  </span>  </span> <br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Location: </span>  </span>  </span>  <span style=\"color:black\">  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:11.0pt\">  Wilmington, DE (Hybrid)</span>  </span>  </span> <br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Type: Contract</span>  </span>  </span> <br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Duration: Long Term</span>  </span>  </span> <br /> \r\n<br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Description:</span>  </span>  </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> More than 5 years of experience in TSYS credit card functional knowledge or heavy in Client credit card functional knowledge or both</span>  </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Should have played the role of Product owner for more than 5 years</span>  </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Well versed in JIRA and agile methodologies-based delivery model</span>  </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Looking for good expertise in business / functional side.</span>  </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31236991",
-    "time_scraped": 1759526012490,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31227512,
-    "title": "Minerals Mine Worker",
-    "location": "NV, Battle Mountain",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759157527000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong>  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:12.0pt\">  Job Title: Minerals Mill Worker</span>  </span>  </strong><br />  \r\n<strong>  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:12.0pt\">  Location: Battle Mountain NV 89820</span>  </span>  </strong><br />  \r\n<strong>  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:12.0pt\">  Duration: 12&plus; Months </span>  </span>  </strong><br />  \r\n <br />  \r\n<strong>  <span style=\"font-family:calibri,sans-serif\">  Summary</span>  </strong><strong>  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:12.0pt\">  :</span>  </span>  </strong><br />  \r\n<span style=\"font-family:calibri,sans-serif\">  Candidate must be in Battle Mountain area</span>  <br />  \r\n <br />  \r\n<span style=\"font-family:calibri,sans-serif\">  POSITION: SHIFT BOSS</span>  <br />  \r\n<strong>  <span style=\"font-family:calibri,sans-serif\">  POSITION DESCRIPTION:</span>  </strong><br />  \r\n<span style=\"font-family:calibri,sans-serif\">  Must demonstrate the ability to coordinate efforts with the mine foreman, crusher/jig plant foreman and other mine personnel.</span>  <br />  \r\n <br />  \r\n<strong>  <span style=\"font-family:calibri,sans-serif\">  FUNCTIONS</span>  </strong><span style=\"font-family:calibri,sans-serif\">  :</span>  \r\n<ul>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Must have the ability to maintain daily records of shift inspections.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Perform direct supervision of production and maintenance employees and responsible for task training of all production employees.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  The incumbent will receive instructions from the mine foreman on ore blends to be used and will instruct operators in the proper blending methods.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  They are responsible for evaluating the quality of ore being run through the crusher and beneficiation plant.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  They must be able to operate heavy equipment and have a good understanding of equipment maintenance.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Other tasks may be assigned from time to time.</span>  </li>  \r\n</ul>  \r\n <br />  \r\n<strong>  <span style=\"font-family:calibri,sans-serif\">  PHYSICAL REQUIRMENTS:</span>  </strong>\r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Perform heavy manual clean-up using shovels, picks, hoes and brooms.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Lift, carry, manipulate tools.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Perform repetitive hand and arm functions as are required operating jacks, ratchet wrenches, chain hoists, and come-alongs;</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Work outside in all extremes of weather.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Occasionally work in restrictive spaces with difficult access.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Occasionally climb onto and work on high perches on tall storage bins, conveyor structures, or buildings.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Climb up and down inclines and slopes with aid of stairs or ropes.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Work on shift schedules including night and graveyard shifts.</span>  </li>  \r\n</ul>  \r\n <br />  \r\n<strong>  <span style=\"font-family:calibri,sans-serif\">  REQUIREMENTS:</span>  </strong>\r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Be responsible for compliance with regulatory requirements and the Company's procedures and guidelines in the performance of their duties.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Perform their job safely and in an environmentally responsible manner.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Continually inspect their work areas for unsafe or substandard conditions or unsafe work practices.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Correct or take interim action on any unsafe or substandard conditions or practices that they observe and report to the immediate supervisor.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Participate, as required, in all training classes and exercises.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Participate, as required, in all HSE performance development activities and systems.</span>  </li>  \r\n\t<li>  <span style=\"font-family:calibri,sans-serif\">  Report all injury, near-miss, property damage and hazardous conditions to their immediate supervisor.</span>  </li>  \r\n</ul>  \r\n<br>",
-    "recruiter": [
-      "Amritesh Rai",
-      "Amritesh.R@nrconsulting.com",
-      "3325291408"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31227512",
-    "time_scraped": 1759526012616,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31216843,
-    "title": "Minerals Mine Worker",
-    "location": "NV, Battle Mountain",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758917529000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Job Title: Minerals Mill Worker</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Location: Battle Mountain NV 89820</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Duration: 12&plus; Months </span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Summary</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> :</span> </span> </strong><br /> \r\n<span style=\"font-family:calibri,sans-serif\"> POSITION: HEAVY EQUIPMENT OPERATOR POSITION DESCRIPTION:</span> <br /> \r\n<span style=\"font-family:calibri,sans-serif\"> Operates heavy earth moving equipment, such as track type dozers, loaders, backhoes, off-road trucks, graders, and rock drills in a strip mine.</span> <br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> JOB FUNCTIONS:</span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Operate heavy equipment that includes pushing waste and ore dumps.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Keeping records of loads and equipment fueling, maintenance, etc.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Performing operational maintenance such as greasing, fueling, cleaning and checking wear parts.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Cleaning tracks, buckets, cabs with shovels, picks and brooms.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Supporting mechanics in performing mechanical repair on occasion.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Servicing equipment as necessary, such as changing lubricants, filters, and wear parts.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Other tasks may be assigned from time to time.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> PHYSICAL REQUIRMENTS:</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Climb onto and off of equipment, often many times in a shift;</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Maintain concentration while performing repetitive equipment cycles for durations up to several hours;</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Lift, carry and manipulate heavy duty wrenches and tools, in installing wear parts, servicing equipment, and when generally supporting mechanics;</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Work on shift schedules including afternoon and graveyard shifts;</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform repetitive hand and arm functions as are required operating jacks, ratchet wrenches, chain hoists and come-alongs.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> HSE REQUIREMENTS:</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Be responsible for compliance with regulatory requirements and the Company's procedures and guidelines in the performance of their duties.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform their job safely and in an environmentally responsible manner.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Continually inspect their work areas for unsafe or substandard conditions or unsafe work practices.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Correct or take interim action on any unsafe or substandard conditions or practices that they observe and report to the immediate supervisor.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Participate, as required, in all training classes and exercises.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Participate, as required, in all HSE performance development activities and systems.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Report all injury, near-miss, property damage and hazardous conditions to their immediate supervisor.</span> </li> \r\n</ul> \r\n<br>",
-    "recruiter": [
-      "Amritesh Rai",
-      "Amritesh.R@nrconsulting.com",
-      "3325291408"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31216843",
-    "time_scraped": 1759526012491,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31216839,
-    "title": "Minerals Mine Worker",
-    "location": "NV, Battle Mountain",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758917504000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Job Title: Minerals Mill Worker</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Location: Battle Mountain NV 89820</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Duration: 12&plus; Months </span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Summary</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> :</span> </span> </strong><br /> \r\n<span style=\"font-family:calibri,sans-serif\"> Must demonstrate the ability to coordinate efforts with the maintenance foreman, mine foreman, crusher/jig plant foreman and other mine personnel.</span> <br /> \r\n \r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> They must report maintenance concerns to the shift boss or foreman for the appropriate scheduling of maintenance functions or repairs.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> They also maintain proper tool storage and organization, clean work areas and safe work conditions.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform heavy manual clean-up using shovels, picks, hoes and brooms.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Lift, carry, manipulate tools.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform repetitive hand and arm functions as are required operating jacks, ratchet wrenches, chain hoists, and come-alongs;</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Work outside in all extremes of weather.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Occasionally work in restrictive spaces with difficult access.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Occasionally climb onto and work on high perches on tall storage bins, conveyor structures, or buildings.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Climb up and down inclines and slopes with aid of stairs or ropes.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Work on shift schedules including night and graveyard shifts.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Be responsible for compliance with regulatory requirements and the Company’s procedures and guidelines in the performance of their duties.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform their job safely and in an environmentally responsible manner.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Continually inspect their work areas for unsafe or substandard conditions or unsafe work practices.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Correct or take interim action on any unsafe or substandard conditions or practices that they observe and report to the immediate supervisor.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Participate, as required, in all training classes and exercises.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Participate, as required, in all HSE performance development activities and systems.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Report all injury, near-miss, property damage and hazardous conditions to their immediate supervisor.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Must have the ability to maintain daily records.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Must have experience in equipment maintenance, repair and replacement.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> They must be able to operate heavy equipment.</span> </li> \r\n</ul> \r\n<br>",
-    "recruiter": [
-      "Amritesh Rai",
-      "Amritesh.R@nrconsulting.com",
-      "3325291408"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31216839",
-    "time_scraped": 1759526012580,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31214713,
-    "title": "Minerals Mill Worker",
-    "location": "NV, Battle Mountain",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758900136000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title: Minerals Mill Worker</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Location: Battle Mountain NV 89820</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Duration: 12&plus; Months </span> </span> </strong><br />\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> :</span> </span> </strong><br />\r\n<span style=\"font-family:calibri,sans-serif\">POSITION: CRUSHER OPERATOR POSITION DESCRIPTION:</span><br />\r\n<span style=\"font-family:calibri,sans-serif\">Operates a crushing plant, preparing mine run rock as feed for beneficiation plant(s).</span><br />\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">JOB FUNCTIONS:</span> </strong>\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The operator sequentially starts the crushers, conveyors, screens and feeders from one or more control panels.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Monitors the operating machinery, adjusts the amounts of materials being processed in given sections of the plant, and distributes the crushed product(s) by way of stacking conveyors, chutes, etc.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The operations maintenance performed is cleaning up of accumulated material leaks and spills, periodic changing of wear protection parts, making screen cloth replacements and maintaining walkways, stairs, guards, control room, etc.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Performs primary equipment maintenance as job situations require, e.g. exchanging motors and head and tail pulleys on conveyors, performing exponent exchange of gear boxes and crusher parts</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">and splicing conveyor belts, elevator chains, etc.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Other tasks may be assigned from time to time.</span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">PHYSICAL REQUIRMENTS:</span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Perform heavy manual clean-up using shovels, picks, hoes and brooms.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Lift, carry, manipulate tools.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Perform repetitive hand and arm functions as are required operating jacks, ratchet wrenches, chain hoists, and come-alongs;</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Work outside in all extremes of weather.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Occasionally work in restrictive spaces with difficult access.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Occasionally climb onto and work on high perches on tall storage bins, conveyor structures, or buildings.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Climb up and down inclines and slopes with aid of stairs or ropes.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Work on shift schedules including night and graveyard shifts.</span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">HSE REQUIREMENTS:</span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Be responsible for compliance with regulatory requirements and the Company's procedures and guidelines in the performance of their duties.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Perform their job safely and in an environmentally responsible manner.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Continually inspect their work areas for unsafe or substandard conditions or unsafe work practices.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Correct or take interim action on any unsafe or substandard conditions or practices that they observe and report to the immediate supervisor.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate, as required, in all training classes and exercises.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate, as required, in all HSE performance development activities and systems.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Report all injury, near-miss, property damage and hazardous conditions to their immediate supervisor.</span></li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Amritesh Rai",
-      "Amritesh.R@nrconsulting.com",
-      "3325291408"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31214713",
-    "time_scraped": 1759526019151,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31209078,
-    "title": "Mechanical Technician",
-    "location": "ND, Minot",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758821528000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title: Mechanical Technician</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Location: Minot ND 58703</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Duration: 12&plus; Months <br />\r\n<span style=\"font-size:10pt\">Open for non local 12 days ON 2 days OFF -- Shift 7 AM to 06 PM </span></span><br />\r\n<br />\r\n<br />\r\nSummary</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> :</span> </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The Mechanical Technician is responsible for ensuring on-time delivery of equipment as per operational demands. The Mechanical Technician improves maintenance related nonproductive time ratio of the Product Line's assets within the Maintenance Base (MB) and improves maintenance efficiency and people productivity. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Maintain assigned equipment according to the pertinent maintenance program and compliant with the reliability centered maintenance strategy through adherence to the Computerized Maintenance Management System and standard work. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Adhere to transactional discipline within Technology Lifecycle Management (TLM) business systems to record materials and supplies, labor costs and equipment maintenance performance history such as movements, work orders, parts used and time to maintain. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Comply with TLM Product Line standards. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in the continuous improvement culture, initiatives and improvement plans within the MB to improve asset utilization and cost of service delivery (CoSD). </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in continuous improvement efforts to improve asset turnaround time, which includes reducing downtime due to maintenance, parts and repair authorization numbers, failures and work-in-process. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Support continuous improvement efforts to improve the efficiency and productivity of Maintenance Technicians. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Implement CoSD projects, such as the planned repair and reuse of parts. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in failure investigations as assigned. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Comply with the TLM Competency Management System.</span></li>\r\n</ul>\r\n<br />\r\n <br>",
-    "recruiter": [
-      "Amritesh Rai",
-      "Amritesh.R@nrconsulting.com",
-      "3325291408"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31209078",
-    "time_scraped": 1759526019151,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31209019,
-    "title": "Mechanical Technician",
-    "location": "ND, Minot",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758820989000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title: Mechanical Technician</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Location: Minot ND 58703</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Duration: 12&plus; Months<br />\r\n<span style=\"font-size:10pt\">Open for non local 12 days ON 2 days OFF -- Shift 7 AM to 06 PM  </span></span><span style=\"font-size:10pt\"> </span></span><span style=\"font-size:10pt\"> </span></strong><br />\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> :</span> </span> </strong>\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The Mechanical Technician is responsible for ensuring on-time delivery of equipment as per operational demands. The Mechanical Technician improves maintenance related nonproductive time ratio of the Product Line's assets within the Maintenance Base (MB) and improves maintenance efficiency and people productivity. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Maintain assigned equipment according to the pertinent maintenance program and compliant with the reliability centered maintenance strategy through adherence to the Computerized Maintenance Management System and standard work. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Adhere to transactional discipline within Technology Lifecycle Management (TLM) business systems to record materials and supplies, labor costs and equipment maintenance performance history such as movements, work orders, parts used and time to maintain. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Comply with TLM Product Line standards. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in the continuous improvement culture, initiatives and improvement plans within the MB to improve asset utilization and cost of service delivery (CoSD). </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in continuous improvement efforts to improve asset turnaround time, which includes reducing downtime due to maintenance, parts and repair authorization numbers, failures and work-in-process. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Support continuous improvement efforts to improve the efficiency and productivity of Maintenance Technicians. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Implement CoSD projects, such as the planned repair and reuse of parts. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in failure investigations as assigned. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Comply with the TLM Competency Management System.</span></li>\r\n</ul>\r\n<br />\r\n <br>",
-    "recruiter": [
-      "Amritesh Rai",
-      "Amritesh.R@nrconsulting.com",
-      "3325291408"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31209019",
-    "time_scraped": 1759526019151,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31209017,
-    "title": "Mechanical Technician",
-    "location": "ND, Minot",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758820958000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title: Mechanical Technician</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Location: Minot ND 58703</span> </span> </strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Duration: 12&plus; Months<br />\r\n<span style=\"font-size:10pt\">Open for non local 12 days ON 2 days OFF -- Shift 7 AM to 06 PM  </span></span><span style=\"font-size:10pt\"> </span></span><span style=\"font-size:10pt\"> </span></strong><br />\r\n<br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary</span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> :</span> </span> </strong>\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The Mechanical Technician is responsible for ensuring on-time delivery of equipment as per operational demands. The Mechanical Technician improves maintenance related nonproductive time ratio of the Product Line's assets within the Maintenance Base (MB) and improves maintenance efficiency and people productivity. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Maintain assigned equipment according to the pertinent maintenance program and compliant with the reliability centered maintenance strategy through adherence to the Computerized Maintenance Management System and standard work. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Adhere to transactional discipline within Technology Lifecycle Management (TLM) business systems to record materials and supplies, labor costs and equipment maintenance performance history such as movements, work orders, parts used and time to maintain. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Comply with TLM Product Line standards. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in the continuous improvement culture, initiatives and improvement plans within the MB to improve asset utilization and cost of service delivery (CoSD). </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in continuous improvement efforts to improve asset turnaround time, which includes reducing downtime due to maintenance, parts and repair authorization numbers, failures and work-in-process. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Support continuous improvement efforts to improve the efficiency and productivity of Maintenance Technicians. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Implement CoSD projects, such as the planned repair and reuse of parts. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in failure investigations as assigned. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Comply with the TLM Competency Management System.</span></li>\r\n</ul>\r\n<br />\r\n <br>",
-    "recruiter": [
-      "Amritesh Rai",
-      "Amritesh.R@nrconsulting.com",
-      "3325291408"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31209017",
-    "time_scraped": 1759526019007,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31208311,
-    "title": "Structural Engineer",
-    "location": "FL, Miami/ West Palm Beach",
-    "experience": {
-      "experience": 5
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758816284000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div>  <span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">   </span>  </span>  \r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:635px;\" width=\"635\">  \r\n\t<tbody>  \r\n\t\t<tr>  \r\n\t\t\t<td nowrap=\"nowrap\" style=\"width:384px;height:20px;\">   <strong>  Responsibilities:</strong>\r\n\t\t\t<ul>  \r\n\t\t\t\t<li>  Structural analysis, design and detailing for all types of buildings and materials using a variety of building codes.</li>  \r\n\t\t\t\t<li>  Coordination of design work with in-house staff as well as other design professionals including Architects and other Engineering disciplines.</li>  \r\n\t\t\t\t<li>  Preparation of construction documents within a BIM environment.</li>  \r\n\t\t\t</ul>  \r\n\t\t\t <br />  \r\n\t\t\t<strong>  The candidate should possess all the following traits:</strong>\r\n\r\n\t\t\t<ul>  \r\n\t\t\t\t<li>  Minimum of 5 years’ experience in structural engineering</li>  \r\n\t\t\t\t<li>  Inspection experience preferred</li>  \r\n\t\t\t\t<li>  Knowledge of design of cast-in-place concrete, prestressed concrete, post-tensioned concrete, structural steel, reinforced masonry.</li>  \r\n\t\t\t\t<li>  Experience with RAM, ETABS and other structural engineering software preferred.</li>  \r\n\t\t\t\t<li>  Working knowledge of Revit Structure preferred.</li>  \r\n\t\t\t</ul>  \r\n\t\t\t <br />  \r\n\t\t\t<strong>  And you should possess some or most of the following traits:</strong>\r\n\r\n\t\t\t<ul>  \r\n\t\t\t\t<li>  BS in Structural Engineering, MS preferred</li>  \r\n\t\t\t\t<li>  Engineer Intern, Professional Engineer preferred</li>  \r\n\t\t\t\t<li>  Excellent organizational and communication skills.</li>  \r\n\t\t\t\t<li>  Enthusiastic, self-motivated, pro-active and team oriented.</li>  \r\n\t\t\t</ul>  \r\n\t\t\t</td>  \r\n\t\t</tr>  \r\n\t</tbody>  \r\n</table>  \r\n</div>  \r\n<br>",
-    "recruiter": [
-      "Akshay Charan",
-      "Akshay.C@nrconsulting.com",
-      "7207341010"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31208311",
-    "time_scraped": 1759526019149,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31208052,
-    "title": "Senior Data Analytics Engineer – AI/ML & Cloud",
-    "location": "NJ, Whippany",
-    "experience": {
-      "experience": 11
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758814692000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 60,
-    "description": "<br><div> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Title: Senior Data Analytics Engineer – AI/ML & Cloud</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Location: Whippany, N (Hybrid)</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Type: Contract</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Duration: Long Term</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Description:</span> </span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Hands on developer in gen AI based projects.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Experience with cloud computing, machine learning, deep learning algorithms and Model Context Protocol</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Experience with platforms like AWS/ Azure, or GCP and can help tailor solutions to the unique data and technology challenges and opportunities</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Communicating technical concepts to both technical and non-technical audiences, collaborate with diverse teams, and build strong relationships with stakeholders.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Some other highly valued skills may include</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Business Acumen - Understanding business processes, industry trends, and market needs to develop solutions that align with organizational goals</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Continuous Learning - Ability to stay current with new technologies, methodologies, and best practices and driving innovation.</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31208052",
-    "time_scraped": 1759526025397,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31207986,
-    "title": "Cloud Data Engineer – AI/ML",
-    "location": "NJ, Whippany",
-    "experience": {
-      "experience": 8
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758814342000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 60,
-    "description": "<br><span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Title: </span> </span> </span> <span style=\"font-size:10pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Cloud Data Engineer – AI/ML</span> </span><br />\r\n<span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Location: Whippany, N (Hybrid)</span> </span> </span><br />\r\n<span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Type: Contract</span> </span> </span><br />\r\n<span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Duration: Long Term</span> </span> </span><br />\r\n<br />\r\n<span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Description:</span> </span> </span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Hands on developer in gen AI based projects.</span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Experience with cloud computing, machine learning, deep learning algorithms and Model Context Protocol </span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Experience with platforms like AWS/ Azure, or GCP and can help tailor solutions to the unique data and technology challenges and opportunities </span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Communicating technical concepts to both technical and non-technical audiences, collaborate with diverse teams, and build strong relationships with stakeholders.</span> </span></li>\r\n</ul>\r\n<br />\r\n<span style=\"color:black\"><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Some other highly valued skills may include</span> </span> </span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Business Acumen - Understanding business processes, industry trends, and market needs to develop solutions that align with organizational goals </span> </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:11.0pt\">Continuous Learning - Ability to stay current with new technologies, methodologies, and best practices and driving innovation.</span> </span></li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31207986",
-    "time_scraped": 1759526025299,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31201391,
-    "title": "KUKA Robotics Programmer",
-    "location": "IL, Decatur",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758733633000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div>\r\n<p><strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Title: KUKA Robotics Programmer</span></span></strong><br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Location: Decatur, IL</span></span></strong><br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Duration: 3 Months Contract (Possible Extension)</span></span></strong><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Key Responsibilities</span></span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Develop, program, and optimize KUKA/Fanuc robot applications for automated systems.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Troubleshoot robotic, PLC, and integration issues to ensure smooth operation.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Conduct system integration, testing, and commissioning of robotic cells.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Collaborate with mechanical, electrical, and controls engineers to implement automation projects.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Maintain and update robot programs, software, and documentation.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Ensure compliance with industry safety standards and company guidelines.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Provide technical support and training to operators and maintenance teams as needed.</span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Qualifications</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Proven experience in KUKA and/or Fanuc robot programming.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Strong knowledge of robot motion, path programming, and safety protocols.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Proficiency in Object-Oriented Programming (OOP) and familiarity with common programming languages (e.g., C++, Python, or Java).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Solid understanding of industrial automation and system integration.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Strong problem-solving and analytical abilities with keen attention to detail.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Excellent communication and collaboration skills in cross-functional environments.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Bachelor&rsquo;s degree in Computer Science, Electrical/Mechanical Engineering, Mechatronics, or related field.</span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Preferred Skills (Nice to Have)</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Experience with PLC integration (Allen-Bradley, Siemens, etc.).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Knowledge of vision systems and sensors in robotic applications.</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Familiarity with simulation tools (RoboDK, Process Simulate, KUKA Sim, Fanuc ROBOGUIDE).</span></span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Previous experience in automotive or manufacturing automation projects.</span></span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n</div>\r\n<br>",
-    "recruiter": [
-      "Kumar Vishwabhanu",
-      "Vishwa.B@nrconsulting.com",
-      "7207411905"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31201391",
-    "time_scraped": 1759526025237,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31199138,
-    "title": "Cybersecurity Project Manager",
-    "location": "FL, Juno Beach",
-    "experience": {
-      "experience": 5
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758719237000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Title: Cybersecurity Project Manager</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Location: On-Site (Juno Beach / PGA)</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Type: Contract</span> </span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Duration: Long Term</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Description: The IT Project Manager is responsible for planning, executing, and finalizing cybersecurity projects within scope, schedule, and budget. This role involves coordinating internal resources and stakeholders to ensure successful delivery of projects that support business objectives. The Project Manager oversees all phases of the project lifecycle, ensuring quality control, stakeholder alignment, and effective team collaboration.</span> </span> </span> <br /> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Key Responsibilities:</span> </span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Project Planning & Execution</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Develop detailed project plans, timelines, and resource allocations</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Lead cross-functional teams to deliver IT solutions that meet business requirements</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Monitor project progress and adjust plans as needed to stay on track</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Team Coordination & Leadership</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Provide ongoing direction and leadership to assigned project teams</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Facilitate collaboration among team members, contractors, and consultants</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Support employee development through coaching and performance feedback</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Stakeholder Management</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Communicate project status, risks, and milestones to stakeholders and leadership</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Ensure alignment between project goals and organizational priorities</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Manage expectations and resolve issues that may impact delivery</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Quality Assurance & Risk Management</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Oversee quality control throughout the project lifecycle</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Identify and mitigate risks using standard procedures and best practices</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Ensure compliance with internal policies and industry standards</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Qualifications:</span> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Solid experience in IT project management, with a focus on execution and delivery</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Working knowledge of project management methodologies and tools</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Ability to analyze problems and propose practical solutions</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Strong communication and organizational skills</span> </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31199138",
-    "time_scraped": 1759526025451,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31197210,
-    "title": "Electrical Engineer - ETO",
-    "location": "TX, Houston",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758664906000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Job Title: Electrical Engineer – ETO/</span> </span> </strong> <strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Electrical Designer</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Location:</span> </span> </strong> <strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Houston TX 77056</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:12.0pt\"> Duration: 12&plus; Months </span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Summary</span> </strong><br /> \r\n<span style=\"font-family:calibri,sans-serif\"> We are seeking a skilled and motivated an Electrical Designer to join our dynamic team.</span> <br /> \r\n<span style=\"font-family:calibri,sans-serif\"> Candidates with approximately 10 years of relevant experience can expect compensation at the lower end of the range, while those with 20&plus; years may qualify for the higher end.</span> <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Location: Initially based in Houston, TX for approximately 2-3 months. The position will transition to Sugar Land, TX thereafter.</span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> RESPONSIBILITIES:</span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> DESIGN</span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Application of the current version of the National Electrical Code (NEC).</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform sizing of wire, conduit, and cable tray.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform voltage drop calculations.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create cable tray / conduit routing layouts, and power plans.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform fill calculation of cable tray and conduit.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create lighting, grounding, and heat tracing layouts and plans.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform sizing of overcurrent protection for lighting and low voltage MCCs.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create MCC, Panel board, and heat tracing schedules.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Develop 480V one line diagrams and motor control schematics.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform lighting level calculations.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create electrical bulk material schedule and MTO.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create Substation designs, layouts, and elevation plans.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create transformers yard and bust duct layouts.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Integrate electrical equipment layouts and substation into the overall plot plan and 3D model.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create electrical installation details from vendor equipment drawings and documentation.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Attend substation fabrication shops, inspect/ verify wiring methods and equipment assembly according to approved drawings and specifications.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Attend site surveys of customers’ facilities in preparation of layout and site installation drawings, and/or As-Built drawings.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> DRAFTING</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create 2D electrical detail drawings and layouts using AutoCAD and AVEVA/E3D.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create To Scale Substation Layouts and elevation drawings using AutoCAD.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Integrate substation layouts into the overall plot plan and 3D model.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Integrate electrical equipment layouts into the overall plot plan and 3D model.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Integrate cable tray layouts and power plans into the overall plot plan and 3D model.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Integrate lighting, grounding, and lightning protection into the into the overall plot plan and 3D model.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Create 2D installation details and sections.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Working experience of 2D detail drawings and drafting standards to complete IFD (Issued for Design), and IFC (Issued for Construction), and As-built drawing packages in accordance with company standard drawing format and procedures.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> SKILLS AND QUALIFICATIONS</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Associate’s degree in engineering or computer Aided Drafting technology or equivalent experience is required.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Minimum of 10 years electrical design and drafting experience is required.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Proficiency in AutoCAD, NavisWorks, AVEVA/E3D is required.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Experience in design of prefabricated substation and modular equipment is preferred.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Experience in an EPC environment is a Plus.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Strong computer skills (Microsoft Office Suite).</span> </li> \r\n</ul> \r\n<br>",
-    "recruiter": [
-      "Akshay Charan",
-      "Akshay.C@nrconsulting.com",
-      "7207341010"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31197210",
-    "time_scraped": 1759526025373,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31191981,
-    "title": "ETO Instrumentation Engineer",
-    "location": "TX, Houston",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758639722000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><strong>   <span style=\"font-family:calibri,sans-serif\">   <span style=\"font-size:12.0pt\">   Job Title: Instrumentation & Control Designer<br />   \r\nLocation : Houston, TX (for the first 3 months), then move to the Sugar Land Campus (after 3 months).<br />   \r\nType: Contract<br />   \r\nDuration: 1 year with possible extension for another year.</span>   </span>   </strong><br />   \r\n<br />   \r\n<span style=\"font-family:calibri,sans-serif\">   <strong>   Job Description:</strong> </span>   \r\n\r\n<ul>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   We are seeking a skilled and motivated an Instrumentation and Controls Designer to join our dynamic team. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   They may occasionally be called upon to function as a Project Lead, Drafting Checker, or Coordinator on Projects. </span>   </li>   \r\n</ul>   \r\n<br />   \r\n<strong>   <span style=\"font-family:calibri,sans-serif\">   Responsibilities: </span>   </strong>\r\n\r\n<ul>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Support the development of Integrated Control & Safety System drawings, with input from system vendor designers </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Develop instrument engineering deliverables such as instrument and fire and gas layout drawings, instrument installation drawings, cabinet and junction box termination diagrams, cable routing drawings, cable list, material take offs, and loop diagrams. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Collaborate with cross-functional disciplines during project development, design, and installation of various Carbon Capture and Storage (CCS) and Carbon Capture Utilization and Storage (CCUS) projects. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Develop, review, and ensure proposals contain clearly defined material, equipment, and delivery information. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Contribute and share your technical experience, to foster a collaborative work environment. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Drive a culture of continuous improvement by implementing best practices and lessons learned. </span>   </li>   \r\n</ul>   \r\n<br />   \r\n<strong>   <span style=\"font-family:calibri,sans-serif\">   Skills And Qualifications </span>   </strong>\r\n\r\n<ul>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Certification in instrument control systems engineering, or related field. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   5-10 years’ experience in designing Control Systems. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   CAD software proficiency, AutoCAD or SolidWorks, 3D Modelling with Navisworks, experience with AVEVA desirable. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Experience with API, ANSI, IEEE, ISO, EN, ATEX, IEC, and other international codes and standards in instrumentation, control, and automation systems. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Understand Hazardous Area certification requirements. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Identification and selection of appropriate field instrumentation installation requirements, including knowledge of materials used in installations. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Implementing instrumentation cabling, cable tray layouts, and other related activities. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Work independently applying engineering techniques. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Meticulous attention to detail in design and documentation processes. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   Excellent communication skills both written and verbal. </span>   </li>   \r\n\t<li>   <span style=\"font-family:calibri,sans-serif\">   A self-starter that demonstrates a positive outlook and contributes to working in multicultural and multidisciplinary and collaborative environment.</span>   </li>   \r\n</ul>   \r\n <br>",
-    "recruiter": [
-      "Akshay Charan",
-      "Akshay.C@nrconsulting.com",
-      "7207341010"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31191981",
-    "time_scraped": 1759526032075,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31188854,
-    "title": "Maintenance Associate",
-    "location": "AB, Spruce Grove",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758577922000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\"><strong>Position Title :: Maintenance Associate</strong><br />\r\n<strong>Work Location :: Spruce Grove, AB</strong><br />\r\n<strong>Position Type :: Contract</strong><br />\r\n<strong>Duration :: 12&plus; month</strong></span></span>\r\n\r\n<ol>\r\n\t<li><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\">The Maintenance Associate is responsible to perform maintenance activities per the Maintenance Program and ensure on-time delivery of equipment in accordance with operational demand. The Maintenance Associate supports initiatives to improve the maintenance-related Cost of Service Delivery (CoSD), Maintenance Efficiency, People Productivity, and Asset Availability within the Center of Reliability and Efficiency (CRE) or Maintenance Base (MB), or Maintenance Center.</span></span></li>\r\n\t<li><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\">Under direct supervision of either a Maintenance Supervisor, or Maintenance Technician, perform assigned higher-level maintenance activities.</span></span></li>\r\n\t<li><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\">Adhere to transactional discipline within Technology Lifecycle Management (TLM) business systems, accurately capturing maintenance related data.</span></span></li>\r\n\t<li><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\">Maintain and build competency in compliance with the TLM Competency Management System.</span></span></li>\r\n\t<li><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\">Participate in and support continuous improvement (CI) initiatives.</span></span></li>\r\n\t<li><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\">Candidate will work with handheld tools.</span></span></li>\r\n\t<li><span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\">Some Mechanic exp is a plus.</span></span></li>\r\n</ol>\r\n<span style=\"font-family:calibri,helvetica,sans-serif\"><span style=\"font-size:11pt\"> </span></span><br>",
-    "recruiter": [
-      "Abhijeet Dixit",
-      "Abhijeet.D@nrconsulting.com",
-      "6046703222"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31188854",
-    "time_scraped": 1759526032008,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31182392,
-    "title": "Senior Business Analyst / Product Owner - Credit Card Functional Expert",
-    "location": "DE, Wilmington",
-    "experience": {
-      "experience": 10
-    },
-    "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758547892000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 60,
-    "description": "<br><div> <span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Title: Senior Business Analyst / Product Owner - Credit Card Functional Expert</span>  </span>  </span> <br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Location: </span>  </span>  </span>  <span style=\"color:black\">  <span style=\"font-family:calibri,sans-serif\">  <span style=\"font-size:11.0pt\">  Wilmington, DE (Hybrid)</span>  </span>  </span> <br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Type: Contract</span>  </span>  </span> <br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Duration: Long Term</span>  </span>  </span> <br /> \r\n<br /> \r\n<span style=\"color:black\"> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Description:</span>  </span>  </span> \r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> More than 5 years of experience in TSYS credit card functional knowledge or heavy in Client credit card functional knowledge or both</span>  </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Should have played the role of Product owner for more than 5 years</span>  </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Well versed in JIRA and agile methodologies-based delivery model</span>  </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:11.0pt\"> Looking for good expertise in business / functional side.</span>  </span> </li> \r\n</ul> \r\n</div> \r\n<br>",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31182392",
-    "time_scraped": 1759526032103,
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/31275058",
+    "time_scraped": 1759932074991,
     "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
     "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
     "date_cutoff_days": 15

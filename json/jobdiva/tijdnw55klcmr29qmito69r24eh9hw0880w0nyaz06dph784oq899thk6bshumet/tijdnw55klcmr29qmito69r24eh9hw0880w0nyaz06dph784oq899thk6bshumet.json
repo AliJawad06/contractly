@@ -1,14 +1,14 @@
 [
   {
-    "id": 31236359,
-    "title": "Cloud engineer/Backend Developer",
-    "location": "Karnataka, Bangalore",
+    "id": 31273313,
+    "title": "Corporate HR",
+    "location": "Uttar Pradesh, Noida",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "30/9/2025",
-      "date_posted": 1759234719000
+      "date_postedStr": "6/10/2025",
+      "date_posted": 1759750509000
     },
     "start": {
       "start_dateStr": null,
@@ -20,212 +20,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Cloud engineer/Backend Developer</div>\r\n<br>",
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Assisted in the full recruitment process, which included writing job descriptions, using job boards and LinkedIn for candidate sourcing, shortlisting resumes, conducting phone screenings, and interviewing candidates with hiring managers. Assisted in onboarding and induction initiatives, prepared orientation materials for new employees, helped with HR paperwork, forms, and information associated with hiring, and assisted new employees to help them acclimate to the organization. Managed employee database and HR record updates with accuracy and compliance with company policy.</div>\r\n<br>",
     "recruiter": [
-      "Samarjeet Singh",
-      "samarjeet@rapscorp.com",
-      "9871028822"
+      "Pratibha Pratibha",
+      "pratibha@rapscorp.com",
+      "7009425286"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31236359",
-    "time_scraped": 1759526866529,
-    "source_company": "tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31236351,
-    "title": "MLOps/ Data Engineer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "30/9/2025",
-      "date_posted": 1759234588000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>MLOps/ Data Engineer</div>\r\n<br>",
-    "recruiter": [
-      "Samarjeet Singh",
-      "samarjeet@rapscorp.com",
-      "9871028822"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31236351",
-    "time_scraped": 1759526866530,
-    "source_company": "tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31236346,
-    "title": "Business Analyst",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "30/9/2025",
-      "date_posted": 1759234403000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> \r\n<p> <b> 2–5 years BA experience</b> , ideally in process documentation or operational change<br /> \r\n• Strong process mapping skills (Visio/BPMN or similar)<br /> \r\n• Good documentation discipline and attention to detail<br /> \r\n• Familiarity with Jira, Confluence, and MS Office (Excel, PowerPoint)<br /> \r\n• Clear written English and ability to work remotely with onshore teams<br /> \r\n• Financial services or regulated industry experience is a plus</p> \r\n</div> \r\n<br>",
-    "recruiter": [
-      "Samarjeet Singh",
-      "samarjeet@rapscorp.com",
-      "9871028822"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31236346",
-    "time_scraped": 1759526866543,
-    "source_company": "tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31213311,
-    "title": "Purview Developer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "26/9/2025",
-      "date_posted": 1758890660000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> Purview Developers</div> \r\n<br>",
-    "recruiter": [
-      "Samarjeet Singh",
-      "samarjeet@rapscorp.com",
-      "9871028822"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31213311",
-    "time_scraped": 1759526866564,
-    "source_company": "tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31206749,
-    "title": "Vermilion developer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "25/9/2025",
-      "date_posted": 1758804395000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> Vermilion</div> \r\n<br>",
-    "recruiter": [
-      "Samarjeet Singh",
-      "samarjeet@rapscorp.com",
-      "9871028822"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31206749",
-    "time_scraped": 1759526866527,
-    "source_company": "tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31206534,
-    "title": "Snowflak",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "25/9/2025",
-      "date_posted": 1758801703000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  snowflake</span> </span> </div> \r\n<br>",
-    "recruiter": [
-      "Samarjeet Singh",
-      "samarjeet@rapscorp.com",
-      "9871028822"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31206534",
-    "time_scraped": 1759526872247,
-    "source_company": "tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet",
-    "source_url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31174040,
-    "title": "Trade Accounting",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "19/9/2025",
-      "date_posted": 1758285325000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Street and Admin Reconciliations (incl. Position reconciliation, Cash reconciliation), Swap MTM reconciliation, Trade Settlements, Trade affirmation, Trade confirmation and OTC cash settlements</div>\r\n<br>",
-    "recruiter": [
-      "Samarjeet Singh",
-      "samarjeet@rapscorp.com",
-      "9871028822"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31174040",
-    "time_scraped": 1759526872229,
+    "url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google&SearchString=#/jobs/31273313",
+    "time_scraped": 1759932282286,
     "source_company": "tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet",
     "source_url": "https://www1.jobdiva.com/portal/?a=tijdnw55klcmr29qmito69r24eh9hw0880w0nyaz06dph784oq899thk6bshumet&jobid=17652662&source=google",
     "date_cutoff_days": 15

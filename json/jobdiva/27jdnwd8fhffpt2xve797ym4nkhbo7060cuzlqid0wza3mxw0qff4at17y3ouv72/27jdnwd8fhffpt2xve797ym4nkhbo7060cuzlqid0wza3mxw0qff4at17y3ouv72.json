@@ -1,14 +1,14 @@
 [
   {
-    "id": 31269754,
-    "title": "Tableau Data Integration Consultant",
-    "location": "IL, Chicago",
+    "id": 31278682,
+    "title": " Senior Ruby on Rails Developer",
+    "location": "N/A",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759519616000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759782115000
     },
     "start": {
       "start_dateStr": null,
@@ -20,94 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><br />\r\n<strong data-end=\"290\" data-start=\"276\">Job Title:</strong> Tableau Data Integration Consultant<br />\r\n<strong data-end=\"342\" data-start=\"329\">Location:</strong> Chicago\r\n<p data-end=\"452\" data-start=\"276\"><strong data-end=\"474\" data-start=\"454\">Job Description:</strong><br data-end=\"477\" data-start=\"474\" />\r\nWe are seeking a skilled <strong data-end=\"541\" data-start=\"502\">Tableau Data Integration Consultant</strong> to help automate data ingestion processes for <strong data-end=\"617\" data-start=\"588\">Tableau Online dashboards</strong>. The role will focus on replacing manual monthly updates from <strong data-end=\"723\" data-start=\"680\">SharePoint and other enterprise sources</strong> with automated, scalable, and secure data pipelines.</p>\r\n\r\n<p data-end=\"807\" data-start=\"780\"><strong data-end=\"805\" data-start=\"780\">Key Responsibilities:</strong></p>\r\n\r\n<ul data-end=\"1355\" data-start=\"808\">\r\n\t<li data-end=\"881\" data-start=\"808\">\r\n\t<p data-end=\"881\" data-start=\"810\">Assess current Tableau Online data workflows and identify bottlenecks</p>\r\n\t</li>\r\n\t<li data-end=\"972\" data-start=\"882\">\r\n\t<p data-end=\"972\" data-start=\"884\">Design and implement automated data pipelines (up to 40&plus; SharePoint and other sources)</p>\r\n\t</li>\r\n\t<li data-end=\"1060\" data-start=\"973\">\r\n\t<p data-end=\"1060\" data-start=\"975\">Configure <strong data-end=\"1040\" data-start=\"985\">daily refresh schedules, validation, and monitoring</strong> in Tableau Online</p>\r\n\t</li>\r\n\t<li data-end=\"1192\" data-start=\"1061\">\r\n\t<p data-end=\"1192\" data-start=\"1063\">Integrate diverse data sources (SharePoint, Oracle Service Cloud, PeopleSoft, Salesforce CRM, Qualtrics, Marketing Cloud, etc.)</p>\r\n\t</li>\r\n\t<li data-end=\"1277\" data-start=\"1193\">\r\n\t<p data-end=\"1277\" data-start=\"1195\">Provide documentation, training, and knowledge transfer to internal Client/BI teams</p>\r\n\t</li>\r\n\t<li data-end=\"1355\" data-start=\"1278\">\r\n\t<p data-end=\"1355\" data-start=\"1280\">Ensure solutions follow <strong data-end=\"1353\" data-start=\"1304\">data governance, security, and best practices</strong></p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"1379\" data-start=\"1357\"><strong data-end=\"1377\" data-start=\"1357\">Required Skills:</strong></p>\r\n\r\n<ul data-end=\"1790\" data-start=\"1380\">\r\n\t<li data-end=\"1449\" data-start=\"1380\">\r\n\t<p data-end=\"1449\" data-start=\"1382\">Strong expertise in <strong data-end=\"1447\" data-start=\"1402\">Tableau, Tableau Prep, and Tableau Online</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1545\" data-start=\"1450\">\r\n\t<p data-end=\"1545\" data-start=\"1452\">Hands-on experience with <strong data-end=\"1543\" data-start=\"1477\">data integration, APIs, Python, Power Automate, and PowerShell</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1638\" data-start=\"1546\">\r\n\t<p data-end=\"1638\" data-start=\"1548\">Solid understanding of <strong data-end=\"1617\" data-start=\"1571\">automation, scheduling, and error handling</strong> in BI environments</p>\r\n\t</li>\r\n\t<li data-end=\"1719\" data-start=\"1639\">\r\n\t<p data-end=\"1719\" data-start=\"1641\">Experience working with <strong data-end=\"1717\" data-start=\"1665\">cloud services, SQL, and enterprise data systems</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1790\" data-start=\"1720\">\r\n\t<p data-end=\"1790\" data-start=\"1722\">Excellent communication, problem-solving, and documentation skills</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"1811\" data-start=\"1792\"><strong data-end=\"1809\" data-start=\"1792\">Nice to Have:</strong></p>\r\n\r\n<ul data-end=\"1957\" data-start=\"1812\">\r\n\t<li data-end=\"1883\" data-start=\"1812\">\r\n\t<p data-end=\"1883\" data-start=\"1814\">Prior experience in <strong data-end=\"1881\" data-start=\"1834\">higher education or government data systems</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1957\" data-start=\"1884\">\r\n\t<p data-end=\"1957\" data-start=\"1886\">Familiarity with <strong data-end=\"1955\" data-start=\"1903\">ETL pipelines and advanced automation frameworks</strong></p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"1978\" data-start=\"1959\"><strong data-end=\"1976\" data-start=\"1959\">Deliverables:</strong></p>\r\n\r\n<ul data-end=\"2136\" data-start=\"1979\">\r\n\t<li data-end=\"2031\" data-start=\"1979\">\r\n\t<p data-end=\"2031\" data-start=\"1981\">Automated Tableau data pipelines for 40&plus; sources</p>\r\n\t</li>\r\n\t<li data-end=\"2079\" data-start=\"2032\">\r\n\t<p data-end=\"2079\" data-start=\"2034\">Documentation, training, and PoC validation</p>\r\n\t</li>\r\n\t<li data-end=\"2136\" data-start=\"2080\">\r\n\t<p data-end=\"2136\" data-start=\"2082\">Improved dashboard update times and data reliability</p>\r\n\t</li>\r\n</ul>\r\n<br>",
+    "description": "<br><p data-end=\"316\" data-start=\"124\"><strong data-end=\"138\" data-start=\"124\">Job Title:</strong> Senior Ruby on Rails Developer<br data-end=\"172\" data-start=\"169\" />\r\n<strong data-end=\"234\" data-start=\"220\">Locations:</strong> Culver City, CA | SF Bay Area, CA | Austin, TX<br data-end=\"284\" data-start=\"281\" />\r\n<br />\r\n<strong data-end=\"338\" data-start=\"318\">Job Description:</strong><br data-end=\"341\" data-start=\"338\" />\r\nWe are seeking a <strong data-end=\"392\" data-start=\"358\">Senior Ruby on Rails Developer</strong> (Ex-Apple preferred) to design, develop, and maintain scalable, high-performance web applications. The ideal candidate will lead technical initiatives, collaborate across teams, and ensure delivery of robust, secure, and efficient solutions in a fast-paced environment.</p>\r\n\r\n<p data-end=\"693\" data-start=\"666\"><strong data-end=\"691\" data-start=\"666\">Key Responsibilities:</strong></p>\r\n\r\n<ul data-end=\"1078\" data-start=\"694\">\r\n\t<li data-end=\"759\" data-start=\"694\">\r\n\t<p data-end=\"759\" data-start=\"696\">Develop and maintain web applications using <strong data-end=\"757\" data-start=\"740\">Ruby on Rails</strong></p>\r\n\t</li>\r\n\t<li data-end=\"825\" data-start=\"760\">\r\n\t<p data-end=\"825\" data-start=\"762\">Architect and implement <strong data-end=\"823\" data-start=\"786\">RESTful APIs and backend services</strong></p>\r\n\t</li>\r\n\t<li data-end=\"885\" data-start=\"826\">\r\n\t<p data-end=\"885\" data-start=\"828\">Optimize for <strong data-end=\"883\" data-start=\"841\">performance, scalability, and security</strong></p>\r\n\t</li>\r\n\t<li data-end=\"947\" data-start=\"886\">\r\n\t<p data-end=\"947\" data-start=\"888\">Collaborate with cross-functional teams (Product, UX, QA)</p>\r\n\t</li>\r\n\t<li data-end=\"1016\" data-start=\"948\">\r\n\t<p data-end=\"1016\" data-start=\"950\">Lead code reviews, mentor team members, and drive best practices</p>\r\n\t</li>\r\n\t<li data-end=\"1078\" data-start=\"1017\">\r\n\t<p data-end=\"1078\" data-start=\"1019\">Participate in Agile/Scrum ceremonies and sprint planning</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"1102\" data-start=\"1080\"><strong data-end=\"1100\" data-start=\"1080\">Required Skills:</strong></p>\r\n\r\n<ul data-end=\"1517\" data-start=\"1103\">\r\n\t<li data-end=\"1160\" data-start=\"1103\">\r\n\t<p data-end=\"1160\" data-start=\"1105\">10&plus; years of <strong data-end=\"1135\" data-start=\"1118\">Ruby on Rails</strong> development experience</p>\r\n\t</li>\r\n\t<li data-end=\"1232\" data-start=\"1161\">\r\n\t<p data-end=\"1232\" data-start=\"1163\">Strong knowledge of <strong data-end=\"1203\" data-start=\"1183\">MVC architecture</strong> and <strong data-end=\"1230\" data-start=\"1208\">RESTful API design</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1308\" data-start=\"1233\">\r\n\t<p data-end=\"1308\" data-start=\"1235\">Frontend experience with <strong data-end=\"1306\" data-start=\"1260\">HTML5, CSS3, and JavaScript (React/jQuery)</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1357\" data-start=\"1309\">\r\n\t<p data-end=\"1357\" data-start=\"1311\">Database expertise with <strong data-end=\"1355\" data-start=\"1335\">PostgreSQL/MySQL</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1406\" data-start=\"1358\">\r\n\t<p data-end=\"1406\" data-start=\"1360\">Hands-on with <strong data-end=\"1388\" data-start=\"1374\">AWS/Heroku</strong> and CI/CD tools</p>\r\n\t</li>\r\n\t<li data-end=\"1467\" data-start=\"1407\">\r\n\t<p data-end=\"1467\" data-start=\"1409\">Familiarity with <strong data-end=\"1443\" data-start=\"1426\">RSpec/TDD/BDD</strong> and Agile development</p>\r\n\t</li>\r\n\t<li data-end=\"1517\" data-start=\"1468\">\r\n\t<p data-end=\"1517\" data-start=\"1470\">Excellent communication and leadership skills</p>\r\n\t</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Suyog Patil",
       "Suyog@infowaygroup.com",
       "9253019833"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31269754",
-    "time_scraped": 1759520745582,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31278682",
+    "time_scraped": 1759930151027,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31269701,
-    "title": "Assember 1st shift",
-    "location": "PA, Murrysville",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/3/2025",
-      "date_posted": 1759519281000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p>New Job Posting is distributed prior to approval [Job Posting ID: PHIAJP00002914, Job Posting Title: US-below 50 General Staffing]</p>\r\n\r\n<p> </p>\r\n\r\n<p>Role: Assembler</p>\r\n\r\n<p> </p>\r\n\r\n<p>Location: Murrysville, PA</p>\r\n\r\n<p> </p>\r\n\r\n<p>Bill rate: $27</p>\r\n\r\n<p> </p>\r\n\r\n<p>Shift : 1st shift <br />\r\n<br />\r\nDescription:<br />\r\nAssembler,Job Responsibilities: Supports in conducting defined quality checks and adjusts line processes as necessary to meet specifications and standards, defined by the company, and ensure product quality . Helps handle materials efficiently into production machines and processes to sustain smooth operations. Removes, packs, and organizes raw materials or finished products in adherence to prescribed procedures. Supports waste disposal activities, ensuring compliance with organizational waste removal and recycling policies to maintain cleanliness and sustainability. Cleans production equipment and work areas regularly to uphold hygiene standards and prevent contamination. Operates machines and performs assigned tasks under direct supervision, maintaining a focus on achieving output targets. Demonstrates basic understanding and adherence to established personal safety, security, and environmental practices to ensure a secure work environment. Follows prescribed procedures and guidelines, promptly recognizing and communicating any issues or problems to appropriate personnel while complying with workplace health and safety instructions. Minimum required Education: High School Diploma, Vocational training or equivalent. Minimum required Experience: No prior experience or equivalent. Minimum required Certification: N/A Preferred Education: N/A Preferred Experience: N/A Preferred Certification: N/A Preferred Skills: Environment Health and Safety Manufacturing Principles Digital Literacy Machine Operations Quality Monitoring Materials Handling Waste Management Loading &amp; Unloading Packing,With the current demand plan and our end date approaching rapidly, I need headcount to complete the all the work we still need to do.</p>\r\n<br>",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "6026983321"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31269701",
-    "time_scraped": 1759520745555,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31255357,
-    "title": "Technical Lead – macOS/iOS Development",
-    "location": "None, Greater Toronto Area",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759441185000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h3><strong>Job Description: Technical Lead &ndash; macOS/iOS Development<br />\r\nLocation:</strong> Sunnyvale, CA</h3>\r\n\r\n<h3><strong>Role Overview:</strong></h3>\r\n\r\n<p>We are looking for a <strong>Technical Lead</strong> who is confident, capable, and highly experienced in <strong>macOS and iOS development</strong>. The ideal candidate will be hands-on with <strong>Swift and Objective-C</strong>, adept at leading cross-functional teams, and comfortable collaborating with client stakeholders and offshore development teams. This is a senior-level role requiring both technical expertise and leadership skills.</p>\r\n\r\n<hr />\r\n<h3><strong>Key Responsibilities:</strong></h3>\r\n\r\n<ul>\r\n\t<li>Lead the design and development of macOS and iOS applications using <strong>Swift</strong> and <strong>Objective-C</strong></li>\r\n\t<li>Architect and implement UI using <strong>SwiftUI</strong> and <strong>AppKit</strong></li>\r\n\t<li>Manage source control using <strong>Git</strong>, and handle dependency management with <strong>Swift Package Manager</strong></li>\r\n\t<li>Oversee and contribute to unit testing using <strong>XCTest</strong></li>\r\n\t<li>Implement and manage continuous integration pipelines using <strong>Xcode Cloud</strong></li>\r\n\t<li>Collaborate with client team members, translating requirements into technical solutions</li>\r\n\t<li>Guide and mentor offshore teams to ensure timely and quality delivery</li>\r\n\t<li>Participate in Agile ceremonies (daily stand-ups, sprint planning, retrospectives, etc.)</li>\r\n\t<li>Review code for quality, scalability, and performance</li>\r\n\t<li>Ensure alignment with best practices and security standards</li>\r\n</ul>\r\n\r\n<hr />\r\n<h3><strong>Required Skills &amp; Experience:</strong></h3>\r\n\r\n<ul>\r\n\t<li>8&ndash;10 years of professional experience in <strong>macOS and iOS development</strong></li>\r\n\t<li>Proficient in <strong>Swift</strong> and <strong>Objective-C</strong></li>\r\n\t<li>Strong hands-on experience with <strong>SwiftUI</strong> and <strong>AppKit</strong></li>\r\n\t<li>Expertise with <strong>Git</strong>, <strong>Swift Package Manager</strong>, and <strong>XCTest</strong></li>\r\n\t<li>Practical experience using <strong>Xcode Cloud</strong> for CI/CD</li>\r\n\t<li>Excellent communication and interpersonal skills</li>\r\n\t<li>Proven ability to lead and coordinate with offshore development teams</li>\r\n\t<li>Experience working in <strong>Agile environments</strong> and delivering in sprints</li>\r\n\t<li>Strong problem-solving and debugging skills</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31255357",
-    "time_scraped": 1759520745622,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31255338,
-    "title": "Java Spring Boot Developer",
+    "id": 31277592,
+    "title": "Technical Project Manager ",
     "location": "N/A",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "10/2/2025",
-      "date_posted": 1759441019000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759773765000
     },
     "start": {
       "start_dateStr": null,
@@ -119,754 +53,61 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><p data-end=\"347\" data-start=\"87\"><strong data-end=\"101\" data-start=\"87\">Job Title:</strong> Java Spring Boot Developer<br data-end=\"131\" data-start=\"128\" />\r\n<strong data-end=\"186\" data-start=\"172\">Locations:</strong> Wilmington, DE | Columbus, OH | Jersey City, NJ<br data-end=\"237\" data-start=\"234\" />\r\n<br />\r\n<strong data-end=\"369\" data-start=\"349\">Job Description:</strong><br data-end=\"372\" data-start=\"369\" />\r\nWe are looking for experienced <strong data-end=\"434\" data-start=\"403\">Java Spring Boot Developers</strong> (6&plus; years) to join Cognizant&#39;s banking client projects. Candidates must be available to join within <strong data-end=\"548\" data-start=\"535\">2&ndash;3 weeks</strong> and work <strong data-end=\"586\" data-start=\"558\">onsite at client offices</strong>.</p>\r\n\r\n<p data-end=\"613\" data-start=\"591\"><strong data-end=\"611\" data-start=\"591\">Required Skills:</strong></p>\r\n\r\n<ul data-end=\"940\" data-start=\"614\">\r\n\t<li data-end=\"679\" data-start=\"614\">\r\n\t<p data-end=\"679\" data-start=\"616\">6&ndash;12 years of hands-on experience in <strong data-end=\"677\" data-start=\"653\">Java and Spring Boot</strong></p>\r\n\t</li>\r\n\t<li data-end=\"748\" data-start=\"680\">\r\n\t<p data-end=\"748\" data-start=\"682\">Strong knowledge of <strong data-end=\"732\" data-start=\"702\">microservices architecture</strong> and REST APIs</p>\r\n\t</li>\r\n\t<li data-end=\"818\" data-start=\"749\">\r\n\t<p data-end=\"818\" data-start=\"751\">Experience in the <strong data-end=\"806\" data-start=\"769\">banking/financial services domain</strong> preferred</p>\r\n\t</li>\r\n\t<li data-end=\"880\" data-start=\"819\">\r\n\t<p data-end=\"880\" data-start=\"821\">Good problem-solving, debugging, and communication skills</p>\r\n\t</li>\r\n\t<li data-end=\"940\" data-start=\"881\">\r\n\t<p data-end=\"940\" data-start=\"883\">Must have valid <strong data-end=\"920\" data-start=\"899\">I-94 verification</strong> before submission</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31255338",
-    "time_scraped": 1759520745621,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31249498,
-    "title": "3D Developer (Realtime Rendering & Graphics)",
-    "location": "None, Greater Toronto Area",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759354105000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p data-end=\"198\" data-start=\"77\"><strong data-end=\"91\" data-start=\"77\">Job Title:</strong> 3D Developer (Realtime Rendering &amp; Graphics)<br data-end=\"139\" data-start=\"136\" />\r\n<strong data-end=\"182\" data-start=\"169\">Location:</strong> Sunnyvale, CA</p>\r\n\r\n<p data-end=\"618\" data-start=\"200\"><strong data-end=\"220\" data-start=\"200\">Job Description:</strong><br data-end=\"223\" data-start=\"220\" />\r\nWe are seeking a skilled <strong data-end=\"264\" data-start=\"248\">3D Developer</strong> with expertise in <strong data-end=\"330\" data-start=\"283\">realtime rendering and graphics engineering</strong>. The ideal candidate will have strong experience in <strong data-end=\"390\" data-start=\"383\">C&plus;&plus;</strong>, modern rendering techniques, and graphics APIs. You will be responsible for building performant 3D applications, optimizing rendering pipelines, and collaborating with cross-functional teams to deliver high-quality features.</p>\r\n\r\n<p data-end=\"637\" data-start=\"620\"><strong data-end=\"635\" data-start=\"620\">Key Skills:</strong></p>\r\n\r\n<ul data-end=\"1145\" data-start=\"638\">\r\n\t<li data-end=\"706\" data-start=\"638\">\r\n\t<p data-end=\"706\" data-start=\"640\">5&plus; years of experience in <strong data-end=\"704\" data-start=\"666\">3D realtime rendering applications</strong></p>\r\n\t</li>\r\n\t<li data-end=\"768\" data-start=\"707\">\r\n\t<p data-end=\"768\" data-start=\"709\">Strong <strong data-end=\"735\" data-start=\"716\">C&plus;&plus; development</strong> skills (safe, performant code)</p>\r\n\t</li>\r\n\t<li data-end=\"851\" data-start=\"769\">\r\n\t<p data-end=\"851\" data-start=\"771\">Knowledge of <strong data-end=\"849\" data-start=\"784\">graphics pipeline, image processing, and rendering techniques</strong></p>\r\n\t</li>\r\n\t<li data-end=\"958\" data-start=\"852\">\r\n\t<p data-end=\"958\" data-start=\"854\">Hands-on with <strong data-end=\"906\" data-start=\"868\">Metal, Vulkan, Direct3D 12, WebGPU</strong> and shading languages (<strong data-end=\"955\" data-start=\"930\">HLSL, GLSL, MSL, WGSL</strong>)</p>\r\n\t</li>\r\n\t<li data-end=\"1018\" data-start=\"959\">\r\n\t<p data-end=\"1018\" data-start=\"961\">Strong understanding of <strong data-end=\"1016\" data-start=\"985\">3D geometry, linear algebra</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1088\" data-start=\"1019\">\r\n\t<p data-end=\"1088\" data-start=\"1021\">Experience across the full <strong data-end=\"1086\" data-start=\"1048\">SDLC &ndash; prototyping to optimization</strong></p>\r\n\t</li>\r\n\t<li data-end=\"1145\" data-start=\"1089\">\r\n\t<p data-end=\"1145\" data-start=\"1091\">Excellent <strong data-end=\"1143\" data-start=\"1101\">debugging, teamwork, and communication</strong></p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31249498",
-    "time_scraped": 1759520745511,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31248490,
-    "title": "Change Manager",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759347476000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p data-end=\"223\" data-start=\"76\"><strong data-end=\"90\" data-start=\"76\">Job Title:</strong> Change Manager (Mid&ndash;Senior Level)<br data-end=\"127\" data-start=\"124\" />\r\n<strong data-end=\"140\" data-start=\"127\">Location:</strong> Remote (EST or PST hours)<br data-end=\"169\" data-start=\"166\" />\r\n </p>\r\n\r\n<p data-end=\"631\" data-start=\"225\"><strong data-end=\"245\" data-start=\"225\">Job Description:</strong><br data-end=\"248\" data-start=\"245\" />\r\nWe are seeking an experienced <strong data-end=\"296\" data-start=\"278\">Change Manager</strong> with strong expertise in <strong data-end=\"336\" data-start=\"322\">ServiceNow</strong> (implementation preferred), <strong data-end=\"407\" data-start=\"365\">Organizational Change Management (OCM)</strong>, and <strong data-end=\"448\" data-start=\"413\">enterprise application adoption</strong>. The role requires hands-on <strong data-end=\"499\" data-start=\"477\">project management</strong> (driving projects, not just tracking), excellent communication, and the ability to partner across teams in a biotech environment.</p>\r\n\r\n<p data-end=\"650\" data-start=\"633\"><strong data-end=\"648\" data-start=\"633\">Key Skills:</strong></p>\r\n\r\n<ul data-end=\"978\" data-start=\"651\">\r\n\t<li data-end=\"715\" data-start=\"651\">\r\n\t<p data-end=\"715\" data-start=\"653\"><strong data-end=\"667\" data-start=\"653\">ServiceNow</strong> (implementation or strong working experience)</p>\r\n\t</li>\r\n\t<li data-end=\"763\" data-start=\"716\">\r\n\t<p data-end=\"763\" data-start=\"718\"><strong data-end=\"725\" data-start=\"718\">OCM</strong> with enterprise adoption experience</p>\r\n\t</li>\r\n\t<li data-end=\"801\" data-start=\"764\">\r\n\t<p data-end=\"801\" data-start=\"766\"><strong data-end=\"788\" data-start=\"766\">Project Management</strong> leadership</p>\r\n\t</li>\r\n\t<li data-end=\"866\" data-start=\"802\">\r\n\t<p data-end=\"866\" data-start=\"804\">Strong <strong data-end=\"830\" data-start=\"811\">MS365 expertise</strong> (including AI tools like Copilot)</p>\r\n\t</li>\r\n\t<li data-end=\"978\" data-start=\"867\">\r\n\t<p data-end=\"978\" data-start=\"869\">Advanced <strong data-end=\"894\" data-start=\"878\">Excel skills</strong> (Vlookup/Xlookup, Pivot Tables, Charts, Boolean logic, queries for Copilot/MyGPT)</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31248490",
-    "time_scraped": 1759520751382,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31245743,
-    "title": "DevOps SME (Guild/COE)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "10/1/2025",
-      "date_posted": 1759333496000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p data-end=\"253\" data-start=\"105\"><strong data-end=\"119\" data-start=\"105\">Job Title:</strong> DevOps SME (Guild/COE)<br data-end=\"145\" data-start=\"142\" />\r\n<strong data-end=\"178\" data-start=\"165\">Location:</strong> Culver City, CA<br />\r\n<br data-end=\"197\" data-start=\"194\" />\r\n<strong data-end=\"275\" data-start=\"255\">Job Description:</strong><br data-end=\"278\" data-start=\"275\" />\r\nWe are seeking a highly experienced <strong data-end=\"340\" data-start=\"314\">DevOps SME (15&plus; years)</strong> with strong expertise in <strong data-end=\"423\" data-start=\"366\">multi-cloud environments (AWS, GCP, Apple Cloud Tech)</strong> and <strong data-end=\"454\" data-start=\"428\">Infrastructure as Code</strong>. The candidate must have deep hands-on skills in <strong data-end=\"534\" data-start=\"504\">Terraform, Pulumi, AWS-CDK</strong>, scripting (Python), containerization (<strong data-end=\"602\" data-start=\"574\">Docker, Kubernetes, Helm</strong>), and CI/CD automation.</p>\r\n\r\n<p data-end=\"647\" data-start=\"630\"><strong data-end=\"645\" data-start=\"630\">Key Skills:</strong></p>\r\n\r\n<ul data-end=\"1103\" data-start=\"648\">\r\n\t<li data-end=\"698\" data-start=\"648\">\r\n\t<p data-end=\"698\" data-start=\"650\">Multi-cloud expertise (AWS, GCP, hybrid cloud)</p>\r\n\t</li>\r\n\t<li data-end=\"746\" data-start=\"699\">\r\n\t<p data-end=\"746\" data-start=\"701\">Strong scripting &amp; automation (Python, IaC)</p>\r\n\t</li>\r\n\t<li data-end=\"813\" data-start=\"747\">\r\n\t<p data-end=\"813\" data-start=\"749\">Proficiency in <strong data-end=\"811\" data-start=\"764\">Terraform, Pulumi, Helm, Docker, Kubernetes</strong></p>\r\n\t</li>\r\n\t<li data-end=\"873\" data-start=\"814\">\r\n\t<p data-end=\"873\" data-start=\"816\">Database experience (RDS, DynamoDB, Aurora, SQL tuning)</p>\r\n\t</li>\r\n\t<li data-end=\"917\" data-start=\"874\">\r\n\t<p data-end=\"917\" data-start=\"876\">API integration &amp; reusable CICD modules</p>\r\n\t</li>\r\n\t<li data-end=\"981\" data-start=\"918\">\r\n\t<p data-end=\"981\" data-start=\"920\">Observability, incident management, security best practices</p>\r\n\t</li>\r\n\t<li data-end=\"1038\" data-start=\"982\">\r\n\t<p data-end=\"1038\" data-start=\"984\">Networking fundamentals (DNS, VPNs, VPCs, firewalls)</p>\r\n\t</li>\r\n\t<li data-end=\"1103\" data-start=\"1039\">\r\n\t<p data-end=\"1103\" data-start=\"1041\">Leadership, mentoring, and collaboration with offshore teams</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"1200\" data-start=\"1105\"><strong data-end=\"1119\" data-start=\"1105\">Preferred:</strong> Ex-Apple profiles with experience in large-scale, enterprise DevOps solutions.</p>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31245743",
-    "time_scraped": 1759520751435,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31241986,
-    "title": "jBPM Developer",
-    "location": "None, Greater Toronto Area",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759267983000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><strong>Job Title: jBPM Developer</strong><br />\r\n<strong>📍</strong><strong> Location: Dallas, TX (Richardson Office &ndash; Onsite)</strong></p>\r\n\r\n<p><strong>About the Role</strong><br />\r\n<strong>Infosys is seeking hands-on jBPM Developers with strong expertise in building workflow automation and business process management solutions. The ideal candidate will have deep experience in jBPM framework, workflow orchestration, and integration with enterprise applications.</strong></p>\r\n\r\n<hr />\r\n<p><strong>Key Responsibilities</strong></p>\r\n\r\n<ul>\r\n\t<li>Design, develop, and implement business process workflows using jBPM.</li>\r\n\t<li>Customize jBPM process definitions, rules, and decision tables to meet business requirements.</li>\r\n\t<li>Integrate jBPM with Java-based applications, REST/SOAP APIs, and enterprise systems.</li>\r\n\t<li>Work with cross-functional teams to gather requirements and translate them into BPM solutions.</li>\r\n\t<li>Troubleshoot, optimize, and maintain existing jBPM workflows and deployments.</li>\r\n\t<li>Ensure solutions follow best practices, coding standards, and performance guidelines.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p><strong>Required Skills &amp; Qualifications</strong></p>\r\n\r\n<ul>\r\n\t<li>3&ndash;7 years of experience as a jBPM Developer.</li>\r\n\t<li>Strong hands-on experience with jBPM process design, implementation, and deployment.</li>\r\n\t<li>Proficiency in Java / J2EE, Spring Boot, Hibernate.</li>\r\n\t<li>Experience with REST/SOAP APIs, JSON, XML integrations.</li>\r\n\t<li>Knowledge of BPMN 2.0 standards, decision tables, and workflow automation.</li>\r\n\t<li>Familiarity with DevOps, CI/CD pipelines, Git.</li>\r\n\t<li>Excellent problem-solving and communication skills.</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31241986",
-    "time_scraped": 1759520751471,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31241966,
-    "title": "Business Analyst – API Integration (Healthcare)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759267829000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p data-end=\"286\" data-start=\"85\"><strong data-end=\"99\" data-start=\"85\">Job Title:</strong> Business Analyst &ndash; API Integration (Healthcare)<br data-end=\"150\" data-start=\"147\" />\r\n<strong data-end=\"161\" data-start=\"150\">Client:</strong> Tech Mahindra<br data-end=\"178\" data-start=\"175\" />\r\n<strong data-end=\"192\" data-start=\"178\">Locations:</strong> MA, CT, AZ, IL<br data-end=\"210\" data-start=\"207\" />\r\n<br />\r\n<strong data-end=\"308\" data-start=\"288\">Job Description:</strong><br data-end=\"311\" data-start=\"308\" />\r\nWe are looking for an experienced <strong data-end=\"365\" data-start=\"345\">Business Analyst</strong> with strong expertise in <strong data-end=\"437\" data-start=\"391\">API Integration and IBM API Connect (APIC)</strong> for a healthcare domain project.</p>\r\n\r\n<p data-end=\"501\" data-start=\"474\"><strong data-end=\"499\" data-start=\"474\">Key Responsibilities:</strong></p>\r\n\r\n<ul data-end=\"810\" data-start=\"502\">\r\n\t<li data-end=\"578\" data-start=\"502\">\r\n\t<p data-end=\"578\" data-start=\"504\">Work on <strong data-end=\"576\" data-start=\"512\">middleware applications (AEI: Healthcare Enterprise Integrations)</strong></p>\r\n\t</li>\r\n\t<li data-end=\"638\" data-start=\"579\">\r\n\t<p data-end=\"638\" data-start=\"581\">Perform <strong data-end=\"605\" data-start=\"589\">data mapping</strong> and API integration activities</p>\r\n\t</li>\r\n\t<li data-end=\"736\" data-start=\"639\">\r\n\t<p data-end=\"736\" data-start=\"641\">Collaborate with technical and business stakeholders to ensure seamless integration solutions</p>\r\n\t</li>\r\n\t<li data-end=\"810\" data-start=\"737\">\r\n\t<p data-end=\"810\" data-start=\"739\">Leverage healthcare domain expertise to support business requirements</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"834\" data-start=\"812\"><strong data-end=\"832\" data-start=\"812\">Required Skills:</strong></p>\r\n\r\n<ul data-end=\"1076\" data-start=\"835\">\r\n\t<li data-end=\"906\" data-start=\"835\">\r\n\t<p data-end=\"906\" data-start=\"837\">Strong experience in <strong data-end=\"904\" data-start=\"858\">API Integration and IBM API Connect (APIC)</strong></p>\r\n\t</li>\r\n\t<li data-end=\"977\" data-start=\"907\">\r\n\t<p data-end=\"977\" data-start=\"909\">Solid understanding of <strong data-end=\"948\" data-start=\"932\">data mapping</strong> in middleware environments</p>\r\n\t</li>\r\n\t<li data-end=\"1029\" data-start=\"978\">\r\n\t<p data-end=\"1029\" data-start=\"980\">Background in <strong data-end=\"1015\" data-start=\"994\">Healthcare domain</strong> (mandatory)</p>\r\n\t</li>\r\n\t<li data-end=\"1076\" data-start=\"1030\">\r\n\t<p data-end=\"1076\" data-start=\"1032\">Strong analytical and communication skills</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31241966",
-    "time_scraped": 1759520751506,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31241748,
-    "title": "Java Lead",
-    "location": "NY, New york",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759266100000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Java lead.<br />\r\nLocation - NY- Onsite<br />\r\nDuration - 6&plus; months<br />\r\nSkills - Java Lead must be able to handle 15&plus; offshore member team,  has to be strong in Java, Springboot, Kafka, Micro services and AWS.<br>",
-    "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31241748",
-    "time_scraped": 1759520751441,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31241236,
-    "title": "Requirement details for Raghavendra Samant (Cognizant)",
-    "location": "Karnataka, Bengaluru, Karnataka",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/30/2025",
-      "date_posted": 1759263078000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Please find below the requirement details received from Raghavendra Samant (Cognizant):\r\n<div> </div>\r\n\r\n<div>Manager Details</div>\r\n\r\n<div> </div>\r\n\r\n<div>Name: Raghavendra Samant</div>\r\n\r\n<div> </div>\r\n\r\n<div>Email: raghavendra.samant@cognizant.com</div>\r\n\r\n<div> </div>\r\n\r\n<div>Company: Cognizant</div>\r\n\r\n<div> </div>\r\n\r\n<div> </div>\r\n\r\n<div>Kindly also tag raja.fernando@cognizant.com and sriwari.r@cognizant.com while sharing the profiles.</div>\r\n\r\n<div> </div>\r\n\r\n<div>Requirement Summary</div>\r\n\r\n<div> </div>\r\n\r\n<div> </div>\r\n\r\n<div>Skillset: Sterling OMS with strong Java</div>\r\n\r\n<div> </div>\r\n\r\n<div>Location: Work from Office &ndash; Noida</div>\r\n\r\n<div> </div>\r\n\r\n<div>Relocation: Can relocate to Noida within 2&ndash;3 months is acceptable</div>\r\n\r\n<div> </div>\r\n\r\n<div> </div>\r\n\r\n<div> </div>\r\n\r\n<div> </div>\r\n\r\n<div>Thanks and Regards,</div>\r\n\r\n<div>Ayush Kumar</div>\r\n\r\n<div>Business Development Executive</div>\r\n\r\n<div>Info Way Solutions LLC | 46520 Fremont Blvd, Suite 614 | Fremont, CA &ndash; 94538</div>\r\n\r\n<div>Phone- 925 835 2139</div>\r\n\r\n<div>Mail- ayush.k@infowaygroup.com</div>\r\n\r\n<div>Website- www.infowaygroup.com<br />\r\n <br />\r\n<br />\r\n </div>\r\n<br>",
-    "recruiter": [
-      "Ayush Kumar Infoway",
-      "ayush.k@infowaygroup.com",
-      "9258352139"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31241236",
-    "time_scraped": 1759520757652,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31233943,
-    "title": "US-PT",
-    "location": "None, Bothell",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759183757000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p>Job Posting submitted [Job Posting ID: PHIAJP00002631, Job Posting Title: US-PT]</p>\r\n\r\n<p>Pay rate: $50 to $55</p>\r\n\r\n<p>Bill rate: $80.00</p>\r\nDescription:<br />\r\nSupplier Engineer ECR,Job Responsibilities: Evaluates potential new suppliers through technical capability assessments, ensuring they meet the company&#39;s rigorous standards and can deliver high-quality components and assists in the supplier selection. Executes DFMAT (Design for Manufacturing and Assembly Technique), SAF (Supplier Approval Form), MSA (Measurement System Analysis), PFMEA (Process Failure Mode and Effects Analysis), Control Plan, SPC (Statistical Process Control), PV&amp;V (Process Validation and Verification), FAI (First Article Inspection), LRA (Logistics Risk Assessment), and SICR (Supplier Initiated Change Request). Executes, monitors, and controls APQP (Advanced Product Quality Planning) processes during NPI projects to maintain consistent quality and adherence to project timelines. Ensures Critical to Quality (CtQ) characteristics are clearly communicated to suppliers and rigorously maintained throughout the production process, securing consistent product quality. Executes Part Submission Warrant plans, deliverables, line releases, and completion, ensuring that all parts meet specified quality standards before they are approved for use. Supports supplier improvement and development on APQP, providing guidance and resources to help suppliers enhance their quality processes and achieve compliance. Manage supplier non-conformities by working with operations team. Communicate non-conformities with suppliers, raise notification and/or SCARs. Drive root cause investigation at suppliers to prevent recurrence of the issue.<br />\r\nMinimum required Education: Bachelor&#39;s Degree in Engineering Science, Supply Chain Management, Electrical Engineering, Electronic Engineering or equivalent. Minimum required Experience: 3 years of experience in Quality Engineering, Supplier Quality, Process Engineering, Continuous Improvement Techniques. Preferred Skills: Supplier Quality Management Quality Management Procedures and Methodologies Supplier Evaluation Methodologies Data Analysis &amp; Interpretation DfX Methodology Supply Chain Management (SCM) Quality Specifications CAPA Methodologies Statistical Process Control (SPC) Measurement Systems Analysis (MSA) Process Validation and Verification (PV&amp;V) First Article Inspections Documentation &amp; Reporting Continuous Improvement Problem Solving<br>",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "6026983321"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31233943",
-    "time_scraped": 1759520757653,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231197,
-    "title": "requirement details received from Sachin Joshi (Infosys)",
-    "location": "None, Greater Toronto Area",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759171232000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Please find below the requirement details received from <b>Sachin Joshi (Infosys):</b><br />\r\n<b>Manager Details:</b>\r\n<ul data-end=\"342\" data-start=\"238\">\r\n\t<li><b>Name:</b> Sachin Joshi</li>\r\n\t<li><b>Mobile:</b> &plus;61 (0) 406 566 590</li>\r\n\t<li><b>Email:</b> Sachin_Joshi04@infosys.com</li>\r\n</ul>\r\nAlso Tag<b> ManishK_Pandey@infosys.com</b> while sharing the profiles.<br />\r\n<b>Requirement Summary:</b>\r\n\r\n<ul data-end=\"610\" data-start=\"371\">\r\n\t<li>Please find some of the JDs for profiles required in <b>India</b>.</li>\r\n\t<li>They are across <b>different clients</b>.</li>\r\n\t<li>The name of the <b>end client</b> will be shared once the panel evaluates the profiles.</li>\r\n</ul>\r\n<br />\r\n<br />\r\n<br />\r\n<b>Thanks and Regards,</b><br />\r\n<b>Ayush Kumar</b><br />\r\n<b>Business Development Executive</b><br />\r\n<b>Info Way Solutions LLC </b>| 46520 Fremont Blvd, Suite 614 | Fremont, CA &ndash; 94538<br />\r\n<b>Phone- 925 835 2139</b><br />\r\n<b>Mail- </b><a data-linkindex=\"0\" href=\"mailto:ayush.k@infowaygroup.com\" id=\"OWAf8b9cc98-a554-a1ef-092f-b55eb5767b84\" title=\"mailto:ayush.k@infowaygroup.com\">ayush.k@infowaygroup.com</a><br />\r\n<b>Website-</b><b> </b><a data-auth=\"NotApplicable\" data-linkindex=\"1\" href=\"http://www.infowaygroup.com/\" id=\"OWA52c100c8-9fb2-503c-79c3-b9ad370b6343\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"http://www.infowaygroup.com\">www.infowaygroup.com</a><br>",
-    "recruiter": [
-      "Ayush Kumar Infoway",
-      "ayush.k@infowaygroup.com",
-      "9258352139"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31231197",
-    "time_scraped": 1759520757672,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231055,
-    "title": "requirement details received from Gautam Kanal(HCL Tech)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759170718000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Please find below the requirement details received from Gautam Kanal(HCL Tech):<br /> \r\n<br /> \r\n<br /> \r\n<b> Manager Details:</b> \r\n<ul> \r\n\t<li data-end=\"123\" data-start=\"97\"> <b> Name:</b>  Gautam Kanal</li> \r\n\t<li data-end=\"185\" data-start=\"124\"> North America, Digital Business Services</li> \r\n\t<li data-end=\"242\" data-start=\"186\"> <b> Email:</b>  kanal.g@hcltech.com</li> \r\n\t<li data-end=\"302\" data-start=\"278\"> <b> Company:</b>  HCLTech</li> \r\n\t<li data-end=\"334\" data-start=\"303\"> <b> Mobile:</b>  &plus;1 469-971-8684</li> \r\n</ul> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<b> Requirement Summary:</b> \r\n\r\n<p> Do you have any <b> Cloud Architects </b> available in <b> Atlanta or someone who is willing to relocate?</b> </p> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<p> <b> Key Responsibilities:</b> <br /> \r\n· Architect Cloud Solutions: Design scalable, secure, and repeatable cloud architectures aligned with business goals and M&A strategies.<br /> \r\n· Lead Technical Assessments: Identify gaps, define target states, and develop roadmaps for cloud transformation.<br /> \r\n· Drive Integration: Extend enterprise capabilities to acquired companies, including operating model alignment and deployment strategies.<br /> \r\n· Modernize Infrastructure: Champion cloud-native technologies, Infrastructure as Code (IaC), CI/CD pipelines, and automation.<br /> \r\n· Collaborate Across Teams: Work closely with Development, Product, and Infrastructure teams to ensure seamless cloud adoption.<br /> \r\n· Optimize & Automate: Evaluate and streamline processes, handoffs, and workflows using automation and modern tooling.<br /> \r\n· Influence Strategy: Provide thought leadership on cloud governance, architecture best practices, and customer satisfaction.<br /> \r\nQualifications:<br /> \r\n· Education: Bachelor's in Computer Science or related field (or equivalent experience)<br /> \r\n· Cloud Expertise: 4&plus; years in AWS, Azure, or Google Cloud environments<br /> \r\n· DevOps & Automation: Hands-on experience with tools like Jenkins, GitHub, Octopus Deploy, Salt, or Fabric<br /> \r\n· Networking Know-How: Solid understanding of TCP/IP, DNS, firewalls, load balancing, SDWAN, and routing<br /> \r\n· Resilience Engineering: Experience designing High Availability and Disaster Recovery (HA/DR) solutions, including multi-region active/active setups<br /> \r\n· M&A Experience: Proven ability to work with acquired companies and align them with enterprise cloud strategies<br /> \r\n· Soft Skills: Strong communication, leadership, and stakeholder management skills<br /> \r\nAdditional Qualifications a Plus:<br /> \r\n· Experience in regulated industries (e.g., financial services)<br /> \r\n· Familiarity with Well-Architected Frameworks and multi-tenant architecture<br /> \r\n· Passion for learning and staying ahead of cloud trends</p> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<b> Thanks and Regards,</b> <br /> \r\n<b> Ayush Kumar</b> <br /> \r\n<b> Business Development Executive</b> <br /> \r\n<b> Info Way Solutions LLC </b> | 46520 Fremont Blvd, Suite 614 | Fremont, CA – 94538<br /> \r\n<b> Phone- 925 835 2139</b> <br /> \r\n<b> Mail- </b> <a data-linkindex=\"0\" href=\"mailto:ayush.k@infowaygroup.com\" id=\"OWAe608fd76-f86a-7088-5d98-3bfdfb0591e3\" title=\"mailto:ayush.k@infowaygroup.com\"> ayush.k@infowaygroup.com</a> <br /> \r\n<b> Website-</b> <b>  </b> <a data-auth=\"NotApplicable\" data-linkindex=\"1\" href=\"http://www.infowaygroup.com/\" id=\"OWAa1a5d7ab-96ef-e7ca-961b-18c5a4dd95d7\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"http://www.infowaygroup.com\"> www.infowaygroup.com</a> <br>",
-    "recruiter": [
-      "Ayush Kumar Infoway",
-      "ayush.k@infowaygroup.com",
-      "9258352139"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31231055",
-    "time_scraped": 1759520757639,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31231013,
-    "title": "requirement details received from Dr Venkatesh(Cognizant)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759170619000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Please find below the requirement details received from Dr Venkatesh(Cognizant):<br /> \r\n<br /> \r\n<br /> \r\nManager Details:<br /> \r\n<br /> \r\nName: Dr Venkatesh upadrista<br /> \r\nEmail: drvenkatesh.upadrista@cognizant.com<br /> \r\n<br /> \r\n<br /> \r\nRequirement Summary:<br /> \r\n<br /> \r\nWe require domain expertise / business analyst with the following skills. Attached JD.<br /> \r\n<br /> \r\nDomain Knowledge – P&C Insurance including Underwriting, Policy admin, Claims management, Billing & Payments.<br /> \r\nStrong requirement Gathering experience – document the as-is business requirements and define the to-be processes. Prepare comprehensive process documents for L1 and L2 functions<br /> \r\nGood to have AI/ML knowledge as business processes need to be reimagined using AI<br /> \r\n <br /> \r\n<br /> \r\nPlease share your expectations on the rate card and we will evaluate. Location is PAN India.<br /> \r\n<br /> \r\n <br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<b> Thanks and Regards,</b> <br /> \r\n<b> Ayush Kumar</b> <br /> \r\n<b> Business Development Executive</b> <br /> \r\n<b> Info Way Solutions LLC | 46520 Fremont Blvd, Suite 614 | Fremont, CA – 94538</b> <br /> \r\n<b> Phone- 925 835 2139</b> <br /> \r\n<b> Mail- ayush.k@infowaygroup.com</b> <br /> \r\n<b> Website- www.infowaygroup.com</b> <br>",
-    "recruiter": [
-      "Ayush Kumar Infoway",
-      "ayush.k@infowaygroup.com",
-      "9258352139"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31231013",
-    "time_scraped": 1759520757687,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31230581,
-    "title": "requirement details received from Amith Venugopal (Cognizant)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759168048000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Please find below the requirement details received from Amith Venugopal (Cognizant):<br /> \r\n<br /> \r\n<br /> \r\n<b> Manager Details:</b> <br /> \r\n<br /> \r\nName: Amith Venugopal<br /> \r\nEmail: <b> amith.venugopal@cognizant.com</b> <br /> \r\n<br /> \r\nPlease ensure to keep<br /> \r\n<b> andre.silva@cognizant.com</b>  and <b> anand.palaniappan@cognizant.com</b>  in the loop while sharing the profiles.<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<b> Requirement Summary:</b> <br /> \r\n<br /> \r\nPlease find the details of 4 open positions<br /> \r\n<br /> \r\n <br /> \r\n<br /> \r\nOpen position - 1<br /> \r\n<br /> \r\nNiagara SME<br /> \r\n<br /> \r\nLocation: Seattle, Washington<br /> \r\n<br /> \r\nRate: 70USD<br /> \r\n<br /> \r\n <br /> \r\n<br /> \r\nOpen positions - 3<br /> \r\n<br /> \r\nNiagara SME – New construction or Retrofit[Mechanical engineering mandatory]<br /> \r\n<br /> \r\nLocation: Remote with 3 to 5 days travel.<br /> \r\n<br /> \r\nRate: 70USD<br /> \r\n<br /> \r\n <br /> \r\n<br /> \r\nJob description:<br /> \r\n<br /> \r\nRole Overview:<br /> \r\n<br /> \r\nAs a Niagara SME for New Construction, you will lead the design, implementation, and commissioning of Niagara-based building automation systems (Client) for Amazon's new fulfillment centers and robotics facilities. You will collaborate with internal engineering teams, external contractors, and technology vendors to ensure systems are scalable, secure, and aligned with Amazon's operational standards.<br /> \r\n<br /> \r\nKey Responsibilities:<br /> \r\n<br /> \r\nServe as the subject matter expert for Niagara Framework in new construction projects.<br /> \r\nOversee Client design, integration, and commissioning for new facilities.<br /> \r\nCollaborate with cross-functional teams including construction, operations, and IT.<br /> \r\nEnsure compliance with Amazon's standards for energy efficiency, cybersecurity, and scalability.<br /> \r\nProvide technical guidance and documentation for system architecture and controls.<br /> \r\nQualifications:<br /> \r\n<br /> \r\n5&plus; years of experience with Niagara Framework and building automation systems.<br /> \r\nMechanical Engineering background is mandatory<br /> \r\nExperience in large-scale industrial or commercial construction projects.<br /> \r\nStrong understanding of HVAC, electrical systems, and controls integration.<br /> \r\nExcellent communication and project management skills.<br /> \r\n <br /> \r\n<br /> \r\n<b> Thanks and Regards,</b> <br /> \r\n<b> Ayush Kumar</b> <br /> \r\n<b> Business Development Executive</b> <br /> \r\n<b> Info Way Solutions LLC | 46520 Fremont Blvd, Suite 614 | Fremont, CA – 94538</b> <br /> \r\n<b> Phone- 925 835 2139</b> <br /> \r\n<b> Mail- ayush.k@infowaygroup.com</b> <br /> \r\n<b> Website- www.infowaygroup.com</b> <br>",
-    "recruiter": [
-      "Ayush Kumar Infoway",
-      "ayush.k@infowaygroup.com",
-      "9258352139"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31230581",
-    "time_scraped": 1759520763640,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31230509,
-    "title": " requirement details received from Praveen Kumar(Cognizant)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759167764000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Please find below the requirement details received from Praveen Kumar(Cognizant):<br />\r\n<br />\r\n<b>Manager Details</b>:<br />\r\n<br />\r\nName: Praveen Kumar Manjunath<br />\r\nDesignation: ISG Operations Lead | North America<br />\r\nOrganization: Cognizant Technology Solutions<br />\r\nMobile:&plus;1 416-671-0951<br />\r\nEmail: <b>praveenkumar.manjunath@cognizant.com</b><br />\r\n<br />\r\n<br />\r\n<b>Requirement Details:</b><br />\r\n<br />\r\n<b>This is urgent need. Please share suitable candidates. This is a remote role, but candidate should be fine to travel with own expense as an when needed.</b><br />\r\n<br />\r\nSame skills - .Net &plus; GCP (Mandatory)&plus; Microservices, Pay Rate All inclusive- $90, Location - Issaquah / Remote US. <br />\r\n<br />\r\n<b> Job Summary:</b><br />\r\n<br />\r\nWe are seeking a highly experienced and motivated .NET Architect with deep expertise in microservices architecture. The ideal candidate will be responsible for designing, developing, and overseeing the implementation of scalable, secure, and high-performing applications using the Microsoft technology stack along with GCP Infrastructure.<br />\r\n<br />\r\n<br />\r\n<b>Key Responsibilities:</b><br />\r\n<br />\r\n<b> </b><br />\r\n<br />\r\nDesign and define scalable architecture using .NET Core/.NET 6&plus;, C#, and microservices patterns.<br />\r\n<br />\r\nDevelop strategies for application modernization and cloud migration<br />\r\n<br />\r\nProvide technical leadership and mentoring to development teams.<br />\r\n<br />\r\nCollaborate with stakeholders to understand business requirements and translate them into technical designs.<br />\r\n<br />\r\nEnsure best practices in API design, containerization, DevOps, and security.<br />\r\n<br />\r\nLead code reviews, enforce coding standards, and drive software quality.<br />\r\n<br />\r\nEvaluate new technologies and tools to continuously improve platform performance and developer efficiency. <br />\r\n<br />\r\n<b> </b><br />\r\n<br />\r\n<b>Technical Skills Required:</b><br />\r\n<br />\r\nExpert in .NET Core/.NET 6&plus;, C#, ASP.NET Core.<br />\r\n<br />\r\nStrong understanding of microservices architecture and distributed systems.<br />\r\n<br />\r\nExperience with containerization (Docker, Kubernetes).<br />\r\n<br />\r\nProficient in RESTful API design and development.<br />\r\n<br />\r\nDeep knowledge of SQL and NoSQL databases (e.g., SQL Server, MongoDB, Redis, Spanner ).<br />\r\n<br />\r\nExperience with messaging systems <br />\r\n<br />\r\nCloud experience (preferably GCP).<br />\r\n<br />\r\nStrong understanding of design patterns, SOLID principles, and domain-driven design (DDD)<b>. </b><br />\r\n<br />\r\n<b> </b><br />\r\n<br />\r\n<b>Preferred Qualifications:</b><br />\r\n<br />\r\n <br />\r\nExperience in agile/scrum methodologies.<br />\r\n<br />\r\nExcellent problem-solving and communication skills.<br />\r\n<br />\r\n<br />\r\n<b>Thanks and Regards,</b><br />\r\n<b>Ayush Kumar</b><br />\r\n<b>Business Development Executive</b><br />\r\n<b>Info Way Solutions LLC | 46520 Fremont Blvd, Suite 614 | Fremont, CA &ndash; 94538</b><br />\r\n<b>Phone- 925 835 2139</b><br />\r\n<b>Mail- ayush.k@infowaygroup.com</b><br />\r\n<b>Website- www.infowaygroup.com</b><br>",
-    "recruiter": [
-      "Ayush Kumar Infoway",
-      "ayush.k@infowaygroup.com",
-      "9258352139"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31230509",
-    "time_scraped": 1759520763501,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31230402,
-    "title": "Requirement Details received from Suresh Kumar (Infosys)",
-    "location": "None, bangalore",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/29/2025",
-      "date_posted": 1759167497000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Please find below the requirement details received from <b>Suresh Kumar (Infosys):</b><br />\r\n<b>Manager Details:</b>\r\n<ul data-end=\"345\" data-start=\"277\">\r\n\t<li><b>Name:</b> Suresh Kumar</li>\r\n\t<li><b>Email:</b> SureshKumar_MS@infosys.com</li>\r\n</ul>\r\n\r\n<hr /><b>Requirement Summary</b>\r\n\r\n<ul data-end=\"512\" data-start=\"382\">\r\n\t<li><b>Skill:</b> Mainframe</li>\r\n\t<li><b>Experience:</b> 4&plus; years</li>\r\n\t<li><b>Location:</b> Bangalore, India</li>\r\n\t<li><b>Pay Rate:</b> As per market standards</li>\r\n</ul>\r\n<br />\r\n<br />\r\n<b>Thanks and Regards,</b><br />\r\n<b>Ayush Kumar</b><br />\r\n<b>Business Development Executive</b><br />\r\n<b>Info Way Solutions LLC </b>| 46520 Fremont Blvd, Suite 614 | Fremont, CA &ndash; 94538<br />\r\n<b>Phone- 925 835 2139</b><br />\r\n<b>Mail- </b><a data-linkindex=\"0\" href=\"mailto:ayush.k@infowaygroup.com\" id=\"OWAb82f00e6-e530-6714-4810-471c63083d0b\" title=\"mailto:ayush.k@infowaygroup.com\">ayush.k@infowaygroup.com</a><br />\r\n<b>Website-</b><b> </b><a data-auth=\"NotApplicable\" data-linkindex=\"1\" href=\"http://www.infowaygroup.com/\" id=\"OWA4a5aa0b5-23ec-71c4-792b-ef6621c246c1\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"http://www.infowaygroup.com\">www.infowaygroup.com</a><br>",
-    "recruiter": [
-      "Ayush Kumar Infoway",
-      "ayush.k@infowaygroup.com",
-      "9258352139"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31230402",
-    "time_scraped": 1759520763518,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31217908,
-    "title": "CRUSH DBA ",
-    "location": "AR, San Luis",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758928198000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><b data-olk-copy-source=\"MessageBody\">CRUSH DBA</b> <br />\r\n<b>San Luis, AR</b> <br />\r\n<br />\r\nJob Description:<br />\r\nWe are looking for a highly skilled Lead CRUSH DBA with 9&ndash;12 years of experience to join our team in San Luis. The ideal candidate will have deep expertise in database administration, performance tuning, and troubleshooting, along with strong leadership skills to guide a team and ensure smooth operations.<br />\r\n<br />\r\nKey Responsibilities:<br />\r\nManage and optimize CRUSH database environments.<br />\r\nLead database design, implementation, and migration efforts.<br />\r\nMonitor performance, ensure availability, and provide solutions for optimization.<br />\r\nWork closely with development and infrastructure teams to resolve issues.<br />\r\nMentor junior DBAs and contribute to best practices.<br />\r\n<br />\r\nRequired Skills:<br />\r\nStrong hands-on experience in CRUSH DBA administration.<br />\r\nExpertise in database performance tuning and troubleshooting.<br />\r\nExperience in leading DBA teams or taking ownership of critical projects.<br />\r\nExcellent communication and collaboration skills.<br>",
-    "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31217908",
-    "time_scraped": 1759520763542,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31215065,
-    "title": "Java Full Stack Engineer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/26/2025",
-      "date_posted": 1758902701000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2>Job Title: Java Full Stack Engineer (Intermediate / Senior / Super Senior)</h2>\r\n\r\n<p><strong>Client:</strong> [Confidential]<br />\r\n<strong>Locations:</strong> Wilmington, DE | Columbus, OH | Plano, TX | Jersey City, NJ | New York, NY<br />\r\n<strong>Duration:</strong> 6&plus; Months (Extension Likely)</p>\r\n\r\n<hr />\r\n<h3><strong>Job Description</strong></h3>\r\n\r\n<p>We are seeking <strong>Java Full Stack Engineers</strong> at multiple experience levels to join our client&#39;s dynamic engineering team. The ideal candidate will have strong expertise in <strong>Java, Python, AWS, and authentication protocols (SAML, JWT)</strong> while working in an Agile and DevOps-driven environment.</p>\r\n\r\n<hr />\r\n<h3><strong>Key Responsibilities</strong></h3>\r\n\r\n<ul>\r\n\t<li>Design, develop, and maintain full-stack applications using <strong>Java, Python, and AWS</strong>.</li>\r\n\t<li>Implement secure authentication and authorization using <strong>SAML and JWT</strong>.</li>\r\n\t<li>Collaborate with cross-functional teams to build scalable, resilient, and high-performance applications.</li>\r\n\t<li>Apply unit testing, code reviews, and CI/CD best practices to ensure high-quality code.</li>\r\n\t<li>Work with <strong>Git, DevOps pipelines, and cloud-native architectures</strong>.</li>\r\n\t<li>Troubleshoot, optimize, and enhance existing applications and services.</li>\r\n</ul>\r\n\r\n<hr />\r\n<h3><strong>Required Skills &amp; Qualifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>4&ndash;18 years of experience in software engineering (levels: Intermediate, Senior, Super Senior).</li>\r\n\t<li>Strong hands-on experience in <strong>Java, Python, and AWS</strong>.</li>\r\n\t<li>Proficiency with <strong>CI/CD, DevOps practices, Git, and unit testing</strong>.</li>\r\n\t<li>Experience with <strong>authentication protocols (SAML, JWT)</strong>.</li>\r\n\t<li>Strong problem-solving, debugging, and communication skills.</li>\r\n\t<li>Ability to work in Agile development environments.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p>✅ <strong>Multiple openings across Intermediate, Senior, and Super Senior levels.</strong><br />\r\n✅ Candidates must have recent <strong>AWS &plus; Java &plus; Python</strong> hands-on experience.</p>\r\n <br>",
+    "description": "<br><p><strong>Job Title:</strong> Technical Project Manager <br />\r\n<strong>Location:</strong> Clark County, NV (Local Candidates Only)<br />\r\n<strong>Type:</strong> Contract | Full-Time</p>\r\n\r\n<p><strong>Job Description:</strong><br />\r\nWe are seeking an experienced <strong>Technical Project Manager</strong> to oversee multiple IT initiatives across <strong>Network, Infrastructure, Radio Technology, Desktop Services, and Service Desk</strong>. The role involves managing <strong>5&ndash;15 concurrent projects</strong>, ensuring on-time and budget-conscious delivery, and collaborating with diverse stakeholders.</p>\r\n\r\n<p><strong>Key Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Lead technical projects end-to-end, from planning to closeout</li>\r\n\t<li>Manage timelines, risks, and weekly status reporting (via ServiceNow)</li>\r\n\t<li>Facilitate stakeholder meetings, change management board reviews, and cross-department coordination</li>\r\n\t<li>Develop documentation, requirements, schedules, and communications</li>\r\n\t<li>Ensure adoption of modern technologies and create change management/training materials</li>\r\n</ul>\r\n\r\n<p><strong>Requirements:</strong></p>\r\n\r\n<ul>\r\n\t<li>Must <strong>reside in Clark County, NV</strong></li>\r\n\t<li><strong>Onsite for first 8 weeks</strong> (Mon&ndash;Thu, 10-hour shifts), then hybrid (1 day onsite, 3 remote)</li>\r\n\t<li><strong>10&plus; years IT experience</strong>, with <strong>10&plus; years in Project Management</strong> of technical IT projects</li>\r\n\t<li><strong>3&plus; years local government experience</strong></li>\r\n\t<li>Bachelor&#39;s degree or equivalent</li>\r\n\t<li>Strong leadership, conflict resolution, and communication skills</li>\r\n\t<li>Ability to manage <strong>multiple concurrent projects</strong> (5&ndash;15)</li>\r\n\t<li>Familiarity with Infrastructure, Active Directory, Cloud, Disaster Recovery, and Virtual Call Center projects</li>\r\n\t<li>Must pass a <strong>criminal background check</strong></li>\r\n</ul>\r\n\r\n<p><strong>Preferred Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Balanced Matrix environment experience</li>\r\n\t<li>Strong analytical, problem-solving, and collaboration abilities</li>\r\n</ul>\r\n<br>",
     "recruiter": [
       "Adil Infoway",
       "adil.s@infowaygroup.com",
       "9255926170"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31215065",
-    "time_scraped": 1759520763558,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31277592",
+    "time_scraped": 1759930151143,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31210455,
-    "title": "Senior SnapLogic Developer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758832654000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2 data-end=\"133\" data-start=\"91\"><span style=\"font-size:10pt;\">Job Title: Senior SnapLogic Developer</span></h2>\r\n\r\n<p data-end=\"300\" data-start=\"134\"><strong data-end=\"147\" data-start=\"134\">Location:</strong> Onsite<br data-end=\"157\" data-start=\"154\" />\r\nJob Description</p>\r\n\r\n<p data-end=\"734\" data-start=\"324\">We are seeking a <strong data-end=\"371\" data-start=\"341\">Senior SnapLogic Developer</strong> with strong expertise in designing and implementing complex integrations. The ideal candidate will bring deep hands-on experience with SnapLogic, complemented by knowledge of other iPaaS platforms like MuleSoft or Workato. This role involves working with advanced SnapLogic features and integrating enterprise applications in a dynamic, high-paced environment.</p>\r\n\r\n<h3 data-end=\"762\" data-start=\"736\">Key Responsibilities</h3>\r\n\r\n<ul data-end=\"1263\" data-start=\"763\">\r\n\t<li data-end=\"887\" data-start=\"763\">\r\n\t<p data-end=\"887\" data-start=\"765\">Design, develop, and optimize SnapLogic pipelines using advanced features (Ultra Tasks, Snaplex, Error Pipelines, etc.).</p>\r\n\t</li>\r\n\t<li data-end=\"981\" data-start=\"888\">\r\n\t<p data-end=\"981\" data-start=\"890\">Integrate SnapLogic with <strong data-end=\"978\" data-start=\"915\">Workday, Salesforce, SAP, and other enterprise applications</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1048\" data-start=\"982\">\r\n\t<p data-end=\"1048\" data-start=\"984\">Automate ETL processes and enable real-time data integrations.</p>\r\n\t</li>\r\n\t<li data-end=\"1127\" data-start=\"1049\">\r\n\t<p data-end=\"1127\" data-start=\"1051\">Implement robust error handling, monitoring, and performance optimization.</p>\r\n\t</li>\r\n\t<li data-end=\"1201\" data-start=\"1128\">\r\n\t<p data-end=\"1201\" data-start=\"1130\">Collaborate with cross-functional teams and mentor junior developers.</p>\r\n\t</li>\r\n\t<li data-end=\"1263\" data-start=\"1202\">\r\n\t<p data-end=\"1263\" data-start=\"1204\">Ensure compliance with security and regulatory standards.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1286\" data-start=\"1265\">Required Skills</h3>\r\n\r\n<ul data-end=\"1687\" data-start=\"1287\">\r\n\t<li data-end=\"1369\" data-start=\"1287\">\r\n\t<p data-end=\"1369\" data-start=\"1289\">10&plus; years in integration development, with at least 4&plus; years in <strong data-end=\"1366\" data-start=\"1353\">SnapLogic</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1456\" data-start=\"1370\">\r\n\t<p data-end=\"1456\" data-start=\"1372\">Strong expertise in SnapLogic Designer, Manager, Dashboard, and advanced features.</p>\r\n\t</li>\r\n\t<li data-end=\"1542\" data-start=\"1457\">\r\n\t<p data-end=\"1542\" data-start=\"1459\">Proficiency in <strong data-end=\"1504\" data-start=\"1474\">JSON, XML, REST, SOAP APIs</strong>, and scripting (JavaScript/Python).</p>\r\n\t</li>\r\n\t<li data-end=\"1634\" data-start=\"1543\">\r\n\t<p data-end=\"1634\" data-start=\"1545\">Experience integrating enterprise apps such as <strong data-end=\"1631\" data-start=\"1592\">Workday, JIRA, Splunk, Google Suite</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1687\" data-start=\"1635\">\r\n\t<p data-end=\"1687\" data-start=\"1637\">Strong problem-solving and communication skills.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1711\" data-start=\"1689\">Preferred Skills</h3>\r\n\r\n<ul data-end=\"1885\" data-start=\"1712\">\r\n\t<li data-end=\"1770\" data-start=\"1712\">\r\n\t<p data-end=\"1770\" data-start=\"1714\">Exposure to <strong data-end=\"1748\" data-start=\"1726\">AWS, Azure, or GCP</strong> cloud integrations.</p>\r\n\t</li>\r\n\t<li data-end=\"1829\" data-start=\"1771\">\r\n\t<p data-end=\"1829\" data-start=\"1773\">Familiarity with DevOps/CI-CD practices for SnapLogic.</p>\r\n\t</li>\r\n\t<li data-end=\"1885\" data-start=\"1830\">\r\n\t<p data-end=\"1885\" data-start=\"1832\">Experience with MuleSoft or Workato (nice to have).</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31210455",
-    "time_scraped": 1759520769432,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31210444,
-    "title": " Change Management",
-    "location": "TX, austin",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758832516000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h3 data-end=\"120\" data-start=\"89\">Job Title: Change Management<br />\r\n<br />\r\n<strong data-end=\"183\" data-start=\"170\">Location</strong><strong data-end=\"183\" data-start=\"170\">:</strong> Remote (EST or PST hours)<br data-end=\"212\" data-start=\"209\" />\r\nJob Description</h3>\r\n\r\n<p data-end=\"588\" data-start=\"299\">We are seeking a <strong data-end=\"354\" data-start=\"316\">mid-to-senior level Change Manager</strong> to drive enterprise application adoption and organizational change initiatives. The ideal candidate will have strong expertise in <strong data-end=\"499\" data-start=\"485\">ServiceNow</strong>, <strong data-end=\"543\" data-start=\"501\">Organizational Change Management (OCM)</strong>, and proven project management experience.</p>\r\n\r\n<h4 data-end=\"617\" data-start=\"590\">Key Responsibilities</h4>\r\n\r\n<ul data-end=\"1047\" data-start=\"618\">\r\n\t<li data-end=\"706\" data-start=\"618\">\r\n\t<p data-end=\"706\" data-start=\"620\">Lead change management initiatives for enterprise applications and process adoption.</p>\r\n\t</li>\r\n\t<li data-end=\"789\" data-start=\"707\">\r\n\t<p data-end=\"789\" data-start=\"709\">Partner with stakeholders to ensure smooth transitions and business readiness.</p>\r\n\t</li>\r\n\t<li data-end=\"845\" data-start=\"790\">\r\n\t<p data-end=\"845\" data-start=\"792\">Drive project execution (not just status tracking).</p>\r\n\t</li>\r\n\t<li data-end=\"941\" data-start=\"846\">\r\n\t<p data-end=\"941\" data-start=\"848\">Leverage <strong data-end=\"900\" data-start=\"857\">MS365 (including AI tools like Copilot)</strong> for change communication and adoption.</p>\r\n\t</li>\r\n\t<li data-end=\"1047\" data-start=\"942\">\r\n\t<p data-end=\"1047\" data-start=\"944\">Use <strong data-end=\"1012\" data-start=\"948\">Excel (Vlookup/Xlookup, Pivot tables, charts, Boolean logic)</strong> for data analysis and reporting.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h4 data-end=\"1071\" data-start=\"1049\">Required Skills</h4>\r\n\r\n<ul data-end=\"1337\" data-start=\"1072\">\r\n\t<li data-end=\"1160\" data-start=\"1072\">\r\n\t<p data-end=\"1160\" data-start=\"1074\">ServiceNow experience (implementation preferred, but non-implementation considered).</p>\r\n\t</li>\r\n\t<li data-end=\"1228\" data-start=\"1161\">\r\n\t<p data-end=\"1228\" data-start=\"1163\">Strong <strong data-end=\"1188\" data-start=\"1170\">OCM experience</strong> with enterprise application adoption.</p>\r\n\t</li>\r\n\t<li data-end=\"1274\" data-start=\"1229\">\r\n\t<p data-end=\"1274\" data-start=\"1231\">Project management leadership experience.</p>\r\n\t</li>\r\n\t<li data-end=\"1337\" data-start=\"1275\">\r\n\t<p data-end=\"1337\" data-start=\"1277\">Advanced skills in <strong data-end=\"1334\" data-start=\"1296\">MS365 and Excel data visualization</strong>.</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31210444",
-    "time_scraped": 1759520769548,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31210138,
-    "title": "Lead DBA (CRUSH)",
-    "location": "None, Plainsboro, New Jersey,",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758830389000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p> <strong> Job Title:</strong> Lead DBA (CRUSH)<br /> \r\n<strong> Experience:</strong> 9–12 Years<br /> \r\n<strong> Location:</strong> San Luis</p> \r\n\r\n<p> <strong> Job Description:</strong><br /> \r\nWe are looking for a highly skilled <strong> Lead CRUSH DBA</strong> with 9–12 years of experience to join our team in <strong> San Luis</strong>. The ideal candidate will have deep expertise in database administration, performance tuning, and troubleshooting, along with strong leadership skills to guide a team and ensure smooth operations.</p> \r\n\r\n<p> <strong> Key Responsibilities:</strong></p> \r\n\r\n<ul> \r\n\t<li> Manage and optimize CRUSH database environments.</li> \r\n\t<li> Lead database design, implementation, and migration efforts.</li> \r\n\t<li> Monitor performance, ensure availability, and provide solutions for optimization.</li> \r\n\t<li> Work closely with development and infrastructure teams to resolve issues.</li> \r\n\t<li> Mentor junior DBAs and contribute to best practices.</li> \r\n</ul> \r\n\r\n<p> <strong> Required Skills:</strong></p> \r\n\r\n<ul> \r\n\t<li> Strong hands-on experience in <strong> CRUSH DBA</strong> administration.</li> \r\n\t<li> Expertise in database performance tuning and troubleshooting.</li> \r\n\t<li> Experience in leading DBA teams or taking ownership of critical projects.</li> \r\n\t<li> Excellent communication and collaboration skills.</li> \r\n</ul> \r\n<br>",
-    "recruiter": [
-      "Bharat Infoway",
-      "bharat@infowaygroup.com",
-      "9257180000"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31210138",
-    "time_scraped": 1759520769339,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31209583,
-    "title": "PeopleSoft Financials Techno-Functional Consultant",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758825788000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><strong>Job Title:</strong> PeopleSoft Financials Techno-Functional Consultant</p>\r\n\r\n<p><strong>Location:</strong> US &ndash; NY, 3 Days in office</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Position Summary:</strong></p>\r\n\r\n<p>Looking for an experienced PeopleSoft Financials Techno-Functional Consultant to join our</p>\r\n\r\n<p>enterprise Engineering team. This role requires over a decade of experience in PeopleSoft</p>\r\n\r\n<p>development, with a strong focus on the Financials and Supply Chain Management (FSCM) suite.</p>\r\n\r\n<p>You will play a key role in designing, developing, and maintaining critical financial applications,</p>\r\n\r\n<p>supporting both project work and ongoing operations.</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Key Responsibilities:</strong></p>\r\n\r\n<p>&bull; Develop, customize, and maintain PeopleSoft FSCM modules such as Accounts</p>\r\n\r\n<p>Receivable, General Ledger, Project Costing, and Billing</p>\r\n\r\n<p>&bull; Write and optimize PeopleCode, Application Engine programs, SQRs, BI Publisher</p>\r\n\r\n<p>reports, Component Interfaces, and Integration Broker services</p>\r\n\r\n<p>&bull; Support full application development lifecycle including requirements gathering, technical</p>\r\n\r\n<p>design, coding, testing, implementation, and documentation</p>\r\n\r\n<p>&bull; Perform impact analysis and retrofitting during PeopleTools and FSCM application</p>\r\n\r\n<p>upgrades</p>\r\n\r\n<p>&bull; Troubleshoot and resolve technical issues in production and development environments</p>\r\n\r\n<p>&bull; Partner with functional teams to understand business requirements and translate them</p>\r\n\r\n<p>into scalable technical solutions</p>\r\n\r\n<p>&bull; Participate in data conversion, integration development, and interface configuration with</p>\r\n\r\n<p>external systems</p>\r\n\r\n<p>&bull; Ensure compliance with internal development standards, security policies, and</p>\r\n\r\n<p>SOX/financial audit requirements</p>\r\n\r\n<p>&bull; Create and maintain detailed technical documentation and user training materials</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Required Qualifications:</strong></p>\r\n\r\n<p>&bull; 10&plus; years of PeopleSoft technical development experience, with at least 7 years in</p>\r\n\r\n<p>FSCM modules</p>\r\n\r\n<p>&bull; Expertise in PeopleTools 8.5x&plus;, including PeopleCode, App Engine, Component Interface,</p>\r\n\r\n<p>SQR, and Integration Broker</p>\r\n\r\n<p>&bull; Strong understanding of core financial processes and data structures in modules like GL, ,</p>\r\n\r\n<p>AR, PC, and BI</p>\r\n\r\n<p>&bull; Experience with PeopleSoft upgrades, patching, and retrofitting</p>\r\n\r\n<p>&bull; Proficient in Oracle SQL, PL/SQL, and performance tuning</p>\r\n\r\n<p>&bull; Ability to work independently and collaboratively across cross-functional teams</p>\r\n\r\n<p>&bull; Strong verbal and written communication skills, including documentation of technical</p>\r\n\r\n<p>specifications</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Preferred Qualifications:</strong></p>\r\n\r\n<p>&bull; Experience with Fluid UI, Pivot Grids, and WorkCenters</p>\r\n\r\n<p>&bull; Familiarity with PeopleSoft Test Framework (PTF) or automated testing tools</p>\r\n\r\n<p>&bull; Experience integrating PeopleSoft with external ERP or financial systems via REST/SOAP</p>\r\n\r\n<p>APIs</p>\r\n\r\n<p>&bull; Exposure to PeopleSoft on Oracle Cloud Infrastructure (OCI) or other cloud platforms</p>\r\n\r\n<p>&bull; Bachelor&#39;s degree in Computer Science, Information Systems, or related field</p>\r\n <br>",
-    "recruiter": [
-      "Adil Infoway",
-      "adil.s@infowaygroup.com",
-      "9255926170"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31209583",
-    "time_scraped": 1759520769432,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31209416,
-    "title": "SQL / Snowflake Developer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/25/2025",
-      "date_posted": 1758824097000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2 data-end=\"152\" data-start=\"111\"><span style=\"font-size:11pt;\">Job Title: SQL / Snowflake Developer<br data-end=\"198\" data-start=\"195\" />\r\n<strong data-end=\"211\" data-start=\"198\">Location:</strong> Charlotte, NC or Detroit, MI</span><br data-end=\"243\" data-start=\"240\" />\r\n<span style=\"font-size:10pt;\">Job Description</span></h2>\r\n\r\n<p data-end=\"617\" data-start=\"338\">We are seeking a highly skilled <strong data-end=\"399\" data-start=\"370\">SQL / Snowflake Developer</strong> to design, build, and optimize enterprise data solutions. The ideal candidate will have strong expertise in SQL, hands-on Snowflake development, and experience in building scalable data pipelines on cloud platforms.</p>\r\n\r\n<h3 data-end=\"645\" data-start=\"619\">Key Responsibilities</h3>\r\n\r\n<ul data-end=\"1225\" data-start=\"646\">\r\n\t<li data-end=\"748\" data-start=\"646\">\r\n\t<p data-end=\"748\" data-start=\"648\">Design, develop, and enhance cloud-based data workflows/pipelines for large-scale data processing.</p>\r\n\t</li>\r\n\t<li data-end=\"868\" data-start=\"749\">\r\n\t<p data-end=\"868\" data-start=\"751\">Build Data Lake and Data Warehouse solutions on <strong data-end=\"812\" data-start=\"799\">Snowflake</strong> and <strong data-end=\"824\" data-start=\"817\">AWS</strong> using both streaming and batch processes.</p>\r\n\t</li>\r\n\t<li data-end=\"956\" data-start=\"869\">\r\n\t<p data-end=\"956\" data-start=\"871\">Develop and execute test strategies, frameworks, and automation for data pipelines.</p>\r\n\t</li>\r\n\t<li data-end=\"1055\" data-start=\"957\">\r\n\t<p data-end=\"1055\" data-start=\"959\">Participate in data modeling, system design, and enforce security &amp; governance best practices.</p>\r\n\t</li>\r\n\t<li data-end=\"1149\" data-start=\"1056\">\r\n\t<p data-end=\"1149\" data-start=\"1058\">Optimize Snowflake architecture, data loading, stored procedures, and performance tuning.</p>\r\n\t</li>\r\n\t<li data-end=\"1225\" data-start=\"1150\">\r\n\t<p data-end=\"1225\" data-start=\"1152\">Collaborate with cross-functional teams in Agile delivery environments.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1248\" data-start=\"1227\">Required Skills</h3>\r\n\r\n<ul data-end=\"1683\" data-start=\"1249\">\r\n\t<li data-end=\"1327\" data-start=\"1249\">\r\n\t<p data-end=\"1327\" data-start=\"1251\">Strong SQL expertise with hands-on data engineering experience (3&plus; years).</p>\r\n\t</li>\r\n\t<li data-end=\"1447\" data-start=\"1328\">\r\n\t<p data-end=\"1447\" data-start=\"1330\">Proven Snowflake development experience (data loading, architecture, stored procedures, table types, optimization).</p>\r\n\t</li>\r\n\t<li data-end=\"1522\" data-start=\"1448\">\r\n\t<p data-end=\"1522\" data-start=\"1450\">Solid understanding of <strong data-end=\"1519\" data-start=\"1473\">RDBMS, ETL processes, and Data Warehousing</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1607\" data-start=\"1523\">\r\n\t<p data-end=\"1607\" data-start=\"1525\">Hands-on experience with <strong data-end=\"1604\" data-start=\"1550\">data transformations, cleansing, and deduplication</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1683\" data-start=\"1608\">\r\n\t<p data-end=\"1683\" data-start=\"1610\">Experience in building data pipelines across cloud or hybrid platforms.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1705\" data-start=\"1685\">Desired Skills</h3>\r\n\r\n<ul data-end=\"1903\" data-start=\"1706\">\r\n\t<li data-end=\"1753\" data-start=\"1706\">\r\n\t<p data-end=\"1753\" data-start=\"1708\">Exposure to <strong data-end=\"1736\" data-start=\"1720\">AWS services</strong> (S3, AWS CLI).</p>\r\n\t</li>\r\n\t<li data-end=\"1815\" data-start=\"1754\">\r\n\t<p data-end=\"1815\" data-start=\"1756\">Experience with <strong data-end=\"1812\" data-start=\"1772\">DBT, GitLab, and DevSecOps practices</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1869\" data-start=\"1816\">\r\n\t<p data-end=\"1869\" data-start=\"1818\">Knowledge of Python or other scripting languages.</p>\r\n\t</li>\r\n\t<li data-end=\"1903\" data-start=\"1870\">\r\n\t<p data-end=\"1903\" data-start=\"1872\">Agile methodology experience.</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31209416",
-    "time_scraped": 1759520769481,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31205085,
-    "title": "Senior Azure Integration Services Developer",
-    "location": "CA, None",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758755294000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><b data-olk-copy-source=\"MessageBody\">Senior Azure Integration Services Developer<br />\r\nExp: 12&plus; Years</b><br />\r\n<b>CA</b></p>\r\n <br />\r\n<b>Key Responsibilities:</b>\r\n\r\n<ul>\r\n\t<li><b>Integration Design and Development</b>: Design, develop, and implement end-to-end integration solutions using <b>Azure technologies</b> (API Management, Function Apps, Logic Apps, Service Bus,  Service Fabric, etc.).</li>\r\n\t<li><b>Strong Programming Skills</b>: Must have expertise in languages such as <b>C# (.Net8)</b>/<b>Python</b>, <b>sql-Tsql</b> for developing automation and integration solutions.</li>\r\n\t<li><b>Entity framework (tooling leveraged for db access and db modeling)</b></li>\r\n\t<li><b>Visual Stuido (Microsoft IDE used to create and deploy these applications since Ci/CD isn&#39;t set up yet)</b></li>\r\n\t<li><b>Git (code repository)</b></li>\r\n\t<li><b>API Management</b>: Develop and maintain <b>API Management</b> services, ensuring secure, efficient, and seamless API consumption across various services.</li>\r\n\t<li><b>Automation &amp; Orchestration</b>: Implement <b>Azure Function Apps</b> and <b>Logic Apps</b> for automating workflows, orchestrating complex processes, and improving operational efficiency.</li>\r\n\t<li><b>Service Bus &amp; Messaging</b>: Leverage <b>Azure Service Bus</b> to build robust messaging solutions, ensuring reliable data communication between systems.</li>\r\n\t<li><b>Data Integration</b>: Work with <b>Azure SQL</b> and <b>Azure Storage</b> to build efficient data integration solutions, managing both structured and unstructured data.</li>\r\n\t<li><b>Scalability &amp; Performance</b>: Ensure that the developed solutions scale effectively to meet changing business demands while maintaining high performance and availability.</li>\r\n\t<li><b>Security &amp; Compliance</b>: Implement best practices around <b>security</b> and <b>compliance</b>, ensuring that solutions are designed with appropriate access controls, encryption, and other security measures.</li>\r\n\t<li><b>Testing &amp; Troubleshooting</b>: Conduct testing, troubleshooting, and debugging of integration solutions to ensure they are functioning as expected in both development and production environments.</li>\r\n\t<li><b>Documentation &amp; Reporting</b>: Maintain clear documentation of the integration processes, solutions, and workflows. Provide regular status updates and reports on progress.</li>\r\n\t<li><b>Collaboration</b>: Work closely with cross-functional teams, including architects, business analysts, and stakeholders, to understand requirements and deliver solutions that meet business needs.</li>\r\n\t<li><b>Continuous Improvement</b>: Stay up to date with emerging Azure technologies and best practices, driving continuous improvement and innovation within the team.</li>\r\n</ul>\r\n <br />\r\n<b>Required Skills and Experience:</b>\r\n\r\n<ul>\r\n\t<li><b>Proven Experience</b> with Azure integration services, including:</li>\r\n\t<li><b>Azure API Management</b></li>\r\n\t<li><b>Azure Function Apps</b></li>\r\n\t<li><b>Azure Logic Apps</b></li>\r\n\t<li><b>Azure Queuing</b></li>\r\n\t<li><b>Nuget</b></li>\r\n\t<li><b>Newtonsoft</b><br />\r\n\t<br />\r\n\t </li>\r\n\t<li><b>Strong Knowledge of Cloud Integration Patterns</b>: Familiarity with cloud-based integration and messaging patterns, including <b>Event-Driven Architectures</b>, <b>Microservices</b>, and <b>Serverless architectures</b>.</li>\r\n\t<li><b>Experience with RESTful APIs</b>: Design and implementation of REST APIs for seamless integration across services.</li>\r\n\t<li><b>Best Practices</b>: Knowledge of industry best practices for coding, security, monitoring, and logging in Azure environments.</li>\r\n\t<li><b>Problem-Solving</b>: Strong troubleshooting skills to diagnose and resolve issues with integration solutions and services.</li>\r\n\t<li><b>Soft Skills</b>:</li>\r\n\t<li>Excellent communication skills, with the ability to effectively collaborate with both technical and non-technical stakeholders.</li>\r\n\t<li>Strong interpersonal skills and the ability to work in a collaborative team environment.</li>\r\n\t<li>Detail-oriented, proactive, and able to take ownership of tasks and deliver them within deadlines.</li>\r\n\t<li>Adaptability and willingness to continuously learn and grow in a dynamic cloud landscape.</li>\r\n</ul>\r\n <br />\r\n<b>Preferred Qualifications:</b>\r\n\r\n<ul>\r\n\t<li><b>Certifications</b>: Microsoft Certified: Azure Developer Associate or similar Azure certifications on AIS.</li>\r\n</ul>\r\n <br>",
-    "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31205085",
-    "time_scraped": 1759520775599,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31205084,
+    "id": 31277485,
     "title": "DevOps Engineer",
+    "location": "N/A",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759772968000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><p data-end=\"233\" data-start=\"79\"><strong data-end=\"93\" data-start=\"79\">Job Title:</strong> DevOps Engineer<br data-end=\"112\" data-start=\"109\" />\r\n<strong data-end=\"156\" data-start=\"143\">Location:</strong> Frisco, TX (Onsite)<br data-end=\"179\" data-start=\"176\" />\r\n </p>\r\n\r\n<p data-end=\"510\" data-start=\"235\"><strong data-end=\"255\" data-start=\"235\">Job Description:</strong><br data-end=\"258\" data-start=\"255\" />\r\nWe are seeking a <strong data-end=\"301\" data-start=\"275\">strong DevOps Engineer</strong> with hands-on experience in <strong data-end=\"349\" data-start=\"330\">Terraform (IaC)</strong>, automation, and cloud deployment. The ideal candidate should have experience building scalable and secure AWS-based solutions and supporting CI/CD pipelines.</p>\r\n\r\n<p data-end=\"529\" data-start=\"512\"><strong data-end=\"527\" data-start=\"512\">Key Skills:</strong></p>\r\n\r\n<ul data-end=\"1071\" data-start=\"530\">\r\n\t<li data-end=\"611\" data-start=\"530\">\r\n\t<p data-end=\"611\" data-start=\"532\">Expertise in <strong data-end=\"558\" data-start=\"545\">Terraform</strong>, including reusable modules and version migrations</p>\r\n\t</li>\r\n\t<li data-end=\"724\" data-start=\"612\">\r\n\t<p data-end=\"724\" data-start=\"614\">Experience with <strong data-end=\"646\" data-start=\"630\">AWS services</strong> &ndash; ECS (Fargate), ALB, Lambda, DynamoDB, Batch, Route53, and Secrets Manager</p>\r\n\t</li>\r\n\t<li data-end=\"834\" data-start=\"725\">\r\n\t<p data-end=\"834\" data-start=\"727\">Hands-on with <strong data-end=\"754\" data-start=\"741\">Liquibase</strong> setup for DB versioning and <strong data-end=\"794\" data-start=\"783\">Jenkins</strong> integration for automated deployments</p>\r\n\t</li>\r\n\t<li data-end=\"914\" data-start=\"835\">\r\n\t<p data-end=\"914\" data-start=\"837\">Strong <strong data-end=\"854\" data-start=\"844\">Python</strong> and <strong data-end=\"878\" data-start=\"859\">Shell scripting</strong> skills for automation and support</p>\r\n\t</li>\r\n\t<li data-end=\"1015\" data-start=\"915\">\r\n\t<p data-end=\"1015\" data-start=\"917\">Ability to provide <strong data-end=\"958\" data-start=\"936\">production support</strong> and collaborate with DevOps, QA, and development teams</p>\r\n\t</li>\r\n\t<li data-end=\"1071\" data-start=\"1016\">\r\n\t<p data-end=\"1071\" data-start=\"1018\"><strong data-end=\"1035\" data-start=\"1018\">Nice to Have:</strong> Knowledge of <strong data-end=\"1069\" data-start=\"1049\">Java Spring Boot</strong></p>\r\n\t</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Suyog Patil",
+      "Suyog@infowaygroup.com",
+      "9253019833"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31277485",
+    "time_scraped": 1759930151131,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31276356,
+    "title": "Data Engineer",
     "location": "TX, Dallas",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758755189000
+      "date_postedStr": "10/6/2025",
+      "date_posted": 1759765335000
     },
     "start": {
       "start_dateStr": null,
@@ -878,259 +119,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><p><strong>DevOps Engineer:</strong></p>\r\n\r\n<p><strong>Dallas, TX &ndash; Onsite Job</strong><br />\r\n </p>\r\n\r\n<p><strong><u>JOB DESCRIPTION:</u></strong></p>\r\n\r\n<p> </p>\r\n\r\n<ul>\r\n\t<li>3-5 Years of Industry Experience</li>\r\n\t<li>Should have achieved mastery in one of the SecDevops practices &ndash; IaC-Terraform, Cloud-AWS, CICD-Git/Argo, microservices architecture deployment (primarily Kubernetes) with awareness about site reliability engineering principles, coupled with a willingness to learn and expand the knowledge.</li>\r\n\t<li>Familiarity with Agile/Scrum methodology</li>\r\n\t<li>Experience with source control and continuous integration tools</li>\r\n\t<li>Strong analytical and reasoning skills</li>\r\n\t<li>Good experience with cloud services (AWS), cloud engineering, architecture, and software as a service. Hands-on experience in AWS Services &ndash; IAM, VPC, EKS, CloudFront, APIGW</li>\r\n\t<li>Ability to work in fast paced teams with quick decision making</li>\r\n\t<li>Scripting experience with Bash/Shell, Python</li>\r\n\t<li>Experience in IaC - Terraform is a must have</li>\r\n\t<li>CI (preferably Gitlab CI) and CD (preferably Argo CD)</li>\r\n\t<li>Kubernetes debugging experience</li>\r\n\t<li>Write well defined and tested code (IaC - Terraform) and Build pipeline (Good CICD experience) to enforce standards, frameworks, and architecture principles for the connected vehicle program. Work with the cyber security and the web security team to ensure the compliance to the technical solution being implemented.</li>\r\n\t<li>Perform as an individual contributor and colleague who enjoys collaborating with, learning from, and mentoring program team members on security disciplines to bolster overall security posture to lower the business risk profile.</li>\r\n\t<li>Solve complex problems around connected vehicle technology for mobility and telematics by troubleshoot issues and debug codebases</li>\r\n\t<li>Deployment, automation, management, and maintenance of AWS cloud-based production system.</li>\r\n\t<li>Adapt new technologies, tools, processes from the organization as needed</li>\r\n\t<li>Communicate well with team members and work collaboratively</li>\r\n\t<li>Maintain and improve existing codebases and peer review code changes</li>\r\n\t<li>Ensuring availability, performance, security, and scalability of AWS production systems.</li>\r\n\t<li>Management of creation, release, and configuration of production systems.</li>\r\n\t<li>System troubleshooting and problem resolution across various application domains and platforms.</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<ul>\r\n\t<li>Master in one of the SecDevops practices &ndash; IaC-Terraform, Cloud-AWS, CICD-Git/Argo, microservices architecture deployment (primarily Kubernetes) with awareness about site reliability engineering principles, coupled with a willingness to learn and expand the knowledge.</li>\r\n\t<li>Perform as an accountable resource and take ownership on assigned projects and tasks for delivery with quality and in a timely manner using Agile/JIRA best practices.</li>\r\n\t<li>Partner with application teams as a trusted advisor to ensure compliance and adoption of organizational SecDevops standards, processes, and industry best-practices for developing and deploying microservices in public cloud environments.</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<ul>\r\n\t<li>Cloud Platform Engineering team manages several tool stack, if someone has expertise in more than one of the below, that&#39;d be a great asset - AWS &ndash; ECS, EC2, S3, SNS, SQS, MKS, Batch, Lambda, Cognito, SG, RDS, Cert Manager, Route 53, ALB, Param Store, Config, etc.</li>\r\n\t<li>IaC: Terraform &ndash; Preferred, CloudFormation</li>\r\n\t<li>CI &amp; CD: GitLab &ndash; Preferred, GitHub, Azure DevOps, Jenkins, Artifactory, Docker, Kubernetes, Helm, Argo CD, Serverless</li>\r\n\t<li>Secrets Management: HCP Vault, AWS Secrets Manager</li>\r\n\t<li>Networking: Transit GW, VPC Peering, NAT, Istio, Traefik, HCP Consul, Nginx, Section.io, etc.</li>\r\n\t<li>Scripting: Python, GO, Bash/Shell, JavaScript, YAML, JSON</li>\r\n\t<li>Build Tools: Maven, Gradle, NPM, Bazel, Go</li>\r\n\t<li>Databases: RDS, SQL, MySQL, Postgres, RedShift, MongoDB, DynamoDB</li>\r\n\t<li>Security Scans: SAST, Secrets, Container, DAST, Xray, Prisma Cloud</li>\r\n\t<li>Logging and Monitoring: DataDog, Splunk, App Dynamics, ELK, Grafana</li>\r\n</ul>\r\n<br>",
+    "description": "<br>Hi Friends,<br />\r\n <br />\r\n<br />\r\nI am sending requirement, kindly get back to me if the job description suits you.<br />\r\n<br />\r\n<strong>Job Title:</strong>                    Sr.JAVA Developer (No OPT)<br />\r\n<strong>Job Location:</strong>            Sunnyvale, CA<br />\r\n<strong>Experience:</strong>                8-10 Years.<br />\r\n<strong>Duration:                    </strong>6 Months<br />\r\n<strong>Contract Type:</strong>           C2C<br />\r\n<strong>Mode of Interview:   </strong>1) Telephonic<br />\r\n<br />\r\n                                    2) Face-2-Face<br />\r\n<br />\r\n<strong>Key skills:</strong><br />\r\n<br />\r\n&middot;         5-7 years of total experience.<br />\r\n<br />\r\n&middot;         Strong Java Developer<br />\r\n<br />\r\n&middot;         Python scripting language experience. <br />\r\n<br />\r\nVignesh| Infowaygroup.com | US IT Recruiter<br />\r\n<a href=\"mailto:vignesh@infowaygroup.com\" rel=\"noopener noreferrer\" target=\"_blank\">vignesh@infowaygroup.com</a><br />\r\nCell : 925 241 4895 <br />\r\nInfo Way Solutions LLC | 46520 Fremont Blvd, Suite 614 | Fremont, CA &ndash; 94538<br>",
     "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
+      null,
+      null,
+      null
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31205084",
-    "time_scraped": 1759520775508,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31276356",
+    "time_scraped": 1759930151106,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31205042,
-    "title": "Business Analyst (Digital)",
-    "location": "CA, Sunnyvale",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758754291000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><b data-olk-copy-source=\"MessageBody\">Role: Business Analyst (Digital</b><b>)</b><br />\r\n<b>Location: Sunnyvale, CA - (Onsite)</b><br />\r\n<b>Type: Contract</b><br />\r\n<br />\r\n<b>Job Description:</b>\r\n<ul>\r\n\t<li data-end=\"2089\" data-start=\"1981\">8&plus; years of experience as a Business Analyst, preferably in a digital or technology-focused environment.</li>\r\n\t<li data-end=\"2199\" data-start=\"2090\">Proven experience in digital projects (e.g., websites, mobile apps, eCommerce platforms, customer portals).</li>\r\n\t<li data-end=\"2251\" data-start=\"2200\">Solid understanding of Agile/Scrum methodologies.</li>\r\n\t<li data-end=\"2328\" data-start=\"2252\">Familiarity with tools such as JIRA, Confluence, Figma, Visio, or similar.</li>\r\n\t<li data-end=\"2404\" data-start=\"2329\">Excellent communication, presentation, and stakeholder management skills.</li>\r\n\t<li data-end=\"2464\" data-start=\"2405\">Analytical mindset with strong problem-solving abilities.</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31205042",
-    "time_scraped": 1759520775469,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31203972,
-    "title": "Technical Architect – o9 Solutions",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758744617000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2><span style=\"font-size:11pt;\"><strong>Job Title:</strong> Technical Architect &ndash; o9 Solutions</span></h2>\r\n\r\n<p><strong>Client:</strong> HCL<br />\r\n<strong>Location:</strong> Dallas, TX (Onsite)</p>\r\n\r\n<h3><strong>About the Role</strong></h3>\r\n\r\n<p>We are seeking an experienced <strong>Technical Architect &ndash; o9 Solutions</strong> to design, implement, and optimize <strong>big data and supply chain planning solutions</strong> using the <strong>o9 platform</strong>. The ideal candidate will have strong expertise in <strong>o9 architecture, ETL pipelines, and system integration</strong>, with a proven background in large-scale enterprise projects.</p>\r\n\r\n<hr />\r\n<h3><strong>Key Responsibilities</strong></h3>\r\n\r\n<ul>\r\n\t<li>Architect and implement <strong>end-to-end ETL pipelines</strong> including data ingestion, transformation, storage, and consumption.</li>\r\n\t<li>Design scalable and fault-tolerant architectures tailored to supply chain planning and analytics.</li>\r\n\t<li>Integrate o9 solutions with <strong>enterprise systems</strong> and <strong>GCP cloud services</strong>.</li>\r\n\t<li>Collaborate with IT, business, and data science teams to ensure alignment of technical and business requirements.</li>\r\n\t<li>Ensure compliance with <strong>data security, governance, and privacy standards</strong>.</li>\r\n\t<li>Provide technical leadership and guidance throughout the project lifecycle.</li>\r\n</ul>\r\n\r\n<hr />\r\n<h3><strong>Required Skills &amp; Qualifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>7&ndash;15&plus; years of IT experience, with <strong>2&ndash;3 years of hands-on experience with the o9 platform (SSIS/Integration 3.0)</strong>.</li>\r\n\t<li>Strong expertise in <strong>ETL development, data modeling, and integration architecture</strong>.</li>\r\n\t<li>Experience working on <strong>supply chain planning solutions</strong>.</li>\r\n\t<li>Excellent communication, collaboration, and stakeholder management skills.</li>\r\n</ul>\r\n\r\n<hr />\r\n<h3><strong>Preferred Skills</strong></h3>\r\n\r\n<ul>\r\n\t<li><strong>o9 Platform Certification</strong>.</li>\r\n\t<li>Experience in <strong>supply chain analytics or planning</strong>.</li>\r\n\t<li>Hands-on exposure to configuring o9 modules like:\r\n\t<ul>\r\n\t\t<li>Demand Planning</li>\r\n\t\t<li>Supply Planning</li>\r\n\t\t<li>Integrated Business Planning (IBP)</li>\r\n\t\t<li>Sales &amp; Operations Planning (S&amp;OP)</li>\r\n\t\t<li>Control Tower</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n <br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31203972",
-    "time_scraped": 1759520775505,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31202635,
-    "title": " iOS Developer (Objective-C Focus)",
-    "location": "None, Greater Toronto Area",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758739366000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><strong>Job Title: iOS Developer (Objective-C Focus)</strong></p>\r\n\r\n<p><strong>Location:</strong> San Diego, CA</p>\r\n\r\n<p><strong>Experience Level:</strong> Mid to Senior-Level</p>\r\n\r\n<hr />\r\n<p><strong>About the Role:</strong></p>\r\n\r\n<p>We are seeking a skilled and experienced <strong>iOS Developer</strong> with strong proficiency in <strong>Objective-C</strong> to join our growing mobile development team in <strong>San Diego</strong>. In this role, you will be responsible for developing and maintaining robust, scalable, and user-friendly iOS applications. You will work closely with cross-functional teams to deliver high-quality mobile experiences that align with our business goals.</p>\r\n\r\n<hr />\r\n<p><strong>Key Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Design, build, and maintain iOS applications using <strong>Objective-C</strong></li>\r\n\t<li>Collaborate with product managers, designers, and other developers to define and implement new features</li>\r\n\t<li>Ensure the performance, quality, and responsiveness of applications</li>\r\n\t<li>Identify and fix bugs and performance bottlenecks</li>\r\n\t<li>Maintain code quality through code reviews, testing, and documentation</li>\r\n\t<li>Stay up-to-date with iOS development trends, best practices, and Apple&#39;s guidelines</li>\r\n\t<li>Participate in Agile/Scrum development process</li>\r\n</ul>\r\n\r\n<hr />\r\n<p><strong>Required Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>3&plus; years of professional iOS development experience</strong></li>\r\n\t<li><strong>Strong proficiency in Objective-C</strong> and solid understanding of UIKit, Core Data, and other iOS frameworks</li>\r\n\t<li>Experience with RESTful APIs, JSON, and integrating third-party libraries</li>\r\n\t<li>Knowledge of Apple&#39;s design principles and interface guidelines</li>\r\n\t<li>Experience with version control systems like Git</li>\r\n\t<li>Ability to write clean, maintainable, and testable code</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31202635",
-    "time_scraped": 1759520775438,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31202507,
-    "title": "Cloud Architect",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/24/2025",
-      "date_posted": 1758739066000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2 data-end=\"146\" data-start=\"111\"><span style=\"font-size:12pt;\"><strong data-end=\"128\" data-start=\"114\">Job Title:</strong> Cloud Architect<br data-end=\"165\" data-start=\"162\" />\r\n<strong data-end=\"178\" data-start=\"165\">Location:</strong> Atlanta, GA (Onsite/Hybrid)</span></h2>\r\n\r\n<h3 data-end=\"293\" data-start=\"269\"><strong data-end=\"291\" data-start=\"273\">About the Role</strong></h3>\r\n\r\n<p data-end=\"755\" data-start=\"294\">We are seeking a highly skilled <strong data-end=\"345\" data-start=\"326\">Cloud Architect</strong> to design, implement, and optimize secure and scalable cloud solutions. The ideal candidate will bring deep expertise across <strong data-end=\"518\" data-start=\"471\">AWS, GCP, Azure, and hybrid cloud platforms</strong>, while driving innovation through Infrastructure as Code (IaC), DevOps, and modern cloud-native practices. This role is crucial to shaping the organization&#39;s cloud strategy and delivering solutions that meet business and client needs.</p>\r\n\r\n<hr data-end=\"760\" data-start=\"757\" />\r\n<h3 data-end=\"792\" data-start=\"762\"><strong data-end=\"790\" data-start=\"766\">Key Responsibilities</strong></h3>\r\n\r\n<ul data-end=\"1867\" data-start=\"793\">\r\n\t<li data-end=\"889\" data-start=\"793\">\r\n\t<p data-end=\"889\" data-start=\"795\">Design and implement <strong data-end=\"848\" data-start=\"816\">cloud architecture solutions</strong> across AWS, Azure, GCP, and Rackspace.</p>\r\n\t</li>\r\n\t<li data-end=\"1004\" data-start=\"890\">\r\n\t<p data-end=\"1004\" data-start=\"892\">Develop <strong data-end=\"940\" data-start=\"900\">service-oriented architectures (SOA)</strong> and ensure seamless integration of applications and services.</p>\r\n\t</li>\r\n\t<li data-end=\"1110\" data-start=\"1005\">\r\n\t<p data-end=\"1110\" data-start=\"1007\">Collaborate with cross-functional teams to define <strong data-end=\"1107\" data-start=\"1057\">cloud strategy, best practices, and governance</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1233\" data-start=\"1111\">\r\n\t<p data-end=\"1233\" data-start=\"1113\">Utilize <strong data-end=\"1159\" data-start=\"1121\">Terraform, Ansible, and Kubernetes</strong> to implement <strong data-end=\"1205\" data-start=\"1173\">Infrastructure as Code (IaC)</strong> and automate deployments.</p>\r\n\t</li>\r\n\t<li data-end=\"1321\" data-start=\"1234\">\r\n\t<p data-end=\"1321\" data-start=\"1236\">Ensure compliance with <strong data-end=\"1299\" data-start=\"1259\">regulatory standards (e.g., FedRAMP)</strong> for cloud services.</p>\r\n\t</li>\r\n\t<li data-end=\"1403\" data-start=\"1322\">\r\n\t<p data-end=\"1403\" data-start=\"1324\">Architect and oversee <strong data-end=\"1362\" data-start=\"1346\">RESTful APIs</strong> and <strong data-end=\"1400\" data-start=\"1367\">microservices-based solutions</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1531\" data-start=\"1404\">\r\n\t<p data-end=\"1531\" data-start=\"1406\">Implement <strong data-end=\"1447\" data-start=\"1416\">virtualization technologies</strong> such as VMware, Docker, and container orchestration for performance optimization.</p>\r\n\t</li>\r\n\t<li data-end=\"1644\" data-start=\"1532\">\r\n\t<p data-end=\"1644\" data-start=\"1534\">Manage relational and NoSQL databases (<strong data-end=\"1614\" data-start=\"1573\">MySQL, PostgreSQL, Oracle, SQL Server</strong>) within cloud environments.</p>\r\n\t</li>\r\n\t<li data-end=\"1753\" data-start=\"1645\">\r\n\t<p data-end=\"1753\" data-start=\"1647\">Lead <strong data-end=\"1674\" data-start=\"1652\">DevOps initiatives</strong>, building CI/CD pipelines with <strong data-end=\"1722\" data-start=\"1706\">Jenkins, Git</strong>, and other automation tools.</p>\r\n\t</li>\r\n\t<li data-end=\"1867\" data-start=\"1754\">\r\n\t<p data-end=\"1867\" data-start=\"1756\">Conduct <strong data-end=\"1789\" data-start=\"1764\">system design reviews</strong>, identify gaps, and recommend improvements for scalability and performance.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"1872\" data-start=\"1869\" />\r\n<h3 data-end=\"1916\" data-start=\"1874\"><strong data-end=\"1914\" data-start=\"1878\">Required Skills &amp; Qualifications</strong></h3>\r\n\r\n<ul data-end=\"2561\" data-start=\"1917\">\r\n\t<li data-end=\"1990\" data-start=\"1917\">\r\n\t<p data-end=\"1990\" data-start=\"1919\">Bachelor&#39;s degree in Computer Science, Engineering, or related field.</p>\r\n\t</li>\r\n\t<li data-end=\"2100\" data-start=\"1991\">\r\n\t<p data-end=\"2100\" data-start=\"1993\"><strong data-end=\"2038\" data-start=\"1993\">4&plus; years of cloud architecture experience</strong> with a strong understanding of <strong data-end=\"2090\" data-start=\"2070\">IaaS, PaaS, SaaS</strong> models.</p>\r\n\t</li>\r\n\t<li data-end=\"2169\" data-start=\"2101\">\r\n\t<p data-end=\"2169\" data-start=\"2103\">Hands-on expertise with <strong data-end=\"2166\" data-start=\"2127\">AWS, Azure, and GCP cloud platforms</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2266\" data-start=\"2170\">\r\n\t<p data-end=\"2266\" data-start=\"2172\">Strong scripting and automation experience with <strong data-end=\"2263\" data-start=\"2220\">Python, PowerShell, Bash, Ruby, or .NET</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2351\" data-start=\"2267\">\r\n\t<p data-end=\"2351\" data-start=\"2269\">Experience with <strong data-end=\"2310\" data-start=\"2285\">SQL &amp; NoSQL databases</strong>; familiarity with <strong data-end=\"2338\" data-start=\"2329\">T-SQL</strong> is a plus.</p>\r\n\t</li>\r\n\t<li data-end=\"2419\" data-start=\"2352\">\r\n\t<p data-end=\"2419\" data-start=\"2354\">Solid understanding of <strong data-end=\"2416\" data-start=\"2377\">Windows and Linux operating systems</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2492\" data-start=\"2420\">\r\n\t<p data-end=\"2492\" data-start=\"2422\">Strong background in <strong data-end=\"2466\" data-start=\"2443\">Agile methodologies</strong> and <strong data-end=\"2489\" data-start=\"2471\">SDLC practices</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2561\" data-start=\"2493\">\r\n\t<p data-end=\"2561\" data-start=\"2495\">Excellent communication, problem-solving, and leadership skills.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"2566\" data-start=\"2563\" />\r\n<h3 data-end=\"2590\" data-start=\"2568\"><strong data-end=\"2588\" data-start=\"2572\">Nice to Have</strong></h3>\r\n\r\n<ul data-end=\"2824\" data-start=\"2591\">\r\n\t<li data-end=\"2650\" data-start=\"2591\">\r\n\t<p data-end=\"2650\" data-start=\"2593\">Experience with <strong data-end=\"2625\" data-start=\"2609\">IoT concepts</strong> in cloud environments.</p>\r\n\t</li>\r\n\t<li data-end=\"2762\" data-start=\"2651\">\r\n\t<p data-end=\"2762\" data-start=\"2653\"><strong data-end=\"2685\" data-start=\"2653\">Cloud-related certifications</strong> (AWS Solutions Architect, GCP Cloud Architect, Azure Solutions Architect).</p>\r\n\t</li>\r\n\t<li data-end=\"2824\" data-start=\"2763\">\r\n\t<p data-end=\"2824\" data-start=\"2765\">Exposure to <strong data-end=\"2821\" data-start=\"2777\">multi-cloud or hybrid-cloud environments</strong>.</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31202507",
-    "time_scraped": 1759520781449,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31196342,
-    "title": "C++ Developer - Visual Tool",
-    "location": "CA, Sunnyvale",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758661634000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><br />\r\n<b>Role: C&plus;&plus; Developer </b><br />\r\n<b>Location: Sunnyvale, CA - (Onsite)</b><br />\r\n<b>Type: Contract</b><br />\r\n<br />\r\n<b>Job Description:</b>\r\n<ul data-editing-info=\"{&quot;applyListStyleFromLevel&quot;:true}\">\r\n\t<li>8&plus; years of software development experience</li>\r\n\t<li>C&plus;&plus; Developer with compiler experience</li>\r\n\t<li>Preferred C&plus;&plus; software focused candidates</li>\r\n\t<li>Candidates in <b>gaming industry </b>with good experience in C&plus;&plus;</li>\r\n\t<li>Experience in Rendering techniques, <b>Visual</b> look and feel</li>\r\n\t<li>Awareness in build and transferring binaries to target microchips</li>\r\n\t<li>Good in communication, team co-ordination.</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Nandhini Infoway",
-      "nandhini@infowaygroup.com",
-      "5108804495"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31196342",
-    "time_scraped": 1759520781336,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31194140,
-    "title": "Java Full Stack Team Lead (AWS)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/23/2025",
-      "date_posted": 1758653465000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2 data-end=\"134\" data-start=\"83\"><span style=\"font-size:11pt;\"><strong data-end=\"100\" data-start=\"86\">Job Title:</strong> Java Full Stack Team Lead (AWS)</span></h2>\r\n\r\n<p data-end=\"300\" data-start=\"135\"><strong data-end=\"205\" data-start=\"192\">Location:</strong> Plano, TX (Onsite)</p>\r\n\r\n<h3 data-end=\"331\" data-start=\"307\"><strong data-end=\"329\" data-start=\"311\">About the Role</strong></h3>\r\n\r\n<p data-end=\"656\" data-start=\"332\">We are seeking an experienced <strong data-end=\"391\" data-start=\"362\">Java Full Stack Team Lead</strong> with strong expertise in <strong data-end=\"436\" data-start=\"417\">AWS development</strong> and proven leadership experience. The ideal candidate will be responsible for leading and mentoring an offshore team of <strong data-end=\"584\" data-start=\"557\">5&ndash;6 developers in India</strong>, while driving high-quality delivery of enterprise Java applications.</p>\r\n\r\n<hr data-end=\"661\" data-start=\"658\" />\r\n<h3 data-end=\"693\" data-start=\"663\"><strong data-end=\"691\" data-start=\"667\">Key Responsibilities</strong></h3>\r\n\r\n<ul data-end=\"1315\" data-start=\"694\">\r\n\t<li data-end=\"784\" data-start=\"694\">\r\n\t<p data-end=\"784\" data-start=\"696\">Lead and mentor a distributed team of <strong data-end=\"757\" data-start=\"734\">5&ndash;6 Java developers</strong> (onsite-offshore model).</p>\r\n\t</li>\r\n\t<li data-end=\"871\" data-start=\"785\">\r\n\t<p data-end=\"871\" data-start=\"787\">Design, develop, and deploy <strong data-end=\"847\" data-start=\"815\">Java Full Stack applications</strong> with AWS integration.</p>\r\n\t</li>\r\n\t<li data-end=\"967\" data-start=\"872\">\r\n\t<p data-end=\"967\" data-start=\"874\">Provide technical leadership, conduct code reviews, and ensure best practices are followed.</p>\r\n\t</li>\r\n\t<li data-end=\"1059\" data-start=\"968\">\r\n\t<p data-end=\"1059\" data-start=\"970\">Collaborate with cross-functional teams including product managers, architects, and QA.</p>\r\n\t</li>\r\n\t<li data-end=\"1143\" data-start=\"1060\">\r\n\t<p data-end=\"1143\" data-start=\"1062\">Manage project timelines, assign tasks, and ensure timely delivery of features.</p>\r\n\t</li>\r\n\t<li data-end=\"1232\" data-start=\"1144\">\r\n\t<p data-end=\"1232\" data-start=\"1146\">Drive innovation and continuous improvement in development and deployment processes.</p>\r\n\t</li>\r\n\t<li data-end=\"1315\" data-start=\"1233\">\r\n\t<p data-end=\"1315\" data-start=\"1235\">Troubleshoot complex issues and provide solutions in a fast-paced environment.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"1320\" data-start=\"1317\" />\r\n<h3 data-end=\"1364\" data-start=\"1322\"><strong data-end=\"1362\" data-start=\"1326\">Required Skills &amp; Qualifications</strong></h3>\r\n\r\n<ul data-end=\"2016\" data-start=\"1365\">\r\n\t<li data-end=\"1454\" data-start=\"1365\">\r\n\t<p data-end=\"1454\" data-start=\"1367\">8&ndash;12 years of overall IT experience with <strong data-end=\"1451\" data-start=\"1408\">5&plus; years in Java Full Stack development</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1537\" data-start=\"1455\">\r\n\t<p data-end=\"1537\" data-start=\"1457\">Proven <strong data-end=\"1488\" data-start=\"1464\">Team Lead experience</strong> managing offshore teams (5&ndash;6 members minimum).</p>\r\n\t</li>\r\n\t<li data-end=\"1619\" data-start=\"1538\">\r\n\t<p data-end=\"1619\" data-start=\"1540\">Strong hands-on expertise in <strong data-end=\"1616\" data-start=\"1569\">Java, Spring Boot, Microservices, REST APIs</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1692\" data-start=\"1620\">\r\n\t<p data-end=\"1692\" data-start=\"1622\">Frontend experience with <strong data-end=\"1689\" data-start=\"1647\">React / Angular, HTML, CSS, JavaScript</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1784\" data-start=\"1693\">\r\n\t<p data-end=\"1784\" data-start=\"1695\">Solid experience with <strong data-end=\"1739\" data-start=\"1717\">AWS Cloud services</strong> (EC2, S3, Lambda, RDS, API Gateway, etc.).</p>\r\n\t</li>\r\n\t<li data-end=\"1854\" data-start=\"1785\">\r\n\t<p data-end=\"1854\" data-start=\"1787\">Familiarity with <strong data-end=\"1851\" data-start=\"1804\">CI/CD pipelines (Jenkins, Git, Maven, etc.)</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1935\" data-start=\"1855\">\r\n\t<p data-end=\"1935\" data-start=\"1857\">Strong knowledge of <strong data-end=\"1900\" data-start=\"1877\">Agile methodologies</strong> and distributed team management.</p>\r\n\t</li>\r\n\t<li data-end=\"2016\" data-start=\"1936\">\r\n\t<p data-end=\"2016\" data-start=\"1938\">Excellent problem-solving, communication, and stakeholder management skills.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"2021\" data-start=\"2018\" />\r\n<h3 data-end=\"2045\" data-start=\"2023\"><strong data-end=\"2043\" data-start=\"2027\">Nice to Have</strong></h3>\r\n\r\n<ul data-end=\"2200\" data-start=\"2046\">\r\n\t<li data-end=\"2120\" data-start=\"2046\">\r\n\t<p data-end=\"2120\" data-start=\"2048\">Experience in <strong data-end=\"2117\" data-start=\"2062\">financial services or enterprise-scale applications</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2200\" data-start=\"2121\">\r\n\t<p data-end=\"2200\" data-start=\"2123\">Exposure to <strong data-end=\"2155\" data-start=\"2135\">DevOps practices</strong> and containerization (Docker, Kubernetes).</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31194140",
-    "time_scraped": 1759520781459,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31189285,
-    "title": "Data Analyst / Engineer (SQL & Python)",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758583804000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2><span style=\"font-size:11pt;\"><strong>Job Title:</strong> Data Analyst / Engineer (SQL &amp; Python)</span></h2>\r\n\r\n<p><strong>Location:</strong> Sunnyvale, CA (Onsite/Hybrid</p>\r\n\r\n<h3><strong>About the Role</strong></h3>\r\n\r\n<p>Walmart is seeking a highly skilled <strong>SQL-focused Data Analyst/Engineer</strong> with complementary Python expertise. The ideal candidate will bring <strong>strong hands-on SQL development experience (80%)</strong> along with <strong>Python scripting and automation skills (20%)</strong> to support enterprise-scale data solutions, reporting, and analytics.</p>\r\n\r\n<h3><strong>Key Responsibilities</strong></h3>\r\n\r\n<ul>\r\n\t<li>Develop and optimize <strong>complex SQL queries, stored procedures, views, and functions</strong> for large-scale datasets.</li>\r\n\t<li>Perform <strong>data analysis, reporting, and troubleshooting</strong> to support business and technical teams.</li>\r\n\t<li>Use <strong>Python</strong> to automate repetitive data tasks, build lightweight scripts, and perform data validation.</li>\r\n\t<li>Collaborate with business analysts, data scientists, and engineers to ensure high-quality data delivery.</li>\r\n\t<li>Ensure <strong>data integrity, performance tuning, and optimization</strong> of SQL-based solutions.</li>\r\n\t<li>Contribute to data documentation, best practices, and process improvements.</li>\r\n</ul>\r\n\r\n<h3><strong>Required Skills &amp; Qualifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>5&plus; years of professional experience in <strong>SQL development</strong> (queries, procedures, optimization, performance tuning).</li>\r\n\t<li>Strong background in <strong>relational databases</strong> (e.g., Teradata, Oracle, SQL Server, PostgreSQL, MySQL).</li>\r\n\t<li>At least 1&ndash;3 years of <strong>Python programming</strong> for scripting, automation, or data-related tasks.</li>\r\n\t<li>Experience working with <strong>large datasets, ETL processes, and data pipelines</strong>.</li>\r\n\t<li>Strong analytical and problem-solving skills with attention to detail.</li>\r\n\t<li>Excellent communication and teamwork skills.</li>\r\n</ul>\r\n\r\n<h3><strong>Preferred Qualifications</strong></h3>\r\n\r\n<ul>\r\n\t<li>Experience in <strong>retail, e-commerce, or financial services domain</strong>.</li>\r\n\t<li>Exposure to <strong>cloud data platforms</strong> (Azure, GCP, AWS) and modern data tools.</li>\r\n\t<li>Familiarity with <strong>Agile methodologies</strong> and CI/CD pipelines.</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31189285",
-    "time_scraped": 1759520781415,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31189257,
-    "title": "Packaging Associate INT",
+    "id": 31270767,
+    "title": "Quality Associate I",
     "location": "None, Sturtevant",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758582634000
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759529484000
     },
     "start": {
       "start_dateStr": null,
@@ -1142,28 +152,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br> \r\n<p>Requisition ID: HCR0003083</p>\r\n\r\n<p> </p>\r\n\r\n<p>Job Title: Packaging Associate INT</p>\r\n\r\n<p> </p>\r\n\r\n<p>Job Description:<br />\r\nPack or package by hand a wide variety of products and materials.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Transducer Screening<br />\r\n&bull; Perform transducer screening and inspection.<br />\r\n&bull; Document results of transducer screening and inspection according to Good Documentation Practices (GDPs).<br />\r\n&bull; Assist in the completion of screening and inspection records according to GDPs.<br />\r\n&bull; Assist in the collection of data used to report transducer performance.<br />\r\n&bull; Complete daily screening laboratory equipment and facility records.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Must be able to pass vision testing requirements (with or without corrective eyewear)<br />\r\nHours:  Monday - Friday 6:00 am - 2:30 pm<br />\r\nHourly Rate: $21.00</p>\r\n\r\n<p>Location: 13900 Grandview Pkwy,, Sturtevant, WI</p>\r\n\r\n<p> </p>\r\n\r\n<p>*******************************************************************************<br />\r\n </p>\r\n\r\n<p>Requisition ID: HCR0003072</p>\r\n\r\n<p>Job Title: Packaging Associate INT</p>\r\n\r\n<p> </p>\r\n\r\n<p>Job Description:<br />\r\nTransducer Screening<br />\r\n&bull; Perform transducer screening and inspection.<br />\r\n&bull; Document results of transducer screening and inspection according to Good Documentation Practices (GDPs).<br />\r\n&bull; Assist in the completion of screening and inspection records according to GDPs.<br />\r\n&bull; Assist in the collection of data used to report transducer performance.<br />\r\n&bull; Complete daily screening laboratory equipment and facility records.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Must be able to pass vision testing requirements (with or without corrective eyewear)<br />\r\nHours:  Monday - Friday  12:00 pm  - 8:30 pm<br />\r\nHourly Rate: $21.00</p>\r\n\r\n<p>Location: 13900 Grandview Pkwy,, Sturtevant, WI</p>\r\n\r\n<p> </p>\r\n<br>",
+    "description": "<br><p>Job Title: Quality Associate I</p>\r\n\r\n<p>Requisition ID: HCR0003094</p>\r\n\r\n<p>Bill Rate : $36.00</p>\r\n\r\n<p>Job Description:<br />\r\nExecute Investigations, Root Cause Analysis, Correction, Corrective and Preventive Action activities in accordance with the Company Quality System.</p>\r\n\r\n<p> </p>\r\n\r\n<p>BS in a Physical Science or Engineering or Equivalent Experience Required<br />\r\nExperience in Quality Assurance and/or other regulated industry or similar experience required<br />\r\nStrong technical writing and general problem-solving skills required.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Requires Vision Assessment (20/20 near visual acuity &amp; acceptable color vision)</p>\r\n\r\n<p> </p>\r\n\r\n<p>Location: 13900 Grandview Pkwy, Sturtevant WI</p>\r\n<br>",
     "recruiter": [
       "Mani Infoway",
       "mani.t@infowaygroup.com",
       "6026983321"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31189257",
-    "time_scraped": 1759520781394,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31270767",
+    "time_scraped": 1759930151240,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 31189027,
-    "title": "React Developer",
-    "location": "VA, Reston",
+    "id": 31270714,
+    "title": "Engineering PM ",
+    "location": "CA, San Francisco",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758579837000
+      "date_postedStr": "10/3/2025",
+      "date_posted": 1759528319000
     },
     "start": {
       "start_dateStr": null,
@@ -1175,311 +185,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br><p>React Developer</p>\r\n\r\n<p>Reston, VA</p>\r\n\r\n<p>Walmart</p>\r\n\r\n<p> </p>\r\n\r\n<p>Job Summary:</p>\r\n\r\n<p>We are seeking a skilled React Developer to design and implement user-facing features for web applications. The ideal candidate will have strong expertise in React.js, modern JavaScript, and front-end development best practices. You will collaborate with UI/UX designers, backend developers, and product teams to deliver high-quality, scalable, and performant applications.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Key Responsibilities:</p>\r\n\r\n<p> </p>\r\n\r\n<p>* Develop new user-facing features using **React.js** and related technologies.</p>\r\n\r\n<p>* Build reusable, efficient, and modular components.</p>\r\n\r\n<p>* Ensure UI/UX designs are technically feasible and optimized for performance.</p>\r\n\r\n<p>* Maintain and improve the existing codebase and contribute to code reviews.</p>\r\n\r\n<p>* Integrate with RESTful APIs and backend services.</p>\r\n\r\n<p>* Optimize components for maximum speed and scalability.</p>\r\n\r\n<p>* Troubleshoot, debug, and resolve front-end issues.</p>\r\n\r\n<p>* Stay up to date with emerging technologies and industry trends.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Required Skills &amp; Qualifications:</p>\r\n\r\n<p> </p>\r\n\r\n<p>* Strong proficiency in **JavaScript (ES6&plus;), HTML5, CSS3**.</p>\r\n\r\n<p>* Hands-on experience with **React.js** and its core principles.</p>\r\n\r\n<p>* Familiarity with **Redux, Context API, or other state management libraries**.</p>\r\n\r\n<p>* Experience with **RESTful APIs** and **asynchronous request handling**.</p>\r\n\r\n<p>* Understanding of responsive design, cross-browser compatibility, and web accessibility standards.</p>\r\n\r\n<p>* Familiarity with build tools such as **Webpack, Babel, or Vite**.</p>\r\n\r\n<p>* Version control knowledge (**Git, GitHub/GitLab/Bitbucket**).</p>\r\n\r\n<p>* Strong problem-solving and communication skills.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Preferred Qualifications:</p>\r\n\r\n<p> </p>\r\n\r\n<p>* Experience with **TypeScript**.</p>\r\n\r\n<p>* Knowledge of **Next.js** or other SSR frameworks.</p>\r\n\r\n<p>* Familiarity with **unit testing** (Jest, React Testing Library).</p>\r\n\r\n<p>* Experience with **CI/CD pipelines** and agile methodologies.</p>\r\n\r\n<p>* Exposure to **cloud platforms (AWS, Azure, GCP)**.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Education &amp; Experience:</p>\r\n\r\n<p> </p>\r\n\r\n<p>* Bachelor&#39;s degree in Computer Science, Engineering, or related field (or equivalent work experience).</p>\r\n\r\n<p>* 2&ndash;5 years of professional experience in front-end development with React.js.</p>\r\n\r\n<p> </p>\r\n<br>",
-    "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31189027",
-    "time_scraped": 1759520787290,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31188691,
-    "title": "ESB/API Software Engineer / Lead",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758576106000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2 data-end=\"176\" data-start=\"124\"><span style=\"font-size:11pt;\"><strong data-end=\"141\" data-start=\"127\">Job Title:</strong> ESB/API Software Engineer / Lead</span></h2>\r\n\r\n<p data-end=\"281\" data-start=\"177\"><strong data-end=\"190\" data-start=\"177\">Location:</strong> Pittsburgh, PA</p>\r\n\r\n<h3 data-end=\"312\" data-start=\"288\"><strong data-end=\"310\" data-start=\"292\">About the Role</strong></h3>\r\n\r\n<p data-end=\"700\" data-start=\"313\">We are seeking a highly skilled <strong data-end=\"379\" data-start=\"345\">ESB/API Software Engineer/Lead</strong> to design, develop, and deliver enterprise-level integration solutions. The ideal candidate will bring strong expertise in <strong data-end=\"539\" data-start=\"503\">IBM App Connect Enterprise (ACE)</strong>, <strong data-end=\"551\" data-start=\"541\">IBM MQ</strong>, <strong data-end=\"572\" data-start=\"553\">API development</strong>, and <strong data-end=\"592\" data-start=\"578\">automation</strong>, with the ability to lead technical initiatives and ensure smooth deployment in large-scale environments.</p>\r\n\r\n<hr data-end=\"705\" data-start=\"702\" />\r\n<h3 data-end=\"737\" data-start=\"707\"><strong data-end=\"735\" data-start=\"711\">Key Responsibilities</strong></h3>\r\n\r\n<ul data-end=\"1652\" data-start=\"738\">\r\n\t<li data-end=\"832\" data-start=\"738\">\r\n\t<p data-end=\"832\" data-start=\"740\">Lead the design, development, and deployment of <strong data-end=\"829\" data-start=\"788\">ESB/API-based enterprise applications</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"926\" data-start=\"833\">\r\n\t<p data-end=\"926\" data-start=\"835\">Provide <strong data-end=\"876\" data-start=\"843\">hands-on technical leadership</strong> for development teams and integration projects.</p>\r\n\t</li>\r\n\t<li data-end=\"993\" data-start=\"927\">\r\n\t<p data-end=\"993\" data-start=\"929\">Build integrations using <strong data-end=\"965\" data-start=\"954\">IBM ACE</strong> and <strong data-end=\"990\" data-start=\"970\">IBM MQ messaging</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1076\" data-start=\"994\">\r\n\t<p data-end=\"1076\" data-start=\"996\">Develop automation scripts using <strong data-end=\"1040\" data-start=\"1029\">Ansible</strong> for configuration and deployment.</p>\r\n\t</li>\r\n\t<li data-end=\"1173\" data-start=\"1077\">\r\n\t<p data-end=\"1173\" data-start=\"1079\">Work with <strong data-end=\"1113\" data-start=\"1089\">Linux/Unix platforms</strong> and Shell scripting for environment setup and monitoring.</p>\r\n\t</li>\r\n\t<li data-end=\"1236\" data-start=\"1174\">\r\n\t<p data-end=\"1236\" data-start=\"1176\">Support and enhance <strong data-end=\"1215\" data-start=\"1196\">CI/CD pipelines</strong> using <strong data-end=\"1233\" data-start=\"1222\">Jenkins</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1293\" data-start=\"1237\">\r\n\t<p data-end=\"1293\" data-start=\"1239\">Manage deployments on <strong data-end=\"1280\" data-start=\"1261\">Openshift (OCP)</strong> platforms.</p>\r\n\t</li>\r\n\t<li data-end=\"1361\" data-start=\"1294\">\r\n\t<p data-end=\"1361\" data-start=\"1296\">Work with <strong data-end=\"1334\" data-start=\"1306\">DB2 and Oracle databases</strong> for backend integration.</p>\r\n\t</li>\r\n\t<li data-end=\"1440\" data-start=\"1362\">\r\n\t<p data-end=\"1440\" data-start=\"1364\">Develop and optimize APIs ensuring performance, scalability, and security.</p>\r\n\t</li>\r\n\t<li data-end=\"1545\" data-start=\"1441\">\r\n\t<p data-end=\"1545\" data-start=\"1443\">Configure and maintain <strong data-end=\"1486\" data-start=\"1466\">scheduling tools</strong> and <strong data-end=\"1519\" data-start=\"1491\">file transfer mechanisms</strong> (e.g., Connect:Direct).</p>\r\n\t</li>\r\n\t<li data-end=\"1652\" data-start=\"1546\">\r\n\t<p data-end=\"1652\" data-start=\"1548\">Collaborate with cross-functional teams to resolve integration issues and optimize system performance.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"1657\" data-start=\"1654\" />\r\n<h3 data-end=\"1701\" data-start=\"1659\"><strong data-end=\"1699\" data-start=\"1663\">Required Skills &amp; Qualifications</strong></h3>\r\n\r\n<ul data-end=\"2298\" data-start=\"1702\">\r\n\t<li data-end=\"1800\" data-start=\"1702\">\r\n\t<p data-end=\"1800\" data-start=\"1704\">Proven hands-on experience with <strong data-end=\"1772\" data-start=\"1736\">IBM App Connect Enterprise (ACE)</strong> and <strong data-end=\"1797\" data-start=\"1777\">Java development</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1848\" data-start=\"1801\">\r\n\t<p data-end=\"1848\" data-start=\"1803\">Strong expertise with <strong data-end=\"1845\" data-start=\"1825\">IBM MQ messaging</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1923\" data-start=\"1849\">\r\n\t<p data-end=\"1923\" data-start=\"1851\">Solid understanding of <strong data-end=\"1896\" data-start=\"1874\">Linux/Unix systems</strong> and <strong data-end=\"1920\" data-start=\"1901\">Shell scripting</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1981\" data-start=\"1924\">\r\n\t<p data-end=\"1981\" data-start=\"1926\">Experience with <strong data-end=\"1963\" data-start=\"1942\">Ansible scripting</strong> for automation.</p>\r\n\t</li>\r\n\t<li data-end=\"2037\" data-start=\"1982\">\r\n\t<p data-end=\"2037\" data-start=\"1984\">Working knowledge of <strong data-end=\"2034\" data-start=\"2005\">CI/CD pipelines (Jenkins)</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2099\" data-start=\"2038\">\r\n\t<p data-end=\"2099\" data-start=\"2040\">Hands-on experience with <strong data-end=\"2084\" data-start=\"2065\">Openshift (OCP)</strong> deployments.</p>\r\n\t</li>\r\n\t<li data-end=\"2153\" data-start=\"2100\">\r\n\t<p data-end=\"2153\" data-start=\"2102\">Strong knowledge of <strong data-end=\"2150\" data-start=\"2122\">DB2 and Oracle databases</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2204\" data-start=\"2154\">\r\n\t<p data-end=\"2204\" data-start=\"2156\">Proficiency in <strong data-end=\"2201\" data-start=\"2171\">API design and development</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2298\" data-start=\"2205\">\r\n\t<p data-end=\"2298\" data-start=\"2207\">Familiarity with <strong data-end=\"2244\" data-start=\"2224\">scheduling tools</strong> and <strong data-end=\"2275\" data-start=\"2249\">file transfer products</strong> like Connect:Direct.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"2303\" data-start=\"2300\" />\r\n<h3 data-end=\"2327\" data-start=\"2305\"><strong data-end=\"2325\" data-start=\"2309\">Nice to Have</strong></h3>\r\n\r\n<ul data-end=\"2469\" data-start=\"2328\">\r\n\t<li data-end=\"2384\" data-start=\"2328\">\r\n\t<p data-end=\"2384\" data-start=\"2330\">Domain knowledge in <strong data-end=\"2381\" data-start=\"2350\">Payments/Financial Services</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2469\" data-start=\"2385\">\r\n\t<p data-end=\"2469\" data-start=\"2387\">Experience with <strong data-end=\"2446\" data-start=\"2403\">IBM Financial Transaction Manager (FTM)</strong> or similar products.</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31188691",
-    "time_scraped": 1759520787273,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31187646,
-    "title": "Cloud Migration Specialist",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/22/2025",
-      "date_posted": 1758569875000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2 data-end=\"127\" data-start=\"81\"> <span style=\"font-size:11pt;\"> <strong data-end=\"98\" data-start=\"84\"> Job Title:</strong> Cloud Migration Specialist</span> </h2> \r\n\r\n<p data-end=\"298\" data-start=\"128\"> <strong data-end=\"141\" data-start=\"128\"> Location:</strong> Charlotte, NC (Onsite/Hybrid)</p> \r\n\r\n<h3 data-end=\"329\" data-start=\"305\"> <strong data-end=\"327\" data-start=\"309\"> About the Role</strong></h3> \r\n\r\n<p data-end=\"731\" data-start=\"330\"> We are seeking a highly skilled <strong data-end=\"392\" data-start=\"362\"> Cloud Migration Specialist</strong> with strong expertise in <strong data-end=\"470\" data-start=\"418\"> AWS, DevSecOps, and Infrastructure as Code (IaC)</strong> to support enterprise-level migration initiatives. The ideal candidate will have proven experience in designing, automating, and executing <strong data-end=\"645\" data-start=\"610\"> public cloud migration projects</strong>, with hands-on knowledge of <strong data-end=\"728\" data-start=\"674\"> Ansible, Terraform, GitLab CI/CD, and AWS services</strong>.</p> \r\n\r\n<hr data-end=\"736\" data-start=\"733\" /> \r\n<h3 data-end=\"768\" data-start=\"738\"> <strong data-end=\"766\" data-start=\"742\"> Key Responsibilities</strong></h3> \r\n\r\n<ul data-end=\"1452\" data-start=\"769\"> \r\n\t<li data-end=\"873\" data-start=\"769\"> \r\n\t<p data-end=\"873\" data-start=\"771\"> Lead and execute <strong data-end=\"816\" data-start=\"788\"> cloud migration projects</strong> from on-premise/private cloud to <strong data-end=\"870\" data-start=\"850\"> AWS public cloud</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"980\" data-start=\"874\"> \r\n\t<p data-end=\"980\" data-start=\"876\"> Utilize <strong data-end=\"918\" data-start=\"884\"> Ansible, Terraform, and GitLab</strong> to automate deployments and streamline migration processes.</p> \r\n\t</li> \r\n\t<li data-end=\"1072\" data-start=\"981\"> \r\n\t<p data-end=\"1072\" data-start=\"983\"> Develop and maintain <strong data-end=\"1029\" data-start=\"1004\"> IaC templates/scripts</strong> for scalable and repeatable deployments.</p> \r\n\t</li> \r\n\t<li data-end=\"1194\" data-start=\"1073\"> \r\n\t<p data-end=\"1194\" data-start=\"1075\"> Collaborate with application teams to define <strong data-end=\"1144\" data-start=\"1120\"> migration approaches</strong> and onboard workloads to cloud-first standards.</p> \r\n\t</li> \r\n\t<li data-end=\"1284\" data-start=\"1195\"> \r\n\t<p data-end=\"1284\" data-start=\"1197\"> Provide guidance on <strong data-end=\"1245\" data-start=\"1217\"> DevSecOps best practices</strong>, including secure CI/CD integration.</p> \r\n\t</li> \r\n\t<li data-end=\"1373\" data-start=\"1285\"> \r\n\t<p data-end=\"1373\" data-start=\"1287\"> Optimize cloud infrastructure for <strong data-end=\"1370\" data-start=\"1321\"> scalability, performance, and cost efficiency</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"1452\" data-start=\"1374\"> \r\n\t<p data-end=\"1452\" data-start=\"1376\"> Troubleshoot and resolve issues during cloud deployments and integrations.</p> \r\n\t</li> \r\n</ul> \r\n\r\n<hr data-end=\"1457\" data-start=\"1454\" /> \r\n<h3 data-end=\"1501\" data-start=\"1459\"> <strong data-end=\"1499\" data-start=\"1463\"> Required Skills & Qualifications</strong></h3> \r\n\r\n<ul data-end=\"2077\" data-start=\"1502\"> \r\n\t<li data-end=\"1596\" data-start=\"1502\"> \r\n\t<p data-end=\"1596\" data-start=\"1504\"> 5–8 years of overall IT experience with at least <strong data-end=\"1584\" data-start=\"1553\"> 3&plus; years in cloud migration</strong> projects.</p> \r\n\t</li> \r\n\t<li data-end=\"1677\" data-start=\"1597\"> \r\n\t<p data-end=\"1677\" data-start=\"1599\"> Strong expertise in <strong data-end=\"1635\" data-start=\"1619\"> AWS services</strong> (EC2, S3, VPC, IAM, RDS, Lambda, etc.).</p> \r\n\t</li> \r\n\t<li data-end=\"1760\" data-start=\"1678\"> \r\n\t<p data-end=\"1760\" data-start=\"1680\"> Proficiency in <strong data-end=\"1727\" data-start=\"1695\"> Infrastructure as Code (IaC)</strong> using <strong data-end=\"1757\" data-start=\"1734\"> Terraform & Ansible</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"1841\" data-start=\"1761\"> \r\n\t<p data-end=\"1841\" data-start=\"1763\"> Hands-on experience with <strong data-end=\"1804\" data-start=\"1788\"> GitLab CI/CD</strong> pipelines and DevSecOps practices.</p> \r\n\t</li> \r\n\t<li data-end=\"1933\" data-start=\"1842\"> \r\n\t<p data-end=\"1933\" data-start=\"1844\"> Solid background in <strong data-end=\"1891\" data-start=\"1864\"> Linux/Unix environments</strong> and scripting (Python, Shell, or Bash).</p> \r\n\t</li> \r\n\t<li data-end=\"2023\" data-start=\"1934\"> \r\n\t<p data-end=\"2023\" data-start=\"1936\"> Strong problem-solving skills and ability to collaborate with cross-functional teams.</p> \r\n\t</li> \r\n\t<li data-end=\"2077\" data-start=\"2024\"> \r\n\t<p data-end=\"2077\" data-start=\"2026\"> Excellent communication and documentation skills.</p> \r\n\t</li> \r\n</ul> \r\n\r\n<hr data-end=\"2082\" data-start=\"2079\" /> \r\n<h3 data-end=\"2106\" data-start=\"2084\"> <strong data-end=\"2104\" data-start=\"2088\"> Nice to Have</strong></h3> \r\n\r\n<ul data-end=\"2280\" data-start=\"2107\"> \r\n\t<li data-end=\"2164\" data-start=\"2107\"> \r\n\t<p data-end=\"2164\" data-start=\"2109\"> Exposure to <strong data-end=\"2161\" data-start=\"2121\"> multi-cloud environments (Azure/GCP)</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"2228\" data-start=\"2165\"> \r\n\t<p data-end=\"2228\" data-start=\"2167\"> Familiarity with <strong data-end=\"2225\" data-start=\"2184\"> containerization (Docker, Kubernetes)</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"2280\" data-start=\"2229\"> \r\n\t<p data-end=\"2280\" data-start=\"2231\"> Knowledge of <strong data-end=\"2277\" data-start=\"2244\"> cloud security best practices</strong>.</p> \r\n\t</li> \r\n</ul> \r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31187646",
-    "time_scraped": 1759520787306,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31179174,
-    "title": "Android Engineer",
-    "location": "CA, Sunnyvale",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758320955000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><br />\r\n<b data-olk-copy-source=\"MessageBody\">Role: Android Engineer<br />\r\nLocation: Sunnyvale CA<br />\r\n<br />\r\nKey Responsibilities:</b>\r\n<ul>\r\n\t<li>&middot; 5&plus; years of experience in a DevOps / SRE and Migration.</li>\r\n\t<li>&middot; Provide operational support for the telemetry stack, observability stack in a Kubernetes environment.</li>\r\n\t<li>&middot; Develop and maintain Python scripts/tools for automation, monitoring, and support.</li>\r\n\t<li>&middot; Configure, monitor, and troubleshoot observability platforms (Grafana, Prometheus, Loki, etc.).</li>\r\n\t<li>&middot; Collaborate with DevOps, SRE, and development teams to ensure system observability and performance.</li>\r\n\t<li>&middot; Strong hands-on experience with Kubernetes (deployment, configuration, troubleshooting).</li>\r\n\t<li>&middot; Proficiency in Python for scripting, automation, and tool development is must.</li>\r\n\t<li>&middot; Familiarity with observability tools such as Grafana, Prometheus, and optionally Loki or Tempo.</li>\r\n\t<li>&middot; Experience with containerization tools (Docker) and CI/CD pipelines.</li>\r\n\t<li>&middot; Familiarity with logging and tracing systems.</li>\r\n\t<li>&middot; Comfortable working in a Linux-based environment and with Git-based workflows.</li>\r\n</ul>\r\n<b>Preferred Qualifications</b>\r\n\r\n<ul>\r\n\t<li>&middot; Experience with service meshes like Cilium.</li>\r\n\t<li>&middot; Knowledge of infrastructure-as-code (Pulumi / Terraform&plus;Helm/ Spinnaker)</li>\r\n\t<li>&middot; Familiarity with cloud providers (AWS, GCP, Azure).</li>\r\n\t<li>&middot; Strong troubleshooting and performance tuning skills.</li>\r\n</ul>\r\n<br />\r\n <br>",
+    "description": "<br><p>Engineering Project Manager</p>\r\n\r\n<p>Onsite (SF Bay Area)</p>\r\n\r\n<p> </p>\r\n\r\n<p>Skill Sets</p>\r\n\r\n<p>Project Management</p>\r\n\r\n<p>Agile Project Management</p>\r\n\r\n<p> </p>\r\n\r\n<p>&bull; Responsible for Initiating, Planning, Executing, Monitoring, and Closing a number of concurrent engineering projects. </p>\r\n\r\n<p>&bull; Drive and ship all aspects of large, cross-functional projects. </p>\r\n\r\n<p>&bull; Oversees all aspects of multiple concurrent projects including scope, requirements, timelines, and resource allocation. </p>\r\n\r\n<p>&bull; Analyze business requirements, negotiate scope, and define functional requirements. </p>\r\n\r\n<p>&bull; Manage communication apprising status and issues to team members, management and other project stakeholders. </p>\r\n\r\n<p>&bull; Develop, manage, and execute project plans, defining scope, schedule, risk, deliverables, resources and budget.</p>\r\n<br>",
     "recruiter": [
       "Nandhini Infoway",
       "nandhini@infowaygroup.com",
       "5108804495"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31179174",
-    "time_scraped": 1759520787290,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31178435,
-    "title": "React Native Developer ",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758314510000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><strong>Job Title: React Native Developer </strong></p>\r\n\r\n<p><strong>Location : Reston, VA </strong></p>\r\n\r\n<p><br />\r\n </p>\r\n\r\n<p><strong>Job Description</strong></p>\r\n\r\n<p>As a React Native Developer, you will be responsible for developing high-quality mobile applications for iOS and Android platforms. You will work closely with UX/UI designers, product managers, and backend engineers to build user-centric and scalable mobile solutions.</p>\r\n\r\n<hr />\r\n<p><strong>Responsibilities</strong></p>\r\n\r\n<ul>\r\n\t<li>Develop and maintain cross-platform mobile applications using React Native.</li>\r\n\t<li>Collaborate with product and design teams to understand user needs and translate them into technical requirements.</li>\r\n\t<li>Integrate mobile apps with RESTful APIs and third-party services.</li>\r\n\t<li>Optimize application performance and fix bugs.</li>\r\n\t<li>Write clean, maintainable, and well-documented code.</li>\r\n\t<li>Participate in code reviews and contribute to team knowledge sharing.</li>\r\n\t<li>Deploy applications to Apple App Store and Google Play Store.</li>\r\n\t<li>Stay updated with the latest trends in mobile development and suggest improvements.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p><strong>Required Skills</strong></p>\r\n\r\n<ul>\r\n\t<li>3&plus; years of experience in mobile development with at least 2 years in <strong>React Native</strong>.</li>\r\n\t<li>Strong proficiency in <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, and <strong>React Native</strong>.</li>\r\n\t<li>Solid understanding of mobile app architecture and lifecycle.</li>\r\n\t<li>Experience with state management libraries like <strong>Redux</strong>, <strong>MobX</strong>, or <strong>Context API</strong>.</li>\r\n\t<li>Familiarity with native build tools (Xcode, Android Studio).</li>\r\n\t<li>Experience with Git and collaborative development tools (Jira, GitHub, Bitbucket).</li>\r\n\t<li>Knowledge of integrating third-party libraries and APIs.</li>\r\n\t<li>Experience in publishing apps to App Store and Play Store.</li>\r\n</ul>\r\n\r\n<hr />\r\n<p><strong>Preferred Skills</strong></p>\r\n\r\n<ul>\r\n\t<li>Familiarity with native iOS or Android development (Swift, Objective-C, Kotlin, Java).</li>\r\n\t<li>Experience with push notifications, analytics, and mobile app performance tools.</li>\r\n\t<li>Understanding of CI/CD pipelines for mobile apps.</li>\r\n\t<li>Experience working in Agile/Scrum environments.</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Ashish Infoway",
-      "ashish.m@infowaygroup.com",
-      "9253994684"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31178435",
-    "time_scraped": 1759520787290,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31178176,
-    "title": "Conversational AI Chatbot Developer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758313478000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p>title: <strong>Conversational AI Chatbot Developer</strong><br />\r\n<br />\r\nLocation - <strong> </strong>Hartford, CT</p>\r\n\r\n<p> </p>\r\n\r\n<p>Seeking a <strong>Conversational AI Chatbot Developer</strong> to drive the overall user experience for a Conversational AI platform that is helping our members to get answers to their health insurance questions through the channel of their choice.  In this role you will be responsible for implementing the conversational flows to deliver a superior user experience.  This role is responsible for implementing the conversational dialogs, partnering with product and technology partners to understand the requirements, influence features, and design. </p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>You will make an impact by:</strong></p>\r\n\r\n<ul>\r\n\t<li>Ability to design and develop AI conversations with responses coming from outside APIs via cloud function or integration with other systems</li>\r\n\t<li>Applying clean coding skills and best practices</li>\r\n\t<li>Collaborating with user interface designers and backend application integration teams to understand the mechanisms through which the conversational AI solution will be used and what is needed to fulfill intents</li>\r\n\t<li>Collaborating with teams and other developers to design, develop, test, deploy and maintain a chatbot</li>\r\n\t<li>Troubleshoot bots, debug, and deploy chatbots on various channels (voice/chat)</li>\r\n\t<li>Leveraging AI, NLP Technologies and cognitive machine learning to develop chatbot applications</li>\r\n\t<li>Integrate chatbot solutions with multiple platforms</li>\r\n\t<li>Enhancing user effectiveness of the conversational agents with the help of advanced technologies</li>\r\n\t<li>Continuously develop knowledge of emerging technologies and analytics techniques and support the pursuit of business development opportunities</li>\r\n\t<li>Tuning and enhancing Speech to Text models</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Required Qualifications</strong></p>\r\n\r\n<ul>\r\n\t<li>5&plus; years software delivery experience</li>\r\n\t<li>3&plus; years of Chatbot development experience with IBM Watson Assistant, or any other similar chatbot conversational AI tool (i.e Google Dialogflow CX, LivePerson, Amazon Lex, Kore.ai)</li>\r\n\t<li>3&plus; years training and improving intent recognition by curating the appropriate training data sets</li>\r\n\t<li>3&plus; years applying Conversational AI best practices (e.g. NLP and training data best practices)</li>\r\n\t<li>1&plus; years of experience in CICD, Git, unit-testing and source code management</li>\r\n\t<li>1&plus; years of knowledge of cloud development and deployment principles</li>\r\n\t<li>1&plus; years of working in an Agile environment, with knowledge in DevOps approaches, end-to-end software development processes and business requirements</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Preferred Qualifications</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with working on watsonx Assistant and watsonx Orchestrate</li>\r\n\t<li>Backend (server side) development experience either in Java, node.js</li>\r\n\t<li>Multi-language background and experience working with programming languages such as Python, Java, Javascript/Typescript</li>\r\n\t<li>Experience with IBM Voice gateway and / or IBM Discovery is a plus</li>\r\n\t<li>Knowledge of automated speech recognition, including SSML tagging for TTS</li>\r\n</ul>\r\n\r\n<p><strong>Education</strong></p>\r\n\r\n<p>Bachelor&#39;s degree in computer science and engineering or STEM or equivalent experience ( high school &plus; 4 years of relevant experience.)</p>\r\n<br>",
-    "recruiter": [
-      "Adil Infoway",
-      "adil.s@infowaygroup.com",
-      "9255926170"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31178176",
-    "time_scraped": 1759520793175,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31178137,
-    "title": "SW Tools Developer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758313341000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><p><strong><u>SW Tools Developer</u> </strong>Location: Sunnyvale, CA JD:</p>\r\n\r\n<ul>\r\n\t<li>Experience in swift development</li>\r\n\t<li>Familiarity with XCTest Framework</li>\r\n\t<li>Proven full-stack development, preferably in Python</li>\r\n\t<li>Knowledge of JavaScript, Node.js and other front-end frameworks such as React</li>\r\n\t<li>Passionate about product quality and attention to detail regardless of complexity of solution</li>\r\n\t<li>Excellent troubleshooting and triaging skills</li>\r\n\t<li>Ability to learn new technologies independently &amp; bring new perspectives to our team </li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Adil Infoway",
-      "adil.s@infowaygroup.com",
-      "9255926170"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31178137",
-    "time_scraped": 1759520793251,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31177364,
-    "title": "Full Stack Developer",
-    "location": "CA, Sunnyvale",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758307279000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Full Stack Developer<br />\r\nSunnyvale, CA/Bentonville, AR<br />\r\nOnsite Job<br />\r\n<br />\r\nRequired Skills:<br />\r\nReact,<br />\r\nGraphQL,<br />\r\nJava,<br />\r\nSpringboot,<br />\r\nCloud<br>",
-    "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31177364",
-    "time_scraped": 1759520793249,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31175886,
-    "title": " Full Stack Engineer",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/19/2025",
-      "date_posted": 1758298874000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br>Hi Team,<br />\r\n<br />\r\n  There are multiple positions.  Please submit 5 - 10 resumes soon.  Do cross check with previous submittals if they are still available.<br />\r\n<br />\r\nLocation - Wilmington, DE ( 5 days onsite)<br />\r\nDuration - 6&plus; months easily<br />\r\n<br />\r\n<br />\r\nSkills - Full Stack Engineer - Intermediate level 4- 7 yrs and Sr level 8 - 12 yrs<br />\r\nAWS Cloud Native - Must <br />\r\nJava and Python - Must<br />\r\nGIT, Unit testing, Dev Ops, CI/CD - Must<br />\r\nExp. With Authentication protocols SAML and JWT<br />\r\n<br />\r\nNice to have <br />\r\nKubernetes<br>",
-    "recruiter": [
-      "Adil Infoway",
-      "adil.s@infowaygroup.com",
-      "9255926170"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31175886",
-    "time_scraped": 1759520793231,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 31170882,
-    "title": "PySpark & Databricks Expert",
-    "location": "N/A",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "9/18/2025",
-      "date_posted": 1758226396000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<br><h2 data-end=\"119\" data-start=\"72\"><span style=\"font-size:11pt;\"><strong data-end=\"89\" data-start=\"75\">Job Title:</strong> PySpark &amp; Databricks Expert</span><br />\r\n<strong data-end=\"172\" data-start=\"159\"><span style=\"font-size:11pt;\">Location:</span></strong><span style=\"font-size:11pt;\"> Plano, TX (Onsite)<br data-end=\"194\" data-start=\"191\" />\r\n<strong data-end=\"283\" data-start=\"265\">About the Role</strong></span></h2>\r\n\r\n<p data-end=\"595\" data-start=\"286\">We are seeking a highly skilled <strong data-end=\"349\" data-start=\"318\">PySpark &amp; Databricks Expert</strong> to join our client, <strong data-end=\"398\" data-start=\"370\">J.P. Morgan Chase (Banking)</strong>, in Plano, TX. The ideal candidate will have strong expertise in <strong data-end=\"490\" data-start=\"464\">PySpark and Databricks</strong> with proven experience building scalable, enterprise-level data solutions in a fast-paced environment.</p>\r\n\r\n<h3 data-end=\"627\" data-start=\"597\"><strong data-end=\"625\" data-start=\"601\">Key Responsibilities</strong></h3>\r\n\r\n<ul data-end=\"1229\" data-start=\"628\">\r\n\t<li data-end=\"724\" data-start=\"628\">\r\n\t<p data-end=\"724\" data-start=\"630\">Design, develop, and optimize large-scale <strong data-end=\"690\" data-start=\"672\">data pipelines</strong> using <strong data-end=\"721\" data-start=\"697\">PySpark &amp; Databricks</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"852\" data-start=\"725\">\r\n\t<p data-end=\"852\" data-start=\"727\">Collaborate with data engineers, solution architects, and business stakeholders to deliver high-performance data solutions.</p>\r\n\t</li>\r\n\t<li data-end=\"949\" data-start=\"853\">\r\n\t<p data-end=\"949\" data-start=\"855\">Perform <strong data-end=\"885\" data-start=\"863\">performance tuning</strong> and ensure scalability and reliability of Spark applications.</p>\r\n\t</li>\r\n\t<li data-end=\"1033\" data-start=\"950\">\r\n\t<p data-end=\"1033\" data-start=\"952\">Leverage cloud platforms (<strong data-end=\"991\" data-start=\"978\">Azure/AWS</strong>) for modern data engineering practices.</p>\r\n\t</li>\r\n\t<li data-end=\"1139\" data-start=\"1034\">\r\n\t<p data-end=\"1139\" data-start=\"1036\">Work in an <strong data-end=\"1068\" data-start=\"1047\">Agile environment</strong>, contributing to sprint planning, code reviews, and CI/CD pipelines.</p>\r\n\t</li>\r\n\t<li data-end=\"1229\" data-start=\"1140\">\r\n\t<p data-end=\"1229\" data-start=\"1142\">Champion <strong data-end=\"1169\" data-start=\"1151\">best practices</strong> in data engineering, coding standards, and documentation.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1273\" data-start=\"1231\"><strong data-end=\"1271\" data-start=\"1235\">Required Skills &amp; Qualifications</strong></h3>\r\n\r\n<ul data-end=\"1688\" data-start=\"1274\">\r\n\t<li data-end=\"1346\" data-start=\"1274\">\r\n\t<p data-end=\"1346\" data-start=\"1276\">Strong hands-on expertise with <strong data-end=\"1331\" data-start=\"1307\">PySpark &amp; Databricks</strong> (mandatory).</p>\r\n\t</li>\r\n\t<li data-end=\"1431\" data-start=\"1347\">\r\n\t<p data-end=\"1431\" data-start=\"1349\">In-depth understanding of <strong data-end=\"1398\" data-start=\"1375\">big data ecosystems</strong> and <strong data-end=\"1428\" data-start=\"1403\">distributed computing</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1508\" data-start=\"1432\">\r\n\t<p data-end=\"1508\" data-start=\"1434\">Proven experience in <strong data-end=\"1483\" data-start=\"1455\">performance optimization</strong> of Spark applications.</p>\r\n\t</li>\r\n\t<li data-end=\"1570\" data-start=\"1509\">\r\n\t<p data-end=\"1570\" data-start=\"1511\">Exposure to <strong data-end=\"1555\" data-start=\"1523\">Azure or AWS cloud platforms</strong> (preferred).</p>\r\n\t</li>\r\n\t<li data-end=\"1639\" data-start=\"1571\">\r\n\t<p data-end=\"1639\" data-start=\"1573\">Excellent <strong data-end=\"1636\" data-start=\"1583\">analytical, problem-solving, and debugging skills</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"1688\" data-start=\"1640\">\r\n\t<p data-end=\"1688\" data-start=\"1642\">Strong communication and teamwork abilities.</p>\r\n\t</li>\r\n</ul>\r\n<br>",
-    "recruiter": [
-      "Suyog Patil",
-      "Suyog@infowaygroup.com",
-      "9253019833"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31170882",
-    "time_scraped": 1759520793238,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/31270714",
+    "time_scraped": 1759930156959,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
