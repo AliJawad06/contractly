@@ -291,7 +291,7 @@ class SimplifiedJobScraper:
         
         return successful_jobs
 
-    async def scrape_all_job_details(self, company: str, max_concurrent: int = 9):
+    async def scrape_all_job_details(self, company: str, max_concurrent: int = 2):
         """Scrape details for all jobs with controlled concurrency"""
         if not self.job_ids:
             logger.warning("No job IDs to process")
