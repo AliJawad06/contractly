@@ -42,8 +42,8 @@ class SimplifiedJobScraper:
         try:
             # Handle timestamp in milliseconds
             if isinstance(post_date, (int, float)) and post_date > 0:
-                return post_date < 1759932389000
-                                   
+                return post_date < 1759526289000
+                                    #1759526289000
             # Handle string dates if needed
             if isinstance(post_date, str):
                 # Add parsing logic for string dates if your API returns them
@@ -130,7 +130,15 @@ class SimplifiedJobScraper:
     async def get_job_ids_from_listing(self, company: str):
         """Get all job IDs from the job listing pages with date cutoff"""
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=self.headless, slow_mo=self.slow_mo)
+            browser = await p.chromium.launch(headless=self.headless, args=[
+        "--disable-gpu",
+        "--no-sandbox",
+        "--disable-dev-shm-usage",
+        "--disable-extensions",
+        "--disable-background-timer-throttling",
+        "--disable-renderer-backgrounding",
+        "--disable-backgrounding-occluded-windows"
+    ])
             context = await browser.new_context()
             page = await context.new_page()
             
