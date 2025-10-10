@@ -357,7 +357,7 @@ def run_company_scraper(company_data, date_cutoff_days=15):
             
             # Step 2: Get detailed information for each job
             logger.info(f"Scraping details for {len(scraper.job_ids)} recent jobs from {company}...")
-            job_details = await scraper.scrape_all_job_details(company, max_concurrent=5)
+            job_details = await scraper.scrape_all_job_details(company, max_concurrent=2)
             
             # Add company info to each job
             for job in job_details:
