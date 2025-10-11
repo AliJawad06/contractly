@@ -42,8 +42,8 @@ class SimplifiedJobScraper:
         try:
             # Handle timestamp in milliseconds
             if isinstance(post_date, (int, float)) and post_date > 0:
-                return post_date < 1759526289000
-                                    #1759526289000
+                return post_date < 1759932389000
+          
             # Handle string dates if needed
             if isinstance(post_date, str):
                 # Add parsing logic for string dates if your API returns them
