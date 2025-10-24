@@ -1,0 +1,35 @@
+[
+  {
+    "id": 31299523,
+    "title": "Service Desk Engineer",
+    "location": "None, Rochester",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/8/2025",
+      "date_posted": 1759937880000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": "$55,000-$70,000",
+    "remote": 0,
+    "description": "<br>Entre Computer Services is Rochester's leading provider in technology services including Managed Services, IT Infrastructure Engineering & Architecture, Application Development, Hardware & Software Sales, and IT Outsourcing & Recruiting. Entre has been headquartered in Rochester, NY since 1984, and serves organizations both regionally and nationally. Entre is a family-oriented organization that provides great flexibility in professional growth, offers resources for individual success in a team environment, and recognizes the importance of work-life balance.<br /> \r\n<br /> \r\n<strong> ​Overview:</strong> We are seeking a skilled Service Desk Engineer to join our team. The ideal candidate will possess a strong technical background with expertise in network troubleshooting, Active Directory maintenance, Windows Server OS. Proficiency in managing Office 365 environments is highly preferred. The Service Desk Engineer will play a critical role in providing technical support and maintaining the IT infrastructure to ensure seamless operations within the organization.<br /> \r\n <br /> \r\n<strong> Key Responsibilities:</strong>\r\n<ul> \r\n\t<li> Provide technical support and troubleshooting for network-related issues, including LAN/WAN, VPN, and wireless connectivity.</li> \r\n\t<li> Perform maintenance and administration tasks for Active Directory, including user management, group policies, and domain controller management.</li> \r\n\t<li> Provide first and second-line technical support to internal users via phone, email, and ticketing system.</li> \r\n\t<li> Troubleshoot and resolve issues involving firewalls, VPNs, and other security appliances.</li> \r\n\t<li> Collaborate with the network engineering team to escalate and resolve complex issues.</li> \r\n\t<li> Manage user access and permissions related to network and security systems.</li> \r\n\t<li> Monitor network performance and respond to alerts to minimize downtime.</li> \r\n\t<li> Maintain detailed and accurate documentation of support tickets, configurations, and processes.</li> \r\n\t<li> Ensure compliance with IT policies, procedures, and security standards.</li> \r\n\t<li> Participate in on-call rotation or after-hours support as required.</li> \r\n</ul> \r\n <br /> \r\n<strong> Required Skills & Qualifications:</strong>\r\n\r\n<ul> \r\n\t<li> 3&plus; years of experience in a service desk or IT support role with a strong focus on networking.</li> \r\n\t<li> Solid understanding of TCP/IP, DNS, DHCP, and general networking concepts.</li> \r\n\t<li> Experience with firewall configuration and troubleshooting (e.g., Fortinet, Cisco ASA, Palo Alto).</li> \r\n\t<li> Hands-on experience supporting VPNs, remote access, and site-to-site tunnels.</li> \r\n</ul> \r\n\r\n<ul> \r\n\t<li> Strong analytical and problem-solving skills.</li> \r\n\t<li> Excellent communication and interpersonal skills.</li> \r\n\t<li> Ability to work independently and collaboratively in a fast-paced environment.</li> \r\n\t<li> Experience with Windows and/or macOS environments</li> \r\n</ul> \r\n\r\n<ul> \r\n\t<li> <strong> Preferred Qualifications:</strong></li> \r\n\t<li> Industry certifications such as CompTIA Network&plus;, CCNA, Fortinet NSE, or similar.</li> \r\n\t<li> Experience working with ITSM ticketing systems (e.g., ServiceNow, Zendesk, Jira).</li> \r\n\t<li> Knowledge of Active Directory, group policies, and user provisioning.</li> \r\n\t<li> Familiarity with ITIL best practices.</li> \r\n\t<li> Manage Windows Server operating systems, including installation, configuration, and ongoing maintenance.</li> \r\n\t<li> Administer Office 365 environments, including user provisioning, licensing, email configuration, and SharePoint/OneDrive management.</li> \r\n\t<li> Respond to service desk tickets and requests in a timely manner, ensuring high levels of customer satisfaction.</li> \r\n\t<li> Collaborate with cross-functional teams to resolve complex technical issues and implement IT projects effectively.</li> \r\n\t<li> Document processes, procedures, and configurations to maintain accurate records and facilitate knowledge sharing.</li> \r\n</ul> \r\n <br /> \r\n<strong> Equal Employment Opportunity</strong><br /> \r\nWe're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. At Entre, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best.<br>",
+    "recruiter": [
+      "Joe Vieira",
+      "jvieira@ENTRECS.com",
+      "5857601042"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=ivjdnwqrsymaervfuhub7kotxkpd9804dc7ev82th8foeb1sw3i4uj3b6bbw8pvl&SearchString=#/jobs/31299523",
+    "time_scraped": 1760161524111,
+    "source_company": "ivjdnwqrsymaervfuhub7kotxkpd9804dc7ev82th8foeb1sw3i4uj3b6bbw8pvl",
+    "source_url": "https://www1.jobdiva.com/portal/?a=ivjdnwqrsymaervfuhub7kotxkpd9804dc7ev82th8foeb1sw3i4uj3b6bbw8pvl",
+    "date_cutoff_days": 15
+  }
+]

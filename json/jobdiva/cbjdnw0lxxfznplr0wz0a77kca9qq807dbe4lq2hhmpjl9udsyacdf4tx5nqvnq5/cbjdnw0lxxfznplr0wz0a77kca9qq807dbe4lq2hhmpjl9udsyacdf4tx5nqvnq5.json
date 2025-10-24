@@ -1,0 +1,266 @@
+[
+  {
+    "id": 31381512,
+    "title": "Systems Analyst 3",
+    "location": "TX, Austin",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761231843000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 60,
+    "description": "<br><strong>***Position is 60% Remote in Austin, TX. Position will be 3 days remote with 2 days (Mondays and Thursdays) required to be onsite.***</strong>\r\n<p><strong>Program will only accept LOCAL ONLY candidates for this position.</strong></p>\r\n<br />\r\n<strong>I. DESCRIPTION OF SERVICES</strong><br />\r\nThe Agency requires the services of 1 Systems Analyst 3, hereafter referred to as Candidate(s), who meets the general qualifications of Systems Analyst 3, Applications/Software Development and the specifications outlined below for the Agency.\r\n<ul>\r\n\t<li>Understands business objectives and problems, identifies alternative solutions, performs studies and cost/benefit analysis of alternatives.</li>\r\n\t<li>Analyzes user requirements, procedures, and problems to automate processing or to improve existing computer system: Confers with personnel of organizational units involved to analyze current operational procedures, identify problems, and learn specific input and output requirements, such as forms of data input, how data is to be; summarized, and formats for reports.</li>\r\n\t<li>Writes detailed description of user needs, program functions, and steps required to develop or modify computer program.</li>\r\n\t<li>Reviews computer system capabilities, specifications, and scheduling limitations to determine if requested program or program change is possible within existing system.</li>\r\n\t<li>The data administrator is required to possess comprehensive expertise in Oracle, AWS, and cloud-native architecture.</li>\r\n\t<li>This position is dedicated to modernizing legacy systems, implementing modular and scalable data solutions, and supporting Agency transformation objectives.</li>\r\n\t<li>Responsibilities include optimizing database performance, maintaining secure deployments in the cloud, and facilitating collaboration among cross-functional teams to enable agile delivery and uphold architectural governance.</li>\r\n\t<li>Furthermore, the data administrator plays a critical role in ensuring secure, accurate, and efficient management of data across both legacy and updated systems.</li>\r\n</ul>\r\n<strong>II. CANDIDATE SKILLS AND QUALIFICATIONS</strong><br />\r\n<strong>Years Required Experience</strong>\r\n\r\n<ul>\r\n\t<li>8 Required Experience in data architecture, data modeling, and data warehousing.</li>\r\n\t<li>8 Required Proficient in Oracle Database architecture, administration, and performance tuning</li>\r\n\t<li>8 Required Hands-on experience with Oracle RAC (Real Application Clusters) configuration and management</li>\r\n\t<li>8 Required Strong knowledge of data architecture principles and best practices.</li>\r\n\t<li>8 Required Proficient in writing complex SQL, PL/SQL, procedures, and performance-optimized queries</li>\r\n\t<li>8 Required Strong knowledge of Oracle Data Guard and high availability/disaster recovery strategies</li>\r\n\t<li>8 Required Familiarity with cloud-native database services and PaaS offerings</li>\r\n\t<li>8 Required Experience in database backup, restore, and recovery operations using RMAN</li>\r\n\t<li>8 Required Proficiency in cloud infrastructure management, including understanding of cloud-based data storage options, cloud security considerations, and best practices for deploying applications in the cloud.</li>\r\n\t<li>8 Required Develop and maintain enterprise data models, data warehouses, and data lakes to support analytics and reporting.</li>\r\n\t<li>8 Required Evaluate and integrate emerging technologies such as AI, machine learning, and big data analytics in healthcare.</li>\r\n\t<li>8 Required Ability to work in DevOps environments with CI/CD pipelines for database changes</li>\r\n</ul>\r\n<strong>Years Preferred Experience</strong>\r\n\r\n<ul>\r\n\t<li>8 Preferred Experience transforming monolithic, on-premises data structures to microservice-aligned schemas</li>\r\n\t<li>8 Preferred Experience with structured Enterprise Architecture practices, hybrid cloud deployments, and on-premise-to-cloud migration deployments and roadmaps</li>\r\n\t<li>8 Preferred Strong communication skills, with the ability to explain complex technical concepts to a non-technical audience.</li>\r\n\t<li>8 Preferred Fundamental understanding of the Information Management principles, IT processes, SDLC, architecture and technologies adopted by an organization.</li>\r\n\t<li>8 Preferred Customer-focused ability to communicate across all levels of the organization.</li>\r\n\t<li>8 Preferred Proactive Leadership style; self-starter and strong attention to detail.</li>\r\n\t<li>3 Preferred Proven experience within an integrated eligibility case management system.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Lovan Shringam",
+      "lovan@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31381512",
+    "time_scraped": 1761253771730,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31376722,
+    "title": "Network Administrator - Project Lead",
+    "location": "SC, Cayce",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/22/2025",
+      "date_posted": 1761164106000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><strong>***Position is 100% Onsite in Cayce, SC***</strong><br />\r\n<br />\r\n<strong>SCOPE OF THE PROJECT: </strong><br />\r\nAs the Agency continues to see increased growth of Enterprise Applications such as with the Electronic-Health-Records (EHR) initiative, the Agency&rsquo;s Office of Information Technology (OIT) is upgrading the Agency&rsquo;s base network and wireless infrastructure to allow critical systems to better leverage network resources, data, assets, infrastructure, and systems. Consistent with the best security practices, the Agency has upgraded the Agency&rsquo;s enterprise wireless networking system with focus on integration into an existing Identity-Based Networking Services (IBNS) solution.<br />\r\n<br />\r\nThis position will address the increasing workload by supplementing infrastructure staff in the Network Operations Center (NOC) Section to assist with the Agency&#39;s enterprise network infrastructure to ensure operational support.<br />\r\n<br />\r\nResponsibilities include statewide travel to agency facilities to assist with network equipment upgrades, facility relocations, issue resolution, and the installation and configuration of enterprise wireless access points.<br />\r\n<br />\r\nThe applicants selected will work under the general guidance of the Network Operations team but will also be required to work closely with other teams and Agency staff at all levels. Selected candidates will follow the Agency&rsquo;s Change Management process, and track and document the work and other tasks regularly communicating status updates to management and project manager.<br />\r\n<br />\r\nCandidates must be self-motivated, team-oriented, work under limited supervision, and respond to priority tasks as needed.<br />\r\n<br />\r\n<strong>DAILY DUTIES / RESPONSIBILITIES: </strong><br />\r\nThe network administrators for these openings under the general guidance of the assigned Agency Network Manager or lead will coordinate daily/weekly assignments for the installation, deployment, diagnostics, and troubleshooting of the Agency&rsquo;s critical enterprise wireless and network infrastructure. The network administrators will work with Network, Security, and other IT professional groups and non-IT staff to assist with problem resolution, mitigation of issues, and to provide technical solutions. The network administrators will ensure assignments are completed accurately and ontime, and regularly provide: progress, tasks, and deliverables status updates to the assigned manager.<br />\r\n<br />\r\nDaily responsibilities will include climbing ladders to reach ceilings to install wireless access points as well as lifting and moving PCs, monitors, and other equipment. Candidates should be comfortable with physical aspects of the role.<br />\r\n<br />\r\nSpecific duties and responsibilities will include but not limited to the following:\r\n<ul>\r\n\t<li>Monitor and identify issues with Agency wireless networks and remediate</li>\r\n\t<li>Support wireless and network connectivity on Windows-based systems</li>\r\n\t<li>Support wireless and network connectivity on Mac-based systems</li>\r\n\t<li>Support wireless connectivity on various Tablets and Phones (i.e., Apple devices)</li>\r\n\t<li>Manage the wireless network/device lifecycle at all stages</li>\r\n\t<li>Assist with supporting the State Health Laboratory network connectivity on instruments and supporting systems</li>\r\n\t<li>Assist with ISE registration of devices on the network</li>\r\n\t<li>Conduct onsite wireless assessments. Create and maintain wireless heatmaps projecting network coverage of access points using Ekahau unit and iPad.</li>\r\n\t<li>Perform enterprise wireless network deployments, installations, and upgrades\r\n\t<ul>\r\n\t\t<li>Requires comfort working on a ladder; ability to lift 40 lbs.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Perform firmware/software/security/feature upgrades and other maintenance tasks</li>\r\n\t<li>Monitor Agency trouble ticket system and complete network assigned tickets</li>\r\n\t<li>Will serve as the Agency&rsquo;s first and second tier of support fielding wireless and network connectivity technical support requests troubleshooting/resolving most common/routine problems.</li>\r\n\t<li>Assists Agency staff/contractors in resolving wireless and other network related problems</li>\r\n\t<li>Coordinate and assist with testing and validation</li>\r\n\t<li>Adhere to State and Agency security and IT policies and standards</li>\r\n\t<li>Work closely with key stakeholder groups, including Network, Security, and Server Hosting to ensure the appropriate level of engagement and focus is maintained</li>\r\n\t<li>Assists various IT groups with other &ldquo;non wireless&rdquo; tasks as assigned such as with system/network installations and upgrades (i.e. racking equipment)</li>\r\n\t<li>Create, maintain, and review/improve upon notes and wireless documentation</li>\r\n\t<li>Ability to plan, organize, review, and implement associated project milestones to completion.</li>\r\n\t<li>Provides updates to Project Team</li>\r\n</ul>\r\nEach selected candidate will be utilized for 40 hours per week for the duration of this project. Job duties will require frequent site visits to remote office locations throughout the entire state of South Carolina, and the selected applicants must be flexible to the potential of travel days being extended beyond normal business hours.<br />\r\n<br />\r\nApplicants must demonstrate good oral and written communication skills and be able to provide effective phone, desk-side, and support via email. Applicants must be able effectively communicate technical and project details with IT and non-IT staff and at all levels.<br />\r\n<br />\r\n<strong>REQUIRED SKILLS (RANK IN ORDER OF IMPORTANCE): </strong>\r\n\r\n<ul>\r\n\t<li>3+ years Local Area Network (LAN), WLAN, WAN</li>\r\n\t<li>3+ Year - Network administration &ndash; CISCO and PALO ALTO FIREWALL</li>\r\n\t<li>3+ YEARS CISIO IDENTIFY SERVICES ENGINE (ISE)</li>\r\n\t<li>3+ years of Ticketing System</li>\r\n\t<li>Understanding of computer and network operating system fundamentals (e.g., operating systems, applications, storage, networking)</li>\r\n\t<li>Ability to climb and work on a ladder to reach ceiling to install wireless access points.</li>\r\n\t<li>Ability to lift and move PCs, monitors, and other equipment.</li>\r\n\t<li>Valid driver&rsquo;s License -&nbsp;The candidate will drive to various Agency sites, roughly one day per week, less that 100 miles.</li>\r\n\t<li>Interpersonal skills</li>\r\n\t<li>Verbal communication skills, written communication skills</li>\r\n</ul>\r\n<strong>PREFERRED SKILLS (RANK IN ORDER OF IMPORTANCE): </strong>\r\n\r\n<ul>\r\n\t<li>Network Certification</li>\r\n\t<li>Solarwinds Orion</li>\r\n\t<li>Ekahou Sidekick</li>\r\n</ul>\r\n<strong>REQUIRED EDUCATION: </strong>\r\n\r\n<ul>\r\n\t<li>Associates Degree in a relevant field of work or high school diploma with equivalent work experience.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Lovan Shringam",
+      "lovan@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31376722",
+    "time_scraped": 1761253771511,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31376652,
+    "title": "VDOT Project Manager 3",
+    "location": "VA, Mechanicsville",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/22/2025",
+      "date_posted": 1761163619000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 40,
+    "description": "<br><strong>***Position is 40% Remote in Mechanicsville, VA***</strong><br />\r\nLOCAL CANDIDATES ONLY<br />\r\n<br />\r\n<strong>Job Overview</strong><br />\r\nThe Agency&#39;s Information Technology Division is seeking a senior Project Manager to manage and deliver complex IT project(s) with multiple teams and work streams coordinated to an aggressive delivery schedule. This project is migrating systems to Azure.<br />\r\n<br />\r\nUnder the program manager, the project manager is responsible for the outcome of the assigned projects. The project manager leads the team through the Commonwealth Standard for Project Management for successful completion of the project phases: PreSelect, Initiation, Planning, Execution and Control and Closeout.<br />\r\n<br />\r\nThe selected candidate will:\r\n<ul>\r\n\t<li>Serve as a hands-on technical project manager with development staff and business groups.</li>\r\n\t<li>Coordinate and communicate with ITD management and staff to coordinate work tasks and resourcing.</li>\r\n\t<li>Communicate timelines and expectations to technical and business staff.</li>\r\n\t<li>Collaborate with vendors, consultants, and contractors in the execution of projects including contract management and working with the procurement office(s).</li>\r\n\t<li>Collaborate with technology leads and solution architects to incorporate agency best practices into project plans.</li>\r\n\t<li>Adhere to Agency&nbsp;and VITA project management practices and governance requirements; coordinate with Agency&nbsp;and VITA Project Management Offices.</li>\r\n\t<li>Maintain project budget, plans, tasks, schedules, risks, and status and disseminate information to team members and customers as defined in the communications plan.</li>\r\n\t<li>Monitor progress by third-party vendors and define and measure their progress with metrics.</li>\r\n\t<li>Ensure documentation of requirements and use cases, facilitate design workshops for assigned projects.</li>\r\n\t<li>Ensure definition of test objectives, designed test plans and test cases for assigned projects.</li>\r\n\t<li>Provide the management of project milestones and deliverables for on-time and on-budget delivery.</li>\r\n\t<li>Define, measure, and clearly communicate progress with metrics.</li>\r\n\t<li>Support system and application training efforts.</li>\r\n</ul>\r\n\r\n<p data-end=\"21\" data-start=\"0\"><strong data-end=\"19\" data-start=\"0\">Required Skills</strong></p>\r\n\r\n<ul>\r\n\t<li data-end=\"153\" data-start=\"24\"><strong data-end=\"36\" data-start=\"24\">10 years</strong> &ndash; Proven track record managing large-scale, complex IT projects, with focus on cloud migrations (preferably Azure)</li>\r\n\t<li data-end=\"231\" data-start=\"156\"><strong data-end=\"167\" data-start=\"156\">5 years</strong> &ndash; Experience managing migration project budgets and schedules</li>\r\n\t<li data-end=\"352\" data-start=\"234\"><strong data-end=\"245\" data-start=\"234\">5 years</strong> &ndash; Familiarity with Azure services (Azure Migrate, Azure Site Recovery, Azure Database Migration Service)</li>\r\n\t<li data-end=\"470\" data-start=\"355\"><strong data-end=\"366\" data-start=\"355\">5 years</strong> &ndash; Strong understanding of cloud computing principles (IaaS, PaaS, SaaS) and hybrid cloud environments</li>\r\n\t<li data-end=\"539\" data-start=\"473\"><strong data-end=\"484\" data-start=\"473\">5 years</strong> &ndash; Knowledge of DevOps principles and CI/CD pipelines</li>\r\n\t<li data-end=\"588\" data-start=\"542\"><strong data-end=\"553\" data-start=\"542\">5 years</strong> &ndash; PMP and Agile/Scrum experience</li>\r\n\t<li data-end=\"716\" data-start=\"591\"><strong data-end=\"603\" data-start=\"591\">10 years</strong> &ndash; Excellent verbal and written communication skills to translate technical concepts for all levels of business</li>\r\n\t<li data-end=\"805\" data-start=\"719\"><strong data-end=\"731\" data-start=\"719\">10 years</strong> &ndash; Leadership ability to guide teams and manage stakeholder expectations</li>\r\n\t<li data-end=\"916\" data-start=\"808\"><strong data-end=\"820\" data-start=\"808\">10 years</strong> &ndash; Strong analytical and problem-solving skills to mitigate risks and resolve migration issues</li>\r\n\t<li data-end=\"1013\" data-start=\"919\"><strong data-end=\"930\" data-start=\"919\">5 years</strong> &ndash; Adaptability to manage multiple concurrent projects in fast-paced environments</li>\r\n\t<li data-end=\"1013\" data-start=\"919\">PMP certification through PMI</li>\r\n</ul>\r\n\r\n<p data-end=\"1035\" data-start=\"1015\"><strong data-end=\"1033\" data-start=\"1015\">Desired Skills</strong></p>\r\n\r\n<ul>\r\n\t<li data-end=\"1141\" data-start=\"1038\"><strong data-end=\"1049\" data-start=\"1038\">5 years</strong> &ndash; Working knowledge of scripting (PowerShell, Azure CLI) and Infrastructure as Code (IaC)</li>\r\n\t<li data-end=\"1268\" data-is-last-node=\"\" data-start=\"1144\"><strong data-end=\"1155\" data-start=\"1144\">5 years</strong> &ndash; Azure Certifications (Administrator Associate, Solutions Architect Expert, Migration/Modernization Specialist)</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Mark Smith",
+      "mark@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31376652",
+    "time_scraped": 1761253771315,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31376291,
+    "title": "Project Manager - Project Lead",
+    "location": "SC, Columbia",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/22/2025",
+      "date_posted": 1761161726000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><strong>***Position is 100% Onsite in Columbia, SC***</strong><br />\r\n<br />\r\n<strong>SCOPE OF THE PROJECT: </strong><br />\r\nThe Agency seeks an expert in Project Management of medium to complex projects. The Project Manager (PM) will be assigned to high priority projects for the Agency. The PM will interact with multiple business units and vendors.<br />\r\n<br />\r\n<strong>DAILY DUTIES / RESPONSIBILITIES: </strong><br />\r\nThe Agency is seeking a consultant to act as Project Manager on multiple IT projects.<br />\r\n<br />\r\nGeneral Duties:\r\n<ul>\r\n\t<li>Assists with developing business requirements</li>\r\n\t<li>Building a project plan and executing to that plan</li>\r\n\t<li>Managing project risks and issues</li>\r\n\t<li>Ensuring that all deliverables and activities are completed with high quality and in a timely fashion</li>\r\n\t<li>Reporting on project status and strategies orally and in writing</li>\r\n\t<li>Other related duties as assigned</li>\r\n</ul>\r\nThe Project Manager will interact with staff, other team members, all levels of management and internal and external organizations, including vendors performing outsourced work, in the compilation and management of information needed for project&nbsp;plans, portfolio/program plans, metrics, reports and project management documentation.<br />\r\n<br />\r\n<strong>REQUIRED SKILLS (RANK IN ORDER OF IMPORTANCE):</strong>\r\n\r\n<ul>\r\n\t<li>3+ years of experience in project management in a healthcare, insurance, OR information technology environment.</li>\r\n\t<li>3+ years of experience working with SharePoint and other typical project management tools, including Visio, PowerPoint, MS Project, Word, Access and Excel.</li>\r\n\t<li>Project planning experience, including effort estimation on technical tasks and resource allocation.</li>\r\n\t<li>Ability to create and document key project management documents and artifacts</li>\r\n\t<li>Must be able to manage multiple high profile, high priority projects at one time</li>\r\n\t<li>Superb written and oral communications skills, including the ability to give presentations to executive management. Strong proficiency in English is required.</li>\r\n\t<li>Willingness and ability to effectively engage with people and organizations on a continuous basis; ability to get people with competing, diverse interests to work together</li>\r\n\t<li>Strong people skills</li>\r\n</ul>\r\n<strong>PREFERRED SKILLS (RANK IN ORDER OF IMPORTANCE): </strong>\r\n\r\n<ul>\r\n\t<li>Medicaid or Healthcare Delivery Systems</li>\r\n\t<li>Experience working with risk management, including risk triggers and managing risks to project plan tasks.</li>\r\n\t<li>Experience in Medicaid or other healthcare claims system(s) IT projects preferred, but not mandatory</li>\r\n</ul>\r\n<strong>REQUIRED CERTIFICATIONS: </strong>\r\n\r\n<ul>\r\n\t<li>Project Management Professional Certification (PMP)</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Mark Smith",
+      "mark@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31376291",
+    "time_scraped": 1761253771138,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31371021,
+    "title": "GIS Analyst",
+    "location": "SC, Cayce",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761081909000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 40,
+    "description": "<br><strong>***Position is 40% Remote in Cayce, SC***<br />\r\n<br />\r\nSCOPE OF THE PROJECT:</strong><br />\r\nDue to the volume of GIS activities being performed to support the agency, additional staff is needed to assist current staff with backend support of the agency GIS environment and support scripts and GIS REST services. The team will ensure systems are following industry best practices to ensure strategic initiatives and compliance with federal and state regulatory laws and ensure business continuity. This position will support Public Health initiatives. This position will be a part of the team responsible for maintaining critical agency functions including health facility adequacy analysis and geographic information services during emergency response operations as well as utilizing GIS solutions and day-to-day operations.<br />\r\n<br />\r\n<strong>DAILY DUTIES / RESPONSIBILITIES: </strong><br />\r\nThis position will focus on Public Health initiatives including (but not limited to), Cancer Registry, immunizations, maintaining enterprise architecture, geospatial analysis, infectious disease surveillance and application development. This will include providing support, analysis, testing, problem resolution, reporting, and monitoring of GIS environment and services associated with sensitive data that are restricted and confidential. The candidate will work in a team environment with other GIS and Information Technology staff and Program Area to provide support of GIS solutions and users. The GIS candidate will work in the ESRI software platform and other tools to support agency GIS backend interoperability, REST services, Web API service, python scripts, and online web mapping solutions. Specific duties and responsibilities will include but are not limited to the following:\r\n<ul>\r\n\t<li>When modeling restricted and confidential health data sets ensure deidentification principles are applied when performing analysis along with following security policies and procedures.</li>\r\n\t<li>Performs complex analysis, design, testing, documentation, and implementation of GIS applications and upgrades.</li>\r\n\t<li>Develop and maintain python scripts supporting GIS interoperability capabilities</li>\r\n\t<li>Ability to manipulate spatial data, and other common GIS formats</li>\r\n\t<li>Develop and maintain spatial queries</li>\r\n\t<li>Assist with supporting public health and related spatial data layers</li>\r\n\t<li>Perform spatial analysis utilizing Spatial Analyst, Insights, Network, and Business Analyst to meet Public Health requests</li>\r\n\t<li>Create complex cartographic products</li>\r\n\t<li>Develop and maintain GIS rest services for Public Health data</li>\r\n\t<li>Support applications in ArcGIS Online and ArcGIS Portal</li>\r\n\t<li>Work with Information Technology staff to learn system technical functionality and IT Security Standards and practices.</li>\r\n\t<li>Provide system user support with a focus on public health requests</li>\r\n\t<li>Assist staff in resolving system-related problems</li>\r\n\t<li>Assist with System user account permissions and security</li>\r\n\t<li>Create and maintain supporting system and training documentation.</li>\r\n\t<li>Coordinate and assist with system testing and production validation</li>\r\n</ul>\r\nThe position will be utilized for 40 hours per week for the duration of this project. The selected candidate should be able to work flexible hours where it may be necessary for work to be completed outside traditional business hours. Schedules amongst the team can be coordinated to ensure coverage of operational hours of Monday &ndash; Sunday, 7:00 am &ndash; 6:00 pm.<br />\r\n<br />\r\nThe candidate will work with the Assigned Section Manager to identify, prioritize, and schedule workload and implementation to IT standards and procedures. The candidate will work with customer and subject matter experts for the system design and testing.&nbsp;<br />\r\n<br />\r\nThis will also include compliance to Agency security policy/procedures as well as integrating systems when possible to streamline staff workflows, user security, and data correction.<br />\r\n<br />\r\n<strong>REQUIRED SKILLS (RANK IN ORDER OF IMPORTANCE): </strong>\r\n\r\n<ul>\r\n\t<li>3-5 years Experienced Data analyst with extensive experience preforming public health data modeling, data mapping, data cleansing</li>\r\n\t<li>3-5 years Experience with ArcGIS Pro and ArcGIS Online</li>\r\n\t<li>Web services (Rest, SOAP).</li>\r\n\t<li>3-5 Years GIS Infrastructure Administration and Monitoring</li>\r\n\t<li>SQL Server.</li>\r\n\t<li>GIS mapping.</li>\r\n\t<li>Solid background in data integration, staging, quality and distribution</li>\r\n\t<li>Knowledge of Information Technology Field, best practices, organization, and operations</li>\r\n</ul>\r\n<strong>PREFERRED SKILLS (RANK IN ORDER OF IMPORTANCE): </strong>\r\n\r\n<ul>\r\n\t<li>Excellent written, oral, and interpersonal communication skills.</li>\r\n\t<li>Experience using an administering Microsoft&rsquo;s Internet Information Services (IIS).</li>\r\n\t<li>Arcgis Notebooks.</li>\r\n\t<li>Ticketing system.</li>\r\n\t<li>Experience with industry standard information security practices</li>\r\n\t<li>Experience with security and data classification related to CDC, HIPPA, and PHI/PII data</li>\r\n</ul>\r\n<strong>REQUIRED EDUCATION: </strong>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s Degree in a relevant field of work or equivalent work experience.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Mark Smith",
+      "mark@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31371021",
+    "time_scraped": 1761253771511,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31370682,
+    "title": "IT Healthcare Consultant - Software Engineer - Project Lead",
+    "location": "SC, Columbia",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761078921000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><strong>***Position is 100% Onsite in Colubmia, SC***</strong><br />\r\n<br />\r\n<strong>SCOPE OF THE PROJECT:</strong><br />\r\nThe Agency is seeking an experienced System Center Service Manager administrator. The<br />\r\nprimary focus of this role is maintaining System Center infrastructure and taking new requests<br />\r\ninto Service Manager. Developing workflows in System Center Orchestrator. Working in the<br />\r\nCireson web portal.<br />\r\n<br />\r\n<strong>DAILY DUTIES / RESPONSIBILITIES:</strong><br />\r\nEssential Responsibilities\r\n<ul>\r\n\t<li>The Service Manager Engineer will report to the Agency Bureau Chief of Information Technology Services. They will work with Agency business units to collect and develop requirements for Service Manager requests. The position is focused on administration and creation of new requests.</li>\r\n\t<li>Work with System Center Orchestrator. Create new orchestrator workflows, maintaining, and updating workflows.</li>\r\n\t<li>Work with Cireson. Maintain and update software and work with vendor to fulfill service requests. Updating JavaScript for service requests.</li>\r\n\t<li>Maintain, update, patch System Center, Orchestrator, and Cireson.</li>\r\n\t<li>Interact with staff, other team members, all levels of management and internal and external organizations, including vendors performing outsourced work, in the compilation and management of information needed for Service Manager requests.</li>\r\n\t<li>Work with technical staff and business stakeholders to create deliverables and artifacts that are intended for audiences of varying levels of technical knowledge.</li>\r\n\t<li>Serve as a Subject Matter Expert (SME) and/or Point of Contact (POC) for developing and managing processes related to the Service Manager environment.</li>\r\n\t<li>Make recommendations on specific improvements in efficiency, effectiveness, report template and structure, and productivity to leadership.</li>\r\n\t<li>Act as a liaison between the technical team and management from various stakeholder areas including executive level management.</li>\r\n\t<li>Some after hours project and platform support will be expected.</li>\r\n</ul>\r\nProgram Experience:\r\n\r\n<div style=\"margin-left: 40px;\">Current or recent experience with MS System Center is required and will be given the highest weight. Experience should include well documented success with previous MS System Center projects as well as experience in an enterprise level System Center environment.<br />\r\n&nbsp;</div>\r\nTechnical Knowledge:\r\n\r\n<div style=\"margin-left: 40px;\">Experience related to any or all the following technologies would be considered desirable for this position:</div>\r\n\r\n<div style=\"margin-left: 40px;\">&bull; MS System Center Service Manager<br />\r\n&bull; MS System Center Orchestrator<br />\r\n&bull; Active Directory<br />\r\n&bull; Windows Servers<br />\r\n&bull; Javascript<br />\r\n&bull; Cireson<br />\r\n&bull; IT Network Infrastructure and Server Operations/Implementations<br />\r\n&nbsp;</div>\r\n<strong>General Duties and Responsibilities:</strong>\r\n\r\n<ul>\r\n\t<li>Develop and refine Service Manager request intake process for the Agency.</li>\r\n\t<li>Maintenance and Patching of Service Manager environment and make recommendation about future improvement opportunities.</li>\r\n\t<li>Acting as the lead on a project to migrate the existing Service Manager environment to an updated and current standard.</li>\r\n</ul>\r\n<strong>REQUIRED SKILLS (RANK IN ORDER OF&nbsp;IMPORTANCE):</strong>\r\n\r\n<ul>\r\n\t<li>Minimum 3 years of working in a development role supporting MS System Center, demonstrating a deep understanding of services &amp; features, site design &amp; best practices.</li>\r\n\t<li>Minimum 3 years of administrative experience in MS Azure.</li>\r\n\t<li>Minimum 5 years of administrative experience in MS Servers.</li>\r\n\t<li>Minimum 3 years&rsquo; experience in an IT methodology framework. (i.e. ITIL, MITA&hellip;)</li>\r\n</ul>\r\n<strong>Preferred Skills (rank in order of Importance):</strong>\r\n\r\n<ul>\r\n\t<li>Working knowledge of System Center Service Manager</li>\r\n\t<li>Working knowledge of Cireson</li>\r\n\t<li>Working knowledge of System Center Orchestrator</li>\r\n\t<li>Working knowledge of JavaScript</li>\r\n\t<li>Working knowledge of PowerBI</li>\r\n\t<li>Working knowledge of SQL</li>\r\n\t<li>Working knowledge of HTML</li>\r\n\t<li>Working knowledge of XML</li>\r\n\t<li>Working knowledge of PowerShell</li>\r\n\t<li>Experience with healthcare and healthcare related requirements</li>\r\n\t<li>Experience with major project implementation.</li>\r\n\t<li>HIPAA, CDC, and other network infrastructure and server frameworks</li>\r\n</ul>\r\n<strong>REQUIRED EDUCATION/CERTIFICATIONS:</strong>\r\n\r\n<ul>\r\n\t<li>Bachelors Degree and/or 5 years of related work experience</li>\r\n</ul>\r\n<strong>PREFERRED EDUCATION/CERTIFICATIONS:</strong>\r\n\r\n<ul>\r\n\t<li>MS Server Admin Certifications</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Mark Smith",
+      "mark@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31370682",
+    "time_scraped": 1761253778355,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31368235,
+    "title": "Enterprise Architect",
+    "location": "FL, Tallahassee",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761062530000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">  <strong>   ***Position is 100% Onsite in Tallahassee, FL***</strong><br />  \r\n<br />  \r\n<strong>  ABOUT THE ROLE:</strong></span>  </span>  <br />  \r\nThis scope of work is for Enterprise Architect consulting services to assist with the development, drafting and coordination of the Department's Technology Strategy and supporting enterprise policies. <br />  \r\n<br />  \r\n<strong>  CONTRACTOR QUALIFICATIONS AND EXPERIENCE</strong>:<br />  \r\nContractor staff assigned to this agreement must possess the following minimum qualifications and experience:\r\n<ul>  \r\n\t<li>  Demonstrated experience in developing and implementing technology strategies or enterprise policies for a large organization (preferably government or healthcare).</li>  \r\n\t<li>  10 years of progressively responsible experience in information technology (IT), strategy development, enterprise architecture or IT policy/governance.</li>  \r\n\t<li>  Demonstrated experience coordinating with executive leadership and cross-functional teams to develop, review and finalize strategic or policy documents.</li>  \r\n\t<li>  Demonstrated experience of IT governance frameworks. E.g. National Institute of Standards and Technology (NIST), Control Objectives for Information and Related Technologies (COBIT), Information Technology Infrastructure Library (ITIL) or The Open Group Architecture Framework (TOGAF).</li>  \r\n\t<li>  Demonstrated experience with Florida Information Technology statutes and administrative codes.</li>  \r\n\t<li>  Demonstrated experience writing executive-level documents, strategies and policies.</li>  \r\n\t<li>  Demonstrated experience with facilitating and coordinating across diverse teams and stakeholder groups.</li>  \r\n\t<li>  Demonstrated experience with Microsoft 365 (Word, PowerPoint, Excel, Teams, SharePoint) and collaboration tools (e.g. Smartsheet, Confluence or similar)</li>  \r\n\t<li>  Demonstrated experience handling sensitive or confidential information.</li>  \r\n</ul>  \r\n<strong>  CONTRACTOR RESPONSIBILITIES:</strong><br />  \r\nContractor will perform the following tasks in the time and manner specified:\r\n<ul>  \r\n\t<li>  As directed by the Department; assist the Department with Technology Strategy Development. To include the following services:\r\n\t<ul>  \r\n\t\t<li>  Conduct assessments of current technology capabilities, challenges and opportunities.</li>  \r\n\t\t<li>  Assist with defining technology vision, guiding principles and enterprise objectives.</li>  \r\n\t\t<li>  Draft and maintain the Department Technology Strategy and Roadmap.</li>  \r\n\t\t<li>  Align strategic priorities with statutory mandates, cybersecurity requirements and agency business needs.</li>  \r\n\t\t<li>  Identify opportunities for modernization, consolidation and cost savings.</li>  \r\n\t</ul>  \r\n\t</li>  \r\n\t<li>  As directed by the Department; provide Policy & Standards Support. To include the following services:\r\n\t<ul>  \r\n\t\t<li>  Develop policies, standards and guidelines required to operationalize the technology strategy.</li>  \r\n\t\t<li>  Ensure policies align with Chapter 282, F.S., Florida Administrative Code and enterprise standards.</li>  \r\n\t\t<li>  Manage policy lifecycle (drafting, comment resolution, finalization, approval and communication).</li>  \r\n\t\t<li>  Provide CIO and Department staff with policy packets, briefing materials and communications.</li>  \r\n\t</ul>  \r\n\t</li>  \r\n\t<li>  As directed by the Department; provide Coordination & Governance. To include the following services:\r\n\t<ul>  \r\n\t\t<li>  ​​​​​​​Organize and facilitate technology strategy working groups with Agency Information Technology (IT) leadership.</li>  \r\n\t\t<li>  Provide agendas, meeting minutes and track action items.</li>  \r\n\t\t<li>  Coordinate with external stakeholders.</li>  \r\n\t\t<li>  Maintain stakeholder maps, charts and issue/risk logs to ensure accountability.</li>  \r\n\t</ul>  \r\n\t</li>  \r\n\t<li>  As directed by the Department; assist the Department with Reporting & Communication. To include the following services:\r\n\t<ul>  \r\n\t\t<li>  Prepare weekly CIO status updates on strategy and policy progress.</li>  \r\n\t\t<li>  Develop dashboards to track initiatives, policies, risks and milestones.</li>  \r\n\t\t<li>  Create executive briefing decks and communications materials for leadership.</li>  \r\n\t\t<li>  Support legislative and enterprise reporting requirements as directed.</li>  \r\n\t</ul>  \r\n\t</li>  \r\n</ul>  \r\n​​​​​​​<br>",
+    "recruiter": [
+      "Mark Smith",
+      "mark@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31368235",
+    "time_scraped": 1761253778877,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31367042,
+    "title": "Power BI Report Server Administrator",
+    "location": "VA, Richmond",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761055632000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 60,
+    "description": "<br><strong>***Position is 60% Remote in Richmond, VA. Onsite 2 days/ week.***</strong><br />\r\n<br />\r\n<strong>ABOUT THE ROLE</strong><br />\r\nThe Agency is seeking a highly experienced and technically proficient Power BI Report Server Administrator to manage, maintain, and optimize our Power BI Report Server infrastructure.\r\n<ul>\r\n\t<li>Serve as the primary point of contact for all vulnerability-related findings.</li>\r\n\t<li>Responsible for reviewing security reports related to BI, coordinating with IT, and ensuring all identified vulnerabilities are addressed in a timely manner.</li>\r\n\t<li>The ideal candidate will have extensive experience in server migrations, server upgrades, report lifecycle management, and enterprise-level BI deployments.</li>\r\n\t<li>This role requires deep technical expertise, strategic thinking, and the ability to collaborate across teams to ensure high availability, performance, and scalability of reporting solutions.</li>\r\n\t<li>Vulnerability Mitigation Serve as the primary point of contact for all vulnerability-related findings.</li>\r\n\t<li>Responsible for reviewing security reports related to BI, coordinating with IT, and ensuring all identified vulnerabilities are addressed in a timely manner.</li>\r\n</ul>\r\n<strong data-end=\"19\" data-start=\"0\">Required Skills</strong>\r\n\r\n<ul>\r\n\t<li data-end=\"102\" data-start=\"24\">3 years &ndash; Prior experience with Tax environments, applications, and Tax SDLC</li>\r\n\t<li data-end=\"164\" data-start=\"105\">5 years &ndash; Hands-on experience with Power BI Report Server</li>\r\n\t<li data-end=\"307\" data-start=\"167\">5 years &ndash; Experience with Server Migrations: planning and executing complex migrations (e.g., Windows Server, SQL Server, Power BI Report)</li>\r\n\t<li data-end=\"427\" data-start=\"310\">5 years &ndash; Advanced knowledge of SQL Server (SSRS, SSAS, SSIS), including performance tuning and database management</li>\r\n\t<li data-end=\"574\" data-start=\"430\">5 years &ndash; Monitoring server performance, capacity, and availability to ensure optimal operation and future planning for Power BI Report Server</li>\r\n\t<li data-end=\"715\" data-start=\"577\">5 years &ndash; Identifying and resolving issues related to Power BI Report Server, including data refresh failures and report access problems</li>\r\n\t<li data-end=\"825\" data-start=\"718\">2 years &ndash; Managing user access, permissions, and security roles within Power BI Report Server environment</li>\r\n\t<li data-end=\"924\" data-start=\"828\">3 years &ndash; Managing upgrades, patches, and migrations of the Power BI Report Server environment</li>\r\n\t<li data-end=\"1021\" data-start=\"927\">2 years &ndash; Experience working with security teams on mitigating and resolving vulnerabilities</li>\r\n\t<li data-end=\"1149\" data-start=\"1024\">2 years &ndash; Providing training and knowledge transfer to colleagues regarding Power BI Report Server usage and best practices</li>\r\n\t<li data-end=\"1196\" data-start=\"1152\">5 years &ndash; Low-code application development</li>\r\n\t<li data-end=\"1244\" data-start=\"1199\">5 years &ndash; Working knowledge of Web Services</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Lovan Shringam",
+      "lovan@icapsolutions.net",
+      "8642364371"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0&SearchString=#/jobs/31367042",
+    "time_scraped": 1761253779005,
+    "source_company": "cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cbjdnw0lxxfznplr0wz0a77kca9qq807dbe4lq2hhmpjl9udsyacdf4tx5nqvnq5&compid=0",
+    "date_cutoff_days": 15
+  }
+]

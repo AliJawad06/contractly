@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AG Grid JSON Viewer</title>
+
+  <!-- AG Grid CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community/styles/ag-grid.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community/styles/ag-theme-alpine.css" />
+
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 40px;
+    }
+    #gridContainer {
+      height: 600px;
+      width: 100%;
+    }
+    .nested-box {
+      background-color: #f8f9fa;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 4px 6px;
+      margin: 2px 0;
+      font-size: 0.9em;
+      line-height: 1.3em;
+    }
+    .subfield {
+      padding: 2px 0;
+    }
+  </style>
+</head>
+<body>
+  <h2>📊 AG Grid - JSON Data Viewer</h2>
+  <div id="gridContainer" class="ag-theme-alpine"></div>
+
+  <!-- AG Grid JS -->
+  <script src="https://cdn.jsdelivr.net/npm/ag-grid-community/dist/ag-grid-community.min.noStyle.js"></script>
+
+  <script>
+    const gridOptions = {
+      columnDefs: [],
+      rowData: [],
+      sideBar: 'columns',
+      defaultColDef: {
+        sortable: true,
+        filter: true,
+        resizable: true,
+        autoHeight: true,
+        tooltipShowMode: "whenTruncated",
+        menuTabs: ['generalMenuTab', 'columnsMenuTab'],
+
+        cellRenderer: (params) => {
+          const field = params.colDef.field;
+          const value = params.value;
+
+          if (value == null) return '';
+
+          // ✅ Description preview (with tooltip)
+          if (field === 'description' && typeof value === 'string') {
+            const plain = value
+              .replace(/<[^>]+>/g, '') // remove HTML tags
+              .replace(/\s+/g, ' ')
+              .trim();
+
+            const preview = plain.length > 150 ? plain.slice(0, 150) + '…' : plain;
+            return `<div title="${plain.replace(/"/g, '&quot;')}">${preview}</div>`;
+          }
+
+          // ✅ Clickable URL with short display text
+          if (field === 'url' && typeof value === 'string') {
+            const safeUrl = value.startsWith('http') ? value : `https://${value}`;
+            try {
+              const urlObj = new URL(safeUrl);
+              const domain = urlObj.hostname.replace(/^www\./, '');
+              return `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer">🔗 ${domain}</a>`;
+            } catch {
+              return `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer">🔗 Visit Site</a>`;
+            }
+          }
+
+          // ✅ Handle arrays
+          if (Array.isArray(value)) {
+            return value.map(v => `<div class="subfield">${v}</div>`).join('');
+          }
+
+          // ✅ Handle nested objects
+          if (typeof value === 'object') {
+            const subfields = Object.entries(value)
+              .map(([k, v]) => `<div class="subfield"><b>${k}:</b> ${v ?? ''}</div>`)
+              .join('');
+            return `<div class="nested-box">${subfields}</div>`;
+          }
+
+          // ✅ Default plain text
+          return value;
+        },
+      },
+    };
+
+    const gridDiv = document.getElementById('gridContainer');
+    const gridApi = agGrid.createGrid(gridDiv, gridOptions);
+
+    const jsonFilePath = './all_companies_job_details_last_15_days_20251023_194537.json';
+
+    fetch(jsonFilePath)
+      .then(res => res.json())
+      .then(data => data.jobs || data)
+      .then(jsonArray => {
+        if (!Array.isArray(jsonArray)) jsonArray = [jsonArray];
+        if (jsonArray.length === 0) {
+          console.warn('Empty JSON data file.');
+          return;
+        }
+        const firstRow = jsonArray[0];
+        console.log(firstRow)
+        jsonArray = jsonArray.map(r => 
+        ({ ...r, posted: r.posted.date_postedStr, experience:r.experience.experience, start:r.start.start_dateStr }));
+        const firstRowj = jsonArray[0];
+        console.log(firstRowj)
+        const columnDefs = Object.keys(firstRow).map(key => ({
+          headerName: key,
+          field: key,
+          width: 150,
+        }));
+        
+        gridApi.setGridOption('columnDefs', columnDefs);
+        gridApi.setGridOption('rowData', jsonArray);
+      })
+      .catch(err => console.error('Error loading JSON:', err));
+  </script>
+</body>
+</html>

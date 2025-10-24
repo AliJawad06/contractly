@@ -1,0 +1,662 @@
+[
+  {
+    "id": 26562779,
+    "title": "Lead Business Analyst :: Richmond, VA (Onsite)",
+    "location": "VA, Richmond",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761252091000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Lead Business Analyst</h3>\r\n\r\n<p>Location: Richmond, VA | Duration: 7+ months | Onsite</p>\r\n\r\n<p>Seeking for a Lead Business Analyst, where you&#39;ll guide a team of experienced analysts in improving business processes and ensuring successful project delivery.</p>\r\n\r\n<h3>Key Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Lead and support a team of business analysts, ensuring consistency and knowledge-sharing.</li>\r\n\t<li>Oversee the gathering and analysis of business requirements, ensuring alignment with business needs.</li>\r\n\t<li>Act as the primary liaison between business stakeholders, IT, and development teams.</li>\r\n\t<li>Monitor and track progress on multiple projects, ensuring quality standards and timelines are met.</li>\r\n\t<li>Collaborate with IT, vendors, and external consultants for accurate technical solutions.</li>\r\n</ul>\r\n\r\n<h3>Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in business administration, Information Technology, or a related field.</li>\r\n\t<li>7 years of experience as a Business Analyst, with at least 3 years in a leadership role.</li>\r\n\t<li>Strong expertise in Agile methodologies and experience managing product and sprint backlogs.</li>\r\n\t<li>Proficiency in tools such as Jira, Azure DevOps, or other requirements management platforms.</li>\r\n\t<li>CBAP, CSPO, PMP, or other relevant certifications are preferred.</li>\r\n</ul>\r\n\r\n<h3>Must-Have Skills:</h3>\r\n\r\n<ul>\r\n\t<li>Leadership and mentoring skills with 5+ years of experience.</li>\r\n\t<li>Effective communication for both technical and non-technical audiences.</li>\r\n\t<li>Stakeholder management skills to build and maintain relationships.</li>\r\n\t<li>Expert level knowledge in business analysis functions with 10+ years of experience.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Shane Agarwal",
+      "Shane@ARKSolutionsInc.com",
+      "5715137907"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26562779",
+    "time_scraped": 1761259288153,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26561816,
+    "title": "AWS Cloud Native Developer :: Atlanta, GA (Hybrid)",
+    "location": "GA, Atlanta",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761246695000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>AWS Cloud Native Developer</h3>\r\n\r\n<p>Location: Atlanta, GA (Hybrid)</p>\r\n\r\n<p>Contract Duration: 7+ months</p>\r\n\r\n<p><strong>Project Overview:</strong></p>\r\n\r\n<p>This project involves modernizing the Exchange Program to facilitate data sharing between various agencies, counties, and cities. The goal is to transition from a SoftwareAG-centric solution to a cloud-native solution on AWS. This will involve consolidating data for counties that opt-in for the service, utilizing existing APIs and web services.</p>\r\n\r\n<p><strong>Key Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Design, develop, and deploy cloud-native applications on AWS using services like Lambda, API Gateway, DynamoDB, and S3.</li>\r\n\t<li>Implement serverless architectures using AWS Lambda functions with Python.</li>\r\n\t<li>Build and orchestrate workflows using AWS Step Functions and AWS State Machines.</li>\r\n\t<li>Design and implement SOAP-based web services, ensuring security and data integrity through custom headers.</li>\r\n\t<li>Manage MTOM attachments for efficient binary data transmission in web services.</li>\r\n\t<li>Collaborate with cross-functional teams in a SCRUM Agile environment.</li>\r\n\t<li>Ensure code quality, performance, and scalability through automated testing and code reviews.</li>\r\n\t<li>Troubleshoot and resolve issues across development, testing, and production environments.</li>\r\n\t<li>Stay updated with AWS services, tools, and best practices.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>8+ years of proven experience as a software developer with strong cloud computing principles.</li>\r\n\t<li>5+ years of experience in designing, developing, and deploying cloud-native applications on AWS.</li>\r\n\t<li>5+ years of experience with serverless architectures using AWS Lambda and Python.</li>\r\n\t<li>5+ years of experience with AWS Step Functions and State Machines.</li>\r\n\t<li>5+ years of experience with SOAP-based web services and related technologies (XML, XSD, WSDL).</li>\r\n\t<li>3+ years of experience with Agile methodologies and the SCRUM framework.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with CI/CD pipelines and DevOps practices.</li>\r\n\t<li>Familiarity with containerization (e.g., Docker) and orchestration (e.g., Kubernetes).</li>\r\n\t<li>AWS certifications (e.g., AWS Certified Developer).</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Satyam Mishra",
+      "Satyam@ARKSolutionsInc.com",
+      "(571) 895-1989"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26561816",
+    "time_scraped": 1761259288154,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26560602,
+    "title": "Testing Specialist :: Raleigh, NC (Hybrid)",
+    "location": "NC, Raleigh",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761239689000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Testing Specialist&nbsp;- Raleigh, NC</h3>\r\n\r\n<p>Duration: 12 months | Hybrid</p>\r\n\r\n<p>Join our IT Enterprise Testing Team as an Expert Level Specialist. You&#39;ll provide essential testing support for software releases and upgrades, ensuring seamless deployment of applications. Your role will involve:</p>\r\n\r\n<ul>\r\n\t<li>Reviewing and analyzing project requirements for clarity and testability</li>\r\n\t<li>Developing system test plans and manual test cases</li>\r\n\t<li>Executing test cases and scripts</li>\r\n\t<li>Managing and reporting defects</li>\r\n\t<li>Creating testing artifacts like Test Plans, Test Results, Metrics, and Defect Reports</li>\r\n\t<li>Providing weekly status reports to Management</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>7 years of experience testing complex business applications across technologies, including API and Webservice testing, Mainframe, Database, .NET, etc.</li>\r\n\t<li>7 years in designing test plans, manual test case definition and execution, and analyzing project requirements</li>\r\n\t<li>7 years of proficiency in documenting Test cases, test plans, and test artifacts</li>\r\n\t<li>7 years ensuring traceability between requirements, test cases, and defects</li>\r\n\t<li>7 years of experience with Microsoft Suite (M365 Copilot, Word, Excel, PowerPoint, Visio)</li>\r\n\t<li>7 years using Tricentis Tool Suite (qTest, Tosca, NeoLoad), Postman, SoapUI</li>\r\n\t<li>7 years testing in an Agile life-cycle environment, including attending daily and defect triage meetings</li>\r\n\t<li>7 years working closely with developers, product owners, and business stakeholders to ensure test coverage and quality standards</li>\r\n\t<li>3 years testing Federal/State/Government/Transportation complex projects (desired)</li>\r\n\t<li>6 months experience using AI features in qTest and Tosca (desired)</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Satyam Mishra",
+      "Satyam@ARKSolutionsInc.com",
+      "(571) 895-1989"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26560602",
+    "time_scraped": 1761259288173,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26560589,
+    "title": "Azure Cloud Engineer :: Raleigh, NC (Hybrid)",
+    "location": "NC, Raleigh",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761239624000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Azure Cloud Engineer&nbsp;- Raleigh, NC (Hybrid)</h3>\r\n\r\n<p>Duration: 12 months</p>\r\n\r\n<p>We are looking for a proactive Azure Cloud Engineer to join our team and help manage our cloud infrastructure securely and efficiently. You will work with senior architects and application teams to deploy, configure, document, and optimize Azure services. This role is vital for supporting our Azure environment and modernizing existing applications.</p>\r\n\r\n<ul>\r\n\t<li>Assist in setting up and configuring Azure subscriptions, resource groups, and environments.</li>\r\n\t<li>Implement Azure Policies, RBAC permissions, and tagging standards.</li>\r\n\t<li>Deploy and support Azure networking components like VWAN, Azure Firewall, VNets, and more.</li>\r\n\t<li>Configure and manage Azure Application Gateways.</li>\r\n\t<li>Contribute to infrastructure automation using Bicep, ARM, or PowerShell scripts.</li>\r\n\t<li>Troubleshoot connectivity and application issues.</li>\r\n\t<li>Support incident resolution and assist with root cause analysis.</li>\r\n\t<li>Monitor Azure environments and assist with alerting, logging, and diagnostics.</li>\r\n\t<li>Collaborate with development, architecture, and security teams on infrastructure changes.</li>\r\n\t<li>Ensure compliance with cloud governance, security, and compliance policies.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>3+ years of experience managing and deploying Azure landing zone architecture in enterprise environments.</li>\r\n\t<li>3+ years of strong Azure networking skills, including hybrid networking.</li>\r\n\t<li>3+ years of experience designing Azure environments with a &quot;private-by-default&quot; approach.</li>\r\n\t<li>3+ years of familiarity with Azure Policies, RBAC, and resource tagging strategies.</li>\r\n\t<li>5+ years of strong problem-solving and communication skills, with the ability to collaborate effectively.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Certifications:</strong> AZ-104, AZ-700, AZ-305</p>\r\n<br>",
+    "recruiter": [
+      "Vaibhav Mishra",
+      "Vaibhav@arksolutionsinc.com",
+      "5718951990"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26560589",
+    "time_scraped": 1761259288125,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26560570,
+    "title": "Senior Technical Specialist (Intune/MCM) - Raleigh, NC (Hybrid)",
+    "location": "NC, Raleigh",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761239492000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Senior Technical Specialist (Intune/MCM) - Raleigh, NC (Hybrid)</h3>\r\n\r\n<p>Duration: 7+ months</p>\r\n\r\n<p>We are seeking a highly skilled Senior Technical Specialist to assist with implementing additional security features in Intune and migrating MCM to Intune. This role requires collaboration with Azure and Identity management teams and involves supporting 14 managed agencies and several non-managed agencies.</p>\r\n\r\n<ul>\r\n\t<li>Manage and secure devices across multiple platforms and deploy/manage apps to ensure secure access to corporate resources.</li>\r\n\t<li>Implement endpoint security policies, conditional access, and compliance configurations.</li>\r\n\t<li>Work with Azure AD, On-Prem AD, Exchange Online, SharePoint, and other M365 services.</li>\r\n\t<li>Develop PowerShell/Bash scripts for automating tasks and improving security compliance.</li>\r\n\t<li>Troubleshoot and resolve complex incidents and provide major incident support.</li>\r\n\t<li>Maintain accurate documentation and generate reports to track usage, compliance, and risks.</li>\r\n\t<li>Collaborate with internal teams and third parties to drive continuous improvement.</li>\r\n</ul>\r\n\r\n<p><strong>Must Have:</strong></p>\r\n\r\n<ul>\r\n\t<li>3+ years of hands-on experience in Microsoft Intune and M365 (including Azure AD, Exchange, Teams, SharePoint).</li>\r\n\t<li>3+ years of experience with Hybrid-Azure Joined domains.</li>\r\n\t<li>Strong knowledge of device management, security policies, and application deployment.</li>\r\n\t<li>Proficient in PowerShell and Bash scripting for automation.</li>\r\n\t<li>Expertise in security practices like device encryption, MFA, conditional access, and endpoint protection.</li>\r\n\t<li>Familiarity with SharePoint, Teams, Power Platform, Graph API, and other M365 tools.</li>\r\n\t<li>Experience working in multinational teams with strong communication and problem-solving skills.</li>\r\n\t<li>Knowledge of Windows Server, Active Directory, SCCM, and understanding of M365 licensing and migrations.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Satyam Mishra",
+      "Satyam@ARKSolutionsInc.com",
+      "(571) 895-1989"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26560570",
+    "time_scraped": 1761259288244,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26559802,
+    "title": "Senior Software Engineer - Salesforce Marketing Cloud :: REMOTE",
+    "location": "MD, Bethesda",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761233913000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<br><h3>Senior Software Engineer - Salesforce Marketing Cloud</h3>\r\n\r\n<p>Duration: 12&nbsp;months</p>\r\n\r\n<p>Location: Remote</p>\r\n\r\n<p>We are seeking a skilled Senior Software Engineer with expertise in Salesforce Marketing Cloud to support and enhance our marketing platforms. The role involves technical design, development, and testing, with collaboration across teams. Strong communication skills and a positive attitude are essential.</p>\r\n\r\n<h3>Requirements:</h3>\r\n\r\n<ul>\r\n\t<li>Expertise in Salesforce Service and Marketing Cloud as a technical architect and hands-on engineer.</li>\r\n\t<li>Ability to ask questions and share solutions; open to collaboration.</li>\r\n\t<li>Deliver secure, scalable, and high-performance technical solutions.</li>\r\n\t<li>Work independently or within a team.</li>\r\n\t<li>Lead Salesforce development, ensuring best practices and mentoring team members.</li>\r\n\t<li>Strong communication and collaboration skills in a team environment.</li>\r\n\t<li>Experience in an Enterprise Agile/Transitioning development environment.</li>\r\n\t<li>Review and approve design documents, code reviews, test plans, and deployment plans.</li>\r\n\t<li>Make informed architectural design decisions.</li>\r\n\t<li>Collaborate with business analysts and product managers to translate requirements into solutions.</li>\r\n</ul>\r\n\r\n<h3>Education and Experience Required:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in computer science or equivalent experience/certification.</li>\r\n\t<li>6 years of Salesforce administration and development experience.</li>\r\n\t<li>3-5 years of experience with web services.</li>\r\n\t<li>1-2 years of experience with the Lightning framework (Aura, LWC).</li>\r\n</ul>\r\n\r\n<h3>Technical Requirements:</h3>\r\n\r\n<ul>\r\n\t<li>Proficiency in AMP script, SQL, and HTML/CSS.</li>\r\n\t<li>Experience with Email Studio, Journey Builder, and Automation Studio.</li>\r\n\t<li>Solid understanding of web technologies (JavaScript, CSS, HTML5, XML, JSON, Ajax).</li>\r\n\t<li>Proficiency in integrating Salesforce with other applications using Connected Apps and APIs.</li>\r\n\t<li>Experience with integrating Marketing Cloud with additional Salesforce instances.</li>\r\n\t<li>Strong understanding of SDLC methodologies (Agile, SCRUM).</li>\r\n\t<li>Strong understanding of lightning flows and trigger framework.</li>\r\n\t<li>Expertise in programming languages and methodologies (e.g., Java and Apex).</li>\r\n</ul>\r\n\r\n<h3>Other Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>Curiosity and interest in problem-solving and iterative development.</li>\r\n\t<li>Salesforce developer/architect/admin certifications, including marketing certifications, are a plus.</li>\r\n\t<li>Experience in the development of hotel property applications.</li>\r\n\t<li>Leadership experience in a sourced environment.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Iryna Atamanchuk",
+      "Iryna@ARKSolutionsInc.com",
+      "7039802803"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26559802",
+    "time_scraped": 1761259294834,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26555981,
+    "title": "Project Manager :: Mechanicsville, VA (Hybrid)",
+    "location": "VA, Mechanicsville",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/22/2025",
+      "date_posted": 1761163889000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 40,
+    "description": "<br><h3>Project Manager</h3>\r\n\r\n<p>Location: Mechanicsville, VA</p>\r\n\r\n<p>Duration: 7+ months, Hybrid</p>\r\n\r\n<p><strong>Overview:</strong></p>\r\n\r\n<p>We are seeking an experienced Senior Project Manager to lead complex IT projects, specifically focusing on migrating systems to Azure. The role involves coordinating multiple teams and work streams to meet aggressive delivery schedules. You will be responsible for the successful completion of all project phases, from PreSelect to Closeout, under the guidance of a program manager.</p>\r\n\r\n<p><strong>Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Lead technical project management efforts with development staff and business groups.</li>\r\n\t<li>Coordinate tasks and resources with ITD management and staff.</li>\r\n\t<li>Communicate timelines and expectations to technical and business teams.</li>\r\n\t<li>Collaborate with vendors, consultants, and contractors, including contract management.</li>\r\n\t<li>Work with technology leads and solution architects to integrate best practices into project plans.</li>\r\n\t<li>Adhere to project management practices and governance requirements.</li>\r\n\t<li>Manage project budget, plans, tasks, schedules, risks, and status updates.</li>\r\n\t<li>Monitor third-party vendor progress and define metrics for progress measurement.</li>\r\n\t<li>Ensure documentation of requirements, use cases, and facilitate design workshops.</li>\r\n\t<li>Define test objectives and design test plans and cases.</li>\r\n\t<li>Manage project milestones and deliverables for timely and budget-compliant delivery.</li>\r\n\t<li>Support system and application training efforts.</li>\r\n</ul>\r\n\r\n<p><strong>Must Have:</strong></p>\r\n\r\n<ul>\r\n\t<li>10+ years of experience managing large-scale, complex IT projects, especially cloud migrations (preferably Azure).</li>\r\n\t<li>5+ years of experience managing migration project budgets and schedules.</li>\r\n\t<li>Familiarity with Azure services like Azure Migrate, Azure Site Recovery, and Azure Database Migration Service.</li>\r\n\t<li>Strong understanding of cloud computing principles (IaaS, PaaS, SaaS) and hybrid cloud environments.</li>\r\n\t<li>Knowledge of DevOps principles and CI/CD pipelines.</li>\r\n\t<li>Excellent communication skills for translating complex technical concepts.</li>\r\n\t<li>Proven leadership ability to guide cross-functional teams and manage stakeholder expectations.</li>\r\n\t<li>Strong problem-solving and analytical skills.</li>\r\n\t<li>Ability to thrive in a fast-paced, demanding environment and manage multiple projects.</li>\r\n\t<li>PMP certification from PMI.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience in both Agile and Waterfall project management.</li>\r\n\t<li>Agile Scrum Master certification.</li>\r\n\t<li>Working knowledge of scripting and Infrastructure as Code (IaC).</li>\r\n\t<li>Azure Certifications (Administrator Associate, Azure Solutions Architect Expert, Azure Migration/Modernization Specialist).</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Shane Agarwal",
+      "Shane@ARKSolutionsInc.com",
+      "5715137907"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26555981",
+    "time_scraped": 1761259294814,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26551747,
+    "title": "Project Manager - Des Moines, IA (Hybrid)",
+    "location": "IA, Des Moines",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/22/2025",
+      "date_posted": 1761131653000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 40,
+    "description": "<br><h3>Project Manager - Des Moines, IA (Hybrid)</h3>\r\n\r\n<p>Duration: 7+ months</p>\r\n\r\n<p>Join our dynamic PMO team responsible for IT project governance, assessment, management, and control. We deliver technology services and solutions to support the Department and its Partners. Be a part of our mission to provide innovative solutions that enable healthy, safe, stable, and self-sufficient lives.</p>\r\n\r\n<ul>\r\n\t<li>Work within a project governance structure.</li>\r\n\t<li>Interact with business and IT teams to drive success.</li>\r\n\t<li>Motivate teams and meet deadlines in a fast-paced environment.</li>\r\n\t<li>Organize complex business process scenarios.</li>\r\n\t<li>Break down tasks into actionable work items.</li>\r\n\t<li>Manage scope and deliver minimum viable products.</li>\r\n\t<li>Excellent organizational and communication skills.</li>\r\n\t<li>Track project progress and provide status updates.</li>\r\n</ul>\r\n\r\n<h3>Must-Have Skills:</h3>\r\n\r\n<ul>\r\n\t<li>10 years of direct management of system integration projects.</li>\r\n\t<li>10 years of experience managing stakeholder expectations and priorities.</li>\r\n\t<li>10 years of experience within a project governance structure.</li>\r\n\t<li>10 years of experience planning and managing major impact projects.</li>\r\n\t<li>Strong process development and gap analysis skills.</li>\r\n\t<li>Excellent project management skills with multitasking ability.</li>\r\n\t<li>8 years of experience gathering and documenting business requirements.</li>\r\n\t<li>Ability to prioritize and manage multiple projects simultaneously.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Satyam Mishra",
+      "Satyam@ARKSolutionsInc.com",
+      "(571) 895-1989"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26551747",
+    "time_scraped": 1761259294854,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26549807,
+    "title": "Senior Technical Business Lead :: Harrisburg, PA (Hybrid)",
+    "location": "PA, Harrisburg",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761078087000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 40,
+    "description": "<br><h3>Senior Technical Business Lead</h3>\r\n\r\n<p>Location: Harrisburg, PA (Hybrid)<br />\r\nDuration: 7+ months</p>\r\n\r\n<p><strong>Position Overview:</strong></p>\r\n\r\n<p>Seeking a Senior Technical Business Lead to join our application development team. This role bridges the gap between business needs and technical solutions, working closely with the Section Manager to address IT business solution needs and problems. The ideal candidate will have strong communication skills and expert knowledge of the Application Development life cycle.</p>\r\n\r\n<p><strong>Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Plan and coordinate daily stand-ups with the development team.</li>\r\n\t<li>Collaborate with Section Management to address IT business solution needs.</li>\r\n\t<li>Work with the Application team to identify and resolve technical issues.</li>\r\n\t<li>Lead Incident Management &amp; Change Management for the Application support team.</li>\r\n\t<li>Provide weekly status updates on projects, tasks, and initiatives.</li>\r\n\t<li>Manage application inventory, support documentation, and portfolio organization.</li>\r\n\t<li>Review business requirements and estimate development efforts.</li>\r\n\t<li>Participate in adopting COTS products for the department.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>5 years of experience with DevOps and familiarity with SCRUM/iterative/waterfall development.</li>\r\n\t<li>Strong problem-solving skills (5 years).</li>\r\n\t<li>5 years of experience with ITSM, including Remedy &amp; ServiceNow.</li>\r\n\t<li>5 years of IT Project Management experience.</li>\r\n\t<li>Strong analytical and communication skills (5 years).</li>\r\n\t<li>Excellent communication skills to understand client requirements.</li>\r\n\t<li>Ability to build strong relationships with clients and colleagues.</li>\r\n\t<li>Data gathering and interpretation skills.</li>\r\n\t<li>Excellent presentation skills.</li>\r\n\t<li>Broad knowledge of technologies and applications.</li>\r\n\t<li>Ability to explain ideas clearly to both technical and non-technical staff.</li>\r\n\t<li>Knowledge of industry quality standards, legislation, and best practices.</li>\r\n\t<li>Ability to work effectively under pressure and meet deadlines.</li>\r\n\t<li>Flexible and adaptable approach.</li>\r\n\t<li>Commitment to staying up-to-date with technology.</li>\r\n\t<li>Experience gathering tasks and requirements with security and accessibility in mind.</li>\r\n\t<li>Experience with modernization projects (desired).</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Shivam Aditya",
+      "Shivam@arksolutionsinc.com",
+      "2029843420"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26549807",
+    "time_scraped": 1761259294888,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26546641,
+    "title": "Customer Support Technician :: Tallahassee, FL (Onsite)",
+    "location": "FL, Tallahassee",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761058245000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Customer Support Technician</h3>\r\n\r\n<p><strong>Location:</strong> Tallahassee, FL</p>\r\n\r\n<p><strong>Duration:</strong> 7+ months, Onsite</p>\r\n\r\n<p><strong>Scope of Services:</strong></p>\r\n\r\n<p>Responsible for Tier I IT call center customer service support. Diagnose and resolve problems using documented procedures and checklists. Enter call data into a tracking system. Escalate issues to higher-level technical support when necessary. Assist in resolving application and software problems.</p>\r\n\r\n<p><strong>Primary Job Duties/Tasks:</strong></p>\r\n\r\n<ul>\r\n\t<li>Provide remote support for customers with password or access issues.</li>\r\n\t<li>Document work performed and resolutions. Identify, analyze, and resolve problems using troubleshooting tools and techniques.</li>\r\n\t<li>Support customers in ISA Utility with role assignment, account activation, and password reset.</li>\r\n\t<li>Maintain up-to-date customer and technician information in the ITSM ticketing system.</li>\r\n\t<li>Manage incoming requests and generate tickets in the ITSM ticketing system for resolution or escalation.</li>\r\n\t<li>Work with the team to maintain a central hub of communications for the agency.</li>\r\n</ul>\r\n\r\n<p><strong>Job Specific Knowledge, Skills, and Abilities (KSAs):</strong></p>\r\n\r\n<ul>\r\n\t<li>General knowledge of Microsoft products, including operating systems, office suite, and Outlook in a networked environment.</li>\r\n\t<li>General knowledge of computer software and hardware in personal computer, local area network, and wide area network environments.</li>\r\n\t<li>Skilled at installing and providing technical support for software applications, operating systems, and personal computer hardware.</li>\r\n\t<li>Ability to communicate effectively both verbally and in writing.</li>\r\n\t<li>Ability to read, understand, and comply with departmental policies, procedures, guidelines, and practices relating to desktop standards.</li>\r\n</ul>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>High School Diploma or equivalent.</li>\r\n</ul>\r\n\r\n<p><strong>Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li>1 to 2 years of Customer Call Center work experience.</li>\r\n\t<li>1 year of computer software, account password reset, and network connection troubleshooting work experience is a plus.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Charanjeet Singh",
+      "Charan@arksolutionsinc.com",
+      "5718952406"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26546641",
+    "time_scraped": 1761259294867,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 25490981,
+    "title": "Client Relationship Associate (IT Staffing)",
+    "location": "TN, Memphis",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/20/2025",
+      "date_posted": 1760982120000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 80,
+    "description": "<br><h3><strong>Client Relationship Associate (IT Staffing)</strong></h3>\r\n\r\n<ul>\r\n\t<li>Remote based in&nbsp;Memphis, TN</li>\r\n\t<li>Base plus bonus</li>\r\n</ul>\r\n\r\n<p>Are you a people-person who thrives on connection, communication, and building long-term trust?<br />\r\n<br />\r\nARK Solutions is seeking a <strong> Client Relationship Associate</strong> to join our commercial business development department.<br />\r\n<br />\r\nThis is a unique opportunity to learn the business from the inside out, starting with hands-on training in recruiting and delivery, then moving into a client-facing role where you&#39;ll represent ARK to some of our key partners in the Memphis metro.</p>\r\nThis role is ideal for a professional who enjoys connecting with people, is confident in business settings, and wants to grow in their sales career.\r\n\r\n<h3><strong>Responsibilities</strong></h3>\r\n\r\n<ul>\r\n\t<li>Build and maintain relationships with ARK&#39;s clients in the Memphis area</li>\r\n\t<li>Represent ARK at client meetings, networking events, and local professional gatherings.</li>\r\n\t<li>Serve as the trusted local point of contact for clients, ensuring timely communication and issue resolution.</li>\r\n\t<li>Support account growth through consistent, professional relationship management and proactive follow-up.</li>\r\n\t<li>Partner closely with recruiters to understand client needs and align on candidate delivery.</li>\r\n\t<li>Maintain accurate notes, feedback, and relationship updates within ARK&#39;s internal systems.</li>\r\n</ul>\r\n\r\n<h3><strong>Requirements</strong></h3>\r\n\r\n<ul>\r\n\t<li>3-6 years of client-facing experience, prior staffing experience is a plus</li>\r\n\t<li>Based in Memphis, TN with the ability to travel throughout the local area for on-site client meetings</li>\r\n\t<li>Strong verbal and written communication skills, professional polish</li>\r\n\t<li>Relationship builder able to engage with all levels of the organization</li>\r\n\t<li>Highly organized, adaptable, and resilient; able to learn quickly and manage multiple priorities.</li>\r\n</ul>\r\n<strong> Compensation &amp; Benefits</strong>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Base Salary: $55,000&ndash;$65,000 plus performance-based bonuses</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Comprehensive benefits package including PTO, 401k, Medical/Dental/Vision, and opportunities for professional development.</p>\r\n\t</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Megan Schweitzer",
+      "Megan@arksolutionsinc.com",
+      "5614055112"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/25490981",
+    "time_scraped": 1761259301685,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26541118,
+    "title": "IT Strategist Enterprise Architect :: Tallahassee, FL (Onsite)",
+    "location": "FL, Tallahassee",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/20/2025",
+      "date_posted": 1760981905000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>IT Strategist Enterprise Architect</h3>\r\n\r\n<p>Location: Tallahassee, FL</p>\r\n\r\n<p>Duration: 30+ months (Onsite)</p>\r\n\r\n<p>We are seeking a highly skilled professional to join our team with the following qualifications:</p>\r\n\r\n<ul>\r\n\t<li>Experience in developing and implementing technology strategies or enterprise policies for large organizations, preferably in government or healthcare.</li>\r\n\t<li>10 years of progressively responsible experience in IT, strategy development, enterprise architecture, or IT policy/governance.</li>\r\n\t<li>Proven ability to coordinate with executive leadership and cross-functional teams to develop, review, and finalize strategic or policy documents.</li>\r\n\t<li>Familiarity with IT governance frameworks such as NIST, COBIT, ITIL, or TOGAF.</li>\r\n\t<li>Knowledge of Florida Information Technology statutes and administrative codes.</li>\r\n\t<li>Strong skills in writing executive-level documents, strategies, and policies.</li>\r\n\t<li>Experience in facilitating and coordinating across diverse teams and stakeholder groups.</li>\r\n</ul>\r\n\r\n<p>Key Responsibilities:</p>\r\n\r\n<ul>\r\n\t<li>Assist with Technology Strategy Development:\r\n\t<ul>\r\n\t\t<li>Conduct assessments of current technology capabilities, challenges, and opportunities.</li>\r\n\t\t<li>Define technology vision, guiding principles, and enterprise objectives.</li>\r\n\t\t<li>Draft and maintain the Department Technology Strategy and Roadmap.</li>\r\n\t\t<li>Align strategic priorities with statutory mandates, cybersecurity requirements, and agency business needs.</li>\r\n\t\t<li>Identify opportunities for modernization, consolidation, and cost savings.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Provide Policy &amp; Standards Support:\r\n\t<ul>\r\n\t\t<li>Develop policies, standards, and guidelines to operationalize the technology strategy.</li>\r\n\t\t<li>Ensure policies align with Chapter 282, F.S., Florida Administrative Code, and enterprise standards.</li>\r\n\t\t<li>Manage policy lifecycle including drafting, comment resolution, finalization, approval, and communication.</li>\r\n\t\t<li>Provide CIO and Department staff with policy packets, briefing materials, and communications.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Provide Coordination &amp; Governance:\r\n\t<ul>\r\n\t\t<li>Organize and facilitate technology strategy working groups with Division and County Health Department IT leadership.</li>\r\n\t\t<li>Provide agendas, meeting minutes, and track action items.</li>\r\n\t\t<li>Coordinate with external stakeholders and maintain stakeholder maps, charts, and issue/risk logs to ensure accountability.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Assist with Reporting &amp; Communication:\r\n\t<ul>\r\n\t\t<li>Prepare weekly CIO status updates on strategy and policy progress.</li>\r\n\t\t<li>Develop dashboards to track initiatives, policies, risks, and milestones.</li>\r\n\t\t<li>Create executive briefing decks and communications materials for leadership.</li>\r\n\t\t<li>Support legislative and enterprise reporting requirements as directed.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Charanjeet Singh",
+      "Charan@arksolutionsinc.com",
+      "5718952406"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26541118",
+    "time_scraped": 1761259301749,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26529642,
+    "title": "Microsoft CRM Lead (CE) :: Middletown, PA (Hybrid/Remote)",
+    "location": "PA, Middletown",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/17/2025",
+      "date_posted": 1760727098000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 90,
+    "description": "<br><h3>Microsoft CRM Lead</h3>\r\n\r\n<p>Location: Middletown, PA</p>\r\n\r\n<p>Duration: 12 months</p>\r\n\r\n<p>Hybrid/Remote</p>\r\n\r\n<p><strong>Description of Duties:</strong></p>\r\n\r\n<ul>\r\n\t<li>Understand and enhance Microsoft CE applications, configurations, and technologies.</li>\r\n\t<li>Coordinate changes and designs to ensure they meet needs and follow standards.</li>\r\n\t<li>Architect and build a roadmap for delivery.</li>\r\n\t<li>Manage and mentor a team of CRM and full stack developers.</li>\r\n\t<li>Ensure successful delivery for CRM, portal, and web app projects.</li>\r\n\t<li>Advise leadership on current trends in Microsoft CE applications.</li>\r\n\t<li>Act as a subject matter expert in meetings and reports with stakeholders.</li>\r\n\t<li>Raise concerns and potential issues to leadership with detailed information.</li>\r\n\t<li>Develop Microsoft CE customizations and configurations to meet needs.</li>\r\n\t<li>Support integrations with middleware, ERP systems, payment gateways, etc.</li>\r\n\t<li>Act as an expert for data migration to Microsoft CRM.</li>\r\n\t<li>Fully document all work including technical and functional designs, test plans, and best practices.</li>\r\n\t<li>Develop and maintain productive working relationships with technology staff, business owners, and key clients.</li>\r\n\t<li>Lead and participate in project team activities for system work efforts.</li>\r\n\t<li>Work independently and adhere to all standards, policies, and procedures.</li>\r\n</ul>\r\n\r\n<p><strong>Minimum Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li>10 years of Microsoft CE application software systems implementation experience.</li>\r\n\t<li>10 years of experience developing CRM applications using .Net, JavaScript, Python, React, SSIS, Reporting Services.</li>\r\n\t<li>5 years as a Microsoft certified FastTrack solution architect for business applications.</li>\r\n\t<li>2 years of experience leveraging Azure AI services and Machine Learning for developing Microsoft D365 CE business applications.</li>\r\n\t<li>Experience in data migration to Microsoft CRM from non-COTs account management systems.</li>\r\n\t<li>Experience in developing integrations with ERP systems and data repositories.</li>\r\n\t<li>Implemented high-volume contact center applications including CRM, Portal, and Mobile Apps.</li>\r\n\t<li>Strong understanding of Human Centered Design Approach for product development.</li>\r\n\t<li>Proficient in Microsoft Office 365 suite including Teams, Word, Excel, and PowerPoint.</li>\r\n</ul>\r\n\r\n<p><strong>Required Skillset:</strong></p>\r\n\r\n<ul>\r\n\t<li>Certified Microsoft Power Platform or Customer Engagement Fast Track Solution Architect.</li>\r\n\t<li>10 years of expertise in Microsoft CE application development as a lead developer and/or architect.</li>\r\n\t<li>Strong experience in developing and deploying solutions using D365 CE and Power Platform, leveraging AI and Machine Learning.</li>\r\n\t<li>Integration experience in event-driven architecture with SAP ERP, payment gateways, and contact center systems.</li>\r\n</ul>\r\n\r\n<p><strong>Desired Skillset</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with Enterprise Business Solutions, specifically SAP projects.</li>\r\n\t<li>Knowledge of ITIL / ITSM practices and methodologies.</li>\r\n</ul>\r\n\r\n<p><strong>Certifications / Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in business management or information systems, or equivalent combination of education and/or experience.</li>\r\n\t<li>Microsoft MVP for Business Applications and technology area of Customer Experience, Power Apps, or CoPilot Studio.</li>\r\n\t<li>Azure AI Fundamentals certification or similar AI or Machine Learning certifications.</li>\r\n\t<li>Microsoft Dynamics related certifications.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Vikrant Sharma",
+      "Vikrant@arksolutionsinc.com",
+      "5718951907"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26529642",
+    "time_scraped": 1761259301732,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26528595,
+    "title": "Senior Technical Analyst :: Denver, CO (Remote)",
+    "location": "CO, Denver",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/17/2025",
+      "date_posted": 1760720472000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<br><h3>Senior Technical Analyst - 12 Months Contract</h3>\r\n\r\n<h3>Location: Remote, Denver, CO</h3>\r\n\r\n<p><strong>Position Overview:</strong></p>\r\n\r\n<p>Join our team as a Senior Technical Analyst&nbsp;to drive innovation and transformation across enterprise systems. This role requires a versatile professional who can integrate multiple technical disciplines while aligning with business objectives.</p>\r\n\r\n<p><strong>Primary Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Technical Integration &amp; Analysis:</strong>\r\n\r\n\t<ul>\r\n\t\t<li>Synthesize solutions across network infrastructure, software development, and enterprise architecture</li>\r\n\t\t<li>Analyze complex technical challenges and propose comprehensive solutions</li>\r\n\t\t<li>Bridge gaps between technical implementation and business requirements</li>\r\n\t\t<li>Evaluate and optimize existing technical processes and systems</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>Strategic Planning &amp; Execution:</strong>\r\n\t<ul>\r\n\t\t<li>Support the development and implementation of technical strategies</li>\r\n\t\t<li>Execute tactical plans under strategic guidance</li>\r\n\t\t<li>Assess project requirements and determine optimal execution paths</li>\r\n\t\t<li>Identify and mitigate technical roadblocks</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>Cross-functional Collaboration:</strong>\r\n\t<ul>\r\n\t\t<li>Work directly with agency stakeholders</li>\r\n\t\t<li>Interface with various technical teams and business units</li>\r\n\t\t<li>Translate complex technical concepts for diverse audiences</li>\r\n\t\t<li>Build and maintain relationships with key stakeholders</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>Required Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Cognitive &amp; Analytical Capabilities:</strong>\r\n\r\n\t<ul>\r\n\t\t<li>Exceptional analytical and problem-solving abilities</li>\r\n\t\t<li>Demonstrated capacity for complex systems thinking</li>\r\n\t\t<li>Superior pattern recognition and synthesis skills</li>\r\n\t\t<li>Ability to quickly grasp and apply new concepts</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>Technical Expertise:</strong>\r\n\t<ul>\r\n\t\t<li>Broad knowledge across multiple technical domains</li>\r\n\t\t<li>Network infrastructure and architecture</li>\r\n\t\t<li>Software development and engineering</li>\r\n\t\t<li>Enterprise architecture</li>\r\n\t\t<li>System integration</li>\r\n\t\t<li>Understanding of enterprise IT operations</li>\r\n\t\t<li>Experience with technical decision-making processes</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>Strategic Competencies:</strong>\r\n\t<ul>\r\n\t\t<li>Clear understanding of strategic vs. tactical approaches</li>\r\n\t\t<li>Ability to identify and prioritize critical path items</li>\r\n\t\t<li>Experience in solution architecture and design</li>\r\n\t\t<li>Capacity to balance immediate needs with long-term objectives</li>\r\n\t\t<li>Health and Hospital experience preferred</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>Professional Attributes:</strong></p>\r\n\r\n<ul>\r\n\t<li>Exceptional learning agility and intellectual curiosity</li>\r\n\t<li>Strong attention to detail while maintaining big-picture perspective</li>\r\n\t<li>Ability to work under guidance while developing autonomous capabilities</li>\r\n\t<li>Excellent communication skills across technical and non-technical audiences</li>\r\n</ul>\r\n\r\n<p><strong>Success Criteria:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Demonstrated ability to:</strong>\r\n\r\n\t<ul>\r\n\t\t<li>Quickly grasp complex technical concepts</li>\r\n\t\t<li>Execute within established strategic framework</li>\r\n\t\t<li>Provide innovative solutions to technical challenges</li>\r\n\t\t<li>Build effective working relationships across the organization</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>Progressive development in:</strong>\r\n\t<ul>\r\n\t\t<li>Strategic decision-making capabilities</li>\r\n\t\t<li>Technical leadership skills</li>\r\n\t\t<li>Enterprise-wide perspective</li>\r\n\t\t<li>Autonomous problem-solving</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>Working Environment:</strong></p>\r\n\r\n<ul>\r\n\t<li>Fast-paced, innovative technical environment</li>\r\n\t<li>Exposure to enterprise-level systems and processes</li>\r\n\t<li>Collaborative team structure with clear leadership guidance</li>\r\n\t<li>Opportunity for significant impact on organizational success</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Iryna Atamanchuk",
+      "Iryna@ARKSolutionsInc.com",
+      "7039802803"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26528595",
+    "time_scraped": 1761259301696,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26524231,
+    "title": "Network Engineer - Denver, CO (Hybrid)",
+    "location": "CO, Denver",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/16/2025",
+      "date_posted": 1760649510000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 60,
+    "description": "<br><h3>Network Engineer - Denver, CO</h3>\r\n\r\n<p><strong>Duration:</strong> 12 months (Hybrid)</p>\r\n\r\n<p>Seeking a skilled Network Engineer to join our team. This role requires a strong background in network services, particularly with Cisco technologies, and offers an opportunity to lead enterprise-level network projects.</p>\r\n\r\n<h3>Primary Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Serve as the technical lead for enterprise network projects, defining architectures and proposing solutions.</li>\r\n\t<li>Develop project documentation, including network architecture diagrams and automation workflows.</li>\r\n\t<li>Create and manage project plans, ensuring timely delivery of network initiatives.</li>\r\n\t<li>Mentor team members and provide technical guidance to customers and IT staff.</li>\r\n</ul>\r\n\r\n<h3>Qualifications &amp; Experience:</h3>\r\n\r\n<ul>\r\n\t<li>7 years of experience in network operations and support.</li>\r\n\t<li>5 years configuring routing and switching for local and wide area networks.</li>\r\n\t<li>5 years managing Cisco Wireless Infrastructure.</li>\r\n\t<li>3 years with Cisco Catalyst Center/DNA Center and automation.</li>\r\n\t<li>3 years in network design, architecture, and implementation.</li>\r\n\t<li>Associate degree or equivalent network certifications.</li>\r\n\t<li>Excellent communication, teamwork, and customer service skills.</li>\r\n</ul>\r\n\r\n<h3>Highly Desirable:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in a related field.</li>\r\n\t<li>Cisco Professional and/or Expert certifications (e.g., CCNP, CCIE).</li>\r\n\t<li>Experience with Cisco Identity Service Engine and Data Center technologies.</li>\r\n\t<li>Experience with Software-Defined Access and WAN (SDWAN) technologies.</li>\r\n\t<li>Experience with scripting and automation.</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Vaibhav Mishra",
+      "Vaibhav@arksolutionsinc.com",
+      "5718951990"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26524231",
+    "time_scraped": 1761259301687,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26519778,
+    "title": "Business Analyst Team Lead :: Boca Raton, FL (Onsite)",
+    "location": "FL, Boca Raton",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/16/2025",
+      "date_posted": 1760634258000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Business Analyst Team Lead</h3>\r\n\r\n<p>Location: Boca Raton, FL</p>\r\n\r\n<p>Duration: 8 Months (Onsite)</p>\r\n\r\n<p>Seeking for&nbsp;a Business Analyst Team Lead, where you&#39;ll bridge the gap between business needs and IT solutions. This role is perfect for someone who thrives in a collaborative environment and is passionate about leveraging technology to drive business success.</p>\r\n\r\n<h3>Key Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Act as a liaison between business units and the IT department to provide technical solutions.</li>\r\n\t<li>Analyze business operations to identify strengths and weaknesses, and suggest process improvements.</li>\r\n\t<li>Translate business requirements into functional specifications for IT solutions.</li>\r\n\t<li>Facilitate communication and negotiate agreements between business units and IT.</li>\r\n\t<li>Stay informed on technological trends to enhance the enterprise&#39;s competitive edge.</li>\r\n</ul>\r\n\r\n<h3>Must Have:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s Degree in Computer Science, Information Systems, Business Administration, or related field.</li>\r\n\t<li>Minimum of 5 years of relevant technical or business work experience.</li>\r\n\t<li>Experience working with business partners to align technology solutions with business strategies.</li>\r\n\t<li>Ability to support moderately complex business processes and work on multiple projects.</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n<br>",
+    "recruiter": [
+      "Charanjeet Singh",
+      "Charan@arksolutionsinc.com",
+      "5718952406"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26519778",
+    "time_scraped": 1761259308270,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26517332,
+    "title": "Senior Network Engineer :: Mechanicsville, VA (Onsite)",
+    "location": "VA, Mechanicsville",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/16/2025",
+      "date_posted": 1760620301000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Senior Network Engineer</h3>\r\n\r\n<p>Duration: 8+ months | Location: Onsite at Mechanicsville, VA</p>\r\n\r\n<p><strong>Job Overview:</strong></p>\r\n\r\n<p>We are looking for an experienced Senior Network Engineer to enhance and support our IT Network infrastructure. The role involves daily activities related to support, documentation, research, analysis, and implementation of network-related infrastructure.</p>\r\n\r\n<p><strong>Key Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Manage and troubleshoot enterprise routers, switches, VPN concentrators, firewalls, wireless access points, and load balancers.</li>\r\n\t<li>Identify and diagnose system problems using line monitors, diagnostic software, and test equipment.</li>\r\n\t<li>Collaborate with IT infrastructure suppliers and stakeholders to ensure accurate and up-to-date network configurations.</li>\r\n\t<li>Assist in troubleshooting and resolving network issues affecting application performance and uptime.</li>\r\n\t<li>Oversee installation, documentation, and upgrades of data network infrastructure.</li>\r\n\t<li>Collaborate with cloud and DevSecOps teams to optimize hybrid connectivity and SDWAN configurations.</li>\r\n\t<li>Provide documentation, network architecture topology diagrams, IP schemes, firewall rules, and access controls as needed.</li>\r\n\t<li>Work independently on assigned projects.</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills &amp; Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>8+ years of experience with enterprise routers, switches, VPN concentrators, firewalls, and wireless access points.</li>\r\n\t<li>8+ years of experience setting up, configuring, upgrading, managing, and troubleshooting routers/switches, and WAPS.</li>\r\n\t<li>8+ years of experience designing, installing, and troubleshooting local-area and wide-area enterprise networks.</li>\r\n\t<li>Industry-standard networking certification (e.g., Cisco CCNA, Juniper JNCIA-Junos).</li>\r\n\t<li>8+ years of experience monitoring IT environments for compliance with information security, architecture policies, and standards.</li>\r\n\t<li>8+ years of experience creating repeatable, reliable, scalable network architectures with fault tolerance.</li>\r\n\t<li>8+ years of experience in performance tuning, monitoring systems, statistics/metrics collection, and disaster recovery.</li>\r\n\t<li>8+ years of experience creating network diagrams using industry-standard tools such as Visio.</li>\r\n\t<li>8+ years of experience with networking features and protocols such as ARP, CDP, EIGRP, OSPF, BGP, VTP, EtherChannel, HSRP, QoS, multicast, IPsec, etc.</li>\r\n\t<li>3+ years of experience working with SDWAN (desired).</li>\r\n\t<li>3+ years of experience with network topology related to Cloud (desired).</li>\r\n\t<li>3+ years of familiarity and experience working with cloud networking (desired).</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Shane Agarwal",
+      "Shane@ARKSolutionsInc.com",
+      "5715137907"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26517332",
+    "time_scraped": 1761259308220,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26506036,
+    "title": "Information System Security Officer",
+    "location": "DC, Washington",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/14/2025",
+      "date_posted": 1760472722000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Information System Security Officer</h3>\r\n\r\n<p>Location: Washington, DC | Duration: 12 months | Hybrid<br />\r\n&nbsp;</p>\r\n\r\n<p><strong>Day-to-day Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Conduct continuous monitoring activities, including maintenance of current ATO, system self-assessments, and review of vulnerability and compliance reports.</li>\r\n\t<li>Ensure stakeholders perform system log reviews as defined in the SSP and review IT system user accounts for accuracy.</li>\r\n\t<li>Collaborate with technical teams to mitigate security control deficiencies and vulnerabilities.</li>\r\n\t<li>Assess cybersecurity impact of changes to IT systems, document findings, and brief stakeholders.</li>\r\n\t<li>Conduct self-assessments of security controls, identify weaknesses, and track remediation activities in POA&amp;M.</li>\r\n\t<li>Manage POA&amp;M process for timely detection and alerting of non-compliance issues.</li>\r\n\t<li>Provide system access, information, and documentation to security assessment and audit teams.</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Risk Management Framework (RMF)</li>\r\n\t<li>System Security Plan (SSP)</li>\r\n\t<li>Plan of Action and Milestones (POA&amp;M)</li>\r\n\t<li>Authorization to Operate (ATO)</li>\r\n\t<li>Security Impact Analysis (SIA)</li>\r\n\t<li>Information Sensitivity Security Assessment</li>\r\n\t<li>Information Technology Risk Acceptances</li>\r\n\t<li>Configuration Management Plan</li>\r\n\t<li>Supply Chain Risk Management Plan</li>\r\n\t<li>Interconnection Security Agreements</li>\r\n\t<li>Memorandums of Understanding</li>\r\n\t<li>Information Data Exchange Agreements</li>\r\n\t<li>Vulnerability Reports</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with RMF, SSP, POA&amp;M, ATO, and SIA</li>\r\n\t<li>Knowledge of Configuration Management Plan and Supply Chain Risk Management Plan</li>\r\n\t<li>Understanding of Interconnection Security Agreements and Memorandums of Understanding</li>\r\n</ul>\r\n\r\n<p><strong>Expected Deliverables:</strong></p>\r\n\r\n<ul>\r\n\t<li>Cybersecurity Staff Augmentation</li>\r\n</ul>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s Degree, preferably in Computer Science, Information Technology, or Cybersecurity</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Vikrant Sharma",
+      "Vikrant@arksolutionsinc.com",
+      "5718951907"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26506036",
+    "time_scraped": 1761259308200,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26504893,
+    "title": "Senior ServiceNow Business Analyst :: REMOTE",
+    "location": "MD, Bethesda",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/14/2025",
+      "date_posted": 1760466946000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<br><h3>Senior ServiceNow Business Analyst</h3>\r\n\r\n<p>Location: Remote</p>\r\n\r\n<p>Duration: 12 months</p>\r\n\r\n<p>Will play a key role in enhancing IT service management and employee experience through the ServiceNow platform. Collaborate with stakeholders to define, document, and deliver optimized solutions.</p>\r\n\r\n<ul>\r\n\t<li>Undergraduate degree in Information Systems, Computer Science, Business, or related field (or equivalent experience)</li>\r\n\t<li>5 years of experience as a Business Analyst, ideally supporting ITSM or enterprise platforms</li>\r\n\t<li>2 years as a ServiceNow Business Analyst</li>\r\n\t<li>Strong understanding of ITIL v4 processes and best practices</li>\r\n\t<li>Hands-on experience with ServiceNow modules like Incident, Problem, Change, Request, Knowledge, CMDB, or ITOM</li>\r\n\t<li>Proficiency in writing user stories, acceptance criteria, and functional design documentation</li>\r\n\t<li>Excellent analytical, facilitation, and communication skills</li>\r\n</ul>\r\n\r\n<h3>Preferred</h3>\r\n\r\n<ul>\r\n\t<li>ServiceNow Certified System Administrator (CSA) or Certified Business Analyst Certification</li>\r\n\t<li>Experience working in an Agile, SAFe, or Lean environment</li>\r\n\t<li>Familiarity with Service Portal, HRSD, CSM, ITAM, GRC, or ITOM modules</li>\r\n\t<li>Exposure to data visualization and reporting tools (Performance Analytics, Power BI, etc.)</li>\r\n\t<li>Experience analyzing complex business requirements and providing guidance</li>\r\n\t<li>Detail-oriented with a focus on quality and user experience</li>\r\n\t<li>Proactive problem-solver balancing business priorities with technical feasibility</li>\r\n</ul>\r\n\r\n<h3>Core Work Activities</h3>\r\n\r\n<h4>Requirements &amp; Process Analysis</h4>\r\n\r\n<ul>\r\n\t<li>Engage with stakeholders to gather, analyze, and translate business requirements into functional specifications</li>\r\n\t<li>Map current and future-state ITSM processes, identifying gaps and improvement opportunities</li>\r\n\t<li>Collaborate with Product Owners and Process Architects to ensure alignment with business value</li>\r\n</ul>\r\n\r\n<h4>Solution Design &amp; Delivery Support</h4>\r\n\r\n<ul>\r\n\t<li>Work with developers to validate solutions meet documented requirements</li>\r\n\t<li>Participate in sprint planning, backlog refinement, and testing cycles</li>\r\n\t<li>Create and maintain detailed documentation including process flows and acceptance criteria</li>\r\n</ul>\r\n\r\n<h4>Governance &amp; Continuous Improvement</h4>\r\n\r\n<ul>\r\n\t<li>Partner with Platform Owner to maintain data quality and standardization</li>\r\n\t<li>Identify automation, AI, and self-service opportunities</li>\r\n\t<li>Contribute to release readiness activities and post-release validation</li>\r\n</ul>\r\n\r\n<h4>Stakeholder Engagement &amp; Communication</h4>\r\n\r\n<ul>\r\n\t<li>Act as a trusted advisor, translating technical concepts into clear, business-oriented language</li>\r\n\t<li>Facilitate workshops, demos, and design sessions</li>\r\n\t<li>Support training and knowledge-sharing activities</li>\r\n</ul>\r\n\r\n<h4>Additional Responsibilities</h4>\r\n\r\n<ul>\r\n\t<li>Attend and participate in relevant meetings</li>\r\n\t<li>Present ideas and information concisely and organized</li>\r\n\t<li>Maintain positive working relations with internal customers and department managers</li>\r\n\t<li>Manage time effectively and conduct activities in an organized manner</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Vaibhav Mishra",
+      "Vaibhav@arksolutionsinc.com",
+      "5718951990"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26504893",
+    "time_scraped": 1761259308326,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26502204,
+    "title": "Forensic Accountant :: Philadelphia, PA (Onsite)",
+    "location": "PA, Pittsburgh",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/14/2025",
+      "date_posted": 1760450750000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><h3>Forensic Accountant - Philadelphia, PA</h3>\r\n\r\n<p>Duration: 9+ months, Onsite</p>\r\n\r\n<p><strong>Project Description:</strong></p>\r\n\r\n<ul>\r\n\t<li>Provide financial forensic support.</li>\r\n</ul>\r\n\r\n<p><strong>Day-to-day Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Client-facing support involving data ingestion, standardization, categorization, analysis, and reporting to enhance financial investigations.</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Expertise in analyzing large datasets using Excel.</li>\r\n\t<li>Ability to explain financial data analyses to both technical and non-technical stakeholders.</li>\r\n\t<li>Problem-solving using accounting and financial procedures; evaluating business process controls.</li>\r\n\t<li>Experience in analyzing financial and business records.</li>\r\n\t<li>Proficiency with investigative tools and databases; organizing and analyzing financial data; familiarity with bank statements and reconciliation processes; analyzing money flow trends; creating visualizations for complex data.</li>\r\n\t<li>Comfortable working directly with clients.</li>\r\n\t<li>Must support clients in-person in Philadelphia, PA.</li>\r\n\t<li>Ability to obtain and maintain a High-Risk Public Trust.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with federal government agencies in forensic accounting and investigations.</li>\r\n\t<li>Experience collaborating with attorneys on financial activities globally.</li>\r\n\t<li>Knowledge of fiat and cryptocurrency instruments.</li>\r\n\t<li>Skills in PowerBI/Tableau.</li>\r\n</ul>\r\n\r\n<p><strong>Years of Experience Preferred:</strong></p>\r\n\r\n<ul>\r\n\t<li>4+ Years of Experience.</li>\r\n</ul>\r\n\r\n<p><strong>Expected Deliverables:</strong></p>\r\n\r\n<ul>\r\n\t<li>Flow of funds analysis, network analysis charts, dashboard creation, and development of legal exhibits.</li>\r\n</ul>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s Degree</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Suraj Shukla",
+      "Suraj@arksolutionsinc.com",
+      "2029383891"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/26502204",
+    "time_scraped": 1761259308247,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  }
+]

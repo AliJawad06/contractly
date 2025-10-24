@@ -1,0 +1,101 @@
+[
+  {
+    "id": 31365738,
+    "title": "tessss",
+    "location": "None, Test City, Yes",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761035233000
+    },
+    "start": {
+      "start_dateStr": "10/21/2025",
+      "start_date": 1761019200000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Aoude<br><p data-end=\"616\" data-start=\"541\"><strong data-end=\"554\" data-start=\"541\">Position:</strong> [Job Title]<br data-end=\"578\" data-start=\"575\" />\r\n<strong data-end=\"591\" data-start=\"578\">Location:</strong> City/State</p>\r\n\r\n<p data-end=\"884\" data-start=\"618\"><strong data-end=\"637\" data-start=\"618\">About the Role: </strong></p>\r\n\r\n<p data-end=\"909\" data-start=\"886\"><strong data-end=\"907\" data-start=\"886\">Responsibilities:</strong><br />\r\n[Responsibility 1]<br />\r\n[Responsibility 2]<br />\r\n[Responsibility 3]<br />\r\n[Responsibility 4]<br />\r\n </p>\r\n\r\n<p data-end=\"909\" data-start=\"886\"><strong data-end=\"907\" data-start=\"886\">Requirements:</strong><br />\r\n[Requirement1]<br />\r\n[Requirement 2]<br />\r\n[Requirement3]<br />\r\n[Requirement4]</p>\r\n<br>George",
+    "recruiter": [
+      "George Aoude",
+      "george.aoude+1@jobdiva.com",
+      "2122222222"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei&jobid=24015780&source=google&SearchString=#/jobs/31365738",
+    "time_scraped": 1761255912389,
+    "source_company": "2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei",
+    "source_url": "https://www1.jobdiva.com/portal/?a=2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei&jobid=24015780&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31365735,
+    "title": "eest",
+    "location": "None, Test City, Yes",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/21/2025",
+      "date_posted": 1761035148000
+    },
+    "start": {
+      "start_dateStr": "10/21/2025",
+      "start_date": 1761019200000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Aoude<br><p data-end=\"616\" data-start=\"541\"><strong data-end=\"554\" data-start=\"541\">Position:</strong> [Job Title]<br data-end=\"578\" data-start=\"575\" />\r\n<strong data-end=\"591\" data-start=\"578\">Location:</strong> City/State</p>\r\n\r\n<p data-end=\"884\" data-start=\"618\"><strong data-end=\"637\" data-start=\"618\">About the Role: </strong></p>\r\n\r\n<p data-end=\"909\" data-start=\"886\"><strong data-end=\"907\" data-start=\"886\">Responsibilities:</strong><br />\r\n[Responsibility 1]<br />\r\n[Responsibility 2]<br />\r\n[Responsibility 3]<br />\r\n[Responsibility 4]<br />\r\n </p>\r\n\r\n<p data-end=\"909\" data-start=\"886\"><strong data-end=\"907\" data-start=\"886\">Requirements:</strong><br />\r\n[Requirement1]<br />\r\n[Requirement 2]<br />\r\n[Requirement3]<br />\r\n[Requirement4]</p>\r\n<br>George",
+    "recruiter": [
+      "George Aoude",
+      "george.aoude+1@jobdiva.com",
+      "2122222222"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei&jobid=24015780&source=google&SearchString=#/jobs/31365735",
+    "time_scraped": 1761255912362,
+    "source_company": "2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei",
+    "source_url": "https://www1.jobdiva.com/portal/?a=2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei&jobid=24015780&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 31344898,
+    "title": "Software Developer",
+    "location": "N/A",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "10/16/2025",
+      "date_posted": 1760613156000
+    },
+    "start": {
+      "start_dateStr": "10/12/2022",
+      "start_date": 1665547200000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Aoude<br><h3 id=\"responsibilities\">Job Title:&nbsp;Software Developer II<br />\r\n<br />\r\n<br />\r\nResponsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Perform periodic hardware analysis of computer hardware and software using available technology and testing tools.</li>\r\n\t<li>Respond to all computer-related issues and provide technical support to all staff members.</li>\r\n\t<li>Oversee the company&rsquo;s cloud storage accounts to guarantee they&rsquo;re protected and secure.</li>\r\n\t<li>Conduct validation testing for new and renovated motherboards.</li>\r\n\t<li>Ensure existing computer equipment are up-to-date.</li>\r\n\t<li>Stay up-to-date with the latest technologies and incorporate new technology into existing units.</li>\r\n\t<li>Draft new computer equipment blueprints and present them to management.</li>\r\n\t<li>Plan and manage the production of computer hardware equipment.</li>\r\n\t<li>Develop and install software systems.</li>\r\n</ul>\r\n<br>George",
+    "recruiter": [
+      "Roula Sassine",
+      "roula2041@jobdiva.com",
+      "2123060154"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei&jobid=24015780&source=google&SearchString=#/jobs/31344898",
+    "time_scraped": 1761255912326,
+    "source_company": "2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei",
+    "source_url": "https://www1.jobdiva.com/portal/?a=2njdnw0uzq82syrg90a9va57pr0y5q07f97i2bnwolu1yqn8p7dvpgp7ltfy4yei&jobid=24015780&source=google",
+    "date_cutoff_days": 15
+  }
+]

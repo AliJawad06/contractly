@@ -1,0 +1,728 @@
+[
+  {
+    "id": 26562909,
+    "title": "AI Strategist",
+    "location": "SC, Fort Mill",
+    "experience": {
+      "experience": 11
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761252548000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 30,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> This role bridges enterprise data architecture and applied AI, defining how AI/ML technologies can automate metadata discovery, lineage analysis, and data-modernization planning.\r\n<h3 data-end=\"867\" data-start=\"839\"> <strong data-end=\"867\" data-start=\"843\"> Key Responsibilities</strong></h3> \r\n\r\n<ul data-end=\"1617\" data-start=\"868\"> \r\n\t<li data-end=\"990\" data-start=\"868\"> \r\n\t<p data-end=\"990\" data-start=\"870\"> Develop and execute an <strong data-end=\"911\" data-start=\"893\"> AI/ML strategy</strong> for automating metadata ingestion, lineage inference, and anomaly detection.</p> \r\n\t</li> \r\n\t<li data-end=\"1124\" data-start=\"991\"> \r\n\t<p data-end=\"1124\" data-start=\"993\"> Identify and evaluate opportunities to embed <strong data-end=\"1055\" data-start=\"1038\"> Generative AI</strong> and predictive analytics into existing data-engineering processes.</p> \r\n\t</li> \r\n\t<li data-end=\"1252\" data-start=\"1125\"> \r\n\t<p data-end=\"1252\" data-start=\"1127\"> Collaborate with data-engineering and architecture teams to integrate AI solutions within <strong data-end=\"1224\" data-start=\"1217\"> AWS</strong> and <strong data-end=\"1238\" data-start=\"1229\"> Azure</strong> ecosystems.</p> \r\n\t</li> \r\n\t<li data-end=\"1385\" data-start=\"1253\"> \r\n\t<p data-end=\"1385\" data-start=\"1255\"> Assess, prototype, and recommend tools such as <strong data-end=\"1323\" data-start=\"1302\"> Azure AI Services</strong>, <strong data-end=\"1342\" data-start=\"1325\"> AWS SageMaker</strong>, <strong data-end=\"1361\" data-start=\"1344\"> Databricks ML</strong>, and <strong data-end=\"1382\" data-start=\"1367\"> OpenAI APIs</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"1504\" data-start=\"1386\"> \r\n\t<p data-end=\"1504\" data-start=\"1388\"> Define long-term modernization and automation roadmaps; produce clear documentation and stakeholder presentations.</p> \r\n\t</li> \r\n\t<li data-end=\"1617\" data-start=\"1505\"> \r\n\t<p data-end=\"1617\" data-start=\"1507\"> Establish governance and model-lifecycle best practices for AI components integrated into the data platform.<br /> \r\n\t<strong data-end=\"1660\" data-start=\"1628\"> Required Skills & Experience</strong></p> \r\n\t</li> \r\n\t<li data-end=\"1782\" data-start=\"1661\"> \r\n\t<p data-end=\"1782\" data-start=\"1663\"> <strong data-end=\"1678\" data-start=\"1663\"> 10–15 years</strong> overall experience, with <strong data-end=\"1717\" data-start=\"1704\"> 3–5 years</strong> in AI/ML strategy or enterprise data-modernization leadership.</p> \r\n\t</li> \r\n\t<li data-end=\"1898\" data-start=\"1783\"> \r\n\t<p data-end=\"1898\" data-start=\"1785\"> Proven ability to design and implement <strong data-end=\"1851\" data-start=\"1824\"> AI-driven architectures</strong> for data-management or metadata initiatives.</p> \r\n\t</li> \r\n\t<li data-end=\"2016\" data-start=\"1899\"> \r\n\t<p data-end=\"2016\" data-start=\"1901\"> Strong understanding of <strong data-end=\"1948\" data-start=\"1925\"> metadata management</strong>, <strong data-end=\"1977\" data-start=\"1950\"> data-lineage frameworks</strong>, and <strong data-end=\"2013\" data-start=\"1983\"> data-governance principles</strong>.</p> \r\n\t</li> \r\n\t<li data-end=\"2136\" data-start=\"2017\"> \r\n\t<p data-end=\"2136\" data-start=\"2019\"> Hands-on familiarity with <strong data-end=\"2067\" data-start=\"2045\"> cloud AI platforms</strong>: Azure AI, AWS SageMaker, Databricks ML Flow, or comparable tools.</p> \r\n\t</li> \r\n\t<li data-end=\"2240\" data-start=\"2137\"> \r\n\t<p data-end=\"2240\" data-start=\"2139\"> Experience defining <strong data-end=\"2213\" data-start=\"2159\"> AI roadmaps, proof-of-concepts, and ROI frameworks</strong> for large organizations.</p> \r\n\t</li> \r\n\t<li data-end=\"2332\" data-start=\"2241\"> \r\n\t<p data-end=\"2332\" data-start=\"2243\"> Excellent stakeholder communication, executive reporting, and technical-writing skills.<br /> \r\n\t </p> \r\n\r\n\t<h3 data-end=\"2359\" data-start=\"2339\"> <strong data-end=\"2359\" data-start=\"2343\"> Nice to Have</strong></h3> \r\n\t</li> \r\n\t<li data-end=\"2464\" data-start=\"2360\"> \r\n\t<p data-end=\"2464\" data-start=\"2362\"> Consulting background in <strong data-end=\"2402\" data-start=\"2387\"> AI advisory</strong>, <strong data-end=\"2421\" data-start=\"2404\"> data strategy</strong>, or <strong data-end=\"2452\" data-start=\"2426\"> digital-transformation</strong> programs.</p> \r\n\t</li> \r\n\t<li data-end=\"2558\" data-start=\"2465\"> \r\n\t<p data-end=\"2558\" data-start=\"2467\"> Exposure to <strong data-end=\"2498\" data-start=\"2479\"> GenAI use cases</strong> for data quality, lineage inference, or ETL optimization.</p> \r\n\t</li> \r\n\t<li data-end=\"2660\" data-start=\"2559\"> \r\n\t<p data-end=\"2660\" data-start=\"2561\"> Understanding of <strong data-end=\"2606\" data-start=\"2578\"> data-modernization tools</strong> (BladeBridge, Informatica IDMC, Collibra, Alation).</p> \r\n\t</li> \r\n</ul> \r\n</div> \r\n<br>",
+    "recruiter": [
+      "Karthik Lakkoju",
+      "karthik.lakkoju@euclidinnovations.com",
+      "980-246-8655"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26562909",
+    "time_scraped": 1761257047317,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26562753,
+    "title": "Senior Data Analyst",
+    "location": "SC, Fort Mill, SC",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761252044000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 40,
+    "description": "<br><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Support the Data Engineering and AI Strategy teams by validating metadata ingestion outputs, analyzing lineage completeness, and creating Power BI reports that summarize lineage coverage and modernization insights for business and technical stakeholders.\r\n<p data-end=\"572\" data-start=\"545\"><strong data-end=\"570\" data-start=\"545\">Key Responsibilities:</strong></p>\r\n\r\n<ul data-end=\"1258\" data-start=\"573\">\r\n\t<li data-end=\"679\" data-start=\"573\">\r\n\t<p data-end=\"679\" data-start=\"575\">Analyze metadata and lineage results to detect data-flow gaps, unused or orphan tables, and anomalies.</p>\r\n\t</li>\r\n\t<li data-end=\"801\" data-start=\"680\">\r\n\t<p data-end=\"801\" data-start=\"682\">Perform <strong data-end=\"713\" data-start=\"690\">data reconciliation</strong> between source and target systems to validate completeness and accuracy of ingestion.</p>\r\n\t</li>\r\n\t<li data-end=\"933\" data-start=\"802\">\r\n\t<p data-end=\"933\" data-start=\"804\">Create and maintain <strong data-end=\"859\" data-start=\"824\">Power BI dashboards and reports</strong> that visualize lineage coverage, ETL health, and modernization metrics.</p>\r\n\t</li>\r\n\t<li data-end=\"1018\" data-start=\"934\">\r\n\t<p data-end=\"1018\" data-start=\"936\">Document lineage findings, data-quality issues, and remediation recommendations.</p>\r\n\t</li>\r\n\t<li data-end=\"1133\" data-start=\"1019\">\r\n\t<p data-end=\"1133\" data-start=\"1021\">Collaborate with Data Engineers to enhance lineage logic and with the AI Strategist on modernization insights.</p>\r\n\t</li>\r\n\t<li data-end=\"1258\" data-start=\"1134\">\r\n\t<p data-end=\"1258\" data-start=\"1136\">Verify <strong data-end=\"1167\" data-start=\"1143\">deployment readiness</strong> by ensuring that ingestion logic aligns with production datasets and metadata standards.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"1282\" data-start=\"1260\"><strong data-end=\"1280\" data-start=\"1260\">Required Skills:</strong></p>\r\n\r\n<p data-end=\"1369\" data-start=\"1285\">8&plus; years in data analysis, data operations, or metadata validation roles with proven experience in Power BI and SQL-based lineage/QA work.</p>\r\n\r\n<ul data-end=\"1879\" data-start=\"1283\">\r\n\t<li data-end=\"1369\" data-start=\"1285\"><strong data-end=\"1297\" data-start=\"1285\">Power BI</strong> &ndash; advanced report building, DAX expressions, and data-model creation.</li>\r\n\t<li data-end=\"1458\" data-start=\"1370\">\r\n\t<p data-end=\"1458\" data-start=\"1372\"><strong data-end=\"1379\" data-start=\"1372\">SQL</strong> &ndash; strong query writing, joins, aggregations, and set-based validation logic.</p>\r\n\t</li>\r\n\t<li data-end=\"1567\" data-start=\"1459\">\r\n\t<p data-end=\"1567\" data-start=\"1461\"><strong data-end=\"1488\" data-start=\"1461\">Excel / Python (pandas)</strong> &ndash; for ad-hoc analysis, lineage comparison, and quick statistical validation.</p>\r\n\t</li>\r\n\t<li data-end=\"1679\" data-start=\"1568\">\r\n\t<p data-end=\"1679\" data-start=\"1570\"><strong data-end=\"1600\" data-start=\"1570\">Understanding of ETL flows</strong> (Informatica, AWS Glue, Azure Data Factory) and job scheduling dependencies.</p>\r\n\t</li>\r\n\t<li data-end=\"1778\" data-start=\"1680\">\r\n\t<p data-end=\"1778\" data-start=\"1682\"><strong data-end=\"1710\" data-start=\"1682\">Metadata / lineage tools</strong> &ndash; exposure to Collibra, Alation, or custom metadata repositories.</p>\r\n\t</li>\r\n\t<li data-end=\"1879\" data-start=\"1779\">\r\n\t<p data-end=\"1879\" data-start=\"1781\"><strong data-end=\"1821\" data-start=\"1781\">Data documentation and QA discipline</strong> &ndash; ability to trace and explain data-flow logic clearly.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"1900\" data-start=\"1881\"><strong data-end=\"1898\" data-start=\"1881\">Nice to Have:</strong></p>\r\n\r\n<ul data-end=\"2121\" data-start=\"1901\">\r\n\t<li data-end=\"1998\" data-start=\"1901\">\r\n\t<p data-end=\"1998\" data-start=\"1903\">Familiarity with <strong data-end=\"1940\" data-start=\"1920\">AWS Glue Catalog</strong>, <strong data-end=\"1959\" data-start=\"1942\">Azure Synapse</strong>, or <strong data-end=\"1995\" data-start=\"1964\">BladeBridge lineage outputs</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2050\" data-start=\"1999\">\r\n\t<p data-end=\"2050\" data-start=\"2001\">Knowledge of <strong data-end=\"2038\" data-start=\"2014\">Client Batch Processing</strong> concepts.</p>\r\n\t</li>\r\n\t<li data-end=\"2121\" data-start=\"2051\">\r\n\t<p data-end=\"2121\" data-start=\"2053\">Exposure to <strong data-end=\"2106\" data-start=\"2065\">data-modernization or cloud migration</strong> initiatives.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p data-end=\"2282\" data-start=\"2123\"> </p>\r\n<br>",
+    "recruiter": [
+      "Vivek Prakash Chintala",
+      "vivek.chintala@euclidinnovations.com",
+      "(980) 246-8657"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26562753",
+    "time_scraped": 1761257047355,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26562507,
+    "title": "Senior Data Engineer",
+    "location": "SC, Fort Mill",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761251508000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><strong data-end=\"1052\" data-start=\"1032\">Position Summary</strong>\r\n<p data-end=\"1457\" data-start=\"1053\">We are seeking an experienced <strong data-end=\"1100\" data-start=\"1083\">Data Engineer</strong> to design, build, and enhance data ingestion pipelines and metadata frameworks that support data lineage, modernization, and analytics enablement.<br data-end=\"1250\" data-start=\"1247\" />\r\nThe ideal candidate has hands-on experience with <strong data-end=\"1311\" data-start=\"1299\">AWS Glue</strong>, <strong data-end=\"1331\" data-start=\"1313\">Python/PySpark</strong>, <strong data-end=\"1350\" data-start=\"1333\">ETL pipelines</strong>, and <strong data-end=\"1385\" data-start=\"1356\">metadata management tools</strong>, with the ability to work in a dynamic, cloud-centric data environment.</p>\r\n\r\n<hr data-end=\"1462\" data-start=\"1459\" />\r\n<h2 data-end=\"1491\" data-start=\"1464\"><strong data-end=\"1491\" data-start=\"1467\">Key Responsibilities</strong></h2>\r\n\r\n<ul data-end=\"2333\" data-start=\"1492\">\r\n\t<li data-end=\"1666\" data-start=\"1492\">\r\n\t<p data-end=\"1666\" data-start=\"1494\">Design, develop, and maintain <strong data-end=\"1560\" data-start=\"1524\">data ingestion and ETL pipelines</strong> for metadata integration across systems like SQL Server, Informatica, AWS Glue, and Azure Data Factory.</p>\r\n\t</li>\r\n\t<li data-end=\"1804\" data-start=\"1667\">\r\n\t<p data-end=\"1804\" data-start=\"1669\">Implement <strong data-end=\"1714\" data-start=\"1679\">end-to-end data lineage tracing</strong>, including source-to-target mapping, column-level lineage, and job dependency tracking.</p>\r\n\t</li>\r\n\t<li data-end=\"1905\" data-start=\"1805\">\r\n\t<p data-end=\"1905\" data-start=\"1807\">Automate <strong data-end=\"1857\" data-start=\"1816\">metadata ingestion and transformation</strong> for lineage reporting and quality validation.</p>\r\n\t</li>\r\n\t<li data-end=\"2006\" data-start=\"1906\">\r\n\t<p data-end=\"2006\" data-start=\"1908\">Identify <strong data-end=\"1960\" data-start=\"1917\">static, orphaned, or unused tables/jobs</strong> and contribute to data-quality improvement.</p>\r\n\t</li>\r\n\t<li data-end=\"2126\" data-start=\"2007\">\r\n\t<p data-end=\"2126\" data-start=\"2009\">Collaborate with data architects, analysts, and AI strategist to align metadata ingestion with modernization goals.</p>\r\n\t</li>\r\n\t<li data-end=\"2225\" data-start=\"2127\">\r\n\t<p data-end=\"2225\" data-start=\"2129\">Participate in the <strong data-end=\"2176\" data-start=\"2148\">deployment and hardening</strong> of solutions in AWS (and Azure as applicable).</p>\r\n\t</li>\r\n\t<li data-end=\"2333\" data-start=\"2226\">\r\n\t<p data-end=\"2333\" data-start=\"2228\">Contribute to modernization and AI-readiness initiatives through metadata standardization and automation.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"2338\" data-start=\"2335\" />\r\n<h2 data-end=\"2375\" data-start=\"2340\"><strong data-end=\"2375\" data-start=\"2343\">Required Skills &amp; Experience</strong></h2>\r\n\r\n<ul data-end=\"2930\" data-start=\"2376\">\r\n\t<li data-end=\"2451\" data-start=\"2376\">\r\n\t<p data-end=\"2451\" data-start=\"2378\"><strong data-end=\"2392\" data-start=\"2378\">8&ndash;10 years</strong> of experience in <strong data-end=\"2448\" data-start=\"2410\">Data Engineering / ETL Development</strong>.</p>\r\n\t</li>\r\n\t<li data-end=\"2930\" data-start=\"2452\">\r\n\t<p data-end=\"2479\" data-start=\"2454\">Strong experience with:</p>\r\n\r\n\t<ul data-end=\"2930\" data-start=\"2482\">\r\n\t\t<li data-end=\"2532\" data-start=\"2482\">\r\n\t\t<p data-end=\"2532\" data-start=\"2484\"><strong data-end=\"2496\" data-start=\"2484\">AWS Glue</strong>, <strong data-end=\"2504\" data-start=\"2498\">S3</strong>, <strong data-end=\"2518\" data-start=\"2506\">Redshift</strong>, <strong data-end=\"2530\" data-start=\"2520\">Lambda</strong></p>\r\n\t\t</li>\r\n\t\t<li data-end=\"2638\" data-start=\"2535\">\r\n\t\t<p data-end=\"2638\" data-start=\"2537\"><strong data-end=\"2544\" data-start=\"2537\">SQL</strong> (SQL Server, Oracle, or Snowflake) &ndash; complex queries, stored procedures, performance tuning</p>\r\n\t\t</li>\r\n\t\t<li data-end=\"2705\" data-start=\"2641\">\r\n\t\t<p data-end=\"2705\" data-start=\"2643\"><strong data-end=\"2663\" data-start=\"2643\">Python / PySpark</strong> for metadata parsing and ETL automation</p>\r\n\t\t</li>\r\n\t\t<li data-end=\"2768\" data-start=\"2708\">\r\n\t\t<p data-end=\"2768\" data-start=\"2710\"><strong data-end=\"2724\" data-start=\"2710\">ETL Tools:</strong> Informatica, AWS Glue, Azure Data Factory</p>\r\n\t\t</li>\r\n\t\t<li data-end=\"2864\" data-start=\"2771\">\r\n\t\t<p data-end=\"2864\" data-start=\"2773\"><strong data-end=\"2812\" data-start=\"2773\">Data Lineage / Metadata Management:</strong> Collibra, Alation, or custom lineage repositories</p>\r\n\t\t</li>\r\n\t\t<li data-end=\"2930\" data-start=\"2867\">\r\n\t\t<p data-end=\"2930\" data-start=\"2869\"><strong data-end=\"2895\" data-start=\"2869\">CI/CD &amp; Orchestration:</strong> GitHub, Jenkins, or Azure DevOps</p>\r\n\t\t</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<hr data-end=\"2935\" data-start=\"2932\" />\r\n<h2 data-end=\"2956\" data-start=\"2937\"><strong data-end=\"2956\" data-start=\"2940\">Nice to Have</strong></h2>\r\n\r\n<ul data-end=\"3289\" data-start=\"2957\">\r\n\t<li data-end=\"3026\" data-start=\"2957\">\r\n\t<p data-end=\"3026\" data-start=\"2959\">Experience with <strong data-end=\"2990\" data-start=\"2975\">BladeBridge</strong> or similar lineage analysis tools</p>\r\n\t</li>\r\n\t<li data-end=\"3072\" data-start=\"3027\">\r\n\t<p data-end=\"3072\" data-start=\"3029\">Familiarity with <strong data-end=\"3070\" data-start=\"3046\">Client Batch Processing</strong></p>\r\n\t</li>\r\n\t<li data-end=\"3165\" data-start=\"3073\">\r\n\t<p data-end=\"3165\" data-start=\"3075\">Exposure to <strong data-end=\"3098\" data-start=\"3087\">Airflow</strong>, <strong data-end=\"3107\" data-start=\"3100\">dbt</strong>, or <strong data-end=\"3126\" data-start=\"3112\">Databricks</strong> for orchestration and transformation</p>\r\n\t</li>\r\n\t<li data-end=\"3226\" data-start=\"3166\">\r\n\t<p data-end=\"3226\" data-start=\"3168\">Basic understanding of <strong data-end=\"3224\" data-start=\"3191\">AI/ML data pipeline readiness</strong></p>\r\n\t</li>\r\n\t<li data-end=\"3289\" data-start=\"3227\">\r\n\t<p data-end=\"3289\" data-start=\"3229\">Azure data platform exposure (<strong data-end=\"3286\" data-start=\"3259\">ADF, Synapse, Data Lake</strong>)</p>\r\n\t</li>\r\n</ul>\r\n<br>",
+    "recruiter": [
+      "Mohan Krishna Duggineni",
+      "mohan.duggineni@euclidinnovations.com",
+      "(980) 350-5081"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26562507",
+    "time_scraped": 1761257047512,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26558532,
+    "title": "Peoplesoft Finance Testing",
+    "location": "Telangana, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761224965000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>⦁ 3&ndash;5 years of hands-on experience with PeopleSoft Finance modules (AP, AR, GL, AM, Billing , SCM)<br />\r\n⦁ Strong PeopleSoft 9.2 functional knowledge<br />\r\n⦁ Proven ability to analyze and resolve PeopleSoft Finance functional issues<br />\r\n⦁ Familiarity with requirements gathering and writing functional specifications<br />\r\n⦁ Experience with system configuration and supporting User Acceptance Testing (UAT) and SIT<br />\r\n⦁ Knowledge of using ALM as a test artifacts repository throughout the test lifecycle<br />\r\n⦁ Working knowledge of SQL for data querying and troubleshooting<br />\r\n⦁ Excellent problem-solving and analytical skills<br />\r\n⦁ Strong collaboration skills for working with cross-functional teams<br />\r\nGood to Have Skills-<br />\r\n⦁ Experience in PeopleSoft upgrades, implementations, and advanced configuration<br />\r\n⦁ Familiarity with integrations between PeopleSoft Finance and other systems<br />\r\n⦁ Hands-on exposure to RPA automation tools such as UiPath<br />\r\n⦁ Ability to work independently with minimal supervision<br />\r\n⦁ Adaptability and eagerness to learn new technologies and tools</div>\r\n<br>",
+    "recruiter": [
+      "Supriya Nandigam",
+      "supriya.nandigam@euclidinnovations.com",
+      "8179234944"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26558532",
+    "time_scraped": 1761257047379,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26558505,
+    "title": "SAP Concur",
+    "location": "Telangana, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/23/2025",
+      "date_posted": 1761224692000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>1. Concur expense consultant with experience in configuration and integration with Credit Card systems,<br />\r\n2. Someone who can also document procedures, train end users, and accounting folks for GL integration process.<br />\r\n3. Improve end user experience and to enable better reporting for Travel spend analysis.<br />\r\n4. Responsible for Setup and help maintain client Concur environment throughout the lifecycle (Setup Configuration in Test and Production)<br />\r\n5. Monitor Daily Job between SAP Concur and SAP Finance and correct errors (IDOC Posting)<br />\r\n6. Support Employee Reimbursement process via Payroll<br />\r\n7. Support Incidents, User access Requests and Reporting<br />\r\n </div>\r\n<br>",
+    "recruiter": [
+      "Supriya Nandigam",
+      "supriya.nandigam@euclidinnovations.com",
+      "8179234944"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26558505",
+    "time_scraped": 1761257047379,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26508508,
+    "title": "Cyber Data Engineer || MOR4JP00023582 || MOR4JP00023584",
+    "location": "Karnataka, None",
+    "experience": {
+      "experience": 5
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760533265000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>Role Profile</strong><br />\r\nA successful applicant will contribute to several important initiatives including:\r\n<ul>\r\n\t<li>Onboarding new data sources with appropriate field extractions</li>\r\n\t<li>Developing automation tools that integrate with in-house developed configuration management frameworks and APIs</li>\r\n\t<li>Providing consultancy to internal clients and stakeholders</li>\r\n\t<li>Identifying and implementing tuning to improve performance</li>\r\n\t<li>Working as a top-level escalation point to perform complex troubleshoots, working with other infrastructure teams to resolve issues</li>\r\n</ul>\r\n<strong>Required Skills</strong>\r\n\r\n<ul>\r\n\t<li>Prior experience deploying and managing large-scale data analytics platforms &ndash; ElasticSearch (preferred) or Splunk</li>\r\n\t<li>Experience with Cloud integration with a major Cloud Service Provider like GCP, Azure or AWS</li>\r\n\t<li>Infrastructure automation and integration experience, ideally using Python and Ansible</li>\r\n\t<li>A solid understanding of Operating Systems and Networking concepts: Linux/Unix system administration, HTTP and encryption.</li>\r\n\t<li>Good understanding of software version control, deployment &amp; build tools using DevOps SDLC practices (Git, Jenkins, Jira)</li>\r\n\t<li>Strong analytical and troubleshooting skills</li>\r\n\t<li>Excellent verbal &amp; written communication skills</li>\r\n\t<li>Appreciation of Agile methodologies, specifically Kanban</li>\r\n</ul>\r\n<strong>Desired Skills</strong>\r\n\r\n<ul>\r\n\t<li>Administrator or architect level certifications in Splunk or Elasticsearch</li>\r\n\t<li>Data engineering and configuration experience inc. writing and testing field extractions using regular expressions</li>\r\n\t<li>Familiarity with cybersecurity concepts, event types, and monitoring requirements.</li>\r\n</ul>\r\n <br />\r\n </div>\r\n<br>",
+    "recruiter": [
+      "Sunil Kumar Goddati",
+      "sunil.goddati@euclidinnovations.com",
+      "8309741947"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26508508",
+    "time_scraped": 1761257053436,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26508455,
+    "title": "IronClad CLM Developers",
+    "location": "None, Hyderabad",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760532402000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Must Have :<br />\r\nIronClad hands-on experience in 2-3 large-scale implementation project and at least 3-3.5 yrs. of exp. in this skill set</div>\r\n<br>",
+    "recruiter": [
+      "Aruna C",
+      "aruna.c@euclidinnovations.com",
+      "8309685553"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26508455",
+    "time_scraped": 1761257053367,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26508406,
+    "title": "SAP TM",
+    "location": "N/A",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760531790000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Lead and support SAP TM implementations and enhancements, focusing on advanced transportation planning and optimization.<br />\r\nManage carrier selection, tendering processes, and freight cost calculation and settlement within SAP TM.<br />\r\nIntegrate SAP TM with warehouse management and order management modules to ensure seamless end-to-end logistics execution.<br />\r\nDesign, develop, and maintain interfaces with third-party logistics providers and systems.<br />\r\nGather business requirements, translate them into technical solutions, and document processes using FDDs.<br />\r\nCollaborate with cross-functional teams, including business stakeholders, technical teams, and external partners.<br />\r\nProvide expertise and guidance in best practices for SAP TM processes and configurations.<br />\r\nSupport testing, training, and change management activities throughout project lifecycles.</div>\r\n<br>",
+    "recruiter": [
+      "John Victor Gujjalapudi",
+      "johnvictor.g@euclidinnovations.com",
+      "0"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26508406",
+    "time_scraped": 1761257053455,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26508398,
+    "title": "SAP LE",
+    "location": "Telangana, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760531677000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>- Tenured in SAP LE (logistics Execution) including shipping-related customizing, Lean WM customizing, or plant-related configs.<br />\r\n- At least one E2E implementation<br />\r\n- Support Design, Do Config/Testing/WRICEF Development and migration activities</div>\r\n<br>",
+    "recruiter": [
+      "Aruna C",
+      "aruna.c@euclidinnovations.com",
+      "8309685553"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26508398",
+    "time_scraped": 1761257053444,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26508365,
+    "title": "SAP Data Migration",
+    "location": "Karnataka, Bangalore",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760531200000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Experience in SAP Master data management with expertise in Data cleansing, Data profiling and Data migration Experience in SAP Sales and Distribution Management module Should be familiar with Customer master data and Vendor Master data Conduct workshops with client and requirement gathering. Create Functional specs for data conversion and Source tTarget Mapping sheet Create Functional Unit test plan Conduct SIT, UAT and Test loads Guide technical team on implementation of solutions. Should have worked in at least 2 SAP Full implementation and worked with Data migration team.</div>\r\n<br>",
+    "recruiter": [
+      "Adilakshmi Boyalla",
+      "adilakshmi.b@euclidinnovations.com",
+      "9884287338"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26508365",
+    "time_scraped": 1761257053469,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26508283,
+    "title": "Windchill PLM Developer",
+    "location": "Karnataka, Bangalore",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760530222000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<p><strong>Description</strong><strong>:</strong></p>\r\n\r\n<p><br />\r\nWork you will do:<br />\r\nClient&#39;s &#39;SCNO service line helps the clients to address their most complex business challenges.<br />\r\n&bull;Work with the client management team to derive meaningful insights<br />\r\n&bull;Aid deliverable development in accordance with the needs and objectives of the client engagement<br />\r\n&bull;Participate in interviews, workshops and training sessions<br />\r\n&bull;Support team and client through the project<br />\r\nAs a Professional in our team you&#39;ll work side by side with innovative and strategic thought leaders and stay ahead of the rapidly evolving world of business. You&#39;ll get the training to be confident and prepared to help tackle some of our clients&#39; most complex business issues. You&#39;ll work with diverse global clients across a wide range of industries. Should have exceptional communication and analytical skills with the ability to communicate findings to clients and team members and the ability to work independently and collaboratively with a team in a fast-paced environment. Capabilities of a Product Development practitioner will include:<br />\r\n&bull;Deep knowledge of Windchill architecture to design and build complete solutions &bull;Windchill Integration with other Enterprise systems such as SAP, CAD tools, Visualization tools, etc.<br />\r\n&bull;Strong programming skills in Java/J2EE technologies &ndash; JavaScript, JQuery, XML,JSPs, AJAX , SQL etc.<br />\r\n&bull;End to end design and development of customization requirements<br />\r\n&bull;Should have strong coding skills in Windchill Application Development and customization<br />\r\n&bull;Extensive hands-on experience in Windchill customization and configuration-Lifecycles, Workflows, Type and Attribute Manager, Object Initialization Rules, Localization, Server side customizations, Info*Engine tasks, Webjects, Custom reports, Cognos Business intelligence (reporting), Web Services, UI Customization(JCA framework, MVC Builders, Wizards etc)<br />\r\n&bull;Ability to develop software development process including best-practice design, development, testing, and build/deploy patches.<br />\r\n&bull;Experience with assessment, development, implementation, optimization, and documentation of a comprehensive and broad set of security technologies and processes, data protection, cryptography, key management, identity and access management (IAM), network security within SaaS, IaaS, PaaS, and other cloud environments<br />\r\n&bull;Experience with service-oriented architecture for cloud-based services<br />\r\nRequired Experience<br />\r\n&bull;Must have completed 2-3 end to end implementations<br />\r\n&bull;Strong functional experience in Windchill 12.X, 13.X systems requirements<br />\r\n&bull;Good functional experience in Windchill and Business configuration<br />\r\n&bull;Strong experience in Windchill Change management, Workflows, BOM Management<br />\r\n&bull;Good understanding of SemiConductor/Automotive/Manufacturing/Consumer Goods domain<br />\r\n&bull;Experience in creation and building up of business solution assets.<br />\r\n&bull;Guide individual project teams in technical decision making and review implementation approach for alignment with industry best practices<br />\r\n&bull;Provide Industry standard best practices and align PLM (Windchill) Enterprise Architecture to PLM (Windchill) Roadmap defined for the clients<br />\r\n&bull;Assist project teams, business teams to verify the configurations/customizations in Dev/QA environments during development/SIT/UAT/Prod deployment phases to verify the end-to-end solution.<br />\r\n&bull;Review PLM code/configurations, Integration code/configurations, install scripts, build scripts, deployment scripts, custom utilities, cron JOBs and all other configurations that are developed/configured for Dev/QA/PROD environments<br />\r\nRequired Qualifications<br />\r\n&bull;Undergraduate degree/Professional Degree, with First Class/Distinction in B Tech or B E<br />\r\n&bull;MCA/M Tech/MSc<br />\r\n&bull;Strong academic track record<br />\r\n&bull;Ability to travel 40-60%<br />\r\n&bull;Ability to work independently as well as in teams.<br />\r\n&bull;Strong oral and written communication skills, including presentation and documentation skills (Excel, Visio, PowerPoint, etc.)<br />\r\n&bull;Strong problem solving and troubleshooting skills with the ability to exercise mature judgement<br />\r\nHow you&#39;ll grow<br />\r\nAt Client, we&#39;ve invested a great deal to create a rich environment in which our professionals can grow. We want all our people to develop in their own way, playing to their own strengths as they hone their leadership skills. And, as a part of our eff orts, we provide our professionals with a variety of learning and networking opportunities&mdash;including exposure to leaders, sponsors, coaches, and challenging assignments&mdash;to help accelerate their careers along the way. No two people learn in exactly the same way. So, we provide a range of resources including live classrooms, team-based learning, and eLearning. DU: The Leadership Center in India, our state-of-the-art, world-class learning Center in the Hyderabad offices is an extension of the DU in Westlake, Texas, and represents a tangible symbol of our commitment to our people&#39;s growth and development. Explore DU: The Leadership Center in India<br />\r\nBenefits<br />\r\nAt Client, we know that great people make a great organization. We value our people and off er employees a broad range of benefits. Learn more about what working at Client can mean for you.<br />\r\nClient&#39;s culture<br />\r\nOur positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness sand offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We off er comprehensive well-being programs and are continuously looking for new ways to maintain a culture that is inclusive, invites authenticity, leverages our diversity, and where our people excel and lead happy lives. Learn more about Life at Client.<br />\r\nCorporate citizenship<br />\r\nClient is led by a purpose: to make an impact that matters. This purpose defines who we are and extends to the relationships that we have with our clients, our people and our communities. We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities. Learn more about Client&#39;s impact on the world.</p>\r\n </div>\r\n<br>",
+    "recruiter": [
+      "divya Vakkalagadda",
+      "divya.vakkalagadda@euclidinnovations.com",
+      "8331860759"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26508283",
+    "time_scraped": 1761257059378,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26508078,
+    "title": "SOC Analyst",
+    "location": "Karnataka, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760526881000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<p><b>Key Responsibilities</b></p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Conduct detailed investigations of security incidents &mdash; from data collection to root cause analysis and recovery &mdash; ensuring compliance with defined SLAs.</li>\r\n\t<li>Validate and fine-tune SIEM correlation rules, custom detections, and use cases to minimize false positives and enhance detection accuracy.</li>\r\n\t<li>Propose and develop new SIEM use cases and automated playbooks aligned with emerging threats and evolving TTPs.</li>\r\n\t<li>Review alert quality regularly, enhancing or retiring outdated detection logic and improving response strategies.</li>\r\n\t<li>Mentor and support L1 analysts to build stronger detection and response capabilities.</li>\r\n\t<li>Continuously monitor SIEM and other security tools to identify potential threats, anomalies, or policy violations.</li>\r\n\t<li>Lead end-to-end incident response activities &mdash; focusing on threat containment, eradication, and ensuring forensic integrity.</li>\r\n\t<li>Correlate data across multiple sources to generate actionable intelligence and identify complex attack patterns.</li>\r\n\t<li>Collaborate with cross-functional teams and SMEs to quickly resolve technical and security issues.</li>\r\n\t<li>Analyze logs, metrics, and behaviors to detect early indicators of compromise.</li>\r\n\t<li>Document incidents, root causes, and remediation steps while refining playbooks and response procedures.</li>\r\n\t<li>Share insights and threat intelligence to promote continuous learning across the SOC team.</li>\r\n\t<li>Keep leadership informed of high-severity incidents and recommend tactical or strategic countermeasures.</li>\r\n\t<li>Ensure all SOC processes adhere to organizational policies, compliance standards, and industry best practices.</li>\r\n</ul>\r\n\r\n<p><b>Education</b></p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Bachelor&#39;s degree in <b>Computer Science, Cybersecurity</b>, or related field (or equivalent professional experience).</li>\r\n</ul>\r\n\r\n<p><b>Required Skills &amp; Experience</b></p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>4&plus; years of experience in <b>Information Security, SOC Operations, or Incident Response</b>.</li>\r\n\t<li>Solid understanding of <b>cybersecurity frameworks</b> &mdash; MITRE Telecommunication&amp;CK, Cyber Kill Chain, NIST IR.</li>\r\n\t<li>Strong expertise in <b>Cloud Security</b>, <b>EDR</b>, <b>SIEM</b>, and <b>Firewall</b> technologies.</li>\r\n\t<li>Deep knowledge of <b>networking and security fundamentals</b> (OS internals, TCP/IP, IDS/IPS, ports, etc.).</li>\r\n\t<li>Experience with <b>malware analysis</b> and <b>sandbox environments</b>.</li>\r\n\t<li>Ability to interpret complex alerts/logs and translate findings into actionable remediation steps.</li>\r\n\t<li>Excellent <b>communication</b>, <b>documentation</b>, and <b>collaboration</b> skills to work with cross-functional teams and leadership.</li>\r\n</ul>\r\n</div>\r\n<br>",
+    "recruiter": [
+      "Aruna C",
+      "aruna.c@euclidinnovations.com",
+      "8309685553"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26508078",
+    "time_scraped": 1761257059391,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26507630,
+    "title": "SAP IS Oil",
+    "location": "Telangana, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760507628000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> 5 to 8 years of experienced SAP IS Oil Consultant to design, implement, and support SAP solutions for retail fuel network operations. Ideal candidates will have extensive SAP IS Oil RFNO expertise</div> \r\n<br>",
+    "recruiter": [
+      "Supriya Nandigam",
+      "supriya.nandigam@euclidinnovations.com",
+      "8179234944"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26507630",
+    "time_scraped": 1761257059413,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26507622,
+    "title": "Manual Testing",
+    "location": "Telangana, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/15/2025",
+      "date_posted": 1760507355000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Candidate should have strong experience in manual testing with minimal exposure tautomation testing.<br />\r\nExcellent understanding of various SDLC processes, testing methodologies, quality standards and industry best practices.<br />\r\nExperience of testing in Agile development model would be a plus.<br />\r\nCapability tread and understand &amp; analyze application architecture/design documents.<br />\r\nExperience working on various Defect management tools and process.<br />\r\nShould work in close conjunction with Development and Business Analysis teams tverify requirements and understand impact areas.<br />\r\nCapability tlead test effort estimations for the project and team leadership.</div>\r\n<br>",
+    "recruiter": [
+      "Supriya Nandigam",
+      "supriya.nandigam@euclidinnovations.com",
+      "8179234944"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26507622",
+    "time_scraped": 1761257059416,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26501643,
+    "title": "Kafka Admin",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/14/2025",
+      "date_posted": 1760446095000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> \r\n<p> <b> Job Description:</b> </p> \r\n\r\n<p> •Standing up and administer on premise Kafka cluster.<br /> \r\n•Ability to architect and create reference architecture for kafka Implementation standards<br /> \r\n• Provide expertise in Kafka brokers, zookeepers, Kafka connect, schema registry, KSQL, Rest proxy and Kafka Control center.<br /> \r\n• Ensure optimum performance, high availability and stability of solutions.<br /> \r\n• Create topics, setup redundancy cluster, deploy monitoring tools, alerts and has good knowledge of best practices.<br /> \r\n• Create stubs for producers, consumers and consumer groups for helping onboard applications from different languages/platforms.<br /> \r\n• Provide administration and operations of the Kafka platform like provisioning, access lists Kerberos and SSL configurations.<br /> \r\n• Use automation tools like provisioning using Docker, Jenkins and GitLab.<br /> \r\n• Ability to perform data related benchmarking, performance analysis and tuning.<br /> \r\n• Strong skills in In-memory applications, Database Design, Data Integration.<br /> \r\n• Involve in design and capacity review meetings to provide suggestion in Kafka usage.<br /> \r\n• Solid knowledge of monitoring tools and fine tuning alerts on Splunk, Prometheus, Grafana ,Splunk.<br /> \r\n• Setting up security on Kafka.<br /> \r\n• Providing naming conventions, Backup & Recovery and problem determination strategies for the projects.<br /> \r\n• Monitor, prevent and troubleshoot security related issues.<br /> \r\n• Provide strategic vision in engineering solutions that touch the messaging queue aspect of the infrastructure<br /> \r\n <br /> \r\n <br /> \r\nQUALIFICATIONS<br /> \r\n• 4-6 years demonstrated proficiency and experience in design, implementation, monitoring, and troubleshooting Kafka messaging infrastructure.<br /> \r\n• Hands on experience on recovery in Kafka.<br /> \r\n• 2 or more years of experience in developing/customizing messaging related monitoring tools/utilities.<br /> \r\n• Good Scripting knowledge/experience with one or more  (ex. Chef, Ansible, Terraform).<br /> \r\n• Good programming knowledge/experience with one or more languages (ex. Java, node.js, python)<br /> \r\n• Considerable experience in implementing Kerberos Security.<br /> \r\n• Support 24*7 Model and be available to support rotational on-call work ( including Saturday/Sunday )<br /> \r\n• Competent working in one or more environments highly integrated with an operating system.<br /> \r\n• Experience implementing and administering/managing technical solutions in major, large-scale system implementations.<br /> \r\n• High critical thinking skills to evaluate alternatives and present solutions that are consistent with business objectives and strategy.<br /> \r\n• Ability to manage tasks independently and take ownership of responsibilities<br /> \r\n• Ability to learn from mistakes and apply constructive feedback to improve performance<br /> \r\n• Ability to adapt to a rapidly changing environment.<br /> \r\n• Proven leadership abilities including effective knowledge sharing, conflict resolution, facilitation of open discussions, fairness and displaying appropriate levels of assertiveness.<br /> \r\n• Ability to communicate highly complex technical information clearly and articulately for all levels and audiences.<br /> \r\n• Willingness to learn new technologies/tool and train your peers.<br /> \r\n• Proven track record to automate.</p> \r\n</div> \r\n<br>",
+    "recruiter": [
+      "Lavanya Gottipati",
+      "lavanya.gottipati@euclidinnovations.com",
+      "8121770469"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26501643",
+    "time_scraped": 1761257059412,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26501012,
+    "title": "Lead Ignition Developer",
+    "location": "Karnataka, Bangalore",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/14/2025",
+      "date_posted": 1760435534000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>Lead Ignition Developer (4&ndash;9 Years Experience)</strong><br />\r\nAre you passionate about <strong>Ignition SCADA / IIoT development</strong> and eager to lead innovative projects?<br />\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">🔹</span> Experience:</strong><br />\r\n4&ndash;9 Years<br />\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">🔹</span> Key Skills:</strong>\r\n<ul>\r\n\t<li><strong>Ignition Modules:</strong> Perspective, Vision, Reporting, Alarm Notification</li>\r\n\t<li><strong>Programming:</strong> Python / Java</li>\r\n\t<li><strong>Database:</strong> SQL</li>\r\n\t<li><strong>Industrial Protocols:</strong> OPC UA, Modbus, MQTT</li>\r\n</ul>\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">🔹</span> Role Overview:</strong>\r\n\r\n<ul>\r\n\t<li>Lead the design, development, and implementation of Ignition SCADA/IIoT projects.</li>\r\n\t<li>Collaborate with cross-functional teams to deliver high-quality automation solutions.</li>\r\n\t<li>Ensure scalability, reliability, and security of industrial applications.</li>\r\n\t<li>Provide mentorship and technical guidance to team members.</li>\r\n</ul>\r\n </div>\r\n<br>",
+    "recruiter": [
+      "divya Vakkalagadda",
+      "divya.vakkalagadda@euclidinnovations.com",
+      "8331860759"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26501012",
+    "time_scraped": 1761257065364,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26501011,
+    "title": "Peoplesoft",
+    "location": "Telangana, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/14/2025",
+      "date_posted": 1760435522000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> People tools 8.49 or above, People code , Application Engine , Component Interface, Application Packages.<br /> \r\n- Experience with PeopleSoft Finance 9.0 or above application, Good SQL/Oracle knowledge. Knowledge of FSCM Modules</div> \r\n<br>",
+    "recruiter": [
+      "Adilakshmi Boyalla",
+      "adilakshmi.b@euclidinnovations.com",
+      "9884287338"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26501011",
+    "time_scraped": 1761257065462,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26500873,
+    "title": "Snowflake Developer",
+    "location": "None, Bangalore",
+    "experience": {
+      "experience": 4
+    },
+    "posted": {
+      "date_postedStr": "10/14/2025",
+      "date_posted": 1760423342000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<table width=\"850\">\r\n\t<tbody>\r\n\t\t<tr height=\"135\">\r\n\t\t\t<td align=\"right\" height=\"135\" width=\"69\">17-Oct-25</td>\r\n\t\t\t<td width=\"64\">Shradha Sharma</td>\r\n\t\t\t<td width=\"64\">Snowflakes</td>\r\n\t\t\t<td width=\"253\">Snowflake, ETL, Python, SQL and Airflow</td>\r\n\t\t\t<td width=\"76\">4&plus;</td>\r\n\t\t\t<td width=\"208\">Location Bangalore-Kasaya office<br />\r\n\t\t\t5 days working 1 day rotational shift<br />\r\n\t\t\thybrid  will be depends on manager<br />\r\n\t\t\t timing 2:00 PM to 11 :00 PM</td>\r\n\t\t\t<td width=\"116\">15 LPA max</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n<br>",
+    "recruiter": [
+      "Adithya Kanaveni",
+      "adithya.kanaveni@euclidinnovations.com",
+      "9502438145"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26500873",
+    "time_scraped": 1761257065630,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26500624,
+    "title": "IVR Engineer",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/13/2025",
+      "date_posted": 1760411195000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> • 8&plus; years of experience in software development, with at least 3 years in IVR development and 2&plus; years in Team leadership.<br /> \r\n• Strong Proficiency in IVR platforms (Twilio and M 365).<br /> \r\n• Certifications in IVR platforms (e.g. Twilio, Cyara) are a plus.<br /> \r\n• Experience with cloud platforms (e.g., AWS, Azure), Kubernetes, and CI/CD pipelines.<br /> \r\n• Familiarity with tools like Jira, GitHub, Confluence.<br /> \r\n• Strong grasp of security and privacy standards relevant to customer data handling.<br /> \r\n• Proficiency in .Net, Java, Node.js and other scripting language<br /> \r\n• Strong leadership and communication abilities.<br /> \r\n• Analytical thinking and attention to detail.</div> \r\n<br>",
+    "recruiter": [
+      "Supriya Nandigam",
+      "supriya.nandigam@euclidinnovations.com",
+      "8179234944"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26500624",
+    "time_scraped": 1761257065413,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26500623,
+    "title": "SAP Flexible Real Estate Management",
+    "location": "None, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/13/2025",
+      "date_posted": 1760410976000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Overall 8&plus; years of experience in SAP Real Estate / Flexible Real Estate Management with specialization in SAP LUM (Land Use Management).<br />\r\n<br />\r\nShould be able to drive workshops, configure the system, write functional specifications and executed end of end test scenarios for the above module.<br />\r\n<br />\r\nStrong understanding on integration of SAP Flexible Real Estate Management (SAP Land Use Managment) with other SAP Module</div>\r\n<br>",
+    "recruiter": [
+      "Supriya Nandigam",
+      "supriya.nandigam@euclidinnovations.com",
+      "8179234944"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26500623",
+    "time_scraped": 1761257065427,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26487837,
+    "title": "Google Security Operations",
+    "location": "Karnataka, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/13/2025",
+      "date_posted": 1760341996000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Bachelor&#39;s degree in information security, Computer Science, IT, or related field.</span></li>\r\n\t<li><strong><span style=\"font-family:Calibri,sans-serif;\">4&ndash;6 years of experience</span></strong><span style=\"font-family:Calibri,sans-serif;\"> in <strong><span style=\"color:red;\">security operations, SIEM/SOAR engineering</span></strong>, or incident response.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Deep hands-on experience with <strong>Google SecOps</strong></span><strong> <span style=\"color:black;\">SIEM and SOAR</span></strong>.</li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Proficiency in <strong>detection engineering, log source onboarding, and automation</strong>.</span></li>\r\n</ul>\r\n</div>\r\n<br>",
+    "recruiter": [
+      "Supriya Nandigam",
+      "supriya.nandigam@euclidinnovations.com",
+      "8179234944"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26487837",
+    "time_scraped": 1761257071381,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 26487836,
+    "title": "Endpoint Security Engineer",
+    "location": "Karnataka, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "10/13/2025",
+      "date_posted": 1760341392000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br><div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> Required Skills & Experience:<br /> \r\n• Hands-on experience administering Tanium in medium-to-large enterprise environments.<br /> \r\n• Working knowledge of Tanium modules (Deploy, Performance, Asset, Patch, Comply, Enforce, Client, Reveal, and Threat Response).<br /> \r\n• Experience scripting in WMI, PowerShell, Python, or other languages to support endpoint management.<br /> \r\n• Strong understanding of Windows, Mac, and/or Linux operating systems.<br /> \r\n• Familiarity with endpoint security, compliance, and incident response processes.<br /> \r\n• Excellent troubleshooting and analytical skills for endpoint-related incidents.<br /> \r\n• Effective communication and documentation abilities.</div> \r\n<br>",
+    "recruiter": [
+      "divya Vakkalagadda",
+      "divya.vakkalagadda@euclidinnovations.com",
+      "8331860759"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/26487836",
+    "time_scraped": 1761257071356,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  }
+]
