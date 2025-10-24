@@ -1,0 +1,3450 @@
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "IT Infrastructure",
+        "Hardware troubleshooting",
+        "Software troubleshooting",
+        "Desktop support",
+        "PC break/fix",
+        "Windows O/S",
+        "TCP/IP",
+        "DNS",
+        "DHCP",
+        "VPN",
+        "RDP",
+        "Network cabling",
+        "Ticketing tools"
+      ],
+      "softSkills": [
+        "Customer management",
+        "Communication",
+        "Problem management",
+        "Proactive ownership",
+        "Teamwork",
+        "Time management"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "MAC OS",
+        "Linux OS"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "CompTIA A+",
+      "Dell",
+      "Toshiba",
+      "Lenovo"
+    ],
+    "categorys": [
+      "Information Technology & Software Development:Cloud & Infrastructure"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Cardiac Telemetry",
+        "MI",
+        "CHF",
+        "COPD",
+        "Strokes",
+        "Cardiac Monitoring",
+        "Patient Assessment"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "WI RN",
+      "NLC License",
+      "AHA BLS",
+      "AHA ACLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Ping Identity",
+        "ForgeRock",
+        "Java",
+        "Groovy",
+        "REST APIs",
+        "OAuth2",
+        "SAML",
+        "Cloud",
+        "CI/CD"
+      ],
+      "softSkills": [
+        "troubleshooting",
+        "problem-solving"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "financial services",
+        "Terraform",
+        "Ansible",
+        "monitoring tools"
+      ],
+      "softSkills": [
+        "Collaboration"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development: Security"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "data entry",
+        "MS-Office",
+        "office automation"
+      ],
+      "softSkills": [
+        "communication skills",
+        "attention to detail",
+        "Team player",
+        "conflict resolution",
+        "teamwork"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Healthcare & Medical: Healthcare Administration"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Phlebotomy",
+        "Specimen collection",
+        "Specimen processing",
+        "Data entry"
+      ],
+      "softSkills": [
+        "Patient contact",
+        "Confidentiality",
+        "Accuracy"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Medical assistant",
+        "Paramedic training"
+      ],
+      "softSkills": [
+        "Customer service"
+      ]
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "Phlebotomy certification"
+    ],
+    "categorys": [
+      "Healthcare & Medical: Laboratory & Clinical"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "Phlebotomy",
+        "Specimen collection",
+        "Specimen processing",
+        "Pediatric collections",
+        "Geriatric collections",
+        "Data entry"
+      ],
+      "softSkills": [
+        "Work independently",
+        "Customer Focus",
+        "Good judgment",
+        "Multitasking",
+        "Embrace change",
+        "Open communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Medical assistant",
+        "Paramedic training"
+      ],
+      "softSkills": [
+        "Customer service"
+      ]
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "Phlebotomy cert",
+      "Driver license"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Laboratory & Clinical"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "Office Suite",
+        "AirTable",
+        "Frame.io",
+        "Slack",
+        "Production Workflows"
+      ],
+      "softSkills": [
+        "Communication",
+        "Organizational Skills",
+        "Project Management",
+        "Attention to detail",
+        "Strategic Thinking",
+        "Storytelling",
+        "Brand Building"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Lyric",
+        "Agency Background",
+        "Sports Entertainment"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance: Marketing Managers",
+      "Business & Finance: Project Managers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "OR experience",
+        "Cardiac",
+        "Vascular",
+        "Thoracic",
+        "Level I",
+        "EPIC"
+      ],
+      "softSkills": [
+        "Teamwork"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Scrub",
+        "Circulate",
+        "Davinci robots"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "RN"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN",
+      "Healthcare & Medical:Surgical & Procedural: OR Staff"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Administrative support",
+        "Scheduling",
+        "Documentation",
+        "Fax processing"
+      ],
+      "softSkills": [
+        "Outreach",
+        "Communication",
+        "Problem-solving",
+        "Collaboration"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Healthcare & Medical:Healthcare Administration"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "mechanical equipment",
+        "electronic equipment",
+        "tooling",
+        "gauging",
+        "torque mechanisms",
+        "test stands",
+        "hydraulic equipment",
+        "pneumatic equipment",
+        "computer skills",
+        "hand tools"
+      ],
+      "softSkills": [
+        "follow instructions",
+        "problem solving",
+        "attention to detail",
+        "communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "automotive background",
+        "aircraft background"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "FAA Program"
+    ],
+    "categorys": [
+      "Engineering & Manufacturing: Assembly Technicians"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "statistical process",
+        "geometry",
+        "trigonometry",
+        "root cause",
+        "data review",
+        "quality reports"
+      ],
+      "softSkills": [
+        "problem solving",
+        "common sense",
+        "analytical skills"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Quality Engineers",
+      "Engineering & Manufacturing: Mechanical Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 6,
+    "required": {
+      "hardSkills": [
+        "Java",
+        "Spring Boot",
+        "RESTful APIs",
+        "microservices",
+        "Relational databases",
+        "ORM frameworks",
+        "Hibernate",
+        "JPA"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Code quality",
+        "Organization",
+        "Troubleshoot"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Software Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "financial analysis",
+        "credit analysis",
+        "financial models",
+        "MS Excel"
+      ],
+      "softSkills": [
+        "analytical skills",
+        "written communication",
+        "oral communication",
+        "interpersonal skills",
+        "self-motivation",
+        "critical thinking"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "investment banking",
+        "corporate banking",
+        "commercial banking",
+        "capital markets",
+        "pitch materials"
+      ],
+      "softSkills": [
+        "Relationship Management"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "credit training"
+    ],
+    "categorys": [
+      "Business & Finance: Financial Analysts"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 7,
+    "required": {
+      "hardSkills": [
+        "JIRA",
+        "Confluence",
+        "MS Project",
+        "MS Office",
+        "Excel",
+        "Clarity",
+        "PDLC",
+        "Agile",
+        "Hybrid methodologies",
+        "Financial management",
+        "Schedule management"
+      ],
+      "softSkills": [
+        "Clear communication",
+        "Proactive",
+        "Independent"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "SharePoint",
+        "Compliance tracking",
+        "AML compliance"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance: Project Management",
+      "Information Technology & Software Development: Project Management"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "Warehouse operations",
+        "Training",
+        "Systems support",
+        "Microsoft Office",
+        "PowerPoint",
+        "Excel"
+      ],
+      "softSkills": [
+        "Interpersonal skills",
+        "Clear communicator",
+        "Extensive travel"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Manhattan WMS",
+        "Logistics processes",
+        "Manhattan Active",
+        "Learning tools",
+        "Bilingual"
+      ],
+      "softSkills": [
+        "Technology rollouts",
+        "Process rollouts"
+      ]
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Supply Chain",
+      "Information Technology & Software Development: Enterprise Systems",
+      "Business & Finance: Human Resources"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": []
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 10,
+    "required": {
+      "hardSkills": [
+        "Regulatory reporting",
+        "Business requirement",
+        "UAT testing",
+        "Excel",
+        "repo transactions",
+        "derivatives",
+        "SACCR"
+      ],
+      "softSkills": [
+        "stakeholder management",
+        "project management",
+        "leadership",
+        "Team leadership",
+        "collaboration",
+        "problem-solving"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Alteryx",
+        "Python",
+        "Data modeling",
+        "Data visualization",
+        "capital markets"
+      ],
+      "softSkills": [
+        "presentation",
+        "communication"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "FRM",
+      "CFA"
+    ],
+    "categorys": [
+      "Business & Finance:Business Analysis",
+      "Information Technology & Software Development:Data & Analytics"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Manufacturing Mechanic",
+        "maintenance",
+        "multi-meter",
+        "math skills",
+        "troubleshooting skills",
+        "read drawings",
+        "sketch drawings",
+        "line changeovers",
+        "set-ups"
+      ],
+      "softSkills": [
+        "Leadership",
+        "interpersonal skills",
+        "motivational skills",
+        "communication skills"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "programmable controllers"
+      ],
+      "softSkills": [
+        "Supervisor skills"
+      ]
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Maintenance"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "nursing",
+        "food service",
+        "housekeeping",
+        "laundry"
+      ],
+      "softSkills": [
+        "cooperative"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "CNA"
+    ],
+    "categorys": [
+      "Healthcare & Medical:CNA"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "LPN"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "LPN"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "NYC navigation",
+        "App usage",
+        "SMS communication",
+        "GPS directions",
+        "Grocery shopping"
+      ],
+      "softSkills": [
+        "Customer service",
+        "Problem-solving",
+        "Detail-oriented",
+        "Dependable",
+        "Professionalism",
+        "Punctual"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": [
+        "Leadership",
+        "Collaboration"
+      ]
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing:Supply Chain: Warehouse Associates"
+    ]
+  }
+}
+{
+"calendar_event": {
+"yoE": 1,
+"required": {
+"hardSkills": [
+"Endoscopy",
+"Progressive Care",
+"Critical Care",
+"ER",
+"Airway management",
+"EKG interpretation",
+"Moderate sedation",
+"Reversal medication",
+"Phase II",
+"Charge nurse",
+"Epic"
+],
+"softSkills": [
+"Supervision",
+"Collaboration",
+"Communication",
+"Flexibility"
+]
+},
+"preferred": {
+"hardSkills": [
+"Floating"
+],
+"softSkills": []
+},
+"minEducation": "Associate's",
+"certsLicences": [
+"RN"
+],
+"categorys": [
+"Healthcare & Medical:Nursing: RN"
+]
+}
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "PTA"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "PTA"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Physical Therapists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Troubleshooting",
+        "Testing",
+        "Assembling",
+        "Disassembling",
+        "Visual Inspection",
+        "Repairing equipment",
+        "Hand tooling",
+        "Pneumatic tooling",
+        "Hydraulic tooling",
+        "Measuring equipment",
+        "Reading drawings",
+        "Mechanical aptitude"
+      ],
+      "softSkills": [
+        "Teamwork",
+        "Following instructions"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": [
+        "Flexibility"
+      ]
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Maintenance Technicians",
+      "Engineering & Manufacturing: Assembly Technicians"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Business Analysis",
+        "TV Entertainment",
+        "OTT platforms",
+        "Agile Scrum",
+        "Requirements gathering"
+      ],
+      "softSkills": [
+        "Analytical",
+        "Problem solving",
+        "Communication",
+        "Stakeholder management"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance:Business Analysis"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Sourcing",
+        "Procurement",
+        "P2P",
+        "Vendor management",
+        "Contract negotiation"
+      ],
+      "softSkills": [
+        "Communication skills",
+        "Collaboration",
+        "Stakeholder engagement",
+        "Negotiation"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Indirect procurement"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "Purchasing",
+      "Supply chain"
+    ],
+    "categorys": [
+      "Engineering & Manufacturing:Buyers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Mechanical analysis",
+        "CAD design",
+        "Mechanical test",
+        "Engineering design",
+        "Test activities"
+      ],
+      "softSkills": [
+        "Communication",
+        "Creative"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Siemens NX",
+        "GD&T",
+        "Mechanical Integration"
+      ],
+      "softSkills": [
+        "Verbal communication",
+        "Written communication"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "Secret Clearance"
+    ],
+    "categorys": [
+      "Engineering & Manufacturing:Design Engineers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 7,
+    "required": {
+      "hardSkills": [
+        "MarTech platforms",
+        "Digital marketing",
+        "Customer data",
+        "Analytics",
+        "Program governance",
+        "Budget management",
+        "Executive reporting",
+        "JIRA",
+        "Confluence",
+        "Agile",
+        "Waterfall"
+      ],
+      "softSkills": [
+        "Project Management",
+        "PMO",
+        "Organizational leadership",
+        "Collaboration",
+        "Communication",
+        "Stakeholder influence"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Tableau",
+        "Power BI",
+        "SAFe",
+        "Scaled Agile"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "PMP",
+      "PgMP",
+      "Agile"
+    ],
+    "categorys": [
+      "Business & Finance:Project Managers",
+      "Business & Finance:Marketing & Communications",
+      "Information Technology & Software Development:Data & Analytics"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 4,
+    "required": {
+      "hardSkills": [
+        "WAN Telecommunications",
+        "CISCO routers",
+        "IP technologies",
+        "Pseudo Wire",
+        "Ethernet switching",
+        "Microsoft Office"
+      ],
+      "softSkills": [
+        "Teamwork",
+        "Self-directed",
+        "Project management",
+        "Time management"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "SONET",
+        "Carrier Ethernet",
+        "LTE",
+        "TDM network",
+        "WAN/LAN",
+        "TCP/IP",
+        "OSPF",
+        "BGP",
+        "VoIP",
+        "DWDM",
+        "VPN",
+        "Cisco",
+        "Juniper",
+        "Ciena",
+        "MetaSolv"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "Public Trust"
+    ],
+    "categorys": [
+      "Skilled Trades & Construction: Infrastructure"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        ".Net Core",
+        "ASP.NET",
+        "Angular 12",
+        "SSIS",
+        "SQL Server",
+        "JavaScript"
+      ],
+      "softSkills": [
+        "Problem solving",
+        "Error handling"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Performance tuning",
+        "XML"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Software Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "MA",
+        "BLS",
+        "Phlebotomy",
+        "Vital Signs",
+        "EMR",
+        "EKG"
+      ],
+      "softSkills": [
+        "Communication",
+        "Collaboration",
+        "Professionalism"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "CAOHC",
+        "BAT Trained",
+        "NIOSH",
+        "Case Management"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "MA",
+      "BLS",
+      "CAOHC",
+      "NIOSH"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Allied Health"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 4,
+    "required": {
+      "hardSkills": [
+        "commercial refrigeration",
+        "chillers",
+        "electrical",
+        "read schematics",
+        "commercial HVAC",
+        "air compressors"
+      ],
+      "softSkills": [
+        "Safety-focused",
+        "teamwork"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "diesel",
+        "gas",
+        "controls",
+        "microgrid",
+        "storage"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "TWIC card",
+      "DOT medical",
+      "driver's license"
+    ],
+    "categorys": [
+      "Skilled Trades & Construction:Mechanical Trades"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Project Management",
+        "Global Markets",
+        "Equities",
+        "Fixed Income",
+        "Derivatives",
+        "Risk Mitigation",
+        "Change Management"
+      ],
+      "softSkills": [
+        "Stakeholder Management",
+        "Governance",
+        "Decision Making",
+        "Presentation Skills"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance:Project Managers",
+      "Information Technology & Software Development:IT Project Managers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 10,
+    "required": {
+      "hardSkills": [
+        "Terraform",
+        "Azure Infrastructure",
+        "CI/CD",
+        "module development",
+        "AKS",
+        "Key Vault",
+        "Git",
+        "Azure DevOps",
+        "Azure Policy"
+      ],
+      "softSkills": [
+        "Communication",
+        "Problem-Solving",
+        "Leadership",
+        "Mentoring"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Terratest",
+        "Checkov",
+        "GitHub Actions"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Cloud & Infrastructure"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Med Surg",
+        "Patient Care"
+      ],
+      "softSkills": [
+        "Communication",
+        "Teamwork"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "RN",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Java 17",
+        "J2EE",
+        "React JS",
+        "RDBMS",
+        "Spring Boot",
+        "Microservice architecture",
+        "automation testing",
+        "Unit testing",
+        "Regression Testing"
+      ],
+      "softSkills": [
+        "Agile"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Java 8",
+        "Spring Suite",
+        "Python",
+        "Django",
+        "Node JS",
+        "Go-lang",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "CICD",
+        "PostgreSQL",
+        "Oracle"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Software Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Java",
+        "Spring",
+        "JSP",
+        "JSF",
+        "Postgres DB",
+        "Javascript",
+        "Angular JS",
+        "Legacy code",
+        "Unit testing",
+        "Integration testing",
+        "SQL",
+        "Maven",
+        "Git",
+        "Rest API",
+        "Open API"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Software Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Quality Assurance",
+        "Sterile manufacturing",
+        "Process validation",
+        "Technology transfer",
+        "Batch record",
+        "Quality audits"
+      ],
+      "softSkills": [
+        "Interpersonal skills",
+        "Communication",
+        "Negotiation",
+        "Persuasion skills",
+        "Relationship building"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Pre-Approval inspections",
+        "Regulatory agencies"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing:Quality Assurance Specialists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "EPIC",
+        "Level 1",
+        "Critical Care",
+        "MICU",
+        "SICU",
+        "Lung Ventilation",
+        "Ventilator Decisions"
+      ],
+      "softSkills": [
+        "Team Participation",
+        "Patient Assessment"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "NICU",
+        "Drager XL",
+        "v500 Vents"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "RRT",
+      "NPS",
+      "ACCS",
+      "MA License",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Respiratory Therapists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "phlebotomy",
+        "straight needles",
+        "specimen preparation",
+        "documentation"
+      ],
+      "softSkills": [
+        "communication",
+        "confidentiality",
+        "accuracy"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "pediatric patients",
+        "geriatric patients"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "Phlebotomy Certification"
+    ],
+    "categorys": [
+      "Healthcare & Medical: Laboratory & Clinical"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "Staff Supervision",
+        "Union Experience",
+        "Manufacturing Env"
+      ],
+      "softSkills": [
+        "Leadership",
+        "Team Management",
+        "Conflict Resolution"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Food Industry",
+        "SAP",
+        "Preventive Maintenance",
+        "GMP",
+        "Lean Manufacturing",
+        "Root Cause Analysis"
+      ],
+      "softSkills": [
+        "Continuous Improvement",
+        "Accountability"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Maintenance"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 10,
+    "required": {
+      "hardSkills": [
+        "ACF2",
+        "Top Secret",
+        "RACF",
+        "z/OS",
+        "JCL"
+      ],
+      "softSkills": [
+        "Analytical thinking",
+        "Problem-solving"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "IMS",
+        "DB2",
+        "COBOL",
+        "REXX",
+        "TSO",
+        "TMON",
+        "Mainview",
+        "OMEGAMON",
+        "FTPS",
+        "Connect: Direct",
+        "Rational Tools",
+        "CA Scheduler"
+      ],
+      "softSkills": [
+        "Communication skills",
+        "Interpersonal skills",
+        "Organizational skills"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "SSL certificates"
+    ],
+    "categorys": [
+      "Information Technology & Software Development:Security"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 10,
+    "required": {
+      "hardSkills": [
+        "data warehousing",
+        "EDW",
+        "physical data",
+        "data governance",
+        "agile execution",
+        "reporting",
+        "analytics",
+        "EDW testing"
+      ],
+      "softSkills": [
+        "leadership",
+        "coaching",
+        "technical oversight",
+        "stakeholder engagement",
+        "communication",
+        "interpersonal skills",
+        "collaboration",
+        "organizational skills"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "cloud technologies",
+        "AWS",
+        "Snowflake",
+        "IBM DataStage",
+        "Python",
+        "PySpark",
+        "Erwin",
+        "Tableau",
+        "data quality",
+        "business intelligence"
+      ],
+      "softSkills": [
+        "thought leadership"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Data & Analytics",
+      "Information Technology & Software Development:Project Management"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "EMS",
+        "Antenna theory",
+        "MS Excel",
+        "RF engineering",
+        "Small Cell",
+        "Mapinfo",
+        "wireless technologies",
+        "test equipment",
+        "fiber testing"
+      ],
+      "softSkills": [
+        "great communication",
+        "Organized",
+        "focused"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Electrical Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Cable Inspection",
+        "Soldered Inspection",
+        "Crimp Inspection",
+        "IPC-A-620",
+        "Reading Drawings",
+        "Reading Diagrams"
+      ],
+      "softSkills": [
+        "Detail Oriented",
+        "Communication",
+        "Teamwork",
+        "Read English",
+        "Write English"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "IPC-A-620"
+    ],
+    "categorys": [
+      "Engineering & Manufacturing: Quality Inspectors",
+      "Engineering & Manufacturing: Production Associates"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Physical Therapy"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "PHD",
+    "certsLicences": [
+      "PT License"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Physical Therapists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "SOPs",
+        "Sample Prep",
+        "Data Recording",
+        "cGMP",
+        "Hazardous waste",
+        "RCRA",
+        "ICP Spectrophotometer",
+        "Headspace Analysis",
+        "Colorimeter"
+      ],
+      "softSkills": [
+        "Planning",
+        "Organization",
+        "Teamwork",
+        "Communication",
+        "Computer skills"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "5S",
+        "DICI",
+        "Kaizen"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "RCRA"
+    ],
+    "categorys": [
+      "Healthcare & Medical: Laboratory & Clinical",
+      "Engineering & Manufacturing: Quality"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Med/Surg",
+        "EHR",
+        "Clinical Assessment",
+        "Vital Signs"
+      ],
+      "softSkills": [
+        "Communication",
+        "Critical Thinking",
+        "Collaboration",
+        "Compassionate Care"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "RN",
+      "AHA BLS",
+      "ACLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Oracle Database",
+        "SQL Server",
+        "MDM",
+        "Data Modeling",
+        "Data Governance",
+        "ETL",
+        "Solution Architecture"
+      ],
+      "softSkills": [
+        "Communication skills",
+        "Self-Motivated",
+        "Presenting",
+        "Team environment",
+        "Mentoring"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Oracle GoldenGate"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Data & Analytics",
+      "Information Technology & Software Development:Database"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": []
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "LTC"
+      ],
+      "softSkills": [
+        "Compassion",
+        "Patience"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "CNA",
+      "LPN"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing:LPN/LVN",
+      "Healthcare & Medical:Nursing:CNA"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "OASIS",
+        "Home health",
+        "case management"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": [
+        "experienced traveler"
+      ]
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "State License",
+      "RN"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN",
+      "Healthcare & Medical:Nursing: Nurse Managers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "HCHB",
+        "Medical Billing",
+        "month-end close",
+        "claims resolution",
+        "claims submission",
+        "denial review",
+        "cash posting"
+      ],
+      "softSkills": [
+        "communication",
+        "attention to detail"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance: Accounts Payable/Receivable Specialists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "CT procedures",
+        "Radiologic Technologist",
+        "Patient Care"
+      ],
+      "softSkills": [
+        "Communication",
+        "Verbal communication",
+        "Written communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Anatomy",
+        "Physiology"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "State license",
+      "ARRT (CT)",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:CT Technologists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Claims Processing",
+        "Windows applications",
+        "Keyboard skills",
+        "Multiple systems",
+        "MS Office"
+      ],
+      "softSkills": [
+        "Work independently",
+        "Prioritize work",
+        "Research",
+        "Analysis",
+        "Problem-solving",
+        "Time management",
+        "Communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Amisys",
+        "Xcelys"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance:Accounts Payable/Receivable Specialists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Radiation Therapy",
+        "CT simulation",
+        "Varian True",
+        "AIRA Record",
+        "SBRT/SRS",
+        "EPIC"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [
+        "Travel experience"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [],
+    "categorys": [
+      "Healthcare & Medical:Medical Imaging & Diagnostics"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "Appium",
+        "Selenium",
+        "Espresso",
+        "XCUI",
+        "Perfecto",
+        "BrowserStack",
+        "Java",
+        "Qtest",
+        "QualityCenter",
+        "JIRA",
+        "Rally",
+        "Postman",
+        "API Test",
+        "JavaScript",
+        "Web Services"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Communication",
+        "Problem solving",
+        "Adaptability"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Mobile testing",
+        "Virtual testing",
+        "Healthcare testing",
+        "Business systems",
+        "Data warehousing"
+      ],
+      "softSkills": [
+        "Leadership",
+        "Vendor management"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "QAI",
+      "ASQ"
+    ],
+    "categorys": [
+      "Information Technology & Software Development:Quality Assurance"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Operating Room",
+        "Nursing Care",
+        "Healthcare Assessment",
+        "Medication Administration",
+        "Patient Treatments",
+        "Assisting Procedures"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Critical Thinking",
+        "Triage",
+        "Work Independently",
+        "Communication",
+        "Patient Education"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "RN",
+      "BLS",
+      "ACLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN",
+      "Healthcare & Medical:Surgical & Procedural: OR Staff"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "MEDITECH",
+        "Epic",
+        "Varian TrueBeam",
+        "ARIA EMR",
+        "3D",
+        "IMRT",
+        "SBRT",
+        "radiation therapy",
+        "treatment planning",
+        "simulations"
+      ],
+      "softSkills": [
+        "independent",
+        "data interpretation"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "HI license",
+      "ARRT (T)",
+      "BLS",
+      "ACLS",
+      "PALS",
+      "NRP"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Medical Imaging & Diagnostics"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 4,
+    "required": {
+      "hardSkills": [
+        "Dataiku",
+        "PL/SQL",
+        "pipeline design",
+        "workflow orchestration"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Strategic guidance",
+        "knowledge sharing"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development: Data Engineers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Nursing process",
+        "Medication administration",
+        "Patient care",
+        "EMR",
+        "EPIC"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Critical thinking",
+        "Communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "WI License",
+      "BLS/BCLS",
+      "RN"
+    ],
+    "categorys": [
+      "Healthcare & Medical:RN (various specializations)"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Java",
+        "Spring boot",
+        "React JS"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Software Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 4,
+    "required": {
+      "hardSkills": [
+        "Journeyman Electrician",
+        "Power distribution",
+        "Switchgear",
+        "Wiring",
+        "Conduit runs",
+        "Read blueprints",
+        "NEC"
+      ],
+      "softSkills": [
+        "Travel",
+        "Collaboration",
+        "Safety conscious"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "OSHA 10/30",
+        "Master Electrician"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "Journeyman Electrician",
+      "OSHA 10/30"
+    ],
+    "categorys": [
+      "Skilled Trades & Construction:Electrical"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "behavioral assessments",
+        "behavior support"
+      ],
+      "softSkills": [
+        "teamwork",
+        "observation"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Masters",
+    "certsLicences": [
+      "BCBA"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Physicians & Advanced Practitioners"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Data Entry",
+        "Excel",
+        "MacBook"
+      ],
+      "softSkills": [
+        "Attention to detail",
+        "Verbal communication",
+        "Written communication",
+        "Time management",
+        "Work independently"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance:Administration"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Data Entry",
+        "BTS",
+        "Broadridge",
+        "ServiceLink",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Outlook"
+      ],
+      "softSkills": [
+        "Math skills",
+        "problem solving",
+        "Communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance:Accounts Payable/Receivable Specialists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Citrix CVAD",
+        "DDC",
+        "StoreFront",
+        "Director",
+        "NetScaler",
+        "Active Directory",
+        "FSLogix",
+        "Microsoft App-V",
+        "RDS CAL",
+        "SQL Server",
+        "O3 orchestration",
+        "ICPw vRA",
+        "PowerShell scripting"
+      ],
+      "softSkills": [
+        "Coordination",
+        "Communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "VMware vSphere",
+        "Horizon",
+        "Azure VDI",
+        "AWS VDI",
+        "ControlUp",
+        "Citrix Analytics",
+        "SCCM",
+        "MDT",
+        "NetScaler Gateway",
+        "Zscaler",
+        "ServiceNow",
+        "Agile delivery"
+      ],
+      "softSkills": [
+        "Mandarin",
+        "Cantonese"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "CCA-V",
+      "CCP-V",
+      "CCE-V",
+      "AZ-104",
+      "MS-102",
+      "SC-300",
+      "VCP-DCV",
+      "ITIL Foundation"
+    ],
+    "categorys": [
+      "Information Technology & Software Development:Cloud & Infrastructure"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Cisco LAN",
+        "SDWAN",
+        "WAN",
+        "network operations",
+        "installation",
+        "maintenance"
+      ],
+      "softSkills": [
+        "client engagement",
+        "project coordination",
+        "verbal communication",
+        "written communication",
+        "work independently",
+        "collaboration"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Cisco products"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "CCNA"
+    ],
+    "categorys": [
+      "Information Technology & Software Development:Cloud & Infrastructure"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Physical Therapy",
+        "Ortho experience",
+        "Inpatient",
+        "Outpatient"
+      ],
+      "softSkills": [
+        "Flexible"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "MT license",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Physical Therapists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Radiologic Technology",
+        "Fluoroscopy"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "CRT",
+      "CPR",
+      "Fluoroscopy Permit",
+      "ARRT"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Medical Imaging & Diagnostics"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Salesforce",
+        "ES&O",
+        "Data Migration",
+        "Integration",
+        "SIT",
+        "UAT"
+      ],
+      "softSkills": [
+        "Team Leadership",
+        "Client-facing",
+        "Communication",
+        "Coordination"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "FSL"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "Sales Cert",
+      "Service Cert",
+      "FSL Cert"
+    ],
+    "categorys": [
+      "Information Technology & Software Development:Salesforce Developers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": []
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "on-call shifts"
+      ],
+      "softSkills": [
+        "critical thinking",
+        "communication skills",
+        "work independently"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Diagnostic Ultrasound",
+        "Cardiac Ultrasound"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "RDCS",
+      "RVT",
+      "RCS",
+      "RVS",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Ultrasound Techs"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 8,
+    "required": {
+      "hardSkills": [
+        "Java",
+        "Springboot",
+        "Microservices"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Software Engineering"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "CVPICU",
+        "PEDS Cardiac",
+        "Heart transplant",
+        "Ventilators",
+        "EKG interpretation",
+        "Epic"
+      ],
+      "softSkills": [
+        "Willing to float"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "CA License",
+      "PALS",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 8,
+    "required": {
+      "hardSkills": [
+        "API testing",
+        "Payment systems",
+        "Banking"
+      ],
+      "softSkills": [
+        "English",
+        "Spanish",
+        "Communication skills",
+        "Problem-solving",
+        "Analytical skills"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "ISO 20022",
+        "Payment gateways",
+        "Transaction monitoring",
+        "Fraud prevention"
+      ],
+      "softSkills": [
+        "Agile methodologies"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Quality Assurance",
+      "Business & Finance:Business Analysis"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 7,
+    "required": {
+      "hardSkills": [
+        "Java",
+        ".net",
+        "Spring boot",
+        "Spring MVC",
+        "REST",
+        "Microservices",
+        "J2EE",
+        "SOAP",
+        "JSON",
+        "Jira",
+        "GIT",
+        "Jenkins",
+        "Splunk",
+        "Maven",
+        "Junit"
+      ],
+      "softSkills": [
+        "Problem solving",
+        "Code review",
+        "Collaboration"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Angular JS",
+        "Vue.Js",
+        "ReactJs",
+        "NodeJs",
+        "Ansible",
+        "Dynatrace",
+        "MQ",
+        "groovy"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Software Engineering: Java Developers",
+      "Information Technology & Software Development:Software Engineering: Full Stack Developers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Phlebotomy skills",
+        "Specimen collection",
+        "Specimen processing",
+        "Data entry"
+      ],
+      "softSkills": [
+        "Customer service",
+        "Work independently",
+        "Confidentiality",
+        "Accuracy"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Pediatric phlebotomy",
+        "Geriatric phlebotomy",
+        "Medical assistant",
+        "Paramedic training"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "Phlebotomy certification"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Phlebotomists"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "RN",
+        "PACU",
+        "Medication administration",
+        "Patient assessment",
+        "Epic"
+      ],
+      "softSkills": [
+        "Patient safety",
+        "Patient comfort",
+        "Collaboration"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "BLS",
+      "ACLS",
+      "Michigan License"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Cath Lab",
+        "Diagnostic imaging",
+        "Imaging equipment",
+        "Patient vitals"
+      ],
+      "softSkills": [
+        "Collaboration",
+        "Patient care",
+        "Attention to detail"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "CA Fluoro",
+      "ACLS",
+      "ARRT R",
+      "BLS",
+      "State License"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Medical Imaging & Diagnostics",
+      "Healthcare & Medical:Surgical & Procedural"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 6,
+    "required": {
+      "hardSkills": [
+        "technical support",
+        "Level 2 support",
+        ".NET",
+        "Microsoft Office",
+        "troubleshooting"
+      ],
+      "softSkills": [
+        "communication",
+        "problem-solving",
+        "customer-first mindset",
+        "discretion",
+        "judgment"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "IT systems",
+        "SQL",
+        "ServiceNow",
+        "Jira",
+        "Zendesk"
+      ],
+      "softSkills": [
+        "attention to detail",
+        "organizational skills",
+        "work independently",
+        "prioritization",
+        "customer service"
+      ]
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Project Management; Product Owners",
+      "Information Technology & Software Development:Software Engineering; .NET Developers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 3,
+    "required": {
+      "hardSkills": [
+        "Electrical Engineering",
+        "process control",
+        "electrical equipment",
+        "instrumentation equipment",
+        "PSM",
+        "failure analysis",
+        "root cause",
+        "electrical drawings"
+      ],
+      "softSkills": [
+        "leadership",
+        "planning",
+        "communication skills",
+        "presentation skills",
+        "interpersonal skills",
+        "conflict resolution",
+        "analytical skills",
+        "problem solving",
+        "work independently"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "petrochemical industry",
+        "CMMS",
+        "FMEA",
+        "Thermography",
+        "Apollo methodologies"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Electrical Engineers",
+      "Engineering & Manufacturing: Quality Engineers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "RN",
+        "Inpatient Rehab",
+        "acute care"
+      ],
+      "softSkills": [
+        "compassionate care",
+        "Collaboration",
+        "Ethical practices"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "RN license",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "software QA",
+        "medical devices",
+        "wearables",
+        "mobile device",
+        "iOS",
+        "Android",
+        "Windows",
+        "ISO documentation",
+        "QMS",
+        "FDA"
+      ],
+      "softSkills": [
+        "leadership",
+        "written communication",
+        "verbal communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Quality Assurance",
+      "Engineering & Manufacturing:Quality"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Forklift Operation",
+        "Hand Tools",
+        "Power Tools",
+        "Mechanical Skills",
+        "Mathematics"
+      ],
+      "softSkills": [
+        "Communication",
+        "Follow Instructions"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "Forklift Operator"
+    ],
+    "categorys": [
+      "Engineering & Manufacturing: Production & Operations"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 4,
+    "required": {
+      "hardSkills": [
+        "GoAnywhere MFT",
+        "Axway SecureTransport",
+        "SFTP",
+        "FTPS",
+        "HTTPS",
+        "AS2",
+        "Shell",
+        "Python",
+        "PowerShell",
+        "Groovy",
+        "PGP encryption",
+        "SSL/TLS"
+      ],
+      "softSkills": [
+        "Problem-solving",
+        "Analytical ability",
+        "Communication",
+        "Documentation",
+        "Collaboration",
+        "Detail-oriented"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "MoveIT",
+        "Sterling",
+        "CI/CD",
+        "API integration",
+        "EDI integration",
+        "Docker",
+        "Kubernetes",
+        "ITIL",
+        "ITSM"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:DevOps Engineers",
+      "Information Technology & Software Development:Cybersecurity Engineers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 6,
+    "required": {
+      "hardSkills": [
+        "Java",
+        "AKS",
+        "Azure Cloud",
+        "React",
+        "GraphQL"
+      ],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [
+        "Rest API",
+        "DevOps",
+        "Banking"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Java Developers",
+      "Information Technology & Software Development:Cloud & Infrastructure"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Emergency Department",
+        "Epic EMR"
+      ],
+      "softSkills": [
+        "critical thinking",
+        "triage abilities",
+        "communication"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "TNCC",
+        "ENPC",
+        "PALS"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "NY RN",
+      "AHA ACLS",
+      "BLS",
+      "TNCC",
+      "ENPC",
+      "PALS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 1,
+    "required": {
+      "hardSkills": [
+        "Assembly",
+        "Testing",
+        "Mechanical skills",
+        "Hand tools",
+        "Power tools",
+        "Test equipment",
+        "Inspection measurement",
+        "Blueprint reading"
+      ],
+      "softSkills": [
+        "Communication",
+        "Teamwork"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Lean initiatives"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Engineering & Manufacturing: Production & Operations"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "Nursing care",
+        "Emergency RN"
+      ],
+      "softSkills": [
+        "Clinical leadership",
+        "Teamwork"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "RN"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing: RN"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "project management",
+        "financial analysis",
+        "progress forecasting",
+        "risk management",
+        "MS Office"
+      ],
+      "softSkills": [
+        "facilitation",
+        "conflict resolution",
+        "stakeholder management",
+        "Analytical Thinking",
+        "Leadership",
+        "negotiation"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [],
+    "categorys": [
+      "Business & Finance: Project Managers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "CRT license",
+        "ARRT (RT M)",
+        "BLS",
+        "Daily operations"
+      ],
+      "softSkills": [
+        "Leadership",
+        "Team leader",
+        "Communication",
+        "Training",
+        "Mentoring"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Radiologic experience",
+        "Computer skills"
+      ],
+      "softSkills": [
+        "Communication"
+      ]
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "CRT",
+      "ARRT (RT M)",
+      "BLS"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Medical Imaging & Diagnostics"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Inpatient",
+        "ER",
+        "Adult ICU",
+        "Client Scanner",
+        "Siemens Scanner",
+        "CT Procedure",
+        "Brain Perfusion",
+        "CTAs",
+        "Multiplanar Reconstruction",
+        "EPIC",
+        "Visage"
+      ],
+      "softSkills": [
+        "Fast paced"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Outpatient",
+        "IV Starts",
+        "PACS",
+        "Contrast"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "BLS",
+      "ARRT (CT)"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Medical Imaging & Diagnostics"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 5,
+    "required": {
+      "hardSkills": [
+        "Database Administration",
+        "Automation",
+        "DevOps",
+        "IBM DB2",
+        "CI/CD",
+        "Scripting",
+        "Python",
+        "PowerShell",
+        "Bash",
+        "Cloud Infrastructure",
+        "Ansible",
+        "Kubernetes"
+      ],
+      "softSkills": [
+        "Collaboration"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "PostgreSQL",
+        "SQL Server",
+        "Containerization",
+        "Docker",
+        "Kubernetes",
+        "OpenShift",
+        "Azure",
+        "Networking",
+        "Distributed Systems"
+      ],
+      "softSkills": []
+    },
+    "minEducation": "",
+    "certsLicences": [],
+    "categorys": [
+      "Information Technology & Software Development:Database",
+      "Information Technology & Software Development:Cloud & Infrastructure"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "mixing equipment",
+        "handling materials",
+        "basic math",
+        "heavy lifting",
+        "SOPs",
+        "5S standards"
+      ],
+      "softSkills": [
+        "Communication",
+        "organization",
+        "teamwork",
+        "Dependable",
+        "punctual"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [
+      "Safety Cert",
+      "PIT"
+    ],
+    "categorys": [
+      "Engineering & Manufacturing:Machine Operators"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [
+        "IMCU",
+        "Critical Care",
+        "Telemetry",
+        "Airway Management",
+        "BIPAP",
+        "Arterial Lines",
+        "Central Lines",
+        "IV infusions",
+        "Epic"
+      ],
+      "softSkills": [
+        "Adaptability",
+        "Vigilance",
+        "Compassionate Care",
+        "Teamwork"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Associate's",
+    "certsLicences": [
+      "NY License"
+    ],
+    "categorys": [
+      "Healthcare & Medical:Nursing"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 4,
+    "required": {
+      "hardSkills": [
+        "HWIL integration",
+        "digital modeling",
+        "System Engineering",
+        "hardware testing",
+        "Electrical Troubleshooting",
+        "Software Troubleshooting",
+        "Hardware Integration",
+        "Systems Integration"
+      ],
+      "softSkills": [
+        "Leadership",
+        "Stakeholder engagement",
+        "Communication",
+        "Collaboration",
+        "Accountability"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "CAM",
+        "RF Up-conversion",
+        "C++",
+        "Datalink simulation",
+        "GPS simulation",
+        "IMU simulation"
+      ],
+      "softSkills": [
+        "Budget execution"
+      ]
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "Secret clearance"
+    ],
+    "categorys": [
+      "Engineering & Manufacturing:Design Engineers",
+      "Information Technology & Software Development:Software Engineering",
+      "Business & Finance:Project Managers"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 7,
+    "required": {
+      "hardSkills": [
+        "Networking",
+        "Telecom",
+        "UNIX",
+        "Perl",
+        "Python",
+        "Shell Scripting",
+        "Windows administration",
+        "Public Cloud",
+        "AWS",
+        "Azure",
+        "Traffic Engineering",
+        "BGP",
+        "OSPF",
+        "Policy Routing",
+        "L2/L3 VPN",
+        "QoS",
+        "SSL VPNs",
+        "802.1x",
+        "Cisco Products",
+        "Linux",
+        "Suse",
+        "RedHat",
+        "CentOS",
+        "SolarWinds",
+        "MRTG",
+        "NetFlow",
+        "PuTTy",
+        "Wireshark",
+        "NGFW",
+        "Palo Alto",
+        "Cisco ASA",
+        "SIEM",
+        "NIST 800-53"
+      ],
+      "softSkills": [
+        "Adaptability"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "Bachelor's",
+    "certsLicences": [
+      "CCNP",
+      "CCDP",
+      "AWS",
+      "AZURE"
+    ],
+    "categorys": [
+      "Information Technology & Software Development:Cloud & Infrastructure",
+      "Information Technology & Software Development:Security"
+    ]
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 0,
+    "required": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "preferred": {
+      "hardSkills": [],
+      "softSkills": []
+    },
+    "minEducation": "",
+    "certsLicences": [],
+    "categorys": []
+  }
+}
+{
+  "calendar_event": {
+    "yoE": 2,
+    "required": {
+      "hardSkills": [
+        "Fabrication",
+        "Construction",
+        "Measuring",
+        "Assembly"
+      ],
+      "softSkills": [
+        "Attention to detail",
+        "Organized"
+      ]
+    },
+    "preferred": {
+      "hardSkills": [
+        "Power tools",
+        "Industrial machines",
+        "Bilingual"
+      ],
+      "softSkills": [
+        "Continuous improvement"
+      ]
+    },
+    "minEducation": "HS Diploma",
+    "certsLicences": [],
+    "categorys": [
+      "Skilled Trades & Construction:Fabrication",
+      "Engineering & Manufacturing:Production & Operations"
+    ]
+  }
+}
