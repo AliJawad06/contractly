@@ -25,7 +25,7 @@ class SimplifiedJobScraper:
         self.slow_mo = slow_mo
         self.job_ids = []
         self.job_details = []
-        self.maxT = 1760461581000
+        self.maxT = 1761262500000
         # Date cutoff setup
         self.date_cutoff_days = date_cutoff_days
         self.cutoff_date = datetime.now() - timedelta(days=date_cutoff_days)
@@ -42,7 +42,7 @@ class SimplifiedJobScraper:
         try:
             # Handle timestamp in milliseconds
             if isinstance(post_date, (int, float)) and post_date > 0:
-                return post_date < 1760157320000
+                return post_date < 1761262500000
                                    
             # Handle string dates if needed
             if isinstance(post_date, str):
