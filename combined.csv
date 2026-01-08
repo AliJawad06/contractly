@@ -1,4 +1,4 @@
-id,title,ref_no,post_date,post_date_readable,job_description,start_date,start_date_readable,end_date,end_date_readable,working_remote,primary_recruiter_name,primary_recruiter_email,primary_recruiter_phone,source_file
+id,title,ref_no,post_date,post_date_readable,description,start_date,start_date_readable,end_date,end_date_readable,working_remote,primary_recruiter_name,primary_recruiter_email,primary_recruiter_phone,source_file
 31085437,Business Analyst ,25-04783,1756937652000,2025-09-03 18:14:12,"<br><div><span style=""font-family: verdana""><span style=""font-size: 12px""> </span></span><strong>Job description</strong><br />
  
 <ul>

@@ -1,15 +1,20 @@
 import json
-import os
 
-file_path = "/Users/aj/Downloads/DhikrUp/contractJobs/all_companies_job_details_last_15_days_20251023_194537.json"
-with open(file_path, "r") as r, open ("./jsoncheck.jsonl", 'w') as w:
-    data = json.load(r)
-    jobs = data["jobs"]
-    json.dump(jobs[0], w)
-    w.write("\n")
-    print(os.path.getsize("./jsoncheck.jsonl")/(1024 * 1024))
-    json.dump(jobs[1], w)
-    print(os.path.getsize("./jsoncheck.jsonl")/(1024 * 1024))
+all_clean_path = "all_clean_combined.json"
 
-
-
+japi_jobs = []
+diva_jobs = []
+master_jobs = []
+all_clean_jobs = []
+        
+        
+        # Read all input files
+with open("/Users/aj/Downloads/DhikrUp/contractJobs/day/day.json", 'r', encoding='utf-8') as clean_file:
+    jobs = json.load(clean_file)
+    for job in jobs: 
+        date_posted = job.get("posted")
+        if date_posted == "N/A":
+            print(date_posted)
+            date_posted = 0
+        if  date_posted > 1763164800000 and "CNA" in job["title"]:
+            print(job.get("easy_apply_job_login_hc") or job.get("url"), job["location"])

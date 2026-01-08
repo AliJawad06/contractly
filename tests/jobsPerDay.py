@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 def load_jobs(json_file):
     """Load list of job objects from JSON file"""
     with open(json_file, "r", encoding="utf-8") as f:
-        data =  json.load(f)
+        data =  json.load(f)["jobs"]
         return data
         
 
@@ -16,7 +16,7 @@ def get_jobs_per_day(jobs):
     for job in jobs:
         posted = job.get("posted", {})
         ts = posted.get("date_posted")
-
+        
         # Skip missing or invalid entries
         if not ts:
             continue
@@ -59,7 +59,7 @@ def plot_jobs_distribution(job_counts):
     plt.show()
 
 if __name__ == "__main__":
-    json_file = "/Users/aj/Downloads/DhikrUp/contractJobs/jsonl/combined.json"
+    json_file = "/Users/aj/Downloads/DhikrUp/contractJobs/all_companies_job_details_last_15_days_20251103_132542.json"
     jobs = load_jobs(json_file)
     job_counts = get_jobs_per_day(jobs)
 

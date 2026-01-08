@@ -62,7 +62,7 @@ try:
     texts = []
 
     for job in jobs:
-        text = job.get('description') or job.get('job_description') or ''
+        text = job.get('description') or job.get('description') or ''
         if not text:
             continue
         soup = BeautifulSoup(text, 'html.parser')

@@ -34,6 +34,8 @@ def getSkills(description, custom_id):
         "List certifications or licenses (certsLicences), using a maximum of two words or two acronyms. "
         "The field 'minEducation' can only be one of: HS Diploma, Associate's, Bachelor's, Masters, PHD. "
         "The field 'categorys' can be a list of 1 to max 3 category:subcategory pair. A category is one of the 5 and subcategory is before the semicolon."
+        "For Example"
+        
     )
 
     categoryOptions = '''1. Healthcare & Medical

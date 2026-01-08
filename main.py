@@ -10,7 +10,7 @@ import re
 from dateutil import parser
 from bs4 import BeautifulSoup
 import time
-
+from tests.findlastJob import findLast
 
 
 # Set up logging
@@ -19,13 +19,13 @@ logger = logging.getLogger(__name__)
 
 
 class SimplifiedJobScraper:
-    def __init__(self, base_url: str, headless: bool = True, slow_mo: int = 0, date_cutoff_days: int = 15):
+    def __init__(self, maxT, base_url: str, headless: bool = True, slow_mo: int = 0, date_cutoff_days: int = 15):
         self.base_url = base_url
         self.headless = headless
         self.slow_mo = slow_mo
         self.job_ids = []
         self.job_details = []
-        self.maxT = 1761262500000
+        self.maxT =  maxT
         # Date cutoff setup
         self.date_cutoff_days = date_cutoff_days
         self.cutoff_date = datetime.now() - timedelta(days=date_cutoff_days)
@@ -42,7 +42,7 @@ class SimplifiedJobScraper:
         try:
             # Handle timestamp in milliseconds
             if isinstance(post_date, (int, float)) and post_date > 0:
-                return post_date < 1761262500000
+                return post_date < findLast("/Users/aj/Downloads/DhikrUp/contractJobs/day/jobdiva_day.json")
                                    
             # Handle string dates if needed
             if isinstance(post_date, str):
@@ -213,7 +213,7 @@ class SimplifiedJobScraper:
                 jobJSON = {
                     'id': job_info.get('id','N/A'),
                     'title': job_info.get('title','N/A'),
-                    'location': (f"{job_info['mainLocation']['state']}, {job_info['mainLocation']['city']}" if job_info.get('mainLocation') else "N/A"),
+                    'location': (f"{job_info['mainLocation']['state']}, {job_info['mainLocation']['city']}" if job_info.get('mainLocation') else ""),
                     'experience': {
                         'experience': job_info.get('experience', 'N/A')
                     },
@@ -331,7 +331,10 @@ def run_company_scraper(company_data, date_cutoff_days=15):
     url, company = company_data
     
     async def scrape_company():
+
+        max = 1762733580000
         scraper = SimplifiedJobScraper(
+            maxT= max,
             base_url=url,
             headless=True,  # Set to True for production
             slow_mo=500,
@@ -446,10 +449,15 @@ async def save_combined_json(all_job_details, date_cutoff_days):
         
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
+            
+        with open("/Users/aj/Downloads/DhikrUp/contractJobs/day/jobdiva_day.json", 'w', encoding='utf-8') as f:
+            json.dump(output, f, indent=2, ensure_ascii=False)
         
         logger.info(f"Saved {len(all_job_details)} total job details to {filename}")
     except Exception as e:
         logger.error(f"Error saving combined JSON: {e}")
+
+
 
 if __name__ == "__main__":
     # You can modify the date cutoff here (default is 30 days)

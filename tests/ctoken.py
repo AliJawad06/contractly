@@ -43,7 +43,7 @@ def plot_distribution(token_counts):
     plt.show()
 
 if __name__ == "__main__":
-    json_file = "/Users/aj/Downloads/DhikrUp/contractJobs/all_companies_job_details_last_15_days_20251003_175606.json"
+    json_file = "/Users/aj/Downloads/DhikrUp/contractJobs/all_companies_job_details_last_15_days_20251103_132542.json"
     distribution, token_counts, total_tokens = analyze_job_descriptions(json_file)
 
     print("Token count distribution (sample):")

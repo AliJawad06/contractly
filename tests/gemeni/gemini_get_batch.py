@@ -6,7 +6,7 @@ import json
 import json
 import asyncio
 from google import genai
-from geminiLine import getSkills
+from tests.gemeni.geminiLine import getSkills
 from google.genai import types
 from schema import schema
 
