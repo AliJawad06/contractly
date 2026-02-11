@@ -53,22 +53,7 @@ async def combine_jsonl_files():
         for i, job in enumerate(all_jobs, 1):
             try:
                 # Parse location and get category
-                res = await location_parser(job)
-                
-                category = res.get("category", "N/A")
-                locations = res.get("locations", [job.get("location", "N/A")])
-                
-                # Use first location if multiple returned
-                location = locations[0] if locations else job.get("location", "N/A")
-                
-                # Parse posted date
-                posted_date_str = job.get("posted", {}).get("date_postedStr", "")
-                try:
-                    posted_str = parser.parse(posted_date_str).date().isoformat()
-                except:
-                    posted_str = posted_date_str
-                
-                # Extract experience
+                experience = ""
                 experience_data = job.get("experience", {})
                 if isinstance(experience_data, dict):
                     experience = (
@@ -86,6 +71,27 @@ async def combine_jsonl_files():
                         description = BeautifulSoup(description, "html.parser").get_text()
                     except:
                         pass  # Keep original if parsing fails
+
+                job["experience"] = experience
+                job["description"] = description
+ 
+                res = await location_parser(job)
+                
+                category = res.get("category", "N/A")
+                locations = res.get("locations", [job.get("location", "N/A")])
+                
+                # Use first location if multiple returned
+                location = locations[0] if locations else job.get("location", "N/A")
+                
+                # Parse posted date
+                posted_date_str = job.get("posted", {}).get("date_postedStr", "")
+                try:
+                    posted_str = parser.parse(posted_date_str).date().isoformat()
+                except:
+                    posted_str = posted_date_str
+                
+                # Extract experience
+
                 
                 # Build clean job object
                 clean_job = {
@@ -98,7 +104,7 @@ async def combine_jsonl_files():
                     "startStr": job.get("start", {}).get("start_dateStr", "N/A"),
                     "start": job.get("start", {}).get("start_date", "N/A"),
                     "description": description,
-                    "experience": experience,
+                    "experience": job.get("experience"),
                     "remote": job.get("remote", "N/A")
                 }
                 

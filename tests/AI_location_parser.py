@@ -34,6 +34,16 @@ locations_field = {
     }
 }
 
+
+yoe_field = {
+   "yoe": {
+      "type": "integer", 
+      "description": "extracted Years of experience",
+      "required": "integer", 
+      "additionalProperties": False
+   }
+}
+
 category_prop =  {
           "type": "string",
           "description": "The job or content category",
@@ -64,6 +74,8 @@ async def Ai_parse_location(parsable):
     
     title = parsable.get("title")
     location = parsable.get("location")
+    yoe = parsable.get("yoe")
+    
     
     if location:
         print(f"location recieved: {location}")
@@ -78,9 +90,19 @@ async def Ai_parse_location(parsable):
     if title:
       req_field.append("category")
       req_structure["properties"]["category"] = category_prop
-      req_input.append({"role": "system", "content": "Choose the most fitting job category."})
+      req_input.append({"role": "system", "content": "Choose the most fitting job category, one must be chosen"})
       req_input.append({"role": "user", "content": title})
       req_structure["required"] = req_field
+
+
+    if yoe: 
+       req_structure["properties"]["yoe"] = yoe_field["yoe"]
+       req_field.append("yoe")
+       req_input.append({"role": "system", "content": "extract the minimum total years of experience required for role mentioned in the description"})
+       req_input.append({"role": "user", "content": yoe})
+
+       req_structure["required"] = yoe
+
 
 
     response = client.chat.completions.create(  # Fixed: responses.parse -> chat.completions.create

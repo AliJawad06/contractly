@@ -81,7 +81,11 @@ async def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
         res = {}
         req = {}
         
+        
         # Handle title/category mapping
+        yoe = job.get("experience")
+        if yoe == "N/A":
+            req['yoe'] = job.get("description")
         job_title = job.get("title", "")
         category = title_mapper.get_category(job_title)
         if category:
@@ -92,7 +96,7 @@ async def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
         
         # Handle location
         loc = job.get("location", "")
-        
+        print(loc + "this is location")
         if not loc:
             # If no location, use description as fallback
             req["location"] = job.get("description", "")
@@ -121,22 +125,19 @@ async def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
             else:
                 # Need AI to parse location
                 req["location"] = loc
-        
         # If we need AI parsing (either for title or location)
         if req:
             ai_result = await Ai_parse_location(req)
-            
             # Handle location results from AI
             if ai_result.get("locations"):
                 # Assuming ai_result['locations'] is a list of objects with .city and .state
+                locations = [
+                f"{l.get('city', 'N/A')}, {l.get('state', 'N/A')}" for l in ai_result['locations']]
 
-                locations = [f"{l.get("city", "N/A") or "N/A"}, {l.get("state", "N/A") or "N/A"}" for l in ai_result['locations']]
                 location_data = [{"State": l.get("state", "N/A") or "N/A", "City": l.get("city", "N/A") or "N/A"} for l in ai_result["locations"]]
-                
                 # Cache the result
                 if loc:
                     location_mapper.add_location(loc, location_data)
-                
                 res['locations'] = locations
             
             # Handle category results from AI
