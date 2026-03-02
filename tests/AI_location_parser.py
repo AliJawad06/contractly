@@ -100,8 +100,8 @@ async def Ai_parse_location(parsable):
        req_field.append("yoe")
        req_input.append({"role": "system", "content": "extract the minimum total years of experience required for role mentioned in the description"})
        req_input.append({"role": "user", "content": yoe})
-
-       req_structure["required"] = yoe
+       req_structure["required"] = req_field
+       
 
 
 

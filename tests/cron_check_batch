@@ -1,0 +1,7 @@
+import json
+
+
+def getBatchId():
+    with open("batch_id.jsonl", "r") as r:
+        batch_id = json.loads(r)
+        print(batch_id.jsonl)

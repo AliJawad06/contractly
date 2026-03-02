@@ -144,6 +144,11 @@ async def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
             if ai_result.get("category"):
                 res['category'] = ai_result['category']
                 title_mapper.add_title(job_title, ai_result['category'])
+
+            if ai_result.get("yoe"):
+                res_yoe = ai_result['yoe']
+                res['yoe'] = res_yoe
+
         
         return res
         

@@ -47,7 +47,7 @@ combined
 doccano-env/
 jsonl/
 doccano-env/
-
+*.jsonl
 *.json
 !title_mapper.json
 !titles.json
