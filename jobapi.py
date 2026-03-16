@@ -10,7 +10,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from dateutil import parser
 from tests.findlastJob import findLast
-# Set up logging (using Code A format)
+
+# Set up logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
@@ -28,7 +29,7 @@ class CeipalJobScraper:
             'timeout': 30000,
             'delay': 2,
             'max_retries': 3,
-            'min_timestamp': 1761177600000  # Unix timestamp in milliseconds - stop scraping if job is older
+            'min_timestamp': 1761177600000
         }
         if options:
             self.options.update(options)
@@ -37,14 +38,21 @@ class CeipalJobScraper:
         self.browser = None
         self.page = None
         self.page_number = 1
-        self.should_stop_scraping = False  # Flag to stop scraping early
+        self.should_stop_scraping = False
 
     async def initialize(self):
-        """Initialize the browser and page"""
+        """Initialize the browser and page with optimized args"""
         playwright = await async_playwright().start()
         self.browser = await playwright.chromium.launch(
             headless=self.options['headless'],
-            args=['--no-sandbox', '--disable-setuid-sandbox']
+            args=[
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-gpu',
+                '--disable-dev-shm-usage',
+                '--disable-extensions',
+                '--disable-images',
+            ]
         )
         self.page = await self.browser.new_page()
         self.page.set_default_timeout(self.options['timeout'])
@@ -170,10 +178,10 @@ class CeipalJobScraper:
         """Check if a job is older than the minimum timestamp"""
         if self.options['min_timestamp'] is None:
             return False
-        
+
         if not isinstance(job_timestamp, (int, float)):
             return False
-        
+
         return job_timestamp < self.maxT
 
     async def scrape_job_details(self, base_url, job_basic_info):
@@ -278,43 +286,39 @@ class CeipalJobScraper:
         logger.info(f"Starting scraping for {self.company_name}: {self.base_url}")
         self.page_number = 1
         jobs_data = await self.scrape_jobs_list(self.base_url)
-        
+
         while jobs_data and jobs_data.get('results') and not self.should_stop_scraping:
             logger.info(f"Scraping page {self.page_number}...")
             try:
                 jobs_list = jobs_data['results']
                 logger.info(f"Processing {len(jobs_list)} jobs on page {self.page_number}")
-                
+
                 for i, job in enumerate(jobs_list, 1):
                     if self.should_stop_scraping:
                         logger.info(f"Stopping scraping for {self.company_name} - found old job")
                         break
-                    
+
                     logger.info(f"Processing job {i}/{len(jobs_list)}")
                     detailed_job = await self.scrape_job_details(self.base_url, job)
-                    
+
                     if detailed_job:
                         job_timestamp = detailed_job.get('posted', {}).get('date_posted')
-                        
-                        # Check if job is too old
-                        if int(job_timestamp) < findLast("/Users/aj/Downloads/DhikrUp/contractJobs/day/jobsapi_day.json"):
+
+                        if int(job_timestamp) < findLast("day/jobsapi_day.json"):
                             logger.info(f"Job {detailed_job.get('id')} is older than cutoff timestamp. Stopping scraping for {self.company_name}.")
                             self.should_stop_scraping = True
                             break
-                        
-                        # Job is recent enough, add it
+
                         self.all_jobs.append(detailed_job)
                         logger.info(f"Added job {detailed_job.get('id')} - posted at {job_timestamp}")
-                    
+
                     await self.go_back_to_jobs_list()
                     await asyncio.sleep(self.options['delay'])
-                
-                # If we should stop, don't go to next page
+
                 if self.should_stop_scraping:
                     logger.info(f"Early stop triggered for {self.company_name}. Total jobs scraped: {len(self.all_jobs)}")
                     break
-                
-                # Try to go to next page
+
                 next_page_number = await self.get_next_page_number()
                 if next_page_number:
                     logger.info(f"Moving to next page: {next_page_number}")
@@ -323,7 +327,7 @@ class CeipalJobScraper:
                 else:
                     logger.info("No more pages to scrape")
                     break
-                    
+
             except Exception as e:
                 logger.error(f"Error scraping page {self.page_number}: {e}")
                 break
@@ -374,9 +378,8 @@ def run_company_scraper(company_data, options=None):
         raise ValueError("company_data must be a tuple/list or dict")
 
     async def _scrape():
-
         max = 1762637911000
-        scraper = CeipalJobScraper(maxT=max,company_name=company, base_url=url, options=options or {})
+        scraper = CeipalJobScraper(maxT=max, company_name=company, base_url=url, options=options or {})
         try:
             jobs = await scraper.run()
             for j in jobs:
@@ -393,8 +396,8 @@ async def save_combined_json(all_job_details, label="combined", date_cutoff_days
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     date_suffix = f"_last_{date_cutoff_days}_days" if date_cutoff_days is not None else ""
     filename = f"all_companies_job_details{date_suffix}_{timestamp}.json"
-    Path("json/combined").mkdir(parents=True, exist_ok=True)
-    filepath = Path("json/combined") / filename
+    Path("json/jobsapi").mkdir(parents=True, exist_ok=True)
+    filepath = Path("json/jobsapi") / filename
     try:
         output = {
             'metadata': {
@@ -408,7 +411,7 @@ async def save_combined_json(all_job_details, label="combined", date_cutoff_days
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
 
-        with open("/Users/aj/Downloads/DhikrUp/contractJobs/day/jobsapi_day.json", 'w', encoding='utf-8') as f:
+        with open("day/jobsapi_day.json", 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
 
         logger.info(f"Saved {len(all_job_details)} total job details to {filepath}")
@@ -427,7 +430,6 @@ async def main_multithreaded(companies_data, max_workers: int = None, options: d
     max_workers = max_workers or min(1, len(companies_data))
     max_workers = min(max_workers, len(companies_data))
 
-    # Add min_timestamp to options if date_cutoff_timestamp is provided
     if options is None:
         options = {}
     if date_cutoff_timestamp:
@@ -462,19 +464,16 @@ async def main_multithreaded(companies_data, max_workers: int = None, options: d
 
 if __name__ == "__main__":
     companies = []
-    with open("/Users/aj/Downloads/DhikrUp/contractJobs/jacompanies.json", "r") as r:
+    with open("/contractly/jacompanies.json", "r") as r:
         companies = json.load(r)
 
     options = {
-        'headless': False,
+        'headless': True,
         'delay': 2,
         'timeout': 30000
     }
 
-    # 🔹 Stop scraping each company once a job older than this timestamp is found
-    # Example: Nov 1, 2024 00:00:00 UTC = 1730419200000
     DATE_CUTOFF_TIMESTAMP = 1730419200000
-
     MAX_WORKERS = None
 
     asyncio.run(main_multithreaded(

@@ -8,9 +8,9 @@ echo "================================"
 
 
 SCRIPTS=(
-    "/Users/aj/Downloads/DhikrUp/contractJobs/main.py"
-    "/Users/aj/Downloads/DhikrUp/contractJobs/jobapi.py"
-    "/Users/aj/Downloads/DhikrUp/contractJobs/tests/combine.py"
+    "main.py"
+    "jobapi.py"
+    "/tests/combine.py"
 )
 
 

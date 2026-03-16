@@ -11,9 +11,9 @@ async def combine_jsonl_files():
     and save to combined files
     """
     # File paths
-    jobsapi_path = "/Users/aj/Downloads/DhikrUp/contractJobs/day/jobsapi_day.json"
-    jobdiva_path = "/Users/aj/Downloads/DhikrUp/contractJobs/day/jobdiva_day.json"
-    combineday_path = "/Users/aj/Downloads/DhikrUp/contractJobs/day/day.json"
+    jobsapi_path = "/contractly/day/jobsapi_day.json"
+    jobdiva_path = "/contractly/day/jobdiva_day.json"
+    combineday_path = "/contractly/day/day.json"
     all_combined_path = "all_combined.json"
     all_clean_path = "all_clean_combined.json"
 
