@@ -1,0 +1,12 @@
+[0;1;32m●[0m rq-worker.service - RQ Worker
+     Loaded: loaded (]8;;file://ubuntu-s-2vcpu-2gb-nyc3-01/etc/systemd/system/rq-worker.service/etc/systemd/system/rq-worker.service]8;;; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
+     Active: [0;1;32mactive (running)[0m since Fri 2026-04-24 11:53:32 UTC; 583ms ago
+   Main PID: 1043314 (python3)
+      Tasks: 1 (limit: 2318)
+     Memory: 25.5M (peak: 25.5M)
+        CPU: 565ms
+     CGroup: /system.slice/rq-worker.service
+             └─[0;38;5;245m1043314 /root/contractly/venv/bin/python3 /root/contractly/worker.py[0m
+
+Apr 24 11:53:32 ubuntu-s-2vcpu-2gb-nyc3-01 systemd[1]: rq-worker.service: Scheduled restart job, restart counter is at 1.
+Apr 24 11:53:32 ubuntu-s-2vcpu-2gb-nyc3-01 systemd[1]: Started rq-worker.service - RQ Worker.

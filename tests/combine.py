@@ -1,32 +1,156 @@
-import json
+from typing import Dict, Any
+from AI_location_parser_batch import Ai_parse_location_batch
+from mappers import LocationMapper, TitleMapper
 import asyncio
-from dateutil import parser
-from bs4 import BeautifulSoup
-from location_parser import location_parser, save_mappers, get_mapper_stats
+import json
+from openai import OpenAI
+import time
+from location_parser import save_mappers, get_mapper_stats
+import re
+
+# Constants
+STATE_ABBREV_ARRAY = [
+    {'full_name': 'Alabama', 'abbreviation': 'AL'},
+    {'full_name': 'Alaska', 'abbreviation': 'AK'},
+    {'full_name': 'Arizona', 'abbreviation': 'AZ'},
+    {'full_name': 'Arkansas', 'abbreviation': 'AR'},
+    {'full_name': 'California', 'abbreviation': 'CA'},
+    {'full_name': 'Colorado', 'abbreviation': 'CO'},
+    {'full_name': 'Connecticut', 'abbreviation': 'CT'},
+    {'full_name': 'Delaware', 'abbreviation': 'DE'},
+    {'full_name': 'Florida', 'abbreviation': 'FL'},
+    {'full_name': 'Georgia', 'abbreviation': 'GA'},
+    {'full_name': 'Hawaii', 'abbreviation': 'HI'},
+    {'full_name': 'Idaho', 'abbreviation': 'ID'},
+    {'full_name': 'Illinois', 'abbreviation': 'IL'},
+    {'full_name': 'Indiana', 'abbreviation': 'IN'},
+    {'full_name': 'Iowa', 'abbreviation': 'IA'},
+    {'full_name': 'Kansas', 'abbreviation': 'KS'},
+    {'full_name': 'Kentucky', 'abbreviation': 'KY'},
+    {'full_name': 'Louisiana', 'abbreviation': 'LA'},
+    {'full_name': 'Maine', 'abbreviation': 'ME'},
+    {'full_name': 'Maryland', 'abbreviation': 'MD'},
+    {'full_name': 'Massachusetts', 'abbreviation': 'MA'},
+    {'full_name': 'Michigan', 'abbreviation': 'MI'},
+    {'full_name': 'Minnesota', 'abbreviation': 'MN'},
+    {'full_name': 'Mississippi', 'abbreviation': 'MS'},
+    {'full_name': 'Missouri', 'abbreviation': 'MO'},
+    {'full_name': 'Montana', 'abbreviation': 'MT'},
+    {'full_name': 'Nebraska', 'abbreviation': 'NE'},
+    {'full_name': 'Nevada', 'abbreviation': 'NV'},
+    {'full_name': 'New Hampshire', 'abbreviation': 'NH'},
+    {'full_name': 'New Jersey', 'abbreviation': 'NJ'},
+    {'full_name': 'New Mexico', 'abbreviation': 'NM'},
+    {'full_name': 'New York', 'abbreviation': 'NY'},
+    {'full_name': 'North Carolina', 'abbreviation': 'NC'},
+    {'full_name': 'North Dakota', 'abbreviation': 'ND'},
+    {'full_name': 'Ohio', 'abbreviation': 'OH'},
+    {'full_name': 'Oklahoma', 'abbreviation': 'OK'},
+    {'full_name': 'Oregon', 'abbreviation': 'OR'},
+    {'full_name': 'Pennsylvania', 'abbreviation': 'PA'},
+    {'full_name': 'Rhode Island', 'abbreviation': 'RI'},
+    {'full_name': 'South Carolina', 'abbreviation': 'SC'},
+    {'full_name': 'South Dakota', 'abbreviation': 'SD'},
+    {'full_name': 'Tennessee', 'abbreviation': 'TN'},
+    {'full_name': 'Texas', 'abbreviation': 'TX'},
+    {'full_name': 'Utah', 'abbreviation': 'UT'},
+    {'full_name': 'Vermont', 'abbreviation': 'VT'},
+    {'full_name': 'Virginia', 'abbreviation': 'VA'},
+    {'full_name': 'Washington', 'abbreviation': 'WA'},
+    {'full_name': 'West Virginia', 'abbreviation': 'WV'},
+    {'full_name': 'Wisconsin', 'abbreviation': 'WI'},
+    {'full_name': 'Wyoming', 'abbreviation': 'WY'},
+    {'full_name': 'District of Columbia', 'abbreviation': 'DC'},
+    {'full_name': 'Washington DC', 'abbreviation': 'DC'},
+    {'full_name': 'Washington, D.C.', 'abbreviation': 'DC'}
+]
+
+# Initialize mappers once at module level
+location_mapper = LocationMapper("newmap.json")
+title_mapper = TitleMapper("title_mapper.json")
 
 
-async def combine_jsonl_files():
+def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Parse job location and title, using cached mappings when available
+    
+    Args:
+        job: Job dictionary with 'title', 'location', 'description' keys
+        
+    Returns:
+        Dictionary with 'category' and/or 'locations' keys
+    """
+    try:
+        res = {}
+        req = {}
+        
+        print(job)
+        # Handle title/category mapping
+        yoe = job.get('experience')
+        if yoe == "N/A":
+            req['yoe'] = job.get('description')
+        job_title = job.get('title', "")
+        category = title_mapper.get_category(job_title)
+        if category:
+            res['category'] = category
+        else:
+            # Need to get category from AI
+            req['title'] = job_title
+        
+        # Handle location
+        loc = job.get('location', "")
+        print(loc + "this is location")
+        if not loc:
+            # If no location, use description as fallback
+            req['location'] = job.get('description', "")
+        else:
+            print(f"Processing location: {loc}")
+            
+            # Check cache first
+            cached_location = location_mapper.get_location(loc)
+            if cached_location:
+                res['locations'] = location_mapper.format_locations(cached_location)
+                return res
+            
+            # Try regex pattern for "ST, City" format
+            pattern = r'^([A-Z]{2}), {1,2}([A-Za-z\s]+)$'
+            if match := re.match(pattern, loc):
+                state = match.group(1)
+                city = match.group(2).strip()
+                location_data = [{"State": state, "City": city}]
+                location_mapper.add_location(loc, location_data)
+                res['locations'] = [f"{city}, {state}"]
+                # If we got location from regex and already have category, return early
+            else:
+                # Need AI to parse location
+                req['location'] = loc
+        # If we need AI parsing (either for title or location)
+        if req:
+            row = Ai_parse_location_batch(req)
+            print(req,"this is req")
+            return row
+        else: 
+            print(res, "This is res")
+
+    except Exception as e:
+            print(e)
+
+def combine_json_files():
     """
     Combine job data from multiple sources, parse locations and titles,
     and save to combined files
     """
     # File paths
-    jobsapi_path = "/contractly/day/jobsapi_day.json"
-    jobdiva_path = "/contractly/day/jobdiva_day.json"
-    combineday_path = "/contractly/day/day.json"
-    all_combined_path = "all_combined.json"
-    all_clean_path = "all_clean_combined.json"
+    jobsapi_path = "/root/contractly/day/jobsapi_day.json"
+    jobdiva_path = "/root/contractly/day/jobdiva_day.json"
+    interPath = "/root/contractly/day/day_intermediate.jsonl"
 
     japi_jobs = []
     diva_jobs = []
-    master_jobs = []
-    all_clean_jobs = []
-    
+    all_jobs = []
     
     try:
         # Read all input files
-        with open(all_clean_path, 'r', encoding='utf-8') as clean_file:
-            all_clean_jobs = json.load(clean_file)
         with open(jobsapi_path, 'r', encoding='utf-8') as japi_file:
             japi_data = json.load(japi_file)
             japi_jobs = japi_data.get("jobs", [])
@@ -34,122 +158,46 @@ async def combine_jsonl_files():
         with open(jobdiva_path, "r", encoding='utf-8') as diva_file:
             diva_data = json.load(diva_file)
             diva_jobs = diva_data.get("jobs", [])
-        
-        with open(all_combined_path, 'r', encoding='utf-8') as combined_file:
-            master_jobs = json.load(combined_file)
-        
-        print(f"Loaded {len(japi_jobs)} jobs from jobsapi")
-        print(f"Loaded {len(diva_jobs)} jobs from jobdiva")
-        
-        # Combine all jobs from both sources
+
         all_jobs = diva_jobs + japi_jobs
-        print(f"Total jobs to process: {len(all_jobs)}")
-        
-        # Process each job
-        clean_jobs = []
-        processed_count = 0
-        error_count = 0
-        
-        for i, job in enumerate(all_jobs, 1):
-            try:
-                # Parse location and get category
-                experience = ""
-                experience_data = job.get("experience", {})
-                if isinstance(experience_data, dict):
-                    experience = (
-                        experience_data.get("min_experience") or 
-                        experience_data.get("experience") or 
-                        "N/A"
-                    )
-                else:
-                    experience = "N/A"
-                
-                # Clean description HTML
-                description = job.get("description", "")
-                if description and description != "N/A":
-                    try:
-                        description = BeautifulSoup(description, "html.parser").get_text()
-                    except:
-                        pass  # Keep original if parsing fails
 
-                job["experience"] = experience
-                job["description"] = description
- 
-                res = await location_parser(job)
-                
-                category = res.get("category", "N/A")
-                locations = res.get("locations", [job.get("location", "N/A")])
-                
-                # Use first location if multiple returned
-                location = locations[0] if locations else job.get("location", "N/A")
-                
-                # Parse posted date
-                posted_date_str = job.get("posted", {}).get("date_postedStr", "")
-                try:
-                    posted_str = parser.parse(posted_date_str).date().isoformat()
-                except:
-                    posted_str = posted_date_str
-                
-                # Extract experience
+        with open(interPath, 'a', encoding='utf-8') as combined:
+            for job in all_jobs:
+               combined.write(json.dumps(job) + "\n")
 
-                
-                # Build clean job object
-                clean_job = {
-                    "title": job.get("title", "N/A"),
-                    "category": category,
-                    "location": location,
-                    "posted": job.get("posted", {}).get("date_posted", "N/A"),
-                    "url": job.get("apply") or job.get("url", "N/A"),
-                    "postedStr": posted_str,
-                    "startStr": job.get("start", {}).get("start_dateStr", "N/A"),
-                    "start": job.get("start", {}).get("start_date", "N/A"),
-                    "description": description,
-                    "experience": job.get("experience"),
-                    "remote": job.get("remote", "N/A")
-                }
-                
-                clean_jobs.append(clean_job)
-                all_clean_jobs.append(clean_job)
-                processed_count += 1
-                
-                if i % 10 == 0:
-                    print(f"Processed {i}/{len(all_jobs)} jobs...")
-                
-            except Exception as e:
-                error_count += 1
-                print(f"Error processing job {i}: {e}")
-                continue
         
-        print(f"\nProcessing complete:")
-        print(f"  Successfully processed: {processed_count}")
-        print(f"  Errors: {error_count}")
-        
-        # Save mapper data after all processing
+        output_path = "/root/contractly/day/day.jsonl"
+        combined_path = "/root/contractly/combined/all_combined.jsonl"
+        # You can modify the date cutoff here (default is 30 days)
+        with open('/root/contractly/day/day_intermediate.jsonl', 'r') as j, open("/root/contractly/batching_tests.jsonl", 'w') as w:
+            jobs = all_jobs[0:2]
+            for i, job in enumerate(jobs, 1):
+                row = {}
+                row["custom_id"] = job['url']
+                row["method"]="POST"
+                row["url"] = "/v1/responses"
+                body = location_parser(job)
+                print(body)
+                row["body"] = body
+                w.write(json.dumps(row) + "\n")
         save_mappers()
-        
-        # Print mapper statistics
-        stats = get_mapper_stats()
-        print(f"\nMapper statistics:")
-        print(f"  Locations cached: {stats['locations_cached']}")
-        print(f"  Titles cached: {stats['titles_cached']}")
-        
-        # Add new jobs to master list
-        master_jobs.extend(all_jobs)
-        
-        # Save combined raw jobs
-        with open(all_combined_path, 'w', encoding='utf-8') as combined_file:
-            json.dump(master_jobs, combined_file, indent=2, ensure_ascii=False)
-        print(f"\nSaved {len(master_jobs)} total jobs to {all_combined_path}")
-        
-        # Save clean daily jobs
-        with open(combineday_path, "w", encoding='utf-8') as day_file, open(all_clean_path, "w", encoding ='utf-8') as clean_file:
-            json.dump(clean_jobs, day_file, indent=2, ensure_ascii=False)
-            json.dump(all_clean_jobs, clean_file, indent=2, ensure_ascii=False)
+        client = OpenAI()
+        batch_input_file = client.files.create(
+        file=open("/root/contractly/batching_tests.jsonl", "rb"),
+            purpose="batch"
+            )
+        batch_input_file_id = batch_input_file.id
+        batch = client.batches.create(
+                    input_file_id=batch_input_file_id,
+                    endpoint="/v1/responses",
+                    completion_window="24h",
+                    metadata={
+                        "description": "nightly eval job"
+                    }
+                )
+        batch_id = batch.id
+               
 
-        print(f"Saved {len(clean_jobs)} clean jobs to {combineday_path}")
-        
-        print("\n✅ Combined all JSONL files successfully")
-        
     except FileNotFoundError as e:
         print(f"Error: File not found - {e}")
     except json.JSONDecodeError as e:
@@ -160,5 +208,6 @@ async def combine_jsonl_files():
         traceback.print_exc()
 
 
+
 if __name__ == "__main__":
-    asyncio.run(combine_jsonl_files())
+    combine_json_files()

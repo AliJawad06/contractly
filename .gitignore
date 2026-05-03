@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 
+venv/
 # Expo
 .expo/
 dist/
@@ -39,7 +40,6 @@ yarn-error.*
 app-example
 
 all_companies_job_details_last_15_days_20251003_175606.json
-*.jsonl
 
 combined
 
@@ -47,11 +47,11 @@ combined
 doccano-env/
 jsonl/
 doccano-env/
-*.jsonl
-*.json
 !title_mapper.json
 !titles.json
 !repeats.json
 !newmap.json
 !location_mapper.json
 
+venv/
+venv/

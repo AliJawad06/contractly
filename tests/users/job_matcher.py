@@ -18,6 +18,12 @@ from email.mime.multipart import MIMEMultipart
 from supabase import create_client, Client
 from typing import Dict, List, Any
 import re
+from dotenv import load_dotenv
+import os
+
+
+load_dotenv()
+
 
 
 # =============================================================================
@@ -25,8 +31,9 @@ import re
 # =============================================================================
 
 # Supabase credentials
-SUPABASE_URL = "https://cvfqdvugrnuvdmzpodks.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN2ZnFkdnVncm51dmRtenBvZGtzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI3NDkzMjgsImV4cCI6MjA3ODMyNTMyOH0.5S2--uDnOpX_QXWQfuYA_cVzHwhr3eaMpEYEU_ujNJI"
+
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
 # Gmail SMTP credentials - UPDATE THESE
 GMAIL_ADDRESS = "03jawad.ali@gmail.com"  # <-- UPDATE THIS
@@ -583,5 +590,3 @@ def main():
     print("=" * 60)
 
 
-if __name__ == "__main__":
-    main()
