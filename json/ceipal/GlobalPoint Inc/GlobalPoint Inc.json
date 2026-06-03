@@ -1,0 +1,331 @@
+{
+  "company": "GlobalPoint Inc",
+  "scrape_date": "2026-06-02T22:17:34.450476",
+  "total_jobs": 9,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3czASHUfNa1BQ2iNMVQhOmf0=",
+      "title": "Technical Support Analyst 4 ",
+      "location": "",
+      "experience": {
+        "experience": "1-6 years",
+        "min_experience": "1"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Title:  Technical Support Analyst 4 \nLocation: Petersburg VA 23803\nDuration: 6 Months\nIT Service Support- PC Refresh\n\nClient has determined that there is a need for regional IT Service Support that will also assist with PC Refresh throughout the Commonwealth. The position will report to the Office of Information Management’s IT Operations Center and will perform various tasks to help direct IT requests through the appropriate channels, communicate the IT needs of the regions, and will be the voice of their assigned region. The candidate will be responsible for scheduling refresh appointments and imaging, deploying, transferring data, installing apps and doing all hardware set-up and troubleshooting. It's critical that candidates have experience managing their own work and, ideally, scheduling refreshes/deployments directly with users.\nDaily Duties Includes but not limited to:\n\nDetermine the needs of the region for hardware, software, upcoming projects, and more.\nCommunicate needs of the region to the IT Operations Center.\nDemonstrate servant leadership through collaborative strategic and tactical planning to achieve holistic goals of the Operations Center.\nDirect users to the appropriate source of help based on needs.\nCoach staff through troubleshooting computer, hardware, phone, mobile phone, asset inventory, and software issues.\nAdvise users on how to use technology or what technology exists to meet their business needs or communicates those needs to the IT Operations Center for advice.\nProvides coordination and assistance with Asset Management, PC Refresh, Phone System Issues, Printer Refreshes, etc.\nEscalates any urgent issues and outages to the IT Operations Center, Information Security Office, and when necessary.\nActively tracks current and future initiatives, needs, issues, concerns, projects, and action items.\nProvides weekly reports on the status of operations and the above listed tracked activities to the IT Operations Center.\n\nCommunicates new technologies, opportunities, events, changes, policies, best practices and procedures to the assigned region.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/XBjhN_EAPYCX1uXZPrIVD1t6tHfgvKYsUZaC6c2LwDU",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3czASHUfNa1BQ2iNMVQhOmf0="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0e3FXiHXbXJmjt09wT_WBw=",
+      "title": "Sr. Azure Infrastructure Engineer",
+      "location": "",
+      "experience": {
+        "experience": "8-16 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Title: Senior Azure Infrastructure Engineer\nLocation: Mechanicsville, VA\nDuration: 1 Year\n \nClient seeking a Senior Azure Infrastructure Engineer to implement, configure, manage, and provide guidance on cloud infrastructure in Client's Azure environment. We are looking for someone who is truly passionate about implementing and maintaining a secure and stable Azure environment- someone who likes taking on challenges and seeing them through to the end, is comfortable working with/guiding others, and comfortable with providing guidance to management and upper leadership.\n\nRequirements:\n\nExperience providing guidance on the implementation of resources, networking, and security policy in Azure, and experience implementing, maintaining, and monitoring those resources.\nExperience with working in mission-critical enterprise environments, including overseeing backup & disaster recovery operations\nExperience planning & executing cloud migrations, and moving workloads from on-premises to the cloud.\nComfortable working in an environment that utilizes multiple frameworks/technologies, including .NET, Java, SQL, Oracle, Microsoft Dynamics, and more.\nExperience providing support and troubleshooting issues for production applications.\nExperience working with security tools such as Tenable to manage vulnerability remediation, etc.\nExperience with tools like Azure Monitor, Workbooks, and Alerts - to create meaningful monitoring dashboards & alerting for critical observability for the ops team\nExperience crafting disaster recovery (DR) plans to ensure minimal downtime and prevent data loss.\nStrong networking knowledge - including understanding OSI layer functionality and network protocols.\n\nNice-to-haves:\n\nMicrosoft-focused certifications, such as: Azure Administrator Associate, Azure Solutions Architect, etc.\nNetworking-focused certifications, such as: Network+, CCNA, etc.\n\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/_SpbJ0kJXSzlM7g2BdP6j7qn-AqTusaoXk3cK6ezRq0",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3c0e3FXiHXbXJmjt09wT_WBw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3czvC2mCOalkUUje_TKKzUIo=",
+      "title": "Business Analyst – Learning Management System (LMS) Implementation ",
+      "location": "",
+      "experience": {
+        "experience": "8-12 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "Title: Business Analyst – Learning Management System (LMS) Implementation \nLocation: Salem, OR\nDuration: Long Term\nWork Arrangement: [On-site / Remote]  \n \nPosition Summary \nWe are seeking an experienced Business Analyst (BA) to support the procurement and implementation of a new Learning Management System (LMS) for a public safety training institution. This role will play a critical part in ensuring the selected LMS integrates effectively with existing systems, supports operational workflows, and meets compliance and reporting requirements. \nThe BA will work closely with the project manager and stakeholders across training, operations, IT, and administration to analyze current processes, define future-state workflows, and translate business needs into clear, actionable requirements. \n \nKey Responsibilities \nStakeholder Engagement & Facilitation \nThe BA will facilitate discussions with instructors, administrators, IT personnel, compliance officers, and leadership to ensure all operational, training, and reporting needs are fully understood and captured. They will be responsible for the following activities: \n\nIdentify and engage stakeholders across departments including training, operations, IT, and compliance  \nLead workshops, interviews, and working sessions to gather input and build consensus  \nSurface and resolve conflicting requirements and priorities  \n\n \nThe BA will work with stakeholders to map current processes and design future-state workflows. They will identify gaps, recommend operational improvements and optimization opportunities. They will be responsible for the following activities: \nCurrent State Analysis \n\nDocument existing training processes, systems, and workflows  \nAnalyze current methods for course delivery, certification tracking, and compliance reporting  \nIdentify inefficiencies, risks, and opportunities for improvement  \n\n \nFuture State Design \n\nDefine desired future-state processes supported by the LMS  \nDevelop process maps, use cases, and user journeys  \nEnsure alignment with operational realities, including shift-based work environments and certification requirements  \n\n \nSystems & Integration Analysis \nThe BA will analyze existing systems, data flows, and interfaces to ensure smooth integration between the LMS and tools such as HR systems, registration platforms, certification tracking, and digital content repositories. They will work closely with IT and the project manager to translate business needs into technical specifications that guide vendor and internal development work. They will be responsible for the following activities: \n\nInventory systems that will interface with the LMS (e.g., HRIS, records systems, scheduling, identity management)  \nDefine data flows, system interactions, and integration points  \nCollaborate with technical teams to assess integration feasibility and constraints  \nIdentify system dependencies and risks  \n\n \nRequirements Management \nThe BA will document and validate business needs, functional requirements, and technical specifications for the LMS. They will be responsible for the following activities: \n\nElicit, analyze, and document business and technical requirements  \nDevelop functional and non-functional requirements, including security and compliance needs  \nMaintain a requirements traceability matrix  \nSupport prioritization and validation of requirements with stakeholders  \n\n \nProcurement & Vendor Evaluation Support \nThe BA will assist in preparing procurement documentation, evaluating vendor proposals, and ensuring requirements are accurately represented. Supports implementation planning, including readiness assessments, risk identification, and validation of vendor deliverables against agency needs. They will be responsible for the following activities: \n\nContribute to development of RFP documents and evaluation criteria  \nParticipate in vendor demonstrations and solution evaluations  \nAssist in scoring vendor responses based on organizational needs  \n\nThe BA will assist with assessing and preparing DPSST for LMS adoption. They will assist with organizational change management planning and help prepare for implementation. They will be responsible for the following activities: \n \nImpact Assessment & Change Support \n\nAssess the impact of the LMS on business processes, roles, and policies  \nIdentify organizational readiness considerations  \nCollaborate with change management and training teams as needed  \n\nImplementation Support \n\nProvide requirements clarification during system configuration and development  \nSupport user acceptance testing (UAT)  \nAssist in resolving gaps between business needs and system capabilities  \n\n \nRequired Qualifications \n\nBachelor’s degree in business administration, Information Systems, or related field (or equivalent experience)  \n3–7+ years of business analysis experience on complex system implementation projects  \nDemonstrated experience analyzing system integrations and data flows  \nExperience working in public sector, public safety, or highly regulated environments  \nStrong documentation and requirements management skills  \n\n \nPreferred Qualifications \n\nFamiliarity with compliance-driven training environments  \nExperience supporting RFP or procurement processes  \nKnowledge of identity management, or records management systems  \nCertification such as CBAP, CCBA, or PMI-PBA  \nExperience with LMS implementations or enterprise training systems \n\n \nKey Skills & Competencies \n\nStrong analytical and problem-solving skills  \nAbility to translate business needs into technical requirements  \nExcellent facilitation and stakeholder engagement skills  \nProcess modeling and documentation (e.g., workflow diagrams, use cases)  \nEffective communication across technical and non-technical audiences  \nAbility to work independently and manage multiple priorities  \n\n \nDeliverables \n\nCurrent-state and future-state process documentation  \nSystem and data flow diagrams  \nRequirements documentation and traceability matrix  \nIntegration inventory and analysis  \nGap analysis  \nTest plans \nBenefits Management Plan \n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/0CiCsd-D7Qkx1ny3HjKja3Qy3IxPogn4xZ1i42tPzhk",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3czvC2mCOalkUUje_TKKzUIo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1xchLoIoajDtc5pC1VBgt4=",
+      "title": "JIRA Guru/configurator",
+      "location": "",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "JIRA Guru/configurator and automation specialist for one of my projects.  \n \nlocation: NJ\nRemote: EST - acceptable\nStart: asap\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "47",
+      "remote": 1,
+      "assigned_recruiter": ", , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/eVtKAC-AcqBYG-FJzp1R-m1y1laRCQBRA67lW0o5ljU",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3c1xchLoIoajDtc5pC1VBgt4="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cy2ig0J8-Gzw54Fii7_n1EY=",
+      "title": "Senior Java Developer",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "REST API design, authentication, authorization, microservice, Spring Boot",
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Title: Senior Java Developer \nLocation: Indianapolis, IN\nDuration: 7 Months\nExperienced Java developer with expertise in Spring Boot, REST API development, batch processing, event-driven queue processing, MuleSoft integration, and document generation tools.\nComplete Description:\n\nResource is required with strong hands-on experience in Java, Spring Boot framework for backend development, and creation of scalable RESTful APIs.\nThe candidate must have practical exposure to designing and executing batch processes.\nImplementing event-driven and queue-based asynchronous processing using technologies such as AS400 Data Queues, Kafka, RabbitMQ, or AWS SQS. \nResource must have hands-on experience deploying Java-based applications to AWS applications and web server environments.\nExperience in writing PostgreSQL functions, stored procedures, and advanced SQL queries is a strong plus.\nExperience in MuleSoft integration flows, API-led connectivity.\nFamiliarity with Angular/React for frontend development is preferred.\nPreferred experience with document automation and template management tools such as SmartDocuments or Adobe Forms Development.\nCandidates will work with cross-functional teams to deliver enterprise-grade solutions.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/czyVuQHRczyUrmezk47ydiOpG8YN9JpjNvIVJqEjVqI",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3cy2ig0J8-Gzw54Fii7_n1EY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c22EKax1YlL9MQWznYwHCMM=",
+      "title": "Network Administrator 4",
+      "location": "",
+      "experience": {
+        "experience": "5-8 years",
+        "min_experience": "5"
+      },
+      "skills": "Help desk triage and escalation, VITA/COV, Cybersecurity, Microsoft Office, Networking, Website content",
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Title: Network Administrator 4\nLocation: New Kent, VA\nDuration: 7 Months\n\nAbout the role\n\nGeneral IT knowledge across networking, systems, web, and cybersecurity — enough to speak the language and triage issues\nExperience coordinating or managing IT vendors or contractors\nComfortable serving as the bridge between non-technical agency staff and technical contractors\nAbility to track open tickets, follow up on deliverables, and escalate as needed\nExperience in a small office or government environment preferred\nFamiliarity with Commonwealth of Virginia IT standards (VITA) a plus\n\nTechnical Skills (Required):\n\nIT vendor and contractor management\nGeneral networking and systems knowledge (awareness level)\nCybersecurity awareness and VITA/COV compliance coordination\nWebsite content coordination (not development)\nIT asset and software license tracking\nHelp desk triage and escalation\nProject coordination and ticket/task management\nMicrosoft Office / productivity tools\n\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/dKEp1boTRjBqcrpI8NprlepL5-uC2Sd4YFgTpVjsrog",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3c22EKax1YlL9MQWznYwHCMM="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4vUmPXr_Z_KfIiCqGhaMpI=",
+      "title": "Databricks Developer ",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": "Data bricks",
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Databricks Developer \n\nLocation – New Brunswick , NJ\nDuration: 6 Months+\nSenior Data Engineer to lead the design, development, and optimization of data solutions on Azure Databricks\n\nLead the design and development of end-to-end data pipelines on Azure, leveraging Databricks, Azure Data Lake, and ADLS Gen 2.\nImplement scalable ETL/ELT pipelines for structured, semi-structured, APIs, and unstructured data.\nCollaborate with Data Scientists, Business Analysts, and other stakeholders to translate business requirements into robust data solutions.\nOptimize data workflows for performance, reliability, and cost-efficiency in cloud environments.\nEstablish and enforce data quality, governance, and validation standards.\nProvide guidance on data modeling, schema design, and metadata management to support analytics and AI workloads.\nMonitor and troubleshoot production data pipelines and recommend performance improvements.\nEvaluate emerging Azure and Databricks technologies and propose enhancements to our data architecture.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": ", , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/eUs_4g65zacdolT5YGH6u9UrRCgSBvdvOpkDrXoB9_Q",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3c4vUmPXr_Z_KfIiCqGhaMpI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c9fGBF5PV8Q70chticN72OU=",
+      "title": "Business Analyst (Procurement Operations) ",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": "procurement",
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Business Analyst (Procurement Operations) \nLong term contract\nAtlanta GA \nThe Georgia Department of Transportation (GDOT) is seeking a highly analytical Business Analyst to support operational contracting within the procurement department. This role focuses on mastering, managing, and optimizing our existing procurement infrastructure. The BA will leverage M365 systems to maintain high-efficiency tools and processes, transforming raw data into actionable insights for strategic sourcing.\nKey Responsibilities\n\nSystem Management: Own, maintain, and maximize the efficiency of existing procurement tools.\nData Analytics: Analyze procurement data to identify trends and support strategic sourcing.\nProcess Optimization: Refine existing workflows using M365 systems to increase productivity.\nIndependent Execution: Manage analytical projects from start to finish with minimal supervision. \n\nRequired Qualifications\n\nAnalytical Skills: Strong critical thinking and advanced data-driven problem-solving abilities.\nTechnical Agility: Proven ability to quickly learn, adapt to, and manage unfamiliar software systems.\nM365 Expertise: Intermediate knowledge of SharePoint, Excel, and the Power Platform (Power BI, Power Apps, or Power Automate).\nWork Style: Self-motivated mindset with a proven track record of working independently.\n\nPreferred Qualifications\n\nCertifications: Microsoft certification in SharePoint or Power Platform.\nExperience: Background in procurement or supply chain operations is a plus, but not required.\n\nWork Schedule\n\nHybrid: Candidates must be available to work onsite 1–2 days per week at the GDOT office.\n\n \n\n\n\n\n\n\n\n\r\n \n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "30",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/9sH0nUIuSxmVlLvtfcTJrA0wy43O3Tuldm9Bwin2-wY",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3c9fGBF5PV8Q70chticN72OU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cwgNN8_NtYPImEiCtdO1RnY=",
+      "title": "Data Scientist",
+      "location": "",
+      "experience": {
+        "experience": "12-15 years",
+        "min_experience": "12"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Data Scientist \nLocation: Remote Should be okay but ideally I would like him to be Local in NY/NJ\nDuration: 6 Months+\nRole Summary\nA strategic Data Scientist to drive data-informed investment and development decisions across Tishman Resi’s  multifamily and mixed-use portfolio. This role will leverage advanced analytics to identify high-growth markets, understand renter behavior, and optimize asset performance.\nKey Impact Areas\n\nMarket Intelligence: Analyze demographic, economic, and migration trends to identify attractive submarkets and inform capital deployment.\nTenant Insights: Model tenant spend patterns, preferences, and price sensitivity to guide product design and positioning.\nInvestment Strategy: Support acquisitions and development with predictive analytics and data-driven underwriting inputs.\nPortfolio Optimization: Improve occupancy, rent growth, and retention through advanced pricing and segmentation models.\n\nCapabilities\n\nStrong expertise in predictive analytics, statistical modeling, and data visualization\nExperience integrating demographic, geospatial, and consumer datasets\nAbility to translate complex analysis into clear, actionable investment insights\n\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ILfeL2z8U-6JweoVN_1RdaLSinbyuu_2q_Ds6uXiE6Q",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=ejkzQUtRZ3JuN1V2M1NOa00xam04Zz09&job_id=z5G7h3l6a1kMvyS65NP3cwgNN8_NtYPImEiCtdO1RnY="
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 32345219,
+    "title": "HVAC Program Director",
+    "location": "IN, Indianapolis",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/21/2026",
+      "date_posted": 1779390958000
+    },
+    "start": {
+      "start_dateStr": "5/21/2026",
+      "start_date": 1779336000000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": "$36",
+    "remote": 0,
+    "description": "<em><strong><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Alto Health Care Staffing is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or </span></span></strong></em><em><strong><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">geographical </span></span></strong></em><em><strong><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">laws.</span></span></strong></em>",
+    "recruiter": [
+      null,
+      null,
+      null
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28&jobid=30425507&source=google&SearchString=#/jobs/32345219",
+    "time_scraped": 1779751630633,
+    "source_company": "rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28",
+    "source_url": "https://www1.jobdiva.com/portal/?a=rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28&jobid=30425507&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32345192,
+    "title": "HVAC Instructor",
+    "location": "IN, Indianapolis",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/21/2026",
+      "date_posted": 1779390802000
+    },
+    "start": {
+      "start_dateStr": "5/21/2026",
+      "start_date": 1779336000000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": "$31",
+    "remote": 0,
+    "description": "<em> <strong> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> Alto Health Care Staffing is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or </span> </span> </strong></em> <em> <strong> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> geographical </span> </span> </strong></em> <em> <strong> <span style=\"font-family:Arial,Helvetica,sans-serif;\"> <span style=\"font-size:11pt;\"> laws.</span> </span> </strong></em> ",
+    "recruiter": [
+      null,
+      null,
+      null
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28&jobid=30425507&source=google&SearchString=#/jobs/32345192",
+    "time_scraped": 1779751630983,
+    "source_company": "rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28",
+    "source_url": "https://www1.jobdiva.com/portal/?a=rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28&jobid=30425507&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32333504,
+    "title": "OB Instructor ",
+    "location": "OH, Cincinnati",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779281612000
+    },
+    "start": {
+      "start_dateStr": "5/20/2026",
+      "start_date": 1779249600000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": "$38-$42",
+    "remote": 0,
+    "description": "<em><strong><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">Alto Health Care Staffing is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or </span></span></strong></em><em><strong><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">geographical </span></span></strong></em><em><strong><span style=\"font-family:Arial,Helvetica,sans-serif;\"><span style=\"font-size:11pt;\">laws.</span></span></strong></em>",
+    "recruiter": [
+      null,
+      null,
+      null
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28&jobid=30425507&source=google&SearchString=#/jobs/32333504",
+    "time_scraped": 1779751630984,
+    "source_company": "rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28",
+    "source_url": "https://www1.jobdiva.com/portal/?a=rmjdnwuiu8wchb741sqbtaareko9aw099etumspiosfgf974k9kt6wl3wuq1nf28&jobid=30425507&source=google",
+    "date_cutoff_days": 15
+  }
+]

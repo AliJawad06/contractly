@@ -1,0 +1,200 @@
+[
+  {
+    "id": 28269497,
+    "title": "Finance Manager",
+    "location": "FL, Celebration",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/22/2026",
+      "date_posted": 1779459301000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Description:</span> </span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> This role is in support of enterprise forecasting solution that aggregates data from multiple Front of House (FOH) systems. Data is enriched in Snowflake and transferred to other systems for planning and analysis. The Financial Service Team oversees an independent data process audit, ensuring documented transformation rules match other system data for specific metrics and time periods.</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> This contractor role focuses on executing hands-on validation, including ingesting source extracts, rebuilding logic using <strong> Alteryx </strong>and/or AI-assisted tools (like <strong> Cursor AI</strong> and <span style=\"color:black;\"> Snowflake Cortex AI</span> </span> ), comparing results from source to destination system, and documenting variances for remediation by Technical Teams. Root-cause analysis is handled by Technology partners after variances are reported. The role covers approximately 16 FOH systems and over 1,000 metrics, with assignments managed by Finance.</span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Contractors will work in a matrixed environment with Finance leads and Technology teams. </span> </span> <br /> \r\n <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Key responsibilities include building repeatable workflows, performing independent audits, leveraging AI toolsets for analysis, documenting variances, participating in re-test cycles, and ensuring consistent output standards. Attention to detail, reproducible workflows, and strong written communication are essential.</span> </span> <br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Basic Qualifications</span> </span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 3&plus; years' experience in data analysis, ETL, or financial/operational reporting, especially data reconciliation or audit validation.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Hands-on proficiency with Alteryx Designer (or equivalent ETL/data prep tool) and/or experience with AI-assisted analytics tools for workflow and QA on large datasets.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Practical experience with AI toolsets (Cursor AI, Snowflake Cortex AI) for workflow development, SQL/analysis, and variance documentation, with rigorous review of AI outputs.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Ability to work from written mapping specifications and business rules.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Strong SQL or query skills to validate extracts and work with database-sourced data.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Excellent written communication, attention to detail, and ability to explain discrepancies clearly.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Comfort with fast-paced timelines and multiple source systems.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Ability to work U.S. business hours and collaborate with Orlando-area stakeholders.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Tooling & Environment</span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Primary: Alteryx Designer, AI-assisted tools (Cursor AI, Snowflake Cortex AI), Microsoft Excel, file extracts, and mapping information from Tech.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Secondary: Smart View/EPM exports, possible SQL against approved sources.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Deliverables must be maintainable, reproducible, and aligned to client data security standards.</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Preferred Qualifications               </span> </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Experience with Oracle EPM Cloud, Smart View, or Excel-based planning/reporting extracts.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Familiarity with Snowflake, cloud data warehouses, and finance/hospitality metrics.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Prior work in regulated or audit-oriented data validation (SOX-adjacent, internal audit support, migration validation).</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Experience with enterprise data prep platforms (Dataiku, Alteryx) and AI-assisted workflows.</span> </span> </li> \r\n\t<li> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Alteryx Designer Core or Advanced certification (or equivalent portfolio).</span> </span> </li> \r\n</ul> \r\n <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Education</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> • Bachelor's degree in Analytics, Information Systems, Finance, Computer Science, or related field, or equivalent combination of education and professional experience.</span> </span> <br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<span style=\"font-size:8pt\"> <em> **Talteam Inc. is an Equal Opportunity Employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.**</em>   </span> ",
+    "recruiter": [
+      "Nikhil Thoutam",
+      "nikhil.thoutam@talteam.com",
+      "7036655599"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google&SearchString=#/jobs/28269497",
+    "time_scraped": 1779745539278,
+    "source_company": "aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm",
+    "source_url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28257484,
+    "title": "Program & Portfolio Management - Cons, Business Process Mgmt",
+    "location": "MD, Columbia",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779303934000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "PURPOSE:<br /> \r\nThis position will play a key role in delivering on all aspects of enterprise wide, cross functional process management initiatives including developing process architecture and hierarchy, process transformation, process automation and reengineering. The incumbent will function as a champion of process improvement methodologies and implementation throughout the organization. This individual will help drive the measurement of business effectiveness, research business processes and practices and analyze process data to develop and implement sustainable, repeatable and quantifiable operational and strategic process improvement. This individual will be part of Provider Business System team leadership that will drive process improvement initiatives and bring efficiency, effectiveness and a culture of continuous improvement to the department.<br /> \r\n<br /> \r\nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.<br /> \r\n<br /> \r\nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.<br /> \r\nESSENTIAL FUNCTIONS:<br /> \r\n40% Develop industry standard best practices for process management, innovation and continuous improvement across the enterprise<br /> \r\n<br /> \r\n25% Develop framework to align process architecture with strategic business capabilities and govern linkages. Ensures that policies and procedures align with corporate vision<br /> \r\n<br /> \r\n20% Develop core program framework, governance structure, tools and templates for delivering cross functional process improvement initiatives<br /> \r\n<br /> \r\n15% Manage resources (change agents and champions) within a matrix environment to lead process improvement initiatives across the enterprise. Engage in training activities with change agents and champions to develop this capability and skill set across the enterprise.<br /> \r\n<br /> \r\nQualifications<br /> \r\nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable<br /> \r\naccommodations may be made to enable individuals with disabilities to perform the essential functions.<br /> \r\n<br /> \r\nEducation Level: Bachelor's Degree<br /> \r\n<br /> \r\nEducation Details: Business Management or related field<br /> \r\n<br /> \r\nExperience: 10 years relevant business process specialization (i.e. business process management, consulting or other applicable business process transformation experience).<br /> \r\n<br /> \r\nIn Lieu of Education<br /> \r\nIn lieu of a Bachelor's degree, an additional 4 years of relevant work experience is required in addition to the required work experience.<br /> \r\n<br /> \r\nPreferred Qualifications<br /> \r\nKnowledge, Skills and Abilities (KSAs)<br /> \r\nSkill in analyzing and organizing technical data, Expert<br /> \r\nProficient in Microsoft Office programs., Advanced<br /> \r\nKnowledge of web based applications and documentation tools., Expert<br /> \r\nExcellent communication skills both written and verbal., Expert<br /> \r\n<br /> \r\nThe incumbent is required to immediately disclose any debarment, exclusion, or other event that makes them ineligible to perform work directly or indirectly on Federal health care programs. Must be able to effectively work in a fast-paced environment with frequently changing priorities, deadlines, and workloads that can be variable for long periods of time. Must be able to meet established deadlines and handle multiple customer service demands from internal and external customers, within set expectations for service excellence. Must be able to effectively communicate and provide positive customer service to every internal and external customer, including customers who may be demanding or otherwise challenging.<br /> \r\n<br /> \r\nLicenses/Certifications<br /> \r\nCertified in Business Analysis -PMI Upon Hire Pref<br /> \r\nCSSBB - Six Sigma Black Belt BPMI Certification Pref<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<span style=\"font-size:8pt\"> <em> **Talteam Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.**</em>  </span> ",
+    "recruiter": [
+      "Tarun Puduru",
+      "Tarun.Puduru@talteam.com",
+      "7036655599"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google&SearchString=#/jobs/28257484",
+    "time_scraped": 1779745539325,
+    "source_company": "aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm",
+    "source_url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28257423,
+    "title": "Data Intelligence - Engineer, Data Associate",
+    "location": "MD, Columbia",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779303708000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "ROLE: Understands data needs and advise company on technological resources. Partners with senior level team members to aggregate and analyze various data sets to provide actionable insight. Develop reports, dashboards, and tools for business-users. Develop technical solutions to improve access to data and data usage. Develops and executes ETL code and ensures that the data loading processes are reliable and data quality remains high.<br /> \r\n<br /> \r\nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.<br /> \r\n<br /> \r\nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.<br /> \r\n<br /> \r\nESSENTIAL FUNCTIONS:<br /> \r\nAnalyzes and validates existing routines and communicates impacts. Assists with data transformation, manipulation, and presentation to users.<br /> \r\n<br /> \r\nWorks with Business Analysts, Business Intelligence Developers, Infrastructure Architects, and key business users to review, design, and develop data models and ETL processes.<br /> \r\n<br /> \r\nSupports the Software Engineering team with data analysis and validation with extensive SQL queries.<br /> \r\n<br /> \r\nWrites and executes ETL code, primarily complex SQL stored procedures, but with a strong ability to leverage other technologies.<br /> \r\n<br /> \r\nPartner with senior team members on the design, configuration and implementation of Data Integration Framework.<br /> \r\n<br /> \r\nQualifications<br /> \r\nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable<br /> \r\naccommodations may be made to enable individuals with disabilities to perform the essential functions.<br /> \r\n<br /> \r\nEducation Level: Bachelor's Degree<br /> \r\n<br /> \r\nEducation Details: Information Technology or Computer Science or Engineering<br /> \r\n<br /> \r\nIn Lieu of Education<br /> \r\nIn lieu of a Bachelor's degree, an additional 4 years of relevant work experience is required in addition to the required work experience.<br /> \r\n<br /> \r\nPreferred Qualifications<br /> \r\nKnowledge, Skills and Abilities (KSAs)<br /> \r\nKnowledge and understanding of at least one programming language (i.e., SQL, NoSQL, Python)., Proficient<br /> \r\nKnowledge and understanding of data exchange formats., Proficient<br /> \r\nKnowledge and understanding of database design and implementation concepts., Proficient<br /> \r\nKnowledge and understanding of data movement concepts., Proficient<br /> \r\nAbility to recognize, analyze, and solve a variety of problems., Proficient<br /> \r\nExcellent communication skills both written and verbal., Proficient<br /> \r\n<br /> \r\nAdditional Skills:    Facets system knowledge, data warehouse knowledge<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<span style=\"font-size:8pt\"> <em> **Talteam Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.**</em>  </span> ",
+    "recruiter": [
+      "Sirisha Chitikena",
+      "sirisha.chitikena@talteam.com",
+      "7036655599"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google&SearchString=#/jobs/28257423",
+    "time_scraped": 1779745539324,
+    "source_company": "aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm",
+    "source_url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28257369,
+    "title": "Data Intelligence - Consultant, Data Analysis",
+    "location": "MD, Columbia",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779303386000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "The Data Analysis Consultant leads the creation of cutting-edge analytic tools to drive better and faster decision making within the organization and provides critical support for key corporate programs, Medicare Advantage Stars and Risk Adjustment programs as it relates to provider data, provider to claims process.<br />  \r\n<br />  \r\nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.<br />  \r\n<br />  \r\nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.<br />  \r\n<br />  \r\nESSENTIAL FUNCTIONS:<br />  \r\nSupports enterprise Stars and Risk adjustment strategy through collaboration with analysts, healthcare policy makers, and strategy leaders throughout the company to identify trends and opportunities across the Medicare and Medicaid healthcare landscape. Consults with business leaders, IT partners, and product owners to facilitate product development and guide Stars and Risk Adjustment priorities through insightful analytics.<br />  \r\n<br />  \r\nIdentify and quantify key drivers for the Risk Adjustment and Quality/Stars programs, investigate areas of opportunity, evaluate effectiveness and make recommendations. Apply business knowledge to Analytics projects and provide value-added insights to impact business outcomes, working cooperatively with various internal and external partners. Using the application of sophisticated analytical capabilities, develops and maintains visualizations to support all business divisions across all levels. Develop and maintain scheduled and ad hoc reports for Risk Adjustment and Quality in response to business needs given tight deadlines, minimal direction, and shifting priorities.<br />  \r\n<br />  \r\nProvide on-going tracking and monitoring of application performance and recommend improvements to methods and algorithms. Work closely with clients, data stewards, and other business and technology leaders to frame problem definition and potential solutions. Required to stay current with Government Programs requirements and directives including those specific to Medicare and Medicaid and update all their reporting and analytics accordingly. Work with external vendors and governmental agencies as required. Excellent organizational skills and ability to set priorities and handle multiple projects concurrently.<br />  \r\n<br />  \r\nQualifications<br />  \r\nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable<br />  \r\naccommodations may be made to enable individuals with disabilities to perform the essential functions.<br />  \r\n<br />  \r\nEducation Level: Bachelor's Degree<br />  \r\n<br />  \r\nEducation Details: Data Science, Mathematics, Computer Science, Statistics, or a closely related field<br />  \r\n<br />  \r\nExperience: 10 years experience in data science methodologies, data analysis, modeling and reporting<br />  \r\n<br />  \r\nIn Lieu of Education<br />  \r\nIn lieu of a Bachelor's degree, an additional 4 years of relevant work experience is required in addition to the required work experience.<br />  \r\n<br />  \r\nPreferred Qualifications<br />  \r\nMasters or Phd in disciplines identified above<br />  \r\nExperience working with Azure Cloud native programs<br />  \r\nAgile software development experience<br />  \r\nExperience with large data sets and distributed computing (Hive/Hadoop) a plus<br />  \r\n<br />  \r\nKnowledge, Skills and Abilities (KSAs)<br />  \r\nProgramming experience with R, SQL, SAS, Python or similar stack, Expert<br />  \r\nProficiency at transforming data, data classification and translations, as well as resolving data quality and data cleansing challenges, Proficient<br />  \r\nBusiness knowledge of government programs (Medicare Advantage and Medicaid) healthcare data and systems, Advanced<br />  \r\nSophisticated analytical capabilities and the development and maintenance of visualizations to support all the business divisions across all level, Advanced<br />  \r\nIntermediate design work and/or use of relational databases including experience working with dimensional modeling, star schemas and time-series data, Advanced<br />  \r\nDemonstrated proficiency with visualization tools such as Power BI Service and Tableau, Proficient<br />  \r\nExperience working with unstructured data such as social determinants of heath, electronic medical records, clinical data, or similar, Advanced<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<br />  \r\n<span style=\"font-size:8pt\">  <em>  **Talteam Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.**</em>   </span>  ",
+    "recruiter": [
+      "Alekya Boda",
+      "alekya.boda@talteam.com",
+      "7036655599"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google&SearchString=#/jobs/28257369",
+    "time_scraped": 1779745548848,
+    "source_company": "aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm",
+    "source_url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28257330,
+    "title": "Data Intelligence - Data Scientist Ld",
+    "location": "MD, Columbia",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779303068000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "ROLE: Leads proliferation of machine learning and artificial intelligence throughout the enterprise. Identifies and solves business problems by using various numerical techniques, algorithms, and models in statistical modeling, machine learning, operations research, and data mining. Uses advanced analytical capabilities to support data science initiatives. Communicates across product teams and with customers and educates on artificial intelligence, machine learning, and statistical models. Leads interactions between analytics, business units and other departments.<br /> \r\n<br /> \r\nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.<br /> \r\n<br /> \r\nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.<br /> \r\n<br /> \r\nESSENTIAL FUNCTIONS:<br /> \r\nLeads all data mining and extraction activities and applies algorithms to derive insights.<br /> \r\nSynthesizes analytical findings for consumption by the teams and senior executives.<br /> \r\nLeads proliferation of machine learning and artificial intelligence solutions.<br /> \r\nApplies artificial intelligence techniques to achieve concrete business goals while managing limited resources and constraints around data.<br /> \r\nMentors and develops junior data scientists for advanced data analysis.<br /> \r\nTranslates business priorities and creates data science deliverables.<br /> \r\nLeads implementation of ML/AI/DS best practices for new data products and builds robust and scalable software.<br /> \r\n<br /> \r\nQualifications<br /> \r\nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable<br /> \r\naccommodations may be made to enable individuals with disabilities to perform the essential functions.<br /> \r\n<br /> \r\nEducation Level: Bachelor's Degree<br /> \r\n<br /> \r\nEducation Details: Statistics, Mathematics, Computer Science or related field<br /> \r\n<br /> \r\nExperience: 8 years of relevant work experience.<br /> \r\n<br /> \r\nIn Lieu of Education<br /> \r\nIn lieu of a Bachelor's degree, an additional 4 years of relevant work experience is required in addition to the required work experience.<br /> \r\n<br /> \r\nPreferred Qualifications<br /> \r\nKnowledge, Skills and Abilities (KSAs)<br /> \r\nAbility to communicate effectively and document objectives and procedures., Expert<br /> \r\nAbility to leverage a wide variety of data science tools and frameworks., Expert<br /> \r\nAbility to support data exploration and data analysis tasks in support of analytics objectives., Expert<br /> \r\nKnowledge in model evaluation, tuning and performance, operationalization, and scalability of scientific techniques., Expert<br /> \r\nProficiency in statistical modeling applications., Expert<br /> \r\nProficiency in advanced SQL in multiple syntaxes., Expert<br /> \r\n<br /> \r\nAdditional Skills: Salesforce experience is required<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<br /> \r\n<span style=\"font-size:8pt\"> <em> **Talteam Inc. is an Equal Opportunity Employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.**</em>   </span> ",
+    "recruiter": [
+      "Tarun Puduru",
+      "Tarun.Puduru@talteam.com",
+      "7036655599"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google&SearchString=#/jobs/28257330",
+    "time_scraped": 1779745548972,
+    "source_company": "aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm",
+    "source_url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28235830,
+    "title": "Health Services - Coord, Utilization Mgmt I",
+    "location": "MD, Baltimore",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/15/2026",
+      "date_posted": 1778853819000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "ROLE: Supports the Utilization Management clinical teams by assisting with non-clinical administrative tasks and responsibilities related to pre-service, utilization review, care coordination and quality of care.<br />    \r\n<br />    \r\nESSENTIAL FUNCTIONS:<br />    \r\nPerforms member or provider related administrative support which may include benefit verification, authorization creation and management, claims inquiries and case documentation.<br />    \r\n<br />    \r\nReviews authorization requests for initial determination and/or triages for clinical review and resolution.<br />    \r\n<br />    \r\nProvides general support and coordination services for the department including but not limited to answering and responding to telephone calls, taking messages, letters and correspondence, researching information and assisting in solving problems.<br />    \r\n<br />    \r\nAssists with reporting, data tracking, gathering, organization and dissemination of information such as Continuity of Care process and tracking of Peer to Peer reviews.<br />    \r\n<br />    \r\nQualifications<br />    \r\nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable<br />    \r\naccommodations may be made to enable individuals with disabilities to perform the essential functions.<br />    \r\n<br />    \r\nEducation Level: High School Diploma<br />    \r\nExperience: 3 years experience in health care claims/service areas or office support.<br />    \r\n<br />    \r\nPreferred Qualifications<br />    \r\nTwo years' experience in health care/managed care setting or previous work experience within division<br />    \r\nKnowledge of CPT and ICD-10 coding.<br />    \r\n<br />    \r\nKnowledge, Skills and Abilities (KSAs)<br />    \r\nAbility to effectively participate in a multi-disciplinary team including internal and external participants., Proficient<br />    \r\nExcellent communication, organizational and customer service skills. , Proficient<br />    \r\nKnowledge of basic medical terminology and concepts used in managed care., Proficient<br />    \r\nKnowledge of standardized processes and procedures for evaluating medical support operations business practices., Proficient<br />    \r\nExcellent independent judgment and decision-making skills, consistently demonstrating tact and diplomacy. , Proficient<br />    \r\nAbility to pay attention to the minute details of a project or task, Proficient<br />    \r\nExperienced in the use of web-based technology and Microsoft Office applications such as Word, Excel, and Power Point, Proficient<br />    \r\n<br />    \r\nTop 5 Skills –<br />    \r\nCommunication, data entry, medical terminology, medical knowledge, ability to multi-task<br />    \r\n<br />    \r\n<br />    \r\n<br />    \r\n<br />    \r\n<br />    \r\n<span style=\"font-size:8pt\">    <em>    **Talteam Inc. is an Equal Opportunity Employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.**</em>      </span>    ",
+    "recruiter": [
+      "Sirisha Chitikena",
+      "sirisha.chitikena@talteam.com",
+      "7036655599"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google&SearchString=#/jobs/28235830",
+    "time_scraped": 1779745548563,
+    "source_company": "aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm",
+    "source_url": "https://www2.jobdiva.com/portal/?a=aujdnwgyurdf0l9j4t3nm075v780gf042f2g9fgewsio6peiv6vxgdqopa0m00qm&jobid=26272168&source=google",
+    "date_cutoff_days": 15
+  }
+]

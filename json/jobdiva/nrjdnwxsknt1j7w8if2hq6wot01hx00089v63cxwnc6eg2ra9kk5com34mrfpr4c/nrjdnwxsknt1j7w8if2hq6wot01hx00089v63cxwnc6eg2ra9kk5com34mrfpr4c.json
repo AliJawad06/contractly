@@ -1,0 +1,200 @@
+[
+  {
+    "id": 32353273,
+    "title": "A Job That Won't Have an Error",
+    "location": "AS, nyc",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/23/2026",
+      "date_posted": 1779585779000
+    },
+    "start": {
+      "start_dateStr": "5/23/2026",
+      "start_date": 1779508800000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "\n<h3>Summary:</h3>\n<p><strong>Work Mode:</strong> [Remote / On-site / Hybrid – specify]</p>\n<p><strong>Job Type:</strong> Full-time</p>\n<p><strong>Experience Level:</strong> Mid to Senior Level</p>\n\n<h3>Responsibilities:</h3>\n<ul>\n  <li>Design and implement software solutions that meet functional and non-functional requirements</li>\n  <li>Write clean, maintainable, and well-documented code</li>\n  <li>Participate in all phases of the software development lifecycle, from planning to deployment</li>\n  <li>Collaborate with other engineers, product managers, and designers to deliver high-quality features</li>\n  <li>Conduct code reviews and provide constructive feedback</li>\n  <li>Troubleshoot, debug, and upgrade existing software</li>\n  <li>Optimize application performance and scalability</li>\n  <li>Contribute to architecture and design discussions</li>\n  <li>Mentor junior developers and support technical growth within the team</li>\n</ul>\n\n<h3>Requirements:</h3>\n<ul>\n  <li>5 years of professional software development experience</li>\n  <li>Proficiency in one or more programming languages (e.g., Java, Python, C#, JavaScript/TypeScript, Go)</li>\n  <li>Experience building and consuming RESTful APIs and/or working with microservices architecture</li>\n  <li>Strong understanding of computer science fundamentals including data structures, algorithms, and design patterns</li>\n  <li>Familiarity with relational and/or NoSQL databases</li>\n  <li>Hands-on experience with version control tools (e.g., Git)</li>\n  <li>Exposure to agile development methodologies</li>\n  <li>Experience with testing practices (unit, integration, and end-to-end testing)</li>\n</ul>\n\n<h3>Preferred Skills:</h3>\n<ul>\n  <li>Experience with containerization (e.g., Docker) and orchestration tools (e.g., Kubernetes)</li>\n  <li>Familiarity with cloud services (e.g., AWS, Azure, GCP)</li>\n  <li>Knowledge of CI/CD pipelines and DevOps practices</li>\n  <li>Experience with front-end technologies (e.g., React, Angular, Vue.js) if applicable to the role</li>\n  <li>Prior involvement in codebase migration, scalability improvements, or system re-architecture</li>\n</ul>\n\n<h3>Benefits:</h3>\n<ul>\n  <li>Full-time role with flexible work options</li>\n  <li>Opportunities for professional development and career growth</li>\n  <li>Role may involve technical mentorship or leadership responsibilities</li>\n</ul>\n<br>This electronic mail message and any attachments may contain information which is privileged, sensitive and/or otherwise exempt from disclosure under applicable law. The information is intended only for the use of the individual or entity named as the addressee above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution (electronic or otherwise) or forwarding of, or the taking of any action in reliance on, the contents of this transmission is strictly prohibited. If you have received this electronic transmission in error, please notify us by telephone, facsimile, or e-mail as noted above to arrange for the return of any electronic mail or attachments. Thank You.",
+    "recruiter": [
+      "Ziyad Gower",
+      "ziyad@jobdiva.com",
+      "1231234123"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c&SearchString=#/jobs/32353273",
+    "time_scraped": 1779749896662,
+    "source_company": "nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32353255,
+    "title": "A New Job In Testing",
+    "location": "",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/23/2026",
+      "date_posted": 1779585038000
+    },
+    "start": {
+      "start_dateStr": "5/23/2026",
+      "start_date": 1779508800000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<h3 data-end=\"248\" data-start=\"188\"><strong data-end=\"206\" data-start=\"192\">Job Title:</strong> Software Engineer (5&plus; Years Experience)</h3>\r\n\r\n<p data-end=\"370\" data-start=\"249\"><strong data-end=\"262\" data-start=\"249\">Location:</strong> [Remote / On-site / Hybrid – specify]<br data-end=\"303\" data-start=\"300\" />\r\n<strong data-end=\"316\" data-start=\"303\">Job Type:</strong> Full-time<br data-end=\"329\" data-start=\"326\" />\r\n<strong data-end=\"350\" data-start=\"329\">Experience Level:</strong> Mid to Senior Level</p>\r\n\r\n<h3 data-end=\"399\" data-start=\"377\"><strong data-end=\"397\" data-start=\"381\">Job Summary:</strong></h3>\r\n\r\n<p data-end=\"714\" data-start=\"400\">Seeking a skilled Software Engineer with 5&plus; years of experience to design, develop, and maintain robust, scalable, and efficient software systems. The ideal candidate has strong technical expertise, a solid grasp of engineering best practices, and a proven track record of delivering production-grade applications.</p>\r\n\r\n<h3 data-end=\"746\" data-start=\"721\"><strong data-end=\"746\" data-start=\"725\">Responsibilities:</strong></h3>\r\n\r\n<ul data-end=\"1376\" data-start=\"747\">\r\n\t<li data-end=\"841\" data-start=\"747\">\r\n\t<p data-end=\"841\" data-start=\"749\">Design and implement software solutions that meet functional and non-functional requirements</p>\r\n\t</li>\r\n\t<li data-end=\"895\" data-start=\"842\">\r\n\t<p data-end=\"895\" data-start=\"844\">Write clean, maintainable, and well-documented code</p>\r\n\t</li>\r\n\t<li data-end=\"990\" data-start=\"896\">\r\n\t<p data-end=\"990\" data-start=\"898\">Participate in all phases of the software development lifecycle, from planning to deployment</p>\r\n\t</li>\r\n\t<li data-end=\"1091\" data-start=\"991\">\r\n\t<p data-end=\"1091\" data-start=\"993\">Collaborate with other engineers, product managers, and designers to deliver high-quality features</p>\r\n\t</li>\r\n\t<li data-end=\"1148\" data-start=\"1092\">\r\n\t<p data-end=\"1148\" data-start=\"1094\">Conduct code reviews and provide constructive feedback</p>\r\n\t</li>\r\n\t<li data-end=\"1201\" data-start=\"1149\">\r\n\t<p data-end=\"1201\" data-start=\"1151\">Troubleshoot, debug, and upgrade existing software</p>\r\n\t</li>\r\n\t<li data-end=\"1252\" data-start=\"1202\">\r\n\t<p data-end=\"1252\" data-start=\"1204\">Optimize application performance and scalability</p>\r\n\t</li>\r\n\t<li data-end=\"1304\" data-start=\"1253\">\r\n\t<p data-end=\"1304\" data-start=\"1255\">Contribute to architecture and design discussions</p>\r\n\t</li>\r\n\t<li data-end=\"1376\" data-start=\"1305\">\r\n\t<p data-end=\"1376\" data-start=\"1307\">Mentor junior developers and support technical growth within the team</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1415\" data-start=\"1383\"><strong data-end=\"1415\" data-start=\"1387\">Required Qualifications:</strong></h3>\r\n\r\n<ul data-end=\"2028\" data-start=\"1416\">\r\n\t<li data-end=\"1474\" data-start=\"1416\">\r\n\t<p data-end=\"1474\" data-start=\"1418\">5&plus; years of professional software development experience</p>\r\n\t</li>\r\n\t<li data-end=\"1577\" data-start=\"1475\">\r\n\t<p data-end=\"1577\" data-start=\"1477\">Proficiency in one or more programming languages (e.g., Java, Python, C#, JavaScript/TypeScript, Go)</p>\r\n\t</li>\r\n\t<li data-end=\"1673\" data-start=\"1578\">\r\n\t<p data-end=\"1673\" data-start=\"1580\">Experience building and consuming RESTful APIs and/or working with microservices architecture</p>\r\n\t</li>\r\n\t<li data-end=\"1788\" data-start=\"1674\">\r\n\t<p data-end=\"1788\" data-start=\"1676\">Strong understanding of computer science fundamentals including data structures, algorithms, and design patterns</p>\r\n\t</li>\r\n\t<li data-end=\"1841\" data-start=\"1789\">\r\n\t<p data-end=\"1841\" data-start=\"1791\">Familiarity with relational and/or NoSQL databases</p>\r\n\t</li>\r\n\t<li data-end=\"1902\" data-start=\"1842\">\r\n\t<p data-end=\"1902\" data-start=\"1844\">Hands-on experience with version control tools (e.g., Git)</p>\r\n\t</li>\r\n\t<li data-end=\"1948\" data-start=\"1903\">\r\n\t<p data-end=\"1948\" data-start=\"1905\">Exposure to agile development methodologies</p>\r\n\t</li>\r\n\t<li data-end=\"2028\" data-start=\"1949\">\r\n\t<p data-end=\"2028\" data-start=\"1951\">Experience with testing practices (unit, integration, and end-to-end testing)</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"2068\" data-start=\"2035\"><strong data-end=\"2068\" data-start=\"2039\">Preferred Qualifications:</strong></h3>\r\n\r\n<ul data-end=\"2464\" data-start=\"2069\">\r\n\t<li data-end=\"2161\" data-start=\"2069\">\r\n\t<p data-end=\"2161\" data-start=\"2071\">Experience with containerization (e.g., Docker) and orchestration tools (e.g., Kubernetes)</p>\r\n\t</li>\r\n\t<li data-end=\"2219\" data-start=\"2162\">\r\n\t<p data-end=\"2219\" data-start=\"2164\">Familiarity with cloud services (e.g., AWS, Azure, GCP)</p>\r\n\t</li>\r\n\t<li data-end=\"2271\" data-start=\"2220\">\r\n\t<p data-end=\"2271\" data-start=\"2222\">Knowledge of CI/CD pipelines and DevOps practices</p>\r\n\t</li>\r\n\t<li data-end=\"2369\" data-start=\"2272\">\r\n\t<p data-end=\"2369\" data-start=\"2274\">Experience with front-end technologies (e.g., React, Angular, Vue.js) if applicable to the role</p>\r\n\t</li>\r\n\t<li data-end=\"2464\" data-start=\"2370\">\r\n\t<p data-end=\"2464\" data-start=\"2372\">Prior involvement in codebase migration, scalability improvements, or system re-architecture</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"2502\" data-start=\"2471\"><strong data-end=\"2502\" data-start=\"2475\">Additional Information:</strong></h3>\r\n\r\n<ul data-end=\"2680\" data-start=\"2503\">\r\n\t<li data-end=\"2546\" data-start=\"2503\">\r\n\t<p data-end=\"2546\" data-start=\"2505\">Full-time role with flexible work options</p>\r\n\t</li>\r\n\t<li data-end=\"2609\" data-start=\"2547\">\r\n\t<p data-end=\"2609\" data-start=\"2549\">Opportunities for professional development and career growth</p>\r\n\t</li>\r\n\t<li data-end=\"2680\" data-start=\"2610\">\r\n\t<p data-end=\"2680\" data-start=\"2612\">Role may involve technical mentorship or leadership responsibilities</p>\r\n\t</li>\r\n</ul>\r\n<br>This electronic mail message and any attachments may contain information which is privileged, sensitive and/or otherwise exempt from disclosure under applicable law. The information is intended only for the use of the individual or entity named as the addressee above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution (electronic or otherwise) or forwarding of, or the taking of any action in reliance on, the contents of this transmission is strictly prohibited. If you have received this electronic transmission in error, please notify us by telephone, facsimile, or e-mail as noted above to arrange for the return of any electronic mail or attachments. Thank You.",
+    "recruiter": [
+      "Ziyad Gower",
+      "ziyad@jobdiva.com",
+      "1231234123"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c&SearchString=#/jobs/32353255",
+    "time_scraped": 1779749896868,
+    "source_company": "nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32353253,
+    "title": "A New Job on Saturday may 23",
+    "location": "",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/23/2026",
+      "date_posted": 1779584964000
+    },
+    "start": {
+      "start_dateStr": "5/23/2026",
+      "start_date": 1779508800000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<h3 data-end=\"248\" data-start=\"188\"><strong data-end=\"206\" data-start=\"192\">Job Title:</strong> Software Engineer (5&plus; Years Experience)</h3>\r\n\r\n<p data-end=\"370\" data-start=\"249\"><strong data-end=\"262\" data-start=\"249\">Location:</strong> [Remote / On-site / Hybrid – specify]<br data-end=\"303\" data-start=\"300\" />\r\n<strong data-end=\"316\" data-start=\"303\">Job Type:</strong> Full-time<br data-end=\"329\" data-start=\"326\" />\r\n<strong data-end=\"350\" data-start=\"329\">Experience Level:</strong> Mid to Senior Level</p>\r\n\r\n<h3 data-end=\"399\" data-start=\"377\"><strong data-end=\"397\" data-start=\"381\">Job Summary:</strong></h3>\r\n\r\n<p data-end=\"714\" data-start=\"400\">Seeking a skilled Software Engineer with 5&plus; years of experience to design, develop, and maintain robust, scalable, and efficient software systems. The ideal candidate has strong technical expertise, a solid grasp of engineering best practices, and a proven track record of delivering production-grade applications.</p>\r\n\r\n<h3 data-end=\"746\" data-start=\"721\"><strong data-end=\"746\" data-start=\"725\">Responsibilities:</strong></h3>\r\n\r\n<ul data-end=\"1376\" data-start=\"747\">\r\n\t<li data-end=\"841\" data-start=\"747\">\r\n\t<p data-end=\"841\" data-start=\"749\">Design and implement software solutions that meet functional and non-functional requirements</p>\r\n\t</li>\r\n\t<li data-end=\"895\" data-start=\"842\">\r\n\t<p data-end=\"895\" data-start=\"844\">Write clean, maintainable, and well-documented code</p>\r\n\t</li>\r\n\t<li data-end=\"990\" data-start=\"896\">\r\n\t<p data-end=\"990\" data-start=\"898\">Participate in all phases of the software development lifecycle, from planning to deployment</p>\r\n\t</li>\r\n\t<li data-end=\"1091\" data-start=\"991\">\r\n\t<p data-end=\"1091\" data-start=\"993\">Collaborate with other engineers, product managers, and designers to deliver high-quality features</p>\r\n\t</li>\r\n\t<li data-end=\"1148\" data-start=\"1092\">\r\n\t<p data-end=\"1148\" data-start=\"1094\">Conduct code reviews and provide constructive feedback</p>\r\n\t</li>\r\n\t<li data-end=\"1201\" data-start=\"1149\">\r\n\t<p data-end=\"1201\" data-start=\"1151\">Troubleshoot, debug, and upgrade existing software</p>\r\n\t</li>\r\n\t<li data-end=\"1252\" data-start=\"1202\">\r\n\t<p data-end=\"1252\" data-start=\"1204\">Optimize application performance and scalability</p>\r\n\t</li>\r\n\t<li data-end=\"1304\" data-start=\"1253\">\r\n\t<p data-end=\"1304\" data-start=\"1255\">Contribute to architecture and design discussions</p>\r\n\t</li>\r\n\t<li data-end=\"1376\" data-start=\"1305\">\r\n\t<p data-end=\"1376\" data-start=\"1307\">Mentor junior developers and support technical growth within the team</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"1415\" data-start=\"1383\"><strong data-end=\"1415\" data-start=\"1387\">Required Qualifications:</strong></h3>\r\n\r\n<ul data-end=\"2028\" data-start=\"1416\">\r\n\t<li data-end=\"1474\" data-start=\"1416\">\r\n\t<p data-end=\"1474\" data-start=\"1418\">5&plus; years of professional software development experience</p>\r\n\t</li>\r\n\t<li data-end=\"1577\" data-start=\"1475\">\r\n\t<p data-end=\"1577\" data-start=\"1477\">Proficiency in one or more programming languages (e.g., Java, Python, C#, JavaScript/TypeScript, Go)</p>\r\n\t</li>\r\n\t<li data-end=\"1673\" data-start=\"1578\">\r\n\t<p data-end=\"1673\" data-start=\"1580\">Experience building and consuming RESTful APIs and/or working with microservices architecture</p>\r\n\t</li>\r\n\t<li data-end=\"1788\" data-start=\"1674\">\r\n\t<p data-end=\"1788\" data-start=\"1676\">Strong understanding of computer science fundamentals including data structures, algorithms, and design patterns</p>\r\n\t</li>\r\n\t<li data-end=\"1841\" data-start=\"1789\">\r\n\t<p data-end=\"1841\" data-start=\"1791\">Familiarity with relational and/or NoSQL databases</p>\r\n\t</li>\r\n\t<li data-end=\"1902\" data-start=\"1842\">\r\n\t<p data-end=\"1902\" data-start=\"1844\">Hands-on experience with version control tools (e.g., Git)</p>\r\n\t</li>\r\n\t<li data-end=\"1948\" data-start=\"1903\">\r\n\t<p data-end=\"1948\" data-start=\"1905\">Exposure to agile development methodologies</p>\r\n\t</li>\r\n\t<li data-end=\"2028\" data-start=\"1949\">\r\n\t<p data-end=\"2028\" data-start=\"1951\">Experience with testing practices (unit, integration, and end-to-end testing)</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"2068\" data-start=\"2035\"><strong data-end=\"2068\" data-start=\"2039\">Preferred Qualifications:</strong></h3>\r\n\r\n<ul data-end=\"2464\" data-start=\"2069\">\r\n\t<li data-end=\"2161\" data-start=\"2069\">\r\n\t<p data-end=\"2161\" data-start=\"2071\">Experience with containerization (e.g., Docker) and orchestration tools (e.g., Kubernetes)</p>\r\n\t</li>\r\n\t<li data-end=\"2219\" data-start=\"2162\">\r\n\t<p data-end=\"2219\" data-start=\"2164\">Familiarity with cloud services (e.g., AWS, Azure, GCP)</p>\r\n\t</li>\r\n\t<li data-end=\"2271\" data-start=\"2220\">\r\n\t<p data-end=\"2271\" data-start=\"2222\">Knowledge of CI/CD pipelines and DevOps practices</p>\r\n\t</li>\r\n\t<li data-end=\"2369\" data-start=\"2272\">\r\n\t<p data-end=\"2369\" data-start=\"2274\">Experience with front-end technologies (e.g., React, Angular, Vue.js) if applicable to the role</p>\r\n\t</li>\r\n\t<li data-end=\"2464\" data-start=\"2370\">\r\n\t<p data-end=\"2464\" data-start=\"2372\">Prior involvement in codebase migration, scalability improvements, or system re-architecture</p>\r\n\t</li>\r\n</ul>\r\n\r\n<h3 data-end=\"2502\" data-start=\"2471\"><strong data-end=\"2502\" data-start=\"2475\">Additional Information:</strong></h3>\r\n\r\n<ul data-end=\"2680\" data-start=\"2503\">\r\n\t<li data-end=\"2546\" data-start=\"2503\">\r\n\t<p data-end=\"2546\" data-start=\"2505\">Full-time role with flexible work options</p>\r\n\t</li>\r\n\t<li data-end=\"2609\" data-start=\"2547\">\r\n\t<p data-end=\"2609\" data-start=\"2549\">Opportunities for professional development and career growth</p>\r\n\t</li>\r\n\t<li data-end=\"2680\" data-start=\"2610\">\r\n\t<p data-end=\"2680\" data-start=\"2612\">Role may involve technical mentorship or leadership responsibilities</p>\r\n\t</li>\r\n</ul>\r\n<br>This electronic mail message and any attachments may contain information which is privileged, sensitive and/or otherwise exempt from disclosure under applicable law. The information is intended only for the use of the individual or entity named as the addressee above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution (electronic or otherwise) or forwarding of, or the taking of any action in reliance on, the contents of this transmission is strictly prohibited. If you have received this electronic transmission in error, please notify us by telephone, facsimile, or e-mail as noted above to arrange for the return of any electronic mail or attachments. Thank You.",
+    "recruiter": [
+      "Ziyad Gower",
+      "ziyad@jobdiva.com",
+      "1231234123"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c&SearchString=#/jobs/32353253",
+    "time_scraped": 1779749896628,
+    "source_company": "nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32350290,
+    "title": "Bottom of the Barrel",
+    "location": "AL, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/22/2026",
+      "date_posted": 1779467874000
+    },
+    "start": {
+      "start_dateStr": "5/22/2026",
+      "start_date": 1779422400000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "\n<h3>Summary:</h3>\n<p><strong>Work Mode:</strong> [Remote / On-site / Hybrid – specify]</p>\n<p><strong>Job Type:</strong> Full-time</p>\n<p><strong>Experience Level:</strong> Mid to Senior Level</p>\n\n<h3>Responsibilities:</h3>\n<ul>\n    <li>Design and implement software solutions that meet functional and non-functional requirements</li>\n    <li>Write clean, maintainable, and well-documented code</li>\n    <li>Participate in all phases of the software development lifecycle, from planning to deployment</li>\n    <li>Collaborate with other engineers, product managers, and designers to deliver high-quality features</li>\n    <li>Conduct code reviews and provide constructive feedback</li>\n    <li>Troubleshoot, debug, and upgrade existing software</li>\n    <li>Optimize application performance and scalability</li>\n    <li>Contribute to architecture and design discussions</li>\n    <li>Mentor junior developers and support technical growth within the team</li>\n</ul>\n\n<h3>Requirements:</h3>\n<ul>\n    <li>5 years of professional software development experience</li>\n    <li>Proficiency in one or more programming languages (e.g., Java, Python, C#, JavaScript/TypeScript, Go)</li>\n    <li>Experience building and consuming RESTful APIs and/or working with microservices architecture</li>\n    <li>Strong understanding of computer science fundamentals including data structures, algorithms, and design patterns</li>\n    <li>Familiarity with relational and/or NoSQL databases</li>\n    <li>Hands-on experience with version control tools (e.g., Git)</li>\n    <li>Exposure to agile development methodologies</li>\n    <li>Experience with testing practices (unit, integration, and end-to-end testing)</li>\n</ul>\n\n<h3>Preferred Skills:</h3>\n<ul>\n    <li>Experience with containerization (e.g., Docker) and orchestration tools (e.g., Kubernetes)</li>\n    <li>Familiarity with cloud services (e.g., AWS, Azure, GCP)</li>\n    <li>Knowledge of CI/CD pipelines and DevOps practices</li>\n    <li>Experience with front-end technologies (e.g., React, Angular, Vue.js) if applicable to the role</li>\n    <li>Prior involvement in codebase migration, scalability improvements, or system re-architecture</li>\n</ul>\n\n<h3>Benefits:</h3>\n<ul>\n    <li>Full-time role with flexible work options</li>\n    <li>Opportunities for professional development and career growth</li>\n    <li>Role may involve technical mentorship or leadership responsibilities</li>\n</ul>\n<br>This electronic mail message and any attachments may contain information which is privileged, sensitive and/or otherwise exempt from disclosure under applicable law. The information is intended only for the use of the individual or entity named as the addressee above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution (electronic or otherwise) or forwarding of, or the taking of any action in reliance on, the contents of this transmission is strictly prohibited. If you have received this electronic transmission in error, please notify us by telephone, facsimile, or e-mail as noted above to arrange for the return of any electronic mail or attachments. Thank You.",
+    "recruiter": [
+      null,
+      null,
+      null
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c&SearchString=#/jobs/32350290",
+    "time_scraped": 1779749910725,
+    "source_company": "nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32327102,
+    "title": "Nurse 05/19/2026",
+    "location": "FL, Orlando",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/19/2026",
+      "date_posted": 1779193802000
+    },
+    "start": {
+      "start_dateStr": "5/19/2026",
+      "start_date": 1779163200000
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": "$57-$67",
+    "remote": 100,
+    "description": "\n<h3>Summary:</h3>\n<p>Test Description</p>\n<br>This electronic mail message and any attachments may contain information which is privileged, sensitive and/or otherwise exempt from disclosure under applicable law. The information is intended only for the use of the individual or entity named as the addressee above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution (electronic or otherwise) or forwarding of, or the taking of any action in reliance on, the contents of this transmission is strictly prohibited. If you have received this electronic transmission in error, please notify us by telephone, facsimile, or e-mail as noted above to arrange for the return of any electronic mail or attachments. Thank You.",
+    "recruiter": [
+      "Amna Zaheer 137",
+      "amna.zaheer@jobdiva.com",
+      "2125555555"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c&SearchString=#/jobs/32327102",
+    "time_scraped": 1779749910976,
+    "source_company": "nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32327055,
+    "title": "05/19/2026-- New Job 01 --Created from Contact Page",
+    "location": "FL, Orlando",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/19/2026",
+      "date_posted": 1779192850000
+    },
+    "start": {
+      "start_dateStr": "5/19/2026",
+      "start_date": 1779163200000
+    },
+    "end": {
+      "end_dateStr": "12/31/2029",
+      "end_date": 1893387600000
+    },
+    "salary": "€30-€50",
+    "remote": 0,
+    "description": "\n<h3><strong>Summary:</strong></h3>\n<ul>\n  <li><strong>Work Mode:</strong> [Remote / On-site / Hybrid – specify]</li>\n</ul>\n\n<h3><strong>Responsibilities:</strong></h3>\n<ul>\n  <li>Design and implement software solutions that meet functional and non-functional requirements</li>\n  <li>Write clean, maintainable, and well-documented code</li>\n  <li>Participate in all phases of the software development lifecycle, from planning to deployment</li>\n  <li>Collaborate with other engineers, product managers, and designers to deliver high-quality features</li>\n  <li>Conduct code reviews and provide constructive feedback</li>\n  <li>Troubleshoot, debug, and upgrade existing software</li>\n  <li>Optimize application performance and scalability</li>\n  <li>Contribute to architecture and design discussions</li>\n  <li>Mentor junior developers and support technical growth within the team</li>\n</ul>\n\n<h3><strong>Requirements:</strong></h3>\n<ul>\n  <li>5 years of professional software development experience</li>\n  <li>Proficiency in one or more programming languages (e.g., Java, Python, C#, JavaScript/TypeScript, Go)</li>\n  <li>Experience building and consuming RESTful APIs and/or working with microservices architecture</li>\n  <li>Strong understanding of computer science fundamentals including data structures, algorithms, and design patterns</li>\n  <li>Familiarity with relational and/or NoSQL databases</li>\n  <li>Hands-on experience with version control tools (e.g., Git)</li>\n  <li>Exposure to agile development methodologies</li>\n  <li>Experience with testing practices (unit, integration, and end-to-end testing)</li>\n</ul>\n\n<h3><strong>Preferred Skills:</strong></h3>\n<ul>\n  <li>Experience with containerization (e.g., Docker) and orchestration tools (e.g., Kubernetes)</li>\n  <li>Familiarity with cloud services (e.g., AWS, Azure, GCP)</li>\n  <li>Knowledge of CI/CD pipelines and DevOps practices</li>\n  <li>Experience with front-end technologies (e.g., React, Angular, Vue.js) if applicable to the role</li>\n  <li>Prior involvement in codebase migration, scalability improvements, or system re-architecture</li>\n</ul>\n\n<h3><strong>Benefits:</strong></h3>\n<ul>\n  <li>Full-time role with flexible work options</li>\n  <li>Opportunities for professional development and career growth</li>\n  <li>Role may involve technical mentorship or leadership responsibilities</li>\n</ul>\n<br>This electronic mail message and any attachments may contain information which is privileged, sensitive and/or otherwise exempt from disclosure under applicable law. The information is intended only for the use of the individual or entity named as the addressee above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution (electronic or otherwise) or forwarding of, or the taking of any action in reliance on, the contents of this transmission is strictly prohibited. If you have received this electronic transmission in error, please notify us by telephone, facsimile, or e-mail as noted above to arrange for the return of any electronic mail or attachments. Thank You.",
+    "recruiter": [
+      "Amna Zaheer 137",
+      "amna.zaheer@jobdiva.com",
+      "2125555555"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c&SearchString=#/jobs/32327055",
+    "time_scraped": 1779749910429,
+    "source_company": "nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwxsknt1j7w8if2hq6wot01hx00089v63cxwnc6eg2ra9kk5com34mrfpr4c",
+    "date_cutoff_days": 15
+  }
+]

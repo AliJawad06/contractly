@@ -2,7 +2,8 @@
 
 # Run Python scripts in order
 # Each script waits for the previous one to complete
-
+# > day_loc_processing.jsonl
+# > batching_tests.jsonl
 echo "Starting batch processing..."
 echo "================================"
 
@@ -10,7 +11,6 @@ echo "================================"
 SCRIPTS=(
     "main.py"
     "jobapi.py"
-    "/tests/combine.py"
 )
 
 

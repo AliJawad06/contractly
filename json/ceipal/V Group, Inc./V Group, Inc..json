@@ -1,0 +1,1015 @@
+{
+  "company": "V Group, Inc.",
+  "scrape_date": "2026-06-02T22:42:31.766651",
+  "total_jobs": 28,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c9cWGn9TVL2lhXBzgsNbQaU=",
+      "title": "ServiceNow Architect",
+      "location": "",
+      "experience": {
+        "experience": "7-15 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Ibad Ullah Khan at 971-431-1753 or email at ibadk@vgroupinc.com\n \nDirect End Client: MHBE - Maryland Health Benefit Exchange\r\nJob Title: ServiceNow Architect\r\nDuration: 12 Months\r\nStart Date: July1, 2026\r\nLocation: Baltimore, MD 21202 (Hybrid)\r\nPosition Type: Contract \r\nInterview Type: In Person or Telephonic or Webcam\r\nCEIPAL ID: SMD_SERV226_IK\r\nPosition ID: MD78SeniorServiceNowArchitectRFR060226\n \nNote: The candidate must be flexible to work overtime as needed, including weekends, holidays, and off-hours.\n \nDescription: MHBE seeks up to one (1) Senior Systems Architect (Senior ServiceNow Architect) to provide services related to the planning,  architecting, setup, and maintenance of core IT infrastructure and network capabilities, including but not limited to hardware and equipment, operating systems, software, database, middleware, cloud, mobile, and technologies. \n \nDuties / Responsibilities:\n\n\nArchitect, configure, and customize the ServiceNow platform to meet organizational needs across multiple teams and business units. Define and manage data structures, including tables, fields, and relationships, ensuring scalability and data integrity.\nDesign, develop, and implement business rules, workflows, UI policies, and client/server-side scripting to automate processes and improve efficiency. Establish and manage roles, groups, and access controls aligned with organizational security and compliance requirements.\nProvide ongoing support for workflow-related issues, incidents, and user stories, ensuring timely resolution and continuous improvement(Both Jira and ServiceNow).\nEnhance existing Incident Management workflows, including the definition and implementation of SLAs, escalations, and approval processes. Design and implement Problem Management processes in alignment with agency requirements and ITIL best practices.\nArchitect and implement the Change Management module, ensuring governance, risk mitigation, and compliance with ITIL standards(Both Jira and ServiceNow).\nDesign, develop, and maintain the Service Catalog, including service requests and offerings as defined by the organization. Streamline requests fulfillment through automation and orchestration.\nIntegrate ServiceNow with internal and external applications using APIs, web services, and middleware technologies. Implement automation through workflows, scripting, and orchestration tools.\nDevelop and maintain reports and dashboards to provide actionable insights into IT service performance. Customize and enhance reporting capabilities within the ServiceNow platform.\nPlan, test, and execute platform upgrades, patches, and updates to ensure system security, stability, and performance.\nDesign and implement the Knowledge Management module to improve information sharing and self-service capabilities.\nIdentify and resolve performance and scalability issues, ensuring optimal platform operation.\nProvide training and guidance to end-users, stakeholders, and administrators. Maintain comprehensive documentation of configurations, processes, and best practices.\nDesign, implement, and maintain the Configuration Management Database (CMDB), including data modeling, CI relationships, data governance, and integration with discovery tools to ensure data accuracy and reliability.\nSupport Jira development and administration activities, including workflow configuration, custom fields, issue types, dashboards, and integrations with ServiceNow to enable seamless collaboration and tracking across platforms.\nCreate and configure Jira projects, including defining workflows, issue types, custom fields, permissions, and notification schemes.\nDesign and standardize Jira project templates to support multiple teams and ensure consistency across development and service workflows.\n\n\nMinimum Qualifications:\n\nA minimum of five (5) years of experience in an enterprise IT environment supporting computer hardware, software, and/or enterprise applications at an expert level.\nA minimum of five (5) years of proven experience as a ServiceNow architect, administrator, or similar role.\nA minimum of five (5) years of experience designing and creating incident, problem, and change management modules in ServiceNow, developing and maintaining the Service Catalog.\nA minimum of five (5) years of experience creating, configuring, and administering Jira projects, including workflows, issue types, custom fields, dashboards, permissions, and integrations with ServiceNow to support cross-platform collaboration.\nA minimum of two (2) years of demonstrated success in configuring and customizing the ServiceNow platform, including knowledge of tables, fields, forms, and workflows.\nA minimum of two (2) years of experience managing user accounts, roles, and groups, enforcing access controls and permissions.\nFamiliarity with integrating ServiceNow with other systems and applications.\nAbility to create and customize reports and dashboards within ServiceNow.\nStrong understanding of IT Service Management (ITSM) processes and implementing (CMDB).\n\nPreferred Qualifications:\n\nA minimum of eight (8) years of experience architecting the ServiceNow platform.\nA minimum of five (5) years of experience with ServiceNow development, including creating custom applications and modules.\nA minimum of five (5) years of experience in performance tuning and optimizing the ServiceNow platform for scalability and responsiveness.\nA minimum of five (5) years of experience creating, configuring, and administering Jira projects, including workflows, issue types, custom fields, dashboards, permissions, and integrations with ServiceNow to support cross-platform collaboration.\nExperience with planning and executing ServiceNow platform upgrades and migrations.\nProficiency in advanced scripting languages within the ServiceNow platform, such as GlideScript (JavaScript) or AngularJS.\nServiceNow Certified Implementation Specialist certifications in specific modules, such as IT Service Management (ITSM), Service Catalog, or other relevant areas.\nServiceNow Certified System Administrator (CSA) certification.\nITIL (Information Technology Infrastructure Library) certification.\n\n\n_______________________________________________________________________________________________________________________________________________________________________________________\nV Group Inc. is an IT Services company which supplies IT staffing, project management, and delivery services in software, network, help desk and all IT areas. Our primary focus is the public sector including state and federal contracts. We have multiple awards/contracts with the following states: CA, FL, GA, MD, MI, NC, NY, OH, OR, PA,TX, VA, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant. \n \n\nWebsite: www.vgroupinc.com\nLinkedIn: www.linkedin.com/company/v-group/\nFacebook: www.facebook.com/VGroupIT\nTwitter: www.twitter.com/vgroupinc\n\n",
+      "closing": {
+        "closing_date": "2026-06-16T17:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "180",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ikjUjkf3-K97xS3sDl7rDt8JHGSobJBIxt7gAfxPg-g",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c9cWGn9TVL2lhXBzgsNbQaU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cyN8-41t0tVB-OdwuHOrajk=",
+      "title": "Data Warehouse Developer",
+      "location": "",
+      "experience": {
+        "experience": "5-10 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Syed Sabi Ali at +1 609-778-3038 or email him at syeda@vgroupinc.com\nDirect End Client: Texas Health and Human Services Commission\nJob Title: Data Warehouse Developer\nLocation: 701 W 51st Street, Austin, TX 78751 (Hybrid) \nDuration: 04+ Months\nPosition Type: Contract\nHours Per Week: 40 Hr\nInterview Mode: Webcam \nCeipal ID: STX_DATA703_SB\nRequirement ID: 529601703\n \nPosition will be 3 days remote with 2 days (Tuesdays and Wednesdays) required to be onsite at the location listed above.\n \n4-7 years of experience in the field or in a related area. Familiar with standard concepts, practices, and procedures within a particular field. Relies on limited experience and judgment to plan and accomplish goals. A certain degree of creativity and latitude is required. Works under limited supervision with considerable latitude for the use of initiative and independent judgment. Ability to maintain the security and integrity of critical infrastructure systems by preventing unauthorized access and ensuring compliance with laws and regulations related to national security and foreign ownership restrictions.\n \nResponsibilities:\n\n\n﻿Supports the installation of database software and migrations to new data management system software levels and tests the migrations to ensure data reliability and functionality.\n\n\nAnalyzes, designs, modifies, and maintains database structures.\n\n\nDesigns and implements procedures necessary to save, retrieve, and recover databases from hardware and software failures.\n\n\nEstablishes and implements database security controls and user access levels.\n\n\nEvaluates and recommends database software packages for potential acquisition.\n\n\nPrepares and develops database documentation, procedures, and definitions for data dictionaries.\n\n\nPerforms logical and physical data modeling, designs relational database models, and creates physical data models from logical data models.\n\n\nPerforms database performance monitoring and implements efficiency improvements.\n\n\nAssists in modifying existing databases and database management systems.\n\n\nAssists in developing standards, guidelines, policies, and procedures designed to ensure the integrity of the database environment\n\n\n \nRequired Skills:\n\n\n5 Years Required Strong knowledge of database management systems, as well as data warehouse management and decision support tools\n\n\n5 Years Required Extensive experience in the development, implementation and maintenance of data warehouses and data marts is desired\n\n\n5 Years Required Experience in business objects and in building the data dictionary\n\n\n5 Years Required Ability to use data base access tools for application delivery\n\n\n5 Years Required Strong familiarity with analysis, planning and management reporting functions\n\n\n5 Years Required Well-developed oral and written communications skills\n\n\n5 Years Required Strong teamwork and interpersonal skills\n\n\n5 Years Required Extremely high level of analytical ability where problems are very unusual and extremely difficult\n\n\n5 Years Required Understanding of benchmarking processes and techniques\n\n\n5 Years Required Very high level of interpersonal skills to work effectively with others, motivate employees, and elicit work output\n\n\n5 Years  Required Data Warehousing data population and data modeling techniques for target structures such as Star Schemas, Snowflake Schemas, and highly normalized data models\n\n\n5 Years Required GUI based ETL tools such as Informatica, IBM WebSphere DataStage, or similar tools.\n\n\n5 Years Required Implementation experience with enterprise class databases e.g. Teradata, Oracle, SQL Server, etc. or similar technologies.\n\n\n5 Years Required Implementation experience with analytical and reporting tools e.g. Business Objects, Cognos, Hyperion, MicroStrategy or similar tools.\n\n\n5 Years Required Experience with data warehouse implementation process, from business requirements through logical modeling, physical database design, data sourcing and data transformation, data loading, Structured Query Language (SQL), end-user tools, database and SQL.\n\n\n5 Years Required Implementation experience with analytical and reporting tools e.g. Business Objects, Cognos, Hyperion, MicroStrategy or similar tools.\n\n\n5 Years Required Excellent analytical; problem-solving; team playing; and oral and written communication skills.\n\n\n5 Years Required Proven ability to work successfully with technical and non-technical groups and manage multiple responsibilities.\n\n\n5 Years Preferred Oracle Database experience\n\n\n5 Years Preferred SSRS report creation\n\n\n1 Years Preferred M204 database experience\n\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc",
+      "closing": {
+        "closing_date": "2026-06-09T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/amvimnuIY15c_0nykND2QpfPEY08Ml_d98aYzX8ZTbc",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyN8-41t0tVB-OdwuHOrajk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0xqTAlalthxvPZUiZQ6r9c=",
+      "title": "Oracle Cloud ERP Functional Architect",
+      "location": "",
+      "experience": {
+        "experience": "12-20 years",
+        "min_experience": "12"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "End Client: District of Columbia Office of the Chief Financial Officer\nJob Title: Oracle Cloud ERP Functional Architect\nDuration: 03+ Months\nLocation: 1101 4th St. SW, Suite 350, Washington DC 20024 (Hybrid)\nPosition Type: Contract\nHours Per Week: 40 hours per week\nInterview Type: Webcam or In-Person  \nCeipal ID: SDC_ORAC675_AK\nRequirement ID: T016-Oracle Cloud ERP Functional Architect (803675)\n \nResponsibilities:\n\nManage all Functional aspects of Oracle Cloud implementation/support of the following modules: Cloud General Ledger, Cloud Accounts Payable, Cloud Accounts Receivable, Cloud Cash Management, Cloud Fixed Assets, Project Portfolio Management Cloud.\nAnalyze, design and configure best practice business needs through technology solutions.\nInteract with client teams to understand their requirement and design the robust solution.\nDevelop an understanding of a client’s current state process and develop future state technical recommendations.\nExecuting the day-to-day activities including process design, leading key configuration workshops, identifying Gaps, identify RICEW, and support testing.\nParticipation in requirement gathering, analyzing business requirements, aligning business requirements and best practices to implement a functional solution.\nContribute to continuous improvement and development of internal processes and intellectual property.\nDefine new and refine existing business processes.\nParticipation in project planning, providing subject matter expertise, estimating work.\n(Familiarity with state/local government accounting, financial, budget and grant training)\n\n \nRequired Skills:\n\nThe candidate should have a broad business background, good interpersonal communications skills and a thorough understanding of Oracle Fusion Cloud ERP.\n12+ years of experience in Oracle Cloud ERP/Oracle EBS with a minimum of 2+ full-lifecycle Oracle Cloud Financials implementation experience\nFull life-cycle project development including Requirements, Design, Development, Testing and Roll-out\nKnowledge of Enterprise Structures, module-specific configurations, ability to do requirement analysis and deliver functional design documents of the mentioned modules.\nAbility to quickly understand the business requirement and to design functional concepts\nExcellent analytical and problem-solving skills.\nDemonstrates experience in multiple business processes, ability to architect and design technology solutions and manage cross functional teams, projects, vendor management.\nAbility to Lead and design Cloud ERP Project solution, manage all aspects of Oracle Fusion and financial applications, support, and operations, including planning, designing, implementing, integrating, testing, and supporting and maintaining various functions.\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc ",
+      "closing": {
+        "closing_date": "2026-06-08T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "130",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/M-5Q5cQhwEpqHorKZo5FeFD29cIzySQqLuy6gsMhQXk",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0xqTAlalthxvPZUiZQ6r9c="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cxoSqGBho7O_IfjBUT-VD5w=",
+      "title": "Business Analyst",
+      "location": "",
+      "experience": {
+        "experience": "3-5 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Pawan Shrivastava at 510-983-4629 or email at pawans@vgroupinc.com\n \nDirect End Client: State of New York\nJob Title: Business Analyst\nDuration: 30 Months\nNo. of Hours Per Week: 40 Hours Per Week\nStart Date: 07/21/2026\nLocation: One State Street Plaza, New York, NY 10004\nPosition Type: Contract\nInterview Type: Phone or Skype or In-person\nRequirement ID: SNY_BA813_PS\n \nCandidate must have previous State, Federal or other government Client Experience\nCandidate Must have Bachelors Degree\n \nDescription:\n \nState of New York - Department of Financial Services\n \nResponsibilities:\n\n\nAnalyst will use Excel, and if needed, statistical packages, to conduct background research related to climate/regulatory topics and support data cleaning and analysis, to analyze New York's climate risk and its impacts to DFS regulated entities and the communities they serve\n\n\nAnalyst will also track Division-wide project progress and completion\n\n\nThese tasks will inform and support policy development\n\n\nSource, clean, structure data to import to R, Excel; use MS Excel/ statistical packages (R, Stata, python/pandas) to analyze and manipulate data, synthesize and summarize findings in Word for \n\n\nbriefing memos. Leverage excel and other tools to track and follow-up on division projects. Interact/collaborate with DFS staff, and other partners\n\n\nAnalyzes an organization or business domain (real or hypothetical) and documents its business or processes or systems, assessing the business model or its integration with technology with distinct \n\n\ndeliverables to a solution\n\n\n \nRequired Skills/ Experience/ Education:\n\n\n36 months of experience cleaning and organizing data, using Excel\n\n\n36 months of experience working with large datasets using MS Excel or Similar tools\n\n\n36 months of experience with sourcing publicly available data\n\n\n24 months of experience using statistical packages, like R, Stata, pandas to analyze data\n\n\n36 months experience with MS Microsoft Office Suite and Adobe software\n\n\n24 months of experience tracking and/or coordinating projects\n\n\nBachelor’s degree in economics, statistics, public policy, climate, or related disciplines\n\n\n36 months experience working collaboratively in matrixed teams, while \n\n\nmanaging stakeholder relationships. For example: working on a project with \n\n\nmultiple owners, requiring sign-off from separate divisions\n\n\n______________________________________________________________________\n \nV Group Inc. is an IT Services company which supplies IT staffing, project management, and delivery services in software, network, help desk and all IT areas. Our primary focus is the public sector including state and federal contracts. We have multiple awards/ contracts with the following states: AR, CA, DE, FL, GA, IL, KY, MD, ME, MI, NC, NJ, NY, OH, OR, PA, SC, TX, VA, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: www.vgroupinc.com\nLinkedIn: www.linkedin.com/company/v-group/\nFacebook: www.facebook.com/VGroupIT\nTwitter: www.twitter.com/vgroupinc\n \n",
+      "closing": {
+        "closing_date": "2026-06-16T17:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "40",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/8UG9FYlH_8_7w05p3A9oKJWrqzfGQFhJNXXtVkt4908",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cxoSqGBho7O_IfjBUT-VD5w="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2YHQjt7sajg8s2A-QZtUMI=",
+      "title": ".NET / Power BI Developer",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Priyam Nagwani at priyamn@vgroupinc.com\nEnd Client: State of Mississippi\nJob Title: .NET / Power BI Developer\nDuration: 2+ Years\nLocation: Jackson, MS 39211 (Onsite)\nPosition Type: Contract\nHours Per Week: 40\nJob Code: 159503\nDepartment: Mississippi Department of Wildlife, Fisheries, and Parks (MDWFP)\n\n\nScope of Project\n\nThe Mississippi Department of Wildlife, Fisheries, and Parks (MDWFP) is seeking a highly skilled Contract .NET / Power BI Developer to support application development, business intelligence, reporting, and modernization efforts across the agency. This role is ideal for a developer who can build reliable applications, create meaningful dashboards, work with SQL-based data, and translate business needs into practical, technical solutions. The selected candidate will work closely with MDWFP leadership, MIS staff, and business bureaus to improve agency reporting, strengthen data visibility, enhance existing systems, and deliver solutions that help teams make faster, better-informed decisions.\n\n\n\nResponsibilities:\n• Design, develop, enhance, and support applications using C#, .NET, ASP.NET, .NET Core, and related Microsoft technologies.\r\n• Build, maintain, and improve Power BI dashboards, reports, datasets, semantic models, and visualizations for operational and executive reporting.\r\n• Create data models, measures, and calculations using DAX and Power Query to support accurate reporting and decision-making.\r\n• Develop and support web forms, APIs, integrations, and internal business applications.\r\n• Write, optimize, and troubleshoot SQL queries, stored procedures, views, tables, and other database objects.\r\n• Assist with ETL, data transformation, data cleanup, and reporting automation efforts.\r\n• Support application deployment, web server configuration, and ongoing application maintenance.\r\n• Gather requirements from stakeholders and convert business needs into clear, reliable technical solutions.\r\n• Troubleshoot application, reporting, database, and data quality issues.\r\n• Modernize legacy reports, workflows, and applications where appropriate.\r\n• Document system changes, report logic, data sources, technical processes, and support procedures.\r\n• Provide technical support, guidance, and mentoring to lower-tier developers and support staff.\r\n• Collaborate with MIS staff on agency technology initiatives, reporting maturity, and data governance improvements.\n\n\nRequired Skills:\n• Proven experience in application development and programming.\r\n• Strong hands-on experience with C#, .NET, ASP.NET, or .NET Core. MDWFP Contract .NET / Power BI Developer Job Posting\r\n• Strong hands-on experience developing Power BI reports, dashboards, datasets, and data visualizations.\r\n• Experience with SQL database development, reporting queries, stored procedures, and data troubleshooting.\r\n• Experience building web forms, APIs, and business applications.\r\n• Experience supporting web applications and web server environments.\r\n• Ability to analyze business requirements and deliver reliable, maintainable technical solutions.\r\n• Ability to communicate clearly with both technical and non-technical users.\r\n• Strong problem-solving, troubleshooting, analytical, and documentation skills.\r\n• Ability to work independently while collaborating effectively with leadership, IT staff, and end users.\r\n• Ability to support and mentor junior or lower-tier developers.\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc\n \n",
+      "closing": {
+        "closing_date": "2026-06-09T17:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "67",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/vGHXDscX9Rit3P4KGtt--3VDKOKBgZO-uokR0F55K34",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2YHQjt7sajg8s2A-QZtUMI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1hbqXt4GFZFz9J4IeCDgFY=",
+      "title": "Security Analyst",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Soumya Nayak at soumyan@vgroupinc.com or call at (919) 892-9711.\n \nDirect End Client: State of South Carolina\nJob Title: Security Analyst - Project Lead\nDuration: 12 Months\nLocation: Remote (4430 Broad River Road, Columbia, SC 29212)\nHours Per Week: 40\nInterview Type: 1 Round Virtual/Online Interview (Potential 2nd Round In-Person)\nCeipal ID: SSC_SECUR260_SN\nJob Code: 11260\n \nScope of Project:\nThe State is seeking a Security Analyst - Project Lead to support the Division of Technology Information Security team. This position will focus on security monitoring, incident response, threat analysis, dashboard creation, reporting, and security operations leadership. \n \nResponsibilities:\n• Lead security monitoring and incident response activities.\r\n• Analyze, investigate, and respond to cybersecurity incidents.\r\n• Utilize the MITRE ATT&CK framework for threat detection and response.\r\n• Create and maintain security dashboards and reporting metrics.\r\n• Monitor security alerts and perform threat analysis.\r\n• Collaborate with infrastructure and security teams to improve security posture.\r\n• Document incident findings, remediation efforts, and recommendations.\r\n• Support enterprise security projects and initiatives.\r\n• Assist with security operations and continuous improvement activities.\n \nRequired/Preferred Skills:\nRequired Skills:\r\n• 2+ Years of Experience with Security Monitoring and Incident Response.\r\n• 2+ Years of Experience with MITRE ATT&CK Framework.\r\n• 2+ Years of Experience with Dashboard Creation and Reporting.\n \nPreferred Skills:\r\n• Experience with Palo Alto Cortex XSIAM/XDR Platform.\r\n• Knowledge of Linux Network Administration and Network Design.\r\n• Experience administering Firewalls, VPN Technologies, Active Directory, and IDS/IPS solutions.\n \n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc",
+      "closing": {
+        "closing_date": "2026-06-09T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "70",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/zgWpqQXsXJAY4_ku9vBdDArMauxAkAfmsfklxORjzHI",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1hbqXt4GFZFz9J4IeCDgFY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c318G6GGzACwedxtLHnpMp8=",
+      "title": "Senior Full Stack .NET Developer",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "Direct Client: Texas Health and Human Services Commission\nJob Title: Senior Full Stack .NET Developer\nDuration: 06+ Months\nLocation: 701 W. 51st Austin, TX 78751 (Hybrid)\nPosition Type: Contract\nWork hours: 40 hours per week\nInterview Type: Webcam or In-Person  \nCeipal ID: STX_NET706_AK\nRequirement ID: 529601706\n \nDescription: Researching, designing, implementing and managing software programs. Testing and evaluating new programs. Working closely with other developers, UX designers, business and systems analysts.\n \nResponsibilities:\n\nDesigns, codes and modifies complex computer programs, subroutines, triggers, stored procedures, objects, classes and scripts using Angular, C#, ASP.net, and Oracle Database. Performs necessary testing of assigned programs, including the generation of test data, writing test scripts/execution sequences, examining test results, debugging detected errors, etc. Uses current software development methods/techniques and established development standards (which include programming standards, documentation standards and testing standards) to ensure the quality and maintainability of applications. Participates in code reviews to ensure compliance with development standards and system/business requirements. (35%).\nWorks with trainers, technical support staff, network specialists and contract staff to perform modifications and/or updates to existing systems or to implement new systems. Identifies, investigates and resolves production problems. This may include analyzing problems, coding, testing, implementing and training of other technical staff and/or customers. (25%).\nAnalyzes requirements for new applications/enhancements to be implemented in the division. (10%).\nWorks with a software development team. Communicates with other team members to coordinate development efforts. Provides development status to the team leader or project manager. (20%).\nAssists in the development and maintenance of systems documentation. (10%).\n\n \nRequired Skills:\n\nExperience in computer programming, analysis and development of complex business processes and system solutions. Required 7 Years \nExperience in coding, testing, and debugging of programs that are in development and/or requiring support for issue resolution, performance or enhancement. Required 7 Years\nAbility to process information logically; to design programs and systems logic; to prepare program specifications. Required 7 Years\nHighly developed oral and written communications skills. Required 7 Years\nHigh level of interpersonal skills to work effectively with others motivate employee and elicit work output. Required 7 Years\nKnowledge and understanding of Information Technology industry trends, directions and market experience; ability to relate them to own organization. Required 7 Years\nKnowledge of architectural concepts, principles, and tools relevant to infrastructure, information, applications, organizational structure, etc. Required 7 Years\nKnowledge of emerging technologies (new to company systems as well as those that are new to the information systems industry). Required 7 Years\nKnowledge of tools, techniques and good practices for protecting the integrity of corporate data and associated processing, company technology practices, standards and procedures. Required 7 Years\nKnowledge of solution delivery utilizing Agile or Scrum methodology. Required 7 Years\nFamiliarity with company's information architecture and information management methodologies. Preferred 2 Years \nFamiliarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components. Preferred 2 Years\n\n \n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc ",
+      "closing": {
+        "closing_date": "2026-06-09T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "70",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/UJ2MEUWz9T6ayqcUYMsJe2fm93dL0ZsxpGJd8jrsomI",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c318G6GGzACwedxtLHnpMp8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_CTdXsUHcrAcvuVZOY8_gQ=",
+      "title": "Public Health Nursing Consultant",
+      "location": "",
+      "experience": {
+        "experience": "5-10 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\nEnd Client: State of Tennessee\r\nJob Title: Public Health Nursing Consultant \nDuration: 12+ Months\r\nStart Date: ASAP\r\nPosition Type: Contract\r\nNumber of Hours: 37.5 Hours a Week\r\nLocation: Nashville, TN 37243 Hybrid\r\nInterview Type: Webcam/ In-person\r\nCEIPAL: STN_HD801_IK\nDepartment: Tennessee Department of Health\nDescription: The Neonatal Abstinence Syndrome (NAS) Surveillance and Birth Defects Surveillance Programs within the Family Health and Wellness Division at the Tennessee Department of Health are seeking a Public Health Nurse Consultant 1. This is a fulltime hybrid position that includes remote work and required in office days (1–2 times per month) at the Central Office in Nashville, TN. Typical working hours Monday - Friday 8AM to 4:30PM CST, 37.5 hours per week. Travel to central office in Nashville, TN is not reimbursable. The Public Health Nursing Consultant 1 will serve as a subject matter expert for both teams - Neonatal Abstinence Syndrome and Birth Defects – and will focus mainly on reviewing and abstracting medical records. \n\n\nJob duties will include: \n\n\n\n\nMaintain status of all infant medical record requests in REDCap \n\n\n\n\n\n\nReview assigned medical records (digital, electronic, and hard copies) and extract relevant information and required data variables \n\n\n\n\n\n\nReview and abstract assigned electronic medical records \n\n\n\n\n\n\nCross-reference information from multiple sources to ensure abstracted data is complete and accurate \n\n\n\n\n\n\nPerform data entry into database for abstracted medical records \n\n\n\n\n\n\nReview data entry by non-clinical staff to ensure clinical accuracy \n\n\n\n\n\n\nMaintain HIPAA compliance at all times \n\n\n\n\n\n\nSubmit service referrals to appropriate social services, when indicated \n\n\n\n\n\n\nWork closely with the NAS and Birth Defects Surveillance Teams to identify issues and ensure data processes are complete and accurate \n\n\n\n\n\n\nMaintain partnerships with medical records office staff and provide feedback as it relates to process improvements \n\n\n\n\n\n\nWork independently, responsibly, and efficiently; problem-solving and communicating when needs are present \n\n\n\n\n\n\nComplete abstraction assignments on time with minimal supervision \n\n\n\n\n\n\nAttend weekly meetings with the NAS and TNBDSS teams \n\n\n\n\n\n\nMaintain ongoing education on developments in patient care, data management, birth defects, healthy pregnancy, and quality improvement \n\n\n\n\n\n\n\n\nWork closely with program epidemiologists to ensure accuracy of data collection \n\n\n\n\n\n\nPartnering with other FHW programs within Children and Youth with Special Healthcare Needs (CYSHCN) on special projects and strategic planning \n\n\n\n\nQualifications/Requirements  \n\n\n\n\nEducation: Bachelor of Science in Nursing (BSN), Master’s degree (MSN) preferred.  \n\n\n\n\n\n\nExperience:  \n\n\n\n\n\n\nMinimum 1 year in Health Information Management; Coding, and/or Medical Record abstraction experience  \n\n\n\n\n\n\nClinical background in High-Risk Obstetrics, Pediatrics, Labor/Delivery, Congenital Birth Defects, Neonatal Abstinence Syndrome, and/or Maternal/Child Health required \n\n\n\n\nAdditional Information \n\n\n\n\nThis position is supervised by the Public Health Nurse Consultant Manager.  This position does provide the opportunity to work from home and will require a minimum in-person commitment of at least two (2) days in the Nashville, TN Central Office location.   \n\n\n\n\n\n\nApplicants must be Tennessee residents. \n\n\n\n\n\n_________________________________________________________________________________________________________________________________________________________\nV Group Inc. is a New Jersey-based IT Services and Products company, strategically organized into multiple business units: Public Sector, Enterprise Solutions, Ecommerce, and  Digital. Within our Public Sector unit, we specialize in delivering IT Professional Services to Federal, State, and Local governments. We hold multiple contracts across 30+ states across US, which include: NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, MN, NM, VT, and WA. If you're considering a career opportunity with V Group or exploring a partnership, I welcome you to reach out to me with any questions about our services and the unique advantages we offer to consultants. And please feel free to share my contact information with others who may benefit from connecting with us.\nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc\n",
+      "closing": {
+        "closing_date": "2026-06-09T17:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "40",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Amit Mehra V Groupamitm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/7-R8h5w13OPMKZXkBKTthVPo1Mr7LwLSbuSUmLv-S9s",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_CTdXsUHcrAcvuVZOY8_gQ="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cwT1nHPRLfE4j4DEUdD5yEw=",
+      "title": "MUMPS Developer",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Rishabh Pandey at rishabhp@vgroupinc.com or call at 609-205-4070.\n \n \nDirect End Client: State Of New York\nJob Title: MUMPS Developer\nDuration: 30 Months\nLocation: Schenectady, NY 12304 (Hybrid)\nHours Per Week: 40 Hours\nInterview Type: Webcam\nCeipal ID: SNY_MUMP810_RP\n \nShort Description: (Office for People with Developmental Disabilities)\nThe consultant will support state staff with ongoing support and maintenance for OPWDD’s Tracking and Billing System (TABS), in addition to assisting with design, development and testing for any new and existing projects for TABS.\n \nResponsibilities:\n\n\n‘MUMPS/Cache' programming. \n\n\nResponsible for attending and participating in meetings related to projects and tasks impacting the Tracking and Billing System (TABS). \n\n\nGathering, documenting, and implementing technical requirements surrounding the analysis and design of new MUMPS/Cache' solutions to support the strategic vision of OPWDD. \n\n\nSupport of existing interfaces and the development and implementation of new technology to interface between the TABS system and other internal and external data consuming systems.               \n\n\n \nRequired:\n\n\n84 months programming experience using MUMPS to develop and implement software applications in a health-care environment.                      \n\n\n24 months programming experience using WSDL in SOAP applications for the designing, creation, and updating Cache’ web services.                           \n\n\n24 months programming experience using MUMPS (Mass. General Utility Multi-Programming System) excluding post-relational Cache’ (i.e., Cache’ objects, etc.). \n\n\n24 months programming experience working with Project Managers on a Project Team providing technical assistance and guidance in making use of new technologies and methodologies when implementing new projects while delivering continual improvements for an existing legacy system.                     \n\n\n24 months programming experience working with data exchange standards for sharing healthcare related data. For example, Federal HIPAA Transactions (ASC 835, 837, etc.), HL7, NIEM, etc.                            \n\n\n24 months programming experience using a recent (Version 2018 or later) version of Cache’ or IRIS for Health to develop software.                     \n\n\n \nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc",
+      "closing": {
+        "closing_date": "2026-06-16T17:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "07/15/2026",
+        "start_dateStr": 1784073600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "80",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/HHiQlr9ZKovKiNPQ6KqOs64lzYLIzuQHN-QKPRu2gCk",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cwT1nHPRLfE4j4DEUdD5yEw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2DF46dmlqwu84L-LChQhwU=",
+      "title": "Technical Support Analyst",
+      "location": "301 Halifax Street  Petersburg VA 23803",
+      "experience": {
+        "experience": "2-10 years",
+        "min_experience": "2"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Prafull Tamrakar at Prafullt@vgroupinc.com or call at 609-733-5057.\nDirect End Client: Virginia Department of Health (VDH)\nJob Title: Technical Support Analyst 4\r\nDuration: 3 Months\r\nLocation: Petersburg, VA 23803\r\nHours Per Week: 40 Hours\r\nInterview Type: In Person Only\r\nCeipal ID: SVA_HD382_PT\r\nJob Code: 803055\nScope of Project:\nA. VDH has determined that there is a need for regional IT Service Support that will also assist with PC Refresh throughout the Commonwealth.\nIT Service Support- PC Refresh\nVDH has determined that there is a need for regional IT Service Support that will also assist with PC Refresh throughout the Commonwealth. The position will report to the Office of Information Management’s IT Operations Center and will perform various tasks to help direct IT requests through the appropriate channels, communicate the IT needs of the regions, and will be the voice of their assigned region. The candidate will be responsible for scheduling refresh appointments and imaging, deploying, transferring data, installing apps and doing all hardware set-up and troubleshooting. It's critical that candidates have experience managing their own work and, ideally, scheduling refreshes/deployments directly with users.\nResponsibilities:\n· Daily Duties Includes but not limited to:\n· Determine the needs of the region for hardware, software, upcoming projects, and more.\n· Communicate needs of the region to the IT Operations Center.\n· Demonstrate servant leadership through collaborative strategic and tactical planning to achieve holistic goals of the Operations Center.\n· Direct users to the appropriate source of help based on needs.\n· Coach staff through troubleshooting computer, hardware, phone, mobile phone, asset inventory, and software issues.\n· Advise users on how to use technology or what technology exists to meet their business needs or communicates those needs to the IT Operations Center for advice.\n· Provides coordination and assistance with Asset Management, PC Refresh, Phone System Issues, Printer Refreshes, etc.\n· Escalates any urgent issues and outages to the IT Operations Center, Information Security Office, and VITA when necessary.\n· Actively tracks current and future initiatives, needs, issues, concerns, projects, and action items.\n· Provides weekly reports on the status of operations and the above listed tracked activities to the IT Operations Center.\nCommunicates new technologies, opportunities, events, changes, policies, best practices and procedures to the assigned region.\nRequired/Preferred Skills:\n• Knowledge of IT Service Management: Incident, Change, Service Request, and Asset Management \n• General working knowledge of MS 365 applications, including Word, PowerPoint, Excel, Outlook, Forms, SharePoint, Teams, Bookings. \n• Experience troubleshooting hardware and software – hands-on or from a service desk. \n• Demonstrated skills in creating professional communications to users.\n• Demonstrated success in managing and prioritizing work \n• Must be able to write clear emails explaining technical issues and work toward solution and have the ability to follow up with user/district as need \n• Must be able to meet with staff and converse about needed technical resolutions and get as much information as possible during the meeting. \n• Must have a basic understanding of various types of technology and the ability to research them to trouble shoot possible technical issues \n• Experience working on PC Refresh projects \n• Demonstrated knowledge Virginia Information Technologies Agencies policies \nHighly Desired\n• Hardware/software troubleshooting experience \n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector\r\nLinkedIn: https://www.linkedin.com/company/v-group/\r\nFacebook: https://www.facebook.com/VGroupIT\r\nTwitter: https://www.twitter.com/vgroupinc",
+      "closing": {
+        "closing_date": "2026-06-09T17:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "07/01/2026",
+        "start_dateStr": 1782864000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "29",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/l2B8pEnNx9Of6vA-kp8nyR5xjAWex2QeVZ6PP7XACgg",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2DF46dmlqwu84L-LChQhwU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c8vxxGzoV2eimpavyy7KXz0=",
+      "title": "Information Technology Applications Analyst Level I/II",
+      "location": "",
+      "experience": {
+        "experience": "5-10 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Praveen H at praveenh@vgroupinc.com or call at 609-766-2733.\n \nEnd Client: COUNTY OF SACRAMENTO\nDepartment: Technology\n \nJob Title: Information Technology Applications Analyst Level I/II \nDuration: 6 months with possible extensions\nLocation: 799 G Street, Sacramento, CA 95814\nPosition Type: Contract\nHours Per Week: 40 Hr\nInterview Type: In-person in Sacramento, CA\nCeipal ID: SCA_AEM005_PH\nJob ID: RTH 1239 2526.7610.05 \n \n \nScope Of the Project:\nThe objective of this project is to design, develop, and implement a robust digital experience platform using Adobe Experience Manager (AEM) integrated with modern front-end technologies such as Angular, JavaScript, and CSS, along with backend services in Java. The project aims to build and deploy custom AEM components to deliver dynamic, scalable, and user-friendly web experiences. It also focuses on enhancing search capabilities through SOLR-based customization, enabling efficient and accurate content discovery. Additionally, the project includes the development and integration of AI-driven features, such as intelligent search and digital assistant functionalities, to improve user engagement and personalization. Overall, the project intends to create a high-performance, analytics-driven, and future-ready digital solution.\n \nResponsibilities:\n\n\nThe ideal candidate will have experience with AEM, Angular framework, JavaScript, CSS, and Java.  \n\n\nThis position will be responsible for building, debugging, and deploying custom components in the AEM environment.  \n\n\nThis position will also be responsible for implementing advanced analytics driven features, customizing search features based on the SOLR search engine, and developing and supporting AI based search and digital assistant features. \n\n\n \nRequired/Preferred Skills: \n\n\nDesign, develop, and maintain web-based applications using Java, JavaScript, Angular, CSS, and Bootstrap\n\n\nCollaborate with cross-functional teams to analyze requirements and deliver scalable, high-quality solutions\n\n\nImplement responsive UI/UX components and ensure performance optimization across devices\n\n\nManage source code using Git, Branch creation and management, Code commits and synchronization, Handling pull requests and performing code reviews, Resolving merge conflicts effectively\n\n\nBuild, package, and deploy applications using CI/CD pipelines, Support and manage deployments to Test and QA environments, troubleshoot build and deployment issues and ensure smooth release cycles\n\n\nDevelop and maintain Apache SOLR-based search solutions, Design, build, and integrate SOLR APIs for efficient search and indexing, Optimize search performance and relevance\n\n\nManage and maintain repositories using Adobe Jackrabbit Oak, Handle structured and unstructured content storage and retrieval\n\n\nAWS experience is a plus.\n\n\n \n \n \nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc\n \n \n \n",
+      "closing": {
+        "closing_date": "2026-06-06T16:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/22/2026",
+        "start_dateStr": 1782086400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "65",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Xf5QHp3odxZC7CQF93lHced61HqoKBDTu6kgamWlqqQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c8vxxGzoV2eimpavyy7KXz0="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0ynUamFQOK88LRZcXkhAyA=",
+      "title": "PeopleSoft Techno-Functional Consultant",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Rishabh Pandey at rishabhp@vgroupinc.com or call at 609-205-4070.\n \n \nDirect End Client: State Of Oklahoma\nJob Title: PeopleSoft Techno-Functional Consultant\nDuration: 12 Months\nLocation: Oklahoma City, OK 73105\nHours Per Week: 40 Hours\nInterview Type: Onsite/Webcam\nCeipal ID: SOK_PEOP601_RP\n \nDescription\n(Office of Management and Enterprise Services)\nThe Office of Management and Enterprise Service, Finance Center of Excellence (FCoE), is in need of additional IT augmentation services to support the State of Oklahoma PeopleSoft Financials system. This support will include project management, support for project implementations, financial upgrades and fixes, as well as production support for Phase II state agencies. The supplier will be responsible to provide to provide a qualified resource as needed to allow for success with that State of Oklahoma modernizations. \nRequirements\nThe state has accelerated their implementation of PeopleSoft Phase II modules for numerous agencies. These resources will participate as FCOE CORE Team members and may take both support and lead roles in various projects. \n \nThe resource must meet all requirements: \n\n\nProficient with Financials 9.2, PUM 53. \n\n\nKnowledgeable in Grants, Projects Costing, Contracts, Accounts Receivable, Billing, Accounts Payable, Travel & Expense, Treasury, General Ledger, Commitment Control, and Asset Management. \n\n\nFunctional support for PeopleSoft Project Implementations, as well as protecting the statewide configuration and adhering to the statewide accounting procedures. \n\n\nAbility to translate functional requirements into technical specifications. \n\n\nWorking with PeopleSoft Business Analyst, System Analyst, System Integrators and Oracle for functional and technical support, and other CAR or external stakeholders. \n\n\nAbility to work with and proficiently communicate with agency, technical and functional users. -Updating manuals, job aids, SOPs and other documents as needed. \n\n\nPreparing test scenarios, test scripts and training materials and configuration documents as needed. \n\n\nAbility to work individually or with System Integrator to identify and document workflow requirements and design a process that meets both agency and statewide requirements within Accounts Payable and Travel and Expense modules. \n\n\nBe proficient in the following: Component Interfaces, SQR, App Engine, People Code, PeopleTools, SQL Developer, Bl Publisher. \n\n\nFunctional production support for all respective PeopleSoft Modules. \n\n\nAbility to identify risks and obstacles within a project and provide a thorough assessment FCoE, IS, CAR and other OMES leadership. \n\n\nThorough understanding of State of Oklahoma Accounting procedures, policies, and standards. \n\n\nAssist with testing patches and fixes, as well as Financials PUM Upgrade testing, as well as PeopleSoft Test Framework maintenance and scripts for testing Preferences given to resources with government experience and/or State of Oklahoma experience, as well as experience with current PeopleSoft PUM Image. \n\n\n \nDeliverables can include all the following: \n\n\nProduction support completed in a timely manner. \n\n\nWeekly status report outlining work accomplished for the reporting period. \n\n\nProject plan as needed. \n\n\nDevelopment Requests produced in accordance with state guidelines. \n\n\nFit/gap documentation as needed. \n\n\nTest scripts documented as needed. \n\n\nTest results documented as needed. \n\n\nTraining documentation completed. \n\n\n \nSchedule of Deliverables can include all of the following: \n\n\nWeekly status reports. \n\n\nProject plan as needed. \n\n\nAgency Travel and Expense and AP workflow requirements documented in accordance with project plan. \n\n\nTest scripts documented \n\n\nin accordance with project plan. \n\n\nD Test results documented \n\n\nin accordance with project plan. \n\n\nD Training guide. \n\n\nTech configuration/setup steps as needed. \n\n\nProjects completed and tested and signed off by state resources and other respective stakeholders \n\n\nin accordance with the project plan.\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc",
+      "closing": {
+        "closing_date": "2026-06-19T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Sandeep Soman V Groupsandeeps@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/-l7xkJNSyjVeuMZjQfIHzlSgXygixdODovPtlZOlMCk",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0ynUamFQOK88LRZcXkhAyA="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1j3JESmJwv0z_882Hh5bsE=",
+      "title": "Azure Infrastructure Engineer",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "For more details, please connect with Soumya Nayak at soumyan@vgroupinc.com or call at (919) 892-9711.\n\nJob Title: Sr. Azure Infrastructure Engineer\nDuration: 12 Months \nLocation: 9120 Lockwood Blvd, Mechanicsville, VA 23116\nHours Per Week: 40\nInterview Type: In Person Only\nJob Code: 803344\n \nDepartment: Virginia Department of Transportation (VDOT)\n \nScope of Project:\nWe are seeking a Senior Azure Infrastructure Engineer to implement, configure, manage, and provide guidance on cloud infrastructure in Azure environment. The selected candidate will be responsible for maintaining a secure and stable Azure environment, supporting mission-critical systems, leading cloud migration initiatives, implementing disaster recovery strategies, and providing technical guidance to operational teams and leadership.\n \nResponsibilities:\n\nImplement, configure, manage, and monitor Azure cloud infrastructure resources.\nProvide guidance on Azure networking, security policies, and best practices.\nPlan and execute migrations from on-premises environments to Azure.\nSupport mission-critical enterprise applications and infrastructure.\nDesign, implement, and maintain backup and disaster recovery solutions.\nCreate monitoring dashboards, alerts, and observability solutions using Azure Monitor, Workbooks, and Alerts.\nPerform vulnerability remediation and support security initiatives.\nTroubleshoot production application and infrastructure issues.\nCollaborate with teams supporting .NET, Java, SQL, Oracle, Microsoft Dynamics, and other technologies.\nProvide technical guidance to management and leadership teams.\n\nRequired/Preferred Skills:\nRequired:\n\nExperience implementing, maintaining, monitoring, and providing guidance on resources & infrastructure in Microsoft Azure\nExperience planning and executing migrations from on-premises envrionments to Azure\nExperience working in mission-critical enterprise environments and implementing backup & DR strategies\nExperience implementing networking and security policies in Azure\nExperience using Azure Monitor for alerting, observability, and dashboards\nExperience with vulnerability remediation & working on security initiatives\n\n\n \nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc\n",
+      "closing": {
+        "closing_date": "2026-06-09T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "90",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/LQtId2gGZCMmYnr3tAZO_1HgJv-J_cJXoE9NmqsOyj4",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1j3JESmJwv0z_882Hh5bsE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3czJrUIK6Vg099PJo0vGLLWk=",
+      "title": "QA Engineer",
+      "location": "",
+      "experience": {
+        "experience": "8-15 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "Direct End Client: Texas Health and Human Services Commission \nJob Title: QA Engineer\nLocation: Austin, TX 78751 (Hybrid)\nDuration: 3+ Months\nPosition Type: Contract\nHours Per Week: 40 Hr\nInterview Mode: Webcam or In Person\nCeipal ID: STX_QA702_MA\nRequirement ID: 529601702\nexas Health and Human Services Commission requires the services of 1 QA Engineer Automated 3, hereafter referred to as Candidate(s), who meets the general qualifications of QA Engineer Automated 3, Quality Assurance (QA) and Testing and the specifications outlined in this document for the Texas Health and Human Services Commission.\n\r\nAll work products resulting from the project shall be considered \"works made for hire\" and are the property of the Texas Health and Human Services Commission  and may include pre-selection requirements that potential Vendors (and their Candidates) submit to and satisfy criminal background checks as authorized by Texas law. Texas Health and Human Services Commission will pay no fees for interviews or discussions, which occur during the process of selecting a Candidate(s).\nThe Department of Information Resources (DIR) requires the services of 1 QA Engineer Automated 3, hereafter referred to as Worker, who meets the general qualification of QA Engineer Automated 3 and the specifications outlined in this document for the above-named customer.     \r\n \nQA automation engineers design automated tests by creating scripts that run testing functions automatically. This includes determining the priority for test scenarios and creating execution plans to implement these scenarios. Designing documentation for automated processes.\n\nDesign and execute test plans and test cases for database applications.\nPerform functional, performance, and regression testing on various databases.\nIdentify, document, and report defects and issues found during testing.\nWork with development and database administration teams to resolve issues.\nDevelop and maintain automated scripts for database testing.\nEnsure data integrity and consistency across various database systems.\nMonitor database performance and provide recommendations for optimization.\nCollaborate with stakeholders to gather testing requirements and objectives.\n\nSkills:\n\n8 Years Required Experience with designing automated tests by creating scripts that run database testing functions automatically\n8 Years Required Experience in prioritizing test scenarios and creating execution plans to implement these scenarios\n8 Years Required Experience in creating test plans, test cases, and preparing test environments\n8 Years Required Experience in performing moderately complex functional, application, and regression testing\n8 Years Required Knowledge of the software development life cycle and software development methodologies\n8 Years Required Able to interpret requirement documents and able to update test documents accordingly\n8 Years Required Strong familiarity with analysis, planning and management reporting functions\n8 Years Required Acquires knowledge of the Customer's business in assigned area\n8 Years Required Strong teamwork and interpersonal skills\n8 Years Required Able to work with Customer as needed during test cycle\n8 Years Required Excellent analytical; problem-solving; team playing; and oral and written communication skills\n8 Years Required Proven ability to work successfully with technical and non-technical groups and manage multiple responsibilities\n2 Years Preferred Experience with Texas DIR Project Delivery Framework and document templates\n2 Years Preferred Familiarity with company's information architecture and information management methodologies\n2 Years Preferred Familiarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components\n\n\n\nV Group Inc. is an IT Services company which supplies IT staffing, project management, and delivery services in software, network, help desk and all IT areas. Our primary focus is the public sector including state and federal contracts. We have multiple awards/ contracts with the following states: AR, CA, DE, FL, GA, IL, KY, MD, ME, MI, NC, NJ, NY, OH, OR, PA, SC, TX, VA, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n\nPlease share my contact information with others working in Information Technology.\n\nWebsite: www.vgroupinc.com\nLinkedIn: www.linkedin.com/company/v-group/\nFacebook: www.facebook.com/VGroupIT\nTwitter: www.twitter.com/vgroupinc\n \n ",
+      "closing": {
+        "closing_date": "2026-06-09T16:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "80",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/vzXW4Dn5Co_nkxFmdJreSacRJWSbGqaZUc8Asz7Ad6s",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3czJrUIK6Vg099PJo0vGLLWk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cx4FTQKBqkz6Vco8zdTXSLY=",
+      "title": "Medicaid Business Analyst",
+      "location": "",
+      "experience": {
+        "experience": "05-10 years",
+        "min_experience": "05"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "Direct End Client: Texas Health and Human Services Commission\nJob Title: Medicaid Business Analyst\nDuration: 05+ Months\nLocation: 701 W 51st Street, Austin, TX 78751\nPosition Type: Contract\nInterview Type: Webcam or In Person\nCeipal ID: STX_BA701_SB\nRequirement ID: 529601701\n \nNote: Position will be 3 days remote with 2 days (Mon & Tues) required to be onsite\n \nUnderstands business objectives and problems, identifies alternative solutions, performs studies and cost/benefit analysis of alternatives. Analyzes user requirements, procedures, and problems to automate processing or to improve existing computer system: Confers with personnel of organizational units involved to analyze current operational procedures, identify problems, and learn specific input and output requirements, such as forms of data input, how data is to be; summarized, and formats for reports. Writes detailed description of user needs, program functions, and steps required to develop or modify computer program. Reviews computer system capabilities, specifications, and scheduling limitations to determine if requested program or program change is possible within existing system.\n \nKey Deliverables:\n\n\nAssists in development of project documentation based on HHSS/DIR requirements. Assists in the development of application on-line help. Conducts requirements gathering with non-technical Subject Matter Experts to understand business process needs and program requirements to create Use Cases, flow charts, acceptance criteria and other documentation needed for system enhancements. Analyzes new and existing business processes to determine how modifications and changes will impact the system. Will serve as a technical expert responsible for working with non-technical and technical stakeholders to ensure clear and effective communication is maintained throughout the Software Development Life Cycle. (30%)\n\n\nEnsures that design complies with HHSS standards (5%)\n\n\nPerforms necessary testing of assigned programs, including the generation of test data, writing test scripts/execution sequences, examining test results, debugging detected errors, etc. Uses current software development methods/techniques and established development standards (which include testing standards) to ensure the quality and maintainability of applications. (25%)\n\n\nProvide status reports on enhancement activities and resolution of issues impacting system. Notify immediate manager and technical lead of critical issues impacting the system’s ability to deliver services as designed. Attends regular status meetings to update team members such as developers, business analysts, database administrators and project managers on progress of assigned work. Regularly updates assignments through the use of a ticketing system allowing for the sharing of information with project team members. Provides information to non-technical and technical staff via email, telephone and formal presentations covering such topics as system functionality, data collection processes and other technical issues as needed. Audiences for these communications would be both internal business groups and external entities to the agency including governmental organizations as well as contract service providers. (25%)\n\n\nFacilitate information sharing to ensure knowledge transfer and the elimination of single points of failure for an information system. This will be done through one-on-one discussions, group sessions to review system documentation, preparation of documentation illustrating system architecture, workflows and dependencies for project deliverables. Update immediate supervisor, other management team members and system stakeholders as needed regarding recommended implementation strategies and solutions. (15%)\n\n\n \nRequired Skills:\n\n\n5 Years Required Experience with Medicaid Claims Processing.\n\n\n5 Years Required Experience in business objectives and problems and identifying alternative solutions.\n\n\n5 Years Required Experience in reviewing, analyzing, and evaluating user requirements, operational procedures, and problems to automate processing and/or to improve existing computer systems.\n\n\n5 Years Required Experience in writing detailed descriptions of user needs, program functions, and steps required to develop and/or modify computer program.\n\n\n5 Years Required Experience in cost/benefit analysis of systems and alternatives.\n\n\n5 Years Required Experience in analyzing and documenting input and output requirements, such as forms of data input, how data is to be summarized, and formats for reporting.\n\n\n5 Years Required Experience with Azure DevOps and generation of wireframes.\n\n\n5 Years Required High level of sound logic and analytical ability difficult.\n\n\n5 Years Required Highly developed oral and written communications skills.\n\n\n5 Years Required High level of interpersonal skills to work effectively with others motivate employees and elicit work output.\n\n\n5 Years Required Knowledge and understanding of Information Technology industry trends, directions and market experience; ability to relate them to own organization.\n\n\n5 Years Required Knowledge of architectural concepts, principles, and tools relevant to infrastructure, information, applications, organizational structure, etc.\n\n\n5 Years Required Knowledge of emerging technologies (new to company systems as well as those that are new to the information systems industry).\n\n\n5 Years Required Knowledge of tools, techniques and good practices for protecting the integrity of corporate data and associated processing, company technology practices, standards and procedures.\n\n\n5 Years Required Knowledge of solution delivery utilizing Agile or Scrum methodology.\n\n\n2 Years Preferred Experience with Texas DIR Project Delivery Framework and document templates.\n\n\n2 Years Preferred Familiarity with company's information architecture and information management methodologies.\n\n\n2 Years Preferred Familiarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components.\n\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\n If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc",
+      "closing": {
+        "closing_date": "2026-06-08T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/KYmXYdrWvtMoYKNT_fSyptRgXpZzfJAYRgtcRc9xS2U",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cx4FTQKBqkz6Vco8zdTXSLY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6Tr9sArmW1Dt2O9hU2RGhI=",
+      "title": "QA Automation Engineer",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "Direct Client: Texas Health and Human Services Commission\nJob Title: QA Automation Engineer\nDuration: 05+ Months\nLocation: 701 W. 51st Austin, TX 78751 (Hybrid)\nPosition Type: Contract\nWork hours: 40 hours per week\nInterview Type: Webcam or In-Person  \nCeipal ID: STX_QA707_AK\nRequirement ID: 529601707\n \nDescription: QA automation engineers design automated tests by creating scripts that run testing functions automatically. This includes determining the priority for test scenarios and creating execution plans to implement these scenarios. Designing documentation for automated processes.\n \nResponsibilities:\n\nCoordinates and/or performs work on programming projects including those that are highly complex in nature and/or large in scale.\nCoordinates and/or writes test plans and test data.\nWrites complex software code and debugs software.\nAnalyzes proposed applications for software regression suites\nAnalyzes, reviews, and revises software to increase operating efficiency or to adapt new procedures.\nPrepares detailed analyses, plans, diagrams, and verification procedures for existing and proposed applications.\n\n \nRequired Skills:\n\nExperience with designing automated tests by creating scripts that run testing functions automatically. Required 8 Years \nExperience in prioritizing test scenarios and creating execution plans to implement these scenarios. Required 8 Years\nExperience in creating test plans, test cases, and preparing test environments. Required 8 Years\nExperience in performing moderately complex functional, application, and regression testing. Required 8 Years\nKnowledge of the software development life cycle and software development methodologies. Required 8 Years\nAble to interpret requirement documents and able to update test documents accordingly. Required 8 Years\nStrong familiarity with analysis, planning and management reporting functions. Required 8 Years\nAcquires knowledge of the Customer's business in assigned area. Required 8 Years\nStrong teamwork and interpersonal skills. Required 8 Years\nAble to work with Customer as needed during test cycle. Required 8 Years\nExcellent analytical; problem-solving; team playing; and oral and written communication skills. Required 8 Years\nProven ability to work successfully with technical and non-technical groups and manage multiple responsibilities. Required 8 Years\nExperience with Texas DIR Project Delivery Framework and document templates. Preferred 2 Years \nFamiliarity with company's information architecture and information management methodologies. Preferred 2 Years\nFamiliarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components. Preferred 2 Years\n\n \n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc ",
+      "closing": {
+        "closing_date": "2026-06-08T18:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/2026",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/BU9VIXrzrSVtPQRJHk7dRZHW_l6pm9HXErBYR4Bf5eE",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6Tr9sArmW1Dt2O9hU2RGhI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2sxo3pvnOPwyDsXlwzUSQo=",
+      "title": "Project Manager",
+      "location": "",
+      "experience": {
+        "experience": "7-15 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "For more details, please connect with Praveen H at praveenh@vgroupinc.com or call at 609-766-2733.\n \nClient: State Of New York - Office of Mental Health\n \nJob Title: Project Manager\nDuration: 30 Months\nLocation: Albany NY 12229\nHours Per Week: 40 Hours\nInterview Type: Onsite/Webcam\nCeipal ID: SNY_PM780_PH\n \nScope of Project:\nThe project involves managing and coordinating technology initiatives across a network of clinics, hospitals, and outpatient facilities. The candidate will be responsible for managing projects related to updating and/or implementing new systems, software, and hardware.\n \nAs a Project Manager, you will oversee multiple projects, ensuring they are delivered on time, within scope, and aligned with business needs. You will work closely with business stakeholders, technical teams, and analysts to gather requirements, track progress, manage risks, and ensure smooth implementation of solutions.\n \nThe role will also include facilitating meetings, monitoring project milestones, coordinating testing efforts, and providing regular status updates while adhering to established project management standards.\n \nResponsibilities:\n\n\nDaily Tasks include but not limited to the following:\n\n\nUse project management tools, such as Microsoft Word, Excel, Project and Visio to allocate assignments, track project status and determine time estimates.\n\n\nUse project management methodology and documentation to manage the project. Plan and facilitiate all required project and technical meetings including demonstrations of application development progress.\n\n\nProvide regular status reports detailing project metrics, progress, and mitigation strategies underway to address concerns.\n\n\nPartner with Business Analyst to ensure the business requirements are elicited from Business owners and key stakeholders.\n\n\nEnsure requirements are communicated, documented, addressed and if approved, included in future project plans.\n\n\nCoordinate the development of test plans and testing with the Project Technical Lead.\n\n\nAct as facilitator and primary project manager for multiple projects related to the OMH Business efforts; including projects related to \n\n\nimplementation of applications or infrastructure changes. Report status of current tasks and outstanding issues to supervisor. \n\n\nAdhere to all NYS Project Management directives and processes.  \n\n\n \nRequired/Preferred Skills:\n\n\nProject Management Professional Certification\n\n\n84 Months Experience managing projects from initiation through closeout maintaining project budgets, schedules, scope requirements, status reports, communication plans, and quality standards.\n\n\n84 Months Experience as a project manager working as a liaison between Requesting Entity (i.e. Government Agency or Private Company) and Vendors from requirements gathering through implementation.\n\n\n60 months of experience in technical requirement gathering for the integration of central server and facility systems, including networking, in collaboration with architecture and infrastructure teams.\n\n\n48 Months Project Management experience leading projects with direct stakeholder involvement at state government director level and above.\n\n\n36 months of experience managing AI-related projects, engaging with vendors such as Amazon, Google, and Microsoft.\n\n\n36 Months Experience managing projects with Application Programming Interfaces (API), and other interfaces that send and receive data between systems.\n\n\n24 months of experience facilitating requirement sessions, ensuring requirements are effectively communicated and successfully met.\n\n\n \n \nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc\n \n \n \n",
+      "closing": {
+        "closing_date": "2026-06-08T17:00:00Z",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "65",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/jvT0Y6W4IMleHpn6uXfInZcm0NHG4hnjgnP0dgoEfZo",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2sxo3pvnOPwyDsXlwzUSQo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c47pxi1yDfPeLZy8mCePqRY=",
+      "title": "Senior Business Analyst",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "End Client: State of Ohio \nJob Title: Senior Business Analyst \nDuration: 12 Months\nLocation: Columbus, OH 43215 (Remote)\nPosition Type: Contract\nHours Per Week: 40 hours per week\nInterview Type: Webcam or In-Person  \nCeipal ID: SOH_BA860_AK\nRequirement ID: DODD- Business Analyst 3(BA3) (803860)\n \nDepartment: Department of Developmental Disabilities \n \nNote: 100% REMOTE candidate MUST be able to report onsite for 1st day-30 E Broad Street, Columbus, Ohio 43215 \n \nDescription: \nThe Business Analyst 3 serves as an experienced analyst responsible for independently leading requirements analysis for moderately complex initiatives and supporting larger efforts. This role facilitates stakeholder discussions, documents business needs and requirements, creates workflows and visual documentation, supports traceability, and works closely with business and technical teams to ensure requirements are clear, testable, and ready for delivery.\n \nResponsibilities:\n\nLead requirements discovery for moderately complex projects, enhancements, or system changes. \nFacilitate requirements sessions with business stakeholders, Product Owners, technical teams, QA, and other project participants. \nAnalyze current-state and future-state business needs, including gaps, dependencies, risks, and impacts to users or systems. \nCreate business process models, workflows, and visual documentation using formal notation such as BPMN when appropriate. \nTranslate stakeholder needs into clear business, functional, stakeholder, non-functional, reporting, and acceptance criteria requirements. \nEnsure requirements are understandable, testable, traceable, and aligned to the stated business need. \nSupport the development and maintenance of Requirements Traceability Matrices for assigned work. \nIdentify impacts across systems, operations, reporting, training, and other business areas. \nPartner with Product Owners, Scrum Masters, Project Managers, developers, QA, OCM/training, and business stakeholders to support refinement and delivery. \nHelp decompose larger requirements into smaller, actionable work items for development and testing. \nCommunicate analysis findings, requirements decisions, risks, and unresolved questions clearly to stakeholders and delivery teams. \nSupport consistent use of BA standards, templates, and documentation methods.\n\n \nRequired Skills:\n\nExperience as a Business Analyst in an Agile development environment using Azure DevOps, JIRA, or similar Agile lifecycle management tools. Required 9 Years\nStrong understanding of Agile principles, backlog refinement, and user story lifecycle management. Required 9 Years\nExcellent analytical, communication, and facilitation skills. Required 9 Years\nAbility to create detailed documentation and visual artifacts to support development efforts. Required 9 Years\nProficiency in tools such as MS Excel, Word, PowerPoint, Visio, Lucidchart or other diagramming software. Required 9 Years\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc ",
+      "closing": {
+        "closing_date": "2026-06-05T18:00:00Z",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "50",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/agpM7U_-aYNVtKCZ8H7uza6BEtgSMWa6ZuXmDYbSoAI",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c47pxi1yDfPeLZy8mCePqRY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5EZTQmH3YS-OA0GmkdFhLY=",
+      "title": "Business Analyst",
+      "location": "",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "For more details, please connect with Afra Aleem at afraa@vgroupinc.com or call at 609 371 5400 ext 112.\n \nEnd Client: New York City Department of Social Services DSS\nJob Title: Business Analyst\nProject Name: Enterprise Document Automation (EDA)\nDuration: 36 Months\nLocation: City of New York, ITS, 505 Clermont Ave, 3rd Floor, Brooklyn, NY 11238\nPosition Type: Contract\nInterview Type: Virtual (Online Meeting)\nCeipal ID: NYC_BA0607_AF\nJob ID: BID # DSS-ITS-C-2025110607\n\nRequired Skills\n\nMinimum 04 Years Experience in Business Analysis tools such as: JIRA, Balasamiq &MS Visio.\nMinimum 04  Years Experience working and co-ordinating with the Technical teams in documenting business and functional requirements.\nMinimum 04 Years Experience in overseeing project deliverables\nMinimum 04 Years Experience in designing the Data model and application Prototypes.\n\n\nDescription:\n\nResponsibilities:\n\nElicit the functional requirements/specifications that take in to account the specific need to support client forms and notices that contain combinations of data, snippets, and variable text.\nEnsure that the system design allows for rapid development, production process of the form i.e. PTM / Committal Only/In-Center, testing and deployment of ad-hoc notices and communications as well.\nIdentify the process flows and dependencies to ensure that the solution enables the generation of client facing forms and notices that must be available in 12 languages for limited English proficient individuals as per LL30.\nReview the requirements with the stakeholders for their approval.\nProvide Management Reporting and Information dissemination\nAnalyze and document current systems and processes as currently implemented.\nMake recommendations for improvements based on feedback.\nWork directly with business stakeholders, clients, designers, developers, and engineers to coordinate the building of applications to spec and on time.\n\n\n\n\n\n\nV Group Inc. is a New Jersey-based IT Services and Products company, strategically organized into multiple business units: Public Sector, Enterprise Solutions, Ecommerce, and  Digital. Within our Public Sector unit, we specialize in delivering IT Professional Services to Federal, State, and Local governments. We hold multiple contracts across 30+ states across US, which include: NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, MN, NM, VT, and WA. If you're considering a career opportunity with V Group or exploring a partnership, I welcome you to reach out to me with any questions about our services and the unique advantages we offer to consultants. And please feel free to share my contact information with others who may benefit from connecting with us.\nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc\n",
+      "closing": {
+        "closing_date": "2025-11-12T18:00:00Z",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "11/11/2025",
+        "start_dateStr": 1762819200000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "50",
+      "remote": 2,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/WEPFIeUwzPduraMHughBYS9nkuC1DvxAjfJvHBW0hrI",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5EZTQmH3YS-OA0GmkdFhLY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5xunmnhyBKec7EicV-Lg1A=",
+      "title": "Web Engineer",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "For more details, please connect with Soumya Nayak at soumyan@vgroupinc.com or call at (919) 892-9711.\n \nDirect End Client: State of South Carolina\nJob Title: Internet / Web Engineer - Project Lead\nDuration: 12 Months\nLocation: Remote (Columbia, SC 29210)\nHours Per Week: 40\nInterview Type: One Round Virtual Interview\nCeipal ID: SSC_DRUP232_SN\nJob Code: 11232\n \nScope of Project:\nThe State of South Carolina is seeking an Internet/Web Engineer - Project Lead to support web application development, CMS administration, deployment, and maintenance activities. \nThe consultant will work in a Linux-based environment utilizing PHP, Drupal 8, WordPress, SQL/MySQL, and Apache Web Server technologies.\n \nRequired/Preferred Skills:\nRequired Skills:\n• 5+ years’ experience in coding/developing/debugging web-based application software in a team development environment\n• 5+ years’ experience developing software using open-source technologies with the following platforms: Linux, PHP, and Drupal 8 and WordPress\n• 5+ years’ experience in HTML, DHTML, CSS, Dreamweaver, and Adobe Flash\n• 5+ years’ experience with relational databases such as SQL or MySQL\n• Experience in configuring Apache web server\n• Full cycle CMS deployment experience: installation, configuration and production\n• 5+ Years of Experience in the Public Sector\n \nPreferred Skills:\n• Extensive working knowledge of Adobe Photoshop\n• Ability to apply Drupal or other CMS patches\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant. Please share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc",
+      "closing": {
+        "closing_date": "2026-06-05T18:00:00Z",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "70",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Amit Mehra V Groupamitm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/N3RL6HmfHNVjp1UBbyX6hXTIYTzdT8oDFw7UVHQk7VY",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5xunmnhyBKec7EicV-Lg1A="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1TojptjbJzvv38oGZ-chmY=",
+      "title": "Oracle Cloud Infrastructure (OCI) Cloud Architect",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "Direct Client: Metropolitan Transportation Authority\nJob Title: Oracle Cloud Infrastructure (OCI) Cloud Architect\nDuration: 12 Months\nLocation: 2 Broadway, NY 10004 (Hybrid)\nPosition Type: Contract\nWork hours: 37.5 hours per week\nInterview Type: Webcam or In-Person  \nCeipal ID: MTA_ORAC553_AK\nRequirement ID: 5553-1\n \nNote: This position requires the consultant to work 3 days onsite and 2 days remote.\n \nDescription: This role focuses on designing cloud architectures primarily for Oracle Cloud along with AWS, Azure, frameworks, governance models, and cloud standards for the organization. The ideal candidate will have extensive experience partnering with business stakeholders and technical teams to understand requirements and translate them into scalable, secure, multi/hybrid‑cloud architectures. This role may require guiding engineering teams or supplementing their skill sets. A strong foundation in on‑premises infrastructure is essential due to hybrid integrations and migration initiatives. The organization is also planning to expand Infrastructure‑as‑Code capabilities.\n \nRequired Skills:\n\nOCI: 6–9 years\nAzure / AWS / GCP: 1–2 years each (nice to have)\nHybrid Infrastructure: 4–6 years\nCloud Networking: 4–6 years\nCloud DevOps / Automation: 4–6 years\nCloud Security: 2–3 years\nCloud FinOps: 1–2 years\nArchitecture Documentation (Visio or Abacus): 2–3 years\nDeep expertise in cloud platforms, services, governance, frameworks, and best practices.\nProficiency in OCI is mandatory. The architect will focus on developing architecture, standards, and governance models for the OCI platform. Experience across other cloud providers is a plus for multi‑cloud initiatives.\nExtensive experience with cloud servers and environments with configuration, patching, network and VLAN configuration, backups, system monitoring and alerts.\nCloud Platforms, Oracle Cloud (OCI), AWS, Azure, GCP\nDatabase Technologies: Oracle RAC, ASM, Data Guard, Golden Gate, RMAN, Database licensing\nProduct Architecture and roadmap, its assessment\nLinux or network administrator skills a plus\nPlatforms: Exadata, ExaCC, ExaDB-D, Exascale, DBaaS, OEM\nArchitecture: High Availability, Disaster Recovery, Multi-Cloud Architecture.\nAutomation: Terraform, Ansible, API/CLI automation\nSRE & DevOps: Monitoring, Observability, SLAs/SLOs/SLIs\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc ",
+      "closing": {
+        "closing_date": "2026-05-31T18:00:00Z",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "05/12/2026",
+        "start_dateStr": 1778544000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "70",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/yhtRMJ1EJglQOJdCNP1i_c8pXUpcgKLx4kKbUr8X82g",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1TojptjbJzvv38oGZ-chmY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0C24MbZ8CZsymfB_YmwQFI=",
+      "title": "AWS/Java/ETL Developer",
+      "location": "",
+      "experience": {
+        "experience": "7-12 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "For more details, please connect with Priyam Nagwani at 303-990-5305 or email at priyamn@vgroupinc.com\n \nEnd Client: State of North Carolina\r\nJob Title: AWS/Java/ETL Developer\nDuration: 12+ Months\r\nStart Date: ASAP\r\nPosition Type: Contract\r\nNumber of Hours: 40 Hours a Week\r\nLocation: Raleigh, NC, 27607 (Hybrid)\n\nInterview Type: Webcam\r\nCeipal ID: SNC_AWS867_PN\r\nPosition ID: NC DHHS AWS/Java/ETL Developer (802867)\n\n\n \n\n\n\nDescription: \r\nDHHS-ITD is looking to hire an AWS/Java developer with 8-10 years of software development experience. This role involves close collaboration with the data modernization teams at ITD and DPH to design, implement, and manage AWS solutions that align with their technical requirements and business objectives.\n \nResponsibilities:\n\n\nCollaborating with stakeholders to gather requirements and propose effective modernization strategies\nDesign, develop and test Java-based, cloud-native applications and backend systems\nDesigning, building, and maintaining ETL pipelines.\nAnalyzing data models and business requirements.\nData Validation: Query the database to verify that data is correctly inserted, updated, and deleted by the application, ensuring data accuracy and integrity.\nDesign, Create and Execute Test Cases\nBack-end Testing: Validating back-end logic and data processing that might not be immediately visible through the user interface\nCollaboration: Working closely with developers and business analysts to understand data requirements and ensure comprehensive test coverage. \nUtilize AWS services within application architecture\nDevelop, test, debug and deliver within timeline using best tools and best practices available.\nParticipate in code reviews, ensure security best practices, and maintain clean, efficient code.\nMonitor application performance and optimize for cost, security, and reliability.\nAbility to identify, analyze, and resolve technical issues and challenges.\nEnsures adherence to standards and best practices\nWork with product manager, business stakeholders, and other team members to refine requirements and deliver solutions\n\n\n \nRequired Skills:\n\n\nProficient in using various AWS services (e.g., VPC, EC2, S3, Lambda, ECS, EKS, RDS, API Gateway, Glue Crawlers, Athena) to build and manage cloud Required 5 Years\nExperience in software development with hands-on skills in Java - strong Java, J2EE, Java Spring framework & hibernate technology. Required 7 Years\nExperience in modernizing applications, including refactoring, migration, and cloud-native development Required 5 Years\nKnowledge of modern database technologies and strategies for migrating and modernizing database systems Required 5 Years\nExperience with DevOps practices and automation tools Required 5 Years\nStrong communication and collaboration skills to work with cross-functional teams, including developers, business analysts, and stakeholders. Required 7 Years\nExperience working with creating AWS ETL jobs, data pipelines with high volumes of data\n\n \n\n_________________________________________________________________________________________________________________________________________________________\nV Group Inc. is a New Jersey-based IT Services and Products company, strategically organized into multiple business units: Public Sector, Enterprise Solutions, Ecommerce, and  Digital. Within our Public Sector unit, we specialize in delivering IT Professional Services to Federal, State, and Local governments. We hold multiple contracts across 30+ states across US, which include: NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, MN, NM, VT, and WA. If you're considering a career opportunity with V Group or exploring a partnership, I welcome you to reach out to me with any questions about our services and the unique advantages we offer to consultants. And please feel free to share my contact information with others who may benefit from connecting with us.\nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc\n",
+      "closing": {
+        "closing_date": "2026-06-05T17:00:00Z",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/2026",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "67",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/iNmhZlZQjrTFNTVs2tPhykKXtYHJyMkKyjwylO0nRHQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0C24MbZ8CZsymfB_YmwQFI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cyl0TA55-y03QtyXe9qBNQo=",
+      "title": ".Net Developer",
+      "location": "Three Empire State Plaza, 2nd Floor, Albany, NY 12223",
+      "experience": {
+        "experience": "6-12 years",
+        "min_experience": "6"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "For more details, please connect with Prafull Tamrakar at Prafullt@vgroupinc.com or call at 609-733-5057.\n \nDirect End Client: New York State Department of Public Service\nJob Title: .Net Developer\r\nDuration: 30 Months\r\nLocation: Albany, NY 12223\r\nHours Per Week: 40 Hours\r\nInterview Type: In Person\r\nCeipal ID: SNY_NET805_PT\r\nJob Code: HBITS-07-14805\n \nScope of Project:\nThe Department of Public Services requires assistance with implementation of new and existing .Net applications including but not limited to 753 Project, Pipeline Audit Safety (PAS),Water Master (WMast), Document and Matter Management (DMM), Power To Choose (PTC), Regulatory Calculator and other systems.\nThe Department has identified a list of new initiatives and enhancements to improve the systems efficiency related to their business process which require a contractor’s assistance.\nThe creation of new system and modification to existing system include upgrades to Microsoft .Net framework, and modification to existing functionality.\n \nResponsibilities:\nThe consultants will serve developers in the .Net Developer Team implementing\n• Design and Modify system functionality per change request (.Net C#, SQL Server, Oracle, FileNet)\r\n• Develop Web REST API’s\r\n• Develop several enhancements utilizing MVC and Entity Framework.\r\n• Identify and correct performance issues in web applications.\r\n• Mentor system development team\nAssistance in development of software/hardware requirements for Development, User Acceptance Testing (UAT), and Production environment.\n \nRequired/Preferred Skills:\n• 74 Months of Experience in designing/architecting systems in Microsoft .Net\r\n• 74 Months of Experience in designing secure web applications in a team environment.\r\n• 72 Months of Experience in database design using SQL Server\r\n• 36 Months of Experience in project work using Microsoft TFS\r\n• 72 Months of Experience in programming using C#, MVC, ASP.NET, Entity Framework Core or EF 6, Web API and web tools\r\n• 36 Months of Experience in development using Agile/Scrum\r\n• 36 Months of Experience in development using XAML with Universal Windows Platform (UWP), Utilizing MVVM and SQLite database\r\n• Masters Degree in computer related field\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector\r\nLinkedIn: https://www.linkedin.com/company/v-group/\r\nFacebook: https://www.facebook.com/VGroupIT\r\nTwitter: https://www.twitter.com/vgroupinc\n",
+      "closing": {
+        "closing_date": "2026-06-12T17:00:00Z",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "07/10/2026",
+        "start_dateStr": 1783641600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/pBmtjZ78HlrQBmahA5arEi6RxnSgQKq5Z1bB2U4KgNM",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyl0TA55-y03QtyXe9qBNQo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_g2iHqrJ0r2fNQ3Vgze4L4=",
+      "title": "PC Refresh Technician",
+      "location": "",
+      "experience": {
+        "experience": "3-10 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "For more details, please connect with Kajal Verma at kajalv@vgroupinc.com or call at 609-564-2786.\n \nEnd Client: Commonwealth of PA\nJob Title: PC Refresh Technician\nDuration: 6+ Months\nLocation: Middletown, PA 17057 (Fully Onsite)\nPosition Type: Contract\nHours Per Week: 40\nInterview Type: Not Mentioned\nCeipal ID: SPA_PC612_KV\nJob Code: 803612\nDepartment: Pennsylvania Turnpike Commission (PTC)\n \nScope of Project:\r\nPTC is seeking a PC Refresh Tech to support desktop refresh and deployment activities in a fully onsite environment in Middletown, PA. The resource will assist with inventory management, imaging, deployment, and decommissioning of IT equipment while following strict operational procedures and IT standards.\n \nResponsibilities:\n\n\nInventory and organize IT equipment\n\n\nUnbox and prepare desktops, laptops, monitors, and accessories\n\n\nApply Windows 11 OS image using SCCM and Intune\n\n\nInstall software in Windows 11 environment\n\n\nUpdate asset records in ServiceNow\n\n\nDeploying assets as required\n\n\nAssist with decommissioning old equipment\n\n\nRequired/Preferred Skills:\n\n\nBasic knowledge of Windows OS and imaging tools\n\n\nAttention to detail and ability to follow instructions precisely\n\n\nGood communication and time management skills\n\n\nHigh School Diploma\n\n\nAbility to lift up to 50 lbs\n\n\nExperience with SCCM and Intune preferred\n\n\nMust pass state and national background check\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector\r\nLinkedIn: https://www.linkedin.com/company/v-group/\r\nFacebook: https://www.facebook.com/VGroupIT\r\nTwitter: https://www.twitter.com/vgroupinc\n",
+      "closing": {
+        "closing_date": "2026-06-03T17:00:00Z",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "30",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/iSBOFQf0rum9MNkgJCQlDrMx5oHqOdSmQtC1JnD1nXY",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_g2iHqrJ0r2fNQ3Vgze4L4="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7zHR9V0Ew0cS56tuhOLXNY=",
+      "title": "AWS Cloud Developer",
+      "location": "CalSTRS Headquarters, 100 Waterfront Place",
+      "experience": {
+        "experience": "5-12 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "For more details, please connect with Priyam Nagwani and email at priyamn@vgroupinc.com\n \nDirect End Client: California State Teachers’ Retirement System (CalSTRS)\nJob Title: Cloud Developer\nDuration: 12+ Months\nStart Date: July 2026\nLocation: West Sacramento, CA (Hybrid – 2–3 days onsite)\nPosition Type: Contract (W2 / Direct Hire Engagement)\nNo. of Hours- 40 hrs/Week\nInterview Type: Webcam\n \nDescription:\nWe are seeking a highly skilled Cloud Developer with strong hands-on experience in Amazon Web Services (AWS) to support enterprise-level application development and cloud modernization initiatives for CalSTRS. This role involves designing, developing, and maintaining scalable cloud-native solutions, working closely with DevOps, Security, and cross-functional teams to deliver secure, resilient, and high-performing applications.\n \nKey Responsibilities:\n\nDesign, develop, and deploy applications on the AWS cloud platform.\nBuild and manage RESTful APIs and web applications (Python, Node.js, or C#).\nImplement and maintain CI/CD pipelines using GitHub.\nDevelop and manage infrastructure using Infrastructure as Code (Terraform / CloudFormation).\nWork with Docker and Kubernetes (EKS) for containerized deployments.\nDesign and integrate SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB).\nApply cloud security best practices, including encryption and secrets management.\nMonitor application performance and optimize for cost, scalability, and reliability.\nSupport cloud modernization and migration initiatives.\nCollaborate with architects, developers, and business stakeholders.\nCreate documentation, runbooks, and knowledge transfer materials.\n\nRequired Experience\n\nMinimum 3+ years of hands-on experience with AWS, including:EC2, S3, Lambda, IAM\nMinimum 3+ years of experience with CI/CD tools (GitHub preferred)\nMinimum 3+ years of experience with Infrastructure as Code: Terraform and/or AWS CloudFormation\nStrong development experience in:  Python, Node.js, or C#\nMinimum 3+ years of experience with containerization:  Docker and Kubernetes (EKS preferred)\nExperience with SQL/NoSQL databases\nHands-on experience with:  Encryption standards, Secrets management (AWS Secrets Manager, Vault), Compliance frameworks (HIPAA, GDPR, SOC2)\n\nNice to Have\n\nExperience with AWS Well-Architected Framework\nCloud migration / modernization experience\nExperience with AWS cost optimization tools\nFamiliarity with cloud security tools (AWS Config, Security Hub)\nExperience with logging/monitoring tools (CloudWatch, Splunk)\nScripting experience (Bash, PowerShell)\nExposure to AI/ML services (SageMaker) is a plus\n\nWork Environment\n\n\nHybrid work model (onsite presence required weekly)\n\n\nStandard business hours (Pacific Time)\n\n\nWhy Join This Opportunity?\n\nWork with one of the largest public pension systems in the world\nOpportunity to contribute to large-scale cloud transformation initiatives\nLong-term engagement with potential extensions\nExposure to enterprise-grade cloud architecture and security practices.\n\n\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology. Website:\nhttps://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT Twitter: https://www.twitter.com/vgroupinc\n\n\n\n",
+      "closing": {
+        "closing_date": "2026-06-09T17:00:00Z",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/2026",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "85",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/r1Muw1xYz1mMoutgPxd5LMUmkj6_7kDbGK-UfLj4PEw",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7zHR9V0Ew0cS56tuhOLXNY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0aF6t86Xx4aX1j9w1i7aGQ=",
+      "title": "Senior Quality Management Test Analyst",
+      "location": "CalSTRS Headquarters, 100 Waterfront Place",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/2026",
+        "date_posted": 1779840000000
+      },
+      "description": "For more details, please connect with Pawan Shrivastava at 510-983-4629 or email at pawans@vgroupinc.com\n \nDirect End Client: California State Teachers’ Retirement System (CalSTRS)\nJob Title: Senior Quality Management Test Analyst\nDuration: 12+ Months\nStart Date: Aug 2026\nLocation: West Sacramento, CA (Hybrid – 2–3 days onsite)\nPosition Type: Contract (W2 / Direct Hire Engagement)\nNo. of Hours- 40 hrs/Week\nInterview Type: Webcam\nRequirement ID: SCA_QA140_PS\n \nCandidate must have previous State, Federal or Other Government Client Experience\n \nDescription:\nCalifornia State Teachers’ Retirement System (CalSTRS)\n \nKey Responsibilities:\n\n\nOwn End-to-End Testing Activities\n\n\nTranslate business and technical requirements into test scenarios, test cases, and scripts\n\n\nPerform:\n\n\nSystem Testing\n\n\nIntegration Testing\n\n\nUser Acceptance Testing (UAT)\n\n\nRegression Testing\n\n\n\n\nValidate application functionality and performance across releases\n\n\nLead QA Best Practices\n\n\nHelp define and improve test strategy, test frameworks, and QA standards\n\n\nIntroduce new tools or automation approaches to increase testing efficiency\n\n\nEnsure consistency and quality across multiple projects\n\n\nTest Data & Tools\n\n\nSet up and manage test environments and test data\n\n\nWork with tools such as:\n\n\nJira, Jama, Azure DevOps\n\n\nSelenium, Robot Framework (nice to have)\n\n\n\n\nDefect Tracking & Reporting\n\n\nLog, track, and analyze defects\n\n\nProduce clear test reports, dashboards, and metrics\n\n\nCommunicate progress, risks, and issues to stakeholders\n\n\nCollaborate with Teams\n\n\nWork closely with developers, business teams, and project managers\n\n\nParticipate in Agile or hybrid SDLC environments\n\n\nProvide input on requirements, design, and quality improvement\n\n\nRequired Experience\n\n\n10+ years in IT, with strong focus on QA/testing\n\n\n5+ years of hands-on experience in:\n\n\nTest planning and strategy development\n\n\nRequirements analysis → test case creation\n\n\nTest environment setup and test data preparation\n\n\nDefect tracking tools (Jira, Jama, ALM, etc.)\n\n\nTesting COTS, SaaS, and custom applications\n\n\n\n\nStrong understanding of full SDLC (Agile/Waterfall)\n\n\nAbility to analyze test results and clearly report findings\n\n\nNice to Have\n\n\nExperience in large enterprise or government environments\n\n\nExposure to financial, pension, or public sector systems\n\n\nSQL/database querying skills\n\n\nAutomation testing experience\n\n\nFamiliarity with enterprise platforms (SAP, ECM, etc.)\n\n\nStrong written and verbal communication skills\n\n\nEducation\n\n\nBachelor's degree in computer science, Engineering, or related field (preferred)\n\n\nWork Environment\n\n\nHybrid work model (onsite presence required weekly)\n\n\nStandard business hours (Pacific Time)\n\n\nCollaborative, team-oriented environment\n\n\nWhy You’ll Love This Role\n\n\nWork on large-scale, high-impact enterprise systems\n\n\nOpportunity to shape QA strategy—not just execute tests\n\n\nLong-term engagement with stability and visibility\n\n\nExposure to modern testing tools and frameworks\n\n\n\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA. If you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology. Website: https://www.vgroupinc.com/publicsector LinkedIn: https://www.linkedin.com/company/v-group/ Facebook: https://www.facebook.com/VGroupIT Twitter: https://www.twitter.com/vgroupinc\n \n\n\n\n",
+      "closing": {
+        "closing_date": "2026-06-03T17:00:00Z",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/2026",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "55",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Brijesh Ravi V Groupbrijeshr@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/EvubV5w3m28DzE9t5l7bL8ZYMWYd5CfYqNClAnBdcp0",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0aF6t86Xx4aX1j9w1i7aGQ="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1i1aXZxpliHcfFDtJF9o64=",
+      "title": "Senior Java Developer",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/2026",
+        "date_posted": 1779840000000
+      },
+      "description": "For more details, please connect with Kajal Verma at kajalv@vgroupinc.com or call at 609-564-2786\n \nEnd Client: State of Mississippi\nJob Title: Java ESB Senior Developer\nDuration: 3+ Years\nLocation: Jackson, MS 39211 (Onsite)\nPosition Type: Contract \nHours Per Week: 40\nCeipal ID: SMS_JAVA269_KV\nJob Code: 159269\nDepartment: Mississippi Department of Human Services\n\n\nScope of Project\nMDHS is currently seeking a Senior Fuse Developer with a strong Java background to join the SID Team. The successful candidate should have a strong track record in ESB system planning, design and integration using JBoss Fuse, Java/J2EE, and Spring/Hibernate.\n\n\nResponsibilities:\n• Design, develop, and maintain enterprise applications using Java/J2EE technologies.\r\n• Work on ESB system planning, design, and integration using JBoss Fuse.\r\n• Develop REST and SOAP web services with focus on API development, microservices, event-driven architecture, and API gateways.\r\n• Collaborate with stakeholders to gather and formulate business requirements.\r\n• Define and implement technical solutions and participate in issue resolution and process refinement.\r\n• Develop and optimize SQL queries and database interactions.\r\n• Utilize Spring Framework components including Dependency Injection, IOC, SOLID principles, and Spring Boot.\r\n• Support enterprise integration and SOA orchestration initiatives.\r\n• Participate in Agile development methodologies including Scrum, Kanban, SAFe, or XP.\r\n• Work within Unix/Linux operating environments as required.\n\n\nRequired Skills:\n• 10+ years of experience in Java Development using Java 8+ JDK and strong Object-Oriented Design Programming.\r\n• Advanced experience in designing, implementing, and enhancing large-scale enterprise applications using Java.\r\n• Strong hands-on experience with Java Enterprise Edition (JEE).\r\n• Advanced proficiency in REST and SOAP web services development.\r\n• Strong experience in writing SQL queries and database interactions.\r\n• Experience with Spring Framework including Dependency Injection (IOC), SOLID principles, and Spring Boot.\r\n• Experience with API development including API Gateways, Microservices, Pub/Sub, and Event-Driven Architecture.\r\n• Experience working with stakeholders to gather, define, and formulate business requirements.\r\n• Ability to define and implement technical direction, issue resolution, and process improvements.\r\n• Strong experience with ESB/SOA orchestration, queue management, prioritization, and APIs using Java and JEE technologies.\r\n• Experience with JBoss Fuse integration and enterprise service bus architecture.\r\n• Knowledge of Agile methodologies including Scrum, SAFe, Kanban, and XP.\r\n• Working knowledge of Unix/Linux operating systems.\r\n• Experience with SQL Server is preferred.\r\n• Knowledge of Cloud Technologies is preferred.\r\n• Background in SOA, EJB, WebLogic, WebSphere, JBOSS, and Fuse is preferred.\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\n \nPlease share my contact information with others working in Information Technology.\n \nWebsite: https://www.vgroupinc.com/publicsector\nLinkedIn: https://www.linkedin.com/company/v-group/\nFacebook: https://www.facebook.com/VGroupIT\nTwitter: https://www.twitter.com/vgroupinc\n \n",
+      "closing": {
+        "closing_date": "2026-06-03T15:00:00Z",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/2026",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "70",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/eyJNRqx24RgmGbBuhnZT4GyyVst8YXt1XwYdKzDFS2Y",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1i1aXZxpliHcfFDtJF9o64="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2eBu5Ws2_JLkChP1CE_iME=",
+      "title": "Sr. Technical Project Manager",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "Direct Client: Texas Health and Human Services Commission\nJob Title: Sr. Technical Project Manager\nDuration: 03+ Months\nLocation: 701 W. 51st Austin, TX 78751 (Hybrid)\nPosition Type: Contract\nWork hours: 40 hours per week\nInterview Type: Webcam or In-Person  \nCeipal ID: STX_PM724_AK\nRequirement ID: 529601724\n \nDescription: \nThis role supports a Technical Project Manager for a data engineering project with an AI adoption program. The position involves managing cross-functional coordination, tracking deliverables, supporting platform and data engineering initiatives, and ensuring alignment between business, engineering, and AI stakeholders. Familiarity with cloud platforms, data pipelines, and AI/ML adoption efforts is highly desirable, along with strong communication and organizational skills.\n \nRequired Skills:\n\nExperience leading technical projects or programs in data, analytics, and cloud environments. Required 10 Years \nExperience leading data architecture, data modeling, and data warehousing initiatives from planning through delivery. Required 10 Years\nProven ability to manage business intelligence, big data, and analytics projects in complex enterprise environments. Required 10 Years\nExperience supporting healthcare data initiatives; familiarity with standards such as FHIR, CCDA, and HL7 is a plus. Required 10 Years\nWorking knowledge of SQL and database technologies to support project planning, estimation, and issue resolution. Required 10 Years\nStrong communication skills with the ability to translate complex technical concepts for business and executive audiences. Required 10 Years\nProven leadership skills managing cross-functional teams, vendors, and complex project timelines. Required 10 Years\nStrong collaboration skills to work effectively with data engineers, developers, analysts, and business partners. Required 10 Years\nExperience defining project scope, objectives, milestones, timelines, and success metrics. Required 10 Years\nExperience with project budgeting, forecasting, resource planning, and financial status reporting. Required 10 Years\nProficiency with project management tools such as Jira, Azure DevOps, MS Project, or Smartsheet. Required 10 Years\nStrong documentation skills for project plans, charters, schedules, and lessons learned. Required 10 Years\nWorking knowledge of cloud platforms, data systems, or enterprise applications. Required 10 Years\nProactive leadership style with strong attention to detail and ability to work independently. Required 10 Years\nFamiliarity with healthcare or other regulated environments, including compliance, security, and data governance concepts. Preferred 8 Years \nPMP, PgMP, PMI ACP, SAFe, or similar project management certification preferred. Preferred 8 Years\nHealthcare industry experience preferred. Preferred 8 Years\nFundamental understanding of information management principles, IT processes, SDLC, architecture, and enterprise technologies. Preferred 8 Years\nStrong consulting and facilitation skills. Preferred 8 Years\nCustomer-focused communication skills with the ability to engage all levels of the organization. Preferred 8 Years\nProactive leadership style with strong attention to detail and ability to work independently. Preferred 8 Years\nExperience supporting AI, advanced analytics, or digital transformation initiatives at the program or project level. Preferred 3 Years\nTOGAF, Cloud Solution Architecture, or Azure/AWS/GCP certifications preferred . Preferred 3 Years\n\n\nV Group Inc. is a NJ-based IT Services and Products Company with its business strategically categorized in various Business Units including Public Sector, Enterprise Solutions, Professional Services, Ecommerce, Projects, and Products. Within Public Sector business unit, we cater IT Professional Services to Federal, State and Local. We have multiple awards/ contracts with 30+ states, including but not limited to NY, CA, FL, GA, MD, MI, NC, OH, OR, CO, CT, TN, PA, TX, VA, NM, VT, and WA.\nIf you are considering applying for a position with V Group, or in partnering with us on a position, please feel free to contact me for any questions you may have regarding our services and the advantages we can offer you as a consultant.\nPlease share my contact information with others working in Information Technology.\nWebsite: https://www.vgroupinc.com/publicsector \nLinkedIn: https://www.linkedin.com/company/v-group/ \nFacebook: https://www.facebook.com/VGroupIT \nTwitter: https://www.twitter.com/vgroupinc ",
+      "closing": {
+        "closing_date": "2026-06-05T18:00:00Z",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/2026",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "80",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Mohammed Amir V Groupamirm@vgroupinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/gCYyCOosBbOOswNmmMptgeOWPmMWlOWPzLkuOiSc4PA",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2eBu5Ws2_JLkChP1CE_iME="
+    }
+  ]
+}

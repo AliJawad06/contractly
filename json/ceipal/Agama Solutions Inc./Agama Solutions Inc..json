@@ -1,0 +1,439 @@
+{
+  "company": "Agama Solutions Inc.",
+  "scrape_date": "2026-06-02T22:16:48.642847",
+  "total_jobs": 12,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3czaZX_hEAFd3i_Ycv68HhnM=",
+      "title": "Application Development/Programmer",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Title:          PeopleSoft Financials Techno-Functional Consultant\nClient:       State of OK - Office of Management and Enterprise Services\nInterview: Webcam or In Person\nDuration:  12 months with possible extension\nLocation:  Oklahoma City, OK (Hybrid)\n \nDescription\nThe Office of Management and Enterprise Services, Finance Centre of Excellence (FCoE), is in need of additional IT augmentation services to support the State of Oklahoma PeopleSoft Financials system. This support will include project management, support for project implementations, financial upgrades and fixes, as well as production support for Phase II state agencies. The supplier will be responsible to provide to provide a qualified resource as needed to allow for success with that State of Oklahoma modernisations.\n \nRequirements\nThe state has accelerated their implementation of PeopleSoft Phase II modules for numerous agencies. These resources will participate as FCOE CORE Team members and may take both support and lead roles in various projects.\n \nThe resource must meet all requirements:\n\nProficient with Financials 9.2, PUM 53.\nKnowledgeable in Grants, Projects Costing, Contracts, Accounts Receivable, Billing, Accounts Payable, Travel & Expense, Treasury, General Ledger, Commitment Control, and Asset Management. Functional support for PeopleSoft Project Implementations, as well as protecting the statewide configuration and adhering to the statewide accounting procedures.\nAbility to translate functional requirements into technical specifications.\nWorking with PeopleSoft Business Analyst, System Analyst, System Integrators and Oracle for functional and technical support, and other CAR or external stakeholders.\nAbility to work with and proficiently communicate with agency, technical and functional users.\nUpdating manuals, job aids, SOPs and other documents as needed.\nPreparing test scenarios, test scripts and training materials and configuration documents as needed.\nAbility to work individually or with System Integrator to identify and document workflow requirements and design a process that meets both agency and statewide requirements within Accounts Payable and Travel and Expense modules.\nBe proficient in the following: Component Interfaces, SQR, App Engine, People Code, PeopleTools, SQL Developer, Bl Publisher.\nFunctional production support for all respective PeopleSoft Modules. Ability to identify risks and obstacles within a project and provide a thorough assessment FCoE, IS, CAR and other OMES leadership.\nThorough understanding of State of Oklahoma Accounting procedures, policies, and standards.\nAssist with testing patches and fixes, as well as Financials PUM Upgrade testing, as well as PeopleSoft Test Framework maintenance and scripts for testing Preferences given to resources with government experience and/or State of Oklahoma experience, as well as experience with current PeopleSoft PUM Image.\n\n \nDeliverables can include all the following:\n\nProduction support completed in a timely manner.\nWeekly status report outlining work accomplished for the reporting period. Project plan as needed. Development Requests produced in accordance with state guidelines.\nFit/gap documentation as needed. Test scripts documented as needed.\nTest results documented as needed. Training documentation completed.\n\n \nSchedule of Deliverables can include all of the following:\n\nWeekly status reports. Project plan as needed.\nAgency Travel and Expense and AP workflow requirements documented in accordance with project plan.\nTest scripts documented in accordance with project plan. D Test results documented in accordance with project plan. D Training guide.\nTech configuration/setup steps as needed.\nProjects completed and tested and signed off by state resources and other respective stakeholders in accordance with the project plan.\n\n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "50",
+      "remote": 0,
+      "assigned_recruiter": ", , , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/8uDzWCAYgAsZqLb9d9-jDffFF6zQgITqWStk2rO_wls",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3czaZX_hEAFd3i_Ycv68HhnM="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5dssO3Bw9Jyb-JjWDDuRoE=",
+      "title": "SQL Developer",
+      "location": "",
+      "experience": {
+        "experience": "6-10 years",
+        "min_experience": "6"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "Title: SQL Developer \nLocation: Santa Clara, CA\n \nJob Description:\n\n\nDevelop, write, and optimize complex SQL scripts, stored procedures, functions, and triggers.\nDesign and execute data migration strategies, including data extraction, transformation, and loading (ETL).\nPerform data mapping, validation, and reconciliation to ensure accuracy and consistency during migrations.\nWork extensively with SQL Server (SQL DMP / Data Migration Platform) tools and utilities.\nAnalyze existing database structures and support data transformation and integration activities.\nTroubleshoot and resolve data-related issues, performance bottlenecks, and query inefficiencies.\nEnsure data quality, integrity, and security throughout the migration lifecycle.\nCollaborate with cross-functional teams, including business analysts, application developers, and stakeholders.\nCreate and maintain technical documentation for scripts, processes, and migration activities.\nSupport testing, deployment, and post-migration validation activities.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "40",
+      "remote": 0,
+      "assigned_recruiter": ", , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/v4CPYGpY4MxYz866WTKywg9K6wcxqy28HniP90LKKIA",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5dssO3Bw9Jyb-JjWDDuRoE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7o1xenzl42Ag6uotQR9h1U=",
+      "title": "Senior Java Developer",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "JOB SUMMARY\nExperienced Java developer with expertise in Spring Boot, REST API development, batch processing, event-driven queue processing, MuleSoft integration, and document generation tools.\n \nKey Responsibilities\n• Resource is required with strong hands-on experience in Java, Spring Boot framework for backend development, and creation of scalable RESTful APIs.\n• The candidate must have practical exposure to designing and executing batch processes.\n• Implementing event-driven and queue-based asynchronous processing using technologies such as AS400 Data Queues, Kafka, RabbitMQ, or AWS SQS.\n• Resource must have hands-on experience deploying Java-based applications to AWS applications and web server environments.\n• Experience in writing PostgreSQL functions, stored procedures, and advanced SQL queries is a strong plus.\n• Experience in MuleSoft integration flows, API-led connectivity.\n• Familiarity with Angular/React for frontend development is preferred.\n• Preferred experience with document automation and template management tools such as SmartDocuments or Adobe Forms Development.\n• Candidates will work with cross-functional teams to deliver enterprise-grade solutions.\n \nRequired Qualifications\n• Java and Spring Boot development.\n• Strong exposure to REST API design, authentication, authorization, and microservice patterns.\n• Experience building and optimizing batch processes.\n• Hands-on experience with event-driven architectures and message queues.\n• MuleSoft development experience (including integrations and API management).\n• Working knowledge of template-based document generation platforms.\n \nPreferred Qualifications\n• Experience in writing PostgreSQL functions, stored procedures, and advanced SQL queries is a strong plus.\n• Familiarity with Angular/React for frontend development is preferred.\n• Preferred experience with document automation and template management tools such as SmartDocuments or Adobe Forms Development.\n \nWork Environment\n• Work Arrangement: Hybrid\n• Selected candidate will be required to work onsite 3 days per week and 2 days remote.\n• Work schedule Monday to Friday, 8:00am to 5:00pm.\n \nEducation/Experience\nDepartment of Child Services\nIndiana Department of Child Services - DCS\n \nSkill Matrix\n\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nYears of Experience\n\n\nResponse\n\n\n\n\n\n\nJava and Spring Boot development\n\n\nRequired\n\n\n7 Years\n\n \n\n\n\nStrong exposure to REST API design, authentication, authorization, and microservice patterns\n\n\nRequired\n\n\n5 Years\n\n \n\n\n\nExperience building and optimizing batch processes\n\n\nRequired\n\n\n5 Years\n\n \n\n\n\nHands-on experience with event-driven architectures and message queues\n\n\nRequired\n\n\n5 Years\n\n \n\n\n\nMuleSoft development experience (including integrations and API management)\n\n\nRequired\n\n\n3 Years\n\n \n\n\n\nWorking knowledge of template-based document generation platforms\n\n\nRequired\n\n \n \n\n\n\n \nCompliance Requirements / Client Questions\n\n\n\n\nQuestion\n\n\nDescription\n\n\nResponse\n\n\n\n\n\n\nQuestion 1\n\n\nAbsences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?\n\n \n\n\n\nQuestion 2\n\n\nPlease list candidate's email address.\n\n \n\n\n\nQuestion 3\n\n\nCandidate must be currently located in Indiana. Please list the city and state where candidate currently resides.\n\n \n\n\n\nQuestion 4\n\n\nCandidate pay rate for this position is $65.00 per hour if selected for engagement. The provider markup for this position is 35%. Do you accept this requirement?\n\n \n\n\n\nQuestion 5\n\n\nWork schedule Monday to Friday, 8:00am to 5:00pm. Do you accept this requirement?\n\n \n\n\n\nQuestion 6\n\n\nSelected candidate will be required to work onsite 3 days per week and 2 days remote. Please confirm the resource understands the work schedule.\n\n \n\n\n\nQuestion 7\n\n\nThis position requires a passed fingerprint and background check. Please confirm the resource understand this requirement.\n\n \n\n\n\nQuestion 8\n\n\nDuration of position is expected to be 1 year with the possibility of an extension past that date. Please confirm the resource understands the duration of the position.\n\n \n\n\n\nQuestion 9\n\n\nThis position requires the resource to work a hybrid schedule. The manager is willing to consider resources outside of Indiana that are willing to relocate. Please confirm the resource understands relocation will be required if selected for the position.\n\n \n\n\n\n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": ", , , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/RN-_IXGjA2HDxnLYQT4sKFFWPM0eJ_qAM1UXbgY57E8",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7o1xenzl42Ag6uotQR9h1U="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1n5C48TNj7HgXkvEmR9BGE=",
+      "title": "Sales Development Representative",
+      "location": "",
+      "experience": {
+        "experience": "4-10 years",
+        "min_experience": "4"
+      },
+      "skills": "Sales Development",
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Role: Sales Development/ Business Development Representative (SaaS)\nLocation: Remote (DMV Area only)\nDuration: 12+ Months Contract\nWe are looking for a motivated and results-driven Sales Development Representative (SDR) with experience in SaaS sales to help expand our presence in the US market. The primary focus of this role is lead generation and setting up qualified meetings with prospective clients.\nKey Responsibilities\n\nIdentify and generate new business leads through outbound prospecting (cold calls, emails, LinkedIn, etc.)\nResearch and target potential clients within defined industries and segments\nSchedule and coordinate meetings between qualified prospects and the core sales team\nBuild and manage a strong sales pipeline\nMaintain accurate records of outreach and interactions in CRM tools\nSupport initial client engagement by providing relevant information and context for meetings\n\nKey Expectations (Initial Phase)\n\nFocus on generating qualified leads and booking meetings rather than closing deals\nWork closely with the core team, which will handle conversions and deeper client engagement\nContribute to building a strong pipeline for long-term growth\n\nRequired Qualifications\n\n2–5 years of experience in SaaS sales, preferably in a Sales Development or Business Development role\nProven track record of lead generation and meeting scheduling\nStrong understanding of SaaS business models and sales cycles\nExcellent communication and interpersonal skills\nExperience with CRM tools (e.g., Salesforce, HubSpot)\nSelf-driven, proactive, and comfortable working in a remote setup\n\nPreferred Qualifications\n\nExperience working with global or offshore teams\nFamiliarity with the US and Canada Market.\nExisting network in SaaS or relevant industries\n\nKey Skills\n\nLead Generation & Prospecting\nCold Outreach (Email, Calls, LinkedIn)\nCommunication & Relationship Building\n\nCompensation\n\nCompetitive base salary + performance-based incentives (linked to meetings and pipeline generation\n\nWhy Join Us\n\nOpportunity to be part of an early-stage US market expansion\nHigh growth potential with increasing responsibilities over time\nCollaborative and entrepreneurial work environment\n\nNote:Initially, the role will focus on lead generation and meeting setup. As the business grows in the US, the scope may expand to include full-cycle sales responsibilities.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "40",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/G1_cyb4xDG7IAWYPCnl-Ex8LiFQSOWCAbdTeiRqw0-I",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1n5C48TNj7HgXkvEmR9BGE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cxPnpjonzLTY8jMCoEx-Qio=",
+      "title": "Customer Support Technician",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Customer Support",
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Scope of Services\nThe business analyst serves as a liaison between FDOT business offices and Information Technology to intake Ideas, refine and document technology proposals in ServiceNow, and support governance activities throughout the demand lifecycle. They will participate in the analysis of business and technology demands from ideation through project approval. The candidate must have experience in developing working relationships with business office staff and maintaining those relationships through collaboration and teamwork. They will be responsible for coordinating with stakeholders to translate strategic and operational needs into actionable requirements, conducting comprehensive business needs assessments, and assisting in guiding solution approaches that meet organizational objectives. They will partner with stakeholders to assess feasibility, conduct impact analyses, and help prioritize demands based on business value, strategic alignment, and resource considerations.\nResponsibilities include working with customers to gather high-level requirements, obtain project cost estimates, develop business cases, and document those results in accordance with departmental methodologies and standards. The role focuses on eliciting and documenting business case elements such as return on investment, cost/savings, initial risks, scope, and impacted applications. Additionally, the candidate will prepare documentation and presentations to support funding decisions, develop specifications, and ensure a shared understanding among technical teams, customer-facing staff, and department leadership. \nThe Demand Analyst collaborates closely with the Demand Manager, who oversees the Demand lifecycle and ensures appropriate governance and analysis are completed.\n \nEducation\nBachelor’s degree or master’s degree in Business Administration, Communication, Information Systems, or related field is required. Equivalent work experience may substitute for the educational requirement.\n \nCertification in any of the following is desired but not required: Certified Scrum Master (CSM), Certified Scrum Owner (CSO), CBAP, PMI-PBA, PMI-ACP, PMP, ITIL.\n \nExperience\n1.            A minimum of three years of business process analysis and requirements documentation, including independent facilitation with executives and subject matter experts.\n2.            Proficiency in process mapping/modeling with tools such as Visio is required. \n3.            Experience facilitating the intake of ideas or proposals and converting them into documented Demands within ServiceNow (or similar portfolio management tools).\n4.            Proficiency in Microsoft Office Suite, particularly Excel, Word, PowerPoint, is required.\n5.            Experience preparing business case materials, including ROI/TCO analysis, cost-benefit assessments, and risk summaries.\n6.            Experience using SharePoint and Microsoft Teams for collaboration and document management; exposure to Power BI is preferred.\n7.            Knowledge of how business requirements translate into technical requirements is required.\n \nPrimary Job Duties / Tasks\nThe activities the candidate will be tasked with include, but are not limited to the following:\n1.            Categorize and prioritize demands by type, urgency, complexity, business impact, and strategic alignment using established scoring criteria.\n2.            Assess and analyze demand patterns to identify trends, recurring requests, and evaluate feasibility against technical capabilities and constraints.\n3.            Coordinate stakeholder identification and conduct intake meetings with submitting business offices.\n4.            Refine demand description from submitted idea; capture high-level objectives, business problem/need, work in/out of scope, assumptions, constraints, and initial risks.\n5.            Research and understand FDOT business processes and their inter-relationships; document and diagram business and system processes and dependencies.\n6.            Complete analyst-owned demand detail fields in ServiceNow by identifying collaborators, business unit(s), impacted applications, and selecting the appropriate impact and T-shirt size.\n7.            Understand technical problems and potential solution approaches in relation to both current and future business environments; recommend ways to integrate new and existing processes.\n8.            Maintains knowledge of emerging technological trends and utilizes this knowledge to identify opportunities to build better solutions that support and drive business decisions; may make recommendations for buy versus build decisions. \n9.            Identify processes for improvement, document existing processes, identify and analyze gaps between current processes and the desired state, design new processes, develop process performance measures, and plan the transition to a new process. \n10.         Document business case elements and cost-benefit narratives; prepare ROI/TCO and cost-savings estimates; maintain up-to-date demand documentation.\n11.         Gather and document goals and objectives related to business strategy and translate them into requirements for the application, infrastructure, and development plans.\n12.         Prepare executive-ready materials summarizing value, risk, alignment, and feasibility for presentation to leadership and the review teams.\n13.         Support completion of cybersecurity risk assessment when required. \n14.         Submit demand when documentation is complete; collaborate with the Demand Manager on movement through lifecycle states; request draft reversion for substantial edits as needed.\n15.         Track work against demand tasks to ensure accurate timekeeping, workload visibility, and appropriate assignment tracking. \n \nJob Specific Knowledge, Skills, and Abilities (KSAs)\nThe candidate must be able to apply specific knowledge, skills, and abilities in the following areas:\n1.            Ability to perform detailed business analysis, including requirements documentation, business case development, scope definition, and process modeling (Visio). \n2.            Strong facilitation and stakeholder management skills, with the ability to work effectively across business units, directors, security, and technology teams; excellent verbal and written communication. \n3.            Working knowledge of demand and portfolio workflows (ServiceNow or similar) and related governance checkpoints.\n4.            Ability to prepare ROI/TCO calculations, cost-benefit analyses, and risk summaries aligned with FDOT practices. \n5.            Proficiency with Microsoft SharePoint, Teams, Word, Excel, and PowerPoint; familiarity with Power BI for executive-level reporting and summaries. \n6.            Ability to conduct as-is and to-be analysis, perform detailed research, and model business processes using appropriate tools and techniques.\n7.            Ability to expertly facilitate workshops and meetings with a variety of stakeholders with varying levels of technical knowledge.\n8.            Knowledge and experience leveraging both IT solutions and business process improvements. \n9.            Ability to produce complete, accurate, and legible functional documentation that captures business processes, inputs/outputs, and system interactions. \n10.         Ability to work effectively with business units to identify and document requirements supporting maintenance, enhancement, modernization, remediation, or development of application systems, including the creation of context diagrams and technical overviews.\n11.         Ability to interpret and communicate technical information related to application development and data processing to both technical and non-technical audiences.\n12.         Skill in developing business cases and supporting documentation, performing data analysis, and conducting performance metrics reporting.\n \nAdditional:\n13.         Advanced skills with Microsoft products, including SharePoint, Teams, Word, Excel, PowerPoint, and Visio.\n14.         Ability to understand stakeholders needs, document requirements accurately, and perform duties independently when necessary.\n15.         Ability to perform analysis that accurately and completely defines processes and workflows to design efficient information solutions, including missing or duplicate functionality in existing applications. \n16.         Ability to receive and give constructive feedback and maintain effective work relationships. \n17.         Ability to adapt to changing demands in a dynamic environment with diverse work assignments.",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "25",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/9FRRcBDiXC_lkvVosFVPDmBJ7UQt_woryGCZoxt7_i4",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3cxPnpjonzLTY8jMCoEx-Qio="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6TsFiZfaV2lspGSduoAWo4=",
+      "title": "Research/Data Analyst Senior",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Data Analyst, Oracle, SQL",
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "JOB SUMMARY\nUnder broad supervision, performs complex administrative duties and statistical, financial, or operational data analysis and reporting in support of management decision making in the functional area. Identifies trends, discrepancies, and variances to improve the efficiency and effectiveness of operations. May partner with other departments, divisions, outside agencies, and vendors to address business issues. Exercises various latitudes of independent judgment. May administer or provide high-level support for various projects, grants, contracts, implementation of procedures, and/or any specialized functions. Assists with orientation, training, or providing task guidance of junior team members. Provides strategic analysis.\n \nKey Responsibilities\n\nPerform job responsibilities with minimal supervision\nExtract primary data from Oracle Database with the use of SQL\nInterpret data, analyze results using statistical techniques and provide ongoing reports\nProvide timely and accurate data to fulfill internal and external data requests\nIdentify, compile, and ‘clean’ data for research projects\nIdentify, analyze, and interpret trends or patterns in complex data sets\nOversee evaluation and research projects\nCommunicate the evaluation plan and its details to leadership and stakeholders\nCollaborate with external research partners to ensure understanding of data points and data sets\nDevelop and monitor internal and external data requests\nManage, summarize, and analyze quantitative and/or qualitative data\nSummarize and explain research findings and their implications\nPrepare findings for publication\nDevelop, review, and abstract published research\nProduce data visualization dashboards with Tableau\n\n \nRequired Qualifications\n\nBachelor's degree in a related field from an accredited college or university AND Two years in a related lead or supervisory role OR Associate's degree in a related field from an accredited college or university AND Four years of related experience, Two years of which in a related lead or supervisory role OR Two years of experience at the lower level IT Business Analyst or position equivalent.\n5+ years of knowledge and experience with databases (SQL, Oracle, etc)\n5+ years of experience in accessing and extracting data from organizational and/or other institutional databases\nStrong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy\nProficient skills in queries, report writing, and presenting findings\n\n \nPreferred Qualifications\n\n2+ years of relevant work experience in the Criminal Justice field and/or Data Management/Analysis\nExperience in data visualization software (i.e., Tableau)\n\n \nWork Environment\n\nWork Arrangement: Hybrid\nPosition Type: Contract\nExpenses Allowed: No\nTemp to Hire: No\nThis position is available for extensions.\nClient DOES NOT SHIP EQUIPMENT. The chosen candidate will be required ON-SITE Day 1 to pick up equipment and take a Drug Test.\n\n \nEducation/Experience\n\nBachelor's degree in a related field from an accredited college or university AND Two years in a related lead or supervisory role\r\n\tOR\nAssociate's degree in a related field from an accredited college or university AND Four years of related experience, Two years of which in a related lead or supervisory role\r\n\tOR\nTwo years of experience at the lower level IT Business Analyst or position equivalent\n\n \nSkill Matrix\n\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nYears of Experience\n\n\nResponse\n\n\n\n\n\n\n5+ years of knowledge and experience with databases (SQL, Oracle, etc)\n\n\nRequired\n\n\n5 Years\n\n \n\n\n\n5+ years of experience in accessing and extracting data from organizational and/or other institutional databases\n\n\nRequired\n\n\n5 Years\n\n \n\n\n\nStrong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy\n\n\nRequired\n\n\n1 Year\n\n \n\n\n\n2+ years of relevant work experience in the Criminal Justice field and/or Data Management/Analysis\n\n\nHighly desired\n\n\n2 Years\n\n \n\n\n\nProficient skills in queries, report writing, and presenting findings\n\n\nRequired\n\n\n3 Years\n\n \n\n\n\nExperience in data visualization software (i.e., Tableau)\n\n\nHighly desired\n\n\n1 Year\n\n \n\n\n\n \nCompliance Requirements / Client Questions\n\n\n\n\nQuestion\n\n\nDescription\n\n\nResponse\n\n\n\n\n\n\nQuestion 1\n\n\nAbsences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?\n\n \n\n\n\nQuestion 2\n\n\nPlease list candidate's email address that will be used when submitting E-RTR.\n\n \n\n\n\nQuestion 3\n\n\nCandidate must be paid the rate of at least $53.76 if selected for engagement therefore the SRP rate cannot exceed $72.57. Do you accept this requirement?\n\n \n\n\n\nQuestion 4\n\n\nThe maximum mark-up for this engagement’s SRP rate is 35%. To be competitive on pricing, a mark-up below the 35% threshold is suggested. Do you agree to propose a mark-up at or below 35%?\n\n \n\n\n\nQuestion 5\n\n\nON-SITE INTERVIEWS ONLY! Do you and your candidate accept this requirement?\n\n \n\n\n\nQuestion 6\n\n\nClient DOES NOT SHIP EQUIPMENT. The chosen candidate will be required ON-SITE Day 1 to pick up equipment and take a Drug Test. Do you and your candidate accept this requirement?\n\n \n\n\n\nQuestion 7\n\n\nIn what City and State is your candidate located?\n\n \n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "50",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/RcOzuf6xChlQYmDzyAIHlJtaINxeviUMf2N7MYEsji8",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6TsFiZfaV2lspGSduoAWo4="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_aMBIAvdKsHoWag8meIvgk=",
+      "title": "Security Analyst Advanced",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Information Systems, Security analyst, Information Security, Windows, linux",
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Description:\nDevelops and manages security for more than one IT functional area (e.g., data, systems, network and/or Web) across the enterprise. Assists in the development and implementation of security policies and procedures (e.g., user log-on and authentication rules, security breach escalation procedures, security auditing procedures and use of firewalls and encryption routines). Prepares status reports on security matters to develop security risk analysis scenarios and response procedures. Responsible for the tracking and monitoring of software viruses. Enforces security policies and procedures by administering and monitoring security profiles, reviews security violation reports and investigates possible security exceptions, updates, and maintains and documents security controls. \nInvolved in the evaluation of products and/or procedures to enhance productivity and effectiveness. Provides direct support to the business and IT staff for security related issues. Educates IT and the business about security policies and consults on security issues regarding user built/managed systems. Represents the security needs of the organization by providing expertise and assistance in all IT projects with regard to security issues. Must have extensive knowledge in networking, databases, systems and/or Web operations. Involved in developing enterprise security strategies, management of security projects and the most complicated security issues. \n \nResponsibilities:\n\nMonitoring and Protection: Continuously monitor security access and system logs, manage firewalls, and install security software to prevent data breaches.\nIncident Response: Investigate, analyze, and contain security breaches or malicious activity\nRisk Management: Conduct vulnerability scans, risk assessments, and penetration tests to identify potential security gaps.\nPolicy and Compliance: Develop, document, and enforce security policies, procedures, and standards (e.g., NIST, ISO).\nThreat Intelligence: Research emerging threats and security trends to proactively improve defense strategies.\nSecurity Training: Train employees on security awareness and best practices to reduce human error. \n\n \nQualifications: \n\nBachelor’s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience. \nA minimum of 4 years of combined IT and security work experience with a broad range of exposure to systems analysis, applications development, database design and administration\n2 years of experience with information security. \nProficiency in network protocols, operating systems (Windows, Linux), security tools, and scripting languages.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/GVr0Kp3_XJTp_rSB9tDl9OW6Q2JQffgCBaGIQPbxu-o",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_aMBIAvdKsHoWag8meIvgk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c8-oaxNq5XYCRnx5oRJBmOE=",
+      "title": "Data Analyst",
+      "location": "",
+      "experience": {
+        "experience": "6-10 years",
+        "min_experience": "6"
+      },
+      "skills": "Data Analyst, SQL, Tableau",
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Title: Data Analyst\nLocation: Atalnta, GA\n \nJob Description:\n\nPRIMARY DUTIES AND RESPONSIBILITIES\n\n\nPerform job responsibilities with minimal supervision\n\n\nExtract primary data from Oracle Database with the use of SQL\n\n\nInterpret data, analyze results using statistical techniques and provide ongoing reports\n\n\nProvide timely and accurate data to fulfill internal and external data requests\n\n\nIdentify, compile, and ‘clean’ data for research projects\n\n\nIdentify, analyze, and interpret trends or patterns in complex data sets\n\n\nOversee evaluation and research projects\n\n\nCommunicate the evaluation plan and its details to leadership and stakeholders\n\n\nCollaborate with external research partners to ensure understanding of data points and data sets\n\n\nDevelop and monitor internal and external data requests\n\n\nManage, summarize, and analyze quantitative and/or qualitative data\n\n\nSummarize and explain research findings and their implications\n\n\nPrepare findings for publication\n\n\nDevelop, review, and abstract published research\n\n\nProduce data visualization dashboards with Tableau\n \n\n\nMINIMUM QUALIFICATIONS\nBachelor's degree in a related field from an accredited college or university AND Two years in a related lead or supervisory role OR Associate's degree in a related field from an accredited college or university AND Four years of related experience, Two years of which in a related lead or supervisory role OR Two years of experience at the lower level IT Business Analyst or position equivalent.\n \nPREFERRED QUALIFICATIONS\n\n\n5+ years of knowledge and experience with databases (SQL, Oracle, etc)\n\n\n5+ years of experience in accessing and extracting data from organizational and/or other institutional databases\n\n\nStrong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy\n\n\n2+ years of relevant work experience in the Criminal Justice field and/or Data Management/Analysis\n\n\nProficient skills in queries, report writing, and presenting findings\nExperience in data visualization software (i.e., Tableau)\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "30",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/aEn-qT6THDDKEBiBZoFstVTSweKwdioaQxCDY3dy-iE",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c8-oaxNq5XYCRnx5oRJBmOE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c9QnLyBGZR0lF6ZlBqEY5so=",
+      "title": "QA Automation Tester",
+      "location": "",
+      "experience": {
+        "experience": "6-10 years",
+        "min_experience": "6"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Tittle: QA Automation Tester\nLocation: San Francisco, CA/ Chicago, IL\n \n \n\nJob Description:\n·                     60% is Device Testing and 40% is LLM / GenAI Validation (AI Testing)\n·                     Test automation experience is non-negotiable — manual-only profiles will not be considered.\n·                     Python, Java, JavaScript, or TypeScript for scripting and automation.\n·                     Playwright, Selenium, Appium, or API automation experience.\n·                     Genuine understanding of how LLMs and AI models work — not just surface-level familiarity.\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": ", , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/28Q1THwBrvJnC2hwFcLcPXp9c_Lq4E74WRA3SilnjrU",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c9QnLyBGZR0lF6ZlBqEY5so="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c-zF6PZD2sBmvpiCxWn2TEg=",
+      "title": "Web Applications Programmer",
+      "location": "",
+      "experience": {
+        "experience": "1-5 years",
+        "min_experience": "1"
+      },
+      "skills": "Data Visualization, Data Analyst, Power BI",
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Scope of Services\nThe consultant will support the Office of Work Program and Budget (OWPB) by gathering and analyzing data, conducting research, and identifying business needs and system requirements to drive modernization initiatives. This includes collaborating with stakeholders to define project scopes, develop functional specifications, and prepare business cases aligned with long term organizational and technology strategies. The consultant will also facilitate communication across project teams, coordinate activities, and ensure alignment between system enhancements and broader business objectives.\n \nThe role includes performing process modeling, developing prototypes, and recommending improvements to applications, workflows, reporting environments, and web based systems. The consultant will design, develop, and maintain components of the organization’s Internet and Intranet applications, including forms, pages, graphics, and interactive interfaces, while ensuring cross browser compatibility and up to date content. Responsibilities also include designing and supporting interactive dashboards; performing data cleansing, transformation, and multi source integration; developing automation to streamline content publishing; and monitoring system and dashboard performance to address user feedback and enhance usability and reliability.\n \nAdditional responsibilities include ensuring accurate and comprehensive project documentation throughout the lifecycle. This includes gathering and organizing project information; documenting requirements, objectives, deliverables, risks, issues, and mitigation strategies; and maintaining documentation so that it remains current and accessible. The consultant will also serve as an internal technical resource, advisor, and mentor supporting the organization in adopting modern tools, improving workflows, and strengthening technical capabilities. The role includes researching and recommending new Internet tools, applications, and modernization techniques to support continuous improvement across systems and reporting environments.\n \n \nEducation\nAssociate’s or Bachelor’s Degree, or technical institute degree/certificate in Computer Science, Information\nSystems, or other related field. Or equivalent work experience.\n \nExperience\n1 to 3 years of IT work experience in computer systems or support with demonstrated proficiency in data analysis methodologies, business analysis principles, and data visualization tools such as Power BI or similar technologies. Skilled in querying, extracting, cleaning, and interpreting complex data sets to identify trends and translate business needs into actionable solutions. Ability to manage multiple tasks, adapt to evolving requirements, maintain attention to detail, and continuously learn new technologies.\n7 Primary Job Duties/ Tasks\nThe submitted candidate must be able to perform the following duties and/or tasks:\n1.            Gather and analyze data, conduct research, and identify business needs and requirements. Collaborate with stakeholders to define project scopes, create functional specifications, and develop business cases. Facilitate communication and coordinate project activities to support effective implementation and ensure alignment with business strategies.\n2.            Perform process modeling and develop prototypes, providing recommendations for process improvements and system enhancements to optimize workflow efficiency and support organizational goals.\n3.            Design and create interactive dashboards using data visualization tools to present key metrics, trends, and insights. Perform data cleansing, transformation, and integration of multiple data sources to ensure comprehensive and accurate reporting.\n4.            Provide ongoing dashboard support by monitoring performance, addressing user feedback, and implementing enhancements to improve functionality, usability, and reliability.\n5.            Assist in project documentation by gathering and organizing project information, documenting requirements, objectives, and deliverables, and ensuring all documentation is accurate, accessible, and kept current throughout the project lifecycle.\n6.            Support project risk and issue documentation by assisting in identifying risks, recording issues, tracking mitigation strategies, and ensuring proper communication to stakeholders.\n7.            Diagnose and resolve basic software issues; escalate complex problems to senior technical staff as needed.\n8.            Enter and maintain accurate support data in the tracking system.\n9.            Learn and apply standard practices for system modernization and data integration.\n10.         Participate in quality improvement activities and document findings for review.\n11.         Assist in testing system changes and enhancements, including preparing basic test scenarios and validating results.\n12.         Help maintain and update automated reports used by OWPB and District offices.\n13.         Provide basic analysis of software issues impacting financial management systems and recommend escalation when necessary.\n14.         Assist in documenting workflows and system processes for future reference and training.\n15.         Learn and use a variety of platforms to support OWPB operations, such as Informatica and Snowflake.\n16.         Communicate effectively with internal users to gather information about issues and provide status updates.\n \nJob Specific Knowledge, Skills, and Abilities (KSAs)\nThe submitted candidate must be able to apply common knowledge, skills, and abilities in the following areas:\n1.            Basic understanding of application, reporting environments, and relational database concepts, including simple SQL queries. \n2.            Proficiency with development and data tools such as Visual Studio, SQL Server Management Studio, and data visualization platforms. \n3.            Knowledge of data analysis techniques, including querying, extraction, cleaning, transformation, and working with large datasets to ensure data quality. \n4.            Ability to interpret complex data to identify trends, patterns, and actionable insights that support decision making. \n5.            Ability to understand business needs and translate them into clear, data driven requirements and solutions. \n6.            Strong organizational skills, including the ability to manage multiple tasks, prioritize effectively, maintain accuracy, and adapt to changing requirements or new technologies. \n7.            Commitment to continuous learning in data analysis, business intelligence, and modernization tools and methodologies. \n8.            Ability to learn processes related to complex financial management systems. \n9.            Strong verbal and written communication skills for effective interaction with team members and internal customers. \n10.         Ability to clearly document issues, resolutions, workflows, and information systems standards. \n11.         Basic problem-solving and troubleshooting skills for software applications. \n12.         Knowledge of system testing practices, including preparing test scenarios and validating results. \n13.         Ability to work across multiple platforms and collaborate effectively in both independent and team environments. \n14.         Demonstrated professionalism and a customer focused approach.",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "30",
+      "remote": 0,
+      "assigned_recruiter": ", , , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ZkZDI4BD-ZLVSTokcJG6Mwrqfgn4so8lCzZl-d-w_4M",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c-zF6PZD2sBmvpiCxWn2TEg="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2awN06vC2yaDEbruK8piSI=",
+      "title": "Business Analyst",
+      "location": "",
+      "experience": {
+        "experience": "6-10 years",
+        "min_experience": "6"
+      },
+      "skills": "Business Analyst",
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Title: Business Analyst\nLocation: Richmond, VA\n \nJob Description:\n\nSpecific Tasks such as:\nØ Follow requirement elicitation strategies to gather requirements from business stakeholders for tasks related to application\\data migration\nØ Facilitate project conference calls, status meetings, planning sessions, and provide for meeting notes\nØ Be a consultant to customers and communicate project status throughout the project lifecycle\nØ Keep the project team informed of key issues and tasks that require follow-up in a timely manner\nØ Facilitate calls with different teams to drive necessary information\nØ Engage with business team, state partners (VITA), federal partners such as CDC\nØ Document current state, future state process, GAP analysis, requirements documentation, user stories with acceptance criteria\nØ Represent requirements in process flow and other suitable pictorial diagrams\nØ Actively participating in functional and systems integration unit testing; creating test plans, scenarios, and testing results\nØ Assisting customers with user acceptance testing\nØ Developing and presenting training to customers, documenting user manual when needed\nØ Providing implementation and maintenance support\nUtilizing system-based project management applications, collaboration applications, and MS Office applications, SharePoint, MS Project,Teams, etc.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "40",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/SsxzNsOpMwpBXiqGHBh4IAeMysFLM8UfZyA0jtgqkHE",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2awN06vC2yaDEbruK8piSI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1TB-gPJFvPTqC9APkmT6Gs=",
+      "title": "Product Development (SunPass Program Lead)",
+      "location": "",
+      "experience": {
+        "experience": "8-12 years",
+        "min_experience": "8"
+      },
+      "skills": "product development, SunPass",
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "General Characteristics: \nResponsible for managing the lifecycle of SunPass products, solutions, and applications, \nensuring they meet business requirements and align with the SunPass Operations \nroadmap. Oversees product development activities, reporting standards, and operational \ngovernance while coordinating with cross-functional teams to deliver high-quality, \ncustomer-focused solutions. Acts as a liaison between SunPass Operations, Toll \nOperations leadership, and technical teams to ensure timely delivery, continuous \nimprovement, and compliance with established standards. \n \nEssential Duties & Responsibilities: \n \nProduct Development & Delivery  \n Manages research and development activities related to the design, \nenhancement, and qualification of SunPass products and solutions. \n Works with cross-functional teams to ensure fulfillment of product requirements \nand transition products from development to commercialization. \n Assists in determining product delivery and deployment schedules for new \nreleases, feature updates, and maintenance cycles. \n Acts as a technical consultant to the SunPass Operations team, leading testing \nand evaluation of innovative technologies. \n Ensures technology and product specifications align with SunPass business \nobjectives. \n Oversees product delivery, managing schedules and tasks related to all aspects \nof product development. \n \nOperational Governance & Reporting \n Develops and maintains a centralized inventory of SunPass products, solutions, \nand applications. \n Captures and tracks SunPass Operations initiative updates in compliance with \nreporting standards. \n Monitors input from all business units to ensure products meet functional and \nperformance requirements. \n Identifies opportunities for improvement and lifecycle replacement needs; \nprepares documentation and summaries for leadership visibility. \n Collaborates with Toll Operations Business Intelligence team to develop \ndashboards and reporting tools for program performance monitoring. \n Ensures Standard Operating Procedures (SOPs) are created and maintained, \nestablishing a lifecycle process for updates. \n \nStrategic Support & Emergency Response \n Gains detailed knowledge of all facets of SunPass Operations to support \ndecision-making and implementation of initiatives. \n Serves in times of emergency to support state response efforts and ensure \ncontinuity of operations. \n Performs other duties as assigned \nDimensions \n \nEducation:  \nBachelor’s or Master’s Degree in Computer Science, Information Systems, Business \nAdministration, Operations Management, Project Management or other related field. Or \nequivalent work experience. \nExperience:  \nA minimum of 7 years of tech industry, product engineering, operations, technology \nintegration, or other related work experience.     \n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "55",
+      "remote": 0,
+      "assigned_recruiter": ", , , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/G7zMnSkXkw3ifPgPJAeR9YLN_v7m6ZNPIAK-zsJuYXw",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1TB-gPJFvPTqC9APkmT6Gs="
+    }
+  ]
+}

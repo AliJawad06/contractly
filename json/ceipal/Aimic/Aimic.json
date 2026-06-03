@@ -1,0 +1,151 @@
+{
+  "company": "Aimic",
+  "scrape_date": "2026-05-26T00:48:56.370422",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cwYWfXUJqanKICjR9V6Mc4s=",
+      "title": "IA-DOM-DOIT-DIAL-INTS3-FileCloud Administrator",
+      "location": "200 E Grand Avenue | Des Moines, IA 50309",
+      "experience": {
+        "experience": "8-20 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "19/May/2026",
+        "date_posted": 1779148800000
+      },
+      "description": "The Iowa Department of Management (DOM) is seeking a skilled FileCloud Administrator with expertise in AWS and AWS VDI. \n \nThis position will renew on 7/1/26 through 6/30/27\nKey:  FileCloud Administration - 5+ years .  \n \nThis role serves as the primary administrator for the DIAL AWS GovCloud environment, overseeing essential platforms such as AMANDA, FileCloud, and the DIAL Virtual Desktop Infrastructure (VDI). In addition to managing these cloud-based systems, the position is responsible for FileCloud administration, delivering comprehensive technical support to all FileCloud users. By maintaining these critical environments, they help ensure reliable operations and seamless user experiences across the organization.  \nThe Iowa Department of Management (DOM) is seeking a skilled Infrastructure Technical Specialist (ITS) with expertise with AWS, AWS VDI and FileCloud. This role is responsible for cloud infrastructure management, monitoring, security and compliance, collaboration and support, and deployment.\n \nRequired Skill Set\nDemonstrated through prior experience the ability to:\r\n \r\n\r\n·FileCloud administrator for handling staff onboarding, troubleshooting issues, and providing technical support to users.\n·Manage AWS infrastructure for VDI.\n·Knowledge of advanced system security methods and techniques.\n·Complete assigned tasks, provide clear status updates, adhere to quality standards, and work collaboratively.\n·Handle on-call nightly and weekend patching, upgrades, and troubleshooting.\n·Excellent verbal and written communication skills are essential for effectively collaborating with multiple teams.\n·Work independently with little supervision or guidance.\n·Exhibit initiative by proactively learning new systems, processes, and aspects of business functionality independently.\nRequirements\n·Broad experience with cloud adoption, including application readiness assessment, prototyping of new environments, server builds, data migration.\n·Experience as an enterprise systems administrator in a client or server environment, including deployment automation tools.\n·Experience in a customer-facing capacity, support, or consulting role\n·Experience with cloud service provider offerings like Microsoft Azure or Amazon Web Services (AWS) or Google Cloud Platform (GCP)\n·Experience with design and implementation of distributed systems architecture on private or public cloud infrastructure\n·Experience with troubleshooting very complex distributed environments pertaining to connectivity & app performance and monitoring tools & offering\n·Experience working with cloud platforms\n·Extensive knowledge of systems including Hardware, software, networking, and storage\n· High-level strategic planning & advice to an entity that will allow for the successful adoption or migration of Cloud-based technologies or services\n·Performance tuning of cloud environments.\n·Robust proficiency in Windows, Linux & CLI with 1-2 years of experience in VM infrastructure\n·Strong written and oral communication skills\n·Technical knowledge of infrastructure components such as Network, Storage, Linux/Windows, Application knowledge of Java, .Net, and IT security\n \n \n\n\n\n\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\n\n\n\n\n\n\n\n\n\nFileCloud Administration experience handling staff onboarding, troubleshooting issues & providing technical support to users.\nRequired\n8\nYears\n\n\n\n\n\n\n\n\nDemonstrated through prior experience the Ability to Manage AWS infrastructure for VDI.\nRequired\n5\nYears\n\n\n\n\n\n\n\n\nDemonstrated through prior experience the Ability to Manage AWS infrastructure supporting business applications.\nRequired\n5\nYears\n\n\n\n\n\n\n\n\nDemonstrated through prior experience the Knowledge of advanced system security methods and techniques.\nRequired\n5\nYears\n\n\n\n\n\n\n\n\nDemonstrated through prior experience the ability to Complete assigned tasks, provide clear status updates, adhere to quality standards & work collabo\nRequired\n5\nYears\n\n\n\n\n\n\n\n\nDemonstrated through prior experience the ability to Handle on-call nightly and weekend patching, upgrades, and troubleshooting.\nRequired\n5\nYears\n\n\n\n\n\n\n\n\nExcellent verbal and written communication skills are essential for effectively collaborating with multiple teams.\nRequired\n5\nYears\n\n\n\n\n\n\n\n\nWork independently with little supervision or guidance.\nRequired\n5\nYears\n\n\n\n\n\n\n\n\nExhibit initiative by proactively learning new systems, processes, and aspects of business functionality independently.\nRequired\n5\nYears\n\n\n\n \n \nINTERVIEW DATES: Interviews will be conducted on [May 26, 27, 28] Only submit candidates available for interviews on the date(s) provided.\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779148800000
+      },
+      "start": {
+        "start_date": "15/June/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "30/June/2026",
+        "end_date": 1782777600000
+      },
+      "salary": "68.75",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/AVSfd4PmZ4zipf8dQN6kVwh6pdJzxpee2gwgVY5HocA",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=NjNPWnNuUjM2RVpEbHBvcUJ4N1h4dz09&job_id=z5G7h3l6a1kMvyS65NP3cwYWfXUJqanKICjR9V6Mc4s="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cxkjQwtREO1reJcMqIhBHWg=",
+      "title": "Transportation Technician 3",
+      "location": "7500 Volkswagen Dr.   Chattanooga,  Tennessee    37416",
+      "experience": {
+        "experience": "3-10 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "18/May/2026",
+        "date_posted": 1779062400000
+      },
+      "description": "An advanced-level position that ensures safe and efficient traffic movement and monitors roadways, including detecting, confirming, updating, and responding to scheduled and unscheduled traffic incidents, congestion, and travel time imbalances.\r\nThe initial contract will be for 30-90 days but is subject to extension upon good performance.\n1 employee needed for an evening shift (K Shift)\r\n-Saturday from 11:30 A.M. until Midnight\r\n-Sunday from 11:30 A.M. until Midnight\r\n-Monday from 11:30 A.M. until Midnight\r\n \r\n1 employee needed for a midnight shift (H Shift)\r\n-Wednesday from 12:00 A.M. until 7:30 A.M.\r\n-Thursday from 12:00 A.M. until 10:00 A.M.\r\n-Friday from 12:00 A.M until 10:00 A.M.\r\n-Saturday from 12:00 A.M. until 10:00 A.M.\nTasks include:\r\n• Advanced-level operator position performing functions with minimal supervision and following established procedures.\r\n• To perform all duties and may defer the most complex issues to a supervisor.\r\n• To operate various computer-based traffic management systems to manage traffic and incidents on roadways and improve traffic conditions.\r\n• To monitor roadways via surveillance cameras and detection systems.\r\n• To monitor all traffic devices and computer equipment associated with the system.\r\n• To maintain advanced knowledge on the operation of all traffic equipment, computers, and software associated with the traffic systems.\r\n• To utilize traffic equipment for incident management and the improvement of travel time, safety, and quality of life of the traveling motorists and toll customers.\r\n• To continually check the accuracy and validity of the messages displayed on all DMS and 511.\r\n• To be aware of all 511 messages broadcast on a particular system.\r\n• To enter incident information into computer systems using traffic software.\r\n• To become familiar with the roadways and understand the purpose and location of each traffic device (i.e., detector stations, CCTV, and 511).\r\n• To alert operator staff to new and existing memos.\r\n• To use SOG to detect, dispatch, monitor, and document roadway incidents.\r\n• To confer with partners (Highway Patrol, Service Patrols, Local Law Enforcement, Fire Rescue, etc.) as well as adjacent Traffic Management Centers or other DOT Regions to coordinate resources for incidents that may affect regional travel.\r\n• To dispatch Service Patrols and assist Service Patrols with other tasks, such as phone calls, etc.\r\n• To perform other duties as assigned.\r\n• DISPATCH OR CALL CENTER EXPERIENCE A PLUS!\n \n\n\n\nType\n \nCategory\n \nQualification\n \nDescription\n \nCompetency\n \nRequired\n \n \n\n\n \nSoftware\n \nDatabase\n \nMicrosoft Access\n \nExperience a plus\n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nCustomer Service\n \nExperience a plus\n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nData Entry\n \nExperience a plus\n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nEmailing\n \n \n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSoftware\n \nOthers\n \nMicrosoft Excel\n \n \n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSoftware\n \nOthers\n \nMicrosoft Word\n \n \n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nMulti Line Phone System\n \nExperience a plus\n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nPrinting and Copying\n \n \n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nTechnical Skills\n \n2 years of experience as TMC Technician or direct comparable experience\n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nTyping\n \nExperience a plus\n \nNovice (1-3 Years)\n \nNo\n \n\n\n \nSkills\n \nOthers\n \nVerbal Communication\n \nGood communication skills -oral, writing, clear communication over radio, dispatch experience\n \nNovice (1-3 Years)\n \nNo\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779062400000
+      },
+      "start": {
+        "start_date": "15/June/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "15/September/2026",
+        "end_date": 1789430400000
+      },
+      "salary": "18",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/-EKPxOc8Yy_qctLtq_GNckBrW8cpyrrr2NzhfzqbHrg",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=NjNPWnNuUjM2RVpEbHBvcUJ4N1h4dz09&job_id=z5G7h3l6a1kMvyS65NP3cxkjQwtREO1reJcMqIhBHWg="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_M0njx2Nm78hPZlNUq8Rz8=",
+      "title": "Attorney",
+      "location": "710 James Robertson Parkway 5th Floor Andrew Johnson Tower   Nashville,  Tennessee    37243",
+      "experience": {
+        "experience": "2-15 years",
+        "min_experience": "2"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "18/May/2026",
+        "date_posted": 1779062400000
+      },
+      "description": "Note to recruiters: Please ensure candidates are aware this is a 37.5 hour/week contract position not eligible for state employee benefits and the chosen candidate will need professional liability insurance prior to start date.\nJob Overview:\nThe Tennessee Department of Health is seeking an attorney to serve as a Contractor Associate General Counsel. This position reports to the Deputy General Counsel. Primary job responsibilities include: reviewing the Department's contracts and grants and certifying them for legal sufficiency; providing legal guidance on procurement, vendor transitions, and regulatory and contract compliance; participating during vendor bid protests; and performing risk assessments. Additionally, the job responsibilities will include assisting with public records requests and rulemaking projects. As assigned, job responsibilities may also include advising on special projects and conducting bill analysis. Position requires weekly in-office time. This is a contract position not eligible for state employee benefits, and the successful candidate should obtain their own professional liability insurance.\n Key Responsibilities:\n·- Review a large volume of contracts (800+), amendments (200+), and procuring documents each year.\n·- Provide legal support for grants and contracts entered into between the department and any supplier of services, products, equipment, and/or computer software.\n·- Provide legal guidance on contract drafting, interpretation, and other legal issues related to purchasing and department operations.\n·- Assist the Senior Associate in interactions with department programs, the Department's Division of Administrative Services, and other state agencies, such as the Department of General Services.\n·- Assist with promulgating rules within the department.\n·- Assist with legislative projects, including bill analysis.\n·- Complete special projects as assigned by the General Counsel and Deputy General Counsel, including public records requests.\nMinimum Qualifications:\nThe ideal candidate should have familiarity with the State's procurement process and rulemaking procedures, ability to manage and prioritize a large volume of work, excellent verbal and written communication skills, and collaborate and work in a team environment. Also, the ideal candidate will  have prior HIPAA experience and ensure the needs of customers and clients are met.\nEducation:\nJD, admitted to TN Bar with a license in good standing, at least 1 year of relevant legal experience preferred.\nItems to include with application:\nPlease include with application a writing sample of not more than 10 pages along with the applicant’s TN Bar license number.\n \n\n\n\nType\n \nCategory\n \nQualification\n \nDescription\n \nCompetency\n \nRequired\n \n \n\n\n \nSkills\n \nOthers\n \nLegal\n \n \n \nNovice (1-3 Years)\n \nNo\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779062400000
+      },
+      "start": {
+        "start_date": "20/July/2026",
+        "start_dateStr": 1784505600000
+      },
+      "end": {
+        "end_dateStr": "30/November/2027",
+        "end_date": 1827532800000
+      },
+      "salary": "53.04",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/tX51ERU9UdYt5WgO9Me4O3aoZbL9achjqndL8Xq76B0",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=NjNPWnNuUjM2RVpEbHBvcUJ4N1h4dz09&job_id=z5G7h3l6a1kMvyS65NP3c_M0njx2Nm78hPZlNUq8Rz8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4Nj4g0XLXYBJKpicQZNroY=",
+      "title": "Computer Deployment Team",
+      "location": "312 Rosa Parks Avenue, Suite 15   Nashville,  Tennessee    37243",
+      "experience": {
+        "experience": "5-15 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "18/May/2026",
+        "date_posted": 1779062400000
+      },
+      "description": "Job Title: IT Deployment Team Member\nJob Description: We are seeking a motivated and detail-oriented individual to join our IT Deployment Team. As a member of this team, you will be responsible for the delivery, installation, configuration, and support of laptops across various TDOT locations. You will work collaboratively with other team members to ensure efficient deployment of technology assets while maintaining a high level of customer service.\nKey Responsibilities:\n\nDeliver, install, and configure computers \nPrepare workstations, peripherals, and software for deployment\nMaintain accurate records of equipment deployment and status\nTroubleshoot and resolve technical issues on-site or remotely\nFollow safety procedures and best practices during deployment activities\nCommunicate effectively with end users and team members\nMaintain organization and cleanliness of deployment storage areas\nTravel to different TDOT sites as required, including travel across the state of Tennessee (travel expenses will be reimbursed by state guidelines) \n\nPhysical Requirements:\n\nMust be able to lift, push, and carry equipment weighing up to 50 pounds\nMust be able to stand, walk, bend, and reach for extended periods during deployments\n\nQualifications:\n\nHigh school diploma or equivalent required; technical certifications a plus\nPrior experience in IT deployment, hardware installation, or similar role preferred\nStrong problem-solving and communication skills\nValid driver’s license and reliable transportation\n\nWork Environment:\n\nFast-paced, team-oriented environment\nMay involve travel between multiple work locations across Tennessee (travel expenses reimbursed by state guidelines)\n\n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779062400000
+      },
+      "start": {
+        "start_date": "08/June/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "08/June/2027",
+        "end_date": 1812412800000
+      },
+      "salary": "27.58",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/8grTnQFPFHrUNumFOMuQO_lto-SS3c8cOqEmewhsdw4",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=NjNPWnNuUjM2RVpEbHBvcUJ4N1h4dz09&job_id=z5G7h3l6a1kMvyS65NP3c4Nj4g0XLXYBJKpicQZNroY="
+    }
+  ]
+}

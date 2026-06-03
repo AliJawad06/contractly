@@ -1,17 +1,12 @@
 import json
+import re
 from pathlib import Path
-from openai import OpenAI
+import anthropic
 from redis import Redis
 from rq import Worker
-
-client = OpenAI()
+import sys
 
 OUTPUT_PATH = Path("/root/contractly/day/day.jsonl")
-
-with open("/root/contractly/day/day_intermediate.jsonl") as f:
-    jobs = [json.loads(line) for line in f if line.strip()]
-
-lookup = {obj["url"]: obj for obj in jobs}
 
 
 def load_existing_urls():
@@ -27,69 +22,54 @@ def load_existing_urls():
     return seen
 
 
-def extract_text(obj):
-    body = obj["response"]["body"]
-
-    # Responses API format
-    if "output" in body:
-        for block in body["output"]:
-            if block.get("type") == "message":
-                for part in block.get("content", []):
-                    if part.get("type") == "output_text":
-                        return part["text"]
-            # flat content block
-            if "content" in block:
-                for part in block["content"]:
-                    if "text" in part:
-                        return part["text"]
-
-    # Chat Completions format
-    if "choices" in body:
-        return body["choices"][0]["message"]["content"]
-
-    raise ValueError(f"Unknown response structure. Keys: {list(body.keys())}")
-
-
 def process_event(payload):
+    client = anthropic.Anthropic()
+
+    OUTPUT_PATH = Path("/root/contractly/day/day.jsonl")
+
+    with open("/root/contractly/day/day_loc_processing.jsonl") as f:
+        jobs = [json.loads(line) for line in f if line.strip()]
+
+    lookup = {obj["custom_id"]: obj for obj in jobs if obj.get("custom_id")}
+
     batch_id = payload["data"]["id"]
-    batch = client.batches.retrieve(batch_id)
+    batch = client.messages.batches.retrieve(batch_id)
     print("event is being processed")
-    if not batch.output_file_id:
-        return {"status": "no_output"}
+    if batch.processing_status != "ended":
+        return {"status": "not_ready"}
     print(payload)
-    file_response = client.files.content(batch.output_file_id)
+
     seen = load_existing_urls()
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     written = 0
 
-    # Debug: print the first line's structure then remove this block
-    print(file_response.text)
-    for line in file_response.text.splitlines():
-        
-        if line.strip():
-            obj = json.loads(line)
-            print("=== FIRST LINE STRUCTURE ===")
-            print(json.dumps(obj["response"]["body"], indent=2, default=str))
-            break
-
     with open(OUTPUT_PATH, "a") as f:
-        for line in file_response.text.splitlines():
-            if not line.strip():
-                continue
+        for result in client.messages.batches.results(batch_id):
             try:
-                obj = json.loads(line)
-                text_json = extract_text(obj)
-                parsed = json.loads(text_json)
-                url = obj["custom_id"]
-                match = lookup.get(url)
-                if not match or url in seen:
-                    continue
-                merged = {**match, **parsed}
-                f.write(json.dumps(merged) + "\n")
-                seen.add(url)
-                written += 1
+                if result.result.type != "succeeded":
+                    print(f"Skipping {result.custom_id}: {result.result.type}")
+                else:
+                    output = result.result.message.content[0].text
+                    parsed = json.loads(output) 
+                    if parsed.get("yoe") is not None:
+                        parsed["experience"] = parsed.pop("yoe")
+                    if parsed.get("locations"):
+                        locs = [f"{l['city']}, {l['state']}" for l in parsed.get("locations")]
+                        parsed["location"] = parsed.get("locations")
+                        parsed.pop("locations")
+                    match = lookup.get(result.custom_id)
+                    if not match:
+                        continue
+                    job_url = match.get("url", "")
+                    if job_url in seen:
+                        continue
+                    print(result.custom_id, match["experience"], parsed.get("experience") or "no parse")
+                    merged = {**match, **parsed}
+                    f.write(json.dumps(merged) + "\n")
+                    seen.add(job_url)
+                    written += 1
             except Exception as e:
-                print(f"Error processing line: {e}")
+                print(f"Error processing result {result.custom_id}: {e}")
                 continue
 
     return {"status": "processed", "written": written}
@@ -98,5 +78,8 @@ def process_event(payload):
 redis_conn = Redis()
 
 if __name__ == "__main__":
+    #payload = {}
+    #payload["data"] = {"id": "msgbatch_013waLQf7kvRFGaLqEFeXeRJ"}
+    #process_event(payload)
     worker = Worker(["webhook"], connection=redis_conn)
     worker.work()

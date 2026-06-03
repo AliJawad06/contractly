@@ -1,0 +1,662 @@
+[
+  {
+    "id": 32351871,
+    "title": "Java Microservices (Backend) Developer",
+    "location": "CA, Sunnyvale",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/22/2026",
+      "date_posted": 1779482277000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Title- Java Microservices (Backend) Developer</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Location- Sunnyvale, CA (onsite)</span></span><br />\r\n<br />\r\n <br />\r\n <br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Title: Senior Java Microservices (Backend) Developer<br />\r\nWe are looking for a highly skilled Java Microservices Developer with expertise in building microservices using Java. The ideal candidate will have a minimum of 6 years of experience in Java, spring boot, microservices development, with expert-level proficiency, and a strong understanding of building highly scalable systems using cloud and edge computing.</span></span><br />\r\n <br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Key Responsibilities:<br />\r\n<span style=\"color:red;\">Design and develop highly scalable microservices using java, spring boot, Graph QL</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Build and manage Kubernetes clusters.</span></span><br />\r\n<span style=\"color:red;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Experience working with Kafka and AMQ</span></span></span><br />\r\n<span style=\"color:red;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Good experience working on system design and architecture</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><span style=\"color:red;\">Develop and maintain CI/CD pipelines using GITOPS, GIT, and Jenkins.</span><br />\r\nCollaborate with multiple teams to handle production support.<br />\r\nImplement agile engineering practices to deliver high-quality software.<br />\r\nDevelop and implement microservice automation testing frameworks.<br />\r\nMonitor and troubleshoot production issues using Splunk, Dynatrace, and Grafana.<br />\r\nWork with YML files and Linux.<br />\r\nRequirements:<br />\r\nExperience working with databases like Cosmos,Cassandra and MariaDB.<br />\r\n<br />\r\n<br />\r\nStrong experience in building micro services using java</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">A minimum of 3 years of experience in Kubernetes and Docker.<br />\r\nStrong knowledge of building highly scalable systems using cloud and edge computing.<br />\r\nMid-level proficiency in CI/CD, GITOPS, GIT, and Jenkins.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Expert-level problem-solving skills with the ability to solve LeetCode/HackerRank medium to high standard questions.<br />\r\nFamiliarity with microservice automation testing frameworks.<br />\r\nStrong knowledge of Splunk, Dynatrace, and Grafana.<br />\r\nExperience in working with YML files and Linux.<br />\r\nExperience in working with shell scripting.<br />\r\nExperience in cloud platforms.</span><br />\r\nIf you are a self-starter who enjoys working in a fast-paced environment, has excellent communication skills, and can collaborate effectively with multiple teams, then we encourage you to apply for this exciting opportunity.</span></div>\r\n",
+    "recruiter": [
+      "Ravi Gopidi",
+      "ravi@tranzeal.com",
+      "8317089350"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32351871",
+    "time_scraped": 1779749764490,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32348354,
+    "title": "Data Engineer",
+    "location": "Telangana, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/22/2026",
+      "date_posted": 1779453908000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> Job Title: Data Engineer<br /> \r\nLocation: Bangalore<br /> \r\nExperience :8&plus; years<br /> \r\nSalary: 22-24 LPA MAX\r\n<div> <br /> \r\n<span style=\"color:black;\"> We are looking for candidates with hands-on experience in Splunk, Data Lake environments, and advanced SQL.<br /> \r\nAdditionally, preference should be given to profiles with strong data analysis, dashboarding, and stakeholder interaction experience.<br /> \r\n<strong> Kindly treat this as a priority and share relevant profiles at the earliest.</strong></span> </div> \r\n\r\n<div>  </div> \r\n\r\n<div> <span style=\"color:black;\"> JD:</span> </div> \r\n\r\n<ul> \r\n\t<li> Proficient in Splunk, Data Lake & complex SQL for querying large-scale structured and unstructured datasets.</li> \r\n\t<li> Analyzes structured and unstructured datasets to surface actionable insights that drive product and business decisions.</li> \r\n\t<li> Manages end-to-end data lifecycle — from ingestion and transformation to archival — in alignment with business and compliance requirements.</li> \r\n\t<li> Builds intuitive dashboards and reports using Tableau, Amplitude & Splunk visualizations to communicate metrics to technical and executive stakeholders.</li> \r\n</ul> \r\n</div> \r\n",
+    "recruiter": [
+      "Padmaja Pentyala",
+      "padmajaP@tranzeal.com",
+      "9390057030"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32348354",
+    "time_scraped": 1779749764489,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32340241,
+    "title": "Onboarding & Talent Operations Specialist",
+    "location": "Karnataka, Bangalore",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/21/2026",
+      "date_posted": 1779341687000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br />  \r\n<br />  \r\n<strong>  Req#:37277290</strong><br />  \r\n<br />  \r\n<strong>  Job Title: Onboarding & Talent Operations Specialist<br />  \r\nStart Date: 06/15/2026<br />  \r\nEst. End Date: 06/15/2027<br />  \r\nPay Rate:< <span style=\"color:#2a394f;\">  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  ₹</span>  </span>  </span>   107000/month<br />  \r\nLocation: Bangalore, India<br />  \r\n# of Positions: 1<br />  \r\n<span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">  Work Mode: Hybrid <br />  \r\nExp: 7-10 Yrs</span>  </span>  </strong><br />  \r\n<br />  \r\n<span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">  JD:</span>  </span>  <br />  \r\n \r\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:1117px;\" width=\"1117\">  \r\n\t<tbody>  \r\n\t\t<tr>  \r\n\t\t\t<td style=\"height:1px;\">  \r\n\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:1114px;\" width=\"1114\">  \r\n\t\t\t\t<tbody>  \r\n\t\t\t\t\t<tr>  \r\n\t\t\t\t\t\t<td>  \r\n\t\t\t\t\t\t<table border=\"0\" cellpadding=\"0\" style=\"width:100.0%;\" width=\"100%\">  \r\n\t\t\t\t\t\t\t<tbody>  \r\n\t\t\t\t\t\t\t\t<tr>  \r\n\t\t\t\t\t\t\t\t\t<td colspan=\"2\" style=\"width:835px;\">  \r\n\t\t\t\t\t\t\t\t\t<ul>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <strong>  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">  The shift timing will be 7:30 pm to 4:30 am IST.</span>  </span>  </strong></li>  \r\n\t\t\t\t\t\t\t\t\t</ul>  \r\n\t\t\t\t\t\t\t\t\t<strong>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">  This role is a 12 month contract assignment at Palo Alto Networks with a 3 month probation period.</span>  </span>  </span>  </strong><br />  \r\n\t\t\t\t\t\t\t\t\t<strong>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">  Your Impact</span>  </span>  </span>  </strong><br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">  Your Career</span>  </span>  </span>  \r\n\r\n\t\t\t\t\t\t\t\t\t<ul>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  As a Talent Operations Specialist you will play a pivotal role in demonstrating our company culture and making the best first impression. If you are a self-starter and looking for a role that helps create a great new hire experience, this is it! This individual will provide a positive experience to all new hires from the Interview stage through their first week at Palo Alto Networks. You would be required to support Onboarding and Coordination teams as and when required.  </span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t</ul>  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">  Your Impact</span>  </span>  </span>  \r\n\r\n\t\t\t\t\t\t\t\t\t<ul>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Ensure a positive onboarding experience for new hires by ensuring all aspects of onboarding are completed accurately and timely including</span>  </span>  \r\n\r\n\t\t\t\t\t\t\t\t\t\t<ul>  \r\n\t\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  management of offer generation</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  management of background checks & identify verification through a third party vendor</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  and management of accurate onboarding data in Workday Recruit, and other systems like Service Now, Docusign, etc</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t</ul>  \r\n\t\t\t\t\t\t\t\t\t\t</li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Adhere to processes and adjudication guidelines, but have the ability to think outside the box for issues that arise outside stated guidelines and provide recommendations to lead prior to moving forward</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Manage and provide early intervention and support for the resolution to issues as they are identified and help to implement long-term solutions </span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Serve as a key member and active participant of the Staffing Operations team, offering ideas and suggestions to address gaps/roadblocks and present scalable solutions</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Own the entire new hire's onboarding experience including: coordinate via Workday Onboarding platform and email with new hires regarding onboarding requirements, background check documentation, Welcome Day, and ensure all required information is returned in a timely manner</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Ensure a positive candidate experience for new hires by ensuring all aspects of hiring are completed accurately and timely including</span>  </span>  \r\n\t\t\t\t\t\t\t\t\t\t<ul>  \r\n\t\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Managing high volume interview scheduling for our Talent Acquisition team </span>  </span>  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">  (following USA working hours)</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Maintain a consistent follow up with interviewers and candidates throughout the hiring process in order to enhance positive hiring experience</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t</ul>  \r\n\t\t\t\t\t\t\t\t\t\t</li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Partner with the recruiters and hiring managers to achieve an efficient, accurate and high touch candidate experience throughout the recruiting lifecycle</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Provide support for a variety of administrative activities requiring knowledge of organizational procedures, methodologies, and business practices</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Provide enthusiastic guidance and communication to potential hires, interview teams and hiring managers as it relates to the interview scheduling and logistics throughout the interview process</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Actively maintain and update regional talent acquisition operations training guides and standard operating procedures documents</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Conduct facilitation for new hires and assist in the coordination and execution of talent development programs, including scheduling, resource allocation, and participant communications</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Act as a liaison between program participants, facilitators, and leadership to ensure open communication and address any issues or concerns</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Maintain accurate records of program participants, materials, and feedback</span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t\t<li>  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Manage the day-to-day of the Employee Referral Program and Rehire Eligibility process, ensuring critical workflows move quickly and accurately. </span>  </span>  </li>  \r\n\t\t\t\t\t\t\t\t\t</ul>  \r\n\t\t\t\t\t\t\t\t\t</td>  \r\n\t\t\t\t\t\t\t\t\t<td>   </td>  \r\n\t\t\t\t\t\t\t\t</tr>  \r\n\t\t\t\t\t\t\t\t<tr>  \r\n\t\t\t\t\t\t\t\t\t<td style=\"width:278px;height:19px;\">  <strong>  <span style=\"color:#666666;\">  <span style=\"font-family:Work Sans;\">  <span style=\"font-size:10.5pt;\">  Skills:</span>  </span>  </span>  </strong></td>  \r\n\t\t\t\t\t\t\t\t\t<td colspan=\"2\" style=\"width:835px;height:19px;\">  <span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Experience with an AI scheduling platform, Offer generation and onboarding experience.</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Experience with Workday Recruiting data, Interview scheduling, and reporting</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Demonstrates a high degree of integrity and maintains confidentiality</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Flexible, yet highly organized, and able to adapt to shifting priorities, demands and deadlines in<br />  \r\n\t\t\t\t\t\t\t\t\ta global, dynamic environment</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Strong written and verbal communication skills</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Proficient at handling high volumes of work and multi-tasking in a fast-paced, high-intensity<br />  \r\n\t\t\t\t\t\t\t\t\twork environment</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Proficient in use of MS Office Suite or GSuite</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Understanding of the entire candidate/employee lifecycle, with ability to recommend<br />  \r\n\t\t\t\t\t\t\t\t\tprocess-oriented, technical, and/or operational solutions to improve the overall experience</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Meticulous attention-to-detail with consistent follow up</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Critical thinking and problem-solving is an absolute must</span>  </span>  </span>  <br />  \r\n\t\t\t\t\t\t\t\t\t<span style=\"color:#2a394f;\">  <span style=\"font-family:Arial,sans-serif;\">  <span style=\"font-size:10.5pt;\">  ●</span>  </span>  </span>  <span style=\"color:#2a394f;\">  <span style=\"font-family:Open Sans,sans-serif;\">  <span style=\"font-size:10.5pt;\">   Experience with the following tools a plus: Workday, ServiceNow, Paradox, and DocuSign</span>  </span>  </span>  </td>  \r\n\t\t\t\t\t\t\t\t</tr>  \r\n\t\t\t\t\t\t\t\t<tr>  \r\n\t\t\t\t\t\t\t\t\t<td style=\"width:278px;height:19px;\">   </td>  \r\n\t\t\t\t\t\t\t\t\t<td colspan=\"2\" style=\"width:81.0%;height:19px;\">   </td>  \r\n\t\t\t\t\t\t\t\t</tr>  \r\n\t\t\t\t\t\t\t\t<tr>  \r\n\t\t\t\t\t\t\t\t\t<td style=\"width:278px;height:19px;\">   </td>  \r\n\t\t\t\t\t\t\t\t\t<td colspan=\"2\" style=\"width:835px;height:19px;\">   </td>  \r\n\t\t\t\t\t\t\t\t</tr>  \r\n\t\t\t\t\t\t\t\t<tr height=\"0\">  \r\n\t\t\t\t\t\t\t\t\t<td>   </td>  \r\n\t\t\t\t\t\t\t\t\t<td>   </td>  \r\n\t\t\t\t\t\t\t\t\t<td>   </td>  \r\n\t\t\t\t\t\t\t\t</tr>  \r\n\t\t\t\t\t\t\t</tbody>  \r\n\t\t\t\t\t\t</table>  \r\n\t\t\t\t\t\t</td>  \r\n\t\t\t\t\t</tr>  \r\n\t\t\t\t</tbody>  \r\n\t\t\t</table>  \r\n\t\t\t</td>  \r\n\t\t</tr>  \r\n\t\t<tr>  \r\n\t\t\t<td>  </td>  \r\n\t\t</tr>  \r\n\t\t<tr>  \r\n\t\t\t<td style=\"height:8px;\">  </td>  \r\n\t\t</tr>  \r\n\t</tbody>  \r\n</table>  \r\n\r\n<div style=\"clear:both;\">   </div>  \r\n<br />  \r\n ",
+    "recruiter": [
+      "Divya Gaddam",
+      "divyag@tranzeal.com",
+      "9989852680"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32340241",
+    "time_scraped": 1779749764630,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32340234,
+    "title": "IT Asset Manager (Data Centre / ITAM)",
+    "location": "Maharashtra, Yerawada,Pune",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/21/2026",
+      "date_posted": 1779339542000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div>\r\n<h1>Job Description &ndash; IT Asset Manager (Data Centre)</h1>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2>Location: Pune (NVIDIA Office - Survey No. 144/145, Commerce zone Building No. 5,Off Airport Road, Yerawada,Pune &ndash; 411006, Maharashtra, India)</h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2>Budget: ₹10 &ndash; 15 LPA</h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2>Experience: 6 Years</h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2>Function: IT Infrastructure / Data Centre Operations</h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2><strong>Role Overview</strong></h2>\r\n\r\n<p>We are looking for an experienced <strong>IT Asset Management (ITAM) professional</strong> to join our infrastructure team in Pune. The role involves managing the end-to-end lifecycle of IT assets in a large-scale <strong>enterprise IT environment</strong>.</p>\r\n\r\n<p>The ideal candidate should have strong experience in asset tracking, CMDB management, and working with structured IT processes in enterprise organizations.</p>\r\n\r\n<h2><strong>Key Responsibilities</strong></h2>\r\n\r\n<ul>\r\n\t<li>Manage full lifecycle of IT assets including procurement, deployment, tracking, maintenance, and retirement</li>\r\n\t<li>Maintain accurate inventory of IT assets such as servers, storage, and network equipment</li>\r\n\t<li>Ensure correct asset records including location, ownership, and configuration details</li>\r\n\t<li>Update and maintain CMDB in ServiceNow or similar ITSM tools</li>\r\n\t<li>Perform regular asset reconciliation and support audits</li>\r\n\t<li>Coordinate with internal infrastructure and operations teams for asset movements and updates</li>\r\n\t<li>Follow ITIL-based Asset and Configuration Management processes</li>\r\n\t<li>Prepare reports on asset status, compliance, and audits</li>\r\n</ul>\r\n\r\n<h2><strong>What We Are Looking For</strong></h2>\r\n\r\n<ul>\r\n\t<li>Around 6 years of experience in IT Asset Management in <strong>enterprise IT environments</strong></li>\r\n\t<li>Strong understanding of IT infrastructure (servers, storage, networking)</li>\r\n\t<li>Hands-on experience with ServiceNow ITAM / CMDB or similar tools</li>\r\n\t<li>Good knowledge of ITIL Asset and Configuration Management processes</li>\r\n\t<li>Strong Excel and data management skills</li>\r\n\t<li>Experience in audit support and asset lifecycle tracking</li>\r\n</ul>\r\n\r\n<h2><strong>Communication Skills</strong></h2>\r\n\r\n<ul>\r\n\t<li>Good verbal and written communication in English</li>\r\n\t<li>Ability to work with cross-functional IT and operations teams</li>\r\n\t<li>Strong documentation and reporting skills</li>\r\n\t<li>Ability to communicate asset-related information clearly and simply</li>\r\n</ul>\r\n\r\n<h2><strong>Good to Have</strong></h2>\r\n\r\n<ul>\r\n\t<li>Exposure to high-scale enterprise environments (including GPU / HPC environments like NVIDIA setups)</li>\r\n\t<li>Experience with cloud platforms (AWS / Azure / GCP)</li>\r\n\t<li>Familiarity with tools like Device42 or Sunbird</li>\r\n\t<li>Basic knowledge of VMware or Kubernetes</li>\r\n</ul>\r\n\r\n<h2><strong>Education</strong></h2>\r\n\r\n<p>Bachelor&#39;s degree in computer science, IT, Electronics, or related field</p>\r\n</div>\r\n",
+    "recruiter": [
+      "Hemant Baradwaz",
+      "hbaradwaz@tranzeal.com",
+      "6239991415"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32340234",
+    "time_scraped": 1779749773737,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32340133,
+    "title": "AI Search Engineer",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/21/2026",
+      "date_posted": 1779337103000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">Job Title: AI Search Engineer (Remote)<br />\r\nExperience: 6-9 Years<br />\r\nSalary: 30 LPA<br />\r\n<br />\r\n </span></span><span style=\"color:black;\">We are looking for candidate profiles who has experience in implementing Unified search and conversational chat capabilities using Elastic search and its agentic platform. </span><br />\r\n<strong><span style=\"color:black;\">JD</span></strong><br />\r\n<span style=\"color:black;\">Deep understanding of Elastic search platform, designing indexes, data ingestion, semantic, lexical and hybrid search. Search relevance and re-ranking, multi-lingual support</span><br />\r\n<span style=\"color:black;\">Good experience in vector generation models and  light vs dense vector  and it&#39;s impact on the search relevance</span><br />\r\n<span style=\"color:black;\">Elastic Agentic capabilities, rags, workflow, tooling and multi agent orchestration.</span><br />\r\n<span style=\"color:black;\">Has experience working with LLM , and machine learning models.</span></div>\r\n",
+    "recruiter": [
+      "Hemant Baradwaz",
+      "hbaradwaz@tranzeal.com",
+      "6239991415"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32340133",
+    "time_scraped": 1779749773626,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32340095,
+    "title": "Azure Databricks Data Engineer_AMAT",
+    "location": "Karnataka, Bangalore",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779335183000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> <br /> \r\nExp: 5&plus; Yrs<br /> \r\nLocation: ITPL, Bangalore<br /> \r\nWork Mode: 4days Work from Office<br /> \r\nCustomer: AMAT<br /> \r\nBillrate:22-24 LPA<br /> \r\n<br /> \r\n<span style=\"font-family: verdana\"> <span style=\"font-size: 12px\"> JD:</span> </span> <br /> \r\n<br /> \r\nMinimum 5&plus; years in Data Engineering, with at least 4 years of hands-on experience in Databricks and Azure ecosystem — this is a must.<br /> \r\n• End-to-End Data Pipeline Delivery – Proven track record of building and owning ETL/ELT pipelines, data models, and platform components at enterprise scale across complex business domains.<br /> \r\n• Expert SQL Skills – Advanced proficiency in complex joins, window functions, CTEs, query optimization, and performance tuning across large datasets.<br /> \r\n• Strong PySpark & Python – Hands-on experience building distributed data processing pipelines, transformations, and automation scripts using PySpark and Python.<br /> \r\n• Databricks Expertise – Deep working knowledge of Delta Lake, Unity Catalog, Workflows, medallion architecture (bronze-silver-gold), notebook development, and lakehouse best practices.<br /> \r\n• Clean Code & Engineering Discipline – Writes modular, well-documented, and testable code. Follows coding standards, maintains version control hygiene, and builds reusable components that other developers can extend.<br /> \r\n• Problem Solving & Debugging – Strong ability to diagnose and resolve complex data pipeline failures, distributed system issues, and production incidents under pressure.<br /> \r\n• Performance Tuning – Demonstrated expertise in optimizing Spark jobs, SQL queries, and storage layers for cost efficiency, throughput, and reliability.<br /> \r\n• Developer Ownership Mindset – Takes end-to-end responsibility from development through unit testing, deployment validation, and production support — not just writing code and handing off.<br /> \r\n• Adaptability – Comfortable navigating evolving technology stacks, shifting priorities, and cross-functional collaboration in a dynamic, fast-paced Agile environment.<br /> \r\n• Team Player – Collaborative engineer who actively contributes to code reviews, architecture discussions, knowledge sharing, and mentoring within a globally distributed team.<br /> \r\nNice to Have:<br /> \r\n• AI Exposure – Familiarity with AI/ML concepts such as model training pipelines, feature engineering, RAG architectures, or tools like Azure OpenAI and LangChain.<br /> \r\n• Experience working with supply chain data domains such as procurement, logistics, inventory, or demand planning is a strong plus. Understanding of SAP or ERP data structures in a supply chain context is an added advantage.<br /> \r\n• Full Project Lifecycle & Cross-Team Collaboration – Has worked through the complete project lifecycle — from requirements gathering to production deployment. Experienced in collaborating with API and UI/UX teams, and understands how data flows end-to-end across upstream sources, backend services, APIs, and front-end applications.</div> \r\n",
+    "recruiter": [
+      "Divya Gaddam",
+      "divyag@tranzeal.com",
+      "9989852680"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32340095",
+    "time_scraped": 1779749773799,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32338474,
+    "title": "HTO Utilities Maintenance Planner",
+    "location": "OR, Hillsboro",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779317505000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Job Title: HTO Utilities Maintenance Planner </font></b><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Location: Hillsboro, OR  </font></b>\r\n<p><strong><font color=\"#000000\" face=\"arial, sans-serif\">RESPONSIBILITIES:</font></strong></p>\r\n\r\n<p> </p>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Planner will provide support to Utilities Operations as a Planner/ Scheduler with emphasis in maintenance execution, buildings and grounds, and environmental health and safety.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Maintain CMMS data integrity and perform data corrections and updates when required.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Plan, coordinate routine and non-routine maintenance, repairs, and facilities activities.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Assist in the development of department maintenance tasks into effective maintenance schedules. Translate work notifications into detailed work plans/work orders that include technical information and materials such as manuals, drawings and P&amp;IDs, work and safety instructions, permits, and accurate estimates of craftspeople, equipment, tools, materials, parts, and other required resources.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Help to develop and implement maintenance programs consistent with industry best practices, cGMPs and Company quality assurance requirements.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Work closely with Facilities Services, MRO, service requesters, production staff, technologists, engineers and outside contractors with routine and non-routine maintenance activities and work orders to ensure continuous, optimal operation of facilities and equipment with minimal downtime.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Ensure that department procedures comply with cGMPs and Company quality assurance requirements.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Translate department maintenance tasks into effective maintenance schedules integrated with production runs, shutdown activities and resource availability.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Assist in the development and implementation of maintenance programs consistent with industry best practices, cGMPs and Company quality assurance requirements. Such programs include Preventive Maintenance, Predictive Maintenance, Reliability Centered Maintenance, Total Productive Maintenance, Spare Parts Inventory Control and use of Computerized Maintenance Management Systems.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Follow up completed work plans/work orders to monitor plan quality and equipment performance trends.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Maintain open communication with management, co-workers, customers and counterpart staff in other sites</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Identify specific process improvement as needed and provide recommendations concerning established workflows.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Identify training deficiencies; provide recommendations for training where applicable.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Conduct work in an FDA regulated environment</font></li>\r\n</ul>\r\n\r\n<p><strong><font color=\"#000000\" face=\"arial, sans-serif\">REQUIREMENTS</font></strong></p>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Extensive knowledge of SAP and Utility Maintenance systems and other related strategic tools.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Working knowledge CGMP relating to equipment maintenance and calibration activities; excellent organizational, oral and written communication skills; ability to work on multiple activities simultaneously in a fast paced environment; ability to work with minimal supervision as a member of a self directed team; must be customer service oriented.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Other experience required is a minimum of five years in a maintenance organization with responsibilities for asset management and/or computerized maintenance management system (CMMS) administration an operation or minimum five years experience operating or administrating a comparable information system.</font></li>\r\n</ul>\r\n\r\n<p><strong><font color=\"#000000\" face=\"arial, sans-serif\">TRAINING DUTIES</font></strong></p>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Attend all required cGMP training as required by Department Policy .</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Attend all required Safety training as required by Department Policy</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Complete on-the-job training Using established training procedures</font></li>\r\n</ul>\r\n\r\n<p><strong><font color=\"#000000\" face=\"arial, sans-serif\">EDUCATION:</font></strong><br />\r\n<span style=\"color: rgb(0, 0, 0); font-family: arial, sans-serif;\">B.S. degree in Business (Operations Management or Supply Chain Management), Industrial Engineering, Management Information Systems or equivalent experience.</span></p>\r\n",
+    "recruiter": [
+      "Venkata Suresh",
+      "sureshs@tranzeal.com",
+      "4088840357"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32338474",
+    "time_scraped": 1779749786522,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32336037,
+    "title": "Regulatory Complaint Specialists",
+    "location": "OH, Blue Ash",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779298506000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>Title- </strong><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Regulatory Complaint Specialists</span></span></strong><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Worksite- </span></span><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Blue Ash OH</span></span></span><br />\r\n<br />\r\n <br />\r\n <br />\r\n <br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:13.5pt;\">Job Information</span></span></span></strong>\r\n<table border=\"0\" cellpadding=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Taxonomy:</span></span></td>\r\n\t\t\t<td><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">BSA/AML Compliance Specialist</span></span></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></td>\r\n\t\t\t<td><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Regulatory Complaint Specialists</span></span></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Description:</span></span></td>\r\n\t\t\t<td><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"> Regulatory Complaint Specialist</span></span><br />\r\n\t\t\t<span style=\"font-family:Arial,sans-serif;\">You will be responsible for building and maintaining strong relationships with both internal and external customers, through various contact channels and methods to resolve consumer complaints. This role is focused on understanding the needs of consumer(s) and providing quick, convenient, and accurate resolution to complaint(s), issues and inquiries. This position serves as an expert and advocate for our brands, representing the company positively and professionally, to ensure strong customer relationships and continued loyalty. At we continually seek individuals with a keen passion for delivering exceptional customer experiences, a desire to make an impact, a commitment to their work, the ability to elevate the performance of their team members and display enjoyment for solving complex customer issues.</span><br />\r\n\t\t\t<strong><span style=\"font-family:Arial,sans-serif;\">Job Responsibilities</span></strong>\r\n\t\t\t<ul>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Perform moderate to high risk analysis of account and transaction data to balance customer experience and risk for</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ensure regulatory timeframes as well as internal Service Level Agreements [SLA] are met to avoid compliance violations, which include, but are not limited to issuance of credit, reversal of fees, interest reimbursement, mailing appropriate notification letters to customers, case closure timeframes, decision accuracy, account closures/blocks, etc.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Responsible and accountable for risk by openly exchanging ideas and opinions, elevating concerns, and personally following policies and procedures as defined.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Analyze and utilize all bank records, systems, and case management systems to facilitate a comprehensive review of all disputed transactions and account closures/blocks.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Assist customers and employees through inbound calls, chats, emails and text messaging.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Identify and assess customer needs to resolve inquiries effectively.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Build personal connections and relationships to promote customer retention and maintain customer loyalty.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Function as a Subject Matter Expert (SME) and utilize critical thinking, multitasking, active listening and problem-solving skills to provide positive and creative options for customer resolutions.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ensure and maintain the safety, security, and privacy of customer information.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to successfully work in a fast-paced, ever-changing environment while meeting performance expectations and goals set by the business.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Quickly and effectively apply coaching, feedback and training to improve individual performance and customer experience.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Follow and promote all company policies, guidelines, procedures and expectations.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Demonstrate regular and reliable attendance, maintaining punctuality of scheduled tasks.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Demonstrate flexibility as needed to meet business needs (i.e. overtime, adjusted lunches and/or breaks).</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Complete additional tasks as requested to support business needs.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Provide ongoing feedback on process and compliance standards.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Perform other duties as needed.</span></li>\r\n\t\t\t</ul>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Skills/Experience:</span></span></td>\r\n\t\t\t<td><strong><span style=\"font-family:Arial,sans-serif;\">Job Requirements</span></strong>\r\n\t\t\t<ul>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">5 years of customer service experience</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Exceptional written skills with the ability to communicate with all levels of executive management.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to handle and resolve conflict positively and in a calm, professional manner.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Demonstrated ability to work well in a fast-paced work environment.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Committed to providing objective and unbiased analysis of work production.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to work both independently and in a team environment.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Demonstrate good follow-up and follow-through techniques.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to explain a complex process in an easy-to-understand manner.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Must be able to exercise discretion and independent judgment with minimal supervision</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Excellent organizational skills.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Intermediate level of knowledge/expertise with PC hardware and software (Word, Excel, Access and PowerPoint).</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to efficiently learn and navigate new systems and processes.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Must achieve and maintain Escalated Call Certification.</span></li>\r\n\t\t\t</ul>\r\n\t\t\t<strong><span style=\"font-family:Arial,sans-serif;\">Preferred</span></strong>\r\n\r\n\t\t\t<ul>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">1 year experience with Dispute Analyst/Investigation background</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">3 years of regulatory, compliance, legal, audit, risk management or other relevant experience (e.g., resolution of customer complaints)</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Bachelors degree in Business or related field</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Knowledgeable in bank and deposit compliance regulations (e.g. Regulation E and UDAAP)</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Understanding in the areas of electronic funds transfer systems, reconciliations, chargebacks, regulations, and disputes related to the US banking system.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to speak and type fluently in English.</span></li>\r\n\t\t\t\t<li><span style=\"font-family:Arial,sans-serif;\">Bilingual skills (English/Spanish) a plus</span></li>\r\n\t\t\t</ul>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n",
+    "recruiter": [
+      "Sanjay Vangari",
+      "sanjayv@tranzeal.com",
+      "0000000000"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32336037",
+    "time_scraped": 1779749786510,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32335944,
+    "title": "DevOps Engineer III",
+    "location": "CO, Denver",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779298133000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": " \r\n<div><strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Job Title: DevOps Engineer III</span></span></strong></div>\r\n\r\n<div><strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Location: Denver, CO / Remote</span></span></strong></div>\r\n\r\n<div> </div>\r\n\r\n<div><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Need a senior-level engineer/architect primarily, but they will need to potentially cover on-call and basic user issues.</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"> Looking for more of an &quot;<strong>Identity DevOps Engineer&rdquo; </strong>able to create new Intakes and troubleshoot issues etc.</span></span>\r\n\r\n<ul>\r\n\t<li><strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Expert Proficiency in PingFederate</span></span></strong>\r\n\r\n\t<ul>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Understand legacy Java-based custom adapters using Java/J2EE</span></span></li>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">PingFed Components and flow</span></span></li>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Complex integrations</span></span></li>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Custom PCVs, data stores</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li> </li>\r\n\t<li><strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Good proficiency in PingOne</span></span></strong>\r\n\t<ul>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">PingOne SSO</span></span></li>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">DaVinci</span></span></li>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">PingOne MFA</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li value=\"2\"> </li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">M365 SSO Integration and knowledge of EntraID for SSO integrations</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Ability to manage on-premise, hybrid and cloud environments</span></span></li>\r\n\t<li><strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Google and IaaC</span></span></strong>\r\n\t<ul>\r\n\t\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">GKE, Terraform, helm charts, Git, Jenkins, containerization</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Scripting and automation using python, powershell etc.,</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Migration experience from PingFederate to PingOne</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Independently support and handle production issues</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Provide Production support on rotational basis</span></span></li>\r\n</ul>\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Looking for resources to encompass many different aspects of IAM - specifically around our SSO platform.</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Operationally</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Day-to-day Intakes and Incidents</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Certificate Management improvements</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Improve logging, monitoring and potential dashboard</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Expand the PingOne Protect application and work with security to tune triggers and understand threats</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Initiate PingCentral and look to automate and provide customer self-service</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Work with QA team for automate test scripts creation</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">User issues with AD, networking, DevOps on user experience issues (lockouts, rogue/phantom errors, and login consistency)</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Incidents and new Intake requests</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">MFA setups and reset. Partnering with Service Desk</span></span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Engineering</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Expanding MFA for Applications</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">User MFA campaign &ndash; enable Resetting password and other capabilities</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Platform upgrade</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Streamline federated trust between Ping and Entra</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Working with International on Enabling SSO on all their apps</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">leverage DaVinci to enhance customized flows for self-service MFA/password reset</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Strengthen resiliency and infrastructure.</span></span></li>\r\n</ul>\r\n</div>\r\n\r\n<div><strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Skills:</span></span></strong></div>\r\n\r\n<div>\r\n<ul>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Familiar with the Ping Identity Software suite (PingOne, PingProtect, PingFed) as well as other IAM products would be useful.</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">5-7 years hands on experience</span></span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\">Familiarity with Oracle Authorization (OIM, OAG) and Entra a plus</span></span></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Shaik Afrouz",
+      "shaika@tranzeal.com",
+      "4154841248"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32335944",
+    "time_scraped": 1779749786735,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32334911,
+    "title": "Databricks Developer_ AMAT",
+    "location": "Karnataka, Bangalore",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779292221000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> Exp: 5&plus; Yrs<br /> \r\nLocation: ITPL, Bangalore<br /> \r\nWork Mode: 4days Work from Office<br /> \r\nCustomer: AMAT<br /> \r\nBillrate:22-24 LPA<br /> \r\n<br /> \r\n<strong> Mandates:</strong><br /> \r\nLooking for candidates in Bangalore location only and mandatory work from office (AMAT Client Office location)<br /> \r\nMandatory to attend the final round of the interview in person.<br /> \r\n<br /> \r\n<span style=\"font-family: verdana\"> <span style=\"font-size: 12px\"> JD:</span> </span> \r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:1071px;\" width=\"1071\"> \r\n\t<tbody> \r\n\t\t<tr> \r\n\t\t\t<td style=\"width:790px;height:365px;\"> <span style=\"color:black;\"> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:10.0pt;\"> • Design, build, and optimize data pipelines and ETL/ELT workflows using Databricks and Apache Spark (PySpark).<br /> \r\n\t\t\t• Develop scalable, high performance data solutions using Spark distributed processing.<br /> \r\n\t\t\t• Lead engineering initiatives focused on automation, performance tuning, and platform modernization.<br /> \r\n\t\t\t• Implement and manage CI/CD pipelines using Git-based workflows and tools such as GitHub Actions or Jenkins.<br /> \r\n\t\t\t• Collaborate with cross-functional teams to translate business needs into technical solutions.<br /> \r\n\t\t\t• Ensure data quality, governance, and security across all processes.<br /> \r\n\t\t\t• Troubleshoot and optimize Spark jobs, Databricks clusters, and workflows.<br /> \r\n\t\t\t• Participate in code reviews and develop reusable engineering frameworks.<br /> \r\n\t\t\t• Should have knowledge of utilizing AI tools to improve productivity and support daily engineering activities.<br /> \r\n\t\t\t• Strong knowledge and hands-on experience in Databricks Genie, including prompt engineering, workspace usage, and automation.<br /> \r\n\t\t\t<strong> Required Skills & Experience:</strong><br /> \r\n\t\t\t• 5&plus; years of experience in Data Engineering or related fields.<br /> \r\n\t\t\t• Strong hands-on expertise in Databricks (notebooks, Delta Lake, job orchestration).<br /> \r\n\t\t\t• Deep knowledge of Apache Spark (PySpark, Spark SQL, optimization techniques).<br /> \r\n\t\t\t• Strong proficiency in Python for data processing, automation, and framework development.<br /> \r\n\t\t\t• Strong proficiency in SQL, including complex queries, performance tuning, and analytical functions.<br /> \r\n\t\t\t• Strong knowledge of Databricks Genie and leveraging it for engineering workflows.<br /> \r\n\t\t\t• Strong experience with CI/CD and Git-based development workflows.<br /> \r\n\t\t\t• Proficiency in data modeling and ETL/ELT pipeline design.<br /> \r\n\t\t\t• Experience with automation frameworks and scheduling tools.<br /> \r\n\t\t\t• Solid understanding of distributed systems and big data concepts.</span> </span> </span> </td> \r\n\t\t</tr> \r\n\t</tbody> \r\n</table> \r\n</div> \r\n",
+    "recruiter": [
+      "Divya Gaddam",
+      "divyag@tranzeal.com",
+      "9989852680"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32334911",
+    "time_scraped": 1779749795184,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32334864,
+    "title": "Senior Data Engineer (Databricks & Azure) _AMAT",
+    "location": "Karnataka, Bangalore",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779291692000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<span style=\"font-size:10pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Exp: 8&plus; Yrs<br />\r\nLocation: ITPL, Bangalore<br />\r\nWork Mode: 4days Work from Office<br />\r\nCustomer: AMAT<br />\r\nBillrate:22-24 LPA<br />\r\n<br />\r\n<strong><span style=\"color:black;\">Mandates:</span></strong><span style=\"color:black;\"> <br />\r\nLooking for candidates in Bangalore location only and mandatory work from office (AMAT Client Office location)</span><br />\r\nMandatory to attend the final round of the interview in person.<br />\r\n<br />\r\nJD:<br />\r\n<b>&bull; 8&plus; years in Data Projects </b>&ndash; Proven track record of delivering end-to-end data engineering solutions including ETL/ELT pipelines, data models, and platform builds at enterprise scale.<br />\r\n<b>&bull; Expert SQL Skills</b> &ndash; Advanced proficiency in complex joins, window functions, CTEs, query optimization, and performance tuning across large datasets.<br />\r\n<b>&bull; Strong PySpark &amp; Python</b> &ndash; Hands-on experience building distributed data processing pipelines, transformations, and automation scripts using PySpark and Python.<br />\r\n<b>&bull; Databricks Expertise</b> &ndash; Working knowledge of Delta Lake, Unity Catalog, Workflows, medallion architecture (bronze-silver-gold), and lakehouse best practices.<br />\r\n<b>&bull; Azure &amp; Cloud Skills</b> &ndash; Solid experience with Azure cloud services including ADLS Gen2, Data Factory, Synapse, Key Vault, Azure DevOps, and CI/CD pipelines.<br />\r\n<b>&bull; Problem Solving &amp; Debugging</b> &ndash; Strong ability to diagnose and resolve complex data pipeline failures, distributed system issues, and production incidents under pressure.<br />\r\n<b>&bull; Performance Tuning</b> &ndash; Demonstrated expertise in optimizing Spark jobs, SQL queries, and cloud storage layers for cost efficiency, throughput, and reliability.<br />\r\n<b>&bull; Adaptability</b> &ndash; Comfortable navigating evolving technology stacks, shifting priorities, and cross-functional collaboration in a dynamic, fast-paced Agile environment.<br />\r\n<b>&bull; Team Player</b> &ndash; Collaborative engineer who actively contributes to code reviews, architecture discussions, knowledge sharing, and mentoring within a globally distributed team.<br />\r\n<b>&bull; AI Exposure (Nice to Have)</b> &ndash; Familiarity with AI/ML concepts such as model training pipelines, feature engineering, RAG architectures, or tools like Azure OpenAI and LangChain.<br />\r\n<b>&bull; GenAI Skills: </b>Strong hands-on experience with Databricks Genie, ChatGPT, Claude, and various Large Language Models (LLMs).</span></span>",
+    "recruiter": [
+      "Divya Gaddam",
+      "divyag@tranzeal.com",
+      "9989852680"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32334864",
+    "time_scraped": 1779749794705,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32323235,
+    "title": "Data Center - Shipment, logistics",
+    "location": "VA, Charlottesville",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779125511000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>We need a logistics/shipment person required for Nvidia, who will work from Virginia <br />\r\n<br />\r\nCandidate role is to manage the shipment of assets ( receive and send). <br />\r\n ",
+    "recruiter": [
+      "Anil Kumar",
+      "Anilk@tranzeal.com",
+      "4084412734"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32323235",
+    "time_scraped": 1779749795226,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32322488,
+    "title": "Data Science - 1",
+    "location": "CA, Sunnyvale",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779121816000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Python, NLP (spaCy / HuggingFace), BERT/FastText classifiers, intent classification, entity recognition</div>\r\n",
+    "recruiter": [
+      "Neha Varma",
+      "nvarma@tranzeal.com",
+      "4088248004"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32322488",
+    "time_scraped": 1779749804663,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32319824,
+    "title": "QA Automation",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779095208000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><strong>Requisition For: QA Automation</strong><br />\r\n<strong>Locations: India - Remote</strong><br />\r\n<strong>Budget:  INR 15-16 LPA CTC              </strong><br />\r\n<strong>Open Positions: 10   </strong><br />\r\n<strong>Skills: QA Automation Engineer &plus; test automation frameworks &plus; financial data validation &plus; API testing</strong><br />\r\n <br />\r\n<strong>Role Overview</strong><br />\r\nWe are seeking a skilled <strong>QA Automation Engineer</strong> with strong expertise in <strong>test automation frameworks, financial data validation, and API testing</strong>. The role involves ensuring the accuracy, reliability, and performance of <strong>data-intensive applications</strong>, with a focus on <strong>regression testing, UAT support, and end-to-end quality assurance</strong> in a financial domain.\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Key Responsibilities</strong>\r\n\r\n<ul>\r\n\t<li>Design, develop, and maintain <strong>automated test frameworks</strong> using tools such as Selenium, Pytest, or similar</li>\r\n\t<li>Perform <strong>end-to-end testing</strong> across UI, APIs, and backend systems</li>\r\n\t<li>Validate <strong>financial data accuracy</strong>, ensuring correctness across systems and reports</li>\r\n\t<li>Execute and automate <strong>regression test suites</strong> to ensure stability across releases</li>\r\n\t<li>Support <strong>User Acceptance Testing (UAT)</strong> by coordinating with business stakeholders and validating business scenarios</li>\r\n\t<li>Perform <strong>API testing</strong> to validate service integrations, data exchange, and backend workflows</li>\r\n\t<li>Develop and execute <strong>test cases, test scripts, and test plans</strong> based on business and technical requirements</li>\r\n\t<li>Perform <strong>data reconciliation and validation</strong> using SQL and data comparison techniques</li>\r\n\t<li>Identify, log, and track defects using test management tools (e.g., JIRA)</li>\r\n\t<li>Collaborate with developers, product teams, and business stakeholders in Agile environments</li>\r\n\t<li>Integrate automated tests into <strong>CI/CD pipelines</strong> for continuous testing</li>\r\n\t<li>Maintain comprehensive <strong>test documentation and reporting dashboards</strong></li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Required Skills &amp; Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>6&plus; years of experience in <strong>QA Automation and Testing</strong></li>\r\n\t<li>Hands-on experience with <strong>test automation frameworks</strong>:\r\n\t<ul>\r\n\t\t<li><strong>Selenium (Java/Python)</strong></li>\r\n\t\t<li><strong>Pytest or similar frameworks</strong></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Strong experience in <strong>API testing</strong> using tools such as Postman, RestAssured, or similar</li>\r\n\t<li>Solid understanding of <strong>financial data validation and reconciliation processes</strong></li>\r\n\t<li>Proficiency in <strong>SQL</strong> for data validation, querying, and analysis</li>\r\n\t<li>Experience with <strong>regression testing and test suite automation</strong></li>\r\n\t<li>Hands-on experience supporting <strong>UAT cycles and business validation scenarios</strong></li>\r\n\t<li>Familiarity with <strong>test management and defect tracking tools</strong> (JIRA, TestRail, etc.)</li>\r\n\t<li>Understanding of <strong>Agile/Scrum methodologies</strong></li>\r\n\t<li>Experience with <strong>CI/CD tools</strong> (Jenkins, GitHub Actions, etc.) for test automation integration</li>\r\n\t<li>Strong analytical, debugging, and problem-solving skills</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Preferred / Nice-to-Have Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience in <strong>financial services, capital markets, or fintech domains</strong></li>\r\n\t<li>Exposure to <strong>data pipeline/ETL testing</strong></li>\r\n\t<li>Familiarity with <strong>performance testing tools (JMeter, Gatling)</strong></li>\r\n\t<li>Knowledge of <strong>test-driven development (TDD) or behavior-driven development (BDD)</strong></li>\r\n\t<li>Experience with <strong>Python scripting for data validation and automation</strong></li>\r\n\t<li>Exposure to <strong>cloud environments (AWS/Azure)</strong></li>\r\n\t<li>Understanding of <strong>security testing basics</strong></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Abdul Aleem",
+      "aaleem@tranzeal.com",
+      "(995)926-2736"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32319824",
+    "time_scraped": 1779749804642,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32319820,
+    "title": ".NET Core ReactJS Developer",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779094858000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><strong>Requisition For: .NET Core ReactJS Developer  </strong><br />\r\n<strong>Job ID: TB856</strong><br />\r\n<strong>Locations: India - Remote  </strong><br />\r\n<strong>Budget: INR 15-17.5 LPA</strong><br />\r\n<strong>Open Positions: 27   </strong><br />\r\n<strong>Skills: Full Stack Developer &plus; .NET backend development &plus; React-based frontend development &plus; cloud-native solutions on AWS.</strong><br />\r\n <br />\r\n<strong>Role Overview</strong><br />\r\nWe are seeking a versatile <strong>Full Stack Developer</strong> with expertise in <strong>.NET backend development, React-based frontend development, and cloud-native solutions on AWS</strong>. The role involves building scalable applications, working with both relational and graph databases, and leveraging Python for data processing and integrations.\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Key Responsibilities</strong>\r\n\r\n<ul>\r\n\t<li>Design, develop, and maintain <strong>full stack applications</strong> using .NET (C#) for backend and React for frontend</li>\r\n\t<li>Build responsive, high-performance <strong>user interfaces</strong> using modern React frameworks and best practices</li>\r\n\t<li>Develop and expose <strong>RESTful APIs and backend services</strong> using .NET Core/.NET 6&plus;</li>\r\n\t<li>Work with <strong>SQL Server</strong> for database design, optimization, and complex query handling</li>\r\n\t<li>Design and implement solutions using <strong>Graph Databases</strong> for relationship-driven data models</li>\r\n\t<li>Develop and deploy applications on <strong>AWS infrastructure</strong>, ensuring scalability, reliability, and performance</li>\r\n\t<li>Utilize <strong>Python</strong> for data processing, automation, or integration-related tasks</li>\r\n\t<li>Collaborate with cross-functional teams (Product, QA, DevOps) in Agile environments</li>\r\n\t<li>Ensure adherence to <strong>secure coding practices, performance optimization, and coding standards</strong></li>\r\n\t<li>Participate in <strong>code reviews, unit testing, and CI/CD processes</strong></li>\r\n\t<li>Maintain technical documentation for applications, APIs, and system design</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Required Skills &amp; Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>6&ndash;8 years of experience in <strong>full stack development</strong></li>\r\n\t<li>Strong proficiency in <strong>.NET / .NET Core (C#)</strong> for backend development</li>\r\n\t<li>Hands-on experience with <strong>React.js</strong>, including hooks, state management, and component-based architecture</li>\r\n\t<li>Strong experience with <strong>SQL Server</strong>, including schema design, stored procedures, and query optimization</li>\r\n\t<li>Experience working with <strong>Graph Databases (Neo4j, Amazon Neptune, or similar)</strong></li>\r\n\t<li>Hands-on experience with <strong>AWS infrastructure</strong>, including services such as:\r\n\t<ul>\r\n\t\t<li>EC2, S3, Lambda</li>\r\n\t\t<li>RDS or DynamoDB</li>\r\n\t\t<li>IAM, CloudWatch</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Proficiency in <strong>Python</strong> for scripting, automation, or backend/data processing tasks</li>\r\n\t<li>Strong understanding of <strong>REST API development and integration patterns</strong></li>\r\n\t<li>Familiarity with <strong>microservices architecture and distributed systems</strong></li>\r\n\t<li>Experience with <strong>version control systems (Git)</strong> and collaborative workflows</li>\r\n\t<li>Knowledge of <strong>CI/CD pipelines and DevOps practices</strong></li>\r\n\t<li>Strong debugging, problem-solving, and analytical skills</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Preferred / Nice-to-Have Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience with <strong>Graph-based use cases</strong> (recommendation engines, network analysis, fraud detection, etc.)</li>\r\n\t<li>Exposure to <strong>containerization tools (Docker, Kubernetes)</strong></li>\r\n\t<li>Familiarity with <strong>frontend performance optimization and UI/UX best practices</strong></li>\r\n\t<li>Experience with <strong>API gateways and event-driven architectures</strong></li>\r\n\t<li>Knowledge of <strong>security best practices (OAuth, JWT, encryption)</strong></li>\r\n\t<li>Experience in <strong>data-intensive or analytics-driven applications</strong></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Abdul Aleem",
+      "aaleem@tranzeal.com",
+      "(995)926-2736"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32319820",
+    "time_scraped": 1779749804536,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32319816,
+    "title": "Senior Engineer - .NET",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779094561000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div>Requisition For: Senior Engineer - .NET<br />\r\nJob ID: TB857<br />\r\nLocations: India - Remote    <br />\r\nBudget: INR 15-16.5 LPA CTC           <br />\r\nOpen Positions: 3      <br />\r\nSkills: .NET Backend Developer &plus; C#/.NET Core &plus; API development, and cloud-native solutions on AWS.<br />\r\n<br />\r\n<strong>Role Overview</strong><br />\r\nWe are looking for a highly capable <strong>.NET Backend Developer</strong> with strong experience in <strong>C#/.NET Core, API development, and cloud-native solutions on AWS</strong>. The role involves building scalable backend services, enabling seamless integrations with platforms like <strong>iLEVEL and internal workflow systems</strong>, and implementing <strong>event-driven architectures</strong> for high-performance enterprise applications.\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Key Responsibilities</strong>\r\n\r\n<ul>\r\n\t<li>Design, develop, and maintain <strong>scalable backend applications</strong> using C# and .NET Core</li>\r\n\t<li>Build robust and secure <strong>RESTful APIs</strong> to support system integrations and business workflows</li>\r\n\t<li>Develop and implement <strong>event-driven architectures</strong> using messaging and queue-based systems</li>\r\n\t<li>Integrate with <strong>iLEVEL</strong> and internal workflow platforms to enable data exchange and process automation</li>\r\n\t<li>Leverage <strong>AWS services (Lambda, S3, SQS, RDS)</strong> to build cloud-native, scalable, and resilient applications</li>\r\n\t<li>Optimize application performance, scalability, and reliability across distributed systems</li>\r\n\t<li>Ensure adherence to <strong>secure coding practices, data protection, and compliance standards</strong></li>\r\n\t<li>Collaborate with cross-functional teams including product, QA, and DevOps for end-to-end delivery</li>\r\n\t<li>Participate in <strong>code reviews, unit testing, and CI/CD processes</strong> to ensure high-quality deliverables</li>\r\n\t<li>Maintain clear and comprehensive <strong>technical documentation</strong> for APIs, integrations, and system design</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Required Skills &amp; Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>6&plus; years of hands-on experience in <strong>.NET backend development</strong></li>\r\n\t<li>Strong proficiency in <strong>C# and .NET Core / .NET 6&plus; frameworks</strong></li>\r\n\t<li>Solid experience in <strong>REST API design and development</strong>, including API security and versioning</li>\r\n\t<li>Experience in building <strong>event-driven and asynchronous systems</strong> using messaging queues (SQS or similar)</li>\r\n\t<li>Hands-on experience with <strong>AWS services</strong>:\r\n\t<ul>\r\n\t\t<li><strong>Lambda</strong> (serverless compute)</li>\r\n\t\t<li><strong>S3</strong> (object storage)</li>\r\n\t\t<li><strong>SQS</strong> (message queuing)</li>\r\n\t\t<li><strong>RDS</strong> (relational databases)</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Experience in <strong>system integrations</strong>, especially with enterprise platforms like <strong>iLEVEL or similar financial/workflow tools</strong></li>\r\n\t<li>Strong understanding of <strong>database design, SQL, and data modeling concepts</strong></li>\r\n\t<li>Familiarity with <strong>CI/CD pipelines and DevOps practices</strong></li>\r\n\t<li>Knowledge of <strong>authentication and authorization mechanisms</strong> (OAuth, JWT)</li>\r\n\t<li>Experience with <strong>version control systems (Git)</strong></li>\r\n\t<li>Strong problem-solving and debugging skills</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Preferred / Nice-to-Have Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience with <strong>microservices architecture and distributed systems design</strong></li>\r\n\t<li>Exposure to <strong>financial systems, investment platforms, or workflow automation tools</strong></li>\r\n\t<li>Familiarity with <strong>Docker / containerization</strong></li>\r\n\t<li>Experience with <strong>monitoring and logging tools (CloudWatch, ELK, etc.)</strong></li>\r\n\t<li>Understanding of <strong>domain-driven design (DDD)</strong> principles</li>\r\n\t<li>Prior experience working in <strong>Agile/Scrum environments</strong></li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Key Competencies</strong>\r\n\r\n<ul>\r\n\t<li>Strong ownership and accountability</li>\r\n\t<li>Ability to work in <strong>fast-paced, integration-heavy environments</strong></li>\r\n\t<li>Focus on <strong>clean, maintainable, and scalable code</strong></li>\r\n\t<li>Effective collaboration and communication skills</li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Abdul Aleem",
+      "aaleem@tranzeal.com",
+      "(995)926-2736"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32319816",
+    "time_scraped": 1779749816851,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32319810,
+    "title": "Senior React Developer",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779093920000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><strong>Requisition for: Senior React Developer</strong><br />\r\n<strong>Job ID: TB858</strong><br />\r\n<strong>Locations: India - Remote</strong><br />\r\n<strong>Budget: INR 15-16.5 LPA CTC           </strong><br />\r\n<strong>Open Positions: 16   </strong><br />\r\n <br />\r\n<strong>Skills: Frontend Engineer &plus; React &plus; TypeScript, &plus; modern UI development &plus; semantic web technologies (RDF, SPARQL, SHACL) &plus; cloud-native architectures on AWS.</strong><br />\r\n <br />\r\n<strong>Role Overview</strong><br />\r\nWe are looking for a highly skilled <strong>Frontend Engineer</strong> with strong expertise in <strong>React, TypeScript, and modern UI development</strong>, combined with exposure to <strong>semantic web technologies (RDF, SPARQL, SHACL)</strong> and <strong>cloud-native architectures on AWS</strong>. The role involves building scalable, modular <strong>micro frontend applications</strong>, integrating with backend APIs, and working on <strong>data-rich, ontology-driven platforms</strong> leveraging frameworks like <strong>FIBO/CDM</strong>.\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Key Responsibilities</strong>\r\n\r\n<ul>\r\n\t<li>Design and develop <strong>modern, responsive web applications</strong> using React, TypeScript, HTML5, and CSS3</li>\r\n\t<li>Translate <strong>UI/UX designs from Figma</strong> into high-quality, reusable frontend components</li>\r\n\t<li>Build and maintain <strong>micro frontend architectures</strong> for scalable and modular UI development</li>\r\n\t<li>Integrate frontend applications with <strong>RESTful APIs</strong> and backend services</li>\r\n\t<li>Work with <strong>semantic data models</strong> and integrate UI with RDF-based data sources</li>\r\n\t<li>Query and manipulate data using <strong>SPARQL</strong> and ensure schema validation using <strong>SHACL</strong></li>\r\n\t<li>Collaborate with backend and data teams working on <strong>FIBO/CDM frameworks</strong> for financial/enterprise data modeling</li>\r\n\t<li>Develop and deploy frontend applications on <strong>AWS infrastructure</strong>, ensuring performance and scalability</li>\r\n\t<li>Leverage <strong>AI coding assistants</strong> to improve development productivity and code quality</li>\r\n\t<li>Optimize application performance, accessibility, and cross-browser compatibility</li>\r\n\t<li>Participate in <strong>code reviews, testing, and CI/CD processes</strong></li>\r\n\t<li>Maintain clear documentation for UI components, architecture, and integration flows</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Required Skills &amp; Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>6&ndash;8 years of experience in <strong>frontend development</strong></li>\r\n\t<li>Strong proficiency in <strong>React.js and TypeScript</strong>, including hooks, state management, and component lifecycle</li>\r\n\t<li>Solid expertise in <strong>HTML5, CSS3</strong>, and modern styling frameworks (e.g., Tailwind, SCSS)</li>\r\n\t<li>Experience with <strong>micro frontend architecture</strong> and modular UI design</li>\r\n\t<li>Hands-on experience integrating with <strong>REST APIs</strong> and handling asynchronous data flows</li>\r\n\t<li>Experience working with <strong>AWS infrastructure</strong> (S3, CloudFront, Lambda, etc.) for frontend hosting and integrations</li>\r\n\t<li>Proficiency in using <strong>Figma</strong> for UI interpretation and collaboration with design teams</li>\r\n\t<li>Exposure to <strong>semantic web technologies</strong>:\r\n\t<ul>\r\n\t\t<li><strong>RDF (Resource Description Framework)</strong></li>\r\n\t\t<li><strong>SPARQL (querying semantic data)</strong></li>\r\n\t\t<li><strong>SHACL (data validation)</strong></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Understanding of <strong>ontology-driven frameworks</strong> such as <strong>FIBO (Financial Industry Business Ontology)</strong> and <strong>CDM (Common Data Model)</strong></li>\r\n\t<li>Familiarity with <strong>AI coding assistants</strong> (e.g., GitHub Copilot or similar)</li>\r\n\t<li>Experience with <strong>version control systems (Git)</strong> and CI/CD workflows</li>\r\n\t<li>Strong problem-solving and debugging skills</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Preferred / Nice-to-Have Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience with <strong>Graph-based data visualization and UI rendering</strong></li>\r\n\t<li>Exposure to <strong>GraphQL APIs or knowledge graph platforms</strong></li>\r\n\t<li>Familiarity with <strong>containerization (Docker) and frontend deployment pipelines</strong></li>\r\n\t<li>Knowledge of <strong>web accessibility standards (WCAG)</strong></li>\r\n\t<li>Experience working in <strong>financial services or data-intensive domains</strong></li>\r\n\t<li>Understanding of <strong>security best practices in frontend applications</strong></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Abdul Aleem",
+      "aaleem@tranzeal.com",
+      "(995)926-2736"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32319810",
+    "time_scraped": 1779749816786,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32319806,
+    "title": "Agentic Engineer",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779093577000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><strong>Agentic Engineer</strong><br />\r\n<strong>Job ID: TB859</strong><br />\r\n<strong>Locations: India - Remote  </strong><br />\r\n<strong>Budget: INR 16-17.5 LPA CTC</strong><br />\r\n<strong>Open Positions: 14   </strong><br />\r\n<strong>Skills: AI Backend Engineer &plus;.NET (C#) &plus; Python &plus; API-driven architectures &plus; Agentic AI frameworks</strong><br />\r\n <br />\r\n<strong>Role Overview</strong><br />\r\nWe are seeking a highly skilled <strong>AI Backend Engineer</strong> with expertise in <strong>.NET (C#), Python, and API-driven architectures</strong>, combined with hands-on experience in <strong>Agentic AI frameworks (LangChain, AutoGen, or similar)</strong>. The role involves building intelligent, scalable backend systems that leverage <strong>AI agents</strong>, integrate with enterprise platforms, and operate within <strong>event-driven, cloud-native environments on AWS</strong>.\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Key Responsibilities</strong>\r\n\r\n<ul>\r\n\t<li>Design and develop <strong>scalable backend services</strong> using <strong>.NET (C#)</strong> and Python</li>\r\n\t<li>Build and integrate <strong>AI-powered agentic systems</strong> using frameworks such as <strong>LangChain, AutoGen, or similar</strong></li>\r\n\t<li>Implement <strong>Model Context Protocol (MCP)</strong> for managing AI model interactions and context orchestration</li>\r\n\t<li>Develop <strong>API-first architectures</strong>, exposing secure and scalable RESTful services</li>\r\n\t<li>Design and implement <strong>event-driven architectures</strong> using messaging systems (e.g., SQS)</li>\r\n\t<li>Integrate AI services with enterprise systems through <strong>REST APIs and asynchronous workflows</strong></li>\r\n\t<li>Develop and manage <strong>registry and orchestration patterns</strong> for AI agents and services</li>\r\n\t<li>Deploy and manage applications on <strong>AWS (Lambda, S3, SQS)</strong> ensuring scalability and fault tolerance</li>\r\n\t<li>Collaborate with data, frontend, and product teams to deliver end-to-end AI-enabled solutions</li>\r\n\t<li>Ensure adherence to <strong>secure coding practices, performance optimization, and compliance standards</strong></li>\r\n\t<li>Participate in <strong>code reviews, testing, and CI/CD pipelines</strong></li>\r\n\t<li>Maintain technical documentation for APIs, AI workflows, and system architecture</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Required Skills &amp; Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>6-8 years of experience in <strong>backend development</strong> with strong proficiency in <strong>.NET (C#)</strong> and Python</li>\r\n\t<li>Working knowledge of <strong>Java</strong> (for integration or legacy system support)</li>\r\n\t<li>Hands-on experience with <strong>Agentic AI frameworks</strong> such as:\r\n\t<ul>\r\n\t\t<li><strong>LangChain</strong></li>\r\n\t\t<li><strong>AutoGen</strong></li>\r\n\t\t<li>or similar multi-agent orchestration frameworks</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Strong understanding of <strong>LLM-based application design and AI integration patterns</strong></li>\r\n\t<li>Experience with <strong>Model Context Protocol (MCP)</strong> or similar model orchestration approaches</li>\r\n\t<li>Expertise in <strong>API-first development</strong>, including RESTful services and API security</li>\r\n\t<li>Strong experience in <strong>event-driven architectures</strong> (message queues, async processing)</li>\r\n\t<li>Hands-on experience with <strong>AWS services</strong>:\r\n\t<ul>\r\n\t\t<li><strong>Lambda (serverless compute)</strong></li>\r\n\t\t<li><strong>S3 (storage)</strong></li>\r\n\t\t<li><strong>SQS (messaging)</strong></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Experience implementing <strong>service registry and orchestration patterns</strong></li>\r\n\t<li>Strong understanding of <strong>microservices architecture and distributed systems</strong></li>\r\n\t<li>Experience with <strong>version control (Git) and CI/CD pipelines</strong></li>\r\n\t<li>Strong debugging, analytical, and problem-solving skills</li>\r\n</ul>\r\n\r\n<div align=\"center\">\r\n<hr align=\"center\" size=\"2\" width=\"100%\" /></div>\r\n<strong>Preferred / Nice-to-Have Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience with <strong>LLM providers (OpenAI, Anthropic, Azure OpenAI, etc.)</strong></li>\r\n\t<li>Exposure to <strong>vector databases (Pinecone, FAISS, Weaviate, etc.)</strong></li>\r\n\t<li>Familiarity with <strong>containerization (Docker, Kubernetes)</strong></li>\r\n\t<li>Knowledge of <strong>prompt engineering and AI evaluation techniques</strong></li>\r\n\t<li>Experience with <strong>monitoring/logging tools (CloudWatch, ELK, etc.)</strong></li>\r\n\t<li>Understanding of <strong>security and governance in AI systems</strong></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Abdul Aleem",
+      "aaleem@tranzeal.com",
+      "(995)926-2736"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32319806",
+    "time_scraped": 1779749816282,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32319801,
+    "title": "Senior Engineer - Automation",
+    "location": "Telangana, Hyderabad",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/18/2026",
+      "date_posted": 1779093207000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<span style=\"color:black\"><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Senior Engineer &ndash; Automation</span></span></span><br />\r\n<span style=\"color:black\"><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">India - Remote </span></span></span><br />\r\n<span style=\"color:black\"><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">INR 15-16 LPA CTC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><br />\r\n&nbsp;<br />\r\n<span style=\"color:black\"><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">QA Automation &plus; UI &plus; API automation &plus; WebDriverIO, Java, TestNG, and Cucumber</span></span></span><br />\r\n<br />\r\n<span style=\"color:black\"><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\"><strong>Role Overview</strong><br />\r\nWe are looking for a skilled&nbsp;<strong>QA Automation Engineer</strong>&nbsp;with strong expertise in&nbsp;<strong>UI and API automation</strong>, leveraging tools such as&nbsp;<strong>WebDriverIO, Java, TestNG, and Cucumber (BDD framework)</strong>. The role involves building scalable automation frameworks, validating end-to-end application workflows, and ensuring high-quality releases through robust testing practices.<br />\r\n<br />\r\n<strong>Key Responsibilities</strong></span></span></span>\r\n<ul>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Design, develop, and maintain&nbsp;<strong>automation test frameworks</strong>&nbsp;using&nbsp;<strong>WebDriverIO with Java</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Implement&nbsp;<strong>BDD (Behavior-Driven Development)</strong>&nbsp;practices using&nbsp;<strong>Cucumber</strong>, enabling collaboration between business and technical teams</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Develop and execute&nbsp;<strong>automated test scripts</strong>&nbsp;for UI and end-to-end workflows</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Perform&nbsp;<strong>API testing</strong>&nbsp;using tools like&nbsp;<strong>Postman and REST Assured</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Integrate automated tests into&nbsp;<strong>CI/CD pipelines</strong>&nbsp;for continuous testing and faster releases</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Execute&nbsp;<strong>regression test suites</strong>&nbsp;and ensure application stability across releases</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Analyze test results, identify defects, and work closely with developers for resolution</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Develop reusable test components and improve automation coverage</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Participate in&nbsp;<strong>test planning, estimation, and test case design</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Maintain test documentation, reports, and dashboards</span></span></li>\r\n</ul>\r\n<br />\r\n<span style=\"color:black\"><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\"><strong>Required Skills &amp; Qualifications</strong></span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">6&plus; years of experience in&nbsp;<strong>QA Automation / Test Engineering</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Strong hands-on experience with:</span></span>\r\n\t<ul>\r\n\t\t<li><strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">WebDriverIO</span></span></strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">&nbsp;for UI automation</span></span></li>\r\n\t\t<li><strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Java</span></span></strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">&nbsp;as the primary programming language</span></span></li>\r\n\t\t<li><strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">TestNG</span></span></strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">&nbsp;for test execution and reporting</span></span></li>\r\n\t\t<li><strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Cucumber (BDD framework)</span></span></strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">&nbsp;for writing feature files and step definitions</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Experience in&nbsp;<strong>API testing</strong>&nbsp;using:</span></span>\r\n\t<ul>\r\n\t\t<li><strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Postman</span></span></strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">&nbsp;(manual and automated testing)</span></span></li>\r\n\t\t<li><strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">REST Assured</span></span></strong><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">&nbsp;(automation framework for APIs)</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Strong understanding of&nbsp;<strong>test automation design patterns</strong>&nbsp;(Page Object Model, reusable components)</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Experience with&nbsp;<strong>test lifecycle management</strong>&nbsp;and defect tracking tools (JIRA, TestRail)</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Familiarity with&nbsp;<strong>CI/CD tools</strong>&nbsp;(Jenkins, GitHub Actions, GitLab CI)</span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Understanding of&nbsp;<strong>Agile/Scrum methodologies</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Strong debugging, analytical, and problem-solving skills</span></span></li>\r\n</ul>\r\n<br />\r\n<span style=\"color:black\"><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\"><strong>Preferred / Nice-to-Have Skills</strong></span></span></span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Experience with&nbsp;<strong>parallel test execution and performance optimization</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Familiarity with&nbsp;<strong>Docker or containerized test environments</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Knowledge of&nbsp;<strong>cross-browser and cross-platform testing</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Exposure to&nbsp;<strong>cloud-based testing platforms (BrowserStack, Sauce Labs)</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Basic understanding of&nbsp;<strong>database testing (SQL)</strong></span></span></li>\r\n\t<li><span style=\"font-family:segoe ui,sans-serif\"><span style=\"font-size:11.0pt\">Experience with&nbsp;<strong>reporting tools (Allure, Extent Reports)</strong></span></span></li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Abdul Aleem",
+      "aaleem@tranzeal.com",
+      "(995)926-2736"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32319801",
+    "time_scraped": 1779749825000,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32316112,
+    "title": "Analyst, Applications Support III",
+    "location": "CO, Denver",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "5/15/2026",
+      "date_posted": 1778862730000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"><b>Job Title: Analyst, Applications Support III</b></font><br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"><b>Location: Denver, CO / Remote</b></font><br />\r\n<br />\r\n<br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Job Description</font></b><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\"> </font></b><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Lead, AI &amp; Automation Catalyst &ndash; Application Operations</font></b><br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Role Summary</font></b><br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\">The AI &amp; Automation Catalyst is a high-impact, hands-on role dedicated to transforming the Application Support team from a manual triage shop into an automated, AI-first organization. This is a senior implementation role focused on identifying manual friction, building AI agents, and implementing self-healing workflows. Beyond technical delivery, the Catalyst is a change agent responsible for mentoring the team, demystifying AI, and shifting the collective mindset from &quot;manual-first&quot; to &quot;automation-permanent.&quot;</font><br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Core Mission</font></b>\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Eliminate manual toil through the rapid creation of AI agents and automated scripts.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Identify &amp; Implement &quot;digital coworkers&quot; to handle log parsing, data validation, and initial triage.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Shift the team mindset toward AI adoption and proactive automation.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Upskill the organization by proving the value of automation through tangible, daily wins.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Reduce operational drag by replacing repetitive human intervention with autonomous logic.</font></li>\r\n</ul>\r\n<br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Key Responsibilities</font></b>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Hands-on Automation &amp; Agent Implementation</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Serve as the primary builder of localized AI agents and automation scripts to handle common support tasks.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Identify high-frequency &quot;manual drags&quot; within the team and build automated solutions to eliminate them.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Develop and deploy &quot;self-healing&quot; patterns that trigger fixes based on known failure signatures.</font></li>\r\n</ul>\r\n<br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Team Mentorship &amp; Cultural Transformation</font></b>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Act as the AI Mentor for the Application Support team, conducting hands-on sessions to show analysts how to leverage AI in their daily work.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Partner with senior analysts to re-engineer manual troubleshooting runbooks into automated workflows.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Change the team&#39;s perception of AI from a &quot;black box&quot; to a highly capable personal assistant.</font></li>\r\n</ul>\r\n<br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Advanced Triage Automation</font></b>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Build agents that can independently query databases and parse logs from ServiceNow, or Dynatrace to provide a verified RCA for the team.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Hook existing monitoring tools into AI-driven workflows to provide analysts with &quot;instant context&quot; for every incoming incident.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Ensure that automation doesn&#39;t just &quot;alert&quot; but actively gathers the data required for a human to make a final decision.</font></li>\r\n</ul>\r\n<br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Operational Metrics &amp; Scalability</font></b>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Identify recurring failure patterns and systemic gaps that can be solved via code rather than more headcount.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Quantify the impact of automation by tracking &quot;Manual Hours Gained&quot; and improvements in MTTR.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Define a repeatable automation playbook that can be shared across the broader I&amp;O organization.</font></li>\r\n</ul>\r\n<br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Required Qualifications</font></b>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">10&plus; years of deep Operational experience,..</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Hands-on AI Proficiency: Demonstrated ability to implement Generative AI, Vector Search, and AI Agents (Oracle or Google Cloud context preferred).</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Technical &quot;Swiss Army Knife&quot;: Must be highly functional in SQL, Python, and Scripting; able to &quot;dig into&quot; issues and build the solution immediately.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Change Management Skills: Proven ability to operate as a &quot;self-starter&quot; and influence team culture without formal authority.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Excellent ability to translate complex AI concepts into practical, everyday support tools.</font></li>\r\n</ul>\r\n<br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Role Characteristics</font></b>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Individual Contributor (focused on building, not managing people)</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Technical Change Agent / Mentor</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">High Autonomy, High Implementation Velocity</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Pattern-Builder and Problem-Eliminator</font></li>\r\n</ul>\r\n<br />\r\n<font color=\"#000000\" face=\"arial, sans-serif\"> </font><br />\r\n<b><font color=\"#000000\" face=\"arial, sans-serif\">Measures of Success</font></b>\r\n\r\n<ul>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">A measurable percentage of manual support tasks transitioned to AI-assisted or Automated.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Observable shift in the team&#39;s independent usage of automation tools.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Faster resolution of cross-system incidents due to automated data gathering.</font></li>\r\n\t<li><font color=\"#000000\" face=\"arial, sans-serif\">Creation of a &quot;Library of Agents&quot; that perform repetitive triage tasks.</font></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Shaik Afrouz",
+      "shaika@tranzeal.com",
+      "4154841248"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google&SearchString=#/jobs/32316112",
+    "time_scraped": 1779749825039,
+    "source_company": "mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589",
+    "source_url": "https://www1.jobdiva.com/portal/?a=mojdnwfxk6i6xjixz52d3c9lpl7hhx04d6p3jb2tptwqdoce60cfbjayn38bu589&jobid=30544038&source=google",
+    "date_cutoff_days": 15
+  }
+]

@@ -3,11 +3,12 @@ from AI_location_parser_batch import Ai_parse_location_batch
 from mappers import LocationMapper, TitleMapper
 import asyncio
 import json
-from openai import OpenAI
+import anthropic
 import time
 from location_parser import save_mappers, get_mapper_stats
 import re
-
+import hashlib
+from bs4 import BeautifulSoup
 # Constants
 STATE_ABBREV_ARRAY = [
     {'full_name': 'Alabama', 'abbreviation': 'AL'},
@@ -70,77 +71,89 @@ location_mapper = LocationMapper("newmap.json")
 title_mapper = TitleMapper("title_mapper.json")
 
 
+def experience_parser(exp):
+            if exp in (None, "N/A", -1):
+                exp = -1
+            elif type(exp) is int:
+                exp = exp
+            elif type(exp) is str:
+                exp = exp.replace(" year", "")
+                exp = int(exp)
+            return exp
+
 def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
     """
     Parse job location and title, using cached mappings when available
-    
+
     Args:
         job: Job dictionary with 'title', 'location', 'description' keys
-        
+
     Returns:
         Dictionary with 'category' and/or 'locations' keys
     """
     try:
         res = {}
         req = {}
-        
-        print(job)
+        description = job.get("description") 
+        description =  BeautifulSoup(description, "html.parser").get_text(separator="\n", strip=True)
+        job["description"] = description
         # Handle title/category mapping
-        yoe = job.get('experience')
-        if yoe == "N/A":
+        experience = job.get("experience") or {}
+        exp = experience.get("min_experience") or experience.get("experience")
+        exp = experience_parser(exp)
+        job["experience"] = exp
+        if exp == -1:
             req['yoe'] = job.get('description')
         job_title = job.get('title', "")
         category = title_mapper.get_category(job_title)
         if category:
             res['category'] = category
         else:
-            # Need to get category from AI
             req['title'] = job_title
-        
+
         # Handle location
         loc = job.get('location', "")
-        print(loc + "this is location")
         if not loc:
-            # If no location, use description as fallback
-            req['location'] = job.get('description', "")
+            req['location'] = job.get('description')
         else:
-            print(f"Processing location: {loc}")
-            
-            # Check cache first
             cached_location = location_mapper.get_location(loc)
             if cached_location:
                 res['locations'] = location_mapper.format_locations(cached_location)
-                return res
-            
-            # Try regex pattern for "ST, City" format
-            pattern = r'^([A-Z]{2}), {1,2}([A-Za-z\s]+)$'
-            if match := re.match(pattern, loc):
+            elif match := re.match(r'^([A-Z]{2}), {1,2}([A-Za-z\s]+)$', loc):
                 state = match.group(1)
                 city = match.group(2).strip()
-                location_data = [{"State": state, "City": city}]
+                location_data = [{"state": state, "city": city}]
                 location_mapper.add_location(loc, location_data)
-                res['locations'] = [f"{city}, {state}"]
-                # If we got location from regex and already have category, return early
+                res['locations'] = location_data
             else:
-                # Need AI to parse location
                 req['location'] = loc
-        # If we need AI parsing (either for title or location)
+                if req.get('yoe'):
+                    req["description"] = job.get("description")
+
+        # Build return object
+        row = {}
+        if res.get("locations"):
+            row["locations"] = res['locations']
+            job["locations"] = res['locations']
+        if res.get("category"):
+            row["category"] = res["category"]
+            job["category"] = res["category"]
         if req:
-            row = Ai_parse_location_batch(req)
-            print(req,"this is req")
-            return row
-        else: 
-            print(res, "This is res")
+            row["req"] = Ai_parse_location_batch(req)
+        if not req:
+            row["job"] = job
+
+        return row
 
     except Exception as e:
-            print(e)
+        print(e)
+
 
 def combine_json_files():
     """
     Combine job data from multiple sources, parse locations and titles,
     and save to combined files
     """
-    # File paths
     jobsapi_path = "/root/contractly/day/jobsapi_day.json"
     jobdiva_path = "/root/contractly/day/jobdiva_day.json"
     interPath = "/root/contractly/day/day_intermediate.jsonl"
@@ -148,13 +161,12 @@ def combine_json_files():
     japi_jobs = []
     diva_jobs = []
     all_jobs = []
-    
+    unique_jobs = []
     try:
-        # Read all input files
         with open(jobsapi_path, 'r', encoding='utf-8') as japi_file:
             japi_data = json.load(japi_file)
             japi_jobs = japi_data.get("jobs", [])
-        
+
         with open(jobdiva_path, "r", encoding='utf-8') as diva_file:
             diva_data = json.load(diva_file)
             diva_jobs = diva_data.get("jobs", [])
@@ -162,41 +174,62 @@ def combine_json_files():
         all_jobs = diva_jobs + japi_jobs
 
         with open(interPath, 'a', encoding='utf-8') as combined:
-            for job in all_jobs:
-               combined.write(json.dumps(job) + "\n")
+            print(len(all_jobs))
+            unique_jobs = list({item["id"]: item for item in all_jobs}.values())
+            print(len(unique_jobs))
+            for job in unique_jobs:
+                combined.write(json.dumps(job) + "\n")
 
-        
         output_path = "/root/contractly/day/day.jsonl"
         combined_path = "/root/contractly/combined/all_combined.jsonl"
-        # You can modify the date cutoff here (default is 30 days)
-        with open('/root/contractly/day/day_intermediate.jsonl', 'r') as j, open("/root/contractly/batching_tests.jsonl", 'w') as w:
-            jobs = all_jobs[0:2]
+
+        with open('/root/contractly/day/day_intermediate.jsonl', 'r') as j, \
+             open("/root/contractly/batching_tests.jsonl", 'w') as w, \
+             open('/root/contractly/day/day_loc_processing.jsonl', 'w') as loc:
+                 
+            jobs = unique_jobs
             for i, job in enumerate(jobs, 1):
-                row = {}
-                row["custom_id"] = job['url']
-                row["method"]="POST"
-                row["url"] = "/v1/responses"
-                body = location_parser(job)
-                print(body)
-                row["body"] = body
-                w.write(json.dumps(row) + "\n")
-        save_mappers()
-        client = OpenAI()
-        batch_input_file = client.files.create(
-        file=open("/root/contractly/batching_tests.jsonl", "rb"),
-            purpose="batch"
-            )
-        batch_input_file_id = batch_input_file.id
-        batch = client.batches.create(
-                    input_file_id=batch_input_file_id,
-                    endpoint="/v1/responses",
-                    completion_window="24h",
-                    metadata={
-                        "description": "nightly eval job"
-                    }
-                )
-        batch_id = batch.id
-               
+                try:
+                    row = {}
+                    url = job.get("apply") or job.get("url") or ""
+                    custom_id = hashlib.md5(url.encode()).hexdigest()
+                    row["custom_id"] = custom_id
+                    job["custom_id"] = custom_id
+                    body = location_parser(job)
+                    if body.get("locations"):
+                        job["location"] = body['locations']
+                    if body.get("category"):
+                        job["category"] = body.get("category")
+                    if body.get("req"):
+                        row["params"] = body["req"]
+                        w.write(json.dumps(row) + "\n")
+                    if body.get("job"):
+                        job = body.get("job")
+                    loc.write(json.dumps(job) + "\n")
+                except Exception as e:
+                    print(f"Error processing job {i}: {e}")
+
+        client = anthropic.Anthropic()
+        requests = []
+        with open("/root/contractly/batching_tests.jsonl", "r") as f:
+            for line in f:
+                if line.strip():
+                    req = json.loads(line)
+                    requests.append(req)
+
+        if requests:
+            for attempt in range(3):
+                try:
+                    batch = client.messages.batches.create(requests=requests)
+                    break
+                except Exception as e:
+                    if attempt == 2:
+                        raise
+                    print(f"Batch create attempt {attempt + 1} failed: {e}, retrying...")
+                    time.sleep(5)
+            batch_id = batch.id
+            with open("/root/contractly/pending_batch.txt", "w") as f:
+                f.write(batch_id)
 
     except FileNotFoundError as e:
         print(f"Error: File not found - {e}")
@@ -206,7 +239,6 @@ def combine_json_files():
         print(f"Unexpected error: {e}")
         import traceback
         traceback.print_exc()
-
 
 
 if __name__ == "__main__":

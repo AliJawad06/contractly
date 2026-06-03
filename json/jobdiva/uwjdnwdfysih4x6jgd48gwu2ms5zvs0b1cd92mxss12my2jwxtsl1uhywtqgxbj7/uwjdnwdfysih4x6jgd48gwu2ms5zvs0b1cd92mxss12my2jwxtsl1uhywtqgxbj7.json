@@ -1,0 +1,332 @@
+[
+  {
+    "id": 28254172,
+    "title": "Network Security Analyst 2",
+    "location": "TX, Austin",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/20/2026",
+      "date_posted": 1779282884000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "I.  DESCRIPTION OF SERVICESTexas Health and Human Services Commission requires the services of 1 Network Security Analyst 2, hereafter referred to as Candidate(s), who meets the general qualifications of Network Security Analyst 2, Security and the specifications outlined in this document for the Texas Health and Human Services Commission.<br><br>All work products resulting from the project shall be considered \"works made for hire\" and are the property of the Texas Health and Human Services Commission  and may include pre-selection requirements that potential Vendors (and their Candidates) submit to and satisfy criminal background checks as authorized by Texas law. Texas Health and Human Services Commission will pay no fees for interviews or discussions, which occur during the process of selecting a Candidate(s).<br><br>A network security analyst ensures that information systems and computer networks are secure. This includes protecting the company against hackers and cyber-attacks, as well as monitoring network traffic and server logs for activity that seems unusual. Additionally, these analysts are responsible for finding vulnerabilities in the computer networks and creating recommendations for how to minimize these vulnerabilities. The network security analyst investigates security breaches, develops strategies for any security issues that arise, and utilizes the help of firewalls and antivirus software to maintain security. DISCLAIMER: Candidates for this position will be subject to a pre-employment security review to determine employment eligibility.<br><br>Position Summary<br>The Network Security Analyst II (NSA II) – RSA Archer Specialist is responsible for planning, designing, implementing, configuring, and supporting enterprise RSA Archer Governance, Risk, and Compliance (GRC) solutions. This role works closely with Information Security, Data Privacy, Risk Management, Compliance, and system stakeholders to deliver scalable, user-friendly Archer applications that enable assessment, authorization, control assurance, issue management, and continuous compliance monitoring.<br>The position operates independently on complex assignments while collaborating across cross-functional technical and business teams. The NSA II ensures Archer solutions align with organizational governance frameworks, regulatory obligations, and security control requirements.<br><br>Required Certifications<br>Must Have:<br>• Archer Certified Professional (ACP)<br>OR<br>• Level 3 Archer Certified Administrator – Expert Certification<br>Essential Duties and Responsibilities<br>The essential duties for this role include, but are not limited to:<br>• Design, implement, configure, and maintain RSA Archer solutions, with emphasis on:<br>o Assessment & Authorization (A&A)<br>o Controls Assurance Program Management<br>o Issues Management<br>o Custom Archer applications<br>o System integrations<br>• Perform detailed business and functional requirements gathering and analysis; translate requirements into:<br>o Solution designs<br>o Configuration specifications<br>o User stories<br>o Implementation plans<br>• Configure and customize Archer applications including:<br>o Questionnaires and surveys<br>o Forms and data fields<br>o Workflows and approvals<br>o Calculations and data relationships<br>o Access controls and role-based permissions<br>o Data feeds and automated imports<br>• Develop and integrate RESTful and web services to enable API connectivity between Archer and external enterprise systems (e.g., ServiceNow or other ITSM, CMDB, or risk platforms).<br>• Implement client-side logic, validations, and dynamic behaviors using JavaScript and jQuery within Archer applications.<br>• Produce and maintain technical documentation covering:<br>o System design and configuration<br>o Integration specifications<br>o Testing plans and results<br>o Change requests and deviations<br>o Process transformation artifacts<br>o Project management documentation using standard templates<br>• Utilize project management and tracking tools to monitor development progress, deliverables, risks, and milestones.<br>• Follow established change management, release management, and governance processes for all deployments to production environments.<br>• Provide troubleshooting, defect resolution, and performance optimization for Archer applications.<br>• Support end-user adoption through knowledge transfer, training materials, and solution walkthroughs.<br>• Perform related duties and special projects as assigned.<br><br>Knowledge, Skills, and Abilities<br>• Expert knowledge of RSA Archer platform architecture, data model, application configuration, and workflow design<br>• Strong understanding of GRC processes, risk management, compliance frameworks, and security control assurance<br>• Experience integrating Archer with external enterprise platforms using REST APIs and web services<br>• Proficiency in JavaScript/jQuery for client-side customizations<br>• Ability to translate complex business requirements into technical configurations<br>• Strong documentation and communication skills<br>• Experience working in structured change-controlled environments<br>• Ability to work independently on complex technical implementations<br><br>Preferred Qualifications<br>• Experience supporting large enterprise or government GRC implementations<br>• Familiarity with security frameworks such as NIST, ISO 27001, SOC, or regulatory compliance programs<br>• Experience integrating Archer with ServiceNow or similar ITSM platforms<br>• Prior work in information security, risk, or compliance teams<br><br>Work Environment<br>• Works independently and collaboratively in cross-functional teams<br>• Engages with security, risk, compliance, IT, and business stakeholders<br>• Supports mission-critical enterprise GRC operationsII.  CANDIDATE SKILLS AND QUALIFICATIONSMinimum Requirements:<br>Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.<br>Years Required/Preferred Experience<br>5 Required Must Have: • Archer Certified Professional (ACP) OR • Level 3 Archer Certified Administrator – Expert Certification<br>10 Preferred Experience supporting large enterprise or government GRC implementations • Familiarity with security frameworks such as NIST, ISO 27001, SOC, or regulatory compliance programs • Experience integrating Archer with ServiceNow or similar ITSM platforms",
+    "recruiter": [
+      "Piyush Kumar Pandey",
+      "piyush.kumar@infostride.com",
+      "16507700910"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28254172",
+    "time_scraped": 1779753382289,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28250043,
+    "title": "System Administrator (Video Management System/VMS Admin)",
+    "location": "MI, Detroit",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/19/2026",
+      "date_posted": 1779208104000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> POSITION OVERVIEW The Technology Services department of the Wayne County Airport Authority is responsible for providing and managing the Airport Authority's technology needs for both Detroit Metro (DTW) and Willow Run (YIP) airports. The Airport Authority is seeking qualified candidates for an onsite technical professional who will utilize their knowledge, skills, and abilities to assist with implementation and ongoing administration of the Authority's Security Surveillance Platform (Genetec Video Management System, AXIS Camera Solution, and Infrastructure). Key Responsibilities: • Administrate (configure, update, maintain, and troubleshoot) the Genetec Video Management System application. • Manage system architecture including Directory, Archiver, Media Gateway, and failover components • Monitor system health, performance, and storage utilization • Administrate (configure, update, maintain, and troubleshoot) the AXIS camera solution. • Provide basic maintenance and troubleshooting for the VMS infrastructure components. • Provide technical assistance and expertise for security surveillance projects. • Collaborate with IT teams on servers, networking, and cybersecurity requirements • Provide VMS system training for various WCAA departments and Airport entities. • Write and maintain related technical documents. • Maintain user roles, permissions, and audit tracking • Available after hours / On Call • Perform related duties as directed<br /> \r\n<br /> \r\nEducation Requirement • B.S in Computer Science, Engineering, or related field. OR • High School Diploma with Minimum 4 years of demonstrated experience working in an enterprise infrastructure environment in addition to the time required in the Minimum Qualifications. Minimum Qualifications 1) Two (2) years administering Genetec SecurityCenter Enterprise or other CCTV applications (for example Milestone, Exacq Vision, etc.) 2) Two (2) years administering AXIS CCTV surveillance cameras (or others such as Pelco, Bosch, etc.) 3) Two (2) years maintaining and troubleshooting VMS related infrastructure Preferred Qualifications (or equivalent): • Experience VMW-related infrastructure, including: o Cisco/Dell switches o Dell NAS storage o Dell PowerEdge servers, Windows Server 2019/2022, and VMWare o Microsoft SQL databases • Experience integrating cameras, encoders, access control, analytics, and other security systems into VMS platforms • Knowledge of video streaming, encryption, recording, and retention best practices • Experience troubleshooting VMS applications, video loss, network connectivity, and performance issues • Working knowledge of scripting and automation tools (for example Powershell, Python, etc.) • Familiarity with enterprise authentication and netwroking protocols related to VMS deployments • Familiarity with AutoCAD and ticketing systems such as ServiceNow • Preferred certifications: o Genetec Security Center 5.x Enterprise o AXIS Certified Professiona</div> \r\n",
+    "recruiter": [
+      "Kanchan Dutt",
+      "Kanchan.Dutt@infostride.com",
+      "14153601700"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28250043",
+    "time_scraped": 1779753381846,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28250004,
+    "title": "Programmer Analyst (VMS Technician)",
+    "location": "MI, Detroit",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/19/2026",
+      "date_posted": 1779207897000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div>Education Requirement &bull; B.S in Computer Science, Engineering, or related field. OR &bull; High School Diploma with Minimum 3 years of demonstrated experience working in an enterprise infrastructure environment in addition to the time required in the Minimum Qualifications. Minimum Qualifications 1) Three (3) years servicing CCTV applications 2) One (1) year working with CCTV cameras. 3) One-Three (1-3) years using CCTV a coverage software (for example Site Designer, IPVM, CAD, etc.) Preferred Qualifications (or equivalent): &bull; Entry/Intermediate experience creating and maintaining technical documentation. &bull; General experience using drawing tools (AutoCAD, etc.). &bull; General experience with ticketing systems (ServiceNow, etc.) &bull; General experience with programming and configuring ASCII-based communication interfaces for data exchange between ProWatch and Genetec and other access control security systems &bull; Preferred Certifications: o Genetec Security Center 5.x Enterprise o AXIS Certified Professiona</div>\r\n",
+    "recruiter": [
+      "Manharjot Singh Beniwal",
+      "Manharjot.singh@infostride.com",
+      "16507700904"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28250004",
+    "time_scraped": 1779753382085,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28249824,
+    "title": "Programmer - Advanced",
+    "location": "SC, Columbia",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/19/2026",
+      "date_posted": 1779206654000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> The State of South Carolina is looking for a Programmer - Advanced</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Why is this position open: A new position to assist with knowledge transfer and responsible for Mainframe code changes as well as documenting the inputs and outputs of the code.</span> </span> <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Max Bill Rate: $102/hour</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Will close to submissions on 5/21 at 5:00PM EST.</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Interview Process: 2 rounds, virtual</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Duration of the Contract: 9 months</span> </span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Possibility for Extension: Yes</span> </span> <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Work Location: Role is 100% remote</span> </span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Candidate location: <strong> No SC residency required. Candidate must reside in lower 48 states (Continental US) and comfortable working EST time zone hours.</strong></span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Full job description attached and required and preferred skills are listed below. </span> </span> <br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> Required Skills</span> </span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 10&plus; years of experience with Mainframe</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 10&plus; years of experience with MVS COBOL</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 10&plus; years of experience with JCL</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 10&plus; years of experience with IDMS/Network</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 7&plus; years of experience with CA-ADS</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 5&plus; years of experience with Changeman</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 5&plus; years of experience with CICS</span> </span> <br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:11.0pt;\"> 5&plus; years of experience with VSAM</span> </span> </div> \r\n",
+    "recruiter": [
+      "Manjot Singh",
+      "Manjot.singh@infostride.com",
+      "16506066115"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28249824",
+    "time_scraped": 1779753391059,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28249772,
+    "title": "Business Analyst - Intermediate",
+    "location": "SC, North Charleston",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/19/2026",
+      "date_posted": 1779206319000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div>  <span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">   Please ensure you attach the SC Cover Sheet (attached), a valid Right to Represent, and the candidate's resume with full legal first name, and last name. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please submit the Sub Vendor usage form. <br />  \r\n <br />  \r\nThe State of South Carolina is looking for a Business Analyst - Intermediate <br />  \r\nWhy is this position open: New Position. The focus is on coordinating the distribution schedules of surveys, managing course evaluation process, monitoring response rate, and ensuring data accuracy.<br />  \r\nMax Bill Rate: $67.27/hour<br />  \r\nWill close to submissions on May 22nd, 2026, 5:00PM EST.<br />  \r\nInterview Process: One Round of Virtual Interviews <br />  \r\nDuration of the Contract: 6 Months <br />  \r\nPossibility for Extension: Yes<br />  \r\nWork Location: Role is 100% Remote<br />  \r\nCandidate location: Candidate must be a CURRENT resident of the Central or Eastern Time Zones. No relocation allowed. <br />  \r\n<br />  \r\nFull job description attached and required and preferred skills are listed below. </span>  </span>  <br />  \r\n \r\n<h2>  Required Skills</h2>  \r\nSkill Type<br />  \r\nSkill Name<br />  \r\n<select disabled=\"disabled\" id=\"viewPostingSkills_requiredSkillsList_selectSkillType_0\" name=\"viewPostingSkills$requiredSkillsList$ctrl0$selectSkillType\">   <option value=\"3\">  Certification</option>   <option value=\"2\">  Education</option>   <option value=\"4\">  License</option>   <option value=\"5\">  Other</option>   <option selected=\"selected\" value=\"1\">  Skill</option>    </select>  <br />  \r\n2&plus; Years of Experience with creating and administering surveys and data reports; working in platforms such as Qualtrics, SmartEvals, SogoSurvey, Alchemer (examples not required platforms)<br />  \r\n<select disabled=\"disabled\" id=\"viewPostingSkills_requiredSkillsList_selectSkillType_1\" name=\"viewPostingSkills$requiredSkillsList$ctrl1$selectSkillType\">   <option value=\"3\">  Certification</option>   <option value=\"2\">  Education</option>   <option value=\"4\">  License</option>   <option value=\"5\">  Other</option>   <option selected=\"selected\" value=\"1\">  Skill</option>    </select>  <br />  \r\n2&plus; Years of Experience with PBI or Tableau data visualization tools<br />  \r\n<select disabled=\"disabled\" id=\"viewPostingSkills_requiredSkillsList_selectSkillType_2\" name=\"viewPostingSkills$requiredSkillsList$ctrl2$selectSkillType\">   <option value=\"3\">  Certification</option>   <option value=\"2\">  Education</option>   <option value=\"4\">  License</option>   <option value=\"5\">  Other</option>   <option selected=\"selected\" value=\"1\">  Skill</option>    </select>  <br />  \r\n2&plus; Years of Experience with Pivot Tables in Excel<br />  \r\n<select disabled=\"disabled\" id=\"viewPostingSkills_requiredSkillsList_selectSkillType_3\" name=\"viewPostingSkills$requiredSkillsList$ctrl3$selectSkillType\">   <option value=\"3\">  Certification</option>   <option value=\"2\">  Education</option>   <option value=\"4\">  License</option>   <option value=\"5\">  Other</option>   <option selected=\"selected\" value=\"1\">  Skill</option>    </select>  <br />  \r\nBachelor's Degree - field of study is open but the degree must be complete and verifiable</div>  \r\n",
+    "recruiter": [
+      "Kanchan Dutt",
+      "Kanchan.Dutt@infostride.com",
+      "14153601700"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28249772",
+    "time_scraped": 1779753391567,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28239538,
+    "title": "Expert - Supply Management",
+    "location": "NJ, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/15/2026",
+      "date_posted": 1778880086000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<h2>Job Description</h2>\r\n\r\n<h3>Major Accountabilities</h3>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Manage Master Data setup and perform complex local and global master data activities in a GxP environment while ensuring adherence to compliance standards.</li>\r\n\t<li>Establish processes, guidelines, business matrices, and SLA timelines for master data management.</li>\r\n\t<li>Act as a Subject Matter Expert (SME) for the assigned functional area.</li>\r\n\t<li>Support KPI data collection, reporting, and analysis.</li>\r\n\t<li>Ensure all logistics processes are executed efficiently, effectively, and in compliance with company policies, supply chain procedures, and applicable regulations.</li>\r\n\t<li>Identify and drive continuous improvement initiatives across logistics and supply chain operations.</li>\r\n\t<li>Ensure material availability in alignment with approved production plans.</li>\r\n\t<li>Oversee daily MRP activities for all BOM materials, including requirements analysis and Purchase Order management.</li>\r\n</ul>\r\n\r\n<h3>Key Responsibilities</h3>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Perform daily monitoring of MRP exception messages and ensure appropriate follow-up actions.</li>\r\n\t<li>Maintain ownership of MRP-related master data and material technical specifications within the ERP system.</li>\r\n\t<li>Ensure no Purchase Orders remain overdue in the ERP system.</li>\r\n\t<li>Manage supplier complaints, returns, and related follow-up activities for purchased items.</li>\r\n\t<li>Provide a load-balanced dispatch list for incoming materials to Warehouse and Quality teams to support production requirements.</li>\r\n\t<li>Monitor supplier service level indicators such as Quality OTIF and lead-time adherence.</li>\r\n\t<li>Lead action plans to improve supplier delivery performance and drive continuous improvement.</li>\r\n\t<li>Report technical complaints, adverse events, and special case scenarios related to products within 24 hours of receipt.</li>\r\n\t<li>Support distribution of marketing samples where applicable.</li>\r\n\t<li>Provide guidance and system support for returns, rebates, and credit/debit notes.</li>\r\n\t<li>Coordinate delivery priorities with cross-functional teams for third-party customers and cross-divisional supplies.</li>\r\n\t<li>Act as the Single Point of Contact (SPOC) for escalation management and collaborate with stakeholders to resolve system-related issues promptly.</li>\r\n</ul>\r\n\r\n<h3>Key Performance Indicators (KPIs)</h3>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Inventory Management</li>\r\n\t<li>Gap Analysis</li>\r\n\t<li>Cost Efficiency</li>\r\n\t<li>Supply Process Efficiency</li>\r\n\t<li>Master Data KPIs including Completeness, Consistency, and Accuracy</li>\r\n\t<li>On-Time, In-Full (OTIF) delivery performance</li>\r\n\t<li>Quality and compliance adherence</li>\r\n\t<li>Budget achievement and operational excellence</li>\r\n</ul>\r\n\r\n<h3>Required Work Experience</h3>\r\n\r\n<ul type=\"disc\">\r\n\t<li>2&ndash;3 years of experience in:\r\n\t<ul type=\"circle\">\r\n\t\t<li>Operations Management and Execution</li>\r\n\t\t<li>Project Management</li>\r\n\t\t<li>Cross-functional Collaboration</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Experience with Microsoft Dynamics 365 (D365) is preferred.</li>\r\n</ul>\r\n\r\n<h3>Required Skills</h3>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Customer Relationship Management</li>\r\n\t<li>Knowledge of relevant tools and systems</li>\r\n\t<li>Inventory Management</li>\r\n\t<li>Demand Planning</li>\r\n\t<li>Order Management</li>\r\n\t<li>Supply Planning</li>\r\n\t<li>Transportation Management</li>\r\n\t<li>Brand Stewardship</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n</div>\r\n",
+    "recruiter": [
+      "Shivani Sharma",
+      "shivani.sharma@infostride.com",
+      "4153601700"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28239538",
+    "time_scraped": 1779753391334,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28239519,
+    "title": "Lead ASIC DFT Engineer",
+    "location": "CA, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/15/2026",
+      "date_posted": 1778879820000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> \r\n<p> <b data-olk-copy-source=\"MessageBody\"> Role Summary</b> </p> \r\n\r\n<p> We are seeking a highly experienced Lead ASIC DFT Engineer to architect, implement, verify, and debug advanced DFT solutions for complex ASIC and SoC designs. This role requires deep technical ownership across DFT architecture, scan insertion, ATPG, MBIST/LBIST, JTAG, boundary scan, and post-silicon validation, along with the ability to lead cross-functional debug efforts and drive resolution of critical silicon issues.</p> \r\n\r\n<p> The ideal candidate will have strong hands-on expertise in DFT fundamentals, fault models, test coverage, diagnosis, and debug, as well as the ability to evaluate and adopt emerging DFT methodologies and architecture schemes to improve robustness, quality, and yield.</p> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<p> <b> Key Responsibilities</b> </p> \r\n\r\n<ul> \r\n\t<li> Lead DFT architecture, implementation, verification, and sign-off for complex ASIC and SoC designs.</li> \r\n\t<li> Drive scan architecture, scan insertion, scan chain stitching, and scan compression workflows to achieve high coverage and robust testability.</li> \r\n\t<li> Own MBIST/LBIST integration, implementation, verification, and debug across design and silicon bring-up phases.</li> \r\n\t<li> Perform DFT debug, failure analysis, root-cause investigation, and fault coverage closure for complex silicon issues.</li> \r\n\t<li> Develop and validate DFT constraints, including DFT SDC, timing checks, and DFT-specific timing analysis.</li> \r\n\t<li> Collaborate with RTL design, verification, physical design, STA, and silicon validation teams to resolve integration and implementation issues.</li> \r\n\t<li> Support ATPG pattern generation, ATPG simulations, DRC analysis, test coverage analysis, and diagnosis/debug.</li> \r\n\t<li> Work on JTAG, boundary scan, iJTAG, SSN, and IP-level DFT integration.</li> \r\n\t<li> Review RTL, synthesis, LEC, and physical design impacts on DFT implementation and test quality.</li> \r\n\t<li> Act as a technical escalation point for advanced DFT and post-silicon debug issues.</li> \r\n\t<li> Mentor junior and mid-level DFT engineers and promote best practices in DFT methodology and automation.</li> \r\n\t<li> Develop scripts and automation using TCL, PERL, or Python to improve flow efficiency and debug productivity.</li> \r\n</ul> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<p> <b> Required Skills & Qualifications</b> </p> \r\n\r\n<ul> \r\n\t<li> Strong hands-on experience in ASIC DFT with end-to-end ownership.</li> \r\n\t<li> Solid understanding of DFT fundamentals, fault models, test techniques, and test coverage concepts.</li> \r\n\t<li> Deep expertise in scan architecture, ATPG, MBIST, LBIST, JTAG, boundary scan, and silicon debug.</li> \r\n\t<li> Hands-on experience with Synopsys, Cadence, and Siemens/Mentor EDA tools.</li> \r\n\t<li> Proven experience in scan insertion, ATPG setup, simulation, debug, and DRC analysis.</li> \r\n\t<li> Experience with MBIST implementation and verification; SMS experience preferred.</li> \r\n\t<li> Experience with scan architecture and scan chain stitching; Tessent/SSN experience preferred.</li> \r\n\t<li> Strong understanding of PLLs, RTL design, synthesis flows, logical equivalence checking (LEC), and physical design implementation.</li> \r\n\t<li> Proven post-silicon debug and silicon bring-up experience.</li> \r\n\t<li> Exposure to large SoC designs, hierarchical DFT flows, and multi-domain integration challenges.</li> \r\n\t<li> Strong communication skills and the ability to work independently with minimal ramp-up.</li> \r\n</ul> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<p> <b> Preferred Experience</b> </p> \r\n\r\n<ul> \r\n\t<li> MBIST post-silicon validation.</li> \r\n\t<li> ATPG simulations and fault coverage debug.</li> \r\n\t<li> DFT RTL, DFD, DFT verification, and IP-level DFT integration.</li> \r\n\t<li> DFT SDC creation and DFT timing closure support.</li> \r\n\t<li> Boundary scan, iJTAG, SSN, and design-for-debug methodologies.</li> \r\n\t<li> TCL/PERL scripting for DFT automation, reporting, and debug.</li> \r\n\t<li> Experience working across multiple ASIC technology nodes and complex product development cycles.</li> \r\n\t<li> Familiarity with yield learning, diagnosis, and manufacturing test optimizatio</li> \r\n</ul> \r\n</div> \r\n",
+    "recruiter": [
+      "Shivani Sharma",
+      "shivani.sharma@infostride.com",
+      "4153601700"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28239519",
+    "time_scraped": 1779753402212,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28239491,
+    "title": "Silicon Validation Technician",
+    "location": "ON, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/15/2026",
+      "date_posted": 1778879592000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<p><b>Important Shift Requirement:</b><br />\r\nThis role involves <b>rotational shifts including evening, night, and weekend support</b>. Candidates must be comfortable working in <b>2nd and 3rd shifts (afternoon to midnight / midnight to morning)</b> after initial training period (first 2 weeks will be standard day shift).</p>\r\n\r\n<p> </p>\r\n\r\n<p><b>Role Overview:</b><br />\r\nThe Silicon Validation Technician will support silicon characterization and validation activities by operating test equipment, collecting data, assisting engineers, and maintaining lab hardware. The role is hands-on and requires strong technical troubleshooting skills with ability to work independently during off-shift hours.</p>\r\n\r\n<p> </p>\r\n\r\n<p><b>Key Responsibilities:</b></p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Operate ATE systems and evaluation boards for data collection</li>\r\n\t<li>Assist in building, assembling, and maintaining board kits</li>\r\n\t<li>Support data analysis and report preparation</li>\r\n\t<li>Perform board-level hardware rework and modifications</li>\r\n\t<li>Manage lab operations and hardware tracking</li>\r\n\t<li>Ensure ESD and lab safety compliance</li>\r\n</ul>\r\n\r\n<p> </p>\r\n</div>\r\n",
+    "recruiter": [
+      "Shivani Sharma",
+      "shivani.sharma@infostride.com",
+      "4153601700"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28239491",
+    "time_scraped": 1779753402209,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28239467,
+    "title": "Sr reliability Engineer",
+    "location": "ON, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/15/2026",
+      "date_posted": 1778879331000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <b data-olk-copy-source=\"MessageBody\"> About th</b> \r\n<p> <b> Keywords to look in a profile:</b> </p> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<ul type=\"disc\"> \r\n\t<li> <b> Prioritize candidates with medical device or regulated hardware experience, strong background in reliability engineering, HALT/HASS/ALT, and statistical modeling (Weibull, lognormal).</b> </li> \r\n\t<li> <b> Technical Evaluation – Assess expertise in DFMEA/PFMEA, fault tree analysis, accelerated life testing, DOE, and use of data tools (Minitab/JMP required; Python/Matlab/R preferred).</b> </li> \r\n\t<li> <b> Regulatory Knowledge – Verify familiarity with ISO 13485, ISO 14971, FDA 21 CFR 820, EU MDR/IVDR, IEC 60601, IEC 62304, IEC 62366‐1, ISO 10993, and ISO 17025.</b> </li> \r\n</ul> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<p>  </p> \r\n\r\n<p> <b> Overview</b> </p> \r\n\r\n<p> <b> Responsibilities:</b> </p> \r\n\r\n<p>  </p> \r\n\r\n<ul type=\"disc\"> \r\n\t<li> Additional responsibilities for this position are as follows:</li> \r\n\t<li> Working with R&D, quality assurance and manufacturing teams to develop reliability requirements (including requirements cascade), develop and implement comprehensive reliability test plans for IVD medical devices that align with product development and production processes.</li> \r\n\t<li> Developing reliability plans and requirements, leading and facilitating Design Failure Mode and Effects Analysis (DFMEA).</li> \r\n\t<li> Designing and developing test methods and fixtures to assess the performance and durability of IVD devices. </li> \r\n\t<li> Writing test protocols, training personnel on test procedure, analyzing data and creating final reports.</li> \r\n\t<li> Conducting reliability tests and documenting results, including environmental, lifecycle, and accelerated aging tests, to evaluate product performance under different conditions and in compliance with relevant regulatory standards and guidelines.</li> \r\n\t<li> Analyzing test results and providing detailed reports, identifying areas for improvement and potential risks.</li> \r\n\t<li> Serving as the subject matter expert and technical representative for the reliability engineering function in project teams.</li> \r\n\t<li> Recommending design or test methods and statistical process control procedures for achieving required levels of product reliability.</li> \r\n\t<li> Leading and directing multiple projects in a fast-paced, cross-functional environment.</li> \r\n\t<li> Participating in design reviews and working with engineering to drive DFR (Design for Reliability) process and tools and support in defining and executing reliability plans.</li> \r\n\t<li> Reviewing device failures, performing root cause investigations, and documenting results in a failure reporting, analysis, and corrective action (FRACAS) system.</li> \r\n\t<li> Compiling and analyzing performance reports and process control statistics; investigating and analyzing relevant variables potentially affecting product and processes.</li> \r\n</ul> \r\n\r\n<p>  </p> \r\n\r\n<p> This position may suit you best if you are familiar with the following:</p> \r\n\r\n<p>  </p> \r\n\r\n<ul type=\"disc\"> \r\n\t<li> You have a deep understanding of design for reliability and reliability engineering.</li> \r\n\t<li> You have a working knowledge of regulations and best practices for medical device development such as ISO 13485 and 21 CFR 820 as well as IEC 61010, IEC 60601, IEC 62506, IEEE 1413 and IEEE 1332.</li> \r\n\t<li> You can generate data and perform life data analysis.</li> \r\n\t<li> You have knowledge of building fixtures and performing Life Data Analysis for in-vitro diagnostics medical products.</li> \r\n\t<li> You can manage multiple projects and prioritize tasks effectively.</li> \r\n\t<li> You can communicate effectively with other engineers, managers, and stakeholders.</li> \r\n\t<li> You have a demonstrated ability to lead, motivate, and collaborate with technical teams and drive results. </li> \r\n\t<li> You can identify and solve complex problems related to design for reliability.</li> \r\n\t<li> You can analyze data and identify patterns to develop solutions for potential problems.</li> \r\n\t<li> You have a strong understanding of engineering principles and are familiar with relevant software and tools.</li> \r\n\t<li> You can identify and assess risks that can cause delays to project timelines or increase project costs.</li> \r\n\t<li> You can develop process and methodology to model system and subsystem reliability.</li> \r\n\t<li> You can work with development teams to drive effective FMEA's and risk reduction.</li> \r\n\t<li> Required skills to have for the success of this role.</li> \r\n\t<li> Bachelor's degree (Advanced degree preferred) in Mechanical /Electrical /Reliability Engineering or related discipline. </li> \r\n\t<li> 10&plus; years reliability engineering experience in highly regulated industry preferably in a medical device industry.</li> \r\n\t<li> Previous experience creating custom verification tests and fixtures.</li> \r\n\t<li> Previous experience planning verification tests (DoE, sample size selection, etc.)</li> \r\n\t<li> Experience in Reliability and statistical analysis software like Reliasoft/PTC Windchill/Minitab.</li> \r\n</ul> \r\n<b data-olk-copy-source=\"MessageBody\"> e Role</b> <br /> \r\nWe are seeking an experienced Reliability Engineer with a strong background in medical devices and regulated product environments to support the development, validation, and reliability assessment of advanced IVD and healthcare systems.<br /> \r\nThe ideal candidate will have hands-on experience in Design for Reliability (DFR), accelerated life testing, failure analysis, statistical reliability methods, and cross-functional product validation activities within highly regulated industries.<br /> \r\nThis role requires close collaboration with R&D, Quality, Manufacturing, and Product Engineering teams to ensure product reliability, compliance, and performance throughout the product lifecycle.\r\n<hr /> <b> Key Responsibilities</b> \r\n\r\n<ul data-end=\"2448\" data-start=\"1073\"> \r\n\t<li> Develop and implement reliability strategies, plans, and requirements for medical device products.</li> \r\n\t<li> Lead and facilitate DFMEA/PFMEA activities and reliability risk assessments.</li> \r\n\t<li> Design and execute reliability test plans including:\r\n\t<ul data-end=\"1434\" data-start=\"1310\"> \r\n\t\t<li> HALT/HASS</li> \r\n\t\t<li> Accelerated Life Testing (ALT)</li> \r\n\t\t<li> Environmental testing</li> \r\n\t\t<li> Lifecycle testing</li> \r\n\t\t<li> Accelerated aging studies</li> \r\n\t</ul> \r\n\t</li> \r\n\t<li> Develop test methods, protocols, fixtures, and validation procedures for medical device products.</li> \r\n\t<li> Perform reliability analysis using statistical methods including Weibull and lognormal modeling.</li> \r\n\t<li> Conduct failure analysis, root cause investigations, and FRACAS activities.</li> \r\n\t<li> Analyze reliability data and provide technical recommendations for product improvements.</li> \r\n\t<li> Support Design for Reliability (DFR) initiatives throughout the product development lifecycle.</li> \r\n\t<li> Collaborate with R&D, QA, Manufacturing, and Regulatory teams to ensure compliance and product performance.</li> \r\n\t<li> Prepare technical reports, documentation, and final validation summaries.</li> \r\n\t<li> Participate in design reviews and recommend reliability-focused design improvements.</li> \r\n\t<li> Support product verification and validation activities for hardware and software integrated medical systems.</li> \r\n\t<li> Perform DOE (Design of Experiments), sample size planning, and statistical analysis.</li> \r\n\t<li> Ensure compliance with applicable medical device regulations and standards.</li> \r\n</ul> \r\n\r\n<hr /> <b> Required Qualifications</b> \r\n\r\n<ul data-end=\"3369\" data-start=\"2482\"> \r\n\t<li> Bachelor's degree in Mechanical, Electrical, Reliability Engineering, Biomedical Engineering, or related field.</li> \r\n\t<li> 4&plus; years of experience in product/core reliability engineering within regulated industries.</li> \r\n\t<li> Strong experience in medical devices or MedTech domain.</li> \r\n\t<li> Experience with:\r\n\t<ul data-end=\"2889\" data-start=\"2769\"> \r\n\t\t<li> HALT/HASS</li> \r\n\t\t<li> ALT</li> \r\n\t\t<li> Reliability growth testing</li> \r\n\t\t<li> Accelerated aging</li> \r\n\t\t<li> Failure analysis</li> \r\n\t\t<li> FRACAS</li> \r\n\t\t<li> DFMEA/PFMEA</li> \r\n\t</ul> \r\n\t</li> \r\n\t<li> Hands-on experience with reliability and statistical analysis tools such as:\r\n\t<ul data-end=\"3030\" data-start=\"2971\"> \r\n\t\t<li> Minitab</li> \r\n\t\t<li> JMP</li> \r\n\t\t<li> Reliasoft</li> \r\n\t\t<li> MATLAB</li> \r\n\t\t<li> Python</li> \r\n\t\t<li> R</li> \r\n\t</ul> \r\n\t</li> \r\n\t<li> Strong understanding of:\r\n\t<ul data-end=\"3158\" data-start=\"3060\"> \r\n\t\t<li> Weibull analysis</li> \r\n\t\t<li> Life data analysis</li> \r\n\t\t<li> Statistical process control</li> \r\n\t\t<li> Reliability modeling</li> \r\n\t</ul> \r\n\t</li> \r\n\t<li> Experience planning and executing verification and validation testing.</li> \r\n\t<li> Strong analytical, troubleshooting, and problem-solving skills.</li> \r\n\t<li> Excellent communication and cross-functional collaboration abilities.</li> \r\n</ul> \r\n\r\n<hr /> <b> Preferred Qualifications</b> \r\n\r\n<ul data-end=\"3663\" data-start=\"3404\"> \r\n\t<li> Advanced degree preferred.</li> \r\n\t<li> Experience in IVD medical devices.</li> \r\n\t<li> Experience designing custom test fixtures and validation systems.</li> \r\n\t<li> Familiarity with:\r\n\t<ul data-end=\"3663\" data-start=\"3560\"> \r\n\t\t<li> PTC Windchill</li> \r\n\t\t<li> DOE methodologies</li> \r\n\t\t<li> Sample size determination</li> \r\n\t\t<li> Reliability prediction modeling</li> \r\n\t</ul> \r\n\t</li> \r\n</ul> \r\n\r\n<hr /> <b> Regulatory & Standards Knowledge</b> <br /> \r\nCandidates should have familiarity with:\r\n<ul data-end=\"3901\" data-start=\"3747\"> \r\n\t<li> ISO 13485</li> \r\n\t<li> ISO 14971</li> \r\n\t<li> FDA 21 CFR 820</li> \r\n\t<li> EU MDR / IVDR</li> \r\n\t<li> IEC 60601</li> \r\n\t<li> IEC 62304</li> \r\n\t<li> IEC 62366-1</li> \r\n\t<li> ISO 10993</li> \r\n\t<li> ISO 17025</li> \r\n\t<li> IEC 61010</li> \r\n\t<li> IEEE 1413</li> \r\n\t<li> IEEE 1332</li> \r\n</ul> \r\n\r\n<hr /> <b> Preferred Candidate Profile</b> <br /> \r\nWe are looking for engineers who:\r\n<ul data-end=\"4359\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"3973\"> \r\n\t<li> Have strong Design for Reliability (DFR) expertise.</li> \r\n\t<li> Can drive FMEA and risk reduction activities.</li> \r\n\t<li> Are experienced in highly regulated medical device environments.</li> \r\n\t<li> Can lead reliability investigations and testing programs independently.</li> \r\n\t<li> Are comfortable working in fast-paced, cross-functional engineering environments.</li> \r\n\t<li> Have strong data analysis and technical reporting skills.</li> \r\n</ul> \r\n</div> \r\n",
+    "recruiter": [
+      "Shivani Sharma",
+      "shivani.sharma@infostride.com",
+      "4153601700"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28239467",
+    "time_scraped": 1779753402202,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28239288,
+    "title": "Senior Test/NPI Engineer",
+    "location": "CA, None",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "5/15/2026",
+      "date_posted": 1778878286000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> \r\n<p> <b> <i> Senior Test/NPI Engineer</i> </b> </p> \r\n\r\n<p>  </p> \r\n\r\n<p> The ideal candidate will be responsible for designing, developing, implementing, and supporting test solutions for manufacturing and operational processes. This includes automated test systems, diagnostics, calibration and verification tools to ensure the quality and reliability of products during production.</p> \r\n\r\n<p> <b> Responsibilities:</b> </p> \r\n\r\n<ul type=\"disc\"> \r\n\t<li> Design and develop production test systems (hardware and software) for product verification and validation.</li> \r\n\t<li> Collaborate with design, quality, manufacturing and vendors to define test requirements and ensure test coverage.</li> \r\n\t<li> Implement automated test solutions to improve efficiency, accuracy, and scalability in production environments.</li> \r\n\t<li> Develop and maintain test fixtures, scripts, and infrastructure.</li> \r\n\t<li> Provide technical support to manufacturing and operations teams to resolve test-related issues.</li> \r\n\t<li> Maintain and calibrate test equipment, ensuring compliance with industry standards and internal policies.</li> \r\n\t<li> Document all test procedures, specifications, and results in line with quality management systems.</li> \r\n\t<li> Perform Gauge R & R and IQ/OQ/PQ for custom test fixtures.</li> \r\n\t<li> Develop and perform design of experiments.</li> \r\n</ul> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<p> <b> Required Skills & Abilities:</b> </p> \r\n\r\n<ul type=\"disc\"> \r\n\t<li> Strong problem-solving skills and attention to detail.</li> \r\n\t<li> Proficient in test method analysis and test method validation</li> \r\n\t<li> Good documentation skills with strong communication and teamwork abilities.</li> \r\n\t<li> Demonstrated ability to work on problems of a complex scope where analysis of situations or data involves multiple competing factors.</li> \r\n\t<li> Solid understanding of verification and testing best practices</li> \r\n</ul> \r\n\r\n<p> <b>  </b> </p> \r\n\r\n<p> <b> Education & Experience:</b> </p> \r\n\r\n<ul type=\"disc\"> \r\n\t<li> Bachelor's degree in mechanical engineering, biomedical engineering, or a related field.</li> \r\n\t<li> 5&plus; years of experience in test development or test engineering, preferably in a production or operations setting</li> \r\n\t<li> Working knowledge in test software environments such as LabVIEW and/or Python preferred</li> \r\n\t<li> Experience in executing verification/testing software in a design and production environment</li> \r\n\t<li> Experience within a highly regulated medical device industry.</li> \r\n\t<li> Hands-on experience with electronic measurement instruments (e.g., oscilloscopes, multimeters, power supplies).</li> \r\n</ul> \r\n</div> \r\n",
+    "recruiter": [
+      "Shivani Sharma",
+      "shivani.sharma@infostride.com",
+      "4153601700"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1&SearchString=#/jobs/28239288",
+    "time_scraped": 1779753408724,
+    "source_company": "uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7",
+    "source_url": "https://www2.jobdiva.com/portal/?a=uwjdnwdfysih4x6jgd48gwu2ms5zvs0b1cd92mxss12my2jwxtsl1uhywtqgxbj7&compid=-1",
+    "date_cutoff_days": 15
+  }
+]

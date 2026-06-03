@@ -1,0 +1,727 @@
+{
+  "company": "vTech",
+  "scrape_date": "2026-06-02T22:44:18.923302",
+  "total_jobs": 20,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1CJ2TITg2EGWoVwo_8bOVo=",
+      "title": "Culture of Innovation Project Manager",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Job Title: Culture of Innovation Project Manager\r\nLocation: White Plains, NY\r\nDuration: 12 Months (Possible Extension)\nSkills\r\n• Strong understanding of innovation and innovation methodologies (e.g., design thinking, lean startup, agile). \r\n• Strong Project Management and organizational skills \r\n• Knowledge of digital platforms (ideally Innovation focused platforms) \r\n• Demonstrated experience designing, managing, or improving cross functional processes or programs. \r\n• Proven ability to manage multiple projects simultaneously, with strong organizational and prioritization skills. \r\n• Strong communication and presentation skills, with experience preparing materials for leadership and facilitating meetings. \r\n• Comfort working with data (e.g., tracking metrics, building basic dashboards, summarizing insights). \r\n• Experience working collaboratively with diverse stakeholders and building relationships across functions and levels. \r\n• Ability to provide constructive feedback to individuals at various levels of seniority \r\n• Strong understanding of innovation and innovation methodologies (e.g., design thinking, lean startup, agile). \r\n• Knowledge of cultural change, employee engagement, and adult learning theory. \r\n• Strong written and verbal communication skills, with the ability to translate complex concepts for broad audiences. \nEducation & Certifications\r\n• Bachelor’s degree in Organizational Development, Business, Innovation, or a related field required; master’s degree preferred. \r\n• 7+ years of experience in innovation, change management, organizational development, or related disciplines. \r\n• Experience leading internal innovation or employee engagement programs. \r\n• Strong facilitation and program management experience in a complex or regulated organization. \r\n• Prior experience in public sector or energy/utilities is a plus. \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "50",
+      "remote": 0,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Vaishali Sharma",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/bwbC_WnM4_4lEMYwfNkEsuzqsD3U6LW3I4JRifx0VXY",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c1CJ2TITg2EGWoVwo_8bOVo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5olFSyWk0qIgw6Njlrl_kc=",
+      "title": "Senior Drupal Development Lead",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "\r\nRole Summary \r\nProvides engineering ownership across all Drupal build, migration, and post-launch activities. Coordinates closely for environment management, deployments, and production support. \n \nKey Responsibilities —(Discovery, IA & UX) \r\nProvide technical feasibility input across all seven Phase 2 milestones. \r\nValidate Drupal taxonomy design feasibility for Baseline IA. \r\nOversee Drupal mockup engineering for Key Page Mockups. \r\nProvide tech recommendations feasibility for the UX Recommendations report.\n \r\nKey Responsibilities —  (Build, Migration & Launch) \r\nOwn migration engineering across all 500 high-priority pages. \r\nOversee redirect engineering and web server configuration with DoIT. \r\nLead engineering defect triage during QA and verification. \r\nLead performance, load, and security testing. \r\nAuthor engineering workflow and runbook documentation. \r\nAct as production monitoring liaison with DoIT during hyper-care. \n\r\nRequired Qualifications \r\nMinimum 8 years of Drupal development experience; Drupal 9 or 10 mandatory. \r\nDeep experience with content migration (Migrate API, custom migration patterns). \r\nExperience with CI/CD pipelines and deployment automation. \r\nDemonstrated experience coordinating with external platform or hosting teams. \r\nExperience leading development teams of 4+ engineers.\n \r\nPreferred Qualifications \r\nAcquia Certified Developer or Acquia Certified Lead. \r\nDrupal core or contrib module contributor. \r\nMDWDS or Maryland Drupal Theme experience. \r\nMaryland DoIT or state agency environment experience. \n \nCompliance & Standards \r\nWCAG 2.1 Level AA at the engineering level. \r\nSecurity and accessibility automated scanning standards. \n\n\r\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "40",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ruCa0F6Dmf5q3gKecG16fmZeXnavrSmg2wm9O1UNv28",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c5olFSyWk0qIgw6Njlrl_kc="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7eVGr9HA6Ai7COznJ5uowI=",
+      "title": "Backend / Drupal Developer",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Backend / Drupal Developer\nRole Summary \r\nBackend Drupal configuration, content type design, migration scripting, redirect implementation, and integration work. \n \nKey Responsibilities —  (Discovery, IA & UX) \r\nProvide platform feasibility review for Strategic Brief and feasibility deliverables  \r\nExecute taxonomy and menu API spike for Baseline IA  \r\nMap content type structures during the content audit  \r\nConfigure content types behind Key Page Mockups  \r\nEvaluate URL structure and redirect feasibility  \r\nProvide integration recommendations input to UX Recommendations report  \n \nKey Responsibilities — (Build, Migration & Launch) \r\nPerform CMS configuration including content types, views, and blocks. \r\nAdjust content types in support of editorial workflows. \r\nAuthor content type migration scripts. \r\nProvide manual page migration support. \r\nImplement server-side 301 redirects. \r\nConfigure alt text, ARIA attributes, and semantic markup support. \r\nResolve backend defects during QA and verification. \r\nDocument backend and integration designs for governance. \r\nApply hyper-care backend fixes. \n \nRequired Qualifications \r\nMinimum 4 years of Drupal backend development. \r\nPHP 8+ proficiency. \r\nDrupal Migrate API experience. \r\nStrong experience with Drupal content types, Views, and Blocks. \r\nIntegration experience (REST, JSON:API, custom services). \r\nDemonstrated experience implementing 301 redirects at scale. \n \nPreferred Qualifications \r\nAcquia Certified Backend Developer. \r\nDrupal core or contrib module development. \r\nExperience with state agency or healthcare content domains. \r\nFamiliarity with HIPAA-aware content workflows.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "65",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/xssjyxYB2BIm1l282rHzOD7Q8Qtzo68GyvNrefYdyFI",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c7eVGr9HA6Ai7COznJ5uowI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7LI7g6x0t_QBelK66C65X8=",
+      "title": "Information Architect (Content Strategist)",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Information Architect \nRole Summary \r\nPrimary owner of the site's Information Architecture, full sitemap, taxonomy, and content disposition decisions in Phase 2. Provides advisory IA validation throughout Phase 3 to ensure structural fidelity is preserved. \nKey Responsibilities —  (Discovery, IA & UX) \r\nOwn the Baseline Information Architecture (top two tiers, labeling, taxonomy). \r\nOwn the Full Sitemap, including MDH sub-sites hosted by DoIT. \r\nLead content audit dispositions (retain, edit, remove). \r\nContribute to Strategic Brief content structure and user-group definitions. \r\nFrame IA-related research questions for stakeholder research. \r\nProvide IA validation on Key Page Mockups. \nKey Responsibilities — (Build, Migration & Launch) \r\nProvide advisory IA validation during content edits. \r\nVerify Information Architecture fidelity in migrated content. \r\nDefine legacy-to-new URL mapping logic for the Redirect Plan. \r\nDocument Information Architecture governance. \r\nPerform post-launch IA fixes during hyper-care. \nRequired Qualifications \r\nMinimum 7 years of Information Architecture experience. \r\nDemonstrated portfolio of large-scale sitemaps and taxonomies. \r\nExperience with content audit and ROT (Retain/Edit/Remove) methodologies. \r\nExperience with enterprise CMS-driven Information Architecture. \nPreferred Qualifications \r\nExperience with state, federal, or public sector IA. \r\nFamiliarity with MDWDS. \r\nExperience with Drupal taxonomy and content modeling. \r\nCard sorting and tree testing methodologies. ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "70",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/7Fg0CNPcKOhVdCt3G1Azvc4fuZa3jBKiW8Lrn0_50Ws",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c7LI7g6x0t_QBelK66C65X8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7gfzv1iYaUs-C0Ckp_C6MU=",
+      "title": "Frontend Developer",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Frontend Developer \n\nRole Summary \r\nFrontend implementation across Drupal theming, Web Design System components, page templates, and accessibility remediation throughout the build and migration phases. \n \nKey Responsibilities — (Discovery, IA & UX) \r\nBuild mockups in Drupal using Web Design System components.\r\nImplement header and navigation component spikes \r\nValidate Web Design System components for re-use across page types \r\nProvide pattern feasibility review during Strategic Brief inputs \r\nProvide UI recommendations feasibility input to UX Recommendations report  \n \nKey Responsibilities — (Build, Migration & Launch) \r\nBuild site theme and page templates using Web Design System. \r\nPerform manual page builds during content migration. \r\nMigrate front-end components from legacy to new templates. \r\nApply accessibility fixes in templates for remediation. \r\nImplement front-end redirect handling logic. \r\nResolve UI/UX defects during QA and verification. \r\nDocument UI components for governance. \r\nApply bug fixes and content edits during hyper-care. \n \nRequired Qualifications \r\nMinimum 4 years of frontend development experience. \r\nDrupal theming experience using Twig. \r\nStrong HTML5, CSS3, and modern JavaScript skills. \r\nExperience with design systems (Web Design System, USWDS, or equivalent). \r\nAccessibility-aware development at WCAG 2.1 Level AA.\n\nPreferred Qualifications \r\nAcquia Certified Frontend Specialist. \r\nExperience with state or federal accessibility audits. \r\nExperience with large-scale content migration.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/XVNMtqYUeAnag4CqWczNN3KoO-pxtb05VokV2R4dCzE",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c7gfzv1iYaUs-C0Ckp_C6MU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c257SboKwHOBQvWk4aIP21E=",
+      "title": "UX / Content Writer ",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "UX / Content Writer\r\nRole Summary \r\nPrimary owner of UX content strategy, Key Page Mockups (built using Web Design System), and plain-language content quality across the engagement. \n \nKey Responsibilities —  (Discovery, IA & UX) \r\nAuthor the Strategic Brief and define the engagement's tone of voice. \r\nWrite navigation copy and content labels for IA and sitemap. \r\nDevelop UX research questions and personas. \r\nConduct content quality assessments during the content audit. \r\nAuthor Key Page Mockups using Drupal instance and Web Design System components. \r\nAuthor the UX Recommendations report. \n \nKey Responsibilities — (Build, Migration & Launch) \r\nApply plain-language edits per principles across up to 500 high-priority pages. \r\nConduct accessible content rewrites for accessibility remediation. \r\nPerform content fidelity QA during migration. \r\nDraft user-facing redirect messaging where applicable. \r\nPerform content QA on the built site. \r\nDocument content strategy and ownership in governance materials. \r\nApply post-launch content fixes during hyper-care. \n \nRequired Qualifications \r\nMinimum 5 years of UX writing or content strategy experience. \r\nDemonstrated plain-language writing portfolio. \r\nExperience with design systems (preferably Web Design System or US Web Design System). \r\nExperience writing for government, regulated, or healthcare environments. \r\nFamiliarity with content patterns and microcopy. \n \nPreferred Qualifications \r\nPlain Language Association International (PLAIN) certification or equivalent. \r\nDrupal authoring experience. \r\nExperience producing WCAG 2.1 AA conformant content. \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "75",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/bUOiWXWvij15njbUi8kv7E7Q9WW6c2P0jFxPDdWVMAk",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c257SboKwHOBQvWk4aIP21E="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2CWXYWxeB8LXjUBWNlp5uY=",
+      "title": "Sr Business Analyst",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Sr Technical Business Analyst \nPosition Summary\nThe Lead Technical Business Analyst / Product Analyst serves as the primary liaison between business stakeholders, content/IA resources, UX/design resources, Drupal architecture resources, and future implementation teams.\nKey Responsibilities\n\nElicit, document, and validate business, functional, non-functional, content, UX, accessibility, migration, and CMS requirements.\nTranslate content audit findings, ROT decisions, IA decisions, sitemap outputs, and UX mockups into backlog-ready requirements.\nWork with stakeholders to define business priorities, user needs, content ownership assumptions, service pathways, workflow constraints, and operational requirements.\nPartner with UX to convert usability testing, tree testing, card sorting, and mockup decisions into user stories and acceptance criteria.\nPartner with Content Strategist / IA to document content disposition rules, metadata needs, taxonomy requirements, content governance needs, and migration assumptions.\nPartner with Drupal Solution Architect to document Drupal feasibility, configuration needs, custom development considerations, integrations, technical constraints, and implementation dependencies.\nAnalyze legacy SharePoint content, forms, documents, business processes, content workflows, ownership models, and migration dependencies.\nDevelop requirements traceability from business goals, user needs, content decisions, IA decisions, mockups, and technical recommendations.\nDocument non-functional requirements including accessibility, security, performance, governance, maintainability, scalability, workflow, redirects, and auditability.\nPrepare Phase 3 backlog inputs including epics, features, user stories, acceptance criteria, UAT scenarios, prioritization notes, and dependency mapping.\nSupport strategic brief development by summarizing requirements themes, implementation risks, dependencies, and migration considerations.\n\nDeliverables Owned or Supported\n\nRequirements inventory.\nBusiness and functional requirements summary.\nNon-functional requirements summary.\nBacklog-ready epics and user stories.\nAcceptance criteria for key templates, content types, IA elements, and migration needs.\nRequirements traceability matrix.\nDecision log and assumptions log support.\nUAT readiness inputs.\nPhase 3 backlog handoff package.\n\nRequired Experience\n\n10+ years of business analysis, technical business analysis, product analysis, or product ownership experience.\n5+ years supporting web modernization, CMS migration, Drupal implementation, SharePoint migration, or digital transformation initiatives.\nPrior experience with DH, DoIT, State Agency, public health, healthcare, SLED, or comparable public-sector agencies strongly preferred.\nExperience supporting large public-facing websites or content-heavy platforms.\nExperience with Drupal or comparable enterprise CMS platforms.\nExperience with SharePoint-to-CMS migration preferred.\nExperience writing user stories, acceptance criteria, process flows, requirements matrices, backlog items, and UAT scenarios.\nExperience with WCAG, Section 508, security, content governance, and public-sector compliance expectations.\n\nRequired Skills\n\nRequirements elicitation.\nTechnical requirement documentation.\nUser story and acceptance criteria writing.\nBacklog preparation.\nCMS migration analysis.\nTraceability.\nStakeholder facilitation.\nBusiness process analysis.\nUAT planning.\nPublic-sector documentation standards.\n\nPreferred Certifications\n\nCBAP, CCBA, or PMI-PBA preferred.\nCSM, SAFe Agilist, Product Owner certification, or ICAgile certification preferred.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "62",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/TJFKVlEh9jdmI20NJe7BRz2wIf70c4ocvK8lRA9XO5Y",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c2CWXYWxeB8LXjUBWNlp5uY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cyjwxq9NlRAjsU7GbsoyPhA=",
+      "title": "Technical Solution Architect / Project Lead",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Technical Solution Architect / Project Lead\r\nDuration: Contract \r\nRole Summary \r\nServes as the operational delivery owner. Combines technical architecture leadership with day-to-day project management, and acts as the primary liaison  for platform and deployment coordination. \n \nKey Responsibilities \r\nLead synthesis of findings into the Strategic Brief. \r\nDrive Baseline Information Architecture and full Sitemap mapping to the Drupal platform. \r\nOversee research methodology and synthesis quality across stakeholder research activities. \r\nLead mockup-to-Drupal architecture mapping for Key Page Mockups. \r\nOwn delivery and acceptance of all seven Phase 2 milestones. \r\nCoordinate sub-site dependencies and platform alignment with Maryland DoIT. \r\nScore and prioritize UX recommendations for feasibility. \n\nKey Responsibilities \r\nOwn end-to-end build delivery across all seven Phase 3 milestones. \r\nArchitect the migration strategy and scripting approach for up to 500 high-priority pages. \r\nOwn the QA strategy and test plan for site testing and verification. \r\nOversee performance, load, and security testing. \r\nLead hyper-care triage and engineering coordination. \r\nAuthor governance documentation and the DoIT operating model. \n\nRequired Qualifications \r\nMinimum 10 years of technical architecture experience. \r\n5+ years of hands-on Drupal or enterprise CMS platform leadership. \r\n5+ years of operational project management experience. \r\nDemonstrated experience leading large-scale content migrations. \r\nPrior delivery on state, federal, or regulated digital programs. \r\nDemonstrated experience coordinating with external platform or infrastructure teams. \n\nPreferred Qualifications \r\nAcquia Certified Site Builder, Developer, or Solutions Architect. \r\nstate agency program experience. \r\nAcquia or Pantheon hosting environment experience. \n\n\r\n \n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "72",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/lazvFxG7gN8K-6KAzDGY-A4_E0SpKgW6nf2_-x3f_L4",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3cyjwxq9NlRAjsU7GbsoyPhA="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0h1Rv0u49sVHRc0aEGr03E=",
+      "title": "GIS Analyst",
+      "location": "",
+      "experience": {
+        "experience": "5-10 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "\nAbout us: https://www.vtechsolution.com/\n \nJob Duration   : 6 Months (with the possibility of extension)\nLocation           : Detroit, MI\nShift time         : Regular 8am to 5pm EST\n \nPosition Requirements / Minimum Qualifications: \n\n5 years as a GIS Analyst working with ESRI Product suite. \n3 years working with Geodatabase management procedures and relational databases. \n3 years working with Autodesk’s AutoCAD, BIM, and the conversion into GIS. \n\n \nPreferred Qualifications: \n\nStrong written and oral communication skills. \nAttention to detail, customer focus, teamwork, and interpersonal skills. \nAbility to work in a fast-paced environment and easily transition from one task to another to complete projects in a timely manner. \nCertificate and/or Licenses: Geographic Information Science Certificate or equivalent. \nGeneral knowledge of Asset Management System (Maximo). \nExperience with interior building mapping. \nExperience with 3D GIS software (ArcScene). \nExperience with GIS programming/scripting languages (Python, JavaScript, SQL). \nExperience with Azure DevOps, and Git. \n\n \nEducation Requirement: \nB.S. in Geography, Geographic Information Systems, Computer Science, or a closely related field\n\n",
+      "closing": {
+        "closing_date": "2026-06-04T17:00:00Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "05/22/26",
+        "start_dateStr": 1779408000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Aksh Patel",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Edt2sNi-JSdqk_gWJLT2qROlTvWqxxiinABQuvpiE5E",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c0h1Rv0u49sVHRc0aEGr03E="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cz_VfultTHnw_Sa8f_1K9H8=",
+      "title": "HCM Systems Business Analyst",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "UMMARY: DC Water provides clean drinking water to residents of the District of Columbia, and wastewater treatment services to both residents of the District of Columbia and wholesale customers in Maryland and Virginia. At DC Water, our values guide our actions, behaviors and decision making. Through extensive collaboration across DC Water leadership, initiatives are brought forward and evaluated to advance the five imperatives of the Blueprint 2.0, DC Water’s strategic plan. DC Water has made an investment in proven technology to enable advancement of strategic objectives. This position is part of the Center of Excellence team, a cross functional team of people responsible for developing and managing ERP cloud strategy, CFO and CPO business compliance, data governance and best practices that the rest of the organization can leverage to transform the business.\r\n \r\nThe role is responsible for driving process improvements, overseeing operations and maintenance, and supporting the identification, development, and implementation of enhancements and new initiatives across ERP and related systems. This includes advancing HCM, Advanced HCM, and Payroll processes and operations. The position applies deep subject‑matter expertise and strong management capabilities to streamline HCM processes, strengthen operational efficiency, and increase transparency across the organization.\r\n\r\n The intent of this job description is to provide a representative summary of the major duties and responsibilities performed by incumbent(s) in this job. Incumbent(s) may not be required to perform all duties in this description and incumbent(s) may be required to perform work-related tasks other than those specifically listed in this description. This job description is not a “contract” between the employee and the Authority. The job duties and essential functions may be changed at the discretion of the CEO/General Manager.\n \r\nI. ESSENTIAL FUNCTIONS:\r\n\r\n \r\nPosition Summary\r\n\r\n \r\nThe contractor will support DC Water’s People & Talent (P&T) division by conducting a comprehensive documentation audit across approximately 1,300 employees, digitizing missing records, updating Oracle Cloud HCM and Livelink systems, and assisting with Oracle FDI testing and mission onboarding requirements. This role is highly hands-on, detail-oriented, and requires strong coordination across multiple P&T departments.\r\n\r\n \r\nKey Responsibilities\r\n\r\n \r\n1. Documentation Audit & Gap Analysis\r\n\r\n \r\n• Analyze employee records across Oracle Cloud HCM and Livelink to identify missing or\r\n\r\n \r\nincomplete documentation for approx.1,300 employees.\r\n\r\n \r\n• Review required documents across HCM, Benefits, Compensation, Work Permits, Certifications,\r\n\r\n \r\nDriving Licenses, I-9 Verifications, Dependent Certifications, and Compliance.\r\n\r\n \r\n• Validate against a list of approx.50 required documents are maintained by various P&T\r\n\r\n \r\ndepartments.\r\n\r\n \r\n• Produce a structured gap-analysis report summarizing missing, incomplete, or outdated\r\n\r\n \r\ndocumentation.\r\n\r\n \r\n2. Document Collection & Digitization\r\n\r\n \r\n• Partner with HR, Benefits, Compensation, Compliance, and other P&T teams to gather missing\r\n\r\n \r\nemployee documents.\r\n\r\n \r\n• Coordinate with employees or managers when needed to obtain required records.\r\n\r\n \r\n• Scan, upload, and index documents into Oracle Cloud HCM and/or Livelink, ensuring accuracy\r\n\r\n \r\nand adherence to naming and filing standards.\r\n\r\n \r\n• Maintain strict confidentiality and compliance with document retention and privacy requirements.\r\n\r\n \r\n3. Oracle FDI Testing Support\r\n\r\n \r\n• Assist with functional testing of Oracle FDI (Fusion Data Intelligence) processes after\r\n\r\n \r\ndocumentation updates are completed.\r\n\r\n \r\n• Support test script execution, data validation, issue logging, and retesting.\r\n\r\n \r\n• Collaborate with system owners and IT partners to troubleshoot and resolve defects.\r\n\r\n \r\n4. Mission Onboarding Requirements\r\n\r\n \r\n• Support the collection, verification, and documentation of mission onboarding requirements for\r\n\r\n \r\nnew or transitioning employees.\r\n\r\n \r\n• Ensure all onboarding documentation is properly captured and stored in the appropriate\r\n\r\n \r\nsystems.\r\n\r\n \r\nAdditional Responsibilities\r\n\r\n \r\n• Collaborate with P&T managers and cross-functional teams to ensure documentation accuracy\r\n\r\n \r\nand system alignment.\r\n\r\n \r\n• Provide status updates, progress tracking, and issue escalation as needed.\r\n\r\n \r\n• Assist with minor process improvements related to document management, digitization\r\n\r\n \r\nworkflows, and system usage.\r\n\r\n \r\n• Support end users with basic questions related to document uploads, record completeness, or\r\n\r\n \r\nsystem navigation.\r\n\r\n \r\n• Perform other related tasks as assigned by the HCM systems manager to support the successful\r\n\r\n \r\ncompletion of the documentation and system update initiative.\r\n\r\n \r\nII. EDUCATION / EXPERIENCE & OTHER MINIMUM QUALIFICATIONS REQUIRED:\r\n\r\n \r\n• Requires a bachelor’s or master’s degree in business management or computer science or\r\n\r\n \r\ninformation technology, or a related field from an accredited college or university, along with a\r\n\r\n \r\nminimum of seven (7) years of hands-on experience in Business/Systems Analysis for ERP,\r\n\r\n \r\nCRM, or other cloud application implementations and support, or an equivalent combination of\r\n\r\n \r\neducation and experience.\r\n\r\n \r\n• Experience with business analysis, testing, requirements, process design or assessment\r\n\r\n \r\nacross software applications.\r\n\r\n \r\n• An advanced degree and/or professional certification in information\r\n\r\n \r\ntechnology/business/accounting fields is a big plus. A wide degree of creativity and latitude is\r\n\r\n \r\nexpected\r\n\r\n \r\n• Ability to assimilate information from a variety of sources, analyze information, and recommend\r\n\r\n \r\ncourses of action to be taken.\r\n\r\n \r\n• Ability to think clearly, analyze quantitatively, problem-solve, and prioritize issues.\r\n\r\n \r\n• Experience working with HCM, Sharepoint, or similar HRIS/ECM systems.\r\n\r\n \r\n• Strong attention to detail and ability to manage large volumes of employee data.\r\n\r\n \r\n• Experience with document auditing, compliance documentation, or HR operations.\r\n\r\n \r\n• Ability to work independently, manage deadlines, and coordinate with multiple departments.\r\n\r\n \r\n• Strong communication skills and comfort interacting with HR, Benefits, Compensation, and\r\n\r\n \r\nCompliance teams.\r\n\r\n \r\n• Hands-on experience managing physical and digital employee records, including auditing,\r\n\r\n \r\nretrieval, digitization, indexing , and compliance with federal and state record retention\r\n\r\n \r\nrequirements, is preferred (I 9, work authorization, certifications)\r\n\r\n \r\n• Experience with system testing (FDI or similar) is a plus.\r\n\r\n \r\nIII. PHYSICAL DEMANDS OF THE WORK ENVIRONMENT:\r\n\r\n \r\n• This position operates in a hybrid office environment and requires prolonged periods of sitting,\r\n\r\n \r\ncomputer use, and use of standard office equipment. The role also involves occasional handling of physical records, including retrieving, sorting, scanning, filing, and transporting employee files or boxes of documents.\r\n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Vaishali Sharma",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/OcCofMHf5TRI7TYpT-xJh92wf9Z0C4HBaha6RkpElcM",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3cz_VfultTHnw_Sa8f_1K9H8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5Pb3jp5nX4Tu9LTYvBcY2g=",
+      "title": "Electrical Engineer",
+      "location": "",
+      "experience": {
+        "experience": "3-7 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Electrical Engineer\r\nLocation: Buffalo, NY \r\nDuration: 12 months \n \nJob Functions & Responsibilities\r\n-Assist with Project Management to coordinate with the Developers of Generation and Transmission projects to ensure designs and specifications are reviewed so they meet the Authority’s technical requirements. \r\n- Coordinate with internal stakeholders, NYISO, Developers, AE firms for the facility study design and conceptual design for the generator connection that requires NYPA transmission facility modification. \r\n- Coordinate with Environmental, Transmission Planning and Transmission Operations, Site Engineering and Legal to develop NDAs, facility study agreement, cost-reimbursable agreement. \r\n- Support and coordinate with Engineering, Design, Strategic Supply management (SSM), Legal, Environmental, site owners to draft and execute Interconnection Agreement. \r\n- Develop and review responsibility matrix for the facility study and Interconnection agreement. \r\n- Prepare project request and coordinate with OPMG to generate project number and WBS codes for cost tracking. \r\n- Review Feasibility Study (FES) scope, FES report, System Reliability Impact Study (SRIS) scope and reports. \r\n- Knowledge in interpreting results from power flow and transient simulations using PSSE or TARA. \r\n- Coordinate with engineering, design and sites, to provide asset information, drawings, and standards for interconnection to NYPA transmission or generation facility. \n \nSkills\r\n- Experience with NYISO interconnection process, preferred. \r\n- Experience with high voltage substation and transmission project development and execution. \r\n- Experience with large scale renewable projects, desired. \r\n- Excellent verbal and written communication skills. \r\n- Excellent presentation and interpersonal skills. \n \nEducation & Certifications\r\n- Bachelor’s degree or Master’s degree in Electrical Engineering or Power System at an accredited institution at the time of application. \r\n- Minimum of 3 years of high voltage substation and transmission line engineering experience. \r\n- Minimum of 3 years in project management. \r\n- New York State PE, desired. \r\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "30",
+      "remote": 0,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "Vaishali Sharma",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/L4zK5GHdtuNolnFl_P8FnUcM7shqDNZjjdJDWgi00S4",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c5Pb3jp5nX4Tu9LTYvBcY2g="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4sj7zKoKRZq8aRXRbKVB-g=",
+      "title": "Quality Assurance Analyst - Advanced",
+      "location": "",
+      "experience": {
+        "experience": "0 year",
+        "min_experience": "0"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Job Title: Quality Assurance Analyst \nLocation: Onsite (Columbia, SC)\nJob Type: Contract – 12 Months (Possibility of extension)\nInterview: Virtual/In person\nJob Description:\nThe Client is seeking a Quality Assurance Analyst to assist with implement small to large projects\nRequired Skills:\n\n5+ years’ experience in Quality Assurance & Quality Control.\n5+ years translating business requirements or policy documentation into test cases and scenarios; building test cases and scenarios into test systems.\n3+ years’ experience in Sahi Pro/Selenium Automation Framework.\nDesign and Develop Test Automation Scripts using Test Automation Guidelines.\nWorking knowledge of ONE of the following: Spice, TPI, TMMI, CMMI OPF, OPD and PPQA process areas.\nDirect hands on experience with formal test design techniques like Equivalence Class Partitioning and Pairwise Analysis.\nExperience with test design tools like PICT or equivalent orthogonal based tools.\n\nPreferred Skills:\n\n5+ years large enterprise or e-business systems experience.\n3 years Medicaid or healthcare experience; Deep knowledge of healthcare operations (preferably Medicaid), business processes.\nExperience with X.12 Standards and HIPPA EDI Transactions.\nProficient in Atlassian tool suite including JIRA and Confluence.\nPrior experience working in a standard SDLC (waterfall methodology) & in an AGILE delivery.\n\nRequired education:\nBachelor’s degree in a technical, business, or healthcare field. Or 5+ years of equivalent experience in Quality Assurance\nAdditional skills/duties:\n\nSuperb written and oral communications skills, including the ability to write requirements and Use Cases. Very Strong proficiency in English is required.\nDocument and support development of test scenarios/cases and the execution of testing activities.\nShould be able to communicate and publish status reports of all open issues and gaps found during test phase and articulate the details to the Development teams\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "00",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Steve Abraham",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/lo6uuqB4_VkUiF_RAAPRC75Ja7bXqnqc76ozWeQIx1s",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c4sj7zKoKRZq8aRXRbKVB-g="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5NchHPo1Q28QQ9AUqMJlOQ=",
+      "title": "AZDOA - Arizona Strategic Enterprise Technology (ASET)",
+      "location": "",
+      "experience": {
+        "experience": "0 year",
+        "min_experience": "0"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Job Title: ServiceNow Tech Lead\nLocation: Remote (Phoenix, AZ 85007)\nJob Type: Contract – 12 Months (Possibility of extension)\nInterview: In person\nJob Description:\nThis position will act as the technical subject matter expert for how AtoZ leverages ServiceNow, owning the technical backlog, guiding enhancements, coordinating platform upgrades, and ensuring long-term stability and scalability. It requires someone who can be hands-on when needed, troubleshoot issues, and validate integrator/implementation vendor architecture and development work.\nKey Responsibilities:\n\nServe as the primary technical owner of the AtoZ ServiceNow implementation, ensuring platform quality, performance, and scalability.\nOversee and manage the ServiceNow technical backlog in Jira, including enhancements, bugs, maintenance tasks, and modernization initiatives.\nReview and validate solution architecture, workflows, and technical decisions provided by the MVP and long term vendor development teams.\nProvide hands-on configuration or development support as needed to troubleshoot issues or validate platform behavior.\nAct as the main technical point of contact between AtoZ and maintenance and vendor development teams.\nReview vendor designs, technical documentation, and proposed solutions to ensure alignment with best practices and program goals.\nParticipate in evaluating vendor SOW responses and technical proposals during procurement cycles.\nSupport agency onboarding by joining integration meetings and providing technical expertise related to ServiceNow capabilities such as notifications, workflows, catalog use, and routing.\nCollaborate with the AtoZ Identity Platform and agency technical teams to ensure successful authentication, attribute flow, and notification patterns.\nSupport the AtoZ Program Manager in translating business priorities into technical execution plans.\nLead planning for platform upgrades, modernization efforts, and release cycles.\nEnsure compliance with accessibility, security, and state technology policies and standards.\nActively participate in agile ceremonies, including Sprint Planning, Backlog Refinement, Standups, Reviews, and Retrospectives.\nPrepare technical stories, acceptance criteria, and testing requirements.\nEnsure all ServiceNow work is delivered in alignment with product goals, timelines, and quality standards.\nMaintain technical documentation, diagrams, workflow maps, and configuration details.\nRecommend improvements to platform stability, performance, and long-term scalability.\nStay informed of ServiceNow roadmap updates and new platform capabilities.\n\nRequired Qualifications:\n\n5 or more years of ServiceNow experience in a technical role such as developer, architect, or technical lead.\nExperience with ServiceNow Public Sector Digital Services (PSDS), including case management, constituent engagement, public sector workflows, or related modules.\nStrong understanding of ServiceNow architecture, configuration, workflows, scripting, and platform best practices.\nExperience overseeing vendor development teams or external technical partners.\nAbility to translate business requirements into technical stories, tasks, and execution plans.\nStrong communication skills and ability to explain complex technical topics to non-technical stakeholders.\n\nPreferred Qualifications:\n\nHands-on experience with ServiceNow Notifications, Catalog Items, Flow Designer, and Integration Hub.\nExperience working in agile or iterative development environments.\nSolid understanding of integrations, identity concepts including SSO, OIDC and SAML, and API fundamentals including JSON and REST.\nFamiliarity with government, public sector, or highly regulated environments.\nExperience participating in technical evaluation during procurement processes.\nKnowledge of platform upgrade planning, release management, and long-term maintenance strategies.\nExperience supporting cross-system integrations or coordinating between multiple technical teams.\nAbility to build technical diagrams, architecture visuals, and integration flow documentation.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "00",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Steve Abraham",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/1pl0Rdj_iGucLH6oFP6i9DYHo70gzQSEFyiDj2W1aNc",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c5NchHPo1Q28QQ9AUqMJlOQ="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c3Zz9tKEplNCoCoFkhV-Exw=",
+      "title": "Full Stack Developer",
+      "location": "",
+      "experience": {
+        "experience": "9-14 years",
+        "min_experience": "9"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Title: Full Stack Developer\nLocation: Maryland\nDuration: Long term contract\nPosition Summary\r\nSeeking a Full Stack Developer with strong Java and Angular experience to design, build, and maintain scalable applications within systems, including DDI and data fix activities.\nKey Responsibilities\n\nDevelop SPAs using Angular and backend services using Java/Spring\nBuild and integrate REST/SOAP APIs\nPerform data analysis, DDI, and data fixes to ensure data integrity\nDebug, optimize performance, and resolve production issues\nCollaborate with cross-functional teams in Agile environment\nWrite clean, secure, and maintainable code\n\nRequired Skills\n\n9+ years in Java + Angular full stack development\nStrong Java (Spring/J2EE) and REST API experience\nSolid SQL skills with data fixes and DDI experience\nHTML5, CSS3, JavaScript/TypeScript\nGit/SVN, Agile methodology\nGovernment/regulated environment experience\nMicroservices, CI/CD, AWS/Azure\nData migration and legacy system integration\n\nEducation\n\nMaster’s Degree in Computer Science or related field (preferred)\nBachelor’s Degree in Engineering or related discipline\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/04/26",
+        "start_dateStr": 1777852800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Shreelakshmi BL",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/24sCjJ-ZiKy6VXejC-3QMIafIUZMi0-qAqC_VLZ_CBU",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c3Zz9tKEplNCoCoFkhV-Exw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6-hwj5k74--uHv3aXFmt0Q=",
+      "title": "Cloud Native Application Developer & Kubernetes Administrator",
+      "location": "",
+      "experience": {
+        "experience": "5-15 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Title: Cloud Native Application Developer & Kubernetes Administrator\nLocation: Remote\nDuration: 24 Months\n \nJob Description:\nWe are seeking a skilled Kubernetes Administrator and Application Developer to join our team on a contract basis.\nThe ideal candidate will have hands-on experience building cloud-native Kubernetes applications and administration of Kubernetes clusters, particularly with RH OpenShift, in bare-metal environments.\n \nKey Responsibilities:\n\nCollaborate with application development teams to deploy, scale, and manage cloud-native applications\nAdminister and maintain Kubernetes clusters on bare metal and OpenShift platforms.\nMonitor, troubleshoot, and optimize cluster performance and reliability.\nAutomate operational tasks using scripting and infrastructure-as-code tools (e.g., Ansible, Helm).\nEnsure security best practices and compliance standards within the clusters.\n\n \nQualifications:\n\nRequires minimum 5 years job related work experience in excess of degree requirements\nBachelor's Degree : Computer Science or related field (Required)\nOr a combination of education and experience that provides equivalent knowledge to a major in such fields is required\n\n \nRequired Skills:\n\nProven experience developing and deploying cloud-native Kubernetes applications.\nScripting skills (e.g., Bash, Python) for automation.\nLinux administration skills (preferred)\nStrong problem-solving skills\nStrong communication skills.\nHands-on experience administering Kubernetes clusters (bare metal and/or public cloud environments).\nHands-on experience with Red Hat OpenShift Container Platform (preferred).\nSolid understanding of networking, storage, and security within Kubernetes.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/11/26",
+        "start_dateStr": 1778457600000
+      },
+      "end": {
+        "end_dateStr": "05/11/28",
+        "end_date": 1841616000000
+      },
+      "salary": "70",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Sanjay Sargara",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/C1PQI3ZCxQwQsHmfJg9BishZNd5JZfAs9R8IUSR74tw",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c6-hwj5k74--uHv3aXFmt0Q="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2VuduPOfAT4kt-WdOHSVak=",
+      "title": "System Software Programmer - Consultant",
+      "location": "",
+      "experience": {
+        "experience": "0 year",
+        "min_experience": "0"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Title: Senior Full Stack UI Developer\nAddress: Columbia, SC 29201\nContact Duration: 12 Months \nInterview Type: Web Cam \nResponsibilities will include:\nSeeking an experienced Senior Full Stack UI Developer with 10+ years of expertise in both front-end and backend development, along with proven technical leadership capabilities.\nKey Responsibilities:\nFront-End Development (UI)\n\nDesign and develop responsive, scalable, and high-performance UI applications\nBuild modern web applications using React, Angular, or Vue.js\nTranslate UI/UX designs into clean, maintainable code.\nImplement state management (Redux, NgRx, Context API, etc.)\nEnsure performance optimization, accessibility (WCAG), and cross-browser compatibility.\nEstablish and enforce UI coding standards and best practices\n\nBackend Development\n\nDesign and implement RESTful APIs / Microservices\nDevelop backend services using Python and Java.\nHandle authentication and authorization (OAuth, JWT)\nDesign and manage database systems (SQL/NoSQL)\nEnsure scalability, reliability, and security of backend systems\n\nFull Stack Responsibilities\n\nWork across the stack for end-to-end feature development\nIntegrate frontend and backend systems seamlessly\nTroubleshoot and debug complex issues across layers\nEnsure high-quality releases with proper testing and validation\n\nRequired Skills (rank in order of Importance):\n\nFrontend frameworks (React, Angular or similar modern component -based framework)\nBackend languages (Node.js, Python, Java or similar server-side technologies)\nAPI Development (RESTful services, GRAPHQL and versioning)\nDatabase expertise (SQL and NoSQL)\nDevOps fundamental\n\nPreferred Skills (rank in order of Importance):\n\n8+ years of experience in software development\n4+ Strong hands-on experience in full stack development and UI engineering\n\n4+ Proven experience in leading teams or projects\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "00",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Steve Abraham",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/yoRQ0ugdYtdmuGZ1QVHXWlAgQtiESpFBOCBs5Lxp874",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c2VuduPOfAT4kt-WdOHSVak="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2YVso8p6NjRbJODbQQ-i9k=",
+      "title": "ITS - System Engineer",
+      "location": "Bismark",
+      "experience": {
+        "experience": "0 year",
+        "min_experience": "0"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Title:  AS400 (IBM i) Technical Analyst\nAddress: Bismark, ND (Remote)\nContact Duration: 12 Months \nInterview Type: Web Cam \nComplete Description:\n\nAn experienced AS400 (IBM i) Technical Analyst is needed to complete a comprehensive assessment of data associated with a legacy Electronic Health Record (EHR) application operating in a V7R4 IBM i environment.\nThis focuses on analyzing data within the legacy system to identify information that meets client data-retention requirements and to support the identification of data that may qualify for migration to a repository or to the current EHR system. The position may also involve gathering requirements related to data needs.\n\nResponsibilities will include:\n\nReview the DB2 database and identify relevant files and data sets required to meet North Dakota data-retention requirements.\nAnalyze RPG code, if needed, to determine data origins and relationships affecting retention and migration requirements.\nConduct discovery sessions with legacy system end users to understand process flows, and collaborate with current EHR staff and technical teams to clarify data requirements in the current system.\nReview existing documentation and technical materials.\nDeliver a comprehensive assessment and recommended next steps for Phase II.\n\nRequired Qualifications\n\nAt least 5 years of experience working with IBM i / AS400 environments.\nStrong DB2 knowledge, including data analysis.\nProficiency in RPG (III, IV).\nExperience documenting complex legacy environments.\nStrong communication skills with the ability to present technical findings to non-technical audiences.\n\nPreferred Qualifications\n\nExperience with Electronic Health Record application and data sets.\nExperience preparing migration roadmaps or architectural assessments.\n\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "00",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Steve Abraham",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/5Ok0b9B9w7T9UGzevj3EuLjDb9Cg2mJzioWjuwqP774",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c2YVso8p6NjRbJODbQQ-i9k="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4aWzhmgsD6QAZsHs9btLRo=",
+      "title": "Oracle EBS Jr. Analyst",
+      "location": "NJ Transit HQ, 2 Gateway Center, 283-299 Market St. Newark, NJ 0",
+      "experience": {
+        "experience": "0 year",
+        "min_experience": "0"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "\nJob Title:  Oracle EBS Jr. Analyst\r\nAddress: Newark, NJ\r\nContract Duration: 05vMonths (Possibilities of Extensions)\r\nInterview Type: Web cam Interview \nThe Consultant will be responsible for providing support of all aspects of Oracle Financials, Procurement, and Warehousing system.\n\nComplete Description:\n\nExtensive experience in Oracle EBS suite. Consultant will be responsible for providing support of all aspects of Oracle Financials, Procurement, and Warehousing system. \nWill be responsible for a leading a functional and technical team engaged in the continued enhancement and support of Oracle eBS suite. \nCoordinates project assignments for staff or consultants working on assigned projects to ensure that project tasks are completed on time and staff are working at optimal efficiency. Ensures that the application meet business requirements and goals, fulfill end user requirements, and identify and resolve issues. \n3 or more years of progressive experience in implementing large-scale ERP projects. Hands on experience in Analysis, design, Software Development, testing, and support of Oracle EBS suite. \nOversee project from concept through completion through the project life cycle while meeting scope, schedule and resource targets while achieving the desired business results. Should have knowledge in E-business Upgrade Methodology and in project management.\nExperience with Full Implementation Life Cycle, Support and upgrade projects in Oracle SCM/Finance modules (INV, PO, Shipping Execution, OM, I Supplier, IProcurement, Sourcing, AP, GL, FA) with excellent command over P2P cycles, GL, Inventory Management. \nCandidate should be good at validating the SCM & Finance Business flows and processes to provide the solutions to the users for any issues. \nWell versed with Defect Life Cycle, Defect analysis, resolution, fixes, and retesting. Experience in Data Integration and Migration. Strong analytical and problem-solving skills. Excellent verbal and written communications skills. \nFacilitate the identification and mitigation of project risks and issues. Collaborate with project teams and lead the development of consistent and standard project plans at the milestone level. Experience with Customization/Personalization of Oracle forms. \n\nSystems supported: Oracle EBS. Skillsets preferred: SQL, SQL Developer, Oracle API, XML Publisher, TOAD, PL/SQL, Workflow, Oracle Forms, Integration, Bartender, Barcoding.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "0.00",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Steve Abraham",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/E_JtU1303odhAah2imjO5foEUBprZw9OYRlxl3bFXwk",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c4aWzhmgsD6QAZsHs9btLRo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5XujiuzXAt-txUWbXJChFI=",
+      "title": "Data Quality Engineer",
+      "location": "",
+      "experience": {
+        "experience": "0 year",
+        "min_experience": "0"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Role : Data Quality Engineer \nDuration : 03 months (Possibility of extension)\nLocation : Montgomery, AL - 36130 (Onsite)\nInterview: Video or In person Based on Location\nJob Description:\nA Data Quality Engineer, strong data analyst with deep technical skills in SQL, Purview, Data Pipelines and Data Modeling, plus experience in cloud data environments, automated testing, and collaboration with analytics and engineering teams. Ensures data is not only clean but also ready to support advanced analytics and AI applications\nData Quality Engineer & Analytics Skills:\n\nCore Technical Skills Must Be Able To Navigate An Environment With Low\\No Data Maturity\nData Profiling & Cleansing: Analyze data to identify anomalies, duplicates, outliers, and missing values; apply cleansing techniques to improve data integrity.\nSQL Proficiency: Write complex queries to validate data accuracy, perform transformations, and generate reports. (SSIS - ETL\\ELT)\nPython & Other Languages: Python is widely used for automation, data validation, and integration with analytics pipelines; SQL is essential for querying and reporting.\nData Modeling & Warehousing: Understand ETL/ELT processes, data warehouse/lake/lakehouse architectures, and data modeling principles.\nCloud & Modern Data Stack: Experience with cloud platforms (AWS, GCP, Azure), modern data warehouses (Snowflake, BigQuery), and tools like Spark, Kafka/Kinesis, Hadoop, or S3.\nData Testing & Observability: Design and deploy automated data testing at scale; use observability platforms for real-time monitoring.\n\nAnalytics & Data Science Skills:\n\nData Quality Standards & Metrics: Define and enforce data quality benchmarks; measure completeness, accuracy, timeliness, and consistency.\nRoot Cause Analysis: Identify why data issues occur (ETL bugs, user input errors, system failures) and implement fixes.\nCollaboration with Data Scientists: Work with ML/data science teams to ensure training data is clean and reliable.\nStatistical & Trend Analysis: Interpret patterns in large datasets to inform quality improvements.\n\nSoft & Communication Skills:\n\nStakeholder Engagement: Gather requirements from business, engineering, and analytics teams; advocate for data quality across the organization.\nProblem-Solving & Attention to Detail: Spot and resolve data issues efficiently; maintain high precision in validation.\nDocumentation: Record quality issues, processes, and improvements for transparency and compliance.\n\nTools & Platforms:\n\nQuery & Analysis: SQL, Python, Spark, Kafka/Kinesis, Hadoop, S3.\nData Quality Tools: Data profiling tools (MS Purview), validation scripts, observability platforms.\nCollaboration: Jira, Snowflake, or other data governance platforms.\n\nRequired Skills\n\nStrong experience working in low or immature data environments, establishing data quality processes from scratch (8-10 Years)\nAdvanced SQL expertise for complex querying, data validation, and transformation (8-10 Years)\nHands-on experience with ETL/ELT pipelines (e.g., SSIS or similar tools) (8-10 Years)\nProficiency in Python for data automation, validation, and pipeline integration (5-8 Years)\nExperience with data profiling and cleansing (anomalies, duplicates, outliers, missing values) (8-10 Years)\nSolid understanding of data modeling and data warehouse/lake/lakehouse architectures (8-10 Years)\nExperience implementing data quality frameworks and metrics (accuracy, completeness, timeliness, consistency) (8-10 Years)\nExperience with cloud data platforms (AWS, Azure, or GCP) and modern data warehouses (e.g., Snowflake, BigQuery) (5-8 Years)\nRequired Tools & Platforms: (8-10 Years) Query & Analysis: SQL, Python, Spark, Kafka/Kinesis, Hadoop, S3. Data Quality Tools: Data profiling tools (MS Purview), validation scripts, observability platforms. Collaboration: Jira, Snowflake, or other data governance platforms.\nBachelor's Degree\n\nPreferred Skills\n\nKnowledge of DAMA-DMBoK, DCAM, MDM concepts, and governance frameworks. (8-10 Years)\nExperience with Microsoft Purview, Fabric, MS Power BI, and Key Vault (5-8 Years)\nFamiliarity with AI/ML data readiness and feature-store-aligned data structuring. (5-8 Years)\nCloud data engineering exposure (Azure, Databricks, GCP). (5-8 Years)\nMaster’s degree preferred.\nDAMA CDMP (Associate/Practitioner) · EDM Council DCAM · ASQ Data Quality Credential · Collibra Data Steward Certification · Certified Data Steward (eLearningCurve) · Cloud/AI certifications (Azure, Databricks, Google)\n\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/22/26",
+        "start_dateStr": 1779408000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "00",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Shruti Chourasiya",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/21PnH5WkLiygtUEaFNYvcWSgOwN7eNudsGeC52ymKoA",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c5XujiuzXAt-txUWbXJChFI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4gjNVNOvelzbWGUNZ_NcKw=",
+      "title": "Critical Facilities & Data Center Maintenance",
+      "location": "2705 West Lake Drive",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Job Title: Critical Facilities & Data Center Maintenance\nLocation: Taylor, TX, 76574\nDuration: Full-time\n \nJOB SUMMARY:\n\nOversight of maintenance operations and infrastructure performance across multiple critical sites, including large-scale data centers. This role ensures optimal functionality, compliance, and reliability of electrical, mechanical, and physical infrastructure for data centers. The ideal candidate is a licensed Master Electrician with proven leadership experience and technical knowledge in managing mission-critical facilities.\n\nJOB DUTIES\n\nOversee the electrical infrastructure of the organization’s buildings and data centers, ensuring full compliance with local, state, and national codes.\nLead and supervise the team in day-to-day building and data center operations, including electrical, mechanical, HVAC, plumbing, and general facility upkeep.\nServe as the technical lead and subject matter expert for high-voltage systems, emergency power systems (UPS, generators), and switchgear operations.\nManage and coordinate preventative and corrective maintenance programs across all facilities, with a focus on uptime and operational efficiency.\nCollaborate with IT, security, and operations teams to support the unique needs of critical data center environments.\nDevelop and maintain documentation, including SOPs, MOPs, and safety procedures related to facility maintenance and electrical systems.\nEnsure adherence to all safety regulations and internal policies, including NFPA, OSHA, NEC, and local building codes.\nEnsure adherence and compliance to applicable CIP standards\nParticipate in capital project planning, vendor management, and infrastructure upgrades.\nRespond to and lead the resolution of emergency maintenance situations and after-hours incidents.\nTrack and report performance metrics, maintenance logs, and infrastructure reliability indicators.\nMaintains and reviews vendor designs, blueprints, plans and proposals to ensure compliance with agreed upon specifications\nManage the budget for maintaining, upgrading, or replacing buildings and infrastructure across multiple sites.\nEstablishes and maintains effective working relationships with staff members in other departments.\n\nCORE COMPETENCIES:\n\nStrong leadership, communication, and interpersonal skills\nAbility to read and interpret blueprints, schematics, and electrical diagrams\nCrisis management and rapid decision-making capabilities under pressure\nCommitment to safety, regulatory compliance, and operational excellence\nDetail-oriented with strong organizational and analytical skills\n\nEXPERIENCE\n\nMinimum of 8 years of progressive experience in facilities maintenance, with at least 3 years in a supervisory or management role\nValid Master Electrician license (State of Texas)\nExtensive hands-on experience in large-scale data center or mission-critical environments\nDeep knowledge of electrical distribution systems, including power redundancy, load balancing, and failure modes\nProficiency with CMMS (Computerized Maintenance Management Systems)\n\nEDUCATION:\n\nAssociate’s or Bachelor’s degree in Electrical Engineering, Facilities Management, or related field\nFamiliarity with environmental control systems (HVAC/BAS), fire life safety systems, and building automation technologies\nExperience with building management systems (BMS), dcTrack or similar infrastructure monitoring tools\nProject management certification (e.g., PMP) or trade certifications (e.g., NICET, LEED)\n\nCERTIFICATION\n\nValid Texas Driver's License (Required)\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "04/23/26",
+        "start_dateStr": 1776902400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "95",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Sanjay Sargara",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Tw9bdoeGIP4kil-J2OyXR560G4slj0vZDGvMQcgphAQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=bnZIMmZ5YnE1bjNabmw4ckFiY0Ridz09&job_id=z5G7h3l6a1kMvyS65NP3c4gjNVNOvelzbWGUNZ_NcKw="
+    }
+  ]
+}

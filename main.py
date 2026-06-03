@@ -256,7 +256,7 @@ class SimplifiedJobScraper:
         finally:
             await context.close()
 
-    async def scrape_all_job_details(self, company: str, max_concurrent: int = 3):
+    async def scrape_all_job_details(self, company: str, max_concurrent: int = 1):
         """Scrape details for all jobs with controlled concurrency, reusing one browser"""
         if not self.job_ids:
             logger.warning("No job IDs to process")
@@ -386,7 +386,7 @@ async def main_multithreaded(date_cutoff_days=15):
     logger.info(f"Starting scraping for {len(companies_data)} companies")
 
     all_job_details = []
-    max_workers = min(2, len(companies_data))  # Reduced from 3 to 2
+    max_workers = 1
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_company = {

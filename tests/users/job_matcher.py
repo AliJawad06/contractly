@@ -20,8 +20,9 @@ from typing import Dict, List, Any
 import re
 from dotenv import load_dotenv
 import os
-
-
+import requests
+from bs4 import BeautifulSoup
+import sys
 load_dotenv()
 
 
@@ -34,13 +35,12 @@ load_dotenv()
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
-
 # Gmail SMTP credentials - UPDATE THESE
 GMAIL_ADDRESS = "03jawad.ali@gmail.com"  # <-- UPDATE THIS
-GMAIL_APP_PASSWORD = "oazl rwfo eqem qetk"  # <-- UPDATE THIS
+GMAIL_APP_PASSWORD = "amsl lafh qbtd gfkc"  # <-- UPDATE THIS
 
 # Path to jobs JSON file
-JOBS_FILE_PATH = "/Users/aj/Downloads/DhikrUp/contractJobs/day/day.json"
+JOBS_FILE_PATH = "/root/contractly/day/day.jsonl"
 
 
 # =============================================================================
@@ -136,10 +136,14 @@ def get_supabase_client() -> Client:
 
 
 def load_jobs_from_file(file_path: str) -> List[Dict[str, Any]]:
-    """Load jobs from JSON file."""
+    """Load jobs from JSONL file."""
+    jobs = []
     with open(file_path, 'r') as f:
-        return json.load(f)
-
+        for line in f:
+            line = line.strip()
+            if line:
+                jobs.append(json.loads(line))
+    return jobs
 
 def upsert_jobs_to_database(supabase: Client, jobs: List[Dict[str, Any]]) -> Dict[str, Any]:
     """
@@ -150,7 +154,6 @@ def upsert_jobs_to_database(supabase: Client, jobs: List[Dict[str, Any]]) -> Dic
     """
     success_count = 0
     failed_jobs = []
-    
     # Deduplicate jobs by URL (keep the last occurrence)
     seen_urls = {}
     for job in jobs:
@@ -158,29 +161,54 @@ def upsert_jobs_to_database(supabase: Client, jobs: List[Dict[str, Any]]) -> Dic
         if url:
             seen_urls[url] = job
     
+
     duplicate_count = len(jobs) - len(seen_urls)
     if duplicate_count > 0:
         print(f"    Found {duplicate_count} duplicate URLs, keeping unique jobs only")
-    
     # Transform deduplicated jobs to match table schema
     job_records = []
     for url, job in seen_urls.items():
+        
+        if "ceipal" in url: url = job.get("apply")
+        description = job.get("description")
+        soup = BeautifulSoup(description, 'html.parser').get_text(separator='\n', strip=True)
+        experience = job.get("experience") 
+        locations = job.get("location")
+
+        loc_string = ", ".join([f"{l['city']}, {l['state']}" for l in locations]) if locations else "N/A"
+        recruiter = job.get("recruiter")
+        if type(recruiter) == list:                  
+                if not recruiter[0]:
+                    recruiter = "N/A"
+                else:
+                    recruiter =  ", ".join(recruiter)
+        else:
+                recruiter = recruiter.get("contact") or "N/A"
+
+
+        if type(job.get("start").get("start_dateStr")) is int:
+            temp = job["start"]["start_date"]
+            job["start"]["start_date"] = job["start"]["start_dateStr"]
+            job["start"]["start_dateStr"] = temp 
+
         job_records.append({
             "url": url,
             "title": job.get("title"),
             "category": job.get("category"),
-            "location": job.get("location"),
-            "description": job.get("description"),
-            "experience": job.get("experience"),
+            "location": loc_string,
+            "description": soup or description,
+            "experience": experience,
             "remote": job.get("remote", 0),
-            "posted": job.get("posted"),
-            "posted_str": job.get("postedStr"),
-            "start": job.get("start"),
-            "start_str": job.get("startStr"),  
-        })
+            "posted": job.get("posted").get("date_posted"),
+            "posted_str": job.get("posted").get("date_postedStr"),
+            "start": job.get("start").get("start_date", "N/A"),
+            "start_str": job.get("start").get("start_dateStr", "N/A"),  
+            "recruiter": recruiter
+            })
     
     # Upsert in batches
     batch_size = 50
+    #len(job_records) -> 50
     for i in range(0, len(job_records), batch_size):
         batch = job_records[i:i + batch_size]
         try:
@@ -215,6 +243,9 @@ def get_all_users(supabase: Client) -> List[Dict[str, Any]]:
     response = supabase.table("profiles").select("*").execute()
     return response.data
 
+def get_user(supabase: Client, email: str) -> Dict[str, Any]:
+    response = supabase.table("profiles").select("*").eq("email", email).execute()
+    return response.data
 
 def clear_user_matched_jobs(supabase: Client, user_id: str) -> None:
     """Clear existing matched jobs for a user."""
@@ -244,7 +275,8 @@ def insert_matched_jobs(supabase: Client, user_id: str, matches: List[Dict[str, 
     
     # Insert in batches
     batch_size = 500
-    for i in range(0, len(records), batch_size):
+    #len(records) -> 50
+    for i in range(0,len(records), batch_size):
         batch = records[i:i + batch_size]
         supabase.table("matched_jobs").insert(batch).execute()
 
@@ -374,8 +406,6 @@ def generate_job_listing_html(job_data: Dict[str, Any], relevancy_score: int) ->
         </tr>
     </table>
     '''
-
-
 def render_email(top_jobs: List[Dict[str, Any]]) -> str:
     """Render the complete email with job listings."""
     template = load_email_template()
@@ -389,29 +419,34 @@ def render_email(top_jobs: List[Dict[str, Any]]) -> str:
     return template.replace("{{JOB_LISTINGS}}", job_listings_html)
 
 
+        
 def send_email(to_email: str, subject: str, html_content: str) -> bool:
-    """Send an HTML email via Gmail SMTP."""
+    """Send an HTML email via Resend API."""
     try:
-        msg = MIMEMultipart('alternative')
-        msg['Subject'] = subject
-        msg['From'] = GMAIL_ADDRESS
-        msg['To'] = to_email
-        
-        html_part = MIMEText(html_content, 'html')
-        msg.attach(html_part)
-        
-        server = smtplib.SMTP("smtp.gmail.com", 587)
-        server.starttls()
-        server.login(GMAIL_ADDRESS, GMAIL_APP_PASSWORD)
-        server.sendmail(GMAIL_ADDRESS, to_email, msg.as_string())
-        server.quit()
-        
-        print(f"    ✓ Email sent to {to_email}")
-        return True
-        
+        response = requests.post(
+            "https://api.resend.com/emails",
+            headers={
+                "Authorization": f"Bearer {os.getenv('RESEND_API_KEY')}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "from": "Contractly <onboarding@resend.dev>",
+                "to": [to_email],
+                "subject": subject,
+                "html": html_content
+            }
+        )
+
+        if response.status_code == 200:
+            print(f"    ✓ Email sent to {to_email}")
+            return True
+        else:
+            print(f"    ✗ Failed to send email to {to_email}: {response.text}")
+            return False
+
     except Exception as e:
         print(f"    ✗ Failed to send email to {to_email}: {e}")
-        return False
+        return False        
 
 
 # =============================================================================
@@ -442,7 +477,7 @@ def process_user(
     print(f"\n  Processing: {user_email or user_id}")
     print(f"    Industries: {user_industries}")
     print(f"    Skills: {user_skills[:5]}{'...' if len(user_skills) > 5 else ''}")
-    
+     
     # Step 1: Find jobs matching user's industries
     matching_jobs = []
     for url, job in all_jobs.items():
@@ -460,10 +495,9 @@ def process_user(
         relevancy_score = calculate_relevancy_score(user_skills, description)
         
         matches.append({
-            "url": job.get("url"),
+            "url": job.get("apply") or job.get("url"),
             "relevancy_score": relevancy_score
-        })
-    
+            })
     # Sort by relevancy score (highest first)
     matches.sort(key=lambda x: x["relevancy_score"], reverse=True)
     
@@ -471,7 +505,6 @@ def process_user(
     if matches:
         print(f"    Saving {len(matches)} matches to database...")
         try:
-            clear_user_matched_jobs(supabase, user_id)
             insert_matched_jobs(supabase, user_id, matches)
             print(f"    ✓ Saved to matched_jobs table")
         except Exception as e:
@@ -485,7 +518,98 @@ def process_user(
     }
 
 
-def main():
+def new_user(email:str):
+    """Main execution function."""
+    print("=" * 60)
+    print("JOB MATCHING AND EMAIL NOTIFICATION SYSTEM")
+    print("=" * 60)
+    
+    # Initialize Supabase client
+    print("\n[1/6] Connecting to Supabase...")
+    supabase = get_supabase_client()
+    print("  ✓ Connected")
+
+    # Load jobs from file
+    print(f"\n[2/6] Loading jobs from {JOBS_FILE_PATH}...")
+    try:
+        jobs_list = load_jobs_from_file(JOBS_FILE_PATH)
+        jobs_list = jobs_list[1:30]
+        print(f"  ✓ Loaded {len(jobs_list)} jobs from file")
+    except FileNotFoundError:
+        print(f"  ✗ File not found: {JOBS_FILE_PATH}")
+        return
+    except json.JSONDecodeError as e:
+        print(f"  ✗ Invalid JSON: {e}")
+        return
+    
+    all_jobs = {job.get("apply") or job.get("url"): job for job in jobs_list}
+
+    # Get all users
+    print("\n[4/6] Fetching users from Supabase...")
+    users = []
+        users = get_user(supabase, email)
+    print(f"  ✓ Found {len(users)} users")
+
+    if not users:
+        print("  No users found. Exiting.")
+        return
+
+    # Process each user
+    print("\n[5/6] Matching jobs to users...")
+    results = []
+    for user in users:
+        result = process_user(supabase, user, all_jobs)
+        results.append(result)
+
+    # Send emails
+    print("\n[6/6] Sending email notifications...")
+    emails_sent = 0
+    emails_failed = 0
+
+    for result in results:
+        user_id = result.get("user_id")
+        email = result.get("email")
+        matched_count = result.get("matched_count", 0)
+
+        if not email:
+            print(f"  Skipping user {user_id} - no email address")
+            continue
+
+        if matched_count == 0:
+            print(f"  Skipping {email} - no matching jobs")
+            continue
+
+        # Get top 2 jobs with full details
+        top_jobs = get_top_jobs_for_user(supabase, user_id, limit=2)
+
+        if not top_jobs:
+            print(f"  Skipping {email} - could not fetch top jobs")
+            continue
+
+        # Render and send email
+        html_content = render_email(top_jobs)
+        subject = f"🎯 {len(top_jobs)} New Job Match{'es' if len(top_jobs) > 1 else ''} For You!"
+
+        if send_email(email, subject, html_content):
+            emails_sent += 1
+        else:
+            emails_failed += 1
+
+    # Summary
+    print("\n" + "=" * 60)
+    print("SUMMARY")
+    print("=" * 60)
+    print(f"Users processed: {len(users)}")
+    print(f"Jobs in database: {len(jobs_list)}")
+    print(f"Emails sent: {emails_sent}")
+    print(f"Emails failed: {emails_failed}")
+    print("=" * 60)
+
+    # Store jobs in database
+
+
+
+def main(email = ""):
     """Main execution function."""
     print("=" * 60)
     print("JOB MATCHING AND EMAIL NOTIFICATION SYSTEM")
@@ -500,6 +624,7 @@ def main():
     print(f"\n[2/6] Loading jobs from {JOBS_FILE_PATH}...")
     try:
         jobs_list = load_jobs_from_file(JOBS_FILE_PATH)
+        jobs_list = jobs_list[1:30]
         print(f"  ✓ Loaded {len(jobs_list)} jobs from file")
     except FileNotFoundError:
         print(f"  ✗ File not found: {JOBS_FILE_PATH}")
@@ -525,9 +650,8 @@ def main():
         print(f"  ✗ Failed to store jobs: {e}")
         print("  Make sure you've run setup_tables.sql first!")
         return
-    
     # Create a dict for quick lookup
-    all_jobs = {job.get("url"): job for job in jobs_list}
+    all_jobs = {job.get("apply") or job.get("url"): job for job in jobs_list}
     
     # Get all users
     print("\n[4/6] Fetching users from Supabase...")
@@ -589,4 +713,5 @@ def main():
     print(f"Emails failed: {emails_failed}")
     print("=" * 60)
 
-
+if __name__ == "__main__":
+    main()

@@ -1,4 +1,5 @@
-import os
+import os:
+:q
 import pandas as pd
 
 # Folder containing the CSVs (change this if needed)

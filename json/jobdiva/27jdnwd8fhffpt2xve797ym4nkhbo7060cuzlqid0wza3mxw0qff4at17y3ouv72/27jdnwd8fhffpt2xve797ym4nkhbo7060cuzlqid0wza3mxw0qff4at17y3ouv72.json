@@ -1,0 +1,662 @@
+[
+  {
+    "id": 32400368,
+    "title": "Packaging Associate INT",
+    "location": "VI, Sturtevant",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/3/2026",
+      "date_posted": 1780514713000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Requisition ID:<br />\r\nHCR0003221<br />\r\n<br />\r\nJob Title:<br />\r\nPackaging Associate INT<br />\r\n<br />\r\n<label for=\"null\" id=\"null\" name=\"null\" sm-content=\"id name for text\" sm-id=\"JobDescrLbl\" sm-parent=\"JobDescrLblWrpr\" sm-source=\"label,span:not([id*='$star'])\">Job Description:</label><br />\r\nPack or package by hand a wide variety of products and materials.<br />\r\nHours<br />\r\nMonday - Thursday 2:30pm - 1 am<br />\r\nFriday - OT<br />\r\nHourly Rate $21.00<br />\r\nProficiency in fundamental computer operations is required<br />\r\nMust be able to pass vision testing requirements (with or without corrective eyewear)<br />\r\n ",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32400368",
+    "time_scraped": 1780517078802,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32397825,
+    "title": "App Support",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/3/2026",
+      "date_posted": 1780497418000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<ul>\r\n\t<li>Java or Python developers with good Experience of troubleshooting/Debugging the code issues</li>\r\n\t<li>SME in K8s/containerization concepts.</li>\r\n\t<li>Telecom domain experience is a must-have</li>\r\n\t<li>Excellent Oral and Written communications skills</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32397825",
+    "time_scraped": 1780517078737,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32396685,
+    "title": "Monitoring & Observability Engineer",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/3/2026",
+      "date_posted": 1780484859000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p><b>Monitoring &amp; Observability Engineer </b>will design, build, and implement monitoring frameworks for modern cloud-native applications. This role focuses on engineering observability solutions, not just consuming dashboards or alerts.</p>\r\n\r\n<p><b>Key Responsibilities</b></p>\r\n\r\n<p>&bull;     Design and develop end-to-end monitoring and observability solutions.</p>\r\n\r\n<p>&bull;     Create, deploy, migrate, and standardize Datadog monitors, dashboards, reports, and SLOs.</p>\r\n\r\n<p>Required Skills</p>\r\n\r\n<p>&middot;                  Kubernetes monitoring expertise</p>\r\n\r\n<p>&middot;                  AWS: CloudWatch, EC2, Lambda, EKS</p>\r\n\r\n<p>&middot;                  Datadog (Must-Have): monitors, dashboards, alerts, reports, migrations</p>\r\n\r\n<p>&middot;                  Splunk: logs, dashboards, alerts</p>\r\n\r\n<p>&middot;                  Python for automation</p>\r\n\r\n<p>&middot;                  Ansible playbooks</p>\r\n\r\n<p>&middot;                  Strong SQL skills</p>\r\n\r\n<p align=\"center\">1</p>\r\n\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\r\n</table>\r\n",
+    "recruiter": [
+      "Harshita Upadhyay",
+      "Harshita@infowaygroup.com",
+      "7389811796"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396685",
+    "time_scraped": 1780517078892,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32396660,
+    "title": "Senior DevOps Engineer + AI/ML",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/3/2026",
+      "date_posted": 1780484737000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p>Drive the AI, Automation initiatives within the team</p>\r\n\r\n<p>DevOps Background experience</p>\r\n\r\n<ol start=\"1\" type=\"1\">\r\n\t<li>Infra (Cloud, OnPrem)</li>\r\n\t<li>CICD</li>\r\n\t<li>Observability (Monitoring)</li>\r\n\t<li>Basic Development Background</li>\r\n</ol>\r\n\r\n<p> <b>AI skills</b> : Amazon Q and KIRO</p>\r\n",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396660",
+    "time_scraped": 1780517088004,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32396621,
+    "title": "Sr. Monitoring Arch Design",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/3/2026",
+      "date_posted": 1780484565000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": " \r\n<ul type=\"disc\">\r\n\t<li>Log ingestion, Anomaly monitoring, Synthetic test, Custom metrics, APM instrumentation, DB Monitoring.</li>\r\n\t<li><b>Experience in setting up end-to-end monitoring (Infra, APM, Alerts, Dashboards across both Splunk/DataDog) based on the HLDs/LLDs shared</b></li>\r\n\t<li><b>SME-</b>Splunk</li>\r\n\t<li>Skilled in Datadog, Grafana, Prometheus</li>\r\n</ul>\r\n<br />\r\n ",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396621",
+    "time_scraped": 1780517088037,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32396546,
+    "title": "Y2 Retail platform BA",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/3/2026",
+      "date_posted": 1780482686000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Various experiences as IS Business Analyst in Retail&#39;s domain &middot; Strong skills in Retail processes &middot; Functional and technical expertise in the solution Cegid Retail Y2 (Proficiency in the various modules of the solution, configuration, creation of SQL queries, etc.) &middot; Ability to grasp, unders",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396546",
+    "time_scraped": 1780517088161,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32395703,
+    "title": "XCUI + API Automation Engineer",
+    "location": "CA, Cupertino",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/2/2026",
+      "date_posted": 1780439821000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Position Title    # Open Positions    Location    Rate    JD    Must Haves<br />\r\nXCUI &plus; API Automation Engineer    1    Cupertino    Max 60    Minimum # years of experience    proficiency with UI automation tools, XCUI is must have<br />\r\n5 days in office    3-5 years     <br />\r\n     Tools/technologies    expert in Java automation   <br />\r\n     Programming Languages: Java, Python, Swift.     <br />\r\n     UI Automation Tools: Selenium WebDriver, Playwright, XCUITest.     <br />\r\n     API Automation Tools: Postman (for manual testing/prototyping) and Rest Assured, TestNG (for API automation frameworks).     <br />\r\n     Test Runners/Frameworks: TestNG, PyTest.     <br />\r\n     Version Control: Git     <br />\r\n     Specific automation skills     <br />\r\n     Framework Design: Experience establishing and maintaining industry-standard design patterns like the Page Object Model (POM) for UI and Data-Driven approaches.     <br />\r\n     CI/CD Integration: Ability to orchestrate and run automated test suites on a schedule within pipelines.     <br />\r\n     Server Testing: Understanding of RESTful APIs, JSON/XML data formats, and handling HTTP status codes.     <br />\r\n     Experience working with Apple devices (iPhone, iPad, Mac, Watch etc.).       <br />\r\n                          ",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32395703",
+    "time_scraped": 1780517097704,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32395583,
+    "title": "CI CD-DevOps, M-scripting, C/C++ Competency",
+    "location": "FL, Sunrise",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/2/2026",
+      "date_posted": 1780438150000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p data-ogsb=\"white\">Location &ndash; Sunrise FL</p>\r\n\r\n<p data-ogsb=\"white\"><b data-ogsc=\"\">Mandatory skills- Primary Skills- </b><b data-ogsc=\"\">CI CD-</b><b data-ogsc=\"\">DevOps, M-scripting, C/C&plus;&plus; Competency</b><b data-ogsc=\"\"> with Automotive Experience.</b></p>\r\n\r\n<p data-ogsb=\"white\"> </p>\r\n<button aria-label=\"Show original size\" title=\"Show original size\" type=\"button\"><i aria-hidden=\"true\" fill=\"currentColor\"></i></button>\r\n\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" data-editing-info=\"{&quot;topBorderColor&quot;:&quot;#000000&quot;,&quot;bottomBorderColor&quot;:&quot;#000000&quot;,&quot;verticalBorderColor&quot;:&quot;#000000&quot;,&quot;hasHeaderRow&quot;:false,&quot;hasFirstColumn&quot;:false,&quot;hasBandedRows&quot;:true,&quot;hasBandedColumns&quot;:false,&quot;bgColorEven&quot;:null,&quot;bgColorOdd&quot;:&quot;#CCCCCC&quot;,&quot;headerRowColor&quot;:&quot;#000000&quot;,&quot;tableBorderFormat&quot;:0,&quot;verticalAlign&quot;:null}\" id=\"x_x_table_0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\"><b>Experience required</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\">4(yrs) 0 (Months)</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(62, 128, 149)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p><b>Qualification</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p>B.E/B.Tech, master&#39;s in engineering</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\"><b>Domain Knowledge</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\">Experience in automotive ADAS systems. Knowledge about ECU software development, control models and application software.. Knowledge of software development life cycle (SDLC) models, including V-cycle and Agile methodologies.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(62, 128, 149)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p><b>Job Description</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p>Onsite Engineer - to support from Sunrise Florida &bull; Standardize pipeline scripting across teams and environments- prioritizing maintainability and readability. &bull; Monitor and maintain CI/CD builds and testing, analyze trends, and implement continuous improvements for reliability and build times. &bull; Develop and maintain Confluence WIKI documentation for tools and processes. &bull; Contribute to team results through ownership in agile scrum development sprints. &bull; Participate in code review activities to ensure changes follow best practices and stay up to date on the team&#39;s solutions. &bull; Collaborate frequently with various external teams (software developers, Corporate IT, Security, etc.).</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\"><b>Skill Set</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\">DevOps, M-scripting, C/C&plus;&plus;.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p data-ogsb=\"white\"> </p>\r\n<br />\r\n ",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32395583",
+    "time_scraped": 1780517097836,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32395224,
+    "title": "Pharmacy Technician 2",
+    "location": "MI, Canton",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/2/2026",
+      "date_posted": 1780436160000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p><b data-olk-copy-source=\"MessageBody\">Description:</b></p>\r\n<b>Summary:</b><br />\r\nThe Pharmacy Technician Fulfillment assists in the preparation and distribution of drug products. The Technician is responsible for preparing prescription medications using the fulfillment system.<br />\r\n<b>Job Responsibilities:</b> \r\n\r\n<ul>\r\n\t<li>Process prescription exceptions, which may include resolving claim rejects and outreach to members and physicians.</li>\r\n\t<li>Enter member demographics and prescription information into the data processing system.</li>\r\n\t<li>Research and resolve rejected insurance billing issues and/or escalated member issues.</li>\r\n\t<li>Escalate questions regarding prescriptions to a Pharmacist for interpretation or provide direction on processing.</li>\r\n\t<li>Assist with inbound and/or outbound calls from patients or physicians.</li>\r\n\t<li>Other duties as assigned.</li>\r\n</ul>\r\n<b>Skills:</b>\r\n\r\n<ul>\r\n\t<li>Education: High School diploma.</li>\r\n\t<li>2-4 years of Pharmacy Technician experience.</li>\r\n\t<li>Current Pharmacy Registration and Certification as required by the state of operation.</li>\r\n\t<li>Basic computer skills.</li>\r\n</ul>\r\n<b>Work Location: <a data-auth=\"NotApplicable\" data-linkindex=\"2\" href=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\">41460 Haggerty Cir S</a> </b><br />\r\n <b><a data-auth=\"NotApplicable\" data-linkindex=\"3\" href=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\">Canton Township, MI 48188</a></b>",
+    "recruiter": [
+      "Lokeeswaran Infoway",
+      "lokeeswaran@infowaygroup.com",
+      "5102280663"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32395224",
+    "time_scraped": 1780517097875,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32394779,
+    "title": "Kotlin Developer",
+    "location": "NC, Raleigh",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/2/2026",
+      "date_posted": 1780433527000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p>Kotlin Developer</p>\r\n\r\n<p>Sunnyvale, CA and Raleigh , NC</p>\r\n\r\n<p> </p>\r\n\r\n<p>JD:</p>\r\n\r\n<p>Strong Kotlin, Java, AWS, DynamoDB (Developers should be able to do some DevOps work so they are self-sufficient and can handle basic rotation support work)</p>\r\n\r\n<p> </p>\r\n\r\n<p>About the program :</p>\r\n\r\n<p>The project re-architects Apple&#39;s core provisioning platform, critical for transforming user credentials into Wallet&#39;Passes&#39;. </p>\r\n\r\n<p>The existing system is an outdated, complex, and monolithic architecture, leading to scalability and domain-driven, layered architecture to unify provisioning across all Wallet offerings. </p>\r\n\r\n<p>The project aims to create a flexible, scalable, and consistent platform, designed for faster development velocity and enhanced resilience. </p>\r\n\r\n<p>It supports both Platform-as-a-Service and custom composition models for diverse integration needs.</p>\r\n",
+    "recruiter": [
+      "Jayaraman Infoway",
+      "jayaraman@infowaygroup.com",
+      "9252415719"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32394779",
+    "time_scraped": 1780517108663,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32394152,
+    "title": "Support Lead – Teamcenter PLM Production Support",
+    "location": "CA, Sunyvale",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/2/2026",
+      "date_posted": 1780429007000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br />\r\n<b data-olk-copy-source=\"MessageBody\">Support Lead &ndash; Teamcenter PLM Production Support</b><br />\r\n <br />\r\n<b>Role Summary</b><br />\r\nExperienced Support Lead responsible for managing production support operations for a large-scale Teamcenter PLM platform supporting global engineering and business teams. The role involves leading incident management, deployment coordination, operational governance, and hypercare support across multiple POD teams and enterprise integrations.<br />\r\nActs as the central operational lead coordinating Business, QA, Development, DevOps, Infrastructure, and Vendor teams to ensure production stability, timely issue resolution, and smooth day-to-day operations in a highly customized Teamcenter ecosystem.\r\n<hr /><br />\r\n<br />\r\n<b>Key Responsibilities</b><br />\r\n<b>Production Support &amp; Incident Management</b>\r\n\r\n<ul>\r\n\t<li>Lead day-to-day production support activities for Teamcenter PLM applications and integrations.</li>\r\n\t<li>Manage incident triage, prioritization, escalation handling, and resolution tracking.</li>\r\n\t<li>Drive P1/P2 issue management, RCA reviews, and preventive action tracking.</li>\r\n\t<li>Ensure adherence to support SLAs, operational KPIs, and response timelines.</li>\r\n</ul>\r\n<b>Release &amp; Deployment Coordination</b>\r\n\r\n<ul>\r\n\t<li>Coordinate production deployments, release readiness reviews, and validation tracking.</li>\r\n\t<li>Partner with QA, DevOps, and Engineering teams during deployment and hypercare windows.</li>\r\n\t<li>Ensure deployment governance, rollback readiness, and operational controls are followed.</li>\r\n</ul>\r\n<b>Cross-Functional Coordination</b>\r\n\r\n<ul>\r\n\t<li>Coordinate activities across Business, QA, Development, DevOps, Infrastructure, and Vendor teams.</li>\r\n\t<li>Manage follow-the-sun support operations across IST and PDT/CDT teams.</li>\r\n\t<li>Facilitate operational reviews, support triage calls, and escalation meetings.</li>\r\n</ul>\r\n<b>Operational Governance &amp; Reporting</b>\r\n\r\n<ul>\r\n\t<li>Publish support dashboards and operational metrics including SLA adherence, incident aging, and deployment success trends.</li>\r\n\t<li>Support leadership reviews, escalation governance, and continuous improvement initiatives.</li>\r\n\t<li>Drive standardization of support processes, incident tracking, and operational controls.</li>\r\n</ul>\r\n\r\n<hr /><br />\r\n<br />\r\n<b>Required Skills &amp; Experience</b>\r\n\r\n<ul>\r\n\t<li>8&plus; years of experience in application production support or support operations.</li>\r\n\t<li>Strong experience supporting Teamcenter PLM or enterprise engineering applications.</li>\r\n\t<li>Experience managing global support teams and production incidents.</li>\r\n\t<li>Strong understanding of release management, deployments, and operational governance.</li>\r\n\t<li>Excellent stakeholder communication and escalation management skills.</li>\r\n\t<li>Experience working in highly customized enterprise environments with multiple integrations.</li>\r\n</ul>\r\n\r\n<hr /><br />\r\n<br />\r\n<b>Key Competencies</b>\r\n\r\n<ul>\r\n\t<li>Strong operational ownership</li>\r\n\t<li>Incident and escalation management</li>\r\n\t<li>Cross-functional coordination</li>\r\n\t<li>Structured problem-solving</li>\r\n\t<li>High-pressure production support management</li>\r\n\t<li>Strong stakeholder management</li>\r\n</ul>\r\n\r\n<hr /><br />\r\n<br />\r\n<b>Success Metrics</b>\r\n\r\n<ul>\r\n\t<li>Production stability and SLA adherence</li>\r\n\t<li>Faster incident resolution and reduced aging</li>\r\n\t<li>Deployment success rate</li>\r\n\t<li>Reduction in recurring production issues</li>\r\n\t<li>Effective hypercare and steady-state support transition</li>\r\n\t<li>Stakeholder satisfaction</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Jayaraman Infoway",
+      "jayaraman@infowaygroup.com",
+      "9252415719"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32394152",
+    "time_scraped": 1780517108434,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32389296,
+    "title": "SAP FICO Consultant",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/2/2026",
+      "date_posted": 1780396877000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p><b data-olk-copy-source=\"MessageBody\">Job Description:</b></p>\r\n\r\n<p> </p>\r\n\r\n<p>We are looking for an experienced SAP FICO Consultant with strong expertise in SAP Finance (FI) and Controlling (CO) modules. The ideal candidate should possess hands-on experience in SAP implementation, configuration, support, and enhancement projects. The consultant should be capable of gathering business requirements, designing solutions, performing system configurations, and providing end-user support.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Key Requirements:</p>\r\n\r\n<p>&bull; Strong experience in SAP FI and CO modules</p>\r\n\r\n<p>&bull; Experience in implementation, rollout, or support projects</p>\r\n\r\n<p>&bull; Good understanding of business processes related to Finance and Controlling</p>\r\n\r\n<p>&bull; Ability to work independently and interact with business stakeholders</p>\r\n\r\n<p>&bull; Strong problem-solving and communication skills</p>\r\n\r\n<p>&bull; Experience in SAP S/4HANA will be an added advantage</p>\r\n",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32389296",
+    "time_scraped": 1780517108659,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32389094,
+    "title": "Denodo Developer ",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/2/2026",
+      "date_posted": 1780390743000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p>Role: Denodo Developer</p>\r\n\r\n<p>Experience: 5&ndash;10 Years</p>\r\n\r\n<p>Location: Pune</p>\r\n\r\n<p> </p>\r\n\r\n<p>Primary Skills:</p>\r\n\r\n<p> </p>\r\n\r\n<p>Denodo</p>\r\n\r\n<p>Data Virtualization</p>\r\n\r\n<p>VQL</p>\r\n\r\n<p>AWS (S3, Redshift, Glue, Lambda)</p>\r\n\r\n<p>SQL</p>\r\n\r\n<p>Secondary Skills:</p>\r\n\r\n<p> </p>\r\n\r\n<p>ETL / Data Integration</p>\r\n\r\n<p>REST APIs</p>\r\n\r\n<p>Snowflake / Data Warehousing</p>\r\n\r\n<p>Performance Tuning</p>\r\n\r\n<p>BI Tools (Tableau / Power BI)</p>\r\n\r\n<p>Job Summary:</p>\r\n\r\n<p>Looking for a Denodo Developer with AWS experience to build data virtualization solutions, integrate multiple data sources, and support scalable data architecture</p>\r\n",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32389094",
+    "time_scraped": 1780517118438,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32388555,
+    "title": "SAP FICO Consultant INDIA ",
+    "location": "",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/1/2026",
+      "date_posted": 1780356551000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<strong><span style=\"font-size:12.0pt;\">Hi Team,</span></strong><br />\r\n <br />\r\n<strong><span style=\"font-size:12.0pt;\">Kindly find the below requirement for SAP FICO Consultant.</span></strong><br />\r\n <br />\r\n<strong><span style=\"font-size:12.0pt;\">Position: SAP FICO Consultant</span></strong><br />\r\n<strong><span style=\"font-size:12.0pt;\">Location: India (Remote)</span></strong><br />\r\n<strong><span style=\"font-size:12.0pt;\">Experience Level: Mid-Senior</span></strong><br />\r\n<br />\r\n<br />\r\n<strong><span style=\"font-size:18.0pt;\">Manager name - Anirudh Das -- Program Director, Enterprise Solutions at Tata Consultancy Services<br />\r\nEmail to send the resumes - <a href=\"mailto:Ani.das@tcs.com\">Ani.das@tcs.com</a></span></strong><br />\r\n <br />\r\n<br />\r\n<span style=\"font-size:12.0pt;\"><strong>Job Description:</strong></span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">We are looking for an experienced SAP FICO Consultant with strong expertise in SAP Finance (FI) and Controlling (CO) modules. The ideal candidate should possess hands-on experience in SAP implementation, configuration, support, and enhancement projects. The consultant should be capable of gathering business requirements, designing solutions, performing system configurations, and providing end-user support.</span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">Key Requirements:</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Strong experience in SAP FI and CO modules</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Experience in implementation, rollout, or support projects</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Good understanding of business processes related to Finance and Controlling</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Ability to work independently and interact with business stakeholders</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Strong problem-solving and communication skills</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Experience in SAP S/4HANA will be an added advantage</span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">This is a remote opportunity for candidates located in India.</span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">Please share suitable profiles for review.</span><br />\r\n<br />\r\n ",
+    "recruiter": [
+      "Nirmal Sharma",
+      "nirmal.sharma@infowaygroup.com",
+      "9111941541"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32388555",
+    "time_scraped": 1780517118340,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32388523,
+    "title": "Principal NSX Architect",
+    "location": "CA, Rosemead",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/1/2026",
+      "date_posted": 1780355272000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Role Overview\r\n<p>As a Field Principal NSX Architect, you will lead the strategic design and modernization of network infrastructure for client. You will serve as the SME for VMware Cloud Foundation (VCF) 9.1, transitioning legacy SDDC environments into a unified, high-performance networking stack. This includes high-level design (HLD), low-level design (LLD), and technical mentorship for deployment teams.</p>\r\n\r\n<p>Key Responsibilities</p>\r\n\r\n<ul>\r\n\t<li>Architectural Design: Lead NSX design and implementation within VCF 9.1, focusing on unified multi-vCenter management and modernized topologies.</li>\r\n\t<li>Technical Leadership: Act as the primary lead for Broadcom and Client engineers; facilitate architecture review boards and ensure adherence to best practices.</li>\r\n\t<li>Design Validation: Oversee HLD/LLD documentation and conduct peer reviews for scalable architectures.</li>\r\n\t<li>Enterprise Architecture: Integrate Broadcom solutions (VCF, Tanzu, NSX, vSAN) into the existing IT landscape, developing detailed blueprints and implementation guides.</li>\r\n\t<li>PoC Guidance: Design and oversee Proof of Concepts to demonstrate solution benefits.</li>\r\n</ul>\r\n\r\n<p>Technical Requirements</p>\r\n\r\n<ul>\r\n\t<li>VCF 9.0 Expertise: Deep familiarity with VCF 9.0, including Networking underlay and Arista interoperation.</li>\r\n\t<li>NSX Mastery: Advanced experience with NSX 4.x/9.x (Overlay/Underlay, VPC topologies, BGP, and Load Balancing).</li>\r\n\t<li>Training: Completion of official VMware/Broadcom VCF 9.0 enablement or equivalent certification.</li>\r\n\t<li>Enterprise Experience: Proven track record with Fortune 100 financial institutions.</li>\r\n</ul>\r\n\r\n<p><b>-Python/Ansible experience</b></p>\r\n\r\n<p>Preferred Qualifications</p>\r\n\r\n<ul>\r\n\t<li>VCDX-NV, VCF Architect, or VCF Administrator certifications.</li>\r\n\t<li>Experience with VCF Automation (formerly Aria) and Infrastructure as Code (Terraform/Ansible).</li>\r\n\t<li>Familiarity with financial industry security protocols and change management.</li>\r\n</ul>\r\n\r\n<p>Core Competencies for VCF 9.1 Transition</p>\r\n\r\n<p>The architect must be familiar with new VCF 9.1 concepts, including:</p>\r\n\r\n<ul>\r\n\t<li>Unified Fleet Management: Managing multiple instances without Enhanced Linked Mode.</li>\r\n\t<li>Configuration Profiles: Declarative cluster-level configurations.</li>\r\n\t<li>VCF Installer: New unified deployment workflows.</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Hema Chandiran Infoway",
+      "hemachandiran@infowaygroup.com",
+      "9252664471"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32388523",
+    "time_scraped": 1780517118358,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32387732,
+    "title": "Financial Analyst",
+    "location": "IL, Deerfield",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/1/2026",
+      "date_posted": 1780346394000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p>Job description:</p>\r\n\r\n<p><b>Summary:</b></p>\r\n\r\n<p>The main functions of a financial analyst are to gather and analyze financial information; will typically conduct quantitative analyses of information affecting investment programs of public or private institutions. A typical financial analyst is responsible for analyzing and communicating financial information for clients.</p>\r\n\r\n<p><b>Job Responsibilities:</b></p>\r\n\r\n<ul>\r\n\t<li>Assemble spreadsheets and draw charts and graphs used to illustrate technical reports.</li>\r\n\t<li>Analyze financial information to produce a forecast of business, industry and economic conditions for use in making investment decisions.</li>\r\n\t<li>Interpret data affecting investment programs, such as price, yield, stability and future trends in investment risks.</li>\r\n</ul>\r\n\r\n<p><b>Skills:</b></p>\r\n\r\n<ul>\r\n\t<li>Verbal and written communication skills, attention to detail, and critical thinking.</li>\r\n\t<li>Basic ability to work independently and manage one&Acirc;&#39;s time.</li>\r\n\t<li>Basic ability to analyze business trends and project future revenues and expenses.</li>\r\n\t<li>Basic knowledge of economic and accounting principles, the financial markets, and reporting of financial data.</li>\r\n\t<li>Basic knowledge of federal, state, and company policies, procedures and regulations as related to accounting.</li>\r\n\t<li>Previous experience with computer applications, such as Microsoft Word, Excel and PowerPoint, and any other related financial software.</li>\r\n</ul>\r\n\r\n<p><b>Education/Experience:</b></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in accounting or related financial discipline required. An advanced degree in a financial discipline is preferred.</li>\r\n\t<li>0-2 years of financial and/or accounting experience required.</li>\r\n</ul>\r\n\r\n<p><b>Location: 104 Wilmot Rd, Deerfield, IL 60015</b></p>\r\n",
+    "recruiter": [
+      "Lokeeswaran Infoway",
+      "lokeeswaran@infowaygroup.com",
+      "5102280663"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32387732",
+    "time_scraped": 1780517127783,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32385284,
+    "title": "Full Stack Developer",
+    "location": "None, Greater Toronto Area",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/1/2026",
+      "date_posted": 1780333825000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<h1>Full Stack Developer</h1>\r\n\r\n<p><strong>Location:</strong> Austin, TX<br />\r\n </p>\r\n\r\n<h2>Job Description</h2>\r\n\r\n<h3>1. Full Stack Development Expertise</h3>\r\n\r\n<ul>\r\n\t<li>5&plus; years of hands-on experience designing, developing, and deploying end-to-end web applications.</li>\r\n\t<li>Strong proficiency in frontend technologies such as React, Angular, or Vue.js.</li>\r\n\t<li>Strong backend development experience using Node.js, Java, or Python.</li>\r\n</ul>\r\n\r\n<h3>2. API Design &amp; Integration</h3>\r\n\r\n<ul>\r\n\t<li>Proven experience building and consuming RESTful and/or GraphQL APIs.</li>\r\n\t<li>Experience integrating third-party and internal services.</li>\r\n\t<li>Familiarity with API lifecycle management, versioning, and sandbox/test environment deployments.</li>\r\n</ul>\r\n\r\n<h3>3. Cloud &amp; DevOps Fundamentals</h3>\r\n\r\n<ul>\r\n\t<li>Working knowledge of cloud platforms such as AWS, GCP, or Azure.</li>\r\n\t<li>Experience with CI/CD pipelines and deployment automation.</li>\r\n\t<li>Hands-on experience with containerization technologies including Docker and Kubernetes.</li>\r\n\t<li>Understanding of environment variable management and secrets management best practices.</li>\r\n</ul>\r\n\r\n<h3>4. Event-Driven Architecture</h3>\r\n\r\n<ul>\r\n\t<li>Experience working with message streaming or event-driven systems such as Kafka or similar technologies.</li>\r\n\t<li>Ability to support asynchronous communication between microservices within distributed environments.</li>\r\n</ul>\r\n\r\n<h3>5. Database Proficiency</h3>\r\n\r\n<ul>\r\n\t<li>Strong command of relational databases including PostgreSQL and MySQL.</li>\r\n\t<li>Experience with NoSQL databases such as MongoDB and DynamoDB.</li>\r\n\t<li>Knowledge of schema design, query optimization, and scalable data modeling practices.</li>\r\n</ul>\r\n\r\n<h3>6. Collaboration &amp; Agile Delivery</h3>\r\n\r\n<ul>\r\n\t<li>Demonstrated ability to collaborate effectively with product, design, and engineering teams.</li>\r\n\t<li>Experience working within Agile/Scrum development environments.</li>\r\n\t<li>Proven track record of delivering features iteratively while maintaining high code quality.</li>\r\n\t<li>Commitment to code reviews, testing best practices, and continuous improvement.</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Ashish Infoway",
+      "ashish.m@infowaygroup.com",
+      "9253994684"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32385284",
+    "time_scraped": 1780517127658,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32385080,
+    "title": "Senior .NET Developer",
+    "location": "",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/1/2026",
+      "date_posted": 1780332221000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<h2>Job Title: Senior .NET Developer</h2>\r\n\r\n<p><strong>Client:</strong> Cognizant/End client not disclosed yet<br />\r\n<strong>Location:</strong> Remote<br />\r\n<strong>Experience:</strong> 10&plus; Years</p>\r\n\r\n<hr />\r\n<h2>Job Summary</h2>\r\n\r\n<p>We are seeking a highly skilled Senior .NET Developer with strong coding expertise and extensive experience in building enterprise-scale applications using .NET Core, C#, GCP, and Microservices architecture. The ideal candidate should have hands-on experience with cloud-native development, messaging systems, containerization, and team leadership.</p>\r\n\r\n<hr />\r\n<h2>Mandatory Skills</h2>\r\n\r\n<h3>.NET Development</h3>\r\n\r\n<ul>\r\n\t<li>10&plus; years of experience developing enterprise applications</li>\r\n\t<li>C#.NET</li>\r\n\t<li>.NET Core</li>\r\n\t<li>Entity Framework</li>\r\n\t<li>Backend Service Development</li>\r\n</ul>\r\n\r\n<h3>Cloud Technologies</h3>\r\n\r\n<ul>\r\n\t<li>Google Cloud Platform (GCP)</li>\r\n\t<li>Cloud-native application development</li>\r\n\t<li>GCP Spanner</li>\r\n\t<li>Firestore</li>\r\n\t<li>Functions &amp; Triggers</li>\r\n\t<li>Stored Procedures</li>\r\n</ul>\r\n\r\n<h3>Messaging &amp; Integration</h3>\r\n\r\n<ul>\r\n\t<li>Google Pub/Sub</li>\r\n\t<li>Kafka</li>\r\n\t<li>Queue-based architectures</li>\r\n</ul>\r\n\r\n<h3>Architecture &amp; Development</h3>\r\n\r\n<ul>\r\n\t<li>Microservices Architecture</li>\r\n\t<li>Scalable, secure, and high-performance applications</li>\r\n\t<li>Design Principles &amp; Solution Design</li>\r\n\t<li>Application Performance Tuning</li>\r\n</ul>\r\n\r\n<h3>Containers &amp; Orchestration</h3>\r\n\r\n<ul>\r\n\t<li>Docker</li>\r\n\t<li>Kubernetes</li>\r\n\t<li>Containerization Technologies</li>\r\n</ul>\r\n\r\n<h3>Development Practices</h3>\r\n\r\n<ul>\r\n\t<li>Code Reviews</li>\r\n\t<li>Unit Testing</li>\r\n\t<li>Application Deployment</li>\r\n\t<li>Agile Framework</li>\r\n\t<li>Team Leadership &amp; Mentoring</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Key Responsibilities</h2>\r\n\r\n<ul>\r\n\t<li>Design and develop scalable backend services using C# and .NET Core</li>\r\n\t<li>Build cloud-native applications on Google Cloud Platform</li>\r\n\t<li>Develop and support microservices-based solutions</li>\r\n\t<li>Participate in architecture, design, development, validation, and support activities</li>\r\n\t<li>Perform code reviews and ensure coding best practices</li>\r\n\t<li>Troubleshoot development and production issues across multiple environments</li>\r\n\t<li>Lead and mentor development teams</li>\r\n\t<li>Collaborate in Agile development processes</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Good to Have Skills</h2>\r\n\r\n<ul>\r\n\t<li>DevOps using open-source tools</li>\r\n\t<li>GitHub Actions</li>\r\n\t<li>Git Source Control</li>\r\n\t<li>Agile &amp; Scrum Methodologies</li>\r\n\t<li>Pub/Sub and Messaging Platforms</li>\r\n\t<li>Strong analytical and problem-solving skills</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Technology Stack</h2>\r\n\r\n<h3>Languages &amp; Frameworks</h3>\r\n\r\n<ul>\r\n\t<li>C#.NET</li>\r\n\t<li>.NET Core</li>\r\n\t<li>Entity Framework</li>\r\n</ul>\r\n\r\n<h3>Cloud Platform</h3>\r\n\r\n<ul>\r\n\t<li>Google Cloud Platform (GCP)</li>\r\n</ul>\r\n\r\n<h3>Compute &amp; Orchestration</h3>\r\n\r\n<ul>\r\n\t<li>Google Kubernetes Engine (GKE)</li>\r\n\t<li>Cloud Run</li>\r\n\t<li>App Engine</li>\r\n</ul>\r\n\r\n<h3>Storage &amp; Databases</h3>\r\n\r\n<ul>\r\n\t<li>Cloud Storage</li>\r\n\t<li>Spanner</li>\r\n\t<li>Firestore</li>\r\n</ul>\r\n\r\n<h3>Networking &amp; Security</h3>\r\n\r\n<ul>\r\n\t<li>Cloud Load Balancing</li>\r\n\t<li>Cloud Service Mesh</li>\r\n\t<li>Google Cloud Armor</li>\r\n</ul>\r\n\r\n<h3>API Management</h3>\r\n\r\n<ul>\r\n\t<li>Apigee</li>\r\n</ul>\r\n\r\n<h3>Messaging &amp; Integration</h3>\r\n\r\n<ul>\r\n\t<li>Pub/Sub</li>\r\n\t<li>Workflows</li>\r\n\t<li>Kafka</li>\r\n</ul>\r\n\r\n<h3>Developer Tools &amp; CI/CD</h3>\r\n\r\n<ul>\r\n\t<li>Git</li>\r\n\t<li>GitHub Actions</li>\r\n\t<li>Gemini / GHCP</li>\r\n\t<li>Artifact Registry</li>\r\n</ul>\r\n\r\n<h3>Monitoring &amp; Operations</h3>\r\n\r\n<ul>\r\n\t<li>Cloud Monitoring</li>\r\n\t<li>Cloud Logging</li>\r\n\t<li>Cloud Trace</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Preferred Qualifications</h2>\r\n\r\n<ul>\r\n\t<li>Experience with Data Warehouse concepts</li>\r\n\t<li>Strong understanding of cloud-native architecture</li>\r\n\t<li>Experience leading development teams</li>\r\n\t<li>Excellent communication and stakeholder collaboration skills</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Ashish Infoway",
+      "ashish.m@infowaygroup.com",
+      "9253994684"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32385080",
+    "time_scraped": 1780517127802,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32384683,
+    "title": "Connected Services / Telematics Engineer – Automotive Domain Location",
+    "location": "",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/1/2026",
+      "date_posted": 1780328915000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<h1>Job Title: Connected Services / Telematics Engineer &ndash; Automotive Domain</h1>\r\n\r\n<h2>Location</h2>\r\n\r\n<p>Remote (U.S. Based Candidates Preferred)</p>\r\n\r\n<h2>Employment Type</h2>\r\n\r\n<p>Contract / Full-Time</p>\r\n\r\n<h2>Client</h2>\r\n\r\n<p>Toyota (Through Infosys)</p>\r\n\r\n<h2>Job Overview</h2>\r\n\r\n<p>We are looking for experienced Automotive Connected Services Engineers with strong hands-on expertise in connected vehicle technologies, telematics, and multimedia systems. The ideal candidate should have real-world automotive product development experience working on connected vehicle features and remote services platforms.</p>\r\n\r\n<p>Candidates with only automotive parts or manufacturing experience will not be considered.</p>\r\n\r\n<h2>Key Responsibilities</h2>\r\n\r\n<ul>\r\n\t<li>Design, develop, integrate, and support connected vehicle services and telematics solutions</li>\r\n\t<li>Work on automotive remote services and mobile application integrations</li>\r\n\t<li>Support and enhance features including:\r\n\t<ul>\r\n\t\t<li>Remote Engine Start</li>\r\n\t\t<li>Remote Door Lock/Unlock</li>\r\n\t\t<li>Vehicle Locator</li>\r\n\t\t<li>Vehicle Status Notifications through Mobile Apps</li>\r\n\t\t<li>Connected Vehicle Services</li>\r\n\t\t<li>Multimedia &amp; Telematics Systems</li>\r\n\t\t<li>Remote Vehicle Operations</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Collaborate with cross-functional engineering teams including mobile, cloud, embedded, and backend teams</li>\r\n\t<li>Troubleshoot connectivity, integration, and system-level issues</li>\r\n\t<li>Participate in system validation, testing, and deployment activities</li>\r\n\t<li>Work closely with OEM stakeholders and program teams</li>\r\n</ul>\r\n\r\n<h2>Required Skills</h2>\r\n\r\n<ul>\r\n\t<li>Strong hands-on experience in Automotive Connected Services</li>\r\n\t<li>Experience with Telematics, Infotainment, or Multimedia Systems</li>\r\n\t<li>Knowledge of connected vehicle architecture and remote vehicle functionality</li>\r\n\t<li>Experience integrating vehicle functions with mobile applications</li>\r\n\t<li>Understanding of automotive communication systems and connected platforms</li>\r\n\t<li>Experience working with OEMs or Tier-1 automotive suppliers preferred</li>\r\n\t<li>Strong debugging, integration, and troubleshooting skills</li>\r\n\t<li>Excellent communication and collaboration skills</li>\r\n</ul>\r\n\r\n<h2>Mandatory Requirements</h2>\r\n\r\n<ul>\r\n\t<li>Automotive hands-on experience is REQUIRED</li>\r\n\t<li>Candidates must have worked directly on automotive software/products/platforms</li>\r\n\t<li>Candidates with only automotive parts experience will NOT be considered</li>\r\n</ul>\r\n\r\n<h2>Preferred Qualifications</h2>\r\n\r\n<ul>\r\n\t<li>Prior experience with Toyota or similar automotive OEMs is a plus</li>\r\n\t<li>Experience in Connected Vehicle Platforms or Remote Services programs</li>\r\n\t<li>USC and GC candidates preferred over H1B</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Ashish Infoway",
+      "ashish.m@infowaygroup.com",
+      "9253994684"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32384683",
+    "time_scraped": 1780517135177,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32381412,
+    "title": "Pen Testers",
+    "location": "None, None",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/1/2026",
+      "date_posted": 1780308716000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Pen Testers for Bangalore location",
+    "recruiter": [
+      "Mani Infoway",
+      "mani.t@infowaygroup.com",
+      "9252415753"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32381412",
+    "time_scraped": 1780517135179,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  }
+]

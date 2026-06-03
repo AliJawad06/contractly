@@ -1,0 +1,43 @@
+{
+  "company": "Mindlance Inc",
+  "scrape_date": "2026-05-15T21:00:34.790996",
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2jSqA2BCGnpGlg0vOkCW0s=",
+      "title": "Systems Analyst",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": "EHR, Cerner Command Language (CCL), SQL, Linux, Java, C, C++, Python, Perl, OCI",
+      "posted": {
+        "date_postedStr": "05/11/26",
+        "date_posted": 1778457600000
+      },
+      "description": "\nJob Title: Systems Analyst\nLocation: Austin, TX - Remote\n \nJob Description:\n\n\n\n11 Required Strong understanding of clinical workflows and healthcare operations.\n11 Required Demonstrated experience supporting large scale EHR implementations, migrations, or optimization initiatives.\n11 Required Proven ability to translate clinical requirements into technical and data specifications.\n11 Required Advanced, hands on experience with Cerner Command Language (CCL).\n11 Required Working knowledge of Cerner Millennium architecture and Oracle databases\n11 Required Experience with SQL, Linux, and enterprise data extraction or migration patterns.\n11 Required Experience designing and supporting ETL processes.\n11 Required Familiarity with healthcare data integrations and reporting environments.\n11 Required Experience with REST / SOA development.\n11 Required Knowledge of distributed systems, networking, and performance tuning.\n11 Required Experience writing, executing, and tuning CCL scripts in production environments.\n11 Required Experience with data extraction, system integration, and code development.\n11 Required Working knowledge of one or more of the following: Java, C, C++, Python, Perl, OCI.\n11 Required Hands on experience developing or supporting services on public cloud platforms (AWS, Azure, GCP, OCI).\n11 Preferred Experience supporting Cerner Millennium environments.\n11 Preferred Prior experience serving as a senior Cerner consultant or technical lead.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1778457600000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": "06/24/27",
+        "end_date": 1813795200000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "John john@mindfore.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/IRyBoeMT4Is2zRgkG3OOrhNasccxMtVNfoFP-Gle3FE",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=cEpRSG55OXp3bXd1c2lURkk0N3d4QT09&job_id=z5G7h3l6a1kMvyS65NP3c2jSqA2BCGnpGlg0vOkCW0s="
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "company": "TMS, LLC",
+  "scrape_date": "2026-06-02T22:39:36.096681",
+  "total_jobs": 16,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2MfoG2cBVfY3ABWg9XotN0=",
+      "title": "Java Developer - Boston (Quincy) , MA - 12+ Months",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Role: Java Developer with ACI Real time payments\nLocation : Boston (Quincy) , MA\nDuration: 12+ Months\nExperience: 10+ Years\n \nJob Description\n \nNote: Candidate should have worked in ACI – Real time payment solution; this product is based on Java/ J2EE with Oracle, and it runs on Unix/ Linux platform. So, candidates should have exp in Java/ J2EE, Oracle PL/SQL and Unix/ linux scripting (shell programming).\n \nCandidate having 10+ years of experience as ACI RTPS Developer to work on real-time payment processing systems. The candidate will be responsible for development, customization, and support of ACI Real-Time Payments platform (RTPS) for global banking clients.\n \nRoles & Responsibilities\n\nDevelop and support applications on ACI RTPS platform\nGood understanding of Real-Time Payments architecture\nCustomize payment workflows and transaction processing logic\nHands-on experience in: Java / J2EE, Oracle / PL-SQL and Unix/Linux, REST/SOAP APIs\nHandle integration with core banking and external payment systems\nWork with payment messages (SWIFT, XML/JSON)\nPerform unit testing, integration testing, and deployment support\nEnsure high performance and availability of payment systems\nCollaborate with BA, QA, and business stakeholders\nHands on exp in DevOps / CI-CD\nHands of exp working in payment domains (payment processing and payment reconciliation): RTP / Instant Payments, ACH, SWIFT etc.  \n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": null,
+        "start_dateStr": null
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "68",
+      "remote": 0,
+      "assigned_recruiter": ", , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/c9hU79sPxEA5yFM6xSrVeyj2FM9wD0oejdYlRwBXSnQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2MfoG2cBVfY3ABWg9XotN0="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_u-yEBrX3IrG23Szn7tjzo=",
+      "title": "ACI RTPS Developer (Real-Time Payments)",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Role: Senior ACI RTPS Developer (Real-Time Payments)\nLocation: Boston (Quincy) , MA\nDuration: 12+ Months\nExperience: 10+ Years\n \nJob Description\n \nNote: Candidate should have worked in ACI – Real time payment solution; this product is based on Java/ J2EE with Oracle, and it runs on Unix/ Linux platform. So, candidates should have exp in Java/ J2EE, Oracle PL/SQL and Unix/ linux scripting (shell programming).\n \nCandidate having 10+ years of experience as ACI RTPS Developer to work on real-time payment processing systems. The candidate will be responsible for development, customization, and support of ACI Real-Time Payments platform (RTPS) for global banking clients.\n \nRoles & Responsibilities\n\nDevelop and support applications on ACI RTPS platform\nGood understanding of Real-Time Payments architecture\nCustomize payment workflows and transaction processing logic\nHands-on experience in: Java / J2EE, Oracle / PL-SQL and Unix/Linux, REST/SOAP APIs\nHandle integration with core banking and external payment systems\nWork with payment messages (SWIFT, XML/JSON)\nPerform unit testing, integration testing, and deployment support\nEnsure high performance and availability of payment systems\nCollaborate with BA, QA, and business stakeholders\nHands on exp in DevOps / CI-CD\nHands of exp working in payment domains (payment processing and payment reconciliation): RTP / Instant Payments, ACH, SWIFT etc.  \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": null,
+        "start_dateStr": null
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "68",
+      "remote": 0,
+      "assigned_recruiter": ", , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/TxGssnvEom2HSOdZsx03BaD-1WLBSn8TBp5ke71KV3k",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_u-yEBrX3IrG23Szn7tjzo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2foOm9CdHYe5zAiJo4Ti6w=",
+      "title": "DevOps Engineer with SecOps",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Role: DevOps Engineer with SecOps\nDuration: 12 months\nLocation: Tulsa, Oklahoma (3 days onsite)\n \nOverview:\nYou will be part of a team of a global and cross-functional team of Product Owners, Solution Architects, Software Engineers and DevOps Engineers. In this highly challenging and motivating environment, you will drive the implementation of and the operations of core technical components and CICD pipeline of Cloud. This includes continuously supporting and improving the CICD pipeline, Infra-as-Code modules, platform observability and operations for the core components and exploring new technologies to drive technical changes. You will be part of Agile team with the mission to professionalize Cloud as the platform in accelerating software delivery and innovation\n \nResponsibilities:\n\nOwn and drive technical implementation and operations of core technical components, platform interfaces and security interfaces and CICD pipeline such as API Management platform, web reverse proxy, web application, web services, content delivery network and web application firewall\nWith Product Owner, Solution Architect and other Developers, define and deliver feature and operational improvements following Hilti’s Enterprise Architecture and Security principals\nProvide support to Product development teams by setting up CICD pipeline, infrastructure, monitoring, operations, coordinating and performing releases, and provide 2nd/3rd level support for the solutions\nCoordinating and performing evergreen activities with Product development teams\nContinuously explore new technologies and solutions and drive technical change on Hilti Cloud\nContinuously explore and drive improvements in terms of new technologies and solutions on Hilti Cloud platform\nStay up to date on trends in technology in general focusing on Observability, Software Architecture & Security, and Cloud Computing topics\n\n \nRequired Skills:\n\nBachelor’s degree in Computer Science, Information Systems Management or in similar fields \n\n10+ years professional experience as a DevOps Engineer, SysOps Engineer, Software Engineer, API Engineer, or similar role with proven experience in software development and operation roles\n\nProven experience in following technologies is a must: microservices architecture, AWS and public cloud, REST APIs design, Pub/sub and event-drive architecture, CICD, infrastructure-as-code\nProven hands-on experience with one or more programming language (Java preferred), scripting language and CICD/DevOps tooling (GitLab, Terraform, EKS) using modern technologies\nExperience in working within agile teams, and comfortable with continuous delivery environment\nExcellent analytical capabilities, ability to communicate with both technical and business stakeholders, highly committed, self-driven, and customer oriented\nTeam player with hands-on mentality and able to set priorities to craft a direction, while able to work independently\nPassionate and constantly learning about new software technology and architecture\n\n \n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "55",
+      "remote": 2,
+      "assigned_recruiter": ", , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/3PP7mJfrZRWSyPpLnxXCyOYnMe_tUPLIpTUDV3VpAQs",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2foOm9CdHYe5zAiJo4Ti6w="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c9DESYFnDrzZYa2NJIp8pO0=",
+      "title": "Azure Cloud Engineer",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Role: Azure Cloud Engineer\nDuration: 6 months C2H\nLocation: Omaha, NE- 3 days in office- F2F Interview mandatory\n \nJob Description \n\nCloud Engineer - 4-5 years – Azure has been around 10-12 years, some one that has been there done that, proficient with Bicep coding, Infrastructure as a Code. Arm template was a predecessor. CLI and transition over to Bicep. Compute, storage, network, Security. DevOps. \n\n \nRequired: 4-5 years of experience\n\nOn all aspects of Azure infrastructure including Compute, Networking, Storage, Security, Azure Policy, IAM.\nRequired: Proficiency with IaC (Infrastructure as Code) – preferably Bicep, willing to consider ARM Templates (JSON) / CLI, Powershell\npreferable Bicep, but can consider other forms of IaC if there is atleast 6 months to 1 year experience in IaC (e.g., powershell CLI, ARM template / JSON, Terraform)\nPreferred: DevOps pipelines experience (CI/CD)\n\n \n3 most important skills \n\nAzure infrastructure including Compute, Networking, Storage, Security, Azure Policy, IAM\nIaC (Infrastructure as Code) – preferably Bicep\nDevOps pipelines experience (CI/CD)\n\n \n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "60",
+      "remote": 2,
+      "assigned_recruiter": ", , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/4evXbS5mNp40GOWxk8HqlA5evIcM7tR2GvdUyE8NmVc",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c9DESYFnDrzZYa2NJIp8pO0="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c9SgcyKtVTtzU1uDr9HLbSc=",
+      "title": "GA DDS Level 1 Help Desk Analyst",
+      "location": "2206 East View Parkway\\nConyers, GA 30013",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Under direct supervision, assists customers with tier one issues or forwards to second tier support for issues beyond their subject matter expertise.LOCAL CANDIDATES*This position is located at DDS Headquarters in Conyers, Georgia**Bilingual, Spanish required**MUST have IT Help Desk Call Center exp*Provides technical assistance to both internal and external customers for tier one issues.  This position requires handling a high volume of calls in a call center environment focused on customer service.Internal customer support involves troubleshooting hardware, software, and connectivity issues.  The Analyst will be responsible for escalation to the appropriate second tier support, opening tickets with various vendors, and escalation to Senior level management.  External customer support ranges from general website support, assistance with password resets, online account management and the provisioning of mobile driver's licenses.  The Analyst will be expected to provide a high level of customer service while handling a large volume of calls and difficult situations all the way to completion of the ticket.  Job Responsibilities•             Oversee the daily performance of computer systems and applications.•             Answer user inquiries regarding computer software or hardware operation to resolve problems.•             Monitor ticket queues, assign tickets to appropriate internal and external support staff, escalate tickets until resolved.•             Confer with users or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.Qualifications:•          Six months of experience handling customers, questions, complaints, and/or providing information in a call center environment.• 2+ years’ experience performing as Helpdesk Technician with hands on knowledge in resolving issues with Outlook, MS Office, Win 7 and 10.•             Vocational/Technical degree in computer applications, computer technology or a closely related area from an accredited college•          Knowledge of Apple iOSThis position is located at DDS Headquarters in Conyers, Georgia.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceVocational/Technical degree in computer applications, computer technology or a closely related area from an accredited college Required0Experience performing as Helpdesk Technician with hands on knowledge in resolving issues with Outlook, MS Office, Win 7 and 10, Active Directory.Required2YearsMonitor ticket queues, assign tickets to appropriate internal and external support staff, escalate tickets outside of SLA’s until resolved.Required2YearsInstall and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications.Required2YearsAnswer user inquiries regarding computer software or hardware operation to resolve problems.Required2YearsBilingual - SpanishRequired0IT Help Desk Call Center expRequired2YearsQuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?\nQuestion2Please list candidate's email address.Question3Candidate must be paid AT LEAST $20.00 if selected for engagement. Candidate can be paid more; however, the SRP rate cannot exceed $27.00. Do you accept this requirement?Question4The maximum mark-up for this engagement’s SRP rate is 35%.  To be competitive on pricing, a mark-up below the 35% threshold is suggested.  Do you agree to propose a mark-up at or below 35%?Question5This assignment is contingent upon customer renewal and availability of adequate funding. Do you accept this requirement?Question6The selected candidate will be expected to start their engagement no later than 2 weeks (10 business days) from the client’s selection date. Do you accept this requirement?Question7Onsite Required: Due to the essential nature of the work to be performed, this position REQUIRES the selected candidate to work ONSITE for the duration of the assignment. Candidates will not be permitted to work remotely. Do you accept this requirement?Question8Is the candidate fluent in Spanish?",
+      "closing": {
+        "closing_date": "2026-06-08T23:59:59Z",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/22/26",
+        "start_dateStr": 1782086400000
+      },
+      "end": {
+        "end_dateStr": "06/30/27",
+        "end_date": 1814313600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/WEqhGtaMxKp-xpnUevWItA8Tw--AtG0s5zzJuS0qUpk",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c9SgcyKtVTtzU1uDr9HLbSc="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7SAsZJYVEIv0PAjp43F0Dg=",
+      "title": "IN-DOH-Microbiologist II Antimicrobial Resistance",
+      "location": "550 W 16th St Ste B\\nMarion County, Indianapolis, IN 46202",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "This position is part of the Indiana Department of Health Laboratory, Antimicrobial Resistance Lab Network.Purpose of Position/Summary:Incumbent is responsible for coordinating and performing the full range of microbiological examinations and analyses including culture, biochemical tests, PCR, and WGS of clinical specimens for isolation and identification of bacteria and yeast  including but not limited to E.coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Acinetobacter baumanii, and Candida auris. Incumbent will also be responsible for the documentation of all quality control and quality assurance activities according to CLIA regulations. In addition, this position may cross-train in other areas of the lab that may include molecular, microbiological, viral, serological, and other techniques to support routine testing and provide backup capacity.Essential Duties/Responsibilities:Incumbent will have in-depth knowledge and ability in the area of microbiology and molecular biology and is able to perform laboratory associated assays or the ability to learn these techniques upon successful completion of proficiency testing.  Representative duties include:• Conducting examinations of samples and/or reference samples for analyses such as but not limited to, molecular detection or isolation and identification of microorganisms or their nucleic acids.• Strictly follow the laboratory's procedures for specimen handling and processing, test analyses, reporting and maintaining records of patient test results.• Extraction of nucleic acids from specimens, isolates, and samples via a variety of manual and automated methods;•Utilize molecular techniques such as, but not limited to, PCR, sequencing, MALDI-TOF, and WGS;• Evaluate, interpret, and validate laboratory results and reports findings.• Maintain laboratory record system of submitted samples and specimens and their possible referral.• Conduct quality control checks on laboratory methods, materials, and equipment in strict adherence to the laboratory's quality control policies. • Maintain an inventory of laboratory supplies and order as needed to ensure testing needs are met. • Assist in preparations of epidemiological and/or statistical reports from data compiled on a daily, weekly, monthly, or annual basis.• Maintain competency in all trained areas.• Perform all related work as required.•Testing personnel responsibilities (493.1495 Standard):    The testing personnel are responsible for specimen processing, test performance and for reporting test results.    (a)    Each individual performs only those high complexity tests that are authorized by the laboratory director and require a degree of skill       commensurate with the individual’s education, training or experience, and technical abilities.    (b)    Each individual performing high complexity testing must—        (1)    Follow the laboratory’s procedures for specimen handling and            processing, test analyses, reporting and maintaining records of patient             test results;         (2)    Maintain records that demonstrate that proficiency testing samples are             tested in the same manner as patient specimens;        (3)    Adhere to the laboratory’s quality control policies, document all quality             control activities, instrument and procedural calibrations and             maintenance performed;        (4)    Follow the laboratory’s established policies and procedures whenever            test systems are not within the laboratory’s established acceptable levels            of performance;        (5)    Be capable of identifying problems that may adversely affect test            performance or reporting of test results and either must correct the            problems or immediately notify the general supervisor, technical            supervisor, clinical consultant, or director;        (6)    Document all corrective actions taken when test systems deviate from            the laboratory’s established performance specifications; and        (7)    Except as specified in paragraph (c) of this section, if qualified under §            493.1489(b)(5), perform high complexity testing only under the onsite,            direct supervision of a general supervisor qualified under § 493.1461.    (c)    Exception. For individuals qualified under § 493.1489(b)(5), who were performing        high complexity testing on or before January 19, 1993, the requirements of        paragraph (b)(7) of this section are not effective, provided that all high complexity        testing performed by the individual in the absence of a general supervisor is        reviewed within 24 hours by a general supervisor qualified under § 493.1461.Job Requirements:• Extensive knowledge of the principles, theories and practices of microbiology and related sub- specialties;• Specialized knowledge of current scientific methods and testing procedures and the ability to apply them when seeking solutions to public health laboratory problems;• Specialized knowledge of and ability to use a full range of standard technical equipment, complex scientific apparatus, and automated techniques of analysis;• Extensive knowledge of laboratory safety practices and principles;• Aware of state and federal laws, rules, regulations, and policies concerning the program area (i.e. CLIA); • Ability to meet requirements for personnel certification as a technologist pursuant to the Clinical Laboratory Improvement Act (CLIA)• Ability to effectively communicate technical information both verbally and in writing and maintain productive working relationships;• Ability to satisfactorily participate in proficiency testing programs and recognize QA problems;• Ability to compile, analyze, evaluate, and prepare laboratory reports.Supervisory Responsibilities/Direct Reports:N/ADifficulty of Work:Incumbent is engaged in scientific analyses that demand accuracy and demonstrated proficiency in applying laboratory analytical skills to select pertinent guidelines and formulated plans for problem solving.  Projects involve many complex variables of great intricacy and the microbiologist is often called upon to analyze and identify unusual specimens/samples. Work requires use of analytical judgment and technical knowledge in order to draw accurate, logical conclusions. Incumbent will also be required to develop and research new testing procedures.Responsibility:Incumbent works independently as an expert in the assigned area. Technical and/or detailed instruction is provided only upon request when necessitated by a procedural change and/or special project.  Incumbent maintains established safety practices when working with materials that have a chemical hazard or biohazard potential.  Reports are reviewed for general technical accuracy; however, tasks are performed independently.  Errors in work could adversely affect the health, safety and well being of the incumbent or coworkers.Personal Work Relationships:Incumbent works with supervisor and with other State Department of Health staff such as Laboratory Safety Officer and/or external entities (e.g. local health departments, etc.) to devise and implement work procedures and information dissemination.  Individual will have contact with employees and the public as a laboratory expert and in the explanation of laboratory procedures and recommendations when appropriate.Physical Effort:The required personal protective equipment can be cumbersome and awkward. Extra effort and concentration will be necessary to perform routine laboratory manipulations under these conditions.  Working Conditions:The incumbent will be performing tests on potentially dangerous specimens. Consequently, safety standards are of primary importance.  This position will be required to use all appropriate personal protective equipment in the designated laboratory area. The laboratory space and equipment can experience a dramatic increase in temperature. The incumbent will be required to work in these conditions and maintain a clear thought process during the testing.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceExtensive knowledge of the principles, theories and practices of microbiology and related sub-\tspecialties;Required0Specialized knowledge of current scientific methods and testing procedures and the ability to apply them when seeking solutions to public health lab.Required0Specialized knowledge of/ability to use a full range of standard technical equip., complex scientific apparatus, and automated techniques of analysisRequired0Extensive knowledge of laboratory safety practices and principles;Required0Aware of state and federal laws, rules, regulations, and policies concerning the program area (i.e. CLIA); Required0Ability to effectively communicate technical information both verbally and in writing and maintain productive working relationships;Required0Ability to satisfactorily participate in proficiency testing programs;Required0Ability to compile, analyze, evaluate, and prepare laboratory reports.Required02 years of high complexity laboratory experience as testing personnel, w/exp. providing oversight of daily performance of high complex testingHighly desired2YearsBA/BS in biological science.Highly desired0QuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?Question2Please list candidate's email address.Question3Please list the city and state where candidate currently resides.Question4Candidate must be paid $31.14 if selected for engagement. The provider markup for this position is 28%. Do you accept this requirement?Question5Initial interview will be on Teams. Follow-up interview is required to be in-person. Do you accept this requirement?Question6Position is Monday through Friday, 7.5H days, 37.5H week; core hours are 8:15am – 4:45pm (one hour lunch) but schedule can be flexible, with the possibility of a 30 minute lunch. Weekends would not be required. Do you accept this requirement?",
+      "closing": {
+        "closing_date": "2026-06-05T23:59:59Z",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/29/26",
+        "start_dateStr": 1782691200000
+      },
+      "end": {
+        "end_dateStr": "01/01/27",
+        "end_date": 1798761600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/pGCMkSFWiyfcdLeqhd1k4lIzmAM5Ib6ieAYi13toQEc",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7SAsZJYVEIv0PAjp43F0Dg="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c05RtP9w5hfKCbzQ3VAkiBY=",
+      "title": "GA - DOR Developer 1",
+      "location": "2595 Century Pkwy, NE\\nAtlanta, GA 30345",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "Under direct supervision, designs, codes, tests, modifies and debugs computer software.*Candidate MUST be local to Metro Atlanta***US Citizen or GC-Permanent Resident***Tax Clearance Letter, due at the time of submission* (pls review compliance tab for instruction on how the CANDIDATE must obtain this letter)Job Summary:Under direct supervision, designs, codes, tests, modifies and debugs computer software. Researches and analyzes program or systems problems and develops program documentation. Translates business requirements into development activities in secure and maintainable code. Supports configuration of all aspects of the GenTax® COTS application.*MUST BE LOCAL METRO ATLANTA CANDIDATES*Qualifications:•US Citizenship or Green Card status is required •Working knowledge of Structured Query Language (SQL)•Experience in Microsoft .NETPreferred Qualifications:•Bachelor's degree from an accredited college or university with coursework in computer science ormanagement information systems.•Knowledge and experience working with software development organizations•Strong analytical and problem-solving skillsOther Notes:•DOR will conduct a background check on all candidates considered for the position. Individuals must be compliant with Georgia tax obligations.•Individuals having any overdue and unpaid taxes or any felony convictions (no matter how long ago) will not be offered the position or hired.•All employees will be fingerprinted.•Candidates must be willing to relocate to Georgia for at least the duration of the contract, if not already a resident of Georgia.*THE TAX CLEARANCE LETTER COMPLIANCE ITEM, IS DUE AT THE TIME OF CANDIDATE SUBMISSION*•DOR will conduct a background check on all candidates considered for the position. Individuals must be compliant with Georgia tax obligations.•Individuals having any overdue and unpaid taxes, or any felony convictions (no matter how long ago) will not be offered the position or hired.•All employees will be fingerprinted.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceExperience in any .NET programming languageRequired1YearsWorking knowledge of Structured Query Language (SQL)Required1YearsStrong problem solving skillsRequired0Demonstrated resiliencyRequired0Experience working in a small team environmentRequired0QuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you agree to this requirement?Question2What is your candidate's email address?Question3If selected for engagement, your candidate's hourly ******* must be at least $32.25? Your candidate can be paid more; however, the hourly SRP Rate cannot exceed $43.53? Do you agree to these requirements?Question4The maximum mark-up for this engagement’s SRP rate is 35%.  To be competitive on pricing, a mark-up below the 35% threshold is suggested.  Do you agree to propose a mark-up at or below 35%?Question5This assignment is contingent upon customer renewal and availability of adequate funding. Do you agree to this requirement?Question6If selected for engagement, your candidate will be expected to start no later than 2 weeks (10 business days) after the client's selection date? Do you agree to this requirement?Question7Where does the candidate currently reside?",
+      "closing": {
+        "closing_date": "2026-06-10T23:59:59Z",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/29/26",
+        "start_dateStr": 1782691200000
+      },
+      "end": {
+        "end_dateStr": "06/30/27",
+        "end_date": 1814313600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/q3-iIiPgMFoQCjUVI3cbyovo8443Twrt3Y5aWSs-xP4",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c05RtP9w5hfKCbzQ3VAkiBY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c3iF_mLdr4XYqpO54ICqvnM=",
+      "title": "VRC - Network Administrator 4 - IN PERSON IVS ONLY",
+      "location": "10700 Horsemens Road\\nNew Kent, VA  23124",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/31/26",
+        "date_posted": 1780185600000
+      },
+      "description": "VA Racing CommissionMAX VENDOR RATE: $50.18IN PERSON IVS ONLY - Preference for local Richmond candidates due to the on site requirement Deadline to submit: By 4 pm est on Thurs 6/4Deadline to submit: by 4 pm est on Thurs 6/4Position is located at VRC’s current offices in New Kent, VA. Agency is in the middle of reviewing new office space in Richmond, VA. Hybrid work arrangement may be considered at the supervisor's discretion (after the mgr has a chance to evaluate their performance). Selected candidate should plan on coming into the office until after that evaluation occurs. Standard business hours (8:30 - 5:30) Monday–Friday.ABOUT THE ROLEGeneral IT knowledge across networking, systems, web, and cybersecurity — enough to speak the language and triage issues- Experience coordinating or managing IT vendors or contractors- Comfortable serving as the bridge between non-technical agency staff and technical contractors- Ability to track open tickets, follow up on deliverables, and escalate as needed- Experience in a small office or government environment preferred- Familiarity with Commonwealth of Virginia IT standards (VITA) a plus TECHNICAL SKILLS (Required):- IT vendor and contractor management- General networking and systems knowledge (awareness level)- Cybersecurity awareness and VITA/COV compliance coordination- Website content coordination (not development)- IT asset and software license tracking- Help desk triage and escalation- Project coordination and ticket/task management- Microsoft Office / productivity toolsRequired/Desired SkillsSkillRequired /DesiredAmountof ExperienceIT vendor and contractor managementRequired5YearsIT asset and software license trackingRequired5YearsProject coordination and ticket/task managementRequired5YearsHelp desk triage and escalationRequired5YearsWebsite content coordination (not development)Required5YearsGeneral networking and systems knowledge (awareness level)Required3YearsMicrosoft Office / productivity toolsRequired3YearsCybersecurity awareness and VITA/COV compliance coordinationHighly desired2YearsHands-on network or systems administrationNice to have3YearsHands-on cybersecurity engineeringNice to have3YearsVITA IT procurement / eVA system experienceNice to have3YearsQuestionsNo.QuestionQuestion1Commonwealth of Virginia security policies prohibit the use of offshore IT contractors. Do you attest to the fact that your candidate will physically reside within the US for the duration of the assignment?Question2Please list candidate's email address.Question3In what CITY and STATE does your candidate currently reside? Have you (vendor) taken the necessary steps to verify this residency? NO NEED to upload DL or any other personal info - just simply confirm you checked their current residence. If not in Richmond, please put where they current reside.Question4This role requires an IN PERSON interview. If selected, does your candidate agree to interviewing IN PERSON if requested? Question5Position is located at VRC’s current offices in New Kent, VA. Agency is in the middle of reviewing new office space in Richmond, VA. Hybrid work arrangement may be considered at the supervisor's discretion (after the mgr has a chance to evaluate their performance). Selected candidate should plan on coming into the office until after that evaluation occurs. Please confirm your candidate is aware of the on site requirements and agrees to this arrangement if selected. ",
+      "closing": {
+        "closing_date": "2026-06-04T23:59:59Z",
+        "closing_dateStr": 1780185600000
+      },
+      "start": {
+        "start_date": "06/15/26",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "12/19/26",
+        "end_date": 1797638400000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/pW8lvRX-WHy4c3BUOyOoYulPWRspXsBzu0bzom0C4RU",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c3iF_mLdr4XYqpO54ICqvnM="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cwbpFRTxgbmmKr8DbiEXEEE=",
+      "title": "VBOA - Project Manager 4 (Part-time)",
+      "location": "9960 Mayland Dr. Ste 402 Henrico, VA 23233",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/30/26",
+        "date_posted": 1780099200000
+      },
+      "description": "VBOA - VA Board of Accountancy  Project Manager, Level 4, Estimated total hours 640 - 20 hours per week (Part time) Hybrid with on-site expected once a weekMAX VENDOR RATE: $119.11*Deadline to submit: no later than 4 pm EST on Wed 6/3Important to note bf submitting: This role is 20 hours week with max of 640 hrs and will remain a part-time engagement until completed. No changes to this arrangement are planned. Pls make sure your candidate is aware and agrees to this arrangement before submitting.Hybrid with on-site expected once a weekABOUT THE ROLEProject Manager will provide project management oversight for the design, configuration, staff training and implementation of VBOA’s replacement licensing and management system and to provide internal support for the steps required by Virginia Information Technology Agency (VITA).Project management activities include but are not limited to; leading team members through process mapping and requirements gathering, serving as the day-to-day point of contact for the project and overseeing the various system implementation phases and processes, overseeing acceptable user acceptance testing, certifying that the solution is ready for deployment and is fully implemented as planned. The Project Manager will also be responsible for change management, overall vendor management and project closeout. Requirements include:  strong management and leadership skills, the ability to set and maintain adherence to project goals with internal team and IT vendor, maintain project timeframes, budgeting estimates and status reports for executive management and the board, coordinating project team members and developing and tracking schedules and individual responsibilities, implementing IT strategies that deliver projects on schedule and within budget.Certified Project Management Professional (PMP) certification through the Project Management Institute (PMI) required with demonstrated experience in effective team building, and communication skills, knowledge and experience in successfully executing Software as a Service (SaaS) or Platform as a Service (PaaS) implementation with strong vendor management skills, experience assisting Commonwealth of Virginia agencies in planning, developing, and validating functional and technical requirements to support the implementation of IT solutions, knowledge of current Commonwealth of Virginia policies, standards, procedures, and practices, particularly those related to VITA.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceCloud & SaaS Expertise: Strong background in planning, executing, and managing cloud-hosted SaaS implementation projects.Required10YearsAnalytical & Organizational Expertise: Strong ability to analyze complex problems, organize priorities, and make sound decisions under pressure.Required10YearsLeadership & Change Management: Proven capability to lead cross-functional teams and drive adoption of new approaches, systems, and methodologies.Required10YearsRequirements Management: Extensive experience guiding business and IT stakeholders through discovery and documentation of business and technical requiRequired10YearsProject Management Methodologies: Deep knowledge of Agile and Waterfall principles, with hands-on experience running Scrum, Kanban, and Waterfall projRequired10YearsVendor Management: Skilled in collaborating with vendors and overseeing successful implementation of vendor solutions.Required10YearsCertifications: Active PMP® certification from PMI.Required10YearsQuestionsNo.QuestionQuestion1Commonwealth of Virginia security policies prohibit the use of offshore IT contractors. Do you attest to the fact that your candidate will physically reside within the US for the duration of the assignment?Question2Please list candidate's email address.Question3In what CITY and STATE does your candidate currently reside? Please DO NOT upload any personal info in Vector. Please simply verify with your candidate and provide the city and state info here.Question4If selected, 1 day ON SITE will be required (No Exceptions). Does your candidate agree to this arrangement?Question5This role is part-time (20 hrs/week, max of 640 hours or approx 8 months allotted) and there is no expectation that it will be extended past hours available. Please confirm that your candidate is aware of this and they accept this arrangement if selected. This will be discussed int he interview so please make sure they are aware.Question6Active PMP Certification is REQUITRED. Pls upload a copy of your candidates PMP cert under the REFERENCE tab at time of submittal to be considered.",
+      "closing": {
+        "closing_date": "2026-06-03T23:59:59Z",
+        "closing_dateStr": 1780099200000
+      },
+      "start": {
+        "start_date": "06/15/26",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "02/19/27",
+        "end_date": 1802995200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/GEFVSF4nWgtaqRcDR3lSgxGd8PL6nhzcZCAU56NFUu0",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3cwbpFRTxgbmmKr8DbiEXEEE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5PKu62JuIxOjjsD1tFefrg=",
+      "title": "IN-DCS-Senior Java Developer",
+      "location": "500 North Meridian Street\\nIndianapolis, IN 46204",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Experienced Java developer with expertise in Spring Boot, REST API development, batch processing, event-driven queue processing, MuleSoft integration, and document generation tools.Complete Description:•       Resource is required with strong hands-on experience in Java, Spring Boot framework for backend development, and creation of scalable RESTful APIs. •       The candidate must have practical exposure to designing and executing batch processes. •       Implementing event-driven and queue-based asynchronous processing using technologies such as AS400 Data Queues, Kafka, RabbitMQ, or AWS SQS.  •       Resource must have hands-on experience deploying Java-based applications to AWS applications and web server environments. •       Experience in writing PostgreSQL functions, stored procedures, and advanced SQL queries is a strong plus. •       Experience in MuleSoft integration flows, API-led connectivity. •       Familiarity with Angular/React for frontend development is preferred. •       Preferred experience with document automation and template management tools such as SmartDocuments or Adobe Forms Development. •       Candidates will work with cross-functional teams to deliver enterprise-grade solutions.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceJava and Spring Boot development.Required7YearsStrong exposure to REST API design, authentication, authorization, and microservice patterns.Required5YearsExperience building and optimizing batch processesRequired5YearsHands-on experience with event-driven architectures and message queues.Required5YearsMuleSoft development experience (including integrations and API management).Required3YearsWorking knowledge of template-based document generation platforms.Required0QuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?Question2Please list candidate's email address.Question3Candidate must be currently located in Indiana. Please list the city and state where candidate currently resides.Question4Candidate ******* for this position is $65.00 per hour if selected for engagement. The provider markup for this position is 35%. Do you accept this requirement?Question5Work schedule Monday to Friday, 8:00am to 5:00pm. Do you accept this requirement?Question6Selected candidate will be required to work onsite 3 days per week and 2 days remote. Please confirm the resource understands the work schedule. Question7This position requires a passed fingerprint and background check. Please confirm the resource understand this requirement.Question8Duration of position is expected to be 1 year with the possibility of an extension past that date. Please confirm the resource understands the duration of the position.Question9This position requires the resource to work a hybrid schedule. The manager is willing to consider resources outside of Indiana that are willing to relocate. Please confirm the resource understands relocation will be required if selected for the position.",
+      "closing": {
+        "closing_date": "2026-06-04T23:59:59Z",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": "01/01/27",
+        "end_date": 1798761600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/DmfHsEmggX55ZpCFRsvumHZ9Nt7au7VJY7xggLxEiZ4",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5PKu62JuIxOjjsD1tFefrg="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3czHGCIT-wnRg2AO-gkPvyus=",
+      "title": "GA DOL Computer Operator 2",
+      "location": "148 Andrew Young International Blvd NE\\nAtlanta, GA 30303",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Under general supervision, operates computer and peripheral equipment. Performs clerical and maintenance tasks in support of a mainframe computer complex or other large centralized IT system.*LOCAL CANDIDATES ONLY*This is a weekend shift with the hours of 7pm – 7am, Saturday and Sunday. They would then need to get in an additional 16 hours anytime during the week.  These additional 16hrs can be picked up on any shift.  1st, 2nd or 3rd.Job Summary:Under limited supervision, monitors BPE/TPE transactions, all environmental, security, electrical & UPS systems. Checks the network systems to ensure statewide access. Works with vendors for hw/sw. Ensure all printed output is of high quality and defect free. Preferred QualificationsSignificant experience as a Computer Operations Operator in a large data center. Exp w/a Network Operations Center (NOC). Exp w/production control. Exp with distributed servers running AIX, Linux, and Windows. Exp w/data center security, HVAC and electrical in a data center. Exp w/Control-M, TPE/BPE Manager.Qualifications:•Vocational/Technical degree in a related field from an accredited college AND 2 years of related experience*LOCAL CANDIDATES ONLY*Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceCompletion of either a two-year certificate/degree from a college, university, or technical school in an IT field or equivalent work experience in IT.Required0Experience as Computer Operator in a large Data Center.Required2YearsExperience with a Network Operations Center (NOC).Required2YearsExperience with Production Control.Required2YearsExperience with Control-M.Required2YearsExperience with TPE/BPE Manager.Required2YearsExperience with security in a Data Center.Required2YearsExperience with Heating, Ventilation, and Air Conditioning (HVAC) in a Data Center.Required2YearsExperience with electrical power in a Data Center including generators and Uninterruptible Power Supplies (UPS).Required2YearsExperience with a raised floor in a Data Center.Required2YearsExperience with fire detection and fire suppression systems in a Data Center.Required2YearsExperience with Change Management policies, procedures, and software.Required2YearsExperience with Incident/Problem Management policies, procedures, and software.Required2YearsExperience with Asset Management policies, procedures, and software.Required2YearsExperience with Networks, such as LAN/WAN, MPLS, TCP/IP, and SNA.Required2YearsExperience with Microsoft Office.Required2YearsExperience with Information Technology Infrastructure Library (ITIL).Required2YearsExperience with automated job schedulers.Required2YearsExperience with hardware/software maintenance contracts.Required2YearsExperience with Business Continuity and Disaster Recovery.Required2YearsExperience with State and/or Federal government.Desired2YearsExperience with distributed servers running AIX, LINUX, and Windows.Required2YearsQuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?Question2Please list candidate's email address that will be used when submitting E-RTR.Question3Candidate must be paid AT LEAST $30.00 if selected for engagement. Candidate can be paid more; however, the SRP rate cannot exceed $36.00. Do you accept this requirement?Question4DOL requires a maximum mark-up for this engagement’s SRP rate is 20%. To be competitive in pricing, a mark-up below the 20% threshold is suggested. Do you agree to propose a mark-up at or below 20%?\n\nQuestion5This assignment is contingent upon customer renewal and availability of adequate funding. Do you accept this requirement?Question6The selected candidate will be expected to start their engagement no later than 2 weeks (10 business days) from the client’s selection date. Do you accept this requirement?Question7Due to the essential nature of the work to be performed, this position REQUIRES the selected candidate to work ONSITE for the duration of the assignment. Candidates will not be permitted to work remotely. Due you accept this requirement?Question8This is a weekend shift with the hours of 7pm – 7am, Saturday and Sunday. They would then need to get in an additional 16 hours anytime during the week. Do you accept this requirement?Question9Does the candidate meet/exceed ALL REQUIRED skills?",
+      "closing": {
+        "closing_date": "2026-06-01T23:59:59Z",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "06/15/26",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "06/30/27",
+        "end_date": 1814313600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/j1CbJmkloGl8EqSmPX3q76B1RgicwY_ZyLAx6jGrogk",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3czHGCIT-wnRg2AO-gkPvyus="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c025Y2w04NrP8H9b9lcnIpw=",
+      "title": "Principal Engineer - .NET",
+      "location": "",
+      "experience": {
+        "experience": "7-12 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "\nRole: Principal Engineer (.Net)\n\n\nThe Role:\nWe are hiring a Principal Engineer as a hands-on technical leader. You will operate as a forward-deployed engineer, embedding directly with portfolio companies and product teams to build new products from zero-to-one, rewrite existing products from the ground up using AI-native approaches, and take on high-leverage special projects for Venture AI Labs. This is not a role where you will hand off designs and watch others build. You will architect, write code, review code, and set the technical bar for the teams around you.\nWhat You'll Do\nYour work will span four distinct but connected tracks:\n\nFull AI-native product rewrites. Take an existing product and rebuild it entirely using an AI-native approach — rethinking architecture, data model, UX, and delivery pipeline rather than porting the old system one-for-one. You will prove out what 'AI-first from the ground up' actually looks like in production.\nRapid modernization for portfolio companies. Parachute into portfolio companies to accelerate the build of a new product inside one of Embrace's six regulated industry verticals. You will bring AI-first engineering practices, modern architecture, and senior judgment to teams that need to ship quickly without compromising on the compliance and reliability these markets demand.\nNet-new products for regulated markets. Build entirely new products aimed at these same regulated verticals — not by digitizing existing workflows, but by rethinking the workflows themselves now that AI makes previously impossible experiences possible.\nVenture AI Labs special projects. Take on high-impact, high-ambiguity initiatives out of Venture AI Labs — applied research, prototypes, and strategic bets that the CTO and CEO need moved forward by a senior engineer who can operate independently.\n\nAcross all of this, you will also:\n\nLead AI-first development, where the majority of code is produced through leading AI coding tools (Claude Code, Codex, GitHub Copilot, Cursor, JetBrains AI). You will set the patterns for how humans and AI agents collaborate to ship production software safely and quickly.\nOwn architecture and solutioning end-to-end: system design, technology selection, data models, API contracts, deployment topology, and non-functional requirements (performance, security, observability, cost) — with extra care given the regulated environments we operate in.\nDrive code review standards and raise the quality bar across teams, for both human-written and AI-generated code. Establish review practices, automated guardrails, and evaluation approaches specific to AI-assisted workflows.\nPartner with the CTO, Engineering Leadership on technical strategy across the portfolio, and with the CEO on initiatives that connect engineering directly to business outcomes.\nMentor senior and lead engineers across the group; model what great looks like in an AI-first, polyglot environment.\n\n\n \r\n \r\n\r\nRequirements\n\nWhat We're Looking For\n\n6–12 months of demonstrable AI-first development experience, where the majority of your code has been written through Claude Code, Codex, GitHub Copilot, Cursor, or JetBrains AI. You have strong opinions on prompting, agent orchestration, context management, review workflows, and when to trust (or distrust) AI output.\nDeep expertise in .NET / C# as a primary stack, with Python as strong supporting technology. Being a polyglot is a meaningful plus — we value engineers who reach for the right tool.\nA track record of architecting and shipping non-trivial systems: distributed services, data-intensive applications, cloud-native deployments, and integrations.\nExperience rewriting, re-platforming, or significantly modernizing existing products — you know the difference between a port, a refactor, and a rethink.\nStrong fundamentals in software design, testing strategy, CI/CD, observability, and secure-by-default engineering. Comfort operating in regulated environments is a plus.\nExperience as a forward-deployed or embedded engineer — comfortable with ambiguity, direct customer contact, and shifting context across products and teams.\nExcellent communication — able to align engineers, product, and executives around a technical direction.\nBias to action, high ownership, and the judgment to know when to move fast and when to slow down.\n\nNice to Have\n\nExperience leading or managing a pod in a high-velocity R&D group, innovation lab, incubator, fast-moving startup, or an equivalent skunkworks-style team inside a larger enterprise is a meaningful differentiator. We want engineers who know how to run small, focused teams that ship.\nExperience building with LLMs directly — RAG, evals, agent frameworks, tool use, fine-tuning.\nPrior work inside regulated industries (financial services, healthcare, legal, insurance, compliance-driven SaaS, etc.).\nOpen-source contributions or public technical writing on AI-assisted development.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/20/26",
+        "start_dateStr": 1779235200000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/8vHciP1-PtUeOI-P67XRd4jOqwmtfTZ6RI0y-C_R_xI",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c025Y2w04NrP8H9b9lcnIpw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cwUx3erdyVkEW8gBld_W3ag=",
+      "title": "Lead Engineer - .NET",
+      "location": "",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Role: Lead Engineer -.NET\n\r\nWe are seeking a Technical Lead who is equally at home writing production code and leading a team. This is a hands-on role: you will spend a significant portion of your time doing software architecture and development, while also owning the team’s engineering process, mentoring engineers, and championing AI adoption. You will bridge technical execution and business strategy, helping our cloud-based IoT asset tracking platform scale to meet enterprise customer demand.\nWhat You’ll Do\nHands-On Development & Architecture (core focus)\n\nDesign and implement critical features and platform components – this is an active coding role.\nOwn technical architecture decisions: system design, service boundaries, data modelling, and API contracts.\nLead code and design reviews, setting the technical bar and coaching engineers through them.\nResolve complex engineering challenges, performance bottlenecks, and cross-cutting concerns.\nDrive adoption of engineering best practices: TDD, CI/CD, observability, and security-by-design.\n\nTeam & Process Leadership\n\nLead a small agile team – run sprints, set goals, unblock engineers, and manage delivery commitments.\nMentor and develop engineers through regular 1:1s, feedback, and pair programming.\nCollaborate with Product and Operations to refine roadmaps and translate requirements into technical plans.\nHire and onboard engineering talent in partnership with leadership.\n\nAI Adoption\n\nLead the team’s adoption of AI development tools (e.g. GitHub Copilot, AI-assisted testing) and build internal best practices.\nIdentify opportunities to embed AI/ML capabilities into the Radiant platform to enhance customer value.\nEvaluate emerging AI tools and partner with leadership to define an AI strategy roadmap for engineering.\n\r\n \r\n\r\nRequirements\n\nTechnical\n\n8+ years of professional software development experience, including production systems at scale.\nExpert-level C# and .NET (Framework & Core); strong SQL and Microsoft SQL Server.\nExperience with ASP.NET Web API, React, and modern JavaScript frameworks.\nProven track record designing concurrent, scalable, fault-tolerant distributed systems.\nSolid OOP fundamentals, design patterns, and experience with message brokers (MQTT, RabbitMQ).\nTDD mindset with strong unit and integration testing practices.\n\nLeadership & AI\n\n3+ years in a technical lead or senior engineering lead role with direct team ownership.\nDemonstrated ability to manage people, run agile processes, and deliver complex software projects.\nHands-on experience with AI coding assistants and a genuine drive to advance AI adoption in engineering teams.\nStrong communicator – able to convey technical decisions clearly to both engineers and business stakeholders.\n\nPreferred Qualifications\nAWS or other cloud platforms • Docker/Kubernetes • Redis • ORMs (NHibernate, Dapper) • IoT protocols • RFID/BLE/GPS technologies • ML model integration or AI-powered feature development\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/20/26",
+        "start_dateStr": 1779235200000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Fi4H7nV12y_WTe-11Jn4Zn_Csr8FfXIhUTPUBAfNz-o",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3cwUx3erdyVkEW8gBld_W3ag="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c3sVyd2pKeQkC0lBCwnCVxc=",
+      "title": "Senior Developer - .NET",
+      "location": "",
+      "experience": {
+        "experience": "7-12 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "\nRole: Senior Developer - .NET\n\nThe Role:\n \nWe are hiring a .NET Full Stack Developer as a forward-deployed engineer, embedding with product teams and portfolio companies to build new products and modernize established ones. You will write code across the full stack — backend services, APIs, data, and UI — and operate in an AI-first environment where the majority of code is produced through leading AI coding tools.\n \nThis is a hands-on builder role. You'll ship features end-to-end, collaborate closely with senior and principal engineers, and grow into deeper architecture and product ownership over time.\n \nWhat You'll Do\n\nBuild, test, and deploy full-stack web applications using React, .NET Core (C#), and modern frameworks.\nDesign and maintain robust data layers, including relational and NoSQL databases (SQL Server, MongoDB).\nDevelop and optimize database objects — stored procedures, indexes, and queries — ensuring high performance and scalability.\nCollaborate with product managers and design teams to translate complex domain workflows across the organisation's regulated verticals into intuitive, efficient user experiences.\nImplement, secure, and optimize RESTful APIs and microservices hosted on Microsoft Azure.\nBuild and manage CI/CD pipelines and automated deployments using Azure DevOps.\nManage Azure services such as App Service, Containers, Functions, Key Vault, Storage Accounts, Service Bus, and Application Insights.\nOptimize front-end and back-end performance for scalability, reliability, and maintainability.\nWrite clean, well-structured, and testable code following industry best practices.\nParticipate in architecture planning, code reviews, and continuous improvement initiatives alongside senior and principal engineers.\nWork AI-first, using Claude Code, Codex, GitHub Copilot, Cursor, or JetBrains AI as your primary day-to-day development tools. The majority of your code will be AI-assisted, and you will review, refine, and validate that output to a production bar.\nContribute to new product builds and modernization across organisation's six regulated industry verticals, plus special projects from Venture AI Labs — prototypes, applied experiments, and zero-to-one product bets.\n\r\n \r\n\r\nRequirements\n\nStrong .NET Core / C# full stack experience, including ASP.NET Core, Web APIs, and Entity Framework.\nSolid React experience (TypeScript a plus) building modern, performant web UIs.\nStrong SQL Server skills — schema design, stored procedures, indexes, and query optimization — plus working experience with NoSQL (MongoDB or similar).\nHands-on Microsoft Azure experience, including App Service, Containers, Functions, Key Vault, Storage Accounts, Service Bus, and Application Insights.\nCI/CD with Azure DevOps — building pipelines, automated deployments, and release management.\nHands-on AI-first development experience with Claude Code, Codex, GitHub Copilot, Cursor, or JetBrains AI. You know how to prompt, review, and steer AI output — and when to override it.\nPython as a supporting technology is a strong plus. Being a polyglot is valued — we like engineers who reach for the right tool.\nSolid fundamentals in software design, testing, secure-by-default engineering, and observability.\nStrong communication and ownership — comfortable in a remote, forward-deployed environment with shifting context across products and teams.\n\nNice to Have\n\nExperience working in a high-velocity R&D group, innovation lab, incubator, fast-moving startup, or skunkworks-style team inside a larger enterprise.\nExperience modernizing legacy .NET systems (Framework → .NET, monolith → services, etc.).\nExposure to LLM-powered features — RAG, evals, agent frameworks, tool use.\nPrior work inside regulated industries (financial services, healthcare, legal, insurance, compliance-driven SaaS, etc.).\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/20/26",
+        "start_dateStr": 1779235200000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/3Uk02-VlyWZpNon7qHKPcPP4kMehb_AxoHo8YbsyRIA",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c3sVyd2pKeQkC0lBCwnCVxc="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7PrOhIo2kx7Xt3KoBgi0G8=",
+      "title": ".NET FullStack Developer",
+      "location": "",
+      "experience": {
+        "experience": "2-5 years",
+        "min_experience": "2"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "\n,NET FullStack Developer\n \nThe Role:\n \nWe are hiring a .NET Full Stack Developer to work as a forward-deployed engineer, embedding with product teams and portfolio companies to build new products and modernize established ones. You will write code across the full stack — backend services, APIs, data, and UI — and operate in an AI-first environment where the majority of code is produced through leading AI coding tools.\n \nThis is a hands-on builder role. You'll ship features end-to-end, collaborate closely with senior and principal engineers, and grow into deeper architecture and product ownership over time.\n \nWhat You'll Do\n\nBuild, test, and deploy full-stack web applications using React, .NET Core (C#), and modern frameworks.\nDesign and maintain robust data layers, including relational and NoSQL databases (SQL Server, MongoDB).\nDevelop and optimize database objects — stored procedures, indexes, and queries — ensuring high performance and scalability.\nCollaborate with product managers and design teams to translate complex domain workflows across organisation's regulated verticals into intuitive, efficient user experiences.\nImplement, secure, and optimize RESTful APIs and microservices hosted on Microsoft Azure.\nBuild and manage CI/CD pipelines and automated deployments using Azure DevOps.\nManage Azure services such as App Service, Containers, Functions, Key Vault, Storage Accounts, Service Bus, and Application Insights.\nOptimize front-end and back-end performance for scalability, reliability, and maintainability.\nWrite clean, well-structured, and testable code following industry best practices.\nParticipate in architecture planning, code reviews, and continuous improvement initiatives alongside senior and principal engineers.\nWork AI-first, using Claude Code, Codex, GitHub Copilot, Cursor, or JetBrains AI as your primary day-to-day development tools. The majority of your code will be AI-assisted, and you will review, refine, and validate that output to a production bar.\nContribute to new product builds and modernization across oraginsation's six regulated industry verticals, plus special projects from Venture AI Labs — prototypes, applied experiments, and zero-to-one product bets.\n\r\n \r\n\r\nRequirements\n\nStrong .NET Core / C# full stack experience, including ASP.NET Core, Web APIs, and Entity Framework.\nSolid React experience (TypeScript a plus) building modern, performant web UIs.\nStrong SQL Server skills — schema design, stored procedures, indexes, and query optimization — plus working experience with NoSQL (MongoDB or similar).\nHands-on Microsoft Azure experience, including App Service, Containers, Functions, Key Vault, Storage Accounts, Service Bus, and Application Insights.\nCI/CD with Azure DevOps — building pipelines, automated deployments, and release management.\nHands-on AI-first development experience with Claude Code, Codex, GitHub Copilot, Cursor, or JetBrains AI. You know how to prompt, review, and steer AI output — and when to override it.\nPython as a supporting technology is a strong plus. Being a polyglot is valued — we like engineers who reach for the right tool.\nSolid fundamentals in software design, testing, secure-by-default engineering, and observability.\nStrong communication and ownership — comfortable in a remote, forward-deployed environment with shifting context across products and teams.\n\nNice to Have\n\nExperience working in a high-velocity R&D group, innovation lab, incubator, fast-moving startup, or skunkworks-style team inside a larger enterprise.\nExperience modernizing legacy .NET systems (Framework → .NET, monolith → services, etc.).\nExposure to LLM-powered features — RAG, evals, agent frameworks, tool use.\nPrior work inside regulated industries (financial services, healthcare, legal, insurance, compliance-driven SaaS, etc.)\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/20/26",
+        "start_dateStr": 1779235200000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Zt2I49qEPBzlOjUzqlwhs7Q6l6OR0E9GQZ0mT6d9rHc",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7PrOhIo2kx7Xt3KoBgi0G8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6t55Wydg7vp-l-dD8LOM90=",
+      "title": "GDOT Technical Product Manager",
+      "location": "600 West Peachtree St. NW",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Leads statewide business objectives in IT fields such as electronic data processing, information systems technology, and electronic security. Has high level of responsibility within an agency or organization. Directs subordinate managers and staff.Job Summary:Position OverviewTheTechnical Product Manager (TPM) bridges the gap between complex businessworkflows and technical engineering execution. Operating within GDOT’s enterprise IT environment, the TPM is responsible for assessment of specialized applications, platforms or data product requests. This role requires a blend of business acumen and a deep understanding of technical architecture, system integrations, and data structures. Core Responsibilities1.Stakeholder Management & Requirement Engineering Act as the     primary liaison between business units (e.g., Engineering, Planning,     Operations), executive leadership, and internal/external engineering     teams. Lead     discovery sessions to uncover and analyze deep user needs, transforming     vague business requests into highly structured, prioritized product     backlogs. Translate complex business processes into technical specifications,     system architecture maps, user stories, and clear acceptance criteria for     developers. 2.Technical Leadership & Platform Governance Collaborate     closely with enterprise architects, security teams, and database     administrators to evaluate technical feasibility, manage system     dependencies, and mitigate technical risks. Ensure all     product features conform to internal IT governance frameworks, state     agency security protocols, and strict regulatory or federal compliance     standards. Evaluate APIs, data integration plans, and existing software     capabilities within the IT and Transportation Tech markets to determine     buy-vs-build strategies. 3.Communication Establish and enforce a protocol for consistent and detailed documentation for all developed solutions to be used by both internal and external resources (GDOT and suppliers).Document and present status updates to stakeholders and management4.Continuous Process Improvement & Documentation Identify     opportunities to optimize the IT project intake, evaluation, and     prioritization processes using data-driven insights. Develop,     standardize, and maintain guidelines, templates, operating procedures, and     training materials to help business users submit high-quality project     requests. Draft formal     technical policies, agency guidance documentation, and system regulations     for management approval within assigned timeframes.Preferred Qualifications  Experience: 4+ years of product management or technical program      management experience, preferably within a government agency, enterprise      IT, or transportation technology ecosystem. Technical      Acumen: Familiarity with data pipelines,      GIS/spatial data systems, cloud infrastructure (Azure/AWS), or enterprise      service platforms (e.g., ServiceNow). Vendor      Management: Experience overseeing outsourced or contractor-led      software development efforts is highly desirable Required/Desired SkillsSkillRequired /DesiredAmountof Experienceproduct management or technical program management Required4YearsFamiliarity with data pipelines, GIS/spatial data systems, cloud infrastructure (Azure/AWS), or enterprise service platforms (e.g., ServiceNow).Required2YearsVendor Management: Experience overseeing outsourced or contractor-led software development efforts is highly desirableHighly desired2YearsQuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you agree to this requirement?Question2The maximum mark-up for this engagement’s SRP rate is 25%.  To be competitive on pricing, a mark-up below the 25% threshold is suggested.  Do you agree to propose a mark-up at or below 25%?Question3This assignment is contingent upon customer renewal and availability of adequate funding. Do you agree to this requirement?Question4If selected for engagement, your candidate will be expected to start no later than 2 weeks (10 business days) after the client's selection date? Do you agree to this requirement?Question5Candidate's experience must be validated by the employer(s) they performed the work for prior to submission for this request. Has candidate's relevant experience been verified with prior employers?Question6\t\nI selected for engagement, your candidate's hourly ******* must be at least $60.89. Your candidate can be paid more; however, the hourly SRP Rate cannot exceed $76.11. Do you agree to these requirements?",
+      "closing": {
+        "closing_date": "2026-05-29T23:59:59Z",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "06/22/26",
+        "start_dateStr": 1782086400000
+      },
+      "end": {
+        "end_dateStr": "06/30/27",
+        "end_date": 1814313600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/TNKxcximWQl75iACEQdjEPi5skWtgHN9ZQGemIti4wk",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6t55Wydg7vp-l-dD8LOM90="
+    }
+  ]
+}

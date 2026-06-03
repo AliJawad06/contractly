@@ -1,0 +1,1267 @@
+{
+  "company": "Ztek Consulting Inc",
+  "scrape_date": "2026-06-02T22:46:27.675291",
+  "total_jobs": 35,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c-u1ckUpQtio3FZ5H9eY_Hc=",
+      "title": "Electrical Technician",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "6-8 years",
+        "min_experience": "6"
+      },
+      "skills": "BMS systems, CAN, LIN, Ethernet, Zonal architecture",
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\nJob Title: Electrical Technician\nLocation: Irvine, CA\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\r\n \n\n\n\nRole and responsibilities:\nElectrical Technician (Zonals / BMS ECU Testing)\nThe Electrical Technician will perform bench-level testing of Battery Management System (BMS) and Zonal ECUs, supporting validation, troubleshooting, and quality assurance of automotive electrical and electronic systems.\r\n \nKey responsibilities:\r\n•Perform electronics bench-level testing for BMS and Zonal ECUs.\n•Set up, configure, and maintain test benches and lab equipment for ECU validation.\n•Execute functional and electrical validation tests for battery systems, zonal controllers, and related components.\n•Develop and execute test cases, log defects, and support issue resolution.\n•Diagnose and troubleshoot hardware/software issues using tools such as multimeters, oscilloscopes, and diagnostic equipment\n•Support ECU flashing, configuration, and firmware validation activities.\n•Analyze test results and prepare test reports and documentation.\n•Collaborate with engineering teams (hardware, software, validation) to resolve defects and improve system performance.\n•Ensure compliance with quality, safety, and testing standards.\r\n \nMandatory skills:\r\n•Strong experience in electronic bench testing / ECU validation\n•Good understanding of BMS systems and battery electronics (cells, modules, thermal management)\n•Knowledge of Zonal architecture and vehicle electrical distribution systems\n•Hands-on experience with test instruments (multimeter, oscilloscope, etc.)\n•Understanding of automotive communication protocols (CAN, LIN, Ethernet)\n•Ability to read wiring diagrams, schematics, and electrical layouts\n•Experience in test execution, defect tracking, and validation processes\n•Strong troubleshooting and analytical skills\n\nOptional Skills:\r\n•Experience with HiL (Hardware-in-the-Loop) testing / test benches\n•Familiarity with tools like CANoe / CANalyzer / Vector tools\n•Knowledge of PCBA, board-level debugging, and ECU hardware validation\n•Exposure to high-voltage battery systems and EV architecture\n•Basic scripting or automation experience (Python, CAPL, etc.\n•Knowledge of automotive safety and standards (ISO 26262, quality processes)\n•Experience with diagnostics (UDS) and ECU communication\r\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/08/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "06/07/2027",
+        "end_date": 1812326400000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/5cLX-YRu5B9K2LHbeSVNlWSnH7anogEFvR4CnIP9vQ0",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c-u1ckUpQtio3FZ5H9eY_Hc="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cwqj9DvQUq63_M3V6Pfy_Ro=",
+      "title": "Senior Azure Infrastructure Architect",
+      "location": "600 Center RidGA Dr  Suite, Austin, TX, USA, 78753",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\nJob Title: Senior Azure Infrastructure Architect\nLocation: Remote\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\r\n \n\n\n\nRole and responsibilities:\n\nWe are seeking a Senior Azure Infrastructure Architect who can lead the design and evolution of enterprise-scale cloud infrastructure across Azure and hybrid environments.\r\nThis role requires a strong architectural mindset to understand the current enterprise ecosystem, define future-ready infrastructure strategies, and guide teams on networking, security, and platform integration without necessarily being hands-on at the implementation level.\nThe ideal candidate will combine deep knowledge of Azure infrastructure services with the ability to design, articulate, and govern scalable, secure, and cost-optimized architectures across brownfield, greenfield, and hybrid (on-premises + cloud) environments.\n\nKey Responsibilities\n• Assess existing enterprise landscapes (applications, infrastructure, integrations) and define Azure adoption and transformation strategies\r\n \n• Design future-ready architectures aligned with business, security, and scalability requirements\r\n \n• Architect end-to-end Azure infrastructure solutions including:\no Compute, storage, networking, and identity\no Hybrid connectivity and migration strategies\r\n \n• Translate business and technical requirements into scalable Azure reference architectures\r\n \n• Drive enterprise-level discussions\r\n \n• Define and govern security architecture, including:\no Azure Firewall, NSGs, Application Gateway, WAF\no Zero Trust architecture principles\no  Identity integration (Azure AD / Entra ID)\n \nMandatory Skills:\r\n• Strong understanding of Azure services including:\r\no Networking (VNet, DNS, Load Balancers, Application Gateway)\r\no Security (Azure Firewall, WAF, NSG, Private Endpoints)\r\no Compute (VMs, App Services, AKS)\r\no Storage & identity services\n\r\n• Experience with:\r\no Hub-Spoke architectures\r\no Virtual WAN models\r\no Hybrid cloud architectures\n\r\n• Proven ability to:\r\no Design large-scale distributed systems\r\no Build reference architectures and architecture patterns\r\no Evaluate trade-offs (performance, cost, scalability)\n\r\n• Deep understanding of:\r\no Network segmentation and routing\r\no Hybrid connectivity (VPN, ExpressRoute)\r\no Enterprise security frameworks (Zero Trust)\n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/_i8XLssd-RBGR3ijJ9x07cUMqwYE_ehFbe-sY3QcY30",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3cwqj9DvQUq63_M3V6Pfy_Ro="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4xmKMShiyafc9tHmGBBhfc=",
+      "title": "IBM BPM Platform Engineer / Administrator",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "DeVOps, IBM BPM, IBM Business, JVM tuning",
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\nJob Title: IBM BPM Platform Engineer / Administrator\nLocation: Chicago, IL\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\nJob Description:\nPosition Overview\nWe are seeking an experienced IBM BPM Platform Engineer to manage, support, and optimize enterprise-grade IBM BPM / Business Automation Workflow (BAW) environments.\r\nThis role focuses on platform engineering, deployment support, performance optimization, and ensuring high availability of critical business process applications.\n \nBPM Platform Job Description:\n \n1. IBM BPM Platform Administration\nInstall, configure, and maintain IBM BPM / IBM Business Automation Workflow environments.\nManage platform components across development, QA, UAT, and production environments.\nPerform environment setup, server configuration, and platform upgrades/patching.\nSupport day-to-day platform operations to ensure system stability and availability.\n \n2. Deployment and Release Support\nManage deployment of BPM applications, process apps, toolkits, and related artifacts across environments.\nSupport release management activities, including build packaging, deployment validation, and rollback planning.\nCoordinate with development and DevOps teams for smooth application migration and production releases.\n \n3. Platform Engineering and Environment Management\nDesign and maintain highly available and scalable IBM BPM platform environments.\nConfigure clusters, nodes, application servers, and supporting middleware components.\nEnsure platform readiness for enterprise workloads and business-critical process applications.\nSupport infrastructure planning and capacity management for BPM environments.\n \n4. Performance Monitoring and Optimization\nMonitor system health, application performance, and platform utilization.\nTroubleshoot performance bottlenecks, memory issues, thread issues, and environment instability.\nTune IBM BPM, WebSphere Application Server, JVM, and database configurations for optimal performance.\nImplement proactive monitoring and alerting mechanisms.\n \n5. Troubleshooting and Incident Support\nInvestigate and resolve platform-related incidents, deployment failures, and environment issues.\nPerform root cause analysis for recurring issues and implement preventive measures.\nProvide L2/L3 support for production and non-production IBM BPM environments.\nWork closely with infrastructure, database, and application teams to resolve cross-functional issues.\n \n6. Integration and Middleware Support\nSupport integration of IBM BPM with enterprise applications, web services, messaging systems, and databases.\nAssist in configuring connectivity with middleware components and external systems.\nEnsure secure and reliable communication between BPM platform and dependent services.\n \n7. Security, Compliance, and Governance\nImplement platform security standards, access controls, and environment hardening practices.\nSupport audit, compliance, backup, and disaster recovery requirements.\nEnsure deployment and operational processes align with enterprise governance standards.\n \n8. Documentation and Collaboration\nCreate and maintain platform architecture documents, configuration guides, deployment procedures, and support runbooks.\nCollaborate with solution architects, developers, administrators, and business teams.\nProvide technical guidance and best practices for IBM BPM platform usage and support.\n \nRequired Skills and Experience\n \nStrong experience in IBM BPM / IBM Business Automation Workflow (BAW) platform engineering and administration.\nHands-on experience in installation, configuration, deployment, and support of IBM BPM environments.\nStrong knowledge of WebSphere Application Server (WAS) administration and configuration.\nExperience in managing clusters, nodes, profiles, JVM tuning, and server performance optimization.\nExperience with application deployments, process app migrations, and environment promotion activities.\nStrong troubleshooting skills in platform, middleware, and application support scenarios.\nExperience with Linux/Unix and/or Windows server environments.\nStrong understanding of database connectivity and integration with IBM BPM platforms.\nFamiliarity with monitoring tools, log analysis, incident management, and root cause analysis.\nKnowledge of high availability, disaster recovery, backup, and platform resiliency concepts.\nExperience in working with enterprise release management and change management processes.\nStrong communication and stakeholder management skills.\nExperience with IBM Business Automation Workflow (BAW) in addition to IBM BPM.\nKnowledge of DevOps tools such as Jenkins, GitHub, UrbanCode Deploy, or similar deployment automation tools.\nFamiliarity with container platforms, cloud environments, or hybrid infrastructure models.\nExperience with REST/SOAP services, messaging systems, and enterprise integration patterns.\nExposure to security certificates, LDAP, SSO, and authentication/authorization mechanisms.\nUnderstanding of database platforms such as Oracle, DB2, or SQL Server.\nExperience in scripting for automation using Shell, Python, or Jython.\n \nReject if missing: IBM BPM/BAW administration hands-on experience\nReject if missing: WebSphere Application Server clustering and administration\nReject if missing: Proven deployment/release management for BPM artifacts\nReject if missing: Performance tuning (JVM/WAS/DB) and troubleshooting/RCA\nReject if missing: Database integration with Oracle/DB2/SQL Server\nReject if missing: Security basics (LDAP/SSO, certificates)\nReject if missing: Scripting/automation capability\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "07/14/2026",
+        "start_dateStr": 1783987200000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/BEzu8ZklDSe760A4bdfdPZiqcmoeV3ylmlD6jAJHLtU",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4xmKMShiyafc9tHmGBBhfc="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5GSH9dJForp2UGnRxXYiXE=",
+      "title": "Electrical Characterization Engineer",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\nJob Title: Electrical Characterization Engineer\nLocation: Palo Alto, CA\nPosition Type: Contract\nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\r\n \n\n\n\nRole and responsibilities:\nThe Electronics Test and Validation team owns the module-level validation testing for our clients. It is our responsibility to make sure ECU electronics are designed and\nmanufactured correctly. With this goal in mind, we develop scalable tools, processes, hardware, and software solutions deployed for characterization, validation, and manufacturing.\n \nIn this role, you’ll be an individual contributor with a crucial role owning the design verification and characterization of vehicle electronics, with a particular focus on Infotainment and Telematics ECUs. You’ll work cross functionally to ensure that our electronics are designed to meet module-level requirements\n \nKey responsibilities:\r\n• Develop detailed design verification and characterization test plans for all phases of ECU programs with input from reliability, design, and firmware teams\n• Lead the execution of characterization testing plans according to project milestones\n• Own test coverage reports and analysis\n• Perform bench-level characterization at IC and PCBA levels\n• Provide early feedback to design engineers regarding design decisions and testability\n• Develop and present Design for Testability (DFT) reports for ECU designs\n• Own characterization schedules to communicate status with upper management and cross- functional teams\n• Write basic automation scripts and instrumentation drivers to speed up characterization testing using Python\n• Work with software engineers to flash, test, and troubleshoot firmware\n• Lead the cross-functional effort to root cause non-compliance test results during testing by leveraging data analysis\n \nMandatory skills:\r\n• BS/MS or equivalent work experience in Electrical Engineering or related field\n• 10+ years of experience in electronics characterization and validation testing\n• Experience using lab instrumentation like oscilloscopes, power supplies, electronic loads, digital multimeters, etc\n• Very good understanding of Electrical Engineering fundamentals\n• Working knowledge of vehicle electrical systems and communication buses\n• Experience in scripting and data analysis using Python\n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/08/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "06/07/2027",
+        "end_date": 1812326400000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/aewgvOO6BjaD4IDVxgwxYFBnNq3wuLpXl-mvQUhY9KQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5GSH9dJForp2UGnRxXYiXE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5UnvpQEdICmlXf0uBe2CcI=",
+      "title": "Electrical Technician",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "6-8 years",
+        "min_experience": "6"
+      },
+      "skills": "CANoe, CANalyzer, Python, HIL, CAN, LIN, Ethernet",
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\nJob Title: Electrical Technician\nLocation: Palo Alto, CA\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\r\n \n\n\n\nRole and responsibilities:\nElectrical Technician (Infotainment / Telematics ECU Testing – InfoConn)\nElectrical Technician responsible for performing bench level testing of Infotainment and Telematics ECUs, ensuring proper functionality, quality validation, and issue diagnosis in automotive electronics systems.\r\n \nKey responsibilities:\r\n•Perform electronics bench-level testing on Infotainment and Telematics ECUs.\n•Set up and execute test benches, lab equipment, and validation setups.\n•Conduct functional testing and validation of ECU features (audio, connectivity, telematics, UI systems)\n•Create, execute, and document test cases, analyze results, and report defects.\n•Troubleshoot hardware and software issues using diagnostic tools (oscilloscope, multimeter, log analyzers).\n•Support ECU integration, flashing, and configuration activities.\n•Work with cross-functional teams (hardware, software, QA) for issue resolution.\n•Maintain test logs, documentation, and ensure compliance with quality standards.\n•Assist in regression testing and validation for new releases or updates.\n \nMandatory skills:\r\n•Strong hands-on experience in electronics bench testing / ECU testing\n•Good understanding of Infotainment and Telematics systems\n•Knowledge of automotive protocols (CAN, LIN, Ethernet)\n•Experience using test instruments (multimeter, oscilloscope, etc.)\n•Ability to read and interpret schematics and wiring diagrams\n•Experience in test case execution, defect logging, and validation\n•Basic knowledge of ECU flashing / diagnostics tools\n•Strong troubleshooting and analytical skills\n\nOptional Skills:\r\n•Experience with HiL (Hardware-in-the-Loop) testing or test benches\n•Familiarity with tools like CANoe / CANalyzer / CAPL scripting\n•Knowledge of PCBA, ECU hardware validation, and board-level debugging\n•Exposure to Infotainment UI/UX testing, audio/video validation, connectivity features\n•Basic programming or scripting (Python / automation tools)\n•Experience in automotive standards and quality processes\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/08/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "05/10/2027",
+        "end_date": 1809907200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/BfEhHXl_Lq8tyyxSVfe3UeHYNpk_61wfLaF_G1wJrDQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5UnvpQEdICmlXf0uBe2CcI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c-qPlKZYzZxnYFgtE48hG7I=",
+      "title": "SAM Manager",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": "Software Procurement, Strategic Sourcing, Vendor Management, SaaS licensing",
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\nJob Title: SAM Manager\nLocation: Bay Area\nPosition Type: Contract\nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\nJob Summary\n\r\nWe are seeking a highly strategic and results-driven leader to manage enterprise software procurement, vendor strategy, and commercial optimization initiatives across a complex global technology environment. The ideal candidate will drive sourcing strategy, supplier governance, contract negotiations, cost optimization, and cross-functional stakeholder alignment while supporting large-scale technology and AI transformation programs.\r\nThis role requires deep expertise in enterprise software licensing, SaaS commercial models, vendor relationship management, procurement operations, and strategic sourcing within fast-paced technology organizations.\n\nKey Responsibilities\r\nStrategic Procurement & Sourcing\r\n•    Lead enterprise-wide sourcing initiatives for software, SaaS, cloud, AI, infrastructure, and technology services.\r\n•    Develop and execute vendor strategy aligned with business, engineering, security, legal, and finance objectives.\r\n•    Drive competitive sourcing events including RFIs, RFPs, RFQs, and strategic negotiations.\r\n•    Evaluate supplier capabilities, pricing structures, licensing models, and long-term strategic fit.\n\r\nVendor Management & Governance\r\n•    Build and manage strategic relationships with global technology vendors and partners.\r\n•    Establish vendor governance frameworks, KPIs, SLAs, QBRs, and performance scorecards.\r\n•    Drive supplier accountability, operational excellence, and risk mitigation strategies.\r\n•    Lead escalations and executive-level supplier negotiations.\n\r\nCommercial Negotiations\r\n•    Negotiate complex enterprise agreements including: \r\no    SaaS contracts\r\no    Cloud agreements\r\no    AI platform licensing\r\no    Enterprise software renewals\r\no    Professional services agreements\r\no    Consumption-based commercial models\r\n•    Optimize commercial terms, pricing, renewals, and contractual protections.\r\n•    Partner closely with legal and finance teams to mitigate contractual and operational risks.\n\r\nFinancial & Operational Optimization\r\n•    Identify opportunities for cost savings, vendor consolidation, and procurement efficiencies.\r\n•    Analyze software spend, utilization trends, license optimization opportunities, and ROI metrics.\r\n•    Support budgeting, forecasting, and financial planning initiatives for technology investments.\n\r\nCross-Functional Leadership\r\n•    Partner with Engineering, IT, Security, Legal, Finance, Procurement Operations, and Executive Leadership teams.\r\n•    Support enterprise transformation initiatives involving AI, cloud, infrastructure modernization, and procurement automation.\r\n•    Influence senior stakeholders through data-driven insights and strategic recommendations.\n\r\nRisk, Compliance & Controls\r\n•    Ensure vendor compliance with security, privacy, legal, and regulatory standards.\r\n•    Support software governance, procurement policies, and audit readiness initiatives.\r\n•    Manage supplier risk assessments and business continuity considerations.\n\r\nRequired Qualifications\r\n•    Bachelor’s degree in Business, Supply Chain, Finance, Technology, or related field.\r\n•    10+ years of experience in: \r\no    Software Procurement\r\no    Strategic Sourcing\r\no    Vendor Management\r\no    Technology Commercial Negotiations\r\n•    Experience managing enterprise software vendors in large-scale technology environments.\r\n•    Strong understanding of: \r\no    SaaS licensing\r\no    Cloud commercial models\r\no    Enterprise software agreements\r\no    Procurement operations\r\n•    Proven experience negotiating multi-million-dollar technology contracts.\r\n•    Strong executive communication and stakeholder management skills.\r\n•    Experience working with global cross-functional teams.\n\r\nPreferred Qualifications\r\n•    Experience within large technology companies or Fortune 500 enterprises.\r\n•    Exposure to AI, cloud, infrastructure, and enterprise platform procurement.\r\n•    Familiarity with procurement tools such as: \r\no    Coupa\r\no    SAP Ariba\r\no    Oracle\r\no    Workday\r\no    ServiceNow\r\n•    Knowledge of supplier risk management and governance frameworks\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "08/31/2026",
+        "end_date": 1788134400000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/56gTiwUXQ53BpQY6VJ3I15n857G754MJIgWaNuMh_Ck",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c-qPlKZYzZxnYFgtE48hG7I="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2KUH0Q2Rg5vQjF9ktbjFj0=",
+      "title": "Debt Manager (Collection - Thripthy)",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "8-12 years",
+        "min_experience": "8"
+      },
+      "skills": "Treasury  Risk, Debt Manager, SAP Oracle",
+      "posted": {
+        "date_postedStr": "06/02/2026",
+        "date_posted": 1780358400000
+      },
+      "description": "\n\nJob Title: Debt Manager (Collection - Thripthy)\nLocation: Hanover, MD\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\nKey Responsibilities\n\r\nArchitecture  Design\r\nDefine and implement endtoend integration architecture for Debt Manager and related financial systems\r\nDesign scalable solutions for integrating loandebt instruments payment systems accounting platforms and reporting systems\r\nEnsure alignment with enterprise architecture standards security protocols and compliance frameworks\r\nFIC Financial Instrument Calculation Expertise\n\r\nConfigure and validate FIC models and logic for\r\no Interest calculations fixed floating amortization\r\no Cash flow projections\r\no Accruals and amortization schedules\n\r\nAnalyze financial instruments and ensure accurate valuation and accounting treatment\r\nSupport reconciliation between Debt Manager outputs and downstream financial systems GL Treasury ERP\n\r\nIntegration Development  Delivery\r\nLead integration efforts using APIs middleware and ETL tools\r\nDevelop and oversee interfaces between\r\no Debt Manager systems\r\no Treasury  Risk systems\r\no ERP platforms eg SAP Oracle\r\nEnsure realtime or batch data synchronization with high data accuracy and integrity\n\r\nData  Process Management\r\nDefine data mapping transformation rules and validation frameworks\r\nTroubleshoot complex data inconsistencies related to debt instruments and calculations\r\nEnsure data governance lineage and audit readiness\n\r\nStakeholder Collaboration\r\nWork with Finance Treasury Risk and IT teams to gather requirements\r\nTranslate business requirements into technical solutions with FIC alignment\r\nProvide guidance to development teams and mentor junior architectsdevelopers\n\r\nPerformance  Optimization\r\nIdentify and resolve performance bottlenecks in integrations\r\nOptimize financial calculation processes and data pipelines\n\r\nRequired Skills  Qualifications\n\r\nTechnical Expertise\r\nStrong experience with Debt Manager platforms eg Wall Street Suite SAP TRM FIS or similar\r\nDeep understanding of FIC Financial Instrument Calculation frameworks\n\r\nExpertise in\r\no Integration technologies RESTSOAP APIs middleware\r\no Data formats XML JSON flat files\r\no ETL tools and message queues\n\r\nFamiliarity with enterprise systems SAP Oracle Financials Treasury systems\r\nFinancial Domain Knowledge\r\nStrong understanding of\r\no Loandebt instruments\r\no Interest rate models\r\no Financial accounting principles GAAPIFRS\n\r\nExperience with cash flow modeling and reconciliation processes\n\r\nArchitecture  Tools\r\nExperience with integration architecture patterns microservices eventdriven SOA\r\nKnowledge of cloud platforms Azure AWS is a plus\r\nExperience with data modeling and database technologies SQL NoSQL\n\r\nSoft Skills\r\nExcellent analytical and problemsolving skills\r\nStrong communication with technical and business stakeholders\r\nAbility to manage multiple priorities in a fastpaced environment\n\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/G8zkpGewBSokc9rkbSBqisx1Q5kzLdTwnOWsSY8lf68",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2KUH0Q2Rg5vQjF9ktbjFj0="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0z5014bjKWi9v-rTRT8MdY=",
+      "title": "SAP Analytics Cloud Consultant (SAC)",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "SAC, SAP",
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "Tittle: SAP Analytics Cloud\nLocation: Chicago, IL (Remote)\nDuration: Fulltime\nMust Have Technical/Functional Skills\nKey job responsibilities\n\nSeeking an experienced SAP Analytics Cloud (SAC) Consultant to design, build, and optimize enterprise analytics solutions across BI reporting, dashboards, planning, and predictive scenarios. \nThe ideal candidate has end‑to‑end SAC implementation experience, strong data modeling skills (SAC + SAP BW/HANA), and the ability to partner with business stakeholders to convert requirements into scalable, secure analytics products\n\nRoles & Responsibilities\nSolution Design & Delivery\n\nLead the design and development of SAC stories, dashboards, and analytic applications (including KPI definitions, calculations, and responsive layouts).\nImplement SAC Planning models (dimensions, versions, data actions, allocations, advanced formulas) and Forecasting workflows.\nConfigure live and acquired data connections (e.g., S/4HANA, SAP BW/4HANA, SAP HANA, OData, SQL sources), ensuring performance and governance.\n\nData Modeling & Integration\n\nBuild and optimize SAC models (measures, hierarchies, currency conversion, security).\nCollaborate with BW/HANA teams on views/queries (e.g., CDS views, Calculation Views, BEx/BW queries).\n\nPlanning & FP&A Enablement\n\nDesign planning templates, driver-based models, version management, and what‑if simulations.\nImplement data actions, advanced formulas, and multi-step allocation logic.\n\nGovernance & Security\n\nDefine roles, teams, and authorizations; enforce RLS/column-level security and promote content across tenants.\nEstablish naming conventions, transport strategy, and lifecycle management standards.\n\n \nStakeholder Engagement\n\nRun workshops, gather requirements, produce functional/technical designs, and provide UAT support and training.\nAdvise on visualization best practices and self-service enablement for business users.\n\nOperations\n\nEstablish monitoring, performance tuning, and housekeeping routines.\nDocument solutions (runbooks, user guides) and support hypercare/AMS.\n\nRequired Qualifications\n\n4–8+ years of analytics/BI experience; 2–4+ years hands-on with SAP Analytics Cloud.\nProven delivery of at least 2 end‑to‑end SAC implementations (including planning and reporting).\nStrong knowledge of SAC Modeling, Stories, Analytic Designer, and SAC Planning (data actions, advanced formulas, allocations).\nPractical experience with live connections to S/4HANA/BW/HANA and acquired data workflows.\nProficient in data modeling, calculations, and performance optimization.\nExcellent communication, stakeholder management, and documentation skills.\n\nGeneric Managerial Skills, If any\n\nSAP BW/4HANA or HANA modeling (Calculation Views, SQLScript) exposure.\nExperience with SAC Predictive, Smart Predict, and time-series forecasting.\nFamiliarity with SAC APIs, Analytic Application scripting (JavaScript), and custom widgets.\nKnowledge of Group Reporting, BPC to SAC Planning migration, or Integrated Financial Planning (IFP).  \nExposure to Power BI/Tableau or Azure/AWS data services in hybrid landscapes\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "04/28/2026",
+        "start_dateStr": 1777334400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Bhavana ChaudhariBhavana@ztekinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/9UvQVgjqdgELRneFAncL2QUdUK6iRW4zSJs_bJLa8L0",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0z5014bjKWi9v-rTRT8MdY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3czKLpgJEjONcpzugYxxl4c4=",
+      "title": "5G Core Engineer with RAN integration Experience",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "6-8 years",
+        "min_experience": "6"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "\n\nJob Title: 5G Core Engineer with RAN integration experience\nLocation: Denver , CO\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\nRole and responsibilities:\nEngineers are responsible for the production and ongoing maintenance of a website platform. \nThey also manage cloud infrastructure and system administration and work with teams to identify and repair issues on an as-needed basis, so strong communication skills are important in this position. \nThey are generally expected to work well under pressure with tight deadlines for certain tasks, and a proactive demeanor and friendly disposition are also helpful. Engineers may work with junior and senior engineers, project managers, and executives, as well as administrative assistants, executive assistants, and receptionists. \nHours can be flexible, though they typically work during regular weekly business hours, and they are not usually responsible for customer/client interaction or supervising junior employees. Develop comprehensive architecture and operational documentation. \nDefine design standards for WiFi infrastructure. \nSupport Wireless Access Gateway architecture. \nProvide domain expertise for troubleshooting and optimization. Support routing, switching, firewall, and wireless backbone. \nTroubleshoot production incidents and performance issues. \nCapacity planning and network optimization. Support high availability and redundancy design. \nWork closely with operations and infrastructure teams. \nSupport 5G Core components (AMF, SMF, UPF, PCF, NRF, etc.) Assist with RAN integration and performance tuning. \nTroubleshoot signaling and data path issues. \nEnsure alignment with 3GPP standards. \nProvide strategic guidance for 5G scalability and optimization. \nDevelop operational documentation. Develop operational documentation. \nAssist in knowledge transfer and cross-team enablement .\r\n5- 10 years of experience.\r\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/I69-PA3rG9IwI6W-vJREiRP9jaipq3Ww2pCKoyQswtw",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3czKLpgJEjONcpzugYxxl4c4="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c8LUNsE-65zL6VG0WbvGx0U=",
+      "title": "Senior PC Developer",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "5-8 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "\n\nJob Title: Senior PC Developer\nLocation: Portsmouth, NH\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nJob Description:\n\nExperience Required 5 Years\nMandatory Experience Majesco Billing ICD ICM Toolkit\n\nJob Overview\n\nThe Senior PC Developer will be responsible for the implementation, configuration, customization, and ongoing maintenance of Majesco Insurance Billing software products\nThe role requires strong handson experience with Majescos proprietary Toolkit framework ICD ICM to deliver scalable and high performing billing solutions aligned with defined business processes and application requirements\nAs a senior team member the developer is expected to own complex technical components prepare low level technical specifications and guide junior developers throughout the development lifecycle The role involves close collaboration with product designers solution architects and cross functional teams to ensure quality driven delivery across all phases of the project\n\nDuties and Responsibilities\n\nCollaborate with product designers and solution architects to ensure platform configurations and custom components meet functional scalability and performance requirements\nImplement and customize Majesco Billing functionality using the ICDICM toolkit framework\nDesign develop and maintain workflows including defining and updating object models and data mappings\nWrite configure and manage business rules using the Rules Engine\nConfigure build and test application components in multiple environments\nPerform and review unit testing activities to ensure code quality and functional accuracy\nSupport deployment activities including environment readiness troubleshooting and postdeployment validation\nDevelop and execute database scripts and perform detailed data verification and validation\nMentor junior developers review technical work products and enforce development best practices\n\n \nMandatory Skills Attributes\n\nStrong application programming experience with a focus on insurance domain solutions\nSolid understanding and handson experience with ObjectOriented Programming Java\nProven experience with Majesco Billing and ICDICM tools\nExperience working with Oracle databases with a clear understanding of RDBMS concepts\nHandson experience with XMLXSD for data exchange and configuration\nExposure to web application development technologies\n\n \nDesirable Skills Attributes\n\nExposure to web services development\nKnowledge of business rule configuration and management\nUnderstanding of workflow concepts and implementations\nExposure to HTML5\n\n \nOther Skills\n\nStrong inclination toward learning new tools platforms and technologies\nAbility to create review and maintain technical documentation and lowlevel design artifacts\nStrong analytical problem solving and communication skills\nAbility to work independently and collaboratively in a fast paced delivery environment\n\n \nThis role is ideal for a senior Majesco Billing developer who brings both handson technical expertise and leadership capabilities within ICD ICM based PC insurance implementations\n \n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "05/15/2026",
+        "start_dateStr": 1778803200000
+      },
+      "end": {
+        "end_dateStr": "09/15/2026",
+        "end_date": 1789430400000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Wj8a9wQS2iDPrFw8N62zSMzBmoSvC0wHp4ZzX9G40yc",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c8LUNsE-65zL6VG0WbvGx0U="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_80yogMMeMrDY4CTGU2kYk=",
+      "title": "Integration Data Migration Lead",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "\nJob Title: Integration Data Migration Lead\nLocation: Portsmouth, NH\nPosition Type: Contract\nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\n\nJob Overview\n\r\nThe Integration Data Migration Lead will be responsible for leading the integration workstream for a largescale insurance transformation program involving the Majesco platform\r\nThis role owns the design development and delivery of all integrations and data migration activities ensuring seamless data flow between Majesco and external systems\r\nThe position requires strong leadership deep insurance domain expertise and handson experience with Majesco integrations and data migration\r\nThe lead will work closely with business functional and technical stakeholders to define integration architecture data migration strategies and ensure successful system transitions from legacy platforms to Majesco\n\nKey Responsibilities\n\r\nIntegration Leadership\r\nLead the endtoend integration workstream including solution design development oversight and delivery\r\nDesign and manage integrations between Majesco Policy Billing Claims Core and external systems such as CRM Billing systems Claims platforms DMS and financial systems\r\nDefine and implement APIbased integrations using REST and SOAP services\r\nOversee middlewarebased integrations using tools such as MuleSoft Boomi or Tibco\r\nEnsure scalability performance error handling and security standards are met\n\r\nData Migration Conversion\r\nLead endtoend data migration from legacy insurance systems into Majesco\r\nDefine the data migration strategy including extraction transformation loading ETL and reconciliation\r\nDevelop and manage data mapping documents transformation rules and validation plans\r\nOversee mock conversions reconciliation cycles and cutover planning\r\nEnsure data quality completeness and accuracy postmigration\n\r\nStakeholder Collaboration Delivery Support\r\nCollaborate with business functional architecture and development teams to align integration and migration design with business requirements\r\nProvide technical leadership during System Integration Testing SIT User Acceptance Testing UAT and production golive\r\nSupport defect resolution issue triage and production stabilization activities\r\nProvide regular status updates risk assessments and mitigation plans to program leadership\n\r\nRequired Skills Experience\n\r\nCore Experience\r\nStrong handson and leadership experience with Majesco platforms Policy Billing Claims andor Core\r\nDeep insurance domain expertise across PC Life or Health insurance\r\nProven experience leading data migration and reconciliation initiatives\r\nExtensive experience with system integrations using REST SOAP JSON and XML\r\nStrong SQL skills with Oracle andor SQL Server\n\r\nIntegration Tools\r\nHandson experience with middleware platforms such as MuleSoft Boomi or Tibco\r\nExperience designing integration architectures in complex enterprise environments\n\r\nNicetoHave Qualifications\r\nMajesco certifications\r\nExposure to cloud platforms such as AWS or Azure\r\nExperience working in Agile or hybrid delivery models\n\r\nSuccess Factors\r\nSeamless integration between Majesco and external systems\r\nAccurate reconciled and timely data migration with minimal postgolive issues\r\nStrong crossteam collaboration and stakeholder confidence\r\nStable production golive and reduced integration defects\r\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "09/15/2026",
+        "end_date": 1789430400000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/I04xK4a1YeFFLBd8YP-wJUg0wTainfOOfhP1Q009FoI",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_80yogMMeMrDY4CTGU2kYk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cylZ8jJU-h1lG_Imu1AqsOE=",
+      "title": "System Test Engineer",
+      "location": "333 Clay Street, Suite 5050, Houston, TX, USA, 77002",
+      "experience": {
+        "experience": "4-6 years",
+        "min_experience": "4"
+      },
+      "skills": "QMS, SOPs, Linux",
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "\nJob Title: System Test Engineer \nLocation: Minneapolis, MN\nPosition Type: Contract\nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\r\n \n\n\n\n\nRole and responsibilities: \n\n\nThis position requires Engineer with a strong background in system verification and a deep understanding of the product development life cycle especially in electro-mechanical medical device. The ideal candidate will help us and our clients by designing, developing, and verification of Test Methods, Protocols on a Linux based platform to ensure the quality and reliability of our software applications.   \n\n\nSkills & Knowledge Requirements \n\n\nMust have Knowledge of QMS, SoPs along with working in regulated industry for system verification is mandatory.  \nMust have hands-on experience of working in remediation programs (e.g. gap analysis, DHF remediation, design remediation, compliance remediation). \nExperience of working in medical device is mandatory – at least 2 full cycle system verification of products (e.g. 3-4 years of working experience in medical device out of total 6 – 7 years of working experience) \nProvides technical leadership on a cross-functional engineering team. \nDefines and analyzes system requirements, clinical workflows, and input/output processes by using current systems engineering methods and technologies. \nExperience of system verification (working in Lab) of electro-mechanical products, mixed Hardware & software systems – at least one full cycle starting from understanding of product requirement till system verification \nHands on experience in test method validation, especially analysis based on intended usage collecting objective evidence on consistent basis. \nKnowledge of risk management of product – failure mode analysis and articulating system verification test cases and expertise in writing verification protocols  \nDocuments system architecture and design control elements by writing documents, reports, and memos.  \nTranslates customer needs into technical requirements, engaging the field, marketing, service and other functions as needed.  \nLeads and assists with industry-based standards testing for safety and EMC according to 60601-1  \n\n\nWorks with a cross-functional team and serves as an R&D representative on cross-functional deliverables.\r\nCreating test set-up including experience in handling of test fixture especially on trouble shooting, making it work, collecting consistent data. \nExecution of tests, including user level experience in working with Linux workstation   \nReport writing, discussion with various stakeholders including product requirements, QA & RA teams \nKnowledge in OOO programming languages such as Python, JAVA, C++ is an added advantage.  \r\n \n\n\nGood to have: \n\n\nStrong knowledge of laboratory equipment such as DSO (Digital Storage Oscilloscope), multimeter, and logic analyzer, along with familiarity with analog and digital electronics (e.g., DC-DC converters, sensor interfaces, microcontrollers) \nHands-on experience with MATLAB, with working knowledge of Python as an added advantage \nProficiency in Linux operating systems and familiarity with Agile methodologies and development practices \r\n \n\n\nJob Responsibility \n\n\nDevelop Verification Plans: Create comprehensive verification plans that outline the testing strategy for system-level functionality, ensuring alignment with product requirements and specifications.  \nConduct Testing: Perform various types of testing, including functional, performance, and stress testing, to validate the system's performance and reliability under different conditions.  \nCreate and Execute Test Cases: Design and execute test cases based on requirements and design documentation, ensuring thorough coverage of all functionalities.  \nIdentify and Report Issues: Detect, track, and resolve bugs and issues that arise during testing. This includes documenting findings and collaborating with development teams to enhance product quality.  \nCollaborate with Development Teams: Work closely with software and hardware development teams to provide feedback and insights that can improve the overall product quality and performance.  \nAnalyze Requirements: Understand and analyze product requirements and specifications to ensure that the verification process is aligned with the intended functionality. \r\n \n\n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/08/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/OSNjhIcn5CduYS78ofaIQjx4ctNFVCACTBSlIKiPv2E",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3cylZ8jJU-h1lG_Imu1AqsOE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cxXSJOXZ8QtvGejvWnz9wIo=",
+      "title": "Technical Program Manager",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "6-8 years",
+        "min_experience": "6"
+      },
+      "skills": "JIRA, Confluence, Smartsheet, DeVOps",
+      "posted": {
+        "date_postedStr": "06/01/2026",
+        "date_posted": 1780272000000
+      },
+      "description": "\n\nRole: Technical Program Manager\nWork location:  Philadelphia, PA\nType of hire: Contract\n \nJob Description:\n\"● BS/ MS degree or equivalent practical experience \n● 6-8 years' experience in technical program management, or a combination of TPM and engineering experience \n● Additionally, professional certifications such as Project Management Professional (PMP) or Certified ScrumMaster (CSM) may be preferred  \n● Strong technical background with the ability to understand and guide complex technical initiatives. \n● Experience in Agile/Scrum methodology ideally in a fast-paced DevOps environment \n● Mastery in Tools like Jira, Confluence and Smartsheet \n● Experience managing cross-functional, geographically distributed teams and working in global, fast-paced environments. \n● Excellent communication and interpersonal skills, with the ability to influence and \ncollaborate effectively with senior leadership, engineers, and other stakeholders. \n● Agility balancing competing priorities while driving projects to successful completion. \n● Experience in Embedded domain (preferably with Video/ Broadband domain) \n● Previous experience in a quality engineering or release management role. \"\nKey Responsibilities:\n\nUnderstands the scope of technical programs as defined by the product and business \nrequirements and the budget process. Participates in the key planning of milestones.  \nIdentifies, confirms, and obtains participation from required cross-functional teams. \nWorks with the other team members and initiatives effectively. \nBuilds program plans and program records. Works with the core team to identify and schedule all the work required to fulfill program scope, including identification and management of critical path tasks. Identifies and manages program critical paths. \nFacilitates the development of key goals, objectives and success criteria for the program using specific knowledge about one or more technical areas to research, plan, communicate and achieve objectives through the program/project team. \nSupports the budget and resource forecasting exercises. \nAnalyzes areas of risk to avoid risky activities by identifying and managing critical paths and risk areas. Establishes contingency plans and identifies trigger events and assumes responsibility for initiation corrective actions. Escalates early to appropriate levels. \nWorks with leadership and core team members to help identify and assist in making program trade-offs to balance scope, time and costs while developing resolutions to complex problems that require the frequent use of creativity. Ensures proper documentation. \nTracks and manages the program schedule and upstream and downstream dependencies. Analyzes the actual performance against the plan and makes adjustments consistent with plan objectives. Develops resolutions to complex problems that require the frequent use of creativity. Oversees the team as they plan, track and execute project plans from start to completion. \nCommunicates updates on major milestones and keeps all stakeholders informed of progress and issues. Identifies and manages proposed changes to technical program parameters and works with management to ensure appropriate processes and communications are followed. \nMonitors and ensures quality of program deliverables. Works with core team and key field resources to develop and monitor deployment schedule, strategies and tools to support the implementation of programs in the field through trials and controlled customer deployments. \nWork with stakeholders to drive epics, user stories, and defects via agile sprint process \nAble to work across and enable alignment with distributed teams in the USA,Europe, and India. \nAdept at delivering concise, detailed reporting on all aspects of the team’s BAU and strategic activities, identifying areas of improvement and gaps in process.  \nThrives in ambiguity and can reconcile differences in data reporting from different stakeholders. Proactively address issues as they come up. \"\n\nWhat are the Mandatory skills and skill proficiencies required for this position?\n\nTechnical Program Management, PMP or CSM, Broadband/Video domain experience\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/fL8Pc9RiHHD7dDmwsTCQTPCM9qzU6CXPdCSt6ltDfQc",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3cxXSJOXZ8QtvGejvWnz9wIo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2Kon310GozA0xzK_e6MFTA=",
+      "title": "Data Modeler/ Analyst with exposure of AEP/ CDP project",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "data collection, Data Lake, AEP, data model, JSON, Data Warehousing",
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "\n\nJob Title: Data Modeler/ Analyst \nLocation: Alpharetta, GA\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\nWe are seeking a highly skilled and experienced Marketing Data Modeler/ Analyst with CDP hands on experience like Adobe Experience Platform.\r\nYou will work closely with cross-functional teams to drive data ingestion modeling and activation across Adobe and third-party systems\n\r\nAEP APIs:Hands-on experience with Adobe Experience Platform APIs to manage data ingestion, profile updates, schema modifications, and real-time/on-demand segmentation.\n\r\nRoles:\r\nDefine and implement data modelling strategies for customer segmentation personalization and activation across channels\r\nCollaborate with business stakeholders along with AEP Architect to align AEP capabilities with marketing analytics and customer experience goals\r\nSupport developer(s) to set up  data pipelines for ingesting transforming and activating customer data using AEP tools like Data Collection Data Lake and Identity Services\r\nSupport developer(s) to design and implement schemas using XDM Experience Data Model and ensure data governance and compliance\r\nProvide best practices for new channel sources onboarding into AEP, data model, data privacy best practices for CDP implementation\r\nConduct training sessions and create documentation for end-users and stakeholders\r\nPerform data validation for ingested data, pipeline against sources\r\nMonitor system performance troubleshoot issues and ensure data integrity and security\r\nProvide documentation support\r\n \r\nQualifications\n\r\nRequirements\r\nBachelors or masters degree in computer or related field\r\n9 years in data platforms and good domain experience platforms 4 years in AEP implementation\r\n1 to 2 years of experience in Adobe Experience Platform AEP development\r\nStrong proficiency for data model, schema structure,\r\nExperience with ingestion process using JSON and XML for CDP\r\nExperience with data warehousing data modeling and data quality best practices\r\nDesign and develop data pipelines and integrations using AEP\r\nImplement data modeling governance and security best practices\r\nTroubleshoot and resolve data quality issues and performance bottlenecks\r\nCollaborate with marketing product and data science teams to enhance customer experience\r\nFamiliarity with data privacy regulations including GDPR CCPA and DPDP Act\r\nAnalyze data trends to provide business intelligence and recommendations\r\nFamiliarity with Agile methodologies and project management principles\r\nExcellent problem solving communication and stakeholder management skills\r\nExperience with Marketing Data Lake in any of the platforms like AWS or Microsoft Azure\r\nAbility to work independently and lead cross-functional initiatives\r\nStrong verbal and written communication skills to articulate ideas and collaborate with crossfunctional teams\r\n \r\nAdditional Preferred Skills\r\nAdobe Certified Expert Adobe Experience Platform\r\nExperience with Adobe Experience Platform Web SDK and Mobile SDK\r\nExposure to marketing automation platforms and customer data platforms CDPs\r\n \n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "07/01/2026",
+        "start_dateStr": 1782864000000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/pqyqgRhyM332t7S7W14BwBcMwo7J5GuYManlRw0U6cY",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2Kon310GozA0xzK_e6MFTA="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c9NUsOzrIKyGACZKK1Oa2FM=",
+      "title": "Technical Engineer - Lab IT",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "3-5 years",
+        "min_experience": "3"
+      },
+      "skills": "MCSA, MCSE, PowerShell",
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "\nJob Title: Technical Engineer - Lab IT\nLocation: Bradly IL (Kankakee)\nPosition Type: Contract\nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\n\nJob Summary:\r\nWe are seeking a skilled Technical Analyst to lead the migration of GxP lab systems from Windows 7 to Windows 10.\r\nThe ideal candidate will have extensive experience in system migrations, particularly within regulated environments, and a strong understanding of GxP compliance requirements.\n\r\nKey Responsibilities:\r\n•Plan and Execute Migration: Develop and implement a comprehensive migration plan for transitioning GxP lab systems from Windows 7 to Windows 10.\r\n•System Assessment: Conduct thorough assessments of existing systems to identify compatibility issues and ensure all lab applications and instruments are supported on Windows 10.\r\n•Compliance Management: Ensure all migration activities comply with GxP regulations and maintain system validation throughout the process.\r\n•Technical Support: Provide technical support and troubleshooting during the migration process to minimize downtime and ensure a smooth transition.\r\n•Documentation: Maintain detailed documentation of the migration process, including validation protocols, test scripts, and user manuals.\r\n•Training: Train lab personnel on new system features and changes post-migration to ensure seamless adoption and compliance.\r\n•Collaboration: Work closely with IT, QA, and lab teams to coordinate migration activities and address any issues that arise.\n\n\r\nWhat are the Mandatory skills and skill proficiencies required for this position?\r\nQualifications:\r\n•Education: Bachelor’s degree in Computer Science, Information Technology, or a related field.\r\n•Experience: Minimum of 3-5 years of experience in system migrations, with a focus on Windows operating systems and GxP environments.\r\n•Technical Skills: Proficiency in Windows 7 and Windows 10, knowledge of GxP compliance, experience with lab systems and instruments, and strong troubleshooting skills.\r\n•Communication: Excellent verbal and written communication skills, with the ability to explain technical concepts to non-technical users.\r\n•Problem-Solving: Strong analytical and problem-solving abilities, with a proactive approach to identifying and resolving issues.\n\r\nWhat are the Optional skills and skill proficiencies for this position? \r\nPreferred Qualifications:\r\n•Certification in Microsoft technologies (e.g., MCSA, MCSE).\r\n•Familiarity with automated deployment tools and scripting languages (e.g., PowerShell).\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": "03/31/2027",
+        "end_date": 1806451200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/P9oJXMDvRI0O2B-lUBbsR53-EuirdBJVxguShdGX4X8",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c9NUsOzrIKyGACZKK1Oa2FM="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c3aLpmHIzl3UMws3OAS10Go=",
+      "title": "Business Support Manager",
+      "location": "",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Business Support Manager",
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "\n\nJob Title: Business Support Manager\nLocation: Charlotte, NC\nPosition Type: Full-time\nWork Type: Onsite \n\nSalary: Base salary range around 100k to 120k + relocation expenses & client approved benefits. \nJob Description\r\n \n\n\n\nMust Have Technical/Functional Skills\nDemonstrated proficiency / advanced level MS office skills, especially Excel and PowerPoint.\nStrong analytical, financial management and organizational skills with attention to detail. Experience with Finance materials, e.g. PL.\nExperience with vendor contracts - understand financial implications, PL impacts, procurement process / navigation.\nProven ability to develop executive-ready communications and presentations.\nStrong, executive level written and verbal communication skills and executive presence.\nAbility to “connect the dots” to identify cause and effect and extract key points. Strong interpersonal and relationship management skills to establish relationships with technology executives, horizontal partners, and LOB counterparts. Strategic thinker, self-starter, organized, versatile, and capable of performing work with minimal management oversight. Proven ability to manage and drive / lead execution of multiple and often competing priorities to meet deadlines.\nDemonstrated ability to communicate effectively, both written and orally, in a clear and concise manner.\nWilling to learn fast and adapt quickly to change. Must work well under pressure.\nMust be able to think strategically across the organization to identify opportunities to improve overall performance efficiency.\nMust be able to interact and build relationships at all levels of the organization\nExcellent time management skills.\nAbility to develop comprehensive plans around key organizational priorities and ensure all accountable parties understand respective roles /responsibilities.\nAbility to break down complex issues and drive timely decisions, know when to engage others for additional input, and when to act independently.\n \nRoles & Responsibilities\no This role provides business support for the Data Management Technology Enterprise Architecture (DMTEA) organization. DMTEA has a footprint in multiple US markets and India and employs over 2,000 employees and contractors. The DMTEA COO team is responsible for running the business of technology for the Technology Executive and their team including financial management, workforce location strategy, and Executive Support while also maintaining close connectivity with HR, Finance Risk partners.\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/2026",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "Sudesh Shettysudesh@ztekinc.com",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/YwLKyxgET8V9BgvMM1m6V-4_amwUarMMbWVVqXuSVGw",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c3aLpmHIzl3UMws3OAS10Go="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0YzQOUu7AjidQYzcLMzFx8=",
+      "title": "RMA - Hardware Design Engineer",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Altium, Cadence, CAD, RMA",
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "\n\nJob Title: RMA - Hardware Design Engineer\nLocation: Palo Alto, CA\nDuration: 6 / 12 Month Contract\nJob Description:\nAbout the Job You're Considering\n\nWe’re seeking an Electrical Design Engineer to join our innovative team focused on building Electronics Control Unit (ECU) for Electric Vehicles.\nThis is a high-impact role where you’ll contribute to the design, development, validation and optimization of mission-critical systems used by global enterprises.\n\nKey Responsibilities:\n\nProvide ongoing support for deployed hardware systems, ensuring reliability and performance.\nIdentify opportunities for design enhancements and implement changes to improve efficiency, scalability, and manufacturability.\nLead investigations into hardware failures, applying analytical techniques to identify and resolve root causes.\nDevelop and execute test plans to validate hardware functionality, performance, and compliance with industry standards.\nWork closely with software, firmware, and mechanical engineering teams to ensure seamless integration and product success.\n\nWhat are the Mandatory skills and skill proficiencies required for this position?\n\nBachelor’s degree or higher in Electrical/Electronics/Computer Engineering or a related field, with 7 years of experience in hardware design and development, ideally in Automotive.\nStrong foundation in analog and digital circuit design principles.\nProficiency with schematic capture and PCB layout tools such as Altium, Cadence, or OrCAD.\nSolid understanding of signal integrity, power integrity, and thermal management.\nHands-on experience with networking and communication protocols (e.g., Ethernet, PCIe, MIPI, GMSL).\nHands-on experiences with High-speed design validation and circuit debugging\nDemonstrates strong problem-solving skills and keen attention to detail, with the ability to clearly communicate complex technical concepts to diverse audiences through both written and verbal channels\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "04/27/2026",
+        "start_dateStr": 1777248000000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/7HtdPwmiR3qDX4T5Kg02EJ3AQN-52q3eaj3acGvU7kU",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0YzQOUu7AjidQYzcLMzFx8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6S4W09M8KHqrevfLVjEYuo=",
+      "title": "Senior Technology Analyst",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": "AWS or Azure OR GCP, DeVOps, Technology Consultant, TOGAF, Zachman",
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "\n\nJob Title: Senior Technology Analyst\nLocation: New York\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\nPosition Summary\n\r\nThe Senior Technology Analyst is responsible for evaluating, designing, and implementing technology solutions that align with business strategy.\r\nThis role involves conducting deep‑dive technology assessments, leading architectural reviews, optimizing platforms, and guiding stakeholders on emerging technologies.\r\nThe ideal candidate has strong analytical skills, architectural insight, and hands‑on experience across modern enterprise technologies.\n\nKey Responsibilities\n\r\n1. Technology Evaluation & Analysis\r\nConduct comprehensive analysis of existing systems, platforms, and tools to identify gaps, risks, and improvement opportunities.\r\nEvaluate emerging technologies (cloud, AI/ML, data platforms, DevOps, automation, security frameworks) for enterprise adoption.\r\nPerform feasibility studies, ROI analysis, and technology impact assessments.\n\r\n2. Architecture & Solution Design\r\nCollaborate with solution architects to design scalable, secure, and high‑performance architectures.\r\nDevelop reference architectures, design patterns, and technical roadmaps.\r\nEnsure alignment of technology solutions with enterprise architecture standards.\n\r\n3. Requirements Gathering & Stakeholder Collaboration\r\nWork closely with business stakeholders, product owners, and engineering teams to capture functional and non‑functional requirements.\r\nTranslate business needs into clear technical specifications.\r\nAct as a technology advisor to leadership and cross‑functional teams.\n\r\n4. Technology Strategy & Roadmapping\r\nLead the creation of technology modernization plans and multi‑year tech roadmaps.\r\nSupport digital transformation initiatives including cloud migration, platform rationalization, and modernization efforts.\r\nPerform competitive analysis and benchmark industry trends.\n\r\n5. Governance, Compliance & Risk Management\r\nEnsure technology solutions adhere to security standards, regulatory requirements, and best practices.\r\nIdentify technical risks and develop mitigation strategies.\r\nParticipate in architecture review boards and governance committees.\n\r\n6. Implementation Support & Quality Assurance\r\nSupport engineering teams during implementation with technical guidance and validation.\r\nConduct code reviews, data validation, and performance assessments.\r\nEnsure delivered solutions meet quality, scalability, and reliability standards.\n\nRequired Skills & Qualifications\n\r\nTechnical Skills\r\nStrong expertise in cloud platforms (Azure, AWS, or GCP).\r\nDeep understanding of enterprise architecture frameworks (TOGAF, Zachman, etc.).\r\nAdvanced knowledge in:\r\nMicroservices & API architecture\r\nData analytics & data engineering\r\nAI/ML technologies (optional but preferred)\r\nDevOps, CI/CD tooling\r\nCybersecurity fundamentals\r\nExperience with system integration, middleware, and distributed architectures.\n\r\nAnalytical & Professional Skills\r\nStrong problem‑solving and analytical skills with the ability to break down complex technical landscapes.\r\nExcellent documentation skills (architecture diagrams, analysis reports, technical specs).\r\nEffective communication, influencing, and stakeholder management abilities.\r\nAbility to lead cross‑functional technical discussions and workshops.\n\r\nExperience\r\n10+ years of experience in technology analysis, solution design, or enterprise architecture.\r\nProven track record of delivering large‑scale, enterprise-grade technology projects.\r\nExperience working in agile and hybrid project environments.\n\r\nPreferred Qualifications\r\nCertifications such as TOGAF, AWS/Azure Architect, PMI‑ACP, or similar.\r\nExperience with generative AI, automation, and platform engineering.\r\nBackground in strategy consulting or technology consulting.\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "06/18/2026",
+        "start_dateStr": 1781740800000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/A-xfC1MMboQXuK8tOKDVMeDL3lXh7han8wTW2rQw7BE",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6S4W09M8KHqrevfLVjEYuo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c40ojunFiHVRVRsGKDkeuQE=",
+      "title": "Digital Engineer - AVEVA System Support Specialist",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/2026",
+        "date_posted": 1780012800000
+      },
+      "description": "\n\nJob Title: Digital Engineer - AVEVA System Support Specialist\nLocation: Remote \nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Remote\nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\nWe are seeking an experienced AVEVA MES Support & Implementation Engineer to design, implement, integrate, and support enterprise Manufacturing Execution System (MES / MOM) solutions built on AVEVA platforms.\r\nThe role requires hands on configuration, business process alignment, and production support across manufacturing operations, quality, and performance management domains.\n\r\nKey Responsibilities:\n\r\nKey Responsibilities MES Implementation & Solution Delivery\r\n• Design, configure, and deploy AVEVA MES / MOM solutions, including: o Production execution & work order management o Quality management & genealogy o Performance & OEE\r\no Electronic work instructions / Work Tasks\r\n• Translate business and shop floor requirements into MES functional and technical designs aligned with ISA 95\r\n• Configure MES objects, workflows, transactions, and interfaces to support end to end manufacturing processes Application & Production Support\r\n• Provide L2/L3 MES application support in production environments\r\n• Diagnose and resolve MES incidents impacting manufacturing operations, quality, or compliance\r\n• Participate in on call rotations and critical production issue resolution\r\n• Support change, incident, and problem management using ITIL aligned processes and tools Documentation, Validation & Compliance\r\n• Develop and maintain: o Configuration specifications\n\r\no Test plans, validation scripts, and execution reports \n\nWhat are the Mandatory skills and skill proficiencies required for this position?\r\nRequired Skills & Experience\r\n• Bachelor’s degree in Engineering, Computer Science, or equivalent (5)\r\n• AVEVA MES / MOM platform experience (5)\r\n• Manufacturing process knowledge (production, quality, genealogy, performance) (4)\r\n• Strong understanding of ISA 95 / MES architecture (4)\r\n• SQL Server (queries, troubleshooting, data validation) (4)\r\n• Windows Server and industrial application environments (3)\r\n• Life Science, aerospace, or other regulated manufacturing environments (3)\r\n• Strong troubleshooting and analytical skills in live manufacturing environments (3)\r\n• Ability to communicate effectively with shop floor, IT, and leadership stakeholders (3)\r\n• Customer oriented mindset with high ownership and accountability (3)\r\n• Comfortable working across time zones and global teams (3)\n\r\nWhat are the Optional skills and skill proficiencies for this position? \r\nPreferred / Nice to Have Skills\r\n• AVEVA platform certifications strongly preferred (4)\r\n• AVEVA Work Tasks, Operations, or Quality modules (3)\r\n• AVEVA System Platform / InTouch / OMI exposure (3)\r\n• OSIsoft PI / AVEVA Historian integration (3)\r\n• MES integration with ERP (3)\r\n• OPC / OPC UA and industrial data integration concepts (3)\n\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "04/30/2027",
+        "end_date": 1809043200000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/9zk0Wx1l42bPAxT6Op2_FUrvoI9I0MiJ-WV_fZgpMkU",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c40ojunFiHVRVRsGKDkeuQE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0oWaC6L26yd9OHOaa8v0A8=",
+      "title": "Anaqua Data Migration",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": "SQL, ETL, APIs, Scripting, data migration, data mapping",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "\nJob Title: Anaqua Data Migration \nLocation: Boston, MA\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\n\nThe data migration of these clients from one solution to another per the prior emails\r\nA new project to migrate ~250+ integration / batch programs using WCF technology into APi based integrations.\r\nThese could be custom APi integrations or moving them into one of our standard APi connectors / building a new connector template based on the destination system.\n\r\nTechnical Expertise\r\n• Strong database and development skills (SQL, ETL, APIs, scripting)\r\n• Experience with integrations, data migration, and system architecture\n\r\nData and Integration\r\n• Data mapping, transformation, and validation\r\n• Experience with migration tools, interfaces, and reporting\r\n• Understanding of system integration and lifecycle processes\n\r\nSolution Delivery\r\n• Translate business requirements into technical solutions\r\n• Own end to end delivery including design, build, test, and deployment\r\n• Ensure quality through testing and go live support\n\r\nKey Responsibilities:\r\nProblem Solving\r\n• Strong troubleshooting and analytical skills\r\n• Ability to resolve complex data and system issues\r\n• Detail oriented with focus on accuracy\n\r\nClient Engagement\r\n• Gather requirements and communicate technical concepts clearly\r\n• Support workshops, testing, and client discussions\r\n• Strong documentation and communication skills\n\r\nExecution\r\n• Manage multiple workstreams and meet deadlines\r\n• Strong ownership of deliverables\r\n• Effective collaboration with cross functional teams\n \n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "06/08/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "09/11/2026",
+        "end_date": 1789084800000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/O2sgB5fySj-QDuZHjZv_de7LMmxAlZzj6vESfoA0yAA",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0oWaC6L26yd9OHOaa8v0A8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c8rC2_jDAKNSyyejQUOaHOE=",
+      "title": "Mainframe DevOps Migration Consultant",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "6-8 years",
+        "min_experience": "6"
+      },
+      "skills": "YAML, Groovy Scripts, IDD/Wazi",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Title: Mainframe DevOps Migration\nLocation: Remote\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Remote \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\nWe are seeking a skilled Software Change Management (SCM) Subject Matter Expert (SME) to support application migration projects utilizing IBM’s DBB/Git/IDD Solutions.\r\nThe SME will play a key role in guiding clients through the Endevor (and other SCMs) DBB/GIT/IDD conversion process, providing technical expertise, hands-on migration support, and training delivery.\r\nThe ideal candidate has a strong z/OS and mainframe background, experience in application development or system programming, and proven customer-facing and troubleshooting skills in migration environments.\n\nKey Responsibilities:\r\n• Lead and support (CA-Endevor) SCMs to DBB/GIT/IDD migration projects.\r\n• Articulate a strategic vision for modernizing IBM's Git/DBB solution with clear business benefits\r\n• Architect DevOps pipeline using Git, IBM DBB for intelligent mainframe builds, and automated deployment\r\n• Assess current legacy SCM workflows and design a migration path to Git with IBM DBB\r\n• Perform installation, configuration, and problem determination for DBB/GIT/IDD on customer systems.\r\n• Analyze, convert, and validate Endevor applications.\r\n• Provide technical support and troubleshooting DBB/GIT/IDD-related issues.\r\n• Conduct customer training sessions and develop presentation materials for DBB/Git/IDD and migration processes.\r\n• Collaborate with IBM teams and client stakeholders to ensure successful project delivery.\r\n• Document migration processes, best practices, and technical resolutions.\n\r\nWhat are the Mandatory skills and skill proficiencies required for this position?\r\n• Clear, concise communication skills\r\n• Ability to articulate the Git/DBB Lifecycle.\r\n• Strong Application Development or System Programmer background.\r\n• Proven installation and migration experience on IBM z/OS and USS.\r\n• Excellent customer interfacing and communication skills.\r\n• Solid problem determination and troubleshooting ability related to Git/DBB/IDD/Wazi.\n\r\nProficiency in the following:\r\n• YAML / Groovy Scripts\r\n• GIT experience\r\n• Repos\r\n• Pipeline – ability to debug what pipeline/builds failed\r\n• Branching\r\n• DBB\r\n• IDD/Wazi Deployment Training & Knowledge Transfer\r\n• Ability to conduct DBB/Git/IDD/Wazi training sessions.\r\n• Experience preparing and delivering technical presentations using Microsoft Word and other standard tools.\r\n• Ability to assist clients in diagnosing and fixing conversion-related errors.\n\r\nWhat are the Optional skills and skill proficiencies for this position? \r\nEducation and Experience:\r\n• Bachelor’s Degree, or equivalent experience\r\n• 8 + years as a Systems Programmer or other similar position\r\n• 4+ years of customer-facing consulting experience\r\n• Development, application lifecycle, or change management experience is a plus Preferred Attributes\r\n• Strong analytical and organizational skills.\r\n• Hands-on experience in mainframe modernization, SCM, DBB/GIT/IDD.\r\n• Self-motivated and capable of working independently or as part of a global team.\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "06/15/2026",
+        "start_dateStr": 1781481600000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/6y5HBu2gTG615iPgkg9xHMjeLw6R8_Yw5KAAHvNFSrY",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c8rC2_jDAKNSyyejQUOaHOE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cw_50NLRTppvOgQR7uKeni8=",
+      "title": "Cards Mainframe Developer",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "5-8 years",
+        "min_experience": "5"
+      },
+      "skills": "COBOL, DB2, JCL, Unix Shell Scripting, VSAM",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "\nJob Title: Cards Mainframe Developer\nLocation: Chicago, IL\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite\nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\r\n \nJob Description:\n\r\nWe are looking for an experienced Mainframe Developer with strong expertise in COBOL, JCL, DB2, VSAM, and Unix Shell Scripting.\r\nThe ideal candidate will be responsible for developing, supporting, and optimizing mainframe applications, building automation scripts, managing backend integration workflows, and ensuring reliability across production and batch systems.\r\nThis role requires strong technical skills, problem-solving capabilities, and the ability to work effectively with cross-functional teams.\n\r\nKey Responsibilities\n\r\nMainframe Development & Support\r\n• Develop, enhance, and maintain applications using COBOL, JCL, VSAM, and DB2.\r\n• Troubleshoot, debug, and resolve mainframe application issues across development, testing, and production environments.\r\n• Optimize JCL, COBOL programs, and DB2 queries to improve system performance and efficiency.\r\n• Support daily batch processing, ensure job success, and resolve job abends promptly.\n\r\nUnix Shell Scripting & Backend Integration\r\n• Develop and maintain Unix/Linux Shell Scripts for automation, batch scheduling, and system integrations.\r\n• Ensure seamless integration between Unix-based automation and mainframe backend systems.\r\n• Troubleshoot and enhance existing scripts, improving stability and execution performance.\n\r\nDatabase & PL/SQL Development\r\n• Develop and maintain PL/SQL procedures, functions, packages, and triggers.\r\n• Perform SQL tuning and optimize database queries for performance.\r\n• Integrate shell scripts with relational databases (Oracle, DB2, MySQL or similar).\n\r\nProduction Support & Performance Optimization\r\n• Monitor scheduled jobs, resolve production incidents, and ensure overall batch stability.\r\n• Conduct root-cause analysis (RCA) and implement permanent fixes.\r\n• Enhance performance of scripts, jobs, and database queries through continuous tuning.\n\r\nCollaboration & Documentation\r\n• Work closely with stakeholders to gather requirements and translate them into scalable solutions.\r\n• Participate in Agile ceremonies and collaborate with QA, business, and support teams.\r\n• Create and maintain technical documentation including design specs, support guides, and system documentation.\n\r\nRequired Technical Skills\r\n• Strong hands-on experience in Mainframe technologies: COBOL, JCL, VSAM, DB2.\r\n• Solid expertise in Unix/Linux Shell Scripting.\r\n• Strong SQL and PL/SQL skills (procedures, functions, triggers, packages).\r\n• Experience integrating shell scripts with relational databases.\r\n• Strong debugging, analytical, and problem-solving skills.\r\n• Good understanding of batch processing and automation workflows.\r\n• Ability to work independently and collaboratively within a team.\n\r\nPreferred / Good to Have\r\n• Experience in banking, cards, or financial services domains.\r\n• Experience with ticketing tools and production support processes.\r\n• Familiarity with Git, CI/CD pipelines, or DevOps practices.\r\n• Knowledge of Python or Java for extended automation or backend integrations.\r\n• Additional mainframe skills such as:\r\n    o COBOL, PL/I, Assembler, C/C++\r\n    o CICS, IMS, and system administration on DB2/CICS/IMS\r\n    o REXX scripting for automation and migration tasks\r\n• Strong troubleshooting skills for IBM mainframe product-related issues.\n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "06/16/2026",
+        "start_dateStr": 1781568000000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/NkU35HFvfilsBzebPqPUkHhIRELfWxbtOr4qnyfLSKA",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3cw_50NLRTppvOgQR7uKeni8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4lq3Qd2h7dVGe5nTkK7aTc=",
+      "title": "SDMS Technical Lead",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Thermo Fisher Chromeleon CDS, Agilent ECM, Rotronic RMS, SQL Server",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "\nJob Title: SDMS Technical Lead\nLocation: Remote\nPosition Type: Contract\nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\nTechnical Analyst to support the technical/infrastructure workstream of an SDMS upgrade program\n\nKey Responsibilities:\n• Environment build & readiness: Drive DEV/TEST/PROD readiness (server sizing inputs, VM provisioning coordination, storage, OS baseline, access, endpoint readiness).\r\n• Network & security enablement: Own/coordinate firewall rule requests, port/protocol mapping, connectivity testing, and troubleshooting across app/DB/file shares/instrument endpoints.\r\n• Certificates / PKI: Coordinate TLS certificates (requests, installation coordination, renewals), validate trust chains, and troubleshoot TLS/certificate issues impacting services/web components.\r\n• Identity & access: Manage AD groups, service accounts permissions, least‑privilege access, and access matrix documentation.\r\n• Application technical support: Support install/upgrade readiness activities for Agilent ECM, Chromeleon CDS, Rotronic RMS, and Waters LC/MS data flow touchpoints (or comparable platforms).\r\n• Operational readiness: Coordinate backup/restore approach, monitoring requirements, AV exceptions (as needed), patching windows, and operational runbooks for steady-state support.\r\n• Cutover & hypercare: Execute/coordinate cutover readiness checklists, smoke tests, and hypercare triage with IT and vendors; maintain issue log and drive resolution.\r\n• Ensure comprehensive technical documentation is developed and maintained throughout the SDLC for the SDMS upgrade program.\r\nThis includes compiling System Design Specifications received from vendors, preparing and updating the Access Control Plan, documenting the Transition to Support process, and other required artifacts to support operational readiness and traceability.\n\r\nWhat are the Mandatory skills and skill proficiencies required for this position?\r\n• Experience with Thermo Fisher Chromeleon CDS, Agilent ECM, Rotronic RMS, and/or Waters LC/MS integrations (or comparable lab informatics platforms). - 5\r\n• Experience supporting lab/instrument environments (segmented networks, instrument PCs, controlled patching windows).- 5\r\n• PowerShell/scripting for verification/health checks and log collection. - 4\r\n• Familiarity with validation support artifacts (IQ/OQ readiness evidence, configuration records). - 4\r\n• 5+ years in technical analyst/systems analyst roles supporting enterprise on‑prem applications.- 4\r\n• Strong experience with Windows Server and enterprise application troubleshooting (services, logs, performance basics) - 4\r\n• Proven success coordinating server provisioning (VMs, storage, access, environment readiness) -4\r\n• Proven experience with firewall rules/port management, DNS basics, connectivity testing, and issue triage -4\r\n• Working knowledge of TLS/SSL certificates and enterprise PKI request processes -4\r\n• Experience with Active Directory, service accounts, permissions, and least‑privilege concepts- 4.\r\n• Familiarity with SQL Server connectivity concepts (instances, ports, authentication patterns) and partnering with DBAs - 5\r\n• Experience operating in change-controlled / regulated environments (documentation, traceability, governance)- 4\r\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": "10/30/2026",
+        "end_date": 1793318400000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/x-H65WymBCY7svZ0hCpWZx1IGOqpox7nX-z5oQHUDAo",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4lq3Qd2h7dVGe5nTkK7aTc="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6xbsRMR35cGykR4D_J3LSA=",
+      "title": "Solution Architect",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": "UML based, RATIONAL",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "\nJob Title: Solution Architect\nLocation: Erie, PA\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\n\nThe Solution Architect will be responsible for\r\no Design solutions for the project that enable customer to meet their processbusiness goals\r\no Leading the requirement session with client\r\no Development of solution architecture and design across a set of applications or applicationproduct family within an enterprise\n\r\nDuties and Responsibilities\r\no Development of solution architecture and design across a set of applications or applicationproduct family within an enterprise\r\no Enable customer to fulfil the stated project objectives\r\no Lead solution of the product implementation\r\no Support execution of project from solution perspective and technology perspective\r\no Prepare and Review estimations\r\no Support presales\r\no Support QC\n\r\nSkills Attributes Required\r\nEssential\r\no Strong PCLA Insurance domain knowledge in North AmericanIndianAsia PacificUK market\r\no Experience in ICD ICM\r\nExperience in UML based analysis and design using tools eg Rational Rose Together J\r\no Experience in setting up business rules and workflow engines\r\no Design Development experience with object oriented programming in JAVA technology stack\r\no Experience in both high level as well as low level design\r\no Should have conducted requirements sessions understanding customers business processes\r\no Understand and use frameworks to design and review solutions for functional and nonfunctional requirements\r\no Leading a team of software specialists engineers for the creation implementation of solution architecture for a productapplication\r\no Experience in any database with clear understanding of RDBMS concepts\n\r\nDesirable\r\no Experience in performance tuning of productapplication\r\no Exposure to design frameworks\r\no Exposure to automation tools\n\r\nFunctional Skills\r\no Understand the principles of accounting or commerce or finance\n\r\nOther skills\r\no Managing a team of 1012 resources\r\no Good communication as there would be a need to work closely with the customers\r\no Ready to travel onsite for 23 months duration\r\no Experience in Estimation methodologies\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/04/2026",
+        "start_dateStr": 1777852800000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/7baJFvS5cuuo4yJZ_Xr5-NXEcAKgrtAvAKCtzTDjpp4",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6xbsRMR35cGykR4D_J3LSA="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6D6wLheogCKriRY7MKTLhM=",
+      "title": "Solr Admin",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "6-8 years",
+        "min_experience": "6"
+      },
+      "skills": "Apache Solr, Jenkins, JVM tuning, Maven, Restful Services, scalable",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "\nJob Title: Solr Admin\nLocation: New York\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\n\nKey Responsibilities:\r\n• Design and implement scalable search solutions using Apache Solr.\r\n• Develop and maintain Solr schemas, configurations, and custom analyzers.\r\n• Optimize search performance and relevance through tuning and query rewriting.\r\n• Integrate Solr with other systems and APIs (e.g., RESTful services).\r\n• Monitor and troubleshoot Solr clusters and indexing pipelines.\r\n• Collaborate with cross-functional teams including data engineers, backend developers, and product managers.\r\n• Write unit and integration tests to ensure code quality and reliability.\r\n• Maintain documentation for search architecture and configurations.\n\r\nRequired Qualifications:\r\n• Bachelor’s or Master’s degree in Computer Science, Information Technology, or related field.\r\n• 3+ years of experience with Apache Solr and search technologies (Lucene, Elasticsearch).\r\n• Proficiency in Java and experience with JVM tuning.\r\n• Strong understanding of indexing strategies, tokenization, and relevance tuning.\r\n• Experience with microservices architecture and REST APIs.\r\n• Familiarity with CI/CD tools like Jenkins, Maven, and Git.\r\n• Excellent problem-solving and communication skills.\n\r\nPreferred Skills:\r\n• Experience with cloud platforms (AWS, Azure).\r\n• Knowledge of containerization tools (Docker, Kubernetes).\r\n• Familiarity with Python or scripting for automation.\r\n• Exposure to e-commerce or high-volume data environments.\r\n• Understanding of Linux system administration and performance tuning.\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "02/18/2026",
+        "start_dateStr": 1771372800000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Xc27L2xehVO9xSaWxcYF1haDjHkuVtQtKl8q3V4p_NE",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6D6wLheogCKriRY7MKTLhM="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_XM-_t8RpFCXIXeIa85JVA=",
+      "title": "FS Lead Tech Developer",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": "Duck Creek, Duck Creek, JavaScript, CSS",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "\n\nJob Title: FS Lead Tech Developer\nLocation: Cleveland, OH\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\nProvide technical oversight and direction to System Integrator SI partner Development and QA teams Ensure highquality ontime deliverables that meet Client standards and enterprise quality gates Review and validate solution designs code quality and test coverage across development phases Enforce adherence to architectural standards security controls and engineering best practices Coordinate build integration and testing activities across internal teams and SI partners Identify and mitigate technical risks defects and delivery dependencies early Drive defect resolution and rootcause analysis to prevent repeat issues Collaborate with Product Owners Project Managers and Infrastructure teams to maintain delivery alignment Validate readiness for environment promotions releases and production deployment Provide clear technical status risks and recommendations to leadership\n\r\nRequired Skills\r\nDuck Creek Policy CL Experience C Angular Net Core CSS Javascript Express 20 Nice to have Express 30 compatibility mode Azure Communicate clearly and effectively with crossfunctional teams including business stakeholders product owners developers QA and leadership Collaborate proactively to ensure shared understanding of goals requirements priorities and timelines Facilitate discussions workshops and meetings to encourage alignment transparency and informed decisionmaking\n\nABOUT Ztek:\n\n \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "07/01/2026",
+        "start_dateStr": 1782864000000
+      },
+      "end": {
+        "end_dateStr": "12/01/2027",
+        "end_date": 1827619200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/22dB1gNulaZvqsfaMIuNldLOe34_UFiGaKAPKlA3geI",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_XM-_t8RpFCXIXeIa85JVA="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_Z1ldDrpSlYNTlLtv_525Y=",
+      "title": "UKG Consultant",
+      "location": "5 Concourse Pkwy",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": "Kronos Dimensions - Accruals, Kronos Dimensions - Mobility, Kronos Dimensions - Timekeeper, Kronos Dimensions-Forecasting",
+      "posted": {
+        "date_postedStr": "05/28/2026",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Title: UKG Consultant\r\nDuration: 6-12 months\r\nLocation: Onsite Richardson, TX\nWork Type:  \r\nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\r\n \r\nSkills :\r\n1. Knowledge of Timekeeper\r\n2. Knowledge of Accruals\r\n3. Knowledge of Advanced Scheduler and/or Forecaster\nJob Description/ Responsibilities:\r\nWe are seeking an experienced Oracle Cloud HCM Talent Management Functional Consultant with strong hands-on expertise in Succession Planning and Oracle Dynamic Skills. The ideal candidate will have 2–3 end-to-end Oracle Talent Management implementation experience and will play a key role in designing, configuring, and delivering skills driven talent solutions aligned with business strategy and Oracle best practices.\nKey Responsibilities\r\n• Experience with UKG Pro WFM (Dimensions) implementations and enhancements will be given preference over just Workforce Central experience.\r\n• 10+ years of experience implementing and configuring UKG Pro WFM (Dimensions), UKG Workforce Central and/or or ADP eTime versions 7.0 and higher.\r\n• Knowledge of Advanced Scheduler\r\n• Knowledge of full life cycle of a project including gathering detailed requirements, being able to develop a design and then building of the design to deliver the solution to the client and then provide support.\r\n• This role requires complete domain expertise of UKG Pro WFM suite of products and hence the requirement for excellent consultative and communication skills to interact with business users and client management.\r\n• Ability to work in complex technology environments requiring a multi-product solution, as well as product integration of legacy systems.\r\n• Must be in client office at least 2-days per week in Richardson, TX\r\n• Excellent written and verbal communication skills\nAdditional Information:\r\n• Knowledge of Advanced Scheduler, and Forecaster\r\n• Experience with Mobile, Analytics, Activities, and other UKG Pro WFM modules will be a plus.\nABOUT Ztek: \r\nWebsite: www.ztekinc.com\r\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\r\nDisclaimer:\r\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates.If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\r\n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/2026",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/c0Ro9mpc3a21dDC1qWksM2XEurRKWaEJpTrxKbTyv1Q",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_Z1ldDrpSlYNTlLtv_525Y="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4xe2fIcmwutGwKg_vBLdGA=",
+      "title": "PMO Support Technical Specialist Advanced",
+      "location": "US07 , IL, USA, 7003",
+      "experience": {
+        "experience": "4-6 years",
+        "min_experience": "4"
+      },
+      "skills": "Automotive industry, OEM, CAD, PLM software",
+      "posted": {
+        "date_postedStr": "05/27/2026",
+        "date_posted": 1779840000000
+      },
+      "description": "Job Title: PMO Support Technical Specialist Advanced\r\n \r\n\nLocation: Auburn Hills, MI\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\n\nThe PMO Technical Specialists are part of the Cross Carline & Project Engineering Team, ensuring overall program feasibility and target setting.\r\nThey support Vehicle Technical Managers across vehicle development programs.\r\nTechnical Specialists have broad knowledge of vehicle design and assembly and act as program monitors, addressing proto build issues promptly and coordinating resources for quick solutions.\r\nAssignments depend on client needs and program status; specialists may work on individual vehicles or common modules used in multiple vehicles.\n\r\nKey Responsibilities:\r\nThe Technical Specialist plays a critical role in supporting vehicle program development and execution.\n\r\nKey responsibilities include:\r\n- Assisting the Vehicle Technical Manager with program coordination and overseeing technical aspects such as technology, manufacturing, quality, and cost.\r\n- Managing vehicle composition to ensure core structure integrity and interchangeability, and promoting product and process integration.\r\n- Coordinating the creation, organization, and oversight of connections and fasteners, including leading related meetings and maintaining dashboards for tracking and escalation.\r\n- Leading and facilitating Change Management processes, ensuring consistent communication and modification sharing across multiple sites.\r\n- Organizing and synchronizing part modifications with project planning to achieve quality convergence.\r\n- Supporting the convergence and responsiveness of product and process elements—especially welding, painting, and assembly—by coordinating modifications and resolving major defects.\r\n- Coordinating rework and upgrade workshops for both used and new vehicles during various stages of production.\r\n- Collaborating with purchasing teams on sourcing, generating part numbers and specifications, conducting trial runs to identify or mitigate issues, and ensuring all requested modifications reach dedicated sites.\n\r\nWhat are the Mandatory skills and skill proficiencies required for this position?\r\nMinimum of a Bachelor's degree in Mechanical Engineering, Industrial Engineering, or a related field, from an ABET accredited university\r\nMinimum of 5 years automotive industry experience at an OEM or large tier 1 in Product development engineering\r\nMust be a highly motivated, detail-oriented, and self-directed process thinker\r\nStrong interpersonal and leadership skills\r\nStrong written and presentation skills are a must – able to clearly present a story to technical or management audiences\r\nAdvanced to expert skill level in using Excel and PowerPoint\r\nBasic proficiency using CAD and PLM software\r\nAbility to interface with all levels of management\n\r\nWhat are the Optional skills and skill proficiencies for this position?\r\nFull Program Life-cycle Experience & PDP understanding, including Launch experience\r\nExperience in multiple vehicle domains (body, chassis, powertrain, electronics, etc.)\r\nManufacturing process fundamentals understanding\r\nAbility to quickly learn the use of proprietary software\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "06/08/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "08/31/2026",
+        "end_date": 1788134400000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/jAdwOwytgB_GanZxAsu_8iRi9skSy9TYPe7cJxTBl6c",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4xe2fIcmwutGwKg_vBLdGA="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6KSLbRzGD3MAc1isK-Pu7E=",
+      "title": "FinOps Reporting Engineer",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "6-8 years",
+        "min_experience": "6"
+      },
+      "skills": "Google Cloud, FINOPS, Grafana, BigQuery",
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "\nJob Title: FinOps Reporting Engineer\nLocation: Charlotte, NC\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite\nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\nMonitor and optimize Google Cloud Platform GCP costs and resource utilization by leveraging FinOps tools such as Apptio Cloudability and cloud cost management dashboards \nConfigure and maintain Grafana dashboards and report solutions to visualize GCP cloud data including usage metrics cost trends performance indicators and operational insights and understand plugins \nUnderstand GCP APIs such Cloud Asset Inventory BigQuery information schema \nCollaborate with engineering and platform teams to implement cost governance policies tagging strategies and resource optimization practices aligned with FinOps best practices \nDevelop automated reporting and monitoring solutions to provide visibility into cloud spend budget utilization and anomaly detection for proactive cost management \nNeed to have working experience on Big Query for Cost and Slot Consumption \nHow Reservations Quota works besides partition \nShould have ability to tune BigQuery SQLs to address shuffle issue leading to slot overuse \nShould be able to support defining strategy for cost effective and efficient Biq Query Data consumption\n\nABOUT Ztek: \n\nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Oia7oVzSjrjcofcsn0Tcf8pOpIVtA-nB6yTEMNBeuCo",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6KSLbRzGD3MAc1isK-Pu7E="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_EqDPzLp3ls3CXZBF7G0Is=",
+      "title": "Duck Creek BA",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "12-15 years",
+        "min_experience": "12"
+      },
+      "skills": "Duck Creek, Agile SAFe",
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "\n\nJob Title: Duck Creek BA\nLocation: Princeton, NJ\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\nDuck Creek Product Owner Minimum 12 years of IT experience with 8 years in Duck creek \nOwn the product vision roadmap and backlog for Duck Creek platforms across Policy Billing Claims and Integrations talentifyio Translate business strategy into well defined epics user stories and acceptance criteria aligned with Duck Creek capabilities duckcreekayjobscom \nAct as the primary business owner and decision authority for Duck Creek product design scope and priorities talentifyio Lead backlog grooming sprint planning and release planning in Agile SAFe delivery models duckcreekayjobscom \nProvide deep PC insurance domain expertise to guide product modeling workflows and regulatory compliance careersmunichrecom Partner closely with Delivery Leads Architects Developers QA and Business stakeholders to ensure successful execution Few points Outlook Ensure optimal use of Duck Creek configuration vs customization aligned with platform best practices careersmunichrecom \nSupport UAT defect triage and release readiness ensuring delivered features meet business outcomes duckcreekayjobscom Manage dependencies risks and trade offs to maximize business value and delivery predictability talentifyi\nDrive continuous improvement and value realization through metrics feedback and stakeholder alignment\n \n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "06/08/2026",
+        "start_dateStr": 1780876800000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/jE5LvqRIJ5Pyp7PGzlmwpdRsq8l4eYNouF6Gbflf19U",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_EqDPzLp3ls3CXZBF7G0Is="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2h1xxkweh71Q6yc5PMSJgI=",
+      "title": "Strong Data Architect",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Snowflake Cortex, Python, Scala, SQL data modeling",
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "\nJob Title: Strong Data Architect\nLocation: New York\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n\n\nKey Responsibilities\r\nLead endtoend data architecture and solution design for Snowflakebased data platforms including logicalphysical data models ingestion patterns batch streaming Snowpipe storage layers raw curated consumptionsemantic and consumption patterns for analytics BI and AIML Design and optimize scalable highperformance data warehouses data lakes and lakehouse architectures on Snowflake focusing on performance tuning query optimization cost management workloadwarehouse strategies and autoscaling Architect and implement AIpowered solutions using Snowflake Cortex including Cortex LLM functions Cortex Search for semanticvectorRAG capabilities Cortex Analyst for conversational analytics Document AI and integration with external LLMs eg for finetuning agents and multimodal data processing Define and enforce data governance security and compliance frameworks RBAC rowcolumn access policies dynamic data masking encryption secure data sharing and private listings Design data pipelines integrating with various sources onprem cloud SaaS and orchestration tools implement realtime capabilities using Streams Tasks and Snowpark Python Scala Java Collaborate with data engineers analysts scientists and business stakeholders to deliver governed reusable data products that accelerate analytics and AI initiatives Provide technical leadership in migrations to Snowflake from legacy systems eg onprem warehouses other clouds and establish reference architectures patterns and standards Monitor platform health optimize for costperformance and implement disaster recovery replication and highavailability strategies Mentor junior architects and engineers conduct design reviews and promote best practices in data modeling eg Data Vault Kimball or hybrid semantic modeling and AIready data foundations\n\nRequired Qualifications\r\n8 years of experience in data architecture data engineering or data platform roles with at least 4 years specifically designing and optimizing solutions on Snowflake Deep expertise in Snowflake features warehouses resource monitors zerocopy cloning Time Travel data sharing Snowpark TasksStreams and securitygovernance controls Strong proficiency in SQL data modeling conceptual logical physical ETLELT patterns and cloud data platforms AWS Azure or GCP Proven experience designing secure scalable architectures for analytics reporting and machine learning workloads Solid understanding of data governance quality lineage and compliance eg GDPR SOC2 HIPAA if applicable Bachelors or Masters degree in Computer Science Information Systems Engineering or a related field or equivalent experience Excellent communication stakeholder management and leadership skills\n\nPreferred Skills and Experience\r\nHandson experience with Snowflake Cortex AI capabilities Cortex Search Cortex Analyst LLM functions vector embeddings RAG patterns and building AI agents or applications within Snowflake SnowPro Core Advanced or Architect certifications Experience with modern data stack tools dbt Airflow Kafka Spark Fivetran Matillion or similar\r\nKnowledge of AIML workflows vector databases semantic search and integrating structuredunstructured data for generative AI Background in Data Vault 20 dimensional modeling or domaindriven design\r\nExperience in regulated industries finance healthcare pharma or largescale enterprise environments is a plus \n \nIN PERSON INTERVIEW AT THE CLIENT LOCATION IS MANDATORY IF THE CANDIDATE IS SELECTED ON L1 INTERVIEW, SUBMIT ONLY CANDIDATES THAT AGREE WITH THIS.\n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/08/2026",
+        "start_dateStr": 1778198400000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/U7DKkhC4kgIXSHXG_kbD9NeXUIiavCAghXkx3cc9gmc",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2h1xxkweh71Q6yc5PMSJgI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cw43TI2opyXgwL3xOlhhqvs=",
+      "title": "Platform AEP Lead Engineer",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": "Adobe, AEP, data collection, JavaScript, Python",
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "\n\nJob Title: Platform AEP Lead Engineer \nLocation: Alpharetta, GA\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\r\n \r\n\r\n\nAbout the Role We are seeking a highly skilled and experienced Adobe Experience Platform AEP Lead Engineer to shape and deliver the architecture integration and activation strategy for enterprisegrade AEP implementations\r\nYoull work closely with crossfunctional teams to drive data ingestion modeling and activation across Adobe and thirdparty systems Roles Lead the endtoend implementation design development and deployment of solutions on Adobe Experience Platform AEP including RealTime CDP Journey Orchestration and Customer AI Define and implement data strategies for customer segmentation personalization and activation across channels Collaborate with business stakeholders to align AEP capabilities with marketing analytics and customer experience goals Develop scalable and secure data pipelines for ingesting transforming and activating customer data using AEP tools like Data Collection Data Lake and Identity Services Design and implement schemas using XDM Experience Data Model and ensure data governance and compliance Integrate AEP with other Adobe Experience Cloud products eg Adobe Analytics Adobe Target Adobe CJA and thirdparty systems eg CRMs DMPs cloud data warehouses Provide thought leadership in Customer Data Platforms CDPs and Data Management Platforms DMPs Conduct training sessions and create documentation for endusers and stakeholders Provide expert knowledge on APIs and how an integration can be leveraged to achieve a desired outcome indicating potential scenarios to consider before implementing Monitor system performance troubleshoot issues and ensure data integrity and security Stay updated with AEP product updates and best practices to continuously improve system usage Qualifications Requirements Bachelors or masters degree in computer or related field 9 years in digital experience platforms 4 years in AEP implementation 34 years of experience in Adobe Experience Platform AEP development Strong proficiency in JavaScript Python RESTful APIs JSON and XML\r\nExperience with data warehousing data modeling and data quality best practices Expertise in Adobe Launch and Web SDK Deep understanding of AEP suite including XDM Web SDKs and APIs Experience integrating AEP with Adobe Target Customer Journey Analytics Adobe Campaign and other MarTech platforms Design and develop data pipelines and integrations using AEP Implement data modeling governance and security best practices Troubleshoot and resolve data quality issues and performance bottlenecks\r\nCollaborate with marketing product and data science teams to enhance customer experience\r\nFamiliarity with data privacy regulations including GDPR CCPA and DPDP Act Analyze data trends to provide business intelligence and recommendations\r\nFamiliarity with Agile methodologies and project management principles\r\nExcellent problemsolving communication and stakeholder management skills Ability to work independently and lead crossfunctional initiatives Strong verbal and written communication skills to articulate ideas and collaborate with crossfunctional teams Experience with one of the public cloud providers CDP Experience using AIpowered coding assistants such as GitHub Copilot Additional\r\nPreferred Skills Adobe Certified Expert Adobe Experience Platform or AJO Experience with Adobe Experience Platform Web SDK and Mobile SDK Knowledge of Adobe Journey Optimizer and Customer AI Exposure to marketing automation platforms and customer data platforms CDPs\n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "06/01/2026",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/L7QrOGY-X3rGq-X3pB3f8MOAo3gLMTKS6S4NEqBEFV4",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3cw43TI2opyXgwL3xOlhhqvs="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cyhJpOdiwSAeaK6AJ7UiUm8=",
+      "title": "VMware Engineer",
+      "location": "201 S COLLEGA ST. SUITE 300 CHARLOTTE, NC 28244, Charlotte, NC, USA, 28244",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "VCF8 to VCF9 Migration, Kubernetes, NSX Service Gateway",
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "\nJob Title: VMware Engineer\nLocation: Charlotte/St. Louis\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite\nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\nVCF8 to VCF9 Migration experience.\r\nAdvance load balancing experience.\r\nKubernetes.\r\nAccess controls including RBAC\r\nNSX Service Gateway.\n\nTotal Vmware experience\n \nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/25/2026",
+        "start_dateStr": 1779667200000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/n8c38-txQ6yNMjG_4gvIYdQjQQY2g6rydbUa7Ly1ZT4",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyhJpOdiwSAeaK6AJ7UiUm8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0aST6oziU4cFH_mApIaI38=",
+      "title": "Sr. Content Developer",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "7-10 years",
+        "min_experience": "7"
+      },
+      "skills": "Duck Creek, SMEs",
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "\n\nJob Title: Sr. Content Developer\nLocation: Cleveland, OH\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite\nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\n\n \n\nGood communication skills Team player Designs and develops solutions in core Duck Creek application components eg Example Server Express TransACT Forms Engine User Admin Author etc Resolve policy issues by incident management procedures and identify underlying themes of repetitive issues Work with Progressive Developers and other SMEs for the same on need basis Work with Business and SMEs to gather and verify the requirements Identify escalate and mitigate challenges in delivery both from technical and functional standpoint Resolve policy issues by incident management procedures and identify underlying themes of repetitive issues Responsible to review and identify gaps in the existing solutions and suggest alternatives Responsible to provide technical leadership to project resources and the client to meet project deadlines and ensure that project objectives are met Responsible to identify clarify and resolve system development and maintenance activity issues and risks escalating them as needed Responsible to review technical documentation to verify compliance with client requirements and established architectural standards and guidelines Provide inputs to test strategy and test authoring for respective team\n\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.\n\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "08/01/2026",
+        "start_dateStr": 1785542400000
+      },
+      "end": {
+        "end_dateStr": "12/31/2026",
+        "end_date": 1798675200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/_2-Zv2YX_PFWSXfFwk2daJ_SJBqAe_mwKX4x5FbkI6s",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0aST6oziU4cFH_mApIaI38="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c-8cvcA61NI_54vN1vEhCOk=",
+      "title": "Solution Architect",
+      "location": "US05, IL, USA, 60018",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": "ClaimCenter, Solution Architecture",
+      "posted": {
+        "date_postedStr": "05/26/2026",
+        "date_posted": 1779753600000
+      },
+      "description": "Job Title: Solution Architect\nLocation: Cleveland, OH\nPosition Type: Contract \nDuration: 6 / 12 Month\nWork Type: Onsite \nRate: Pay range offered to a successful candidate will be based on several factors, including the candidate's education, work experience, work location, specific job duties, certifications, etc.\n\nJob Description:\nSolution Architecture Leadership Own the end-to-end ClaimCenter solution design for assigned work ensuring alignment with business requirements enterprise architecture standards and reuse first principles Translate claims business needs into ClaimCenter native configuration patterns minimizing custom development and configuration divergence Define and document architecture decisions trade-offs and rationale including impacts to downstream systems \nClaimCenter Configuration Technical Oversight Guide and review ClaimCenter configuration and Gosu development Ensure configurations follow Guidewire best practices and support future scalability and upgrades Review technical designs and code for quality performance and supportability \nIntegration Data Design and govern ClaimCenter integrations with Progressive and Vendor systems Define and validate data contracts and mappings ensuring accurate alignment between legacy structures policy data and ClaimCenter entities Partner with Progressive teams to ensure financial and claim data consistency across systems \nReuse Consistency and Standards Enforcement Actively identify opportunities to reuse existing ClaimCenter configurations and integrations reducing redundancy and implementation risk Enforce architecture standards patterns and naming conventions across delivery teams Ensure differences in policy or product data are addressed through configuration patterns not unnecessary customization \nDelivery Collaboration Agile Support Work daily with product owners business SMEs developers testers and integration teams to clarify requirements and resolve design questions Participate in agile ceremonies eg refinement planning design discussions to ensure architectural alignment throughout delivery Provide timely architectural guidance to unblock teams and prevent downstream rework \nGovernance Stakeholder Communication Prepare and present architecture artifacts diagrams design summaries decision logs for governance and review forums Communicate complex technical concepts clearly to business leaders and nontechnical stakeholders Proactively surface architectural risks dependencies and mitigation strategies \nQuality Risk and Readiness Management Identify and manage architectural risks including impacts to claims processing financial accuracy and regulatory compliance Ensure solutions meet nonfunctional requirements performance scalability security supportability Support production readiness by validating architectural completeness and operational considerations\nABOUT Ztek: \nWebsite: www.ztekinc.com\nZtek Consulting Inc is a minority- and woman-owned business enterprise that leverages a unique blend of human talent, machine learning algorithms, and artificial intelligence to provide customized talent management solutions for clients. Ztek’s diversity-focused hiring models have proven successful, particularly in hiring veterans. The company's veteran-focused hiring and deployment program, Z-V.E.T, matches skilled veterans with clients' needs in various areas.\nDisclaimer:\nZtek is an Equal Opportunity Employer and prohibits any kind of unlawful discrimination and harassment. Ztek is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment on the basis of race, color, religion or belief, national origin, citizenship, social or ethnic origin, sex, age, physical or mental disability, veteran status, marital status, domestic partner status, sexual orientation, or any other status protected by the statutes, rules, and regulations in the locations where it operates. If you are an individual with a disability and need a reasonable accommodation to assist with your job search or application for employment, please contact us at hrd@ztekinc.com Please indicate the specifics of the assistance needed. Ztek encourages all interested and qualified candidates to apply for employment opportunities. Ztek does not discriminate against applicants based on citizenship status, immigration status, or national origin, in accordance with 8 U.S.C. 1324b.",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "07/01/2026",
+        "start_dateStr": 1782864000000
+      },
+      "end": {
+        "end_dateStr": "12/31/2027",
+        "end_date": 1830211200000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/EkamDjMLpJrTF6f_6bqkh_dYP79Z-Bxh2OiAFh6IHbQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v3/index.html?job_id=z5G7h3l6a1kMvyS65NP3c-8cvcA61NI_54vN1vEhCOk="
+    }
+  ]
+}

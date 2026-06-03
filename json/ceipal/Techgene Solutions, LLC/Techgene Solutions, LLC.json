@@ -1,0 +1,1303 @@
+{
+  "company": "Techgene Solutions, LLC",
+  "scrape_date": "2026-06-02T22:35:47.020192",
+  "total_jobs": 36,
+  "jobs": [
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5IpiLFM5rOJrV-qXrz5ZAs=",
+      "title": "Helpdesk Spanish",
+      "location": "",
+      "experience": {
+        "experience": "2-20 years",
+        "min_experience": "2"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\n \n\n\n\n\nVocational/Technical degree in computer applications, computer technology or a closely related area from an accredited college\n\n\nRequired\n\n\n \n\n\n \n\n\n\n\n \n\n\n\n\nExperience performing as Helpdesk Technician with hands on knowledge in resolving issues with Outlook, MS Office, Win 7 and 10, Active Directory.\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nMonitor ticket queues, assign tickets to appropriate internal and external support staff, escalate tickets outside of SLA’s until resolved.\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nInstall and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications.\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nAnswer user inquiries regarding computer software or hardware operation to resolve problems.\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nBilingual - Spanish\n\n\nRequired\n\n\n \n\n\n \n\n\n\n\n \n\n\n\n\nIT Help Desk Call Center exp\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/sBVf8ZzuEYiQ-VxxzXWE4bOV_YYy-zKCqnpR7H5pneQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5IpiLFM5rOJrV-qXrz5ZAs="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4qhDS11Qjixx-MIvxBdx-A=",
+      "title": "Azure Data Engineering Architect",
+      "location": "",
+      "experience": {
+        "experience": "14-25 years",
+        "min_experience": "14"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/02/26",
+        "date_posted": 1780358400000
+      },
+      "description": "Job Summary:\nWe are seeking an experienced Data Engineering Architect with experience in Azure cloud ecosystem, particularly Azure Data Factory (ADF) and Azure Databricks. The ideal candidate will design, architect, and oversee scalable, high-performance data platforms and pipelines that enable analytics, reporting, and AI/ML use cases.\n\n\nKey Responsibilities\n\nArchitect and design end-to-end data solutions on Azure using:\n\nAzure Data Factory (ADF)\nAzure Databricks\nAzure Data Lake (ADLS Gen2)\nAzure Synapse / SQL Database\n\n\nDefine data architecture standards, frameworks, and best practices for:\n\nData ingestion (batch & streaming)\nData transformation (ETL/ELT)\nData storage and modeling\n\n\nLead the implementation of scalable data pipelines using ADF and Databricks (PySpark, SQL)\nDesign and optimize Delta Lake architecture and medallion (Bronze/Silver/Gold) data layers\nCollaborate with stakeholders to understand business requirements and translate into technical solutions\nEnsure data governance, security, and compliance (RBAC, data masking, encryption)\nProvide technical leadership and mentorship to data engineering teams\nOptimize performance and cost of Azure data services\nIntegrate real-time and batch processing pipelines\n\n\n\nRequired Skills & Qualifications\nTechnical Skills\n\nStrong experience with:\n\nAzure Data Factory (ADF) (pipelines, triggers, integration runtime)\nAzure Databricks (PySpark, notebooks, workflows)\nDelta Lake and lakehouse architecture\n\n\nExpertise in:\n\nPython / PySpark\nSQL\nData modeling (star/snowflake schemas)\n\n\nExperience with:\n\nAzure Data Lake Storage (ADLS Gen2)\nAzure Synapse Analytics or SQL Server\nData ingestion patterns (API, streaming, files, CDC)\n\n\nKnowledge of:\n\nCI/CD pipelines (Azure DevOps, GitHub)\nInfrastructure-as-Code (ARM, Terraform – preferred)\nMonitoring (Azure Monitor, Log Analytics)\n\n\n\n\n\nCloud & Architecture\n\nunderstanding of:\n\nCloud architecture patterns\nDistributed data processing\nData warehousing & lakehouse concepts\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780358400000
+      },
+      "start": {
+        "start_date": "06/02/26",
+        "start_dateStr": 1780358400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/3-5lI8DaR5-ZaY1IItHblF9gN1ghLHzhiJEPvhQEUkA",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4qhDS11Qjixx-MIvxBdx-A="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7Z2csfbqvgWruavi_2QG3k=",
+      "title": "Oracle Cloud (OCI) Solutions Architect",
+      "location": "",
+      "experience": {
+        "experience": "8-12 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "Role: Oracle Cloud (OCI) Solutions Architect\nLocation: [Chicago, IL, 60606], United States\n \n \nJob Description\nseeking a hands-on Oracle Cloud (OCI) Solutions Architect to support a client OCI implementation. This role will play a critical part in designing, validating, and ultimately owning our OCI environment supporting Oracle Fusion applications (HCM, EPM, ERP) and Oracle Integration Cloud (OIC).\n \nPOSITION RESPONSIBILITIES:\nWork with implementation partner to review and validate OCI architecture and design decisions.\nTake hands-on responsibility for OCI environment configuration, including compute, networking, IAM, and connectivity.\nCo-Lead architecture and implementation of integrations using Oracle Integration Cloud (OIC) for HR and local payroll needs.\nEstablish standards and best practices across OCI and Oracle Fusion (HCM, EPM, FAH, FDI).\nEnsure solutions are scalable, secure, and operationally sustainable.\nDrive transition from implementation to internal ownership, including documentation and knowledge transfer.\nIdentify risks, gaps, and optimization opportunities in current architecture.\nServe as the internal subject matter expert for OCI and Oracle integrations.\n \nEXPERIENCE AND QUALIFICATIONS:\n8+ years of experience in cloud architecture or engineering, with hands-on OCI experience.\nProven experience with 1) Oracle Cloud Infrastructure (OCI) compute, networking, IAM, compartments, 2) Oracle Integration Cloud (OIC), and 3) Oracle Fusion applications (HCM and/or EPM strongly preferred).\nExperience of working alongside large system integrators.\nAbility to operate as both architect and hands-on builder.\nExperience supporting or building integrations for HR/payroll systems.\nStrong understanding of cloud security, identity, and networking concepts.\nAbility to troubleshoot technical problems and issues.\nExperience and comfort solving problems in an ambiguous environment where there is constant change.\n \nPREFERRED SKILLS:\n* Experience with Oracle Cloud applications and tools.\n* Experience transitioning environments from implementation to steady-state operations.\n \n \nEDUCATION:\n* OCI Architect certification (Associate or Professional) required\n* BA or BS degree Computer Engineering, Computer Science or related fields.",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/4O77gSwZrX0-KiGGwUQ3KpDDsy2CqxnVPCvbUiuYydM",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7Z2csfbqvgWruavi_2QG3k="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_zE_pZpAg2HDnZYMNFDbTU=",
+      "title": "Oracle Fusion Data Intelligence & Oracle Analytics Cloud ",
+      "location": "",
+      "experience": {
+        "experience": "10-30 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "Role: Principal Consultant - Oracle Fusion Data Intelligence & Oracle Analytics Cloud \nBay area, CA or relocation\nRole Overview \nAs a Principal Consultant, you will be a solution delivery lead, responsible for the end-to-end implementation of Oracle Fusion Data Intelligence Cloud Solution for a portfolio of Oracle Cloud ERP customers. Leveraging your expertise in Oracle Datawarehouse Cloud solutions such as OAC, ODI, FDI, BIP, OTBI etc. and solution delivery leadership, you will lead teams to deliver innovative, high-quality solutions that meet clients' business needs. This role requires a proactive approach, excellent communication skills, and the ability to build collaborative relationships with clients and internal teams. \nKey Responsibilities \nProject Delivery \n\nLead FDI Analytics projects from initiation to completion, ensuring the delivery of innovative solutions aligned with client priorities. \nLead and collaborate with onshore and offshore project team, ensuring alignment with broader business goals and strategies. \n\nClient Engagement \n\nActively build positive, collaborative relationships with clients to understand their business priorities. \nAdvise clients on using Oracle FDI Cloud to meet their business needs regarding Analytics across Oracle HCM, Financials, SCM Cloud modules and CX Modules. \nIdentify stakeholders across customer and internal team and perform deep stakeholder analysis including resource backfills and resource contingency planning. \n\nSolution Design \n\nCollaborate with key stakeholders, including business leaders and IT teams, to understand business requirements related to Analytics within Oracle Cloud solutions such as HCM, ERP, SCM, EPM, CX, etc. \nDesign end-to-end solutions based on best practices enabled by Oracle FDI Cloud modules to meet business objectives and analytics requirements. \nLead the implementation of Oracle Fusion Data Intelligence (FDI) across Oracle Cloud solutions such as HCM, ERP, SCM and CX, ensuring alignment with best practices and industry standards. \nCreate and maintain comprehensive documentation for solution architecture, configurations, and integrations. \nEnsure that documentation is accessible and understandable to both technical and non-technical stakeholders. \n\nProblem Solving and Mitigation \n\nDeep-dive into existing and potential problem areas, developing corrective action and mitigation plans. \nBe hands-on when needed to help teams solve problems and achieve successful resolutions. \n\nContinuous Learning and Innovation \n\nStay current on market innovations, Oracle FDI Cloud methodologies, tooling, and assets/accelerators. \n\nQualifications \n\nBachelor’s degree or equivalent, with at least 10 years of Information Technology experience in Oracle or any other Tier 1 ERP application. \nMinimum of 5 years’ experience delivering and managing complex implementation of Analytics solution leveraging OTBI, BIP, OAC, ODI & FDI across Oracle Cloud ERP, SCM, SCP, EPM, HCM, CX, etc. \nMinimum 5 years’ experience in Data augmentation, semantic modeling, extending data with custom applications and managing data connections. \nExpertise in building custom subject areas, Data visualizations, Data sets, Data flows and data replication.  \nMinimum of 5 years’ experience managing a team of Oracle FDI Cloud resources, onshore and offshore. \nDeep experience in implementing FDI for Oracle Financials & SCM Cloud is preferred. \nFull life cycle implementation experience including Design, Configure Test and Deploy phase. \nExperience in design implementation, testing and deploying of Business process controls, automated controls, and IT controls. \nCertifications in Oracle FDI Cloud are preferred. \nUnderstanding of Oracle Cloud configurations as it relates to the design and development of Analytics in FDI. \nPrior experience with managing Oracle Cloud ERP programs at Big4 or other leading consulting firms is preferred. \nPrior experience with coordinating Oracle FDI projects with Oracle Sales Team, Oracle Support Team, Oracle Customer Success Team is preferred. \nStrong grasp of core data warehouse concept and design paradigms.  \nSolid understanding of Oracle’s analytics offerings including OAC, OBIEE, OBIA, RPD, Machine Learning and Autonomous Data Warehouse (ADW).  \nKnowledge of Oracle Cloud Financial System modules - General Ledger, Accounts Payable and Asset Management also desirable.  \nExperience of working with DA scripts and handling Frequent data refresh  \nExperience with common web connectivity and integration standards/protocols like XML, SOAP, REST, JSON and JDBC.  \nExperience interfacing with enterprise applications, databases, service layers, and message queues.  \nExperience with relational (SQL) & NoSQL databases.  \nExperience with Cloud Platforms like Oracle, AWS, Google, Azure, Salesforce.  \nStrong academic background with hands-on database programming, algorithms, and implementation.  \nDesire & ability to work in a team environment and train on new technologies\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Z4L_GCrpgX2wXkdacM_wXogn_F_6GBBizWbpDC1EeMM",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_zE_pZpAg2HDnZYMNFDbTU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6tPxtAn5jVH5dCP3KzIglo=",
+      "title": "Salesforce BSA – Quote, Asset & Order Management",
+      "location": "",
+      "experience": {
+        "experience": "8-20 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "Salesforce BSA – Quote, Asset & Order Management\nLocation: Dallas, TX or Redwood City, CA (Hybrid)\n\nGather and analyze business requirements for Quote-to-Cash processes with focus on Quote Asset MACD (Move, Add, Change, Disconnect) scenarios.\nCollaborate with stakeholders to define asset-based quoting requirements and translate them into functional specifications.\nConfigure and support Salesforce CPQ/Industries Quote Asset functionality for amendments, renewals, and asset lifecycle management.\nWork closely with solution architects and development teams to design scalable Quote, Asset, and Order Management solutions.\nCreate user stories, process flows, BRDs, and acceptance criteria for MACD-related enhancements.\nSupport end-to-end testing, UAT, and defect resolution across Quote, Asset, and Order Management processes.\nEnsure seamless integration between quoting, asset management, order orchestration, and downstream billing systems.\nProvide production support, stakeholder communication, and continuous process improvement recommendations for Quote-to-Cash operations.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ecH-JJqwgXzLnNJAS9sU9yW-aSq4xt9EhGsh5GFPNSs",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6tPxtAn5jVH5dCP3KzIglo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cxp1Wtn8oMPuAof87tt7G6U=",
+      "title": "Salesforce Business Analyst (Order Management)",
+      "location": "",
+      "experience": {
+        "experience": "8-20 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "Job Description – Salesforce BSA (Order Management)\nLocation : Dallas,TX or Redwood city CA -(Hybrid) Need locals\n \n\nAnalyze and document business requirements for Order Management processes within the Salesforce ecosystem.\nCollaborate with stakeholders, product owners, and technical teams to design scalable Salesforce solutions.\nConfigure and support Salesforce Order Management, Sales Cloud, and related integrations.\nTranslate business needs into functional specifications, user stories, and process flows.\nCoordinate with developers and QA teams for testing, deployment, and production support activities.\nEnsure seamless integration between Salesforce, ERP, payment, and fulfillment systems.\nDrive UAT sessions, user training, and process improvement initiatives for order lifecycle management.\nMonitor system performance, troubleshoot issues, and recommend enhancements aligned with business goals\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/0_PYZSovbq-KTkCixiVED8cSAff-5gzibG8ScP3ZG5E",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cxp1Wtn8oMPuAof87tt7G6U="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6Nnw3ChXozL3DRKE3kywFE=",
+      "title": "Network Administrator",
+      "location": "",
+      "experience": {
+        "experience": "5-20 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/01/26",
+        "date_posted": 1780272000000
+      },
+      "description": "TECHNICAL SKILLS (Required):\n- IT vendor and contractor management\n- General networking and systems knowledge (awareness level)\n- Cybersecurity awareness and VITA/COV compliance coordination\n- Website content coordination (not development)\n- IT asset and software license tracking\n- Help desk triage and escalation\n- Project coordination and ticket/task management\n- Microsoft Office / productivity tools",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780272000000
+      },
+      "start": {
+        "start_date": "06/01/26",
+        "start_dateStr": 1780272000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/7nzUOOnOGBenSxF4eQOKvrByNWMSsHxaLlhM-RFGFKo",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6Nnw3ChXozL3DRKE3kywFE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1UGIzpzFTEK388muMG2W68=",
+      "title": "AI Automation Engineer",
+      "location": "",
+      "experience": {
+        "experience": "5-12 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Title : AI Automation Engineer\n \nLocation: New Jersey\n \n \nJob Description:\n \n\nWe are seeking an AI/ML Engineer with strong expertise in Generative AI, Retrieval-Augmented Generation (RAG), and LLM application development to support fraud detection initiatives. The ideal candidate will design and implement AI-driven document insight solutions and build intelligent workflows using modern AI frameworks.\n \nRequired Skills:\n\nStrong programming experience in Python\nHands-on experience with Retrieval-Augmented Generation (RAG)\nExpertise in LangChain\nExperience working with LangGraph\nStrong Prompt Engineering skills\nDomain experience in Fraud Detection\n\nKey Responsibilitites: \n\nDevelop AI-driven document insights and intelligent automation solutions\nDesign, build, and optimize RAG-based AI applications\nImplement and maintain AI workflows using LangChain and LangGraph\nCreate and optimize prompts for LLM-based applications\nBuild scalable AI/ML solutions for fraud detection use cases\nImplement “AI fluency” initiatives across workflows and business processes\nCollaborate with cross-functional teams to integrate AI capabilities into enterprise applications\nAnalyze large datasets and documents to identify fraud patterns and anomalies\nEnsure AI solutions are scalable, secure, and production-ready\nSupport continuous improvement of AI models and prompt strategie\n\nPreffered Qualifications: \n\nExperience working with LLMs and Generative AI platforms\nKnowledge of vector databases and semantic search\nFamiliarity with cloud platforms such as AWS, Azure, or GCP\nStrong analytical and problem-solving skills\nExcellent communication and collaboration abilities\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/KqisCWS1p2YXp3nVja-0lHOHxhWOsG5eO1Fia3FDPDY",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1UGIzpzFTEK388muMG2W68="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cz6S1nA3F7qfpe0IYFru6-w=",
+      "title": "Cloud/Platform/Systems Specialist",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Role: Cloud/Platform/Systems Specialist \nLocation: Des Moines, IA \n \n\nThe Service Delivery Public Safety IT Team is seeking a candidate for a critical cloud/platform/systems specialist to Support senior resources. Expectations include Leading infrastructure initiatives to modernize IT infrastructure and operations to enhance efficiency, scalability, and reliability across hybrid cloud environments. This role supports enterprise modernization goals by providing support for modern approaches to hybrid-cloud administrative and engineering practices to eliminate expensive and inefficient legacy solutions, while improving operational efficiency, reducing manual intervention, and enabling scalable infrastructure solutions.\n \n5 or more years of experience required in the following areas:\n\nDesigns, maintains, and optimizes hybrid platforms that bridge on‑premises infrastructure with AWS cloud services, aligning with the shift toward cloud‑centric operations:\r\n- Designing and administering AWS environments (EC2, VPC, IAM, S3) to support enterprise workloads.\r\n- Creating hybrid workload patterns where identity, authentication, and application services function seamlessly across cloud and on‑premises systems.\r\n- Migrating legacy systems to AWS, including developing modernization roadmaps and workload readiness assessments.\r\n- Documenting system architectures and producing AWS architecture diagrams showing network topology, dependencies, and service interactions.\n\nProvides senior‑tier support for issues escalated from Service Desk, Applications, Networking, or automation teams:\r\n- Diagnosing complex AWS identity, network, or compute issues affecting dependent applications.\r\n- Documenting troubleshooting workflows, root causes, and long‑term mitigation strategies.\r\n- Guiding teams through hybrid dependency failures such as directory sync disruptions, routing conflicts, or misconfigured IAM policies.\n\nEnsures platform resilience by monitoring, optimizing, and maintaining cloud and on‑prem compute, storage, networking, and identity components:\r\n- Eliminate single points of failure in designs patterns\r\n- Provide backup, recovery, and DR to meet all RTO/RPO requirements.\r\n- Implementing performance dashboards covering compute utilization, storage I/O, and network throughput across AWS and on‑prem.\r\n- Conducting root‑cause analysis for performance issues and documenting remediation steps.\r\n- Identifying cost optimization opportunities through instance rightsizing, storage tier adjustments, and lifecycle automation.\r\n- Maintaining architecture diagrams, standards, IaC manifests, and operational procedures in version‑controlled environments.\r\n- Preparing change impact statements for major infrastructure modifications.\r\n- Creating release documentation for platform updates promoted through CI/CD pipelines. Ensuring consistency across platform standards, enforcement rules, and automation artifacts.\n\nWorks closely with automation specialist and other team members to ensure infrastructure deployments follow consistent, automated, and auditable patterns:\r\n- Defining IaC patterns and collaborating on Terraform module designs.\r\n- Documenting provisioning workflows, configuration standards, and parameter usage for automated deployments.\r\n- Supporting CI/CD infrastructure pipelines that promote test, staging, and production environments through automated checks.\r\n- Collaborate with engineering and application teams to optimize workloads for hybrid cloud environments.\r\n- Provide guidance on migration strategies, performance tuning, and cost optimization for hybrid-cloud deployments.\n\nMaintain comprehensive documentation for hybrid cloud architecture, operational procedures, and automation workflows. Ensure documentation supports knowledge transfer and compliance audits.\n\nSupports organizational security and compliance goals by implementing and documenting platform controls across cloud and on‑prem environments. Responsibilities include, but are not limited to:\r\n- Enforcing AWS guardrails such as encryption, MFA, IAM role boundaries, and network segmentation.\r\n- Producing audit evidence packages (configuration exports, pipeline logs, screenshots).\r\n- Documenting platform hardening guidelines for compute, identity, and storage systems.\r\n- Creating policy interpretation guides to clarify required platform configurations for other technical teams.\r\n- Writing operational guides, onboarding materials, and “how‑to” documentation for AWS and hybrid operations.\r\n- Delivering platform standards, architecture reference materials, and annotated diagrams explaining system interactions.\r\n- Producing executive‑level briefings summarizing modernization progress and platform initiatives.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ElFtvgiMfIY1RJ5qnV_fQZ3eb8LkrY45KMbKgwVrDF8",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cz6S1nA3F7qfpe0IYFru6-w="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0EB26676j4LBwSBtxVGKQk=",
+      "title": "Salesforce Developer",
+      "location": "",
+      "experience": {
+        "experience": "8-20 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Salesforce Developer – Hybrid (Local to Dallas, TX)\n \nWe are looking for a Salesforce Developer local to Dallas, TX for a hybrid work model.\r\nStrong hands-on experience in Salesforce development with expertise in Apex coding is required.\r\nDevelop and customize Salesforce applications using Apex, Lightning Components, and Visualforce.\r\nDesign, build, test, and deploy scalable Salesforce solutions based on business requirements.\r\nExperience with Salesforce integrations, APIs, SOQL/SOSL, triggers, workflows, and flows.\r\nCollaborate with business analysts, admins, and technical teams in Agile environments.\r\nStrong debugging, coding, and performance optimization skills are mandatory.\r\nExcellent communication skills and ability to work onsite in Dallas, TX on a hybrid schedule.",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/4kLOHCykg6YGjlrlc6j72p9IbUEubhIMJjOL6kRtn10",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0EB26676j4LBwSBtxVGKQk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2a7yJDbXm3clPX7RWXpaHs=",
+      "title": "Salesforce Developer",
+      "location": "",
+      "experience": {
+        "experience": "6-20 years",
+        "min_experience": "6"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": " \nSalesforce Developer – Hybrid (Local to Dallas, TX)\r\n \nWe are looking for a Salesforce Developer local to Dallas, TX for a hybrid work model.\r\nStrong hands-on experience in Salesforce development with expertise in Apex coding is required.\r\nDevelop and customize Salesforce applications using Apex, Lightning Components, and Visualforce.\r\nDesign, build, test, and deploy scalable Salesforce solutions based on business requirements.\r\nExperience with Salesforce integrations, APIs, SOQL/SOSL, triggers, workflows, and flows.\r\nCollaborate with business analysts, admins, and technical teams in Agile environments.\r\nStrong debugging, coding, and performance optimization skills are mandatory.\r\nExcellent communication skills and ability to work onsite in Dallas, TX on a hybrid schedule.\n \n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/HzLD-mgzhHomEGJuZHabsDPFgGdS-15zvW1V452tfh8",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2a7yJDbXm3clPX7RWXpaHs="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cwTF3sxuH4OrNuoV9dlpBN0=",
+      "title": "QA Analyst",
+      "location": "",
+      "experience": {
+        "experience": "8-12 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "Title: QA Analyst\nLocation: Remote\nJob Description:\n Essential Duties and Responsibilities  \n\nLead and mentor QE team members, as well as manage offshore resources \nCreate Test Plans, Test Cases/Test Data Using Software Programs – Coordinating and leading Testing by All Stakeholders \nDevelop & maintain automation frameworks \nDevelop, maintain, and execute automation scripts to ensure sufficient test coverage of Mortgage Connect Applications and APIs. Solid understanding of Performance Testing \nWork Closely with Business Analysis and Engineering Staff to Ensure the Test Coverage \nAct as key point of contact for all QA aspects of releases, providing QA services and coordinating QA resources internally and externally \nThe ability to quickly assess risk, lead a team to a decision point and ensure plans are executed are critical skills required to perform this role  \nDocument, Track, and Communicate Test Plans, Test Results, Analysis, and Unresolved Problems \nLeads the review of testing artifacts throughout the product life-cycle to ensure appropriate sign off and prioritization of testing work. Including coordinating test strategy, scripting and defect resolution. \nTake accountability for quality standards in the development, implementation and upkeep test scripts and opportunities for automation of testing products. \nDevelop/Improve QA processes and procedures \nDeveloping meaningful management metrics, Identify trends and opportunities for continuous improvement in product release \nRecommend Program Improvements and Revisions \nEstablish Benchmarks for Program Efficiency in Operating and Response Times \nCompatibility Testing and Performance Monitoring \nRisk Management \nDefect Management – Identify, Analyze, and Document Defects, Questionable Functions, Errors and Inconsistencies in Software Program Functions, Outputs, Screens, and Content \nParticipate in Development Projects/Agile Teams from Origination to Completion \nAdditional Duties, as assigned   \n\nQualifications  \n\nBachelor’s Degree in Computer Science, Software Engineering, Information Technology, Information Systems, Business, or Equivalent Work Experience \nAt least 7-9 years of relevant QA experience \n\nKnowledge, Skills and Abilities – Must Have \n\nWorking experience in any one of the Programming Languages (Java , Python , Ruby, JavaScript, C#) \nWorking experience in any one of the Test Automation Tools (Selenium, Appium, RestAssured, etc) \nUnderstanding of version control, branching schemes, reverts, rebasing, etc. using Git \nExperience in Automation Code reviews \nExperience with all aspects of QA process. Experience in developing test plans and test strategies \nAbility to Work in Fast-Paced Environment and Meet Deadlines \nCapability to Work both Independently and as part of a Team \nProblem-Solving Mindset with Ability to Multitask \nSelf-Motivated: Ability to Work with Minimal Supervision \nStrong Ability to Build Consensus – Ability to Influence Others \nExperience with All Aspects of System Development Lifecycle \nWorking Knowledge of Successful Software Development Methodologies and Best Practices \n\nKnowledge, Skills and Abilities – Good to Have \n\n1+ years of experience in RPA \n1+ Years of Related Work Experience Ideally in the Title or Real Estate Industry(Preferred) \nPrevious experience setting up and maintaining Azure DevOps pipelines \nExperience with All Aspects of System Development Lifecycle  \nExperience in leading automation teams \n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "04/08/26",
+        "start_dateStr": 1775606400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/rBaosMGiFz-wNbrLVYYqI6izQ_tKiSWVpl0EPpiKmT8",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cwTF3sxuH4OrNuoV9dlpBN0="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cw2OIcOijw34WsuOYDMeSJ0=",
+      "title": "Chief Estimator",
+      "location": "",
+      "experience": {
+        "experience": "10-25 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/29/26",
+        "date_posted": 1780012800000
+      },
+      "description": "\nChief Estimator\n\nLocation: Elk River, Minnesota (On-site)\nJob Type: Full-Time\nIndustry: Construction\r\n \nPosiion Summary\nA construction leader is seeking a Chief Estimator to lead and elevate the estimating function. This role is responsible for setting estimating standards, guiding pricing strategy, and ensuring competitive, profitable bids across multiple project types. The Chief Estimator will lead both people and processes while ensuring accuracy and meeting deadlines.\nKey Responsibilities\n\nLead, mentor, and develop the estimating team\nStandardize estimating processes and implement best practices\nReview and approve high-value and complex estimates\nDrive bid/no-bid decisions and pricing strategies\nBuild relationships with subcontractors, suppliers, and internal stakeholders\nMonitor market costs and adjust estimating assumptions accordingly\n\nRequirements\n10+ years of estimating experience within civil or site construction\nProven leadership experience managing estimating teams\nExceptional analytical, communication, and decision-making skills\nTrack record of winning profitable work\nPreferred Background\nExperience leading estimating efforts for heavy infrastructure projects.\nAdditional Information\nExperience: 5+ years (leadership level)\nLocation: Elk River, MN (55330)\nFull-time position\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1780012800000
+      },
+      "start": {
+        "start_date": "05/29/26",
+        "start_dateStr": 1780012800000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Jg3hHHw3MRtcczkTPNEkgBGsbMfJhF3xe2sqQchEN-I",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cw2OIcOijw34WsuOYDMeSJ0="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c9LY-FLhon0i9YXLbuP5zEk=",
+      "title": "L3 Database Administrator Oracle",
+      "location": "",
+      "experience": {
+        "experience": "12-18 years",
+        "min_experience": "12"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Title: L3 Database Administrator (DBA) – Oracle\nLocation: Remote\nJob Description:\nSkills & Experience\nExtensive hands‑on experience administering large‑scale Oracle database estates supporting mission‑critical production workloads across Silver, Gold, and Platinum service tiers.\nDeep technical expertise in Oracle High Availability and Disaster Recovery, including RAC and Data Guard, failover execution, DR validation, and strict RTO/RPO adherence.\nProven ownership of Sev‑1 / Sev‑2 production incidents, including rapid diagnosis, service restoration, Major Incident bridge participation, and leading RCA with preventive actions.\nAdvanced Oracle performance engineering skills covering AWR/ASH analysis, wait‑event diagnostics, SQL tuning, optimizer behavior, and capacity and growth forecasting.\nDemonstrated capability in backup, restore, and recoverability assurance, including RMAN strategy, restore testing, and audit‑ready recovery evidence.\nHands‑on proficiency with Oracle monitoring and management tools, including Oracle Enterprise Manager, for fleet‑level health, performance, and availability monitoring.\nStrong experience with Oracle administration utilities, including Oracle SQL Developer, Internet Directory, and Database Gateways, supporting integrated enterprise environments.\nAbility to analyze high‑volume operational workloads (access management, backups, provisioning, patching, batch failures) and drive automation and standardization opportunities.\nExperience operating in security‑ and compliance‑driven environments, supporting SOX controls, privileged access governance, audit logging, encryption, and backup/DR compliance.\nExposure to collaborating within ServiceNow AIOps / Event Manager environments, supporting event correlation, anomaly detection, incident prediction, and policy‑controlled automation, is an added advantage.\nRecommended Certifications\nOracle Database Administration Certified Professional (OCP 19c / 23ai)\nOracle Certified Expert (OCE) – RAC or Data Guard\nWindows 2019/22/ Redhat Linux 8.x/9.x\nITIL V4 ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/kuKRq9yZDa8oTS_OQXKkRUPIn0oo0Q0zIPL0ilf2_A4",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c9LY-FLhon0i9YXLbuP5zEk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c-ToaEiaFx-UC2uPeGBjcj4=",
+      "title": "Azure Platform Architect w/ Terraform Enterprise (TFE) experience",
+      "location": "",
+      "experience": {
+        "experience": "7-25 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Description\nWe are seeking an experienced Azure Architect with strong expertise in Azure Cloud Architecture, Terraform Enterprise (TFE), and Infrastructure as Code (IaC) automation for a leading Banking client. The ideal candidate will be responsible for designing and implementing secure, scalable, highly available cloud infrastructure solutions across multi-subscription and multi-region Azure environments.\nThe candidate should possess deep hands-on experience in Terraform, CI/CD automation, governance, and cloud security best practices within enterprise-scale environments.\n \nKey Responsibilities\n\nDesign and architect enterprise-grade Azure cloud solutions across multi-subscription and multi-region environments. \nDevelop scalable, reusable, and modular Infrastructure as Code (IaC) solutions using Terraform. \nImplement and manage Terraform Enterprise (TFE) workspaces, governance, and policy-as-code frameworks. \nBuild and optimize CI/CD pipelines for Terraform deployments using Azure DevOps, GitHub Actions, or Bitbucket Pipelines. \nEnsure cloud solutions adhere to security, compliance, governance, and banking industry standards. \nCollaborate with DevOps, Security, Infrastructure, and Application teams for cloud modernization initiatives. \nImplement environment promotion strategies, remote state management, and automated deployment workflows. \nDefine architecture standards, best practices, and operational guidelines for Azure infrastructure. \nTroubleshoot complex cloud infrastructure and deployment issues. \nProvide technical leadership and mentorship to engineering teams. \n\nRequired Skills & Qualifications\n\n7+ years of experience in Azure Cloud Architecture and Infrastructure Design. \nStrong experience designing secure, scalable, and highly available Azure solutions. \n7+ years of hands-on Terraform experience including: \n\nReusable module development \nRemote state management \nWorkspaces \nEnvironment promotion patterns \n\n\nStrong expertise with Terraform Enterprise (TFE), including: \n\nWorkspace design \nVCS-driven workflows \nPolicy as Code (Sentinel/OPA) \nGovernance and compliance controls \n\n\nStrong experience implementing CI/CD automation for Terraform deployments using: \n\nAzure DevOps \nGitHub Actions \nBitbucket Pipelines \n\n\nExperience implementing approval workflows, quality gates, and automated validations. \nStrong understanding of Azure networking, security, IAM, monitoring, and governance services. \nExperience with Azure Landing Zones and enterprise cloud governance frameworks. \nStrong scripting skills using PowerShell, Bash, or Python. \nExperience working in Banking or Financial Services environments is highly preferred. \nExcellent communication, stakeholder management, and problem-solving skills. \n\nPreferred Qualifications\n\nAzure certifications such as: \n\nAzure Solutions Architect Expert \nAzure Administrator Associate \nTerraform Associate Certification \n\n\nExperience with Kubernetes/AKS and container orchestration. \nFamiliarity with FinOps and cloud cost optimization practices. \nExperience with monitoring and observability tools. \n\nNice to Have\n\nExperience with Sentinel or Open Policy Agent (OPA). \nExposure to hybrid cloud or multi-cloud environments. \nExperience with automated security scanning and compliance tooling. \n\nEducation\nBachelor’s degree in computer science, Information Technology, Engineering, or related field",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/hUC-p0v2FKiUofuxYkNRAJoDeQmDL0BB2VIao_MNmYs",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c-ToaEiaFx-UC2uPeGBjcj4="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c8fPbXueF-oFL0Q10lmqzZU=",
+      "title": ".Net Developer- Programmer Analyst",
+      "location": "",
+      "experience": {
+        "experience": "8-20 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "VDH Programmer Analyst 3 (803010)\n \n \nStart : 06/01/2026 |. End 08/28/2026\n \n \n109 Governor St.\r\nRichmond, Virginia 23219| In Person Only | Hybrid\n \n \nVDH .Net developer and SQL Server Programmer \r\n \n \n\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\n\n\n\n\nC# .NET web application design and development\n\n\nRequired\n\n\n8\n\n\nYears\n\n\n\n\n \n\n\n\n\nSQL Server 2019 + (SQL programming and DB design)\n\n\nRequired\n\n\n8\n\n\nYears\n\n\n\n\n\n\n\n\nJava Script/JQuery\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n \n\n\n\n\nVery good communication skills and documentation skills\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n\n\n\n\nGitLab & DevSecOps\n\n\nDesired\n\n\n1\n\n\nYears\n\n\n\n\n \n\n\n\n\nTelerik\n\n\nDesired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nM365 Power platform and Azure cloud\n\n\nDesired\n\n\n2\n\n\nYears\n\n\n\n\n \n \nLOCAL Candidates\nON-SITE interview: *Candidates MUST agree to ONSITE interviews, NO exceptions. Might do a phone screen filter if the applicant count is high.\nCandidates will be required to come onsite sometimes for project plans, meetings etc. NO exceptions\n*please do not submit candidates who have been submitted to previous VDH .NET reqs.\n\n\nWorks as part of the Virginia Department of Health, Office of Information Management (VDH) to develop and maintain multiple .NET applications.\nSpecific Task(s):\n\nDevelop, Maintain And Enhance ASP.NET/MVC and .NET Core applications\nExpertise in C#, JQuery, Javascript, HTML\nGood SQL development skills\n\n\n\nRequired Skill set:\r\nC# .NET – 5 + years experience\nHTML, Jquery & Javascript - 5+ years\nWeb Design and development\nSQL Server – DB design/development – 5 + years\r\nVery good Communication skills and documentation skills\n\r\nPreferred skill set:\r\nGitlab and DevSecOps 1+ years\r\nAgile development methodology – 2+ years\nMicrosoft M365 knowledge - Azure cloud, Power platform\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Y8zsMUEwsKsSAddLA7UpMKBUbrLejRJW76GQMcWYlt4",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c8fPbXueF-oFL0Q10lmqzZU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c2zUBzgXr7D-LH0YQIKPyQw=",
+      "title": "Salesforce Marketing Cloud with Data Cloud",
+      "location": "",
+      "experience": {
+        "experience": "10-15 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Salesforce Marketing Cloud with Data Cloud\nDallas, TX – Onsite\nMarketing to take full ownership of our enterprise marketing automation ecosystem. In this hands-on role, you'll lead the migration from Marketing Cloud Account Engagement (MCAE) to Marketing Cloud Advanced (MCA) as part of our LTC Transformation Programme — a ground-up, end-to-end initiative spanning campaign to cash, built on the new Salesforce Revenue Cloud platform, and powered by Data Cloud and AI. Your work will be central to delivering a scalable, data-driven, and compliant MarTech foundation for long-term growth. If you care deeply about clean data architecture, intelligent automation, and enterprise governance — this role was built for you.\"\nResponsibilities\n\nLead the MCAE → MCA migration, rebuilding and optimizing campaigns, journeys, and automations\nDefine and execute a coexistence strategy aligned with the LTC program, supporting current-state MarTech operations while enabling transition to the new Salesforce instance\nDesign data models in Contact Builder with strong focus on integrity, segmentation scalability, and performance\nDevelop advanced SQL queries for audience creation, data transformation, and automation optimization\nBuild landing pages, forms, and form handlers with accurate data capture, validation, and CRM sync\nEnable AI‑driven personalization and automation using Salesforce AI, including Agentforce\nImplement and manage enterprise consent and subscription governance\nEstablish automation standards, monitoring, governance, and documentation for long‑term platform health\nCollaborate closely with product owners, architects, engineers, and QA\n\nMust Have\nBachelor’s degree or higher (Computer Science preferred)\n\n8+ years of experience developing and supporting mid‑ to large‑scale IT projects; strong understanding of Sales/Service Cloud processes\n5+ years of hands‑on Salesforce Marketing Cloud experience\nSalesforce Marketing Cloud Email Specialist certification\n(Preferred) Salesforce Marketing Cloud Engagement Consultant certification\nKnowledge of Salesforce Agentforce and Data Cloud\nStrong expertise in SQL, AMPscript, HTML/CSS, and marketing data modeling\nExperience building landing pages, forms, and form handlers\nDeep understanding of consent governance (GDPR, CAN-SPAM)\nExperience working in multi‑instance or transformation programs\nExperience with DevOps tools such as Jira, Copado, or Flosum\nSolid understanding of REST/SOAP and event‑driven architectures\nExperience creating technical design documents and architecture diagrams\n\n \nNice to Have\nFamiliarity with SAFe and Agile/Scrum methodologies\n\nStrong problem‑solving and communication skills\nAbility to quickly learn systems/processes, grasp complex technical concepts, and adapt to change\nAbility to manage multiple assignments simultaneously\nExperience with Partner Relationship Management (PRM), Data Cloud, Agentforce, and Revenue Cloud\nSalesforce development and configuration knowledge: Apex, Visualforce, Aura, LWC, SOQL, integrations\nProficiency with JavaScript, JSON, XML, HTML, CSS, and VS Cod\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/wGN1S2f8VPrmPoRRSYAaI6Pf8NNiofU-Be86dxNh5iA",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2zUBzgXr7D-LH0YQIKPyQw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c8WLPZ84dqWhb_vnY8PuEgE=",
+      "title": "Salesforce BSA (Order Management)",
+      "location": "",
+      "experience": {
+        "experience": "8-20 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Job Description – Salesforce BSA (Order Management)\nLocation : Dallas,TX or Redwood city CA -(Hybrid) Need locals\n \n\nAnalyze and document business requirements for Order Management processes within the Salesforce ecosystem.\nCollaborate with stakeholders, product owners, and technical teams to design scalable Salesforce solutions.\nConfigure and support Salesforce Order Management, Sales Cloud, and related integrations.\nTranslate business needs into functional specifications, user stories, and process flows.\nCoordinate with developers and QA teams for testing, deployment, and production support activities.\nEnsure seamless integration between Salesforce, ERP, payment, and fulfillment systems.\nDrive UAT sessions, user training, and process improvement initiatives for order lifecycle management.\nMonitor system performance, troubleshoot issues, and recommend enhancements aligned with business goals\n\n \n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/rzlJd7f4JWbi2gh2uwGsJh7STigDlLHK_O9xeDv6K3c",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c8WLPZ84dqWhb_vnY8PuEgE="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5vOBm0-jDe2-GQ36uzUMVo=",
+      "title": "Digital Experience Design Accessibility Analyst ",
+      "location": "",
+      "experience": {
+        "experience": "8-25 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/28/26",
+        "date_posted": 1779926400000
+      },
+      "description": "Digital Experience Design Accessibility Analyst \r\nCharlotte, NC | Atlanta, GA | Birmingham, AL | (hybrid- onsite 3 days per week)\r\n6-12-month contract to hire\n\nPrimary Responsibilities\n\nProvides expert accessibility and usability feedback in the areas of design (UX/UI), development, and testing to teams \nEngages in quality audits and assist with remediation roadmaps \nFunctions as a subject matter expert on accessibility, staying ahead of trends in disability advocacy, universal and inclusive design, and web standards. \nCollaborates with designers to review designs ensuring that accessibility is baked into the product before development starts \nAssists developers in addressing accessibility challenges by delivering specifications and providing functional prototypes of solutions \nWorks with product teams to provide manual and automated reviews, diagnose issues and recommend solutions \nFacilitates and encourages collaboration and transparency across disciplines \nAssists in the development of training and education materials \nEvaluates third party tool and assist in implementation of new tools \nMentors and trains Accessibility Analysts in standard methodologies, systems and processes \nProvides guidance and direction for accessibility program overall \nCollaborates with user researchers and represent users internally \nPrioritizes and defines approaches to understand the user story, guiding others in doing so \nProvides peer-review of other analyst's annotation and recommendations\n\nRequired Skills:\n\nBachelor's degree in relevant field and six (6) years experience performing accessibility testing \nOr High School Diploma or GED and ten (10) years of related post-secondary education and/or experience in performing accessibility testing \nAbility to collaborate productively both independently and with diverse teams \nAbility to hand-code HTML, CSS and JavaScript - inspect the code, analyze the violations, remediate in the browser's rendered code, and retest \nAbility to recommend technical solutions for several technology stacks, for example, mobile, React (single-page applications), dotnet, etc. \nAbility to mentor others in methods and techniques for addressing accessibility barriers on web applications and mobile devices and in a variety of forums \nAdvanced soft skills and mastery of working with teams with varied levels of understanding of inclusive design or accessibility \nConsumer-centric; empathetic toward the customer with the ability to put oneself in their shoes \nDemonstrated confidence using a range of assistive technologies, including JAWS, NVDA, iOS VoiceOver, Android Talkback, etc. \nExcellent communication, problem-solving, and analytical skills \nExperienced working in an agile environment \nIn depth understanding of ADA standards, including edge cases\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779926400000
+      },
+      "start": {
+        "start_date": "05/28/26",
+        "start_dateStr": 1779926400000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/dHJwYrijJ4KwMzej2n5QnZbt3nKuwntSTICoTAZvnS8",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5vOBm0-jDe2-GQ36uzUMVo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0Gzwi5Uq9-lrRrPZSPEtZA=",
+      "title": "Full Stack Applications Developer",
+      "location": "",
+      "experience": {
+        "experience": "10-14 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Role: Sr. Full Stack Applications Developer \nLocation: Cleveland, OH (Onsite) \n java & python needed & ruby is +\n \nKnowledge & Experience:\n7+ years of experience in software development, specifically in application development engineering\nStrong programming skills in back-end languages such as Java, Python, or Ruby\nExperience with back-end frameworks\nStrong understanding of web protocols\nExcellent problem-solving skills and attention to detail\nAbility to work collaboratively and cross-functionally with technical stakeholders\nExperience working with customers to build and formulate business requirements.\n5+ years Java, Struts, Spring Boot, ORM/JPA/Hibernate, Web Services, Object-oriented design techniques, and common design patterns.\n3+ years of experience in writing SQL queries and stored procedures to Oracle databases.\nExperience CI/CD(GitHub Actions),testing, debugging, and diagnosing software bugs and system issues.\nExperience in automated testing desired.\nMicroservices experience\nAdvanced skills implementing API and Microservices architecture using any of the market leading solutions\nExperience in implementing business critical, high volume, and highly available services is a must.\nA strong hands-on development track records building integration and application utilizing a variety of technologies, development tools and database systems.\nDeveloping new user-facing features using React.js\nBuilding reusable components and front-end libraries for future use\nTranslating designs and wireframes into high quality code\nOptimizing components for maximum performance across a vast array of web-capable devices and browsers\nExperience with popular React.js workflows (such as Flux or Redux)\nFamiliarity with modern front-end build pipelines and tools\nExperience with common front-end development tools such as Babel, Webpack, NPM, etc.\nAbility to understand business requirements and translate them into technical requirements\nTechnical Skills:\nDatabase Management Systems\nFront-End Development Tools- React, JSP,HTML,CSS Backend Frameworks – Struts, Spring Boot\nProgramming Languages\nCode Prompt Engineering\nCloud Technologies & Platforms\nData Analysis\nSoftware Development Lifecycle (SDLC) Methodology\nContinuous Integration and Continuous Deployment (CI/CD)\nFront-End Coding Languages\nWeb Services & APIs\nSystems Integration\nSoftware Testing & Quality Assurance Methodologies & Tools\nAutomated Testing Tools\nContainerization\nVersion Control Tools\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Q4te2fuzqfYHYvxO9orNAAOjzBlvP-R3FoVjvgYr3ZY",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0Gzwi5Uq9-lrRrPZSPEtZA="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cxyHO4yqMRKUwtbdoPdvHSk=",
+      "title": "Digital Product Owner",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Role: Digital Product Owner \nLocation: Birmingham, AL- Charlotte, NC- Atlanta, Georgia (hybrid- onsite 3 days per week)  \nDuration: 12month Contract to Hire\n \nJob Description: \nWe are seeking a Digital Product Owner to act as the liaison between business stakeholders and technology teams, driving the successful delivery of digital products and process improvements. This individual will gather and prioritize business requirements, manage product backlogs, support Agile and Waterfall delivery teams, and ensure solutions align with business strategy, customer needs, and operational goals. The ideal candidate has strong stakeholder management skills, experience leading cross-functional initiatives, and the ability to translate complex business needs into actionable technical solutions. \n \nRequired Skills \n•          4+ years of experience in Digital Product Ownership, Business Analysis, Project Delivery, or Process Improvement \n•          Experience working in Agile and/or Waterfall software delivery environments \n•          Strong experience gathering, documenting, and prioritizing business and technical requirements \n•          Experience managing product backlogs, user stories, and acceptance criteria \n•          Ability to work cross-functionally with business leaders, developers, QA, UX, and infrastructure teams \n•          Strong stakeholder communication and relationship management skills \n•          Experience identifying operational risks, dependencies, and process improvement opportunities \n•          Knowledge of product lifecycle management and software delivery processes \n•          Bachelor's degree or equivalent professional experience \n \nBonus Skills \n•          SAFe Practitioner (SP) certification \n•          Experience in enterprise-scale digital transformation initiatives \n•          Background supporting infrastructure, mobile, or customer-facing digital platforms \n•          Experience with process engineering and change management methodologies \n•          Experience in regulated or compliance-driven environments \n•          Familiarity with operational metrics, adoption tracking, and reporting \n•          Financial services, banking, AML, BSA, CDD, or OFAC experience\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/WQqM1regrL3ydrPzkHdWP0Bsi1PUxgnUmhXt4kWC5Kk",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cxyHO4yqMRKUwtbdoPdvHSk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1X4PDevXzA03bk_mwxBx28=",
+      "title": "Senior Vulnerability Management Remediation Lead (Tanium Focused)",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Job Title: Senior Vulnerability Management Remediation Lead (Tanium Focused)\nLocation: 7440 State Hwy 121, McKinney, TX 75070 \nDuration: Contract\n \n \nPosition Overview\nWe are seeking a Senior Vulnerability Management Remediation Lead to drive enterprise-wide vulnerability remediation efforts to completion. This is a hands-on, execution-focused role requiring deep Tanium expertise, strong technical skills, and the ability to hold teams accountable for remediation outcomes.\nThis individual will not only perform patching and remediation but will also lead remediation initiatives, escalate blockers, track progress, and ensure vulnerabilities are driven to closure. The ideal candidate is persistent, metrics-driven, and comfortable challenging resistance to achieve security objectives. \n________________________________________\nKey Responsibilities \n•            Lead and execute enterprise vulnerability remediation efforts using Tanium Patch, Deploy, Comply, and Interact. \n•            Drive vulnerabilities from identification through validation and closure. \n•            Own remediation timelines and ensure adherence to SLAs. \n•            Escalate aging or high-risk vulnerabilities and remove organizational roadblocks. \n•            Partner with infrastructure, application, cloud, and operations teams to enforce remediation accountability. \n•            Develop and manage patching campaigns, maintenance windows, and emergency deployments. \n•            Validate remediation through rescans, reporting, and compliance verification. \n•            Analyze vulnerability trends and provide executive-level reporting and risk summaries. \n•            Track remediation metrics (MTTR, SLA compliance, critical vulnerability aging). \n•            Lead remediation efforts for zero-day and critical vulnerabilities. \n•            Implement process improvements to enhance remediation efficiency and coverage. \n•            Mentor junior team members and promote remediation best practices. \n________________________________________\nRequired Qualifications \n•            5+ years of experience in vulnerability management, patch management, or systems engineering. \n•            Deep hands-on experience with Tanium (Patch, Comply, Deploy, Interact, Asset) in large enterprise environments. \n•            Strong Windows and/or Linux systems administration background. \n•            Experience working with vulnerability scanning platforms (Tenable, Qualys, Rapid7). \n•            Proven experience driving remediation programs to closure across multiple teams. \n•            Strong understanding of CVSS, risk prioritization, and exploitability analysis. \n•            Experience delivering executive-level reporting and risk presentations. \n•            Strong knowledge of change management and enterprise IT operations. \n________________________________________\nPreferred Qualifications \n•            Experience integrating Tanium with ServiceNow or other ITSM platforms. \n•            Experience in regulated environments (financial services, healthcare, federal). \n•            Knowledge of CIS benchmarks, NIST frameworks, or other compliance standards. \n•            Automation/scripting experience (PowerShell, Python, Bash). \n•            Tanium Certified Operator or equivalent certifications. \n________________________________________\nKey Competencies \n•            Results-driven and persistent — pushes remediation efforts to completion. \n•            Strong leadership presence without direct authority. \n•            Ability to influence cross-functional teams and enforce accountability. \n•            Exceptional organizational and follow-up skills. \n•            Strong written and verbal communication skills. \n•            Comfortable presenting remediation status and risk exposure to senior leadership. \n•            Ability to operate with urgency in high-risk scenarios. \n \nWhat Success Looks Like \n•            Critical vulnerabilities remediated within SLA. \n•            Reduction in vulnerability aging backlog. \n•            Improved MTTR and compliance metrics. \n•            Clear executive visibility into remediation status and risk posture. \n•            Documented and repeatable remediation processes.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/Kgj8sS-RswTRogMA7JLH4SB7Eu3-W4Cnjw79y-v9XRY",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1X4PDevXzA03bk_mwxBx28="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5DYCOebKE5QKLpDC3TkkL8=",
+      "title": "Vulnerability Management Remediator",
+      "location": "",
+      "experience": {
+        "experience": "5-20 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Vulnerability Management Remediator (Hands-on Patching – Tanium Focused) \n115 Perimeter Center Place\r\nSuite 600, Atlanta, GA 30346\n\n\nFirst One: Job Title: Vulnerability Management Remediator (Hands-on Patching – Tanium Focused)\nPosition Overview\nWe are seeking a highly skilled, hands-on Vulnerability Management Remediator with strong Tanium experience to execute enterprise-wide patching and remediation activities. This role requires direct keyboard-level execution of vulnerability remediation using Tanium Patch and related modules across Windows, Linux, and server environments. The ideal candidate is operationally focused, experienced in large-scale patch deployments, and comfortable working in fast-paced enterprise environments. \n\n\nKey Responsibilities \n\nPerform hands-on vulnerability remediation using Tanium Patch, Deploy, and Comply modules. \nExecute OS and third-party application patching across Windows and Linux systems. \nAnalyze and remediate vulnerabilities identified by Tanium and other scanning tools (Tenable, Qualys, Rapid7). \nCreate, test, and deploy Tanium patching policies and maintenance windows. \nPerform patch validation and post-deployment verification. \nTroubleshoot failed patch deployments and endpoint communication issues. \nUtilize Tanium for real-time endpoint visibility and remediation tracking. \nApply configuration changes and system hardening aligned with security benchmarks. \nSupport emergency remediation efforts for zero-day and critical vulnerabilities. \nWork closely with infrastructure and application teams to coordinate remediation activities. \nDocument remediation actions and maintain compliance evidence for audits. \nDevelop automation scripts (PowerShell, Bash) to enhance remediation efficiency. \n\n\n\nRequired Qualifications \n\n3+ years of hands-on vulnerability remediation or systems administration experience. \nStrong hands-on experience with Tanium (Patch, Deploy, Comply, Interact, Asset). \nExperience managing enterprise-scale patch deployments. \nProficiency in Windows Server and/or Linux administration. \nExperience interpreting vulnerability scan results and CVSS scoring. \nFamiliarity with enterprise change management processes. \nExperience troubleshooting endpoint agents and patch failures. \nScripting experience (PowerShell, Bash, Python) preferred. \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/DwFZbmOsgPVtThNnb0D492qvskbwrBXVla8zXULiDTA",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5DYCOebKE5QKLpDC3TkkL8="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_dh8IZjHOl4zkUpFRZXUuU=",
+      "title": "Research/ Data Analyst",
+      "location": "",
+      "experience": {
+        "experience": "3-20 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\n\n\n\n\nExperience with learning systems to analyze data and create new processes with the tools in place.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nIntermediate knowledge of SharePoint, Excel, and the Power Platform (Power BI, Power Apps, or Power Automate).\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/8MnbRIJYjODMnPH_LcGBkwBBK8o5PbtlxmBFGT3wIbY",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_dh8IZjHOl4zkUpFRZXUuU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c5tp9DdNV0Db9LRSSbzj5-c=",
+      "title": "Computer Operator 2",
+      "location": "",
+      "experience": {
+        "experience": "5-10 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Role: Computer Operator 2 \nLocation: Atlanta, GA \n \nJob Summary:\n\nUnder limited supervision, monitors BPE/TPE transactions, all environmental, security, electrical & UPS systems. Checks the network systems to ensure statewide access. Works with vendors for hw/sw. Ensure all printed output is of high quality and defect free.\n\nPreferred Qualifications\r\nSignificant experience as a Computer Operations Operator in a large data center. Exp w/a Network Operations Center (NOC). Exp w/production control. Exp with distributed servers running AIX, Linux, and Windows. Exp w/data center security, HVAC and electrical in a data center. Exp w/Control-M, TPE/BPE Manager.\n\r\nQualifications:\r\n•Vocational/Technical degree in a related field from an accredited college AND 2 years of related experience\n\r\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/6GZ8bSECrCUHh2MF1G_DSxOvpUq_ey5YVDnnD3Rm-c8",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c5tp9DdNV0Db9LRSSbzj5-c="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c7zw0AMzpnDh8shih7qyq8s=",
+      "title": "IAM CONSULTANT",
+      "location": "",
+      "experience": {
+        "experience": "8-15 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "Role: SRS IAM CONSULTANT\nLocation : McKinney TX.  \nAddress: 7440 State Hwy 121, McKinney, TX 75070\nInterview : Virtual then face to face \n \n3 days a week in office so need to be comfortable going into the McKinney office. \n \nNeed strong IAM experience, along with hands-on experience in CIAM, SailPoint Identity Security Cloud / ISC, Active Directory, and Microsoft Entra ID.\n \nSummary\nWe are seeking a senior Cybersecurity Staff Engineer – IAM / CIAM Consultant with strong hands-on experience in Customer Identity and Access Management, SailPoint Identity Security Cloud, Active Directory, and Microsoft Entra ID.\nThe ideal candidate will support enterprise identity initiatives across workforce IAM and customer identity use cases. This role requires strong technical depth in identity governance, identity lifecycle, application integrations, access controls, authentication, authorization, and identity data flows.\n \nPrimary Skill Set\nCandidates must have strong hands-on experience with:\n\nCIAM / Customer Identity and Access Management\nSailPoint Identity Security Cloud / SailPoint ISC\nActive Directory\nMicrosoft Entra ID / Azure AD\nIdentity lifecycle management\nApplication onboarding and identity integrations\nSSO, MFA, federation, and access governance\n\n \nKey Responsibilities\n\nLead and support Customer Identity and Access Management initiatives across customer-facing and external-user applications.\nDesign, configure, and support CIAM registration, login, MFA, passwordless authentication, account recovery, and profile management flows.\nSupport CIAM integrations for web, mobile, SaaS, partner, and internal applications.\nWork with SailPoint Identity Security Cloud / ISC for identity governance, access modeling, RBAC, application onboarding, certifications, and lifecycle processes.\nWork with Active Directory and Microsoft Entra ID for identity, group, role, and access management.\nAnalyze identity data, entitlements, roles, groups, and access models.\nSupport SSO, MFA, federation, and authentication-related integrations.\nPartner with application, security, infrastructure, audit, and business teams.\nCreate technical documentation, process flows, architecture diagrams, runbooks, and control evidence.\nOversee multiple IAM projects concurrently, ensuring timely, secure, and scalable delivery.\nProvide technical mentorship to junior engineers and develop documentation to support operational continuity and audit readiness.\nContribute to the strategic roadmap for IAM, identifying opportunities for innovation, risk reduction, and operational efficiency.\nProvide weekly status updates, risks, issues, and recommendations to leadership.\n\n \n \nRequired Skills\n\n8+ years of experience in Identity and Access Management engineering, cybersecurity, or a related field.\nStrong hands-on experience with Customer Identity and Access Management platforms and customer-facing identity use cases.\nStrong hands-on experience with SailPoint Identity Security Cloud / ISC, including sources, connectors, identity profiles, access profiles, roles, entitlements, certifications, workflows, provisioning, and lifecycle states.\nStrong experience with Active Directory, including users, groups, OUs, permissions, service accounts, and group-based access.\nStrong experience with Microsoft Entra ID / Azure AD, including enterprise applications, app registrations, conditional access, MFA, groups, external identities, and identity governance.\nExperience designing, implementing, or supporting customer registration, login, MFA, account recovery, profile management, and lifecycle flows.\nExperience with B2B, B2C, partner, vendor, and external-user identity models.\nExperience with SSO, federation, and provisioning technologies, including SAML, OAuth 2.0, OIDC, LDAP, and SCIM.\nExperience with CIAM security controls, including adaptive authentication, risk-based authentication, step-up authentication, session management, bot protection, and account takeover prevention.\nExperience with identity attributes, claims, tokens, scopes, roles, entitlements, access policies, and attribute mapping.\nExperience with customer identity data synchronization and downstream application integrations.\nExperience with identity governance, access reviews, certifications, RBAC, and entitlement management.\nAbility to troubleshoot CIAM and IAM issues across authentication, authorization, federation, provisioning, synchronization, MFA, sessions, and application access.\nAbility to work with application owners, security teams, infrastructure teams, audit teams, privacy teams, and business stakeholders.\nExcellent communication, analytical, and organizational skills.\nComfortable working independently or within a team in a hybrid work environment.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "50",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/VCf0XRJKWpyUTxeYbvKYHLwKx0cBbck9wBj45AysDEc",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7zw0AMzpnDh8shih7qyq8s="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cyP2QBYfwv1fKKbPFvbg5Eo=",
+      "title": "Business Analyst (Procurement Operations)",
+      "location": "",
+      "experience": {
+        "experience": "2-10 years",
+        "min_experience": "2"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "GDOT Business Analyst (Procurement Operations) \nStart : 06/29/2026 |  End 06/30/2027\nLocation: Atlanta, Georgia | Hybrid | Either Web Cam or In Person\n \n \n\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\n\n\n\n\nExperience with learning systems to analyze data and create new processes with the tools in place.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nIntermediate knowledge of SharePoint, Excel, and the Power Platform (Power BI, Power Apps, or Power Automate).\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n \nThe Georgia Department of Transportation (GDOT) is seeking a highly analytical Business Analyst to support operational contracting within the procurement department. This role focuses on mastering, managing, and optimizing our existing procurement infrastructure. The BA will leverage M365 systems to maintain high-efficiency tools and processes, transforming raw data into actionable insights for strategic sourcing.\nKey Responsibilities\n\nSystem Management: Own, maintain, and maximize the efficiency of existing procurement tools.\nData Analytics: Analyze procurement data to identify trends and support strategic sourcing.\nProcess Optimization: Refine existing workflows using M365 systems to increase productivity.\nIndependent Execution: Manage analytical projects from start to finish with minimal supervision. \n\nRequired Qualifications\n\nAnalytical Skills: Strong critical thinking and advanced data-driven problem-solving abilities.\nTechnical Agility: Proven ability to quickly learn, adapt to, and manage unfamiliar software systems.\nM365 Expertise: Intermediate knowledge of SharePoint, Excel, and the Power Platform (Power BI, Power Apps, or Power Automate).\nWork Style: Self-motivated mindset with a proven track record of working independently.\n\nPreferred Qualifications\n\nCertifications: Microsoft certification in SharePoint or Power Platform.\nExperience: Background in procurement or supply chain operations is a plus, but not required.\n\nWork Schedule\nHybrid: Candidates must be available to work onsite 1–2 days per week at the GDOT office.\n\n\r\n ",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/haVmOuOjzNCLYLn03bMvhvERdEumSMp7_aNVsR1BvJc",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyP2QBYfwv1fKKbPFvbg5Eo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c0D5278GTqUQgOhaXwkmuhQ=",
+      "title": "Project manager",
+      "location": "",
+      "experience": {
+        "experience": "10-20 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/27/26",
+        "date_posted": 1779840000000
+      },
+      "description": "\n\n\n\nExperience in complex IT project or portfolio coordination involving multiple stakeholders across multiple business areas and geographies\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\n \n\n\n\n\nExperience with Cloud migration, Google, Data Warehouse, Migration experience\n\n\nRequired\n\n\n \n\n\n \n\n\n\n\n\n\n\n\nAbility to translate technology terms and explain concepts of SDLC to program/business folks who have little to no exposure to large software projects\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\n \n\n\n\n\nAbility to support Sr. project team staff to drive projects to success\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\n\n\n\n\nStrong organization, communication and presentation skills\n\n\nRequired\n\n\n \n\n\n \n\n\n\n\n \n\n\n\n\nExperience in organizing highly complex and technical information.\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\n\n\n\n\nPrior experience working on State of Indiana large software projects\n\n\nRequired\n\n\n \n\n\n \n\n\n\n\n \n\n\n\n\nKnowledge of multiple methodologies including agile and waterfall\n\n\nRequired\n\n\n \n\n\n \n\n\n\n\n\n\n\n\nExperience managing projects within Azure DevOps\n\n\nHighly desired\n\n\n \n\n\n \n\n\n\n\n \n\n\n\n\nPMP Certified\n\n\nDesired\n\n\n \n\n\n \n\n\n\n\n\n\n\n\nLed end-to-end migration of an on-premise to cloud data warehouse migrations\n\n\nDesired\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779840000000
+      },
+      "start": {
+        "start_date": "05/27/26",
+        "start_dateStr": 1779840000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/e1Si8ivtvpOj08W4n0AHyUqCNFAwGObpTn95co8SVR4",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0D5278GTqUQgOhaXwkmuhQ="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1gInOHR520MkE2nAhZnmyU=",
+      "title": "Tableau Developer Consultant",
+      "location": "",
+      "experience": {
+        "experience": "8-10 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Role: Tableau Developer Consultant\nLocation: Plano TX Hybrid\nDuration: 6-12 months+\n \nJob Description:\nWe are seeking a Tableau Developer Consultant for the Lexus Parts Center Online project. The engagement is expected to last 6+ months, with the possibility of extension. The ideal candidate must have a minimum of 5 years of hands-on experience with Tableau and advanced skills in the platform. Strong SQL. Additionally, strong proficiency in querying relational databases is required. The job description is attached for your reference. We aim to begin as soon as possible\n \nAbout us:\nCollaborative. Respectful. A place to dream and do. These are just a few words that describe what life is like at Toyota. As one of the world’s most admired brands, Toyota is growing and leading the future of mobility through innovative, high-quality solutions designed to enhance lives and delight those we serve. We’re looking for diverse, talented team members who want to grow and challenge what’s possible with us.\n \nTeam Overview:\nBusiness Analytics (BA) team is a lean cross functional analytics team that collaborates with different teams in Sales & Marketing organization; Sales, Fleet, TCUV, Vehicle marketing and communications, Incentives, and Digital marketing teams. The Marketing Analytics team, a subset of Business Analytics, aims to provide centralized access to data stitched together from disparate sources, deliver data analytics solutions and generate insights to enable data driven business decisions across advertising, marketing and digital domains across the customer journey. We are seeking an experienced Tableau Consultant to join our growing team of analytics professionals to develop new and effective ways for our stakeholders to leverage data to drive performance.\n \nResponsibilities: \n\nThe Tableau consultant will be responsible for the design, development and maintenance of visual analysis tools, dashboards and reports used by Toyota marketing stakeholders, primarily in Tableau with deep collaboration with back-end data engineers \nResponsible for end-to-end development and ability to create complex calculations including LOD expressions, action filters, user filters and implement advanced dashboard practices in Tableau \nRegularly demonstrate and implement the numerous capabilities of Tableau, such as multi-source dashboards, data blending, table calculations, advanced calculated fields, customized visuals, user attribute functions, etc. \nIdentify data quality issues and support overall data governance by IT Cx team \nSupport ad-hoc analytics needs by delivering analytics solutions and assisting in interpretation of data \nAssist in ad-hoc troubleshooting of underlying data ecosystem and perform Root Cause Analysis for errors or bugs in dashboards and reports \nCommunicate project status, risks, dependencies and roadblocks for technical audiences and business stakeholders in a timely and organized manner \nIdentify opportunities to increase efficiency of underlying data sources by optimizing SQL, utilizing blending in Tableau, etc \n\n \nRequirements: \n•          Bachelor’s degree in business, Marketing, Mathematics, Computer Science or Statistics, with significant quantitative course work is required \n•          5 + years of strong experience in building data visualizations using Tableau \n•          5 + years of strong experience using relational databases and writing custom SQL queries \n•          Intermediate level experience in data analysis and reporting \n•          Strong analytical skills with the ability to collect, organize, analyze and disseminate significant amounts of information with attention to detail and accuracy. \n•          Experience working in large data ecosystems that are always evolving to include more sources and dependencies  \n•          Strong communications skills with the ability liaison between technical and non-technical teams \n \nPreferred: \n•          Intermediate experience with Alteryx \n•          Advanced experience with querying data example: SQL server \n•          Experience with Embedded Analytics via Tableau \n•          Experience with implementing Row Level Security within Tableau",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ethp3hy-02bkH3URSBUCcPifgEq2WrwgzSVjzqpqqZ4",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1gInOHR520MkE2nAhZnmyU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6_s7frsXpaQKPEdZog12R4=",
+      "title": "Software Engineer IV",
+      "location": "",
+      "experience": {
+        "experience": "5-25 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Software Engineer IV\r\nCharlotte, NC | Atlanta, GA | Birmingham, AL | (hybrid- onsite 3 days per week) \r\n6-12-month contract to hire\n\n\nOur client needs a Software Engineer oversees application development, modification, and maintenance of applications. This position monitors system applications, ensures systems run smoothly, and creates reports and other documentation outlining findings/solutions. This position sits within the Technology department.\n\r\nPrimary Responsibilities\n\nOversees development and installation of new hardware and software \nProvides advice and recommendations to management on processes and techniques required for improved work operations Installs and configures systems and other software \nTests installed software for malfunction detection \nIdentifies and resolves business systems issues \nDesigns and deploys new applications and enhancements to existing applications, software, and operation systems \nMeasures effectiveness and efficiency of existing systems \nDevelops and implements strategies to improve systems Monitors and tests system performance \nOversees the training of junior engineers to improve job skills and work efficiency \nMaintains full ownership of a process typically \nMay act as a procedural expert \n\nRequired Skills:\n\nBachelor’s degree in computer science, Computer Engineering or a related field \nSeven (7) years of experience \nAbility to collaborate with programmers, developers, and other technology professionals to achieve a common objective \nAbility to conduct system analysis to detect issues with performance \nAbility to develop and implement technology solutions to resolve technical challenges \nAbility to manage multiple projects simultaneously \nKnowledge of software testing techniques, code optimization and software debugging \nStrong communication, analytical and problem solving skills Strong executional capabilities \nThorough understanding of software structures, hardware, computing systems and how to integrate them\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/b55wC1Lxc_ijgmQ-mzbds245wupp1CAFG1zB5CQy5V8",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6_s7frsXpaQKPEdZog12R4="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cyFVB8z1O6ZfWMEb-emG6ts=",
+      "title": "Information Technology Application Support Analyst",
+      "location": "",
+      "experience": {
+        "experience": "7-25 years",
+        "min_experience": "7"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Title: Information Technology Application Support Analyst\nLocation: Birmingham, AL- Charlotte, NC- Atlanta, Georgia (hybrid- onsite 3 days per week)\n \nJob Description: \nOur client needs a seeking an Information Technology Application Support Analyst supports software systems, provides troubleshooting, technical assistance, installation, and training to software users. This position also ensures that application support documentation is maintained to the highest quality.\r\nPrimary Responsibilities\n\nObtains information on application design and functionality to propose solutions to end users \nResponds to client inquiries concerning software operation and troubleshoots system software and operator complications \nMonitors routine and critical processes and workflows to proactively identify problem trends \nAssists with application implementations and configuration \nPerforms root cause analysis and provides technical solutions to production related application errors \nPerforms application testing in various environments \nDeploys service releases, patches, requests, and customizations which may include regulatory and compliance mandatory dates \nResolves complex problems or issues \nOversees multiple processes and may act as procedural expert regarding policies, guidelines, or processes \nMay act as lead to less experienced associates \nMay act as subject matter expert (SME)\n\nRequired Skills:\n\nRequirements bachelor’s degree in a related field and seven (7) years of related experience\nOr High School Diploma and eleven (11) years of experience\nSkills and Competencies Ability to communicate technical problems and solutions to non-technical users Excellent written and verbal communication skills\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/9Yq7G6daJ35xy26bvrXM1-n6i1Tmp-xn0OXKMLYByGQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyFVB8z1O6ZfWMEb-emG6ts="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c-jYpLtZag3SQp-FGs-MTNk=",
+      "title": "Mulesoft Developer",
+      "location": "",
+      "experience": {
+        "experience": "3-20 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Title: MuleSoft Developer\nLocation: Boston, MA\n \nJob Description:\nRequired Skills : \n• 3+ years of building integrations using Mule 4 and DataWeave 2.0 \n• Design and delivery of API-led connectivity \n• Experience with Anypoint Studio, Exchange, API Manager, and Anypoint Monitoring \n• API Specifications using RAML/OAS (OpenAPI) \n• Production deployment experience on CloudHub 2.0 and MuleSoft Runtime Fabric (RTF) \n• Experience with containerized Mule applications, runtime properties, scaling, and deployment promotion patterns \n• Ability to translate requirements into technical designs, interface contracts, and implementation plans \nPreferred Skills : \n• Experience with AWS networking patterns and cloud security guardrails \n• Experience integrating with AWS services \n• Experience with Kubernetes tooling (Helm, kubectl, ingress controllers, service mesh concepts) \n• Automated testing with MUnit \n• API governance (naming/versioning standards, policy enforcement, etc.) \nResponsibilities : \n• Design, build, and maintain MuleSoft integrations and APIs using Mule 4 and DataWeave, aligned to API-led connectivity \n• Develop APIs and flows that meet non-functional requirements (e.g., performance, security) \n• Deploy and support applications on CloudHub 2.0 and RTF, including configuration management, scaling, and troubleshooting \n• Partner with cloud/platform teams to ensure deployments align with AWS and EKS standards (networking, security, monitoring, and operations) \n• Implement CI/CD pipelines and release processes to promote builds across environments with traceability and quality gates \n• Establish and enforce integration best practices: error handling, logging/correlation, retries, circuit breakers, and API policies \n• Perform root-cause analysis of incidents; create runbooks, dashboards, and alerts to improve operational excellence \n• Meets on-site requirement/availability Expected Deliverable(s) : Technical Design Documentation; Code\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/w6EFvqEAtP6sSPFVg_4amjtIi0jK-PmC5MjDlE4gjFQ",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c-jYpLtZag3SQp-FGs-MTNk="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4z4Leqk02rdUTgjsmox2rI=",
+      "title": "Redwood Oracle SCM Expert",
+      "location": "",
+      "experience": {
+        "experience": "12-16 years",
+        "min_experience": "12"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Title: Redwood SCM functional expert\nLocation: Remote\nJob Description:\nJob Summary\nWe are seeking an experienced Redwood SCM Functional Expert with strong Product Management experience to lead the design, implementation, and optimization of modern Supply Chain Management solutions using Oracle Redwood UX principles. The ideal candidate will possess deep functional expertise in SCM modules along with the ability to drive product strategy, business transformation, stakeholder engagement, and end-to-end solution delivery.\nKey Responsibilities\n\nLead functional design and implementation of Oracle SCM solutions using Redwood UX standards and best practices. \nCollaborate with business stakeholders, product owners, and technical teams to define product vision, roadmap, and SCM process improvements. \nGather, analyze, and document business requirements for Supply Chain processes including Procurement, Inventory, Order Management, Manufacturing, Logistics, and Planning. \nDrive product management activities including backlog prioritization, feature definition, user story creation, and release planning. \nConfigure and support Oracle SCM Cloud modules while ensuring alignment with business goals and operational efficiency. \nConduct gap analysis, solution workshops, testing, training, and user adoption activities. \nWork closely with UI/UX teams to enhance user experience leveraging Oracle Redwood design framework. \nSupport integrations, reporting, and process automation initiatives across SCM applications. \nCoordinate with cross-functional teams during implementation, upgrades, and production support activities. \nProvide strategic recommendations for process optimization and digital transformation initiatives. \n\nRequired Qualifications\n\nBachelor’s degree in Supply Chain, Information Systems, Business Administration, or related field. \n8+ years of experience in Oracle SCM functional consulting or implementation. \nHands-on experience with Oracle Redwood UX and Oracle Fusion SCM applications. \nStrong Product Management experience including roadmap planning, Agile methodologies, and stakeholder management. \nExpertise in SCM modules such as Procurement, Inventory, Order Management, Manufacturing, Planning, or Logistics. \nExperience gathering business requirements and translating them into scalable functional solutions. \nStrong communication, presentation, and leadership skills. \nExperience working in Agile/Scrum environments. \n\nPreferred Qualifications\n\nOracle SCM Cloud certifications preferred. \nExperience with Redwood UI transformations and user-centric design initiatives. \nKnowledge of integrations, APIs, and reporting tools is a plus. \nPrior experience working with enterprise digital transformation projects.\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/bSDeWmWpl4Iw2vlvZqg5bVuzy4ukLyBzTZrfV0rpXiw",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4z4Leqk02rdUTgjsmox2rI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c1saTVWCYrrXszqHIl5u1aU=",
+      "title": "Technical Product Manager",
+      "location": "",
+      "experience": {
+        "experience": "8-15 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Role: Technical Product Manager \nLocation: Atlanta, GA | Hybrid\nStart: 06/22/2026 | End :06/30/2027\n \nThe Technical Product Manager (TPM) bridges the gap between complex businessworkflows and technical engineering execution. Operating within GDOT’s enterprise IT environment, the TPM is responsible for assessment of specialized applications, platforms or data product requests. This role requires a blend of business acumen and a deep understanding of technical architecture, system integrations, and data structures.\nCore Responsibilities\n1.Stakeholder Management & Requirement Engineering\n\nAct as the primary liaison between business units (e.g., Engineering, Planning, Operations), executive leadership, and internal/external engineering teams.\nLead discovery sessions to uncover and analyze deep user needs, transforming vague business requests into highly structured, prioritized product backlogs.\nTranslate complex business processes into technical specifications, system architecture maps, user stories, and clear acceptance criteria for developers.\n\n2.Technical Leadership & Platform Governance\n\nCollaborate closely with enterprise architects, security teams, and database administrators to evaluate technical feasibility, manage system dependencies, and mitigate technical risks.\nEnsure all product features conform to internal IT governance frameworks, state agency security protocols, and strict regulatory or federal compliance standards.\nEvaluate APIs, data integration plans, and existing software capabilities within the IT and Transportation Tech markets to determine buy-vs-build strategies.\n\n3.Communication\n\n Establish and enforce a protocol for consistent and detailed documentation for all developed solutions to be used by both internal and external resources (GDOT and suppliers).\nDocument and present status updates to stakeholders and management\n\n4.Continuous Process Improvement & Documentation\n\nIdentify opportunities to optimize the IT project intake, evaluation, and prioritization processes using data-driven insights.\nDevelop, standardize, and maintain guidelines, templates, operating procedures, and training materials to help business users submit high-quality project requests.\nDraft formal technical policies, agency guidance documentation, and system regulations for management approval within assigned timeframes.\n\nPreferred Qualifications\n\nExperience: 4+ years of product management or technical program management experience, preferably within a government agency, enterprise IT, or transportation technology ecosystem.\nTechnical Acumen: Familiarity with data pipelines, GIS/spatial data systems, cloud infrastructure (Azure/AWS), or enterprise service platforms (e.g., ServiceNow).\nVendor Management: Experience overseeing outsourced or contractor-led software development efforts is highly desirable\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/yoq4D2l_ZQfIZoHBiCvVbm6MxVKkNr9Ba-o0T0cch_g",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1saTVWCYrrXszqHIl5u1aU="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4uKd-GFYrZeXC8pb350yOI=",
+      "title": "Paralegal",
+      "location": "",
+      "experience": {
+        "experience": "3-10 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "Hi,\nI hope you are doing well.\nWe are currently hiring for a Paralegal position. Please find the job details below:\nJob Requirements:\n\n\nHigh school diploma or GED required\n\n\nParalegal certification with 2+ years of paralegal experience\n\n\nMinimum 2 years of basic computer skills\n\n\nMust be at least 18 years old\n\n\nStrong attention to detail\n\n\nExcellent written and verbal communication skills\n\n\nExperience handling sensitive and confidential information\n\n\nExperience with legal research platforms such as LexisNexis and Westlaw is highly desired\n\n\nExperience developing programs and procedures is highly desired\n\n\nNFPA Paralegal Competency Certification or NALA CLA/CP certification preferred\n\n\nAssociate degree or higher in Paralegal Studies preferred\n\n\nJob Responsibilities:\n\n\nProcess incoming Public Records Requests within required timelines\n\n\nResearch and analyze statutes, judicial decisions, and legal codes related to public records\n\n\nApply Indiana Code to determine release or denial of records requests\n\n\nReview and redact body and dash camera footage per Indiana Code requirements\n\n\nReview Indiana Code and Administrative Code for potential language updates\n\n\nCoordinate documentation related to subpoenas and discovery requests\n\n\nMaintain proper indexing and filing of legal documents\n\n\nAnswer phone calls for Legal Office personnel\n\n\nPerform additional duties as assigned\n\n\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/83lbbTKxydFJFjZg6kUFypcOccpU7vKYFd5x24bW9BA",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4uKd-GFYrZeXC8pb350yOI="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3czmVeaNEO3NfRhs3CbdZKZw=",
+      "title": "System Administrator",
+      "location": "",
+      "experience": {
+        "experience": "5-15 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "05/26/26",
+        "date_posted": 1779753600000
+      },
+      "description": "OAG - System Administrator 3 \nStart : 06/01/2026 | End 12/04/2026\n202 North 9th Street\r\nRichmond, VA 23219 | In person | Onsite\nLocal Candidates strongly preferred \r\n \n \n\n\n\n\nSkill\n\n\nRequired / Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\n\n\n\n\nWindows Server administration\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n \n\n\n\n\nActive Directory administration\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n\n\n\n\nGroup Policy management\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nDNS and DHCP administration\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nMicrosoft 365 administration\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nEntra ID (Azure AD) administration\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nServer patch management\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nSystem monitoring and alert response\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nBackup and recovery administration\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nVirtualization (VMware and/or Hyper-V)\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nFile and print services\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nPowerShell scripting\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nOperating system troubleshooting\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n \n\n\n\n\nChange management participation\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nIncident response support\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nRoot cause analysis participation\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nDocumentation maintenance\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nMaintenance window execution\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nTicket/work management systems\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nMFA administration/support\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nSystem hardening practices\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nVulnerability remediation execution\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nAccess control management\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nSecurity policy adherence\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nNIST/security framework exposure\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nCommunication and collaboration\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nOperational prioritization\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nStructured/process-oriented work\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nWorking in team-based IT operations\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n \n\n\n\n\nAzure infrastructure administration\n\n\nDesired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nHybrid cloud environments\n\n\nDesired\n\n\n2\n\n\nYears\n\n\n\n\n \n\n\n\n\nIntune/endpoint management\n\n\nDesired\n\n\n1\n\n\nYears\n\n\n\n\n\n\n\n\nIdentity federation/SSO\n\n\nDesired\n\n\n1\n\n\nYears\n\n\n\n\n \n\n\n\n\nConditional Access policies\n\n\nDesired\n\n\n1\n\n\nYears\n\n\n\n\n\n\n\n\nSIEM/EDR exposure\n\n\nDesired\n\n\n1\n\n\nYears\n\n\n\n\n \n\n\n\n\nAdvanced PowerShell scripting\n\n\nDesired\n\n\n1\n\n\nYears\n\n\n\n\n\n\n\n\nInfrastructure automation\n\n\nDesired\n\n\n1\n\n\nYears\n\n\n\n\n \n\n\n\n\nGovernment IT experience\n\n\nDesired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nRegulated environment experience\n\n\n \n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1779753600000
+      },
+      "start": {
+        "start_date": "05/26/26",
+        "start_dateStr": 1779753600000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/C1vg9hHAGnp8uathUcUjN_3pQpZCwKKC82r6_0AxEvc",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3czmVeaNEO3NfRhs3CbdZKZw="
+    }
+  ]
+}
