@@ -1,14 +1,14 @@
 [
   {
-    "id": 28797092,
-    "title": "Senior Software Engineer",
-    "location": "None, Bellevue",
+    "id": 28802807,
+    "title": "UX Writer",
+    "location": "CA, Mountain View",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782943030000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783032678000
     },
     "start": {
       "start_dateStr": null,
@@ -20,28 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<b>  About the role</b>  \r\n<p>  We're building out a high-caliber engineering team to support a new platform. We're looking for a <b>   Senior Software Engineer</b>   who is equally strong in <b>   Java and Python</b>   , has built and operated <b>   microservices on AWS</b>   with mature <b>   CI/CD pipelines</b>   , and has hands-on experience integrating <b>   AI/ML capabilities</b>   into production systems. This role starts as a contract with a path to full-time conversion based on performance and fit.</p>  \r\n\r\n<p>   </p>  \r\n\r\n<p>  <b>  What you'll do</b>  </p>  \r\n\r\n<ul type=\"disc\">  \r\n\t<li>  Design, build, and own backend microservices in <b>   Java and Python</b>   running on AWS.</li>  \r\n\t<li>  Architect scalable, fault-tolerant distributed systems with clean service boundaries and well-designed APIs.</li>  \r\n\t<li>  Build and maintain robust <b>   CI/CD pipelines</b>   — automated testing, deployment, observability, rollback strategies.</li>  \r\n\t<li>  Integrate AI/ML capabilities (LLMs, model APIs, RAG, embeddings, etc.) into product features and backend services.</li>  \r\n\t<li>  Operate services end-to-end on AWS — compute, networking, storage, IAM, monitoring, cost management.</li>  \r\n\t<li>  Stay current on the rapidly evolving AI landscape and bring relevant advances into the stack.</li>  \r\n\t<li>  Collaborate cross-functionally with product, ML, and platform teams during ramp-up.</li>  \r\n</ul>  \r\n\r\n<p>   </p>  \r\n\r\n<p>  <b>  Required qualifications</b>  </p>  \r\n\r\n<ul type=\"disc\">  \r\n\t<li>  6–9 years of professional software engineering experience.</li>  \r\n\t<li>  Strong production experience in <b>   both Java and Python</b>   (Spring Boot, FastAPI/Flask, or equivalent).</li>  \r\n\t<li>  Proven track record designing and operating <b>   microservices architectures</b>   in production.</li>  \r\n\t<li>  Deep <b>   AWS</b>   expertise — EKS/ECS, Lambda, API Gateway, RDS/DynamoDB, S3, SQS/SNS, CloudWatch, IAM.</li>  \r\n\t<li>  Hands-on <b>   CI/CD</b>   experience — Jenkins, GitHub Actions, GitLab CI, AWS CodePipeline, or similar; IaC with Terraform or CloudFormation.</li>  \r\n\t<li>  Practical <b>   AI/ML integration experience</b>   — working with LLM APIs (OpenAI, Anthropic, Bedrock), RAG pipelines, vector databases, or embedding-based features in production.</li>  \r\n\t<li>  Strong fundamentals: distributed systems, API design, testing strategy, observability, security.</li>  \r\n\t<li>  Working knowledge of current AI/LLM trends — you can speak fluently to what's changed in the last 6 months.</li>  \r\n</ul>  \r\n\r\n<p>   </p>  \r\n\r\n<p>  <b>  Nice to have</b>  </p>  \r\n\r\n<ul type=\"disc\">  \r\n\t<li>  Kubernetes / container orchestration in production.</li>  \r\n\t<li>  Event-driven / streaming architectures (Kafka, Kinesis).</li>  \r\n\t<li>  Experience with agentic AI systems, prompt engineering, or fine-tuning workflows.</li>  \r\n\t<li>  MLOps tooling exposure (MLflow, SageMaker, Bedrock).</li>  \r\n\t<li>  Performance tuning of JVM and Python services at scale.</li>  \r\n</ul>  \r\n",
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">Title: UX Writer<br />\r\nDuration: 18 Months with possible extension<br />\r\nLocation: Mountain View, CA (Hybrid)<br />\r\nPayrange: $58-$60/hr on W2<br />\r\n<br />\r\nUX Writing & Content Design is part of a larger UX team working on experiences that help bring devices and services to the world. We do this by shaping the language and communication with customers who explore, purchase, and enjoy hardware and subscription services.<br />\r\n <br />\r\nThe role<br />\r\n <br />\r\nAs a content designer, you'll join a Hardware design team working with a fast paced environment that touches everything from software development, packaging design, as well as the broader Android XR partners.<br />\r\n <br />\r\nThis is a long term hybrid role on the UX Writing & Content Design team, with engagement through Q4 2027 at minimum. Our team of full-time writers is based in the Bay Area, East Coast and the expectation is for you to collaborate with cross-functional partners based in multiple time zones.<br />\r\n <br />\r\n <br />\r\nResponsibilities<br />\r\n <br />\r\nIn this role, you will:<br />\r\n <br />\r\n1. Write clear and engaging UI text<br />\r\nWe underpin great user experiences with simple, straightforward language rooted in research and user-centered design principles.<br />\r\n <br />\r\nFor example:<br />\r\nGuiding users through complex journeys<br />\r\nHelping users understand multimodal input methods<br />\r\nEncouraging users to take action<br />\r\n <br />\r\n2. Define and design the experience<br />\r\nWe look beyond words to shape the product holistically, designing end-to-end user experiences from vision, to execution, to polish.<br />\r\n <br />\r\nFor example:<br />\r\nCreating voice and tone guidelines<br />\r\nDefining product principles and narratives<br />\r\nNaming features and products<br />\r\n <br />\r\n3. Help frame and articulate value<br />\r\nWe collaborate to tell the story of a product's value across audiences and use cases, helping align teams on a user-centric narrative.<br />\r\n <br />\r\nFor example:<br />\r\nCrafting vision and strategy narratives<br />\r\nShaping product and feature value props<br />\r\nDefining privacy language and concepts<br />\r\n <br />\r\n4. Build for the system<br />\r\nWe play a key role in scaling product design in the Gemini era, folding patterns into a system and evolving the Android XR ecosystem<br />\r\n <br />\r\nFor example:<br />\r\nDefining standards and styles<br />\r\nCreating and refining LLM system prompts<br />\r\nEstablishing a single source of truth<br />\r\n <br />\r\n <br />\r\nQualifications<br />\r\n <br />\r\nBachelor's degree in English, Communications, Journalism, Technical Writing, UX, HCI, or equivalent practical experience<br />\r\n5&plus; years of relevant industry experience, including partnering with Eng, Product, UX and other cross-functional teams to build products<br />\r\nProven ability to independently drive content projects forward with minimal guidance<br />\r\nExperience in user-focused product writing, including work in hardware, software, digital agencies, or other relevant settings<br />\r\nExperience working alongside other designers in tools like in Figma<br />\r\nExperience defining, training, and evaluating LLMs<br />\r\nExperience with localization and accessibility best practices<br />\r\nFamiliarity with user experience research principles and practices and how to use data to provide informed user insights<br />\r\nA portfolio of UX-focused writing samples and style guidelines<br />\r\n<br />\r\n<em>BayOne is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any federal, state, or local protected class.<br />\r\nThis job posting represents the general duties and requirements necessary to perform this position and is not an exhaustive statement of all responsibilities, duties, and skills required. Management reserves the right to revise or alter this job description.</em></span></span></div>\r\n",
     "recruiter": [
-      "Ashwani Kumar",
-      "kashwani@bayonesolutions.com",
-      "9253077168"
+      "Mrityunjay Mathur",
+      "mmathur@bayonesolutions.com",
+      "8989210771"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28797092",
-    "time_scraped": 1782975158628,
+    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28802807",
+    "time_scraped": 1783059413873,
     "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "date_cutoff_days": 15
   },
   {
-    "id": 28794616,
-    "title": "Dynamometer Technician (Powertrain)",
-    "location": "MI, Plymouth",
+    "id": 28802397,
+    "title": "Senior Product Manager",
+    "location": "UT, Salt lake",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782928555000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783025121000
     },
     "start": {
       "start_dateStr": null,
@@ -53,28 +53,94 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p>***<br />\r\nThis is an <strong> immediate backfill </strong>for a candidate on leave. There is a potential for extension. <em> Please prep your candidates on the possibility of the contract period going anywhere from 1-6 months. </em> Thank you! <br />\r\n<br />\r\n<strong>Top skillsets: </strong>(Please provide a detailed summary of the candidate's experience in the following skills.)</p>\r\n\r\n<p><strong>Top skillsets:</strong></p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Dynamoneter </p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->High voltage experience</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Electric drive unit experience</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Instrumentation experience</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Solid mechanical background</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Work Mode: ONSITE M/F - 8 hours a day starting at 8AM</strong></p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Summary:</strong></p>\r\n\r\n<p>This role will be focused on operating and maintaining dynamometer test systems for the development and validation testing of electrified powertrain systems (drive units, gearboxes). The Dyno Technician will work closely with Powertrain Test Engineers to install, configure and maintain test properties across a variety of complex powertrain test equipment in order to execute and monitor testing to requirements specified by Powertrain Validation engineers. Supported by the rest of the engineering team, you will be responsible for performing first-line troubleshooting of any operational issues encountered on test and take ownership of delivering high-quality test data to support high-level Test & Validation plans for the products.</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Responsibilities:</strong></p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Operate and maintain large dynamometers (for vehicle and powertrain system level testing)</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Select and install instrumentation needed to collect response data from the product during testing (accelerometers, strain gauges, pressure gauges, thermocouples, thermistors, hygrometers, voltage drop sense leads, etc.)</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Build and setup test rigs/dynos for mechanical and/or electrical tests together with Powertrain, NVH, and Thermal engineering teams</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Perform routine maintenance to complex mechanical and electrical repairs.</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Take an active part in Environmental Heath & Safety within the laboratory environment, contributing to Risk Assessments and ensuring a safe work environment</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Support Validation Engineers to perform upgrades and modifications to Systems Under Test</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Perform the first line of fault finding for operational issues which arise on System Under Test</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Perform diagnosis and repair of prototype vehicle’s electrical/mechanical/software systems</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Support Test Engineers to achieve test plans and test equipment upgrade projects</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Document and communicate findings through processes and systems, taking ownership of early escalation where appropriate</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Generate and take ownership of process documentation for test rigs and associated test equipment</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Provide feedback, create and implement processes and suggestions to new and/or improved workshop standards, protocols, and processes.</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Qualifications:</strong></p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->5&plus; years of Technician Experience working directly in test cells and/or large dynamometer systems</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]--> 2&plus; years experience with electrified vehicles</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Expertise in instrumentation (Thermocouples, RTDs, Strain Gauges, Accelerometers, Hygrometers, Pressure Gauges, Flow Meters)</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Expertise in powertrain test setup and test error proofing</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Expertise in mechanical tooling and build fixture design</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Knowledge of motor, inverter, and gearbox concepts</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Knowledge of propulsion systems and thermal (coolant and refrigerant) systems</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Knowledge of Electric Vehicle Safety</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Work under strenuous/awkward positions throughout the working day.</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Operate a variety of scan tools, diagnostic equipment, and common automotive test equipment</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Strong diagnostic and problem-solving skills to solve powertrain system issues</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Someone that takes pride in their work</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Work in a team environment and communicate with fellow technicians</p>\r\n\r\n<p style=\"margin-left:18.0pt; text-align:justify\"><!--[if !supportLists]--><span style=\"font-family:symbol\">·       </span><!--[endif]-->Basic workshop etiquette, provide verbal and writing communication across all teams</p>\r\n",
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>Job Description:</strong><br />\r\n<span style=\"font-family:Calibri,sans-serif;\">We are looking for a Senior Product Manager to own and evolve key capabilities within the Deposits domain of our Core Banking platform. This role is a senior individual contributor position responsible for shaping product direction, translating business and customer needs into scalable platform capabilities, and delivering measurable outcomes in partnership with engineering. You will work closely with an Engineering Manager (EM) in a dual-track agile model, owning the what and why of the product while collaborating on how and when execution happens.</span><br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Product Scope & Impact:</span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Owns one or more end-to-end product areas within the Deposits domain (e.g., account lifecycle, balances, interest, postings, statements, configuration, internal ledger integrations, transactions).</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Drives multi-quarter product initiatives and roadmap outcomes for their domain.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Iterates on existing features and identifies new capabilities or product suites that improve customer experience, operational efficiency, or platform scalability.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Creates clarity from ambiguity by defining problem statements, success metrics, and prioritization frameworks.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Aligns deposit domain initiatives with adjacent domains and broader Core Banking and Banking Software strategy.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Key Responsibilities:</span></strong><br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Product Strategy & Discovery:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Define and own the product strategy and roadmap for assigned deposit capabilities.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Translate business, regulatory, and customer needs into clear product outcomes and initiatives.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Make informed trade-offs between speed, quality, scalability, and regulatory requirements.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Delivery & Execution:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Own and maintain a prioritized product backlog with clear epics, user stories, and acceptance criteria.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Partner with the Engineering Manager on sprint planning, sequencing, and release planning.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Participate actively in Scrum ceremonies and day-to-day team execution.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Stakeholder & Customer Collaboration:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Act as the primary product interface for business, operations, compliance, risk, and technology stakeholders.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Ensure deposit products meet functional, regulatory, and operational requirements without unnecessary complexity.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Communicate product direction clearly and persuasively to diverse audiences.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Technical & Platform Awareness:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Apply strong understanding of core banking concepts and architectures (e.g., accounts, postings, interest calculation, batch vs. real-time processing).</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Drive product decisions that support scalable, resilient, and maintainable platform design.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Collaborate with engineering and architecture on build vs. buy vs. deprecate decisions.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Required Experience & Qualifications:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">7–12&plus; years of professional experience, with 5&plus; years in Product Management roles for complex technology platforms.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Mandatory experience working in: Banks, banking technology providers, or fintech companies (B2B or B2C financial services platforms). Experience in US regulated financial environments.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Demonstrated experience delivering platform or domain-heavy products (core banking, payments, lending, ledger, financial infrastructure, or regulated platforms).</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Experience working in agile Scrum teams with close PM–Engineering Manager collaboration.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Proven ability to manage ambiguity, define strategy, and deliver incremental value in complex environments.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Excellent written and verbal communication skills in English.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Nice to Have (Not Mandatory):</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Experience with core banking platforms (e.g., Temenos, Thought Machine, Mambu, Finxact, FIServe, FIS, JackHenry or similar).</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Experience with APIs, microservices architectures, or cloud-native platforms.</span></li>\r\n</ul>\r\n<em>BayOne is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any federal, state, or local protected class.</em><br />\r\n<em>This job posting represents the general duties and requirements necessary to perform this position and is not an exhaustive statement of all responsibilities, duties, and skills required. Management reserves the right to revise or alter this job description.</em></div>\r\n",
+    "recruiter": [
+      "Mohit Tewari",
+      "mtewari@bayonesolutions.com",
+      "9253077137"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28802397",
+    "time_scraped": 1783059413883,
+    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
+    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28802369,
+    "title": "Senior Product Manager - Digital Banking",
+    "location": "UT, Salt lake",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783024843000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>Job Description:</strong><br />\r\n<strong>Role Overview:</strong>\r\n<ul>\r\n\t<li>We are looking for a Senior Product Manager to own and evolve our software product for digital channel capabilities for banking customers, spanning mobile applications and web portals.</li>\r\n\t<li>This role focuses on digital channel capabilities for banks and the underlying platform capabilities that power them—authentication, entitlements, navigation, transactions, personalization, notifications, and integrations with core banking and other downstream services.</li>\r\n\t<li>You will work closely with an Engineering Manager (EM) in a dual-track agile model, owning the what and why of the product while partnering on delivery execution within a dedicated Scrum team. You will work as a team with a second product manager (PM) in the same domain.</li>\r\n</ul>\r\n<strong>Product Scope & Impact:</strong>\r\n\r\n<ul>\r\n\t<li>Co-owns one or more digital channel product areas (e.g. mobile banking app, web portal, digital capabilities framework, possibly chatbot capabilities, front-ends and journeys) with a product management team colleague.</li>\r\n\t<li>Drives multi-quarter roadmap outcomes for assigned digital capabilities.</li>\r\n\t<li>Iterates on existing channel features and identifies new digital experiences or platform enhancements that improve customer engagement, conversion, and satisfaction.</li>\r\n\t<li>Creates clarity from ambiguity by translating user needs, analytics, and business goals into clear product priorities.</li>\r\n\t<li>Aligns digital channel initiatives with core banking, payments, security, and data platforms.</li>\r\n</ul>\r\n <br />\r\n<strong>Key Responsibilities:</strong><br />\r\n<strong>Product Strategy & Discovery:</strong>\r\n\r\n<ul>\r\n\t<li>Define and own the product vision, strategy, and roadmap for assigned digital channel capabilities.</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Translate customer, business, and regulatory needs into clear problem statements and outcomes.</li>\r\n\t<li>Balance usability, performance, security, and scalability when shaping solutions.</li>\r\n\t<li>Make informed trade-offs in environments with competing priorities and constraints.</li>\r\n</ul>\r\n<strong>Delivery & Execution:</strong>\r\n\r\n<ul>\r\n\t<li>Own and maintain a prioritized product backlog, ensuring clarity and readiness for sprint execution.</li>\r\n\t<li>Partner with the Engineering Manager on sprint planning, sequencing, and release coordination.</li>\r\n\t<li>Partner with professional services who are delivering the product to our bank clients</li>\r\n\t<li>Actively participate in Scrum ceremonies and day-to-day product decision-making.</li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Customer & Stakeholder Collaboration:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Act as the primary product interface for stakeholders across digital, marketing, operations, compliance, security, and technology.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Incorporate insights from UX research, analytics, and customer feedback into product decisions.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Clearly communicate product direction, scope, and rationale to diverse audiences.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Technical & Platform Awareness:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Apply strong understanding of digital channel architectures (mobile apps, web portals, APIs, authentication, session management).</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Drive product decisions that support secure, scalable, and maintainable digital platforms.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Partner with engineering and architecture teams to avoid unnecessary complexity and technical debt.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Behavioral Expectations:</span></strong><br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Ownership & Agency:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Takes strong ownership of product outcomes and proactively removes blockers.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Operates independently within scope while seeking guidance on high-judgment or cross-domain decisions.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Communication:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Distills complex technical and UX topics into clear, actionable product requirements and narratives.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Produces high-quality written and verbal communication tailored to stakeholder needs.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Leadership & Influence:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Builds trusted relationships with engineering, design, and business partners.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Resolves most conflicts constructively and independently.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Influences decisions through data, customer insight, and structured reasoning rather than authority.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Operational Excellence:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Co-leads execution from discovery through delivery and go-live.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Uses analytics, experimentation, and qualitative insights to inform prioritization.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Continuously improves product quality, delivery predictability, and team effectiveness.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Required Qualifications:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">7–12&plus; years of professional experience, with 5&plus; years in Product Management roles.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Mandatory experience working in digital banking or financial services technology, such as:</span></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Banks (digital banking, channels, or e-banking teams), or</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Digital banking platform vendors, digital engagement providers, or fintechs focused on customer-facing solutions (e.g., Backbase, Temenos, Alkami, Apiture).</span></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Experience with digital banking or engagement platforms (e.g. mobile banking SDKs, channel orchestration layers, digital onboarding solutions).</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Exposure to API-first or microservices-based architectures.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Proven experience delivering mobile and/or web-based products used at scale by end customers.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Strong experience working in agile Scrum teams with close PM–Engineering Manager collaboration.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Demonstrated ability to manage ambiguity, define product direction, and deliver incremental customer value.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Excellent written and verbal communication skills in English.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Nice to Have (Not Mandatory):</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Familiarity with security, authentication, and entitlements in regulated environments.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Experience with analytics, experimentation, or personalization in digital products.</span></li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\">Spanish language proficiency is a plus, not mandatory.</span></li>\r\n</ul>\r\n <br />\r\n<em>BayOne is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any federal, state, or local protected class.</em><br />\r\n<em>This job posting represents the general duties and requirements necessary to perform this position and is not an exhaustive statement of all responsibilities, duties, and skills required. Management reserves the right to revise or alter this job description.</em></div>\r\n",
+    "recruiter": [
+      "Mohit Tewari",
+      "mtewari@bayonesolutions.com",
+      "9253077137"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28802369",
+    "time_scraped": 1783059413888,
+    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
+    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28801693,
+    "title": "Operations Data Analyst, Expert",
+    "location": "CA, Oakland",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783017937000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "**SUBMIT LOCAL CANDIDATES ONLY in *** service territory** The role is hybrid, up to 2 days per week onsite at Oakland General Office.<br> <br> *Client laptop will be provided once available. A vendor-issued laptop would be acceptable to access the *** network via VPN/Citrix until *** issues one.. No other equipment will be provided and additional equipment needed is the responsibility of supplier. Calls to be made via MS Teams.*<br> <br> TOP THINGS LOOKING FOR:<br> Technical skills:<br>  Data analytics ( Python, excel, conduct data queries as needed)<br>  Power BI (advanced skills, ability to create executive boards AND day to day dashboards for business analytics)<br>  SAP<br>  Microsoft, excel and power query as needed<br> Soft skills:<br>  Problem solving mentality<br>  Willingness to learn ( Copperleaf, Foundry, GIS, and other platforms)<br>  Impeccable organization skills<br>  Agility<br>  Impeccable communication skills<br> <br> <br> Position Summary<br> <br> The Data Analyst is responsible for transforming complex data into clear, actionable insights that drive operational and strategic decision-making. This role requires an exceptional communicator who can clearly explain data, assumptions, and insights to technical and non-technical stakeholders alike. The ideal candidate is highly proficient in Power BI for reporting and visualization and Foundry for advanced analytics and data modeling, and is comfortable working across multiple enterprise systems and teams.<br> <br> Responsibilities:<br> <br> Data Analysis & Insights<br> • Analyze business data to identify trends, patterns, risks, and opportunities for operational and strategic improvements<br> • Demonstrate broad expertise in data processing and analysis, applying analytical techniques to a wide range of business questions<br> • Respond to ad hoc and recurring data requests with accuracy, clarity, and timeliness<br> <br> Data Management & Integration<br> • Collect, clean, validate, and integrate data from multiple sources to ensure accuracy and consistency<br> • Extract and analyze data from SAP to support planning, forecasting, and decision-making<br> • Manage data extraction and transfer from databases to support operational analysis across teams<br> • Create automated data routines and processes to ensure efficient, repeatable reporting and data delivery<br> <br> Reporting, Visualization & Tools<br> • Develop and maintain dashboards, reports, and visualizations using Power BI to clearly communicate insights and performance metrics<br> • Utilize Foundry for advanced analytics, data modeling, and analytical workflows ( knowledge of Foundry is preferred, not a requirement)<br> • Apply GIS tools for spatial data analysis and mapping to support location-based decision-making<br> • Leverage Copperleaf for asset investment planning, lifecycle cost analysis, and value-based decision support ( knowledge of Copperleaf is preferred, not a requirement)<br> <br> Communication & Collaboration (Core Requirement)<br> • Clearly communicate analytical findings, assumptions, and recommendations to diverse audiences<br> • Translate complex data into concise, compelling narratives that support informed decision-making<br> • Collaborate with cross-functional teams to understand business needs, identify challenges, and deliver data-driven solutions<br> • Act as a trusted partner to stakeholders by helping shape analytical questions and clarify insights<br> <br> Minimum Qualifications:<br> • Bachelor’s degree in Data Analytics, Statistics, Computer Science, Business, Engineering, or a related field (or equivalent experience)<br> • Demonstrated experience building and maintaining dashboards in Power BI<br> • Strong SQL skills and experience working with structured datasets<br> • Excellent written and verbal communication skills, with a proven ability to explain complex data clearly<br> • Strong ability to interpret data, identify trends, and generate actionable insights<br> • Ability to clearly communicate complex data findings to both technical and non-technical stakeholders.<br> • Experience working in cross-functional teams and translating business needs into data-driven solutions.<br> <br> <br> Desired Qualifications:<br> - Hands-on experience using Foundry for data analysis, data modeling, or workflows<br> - Experience with Copperleaf",
     "recruiter": [
       null,
       null,
       null
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28794616",
-    "time_scraped": 1782975159008,
+    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28801693",
+    "time_scraped": 1783059422658,
     "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "date_cutoff_days": 15
   },
   {
-    "id": 28792071,
-    "title": "US - Account Coordinator",
-    "location": "NY, New York",
+    "id": 28801001,
+    "title": "Content Creators / Change Support",
+    "location": "None, None",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782914663000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783013501000
     },
     "start": {
       "start_dateStr": null,
@@ -86,28 +152,28 @@
     },
     "salary": null,
     "remote": 100,
-    "description": "Preferred Time Zone - CST<br> Max Bill rate- ***/hr<br> Title - Content Operations Coordinator<br> <br> Job Description<br> Opening<br> We are looking for a Content Operations Coordinator based in The Central U.S. to join our global team. *** Content Operations provides daily operational support for the Music, Video and Podcast journey through the *** supply chain. We work closely with content partners and internal stakeholders to ensure the catalog is available to *** users around the world. The team collaborates cross-functionally with Product, Tech, Licensing, Commercial Partnerships, Trust & Safety, Customer/Creator Support, and other teams to develop effective and scalable solutions and initiatives. The focus of this role will be to contribute to the team’s core responsibilities. We currently have a presence in Singapore, Mumbai, Dubai, Spain, London, Helsinki, Austin, Vegas, Florida, and Los Angeles that enables our Global Team coverage.<br> What You’ll Do<br> Review & process a variety of complex incoming requests <br> Daily responsibilities in resolving a large volume of tickets<br> Interprets daily operational issues and escalates accordingly<br> Troubleshoot ingestion and curation related issues and assess findings and solutions with a variety of internal and external stakeholders.<br> Support  the team with projects, research and information gathering.<br> Liaise with our content providers and internal teams.<br> Contribute to improving processes, and documentation regarding the handling of incoming requests<br> Support the team executing priority initiatives.<br> The contractor may be required to work on holidays to maintain business continuity. In exchange, equivalent time off can be taken on any other day of the week.<br>   Who You Are<br> You are proficient in English (Proficiency in Spanish or Portuguese is a plus but not required)<br> You have experience working in customer relationship management tools (e.g. Salesforce, Zendesk, etc.)<br> You have at least 2 years of experience in the music and/or podcast industry and/or have experience working with digital service providers, or experience in operations in a large scale tech company. <br> You have excellent communication skills<br> You are able to meet deadlines and complete tasks efficiently, and can adapt to changing priorities<br> You are motivated to continuously improve work methods.<br> You can contribute to delivery of  internal initiatives and projects, with good attention to detail<br> You are adaptable and quick to learn in a changing environment.<br> You are comfortable with asynchronous and global workflows.<br> You are comfortable with a fast paced environment <br> You are comfortable managing escalations and time sensitive asks/requests<br> A plus is if you have an understanding of metadata management and industry standards, such as DDEX, RSS, etc<br> Experience with AI automation, agentic solutions, or AI technologies is a plus but not required",
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>will drive training materials creation (slides, docs, videos, gifs, etc.), run internal communications (emails, newsletters, feedback surveys and analytics, metrics tracking), and web publishing (maintaining and updating assets on our team's internal web portal). It's a blended skill mix of training / change content creation and leveraging technical tools (examples like recording, scripting, and editing short videos, publishing multimedia content on our website, etc.) We don't expect them to build the website; rather, they will maintain assets and work closely with our lead website developer</div>\r\n",
     "recruiter": [
-      "S R Vignesh",
-      "srvignesh@bayonesolutions.com",
-      "9786695109"
+      "Parshuram Katimani",
+      "pkatimani@bayonesolutions.com",
+      "9769441871"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28792071",
-    "time_scraped": 1782975159229,
+    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28801001",
+    "time_scraped": 1783059422198,
     "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "date_cutoff_days": 15
   },
   {
-    "id": 28791542,
-    "title": "MMM",
-    "location": "None, None",
+    "id": 28799809,
+    "title": "Senior Quality Supplier Engineer (Service)",
+    "location": "MI, Plymouth",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782912019000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783005047000
     },
     "start": {
       "start_dateStr": null,
@@ -119,542 +185,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<div><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><strong>Key Responsibilities</strong><br />\r\n&nbsp;</span></span></div>\r\n\r\n<ul>\r\n\t<li>Design, build, and maintain statistical MMM models to quantify ROI across channels (HCP engagement, DTC, digital, field force, etc.).</li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Analyze impact of promotions, pricing, seasonality, payer dynamics, and regulatory constraints on product performance.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Translate complex model outputs into clear business insights and actionable recommendations for senior stakeholders.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Collaborate with MMM lead in the team to align MMM with business strategy.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Handle multi-country / multi-brand datasets, ensuring consistency in modeling frameworks across geographies.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Integrate omnichannel data sources (CRM, media spend, claims, prescriptions, digital engagement, etc.).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Conduct scenario planning and optimization to guide marketing allocation and budget decisions.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Continuously improve MMM methodologies by incorporating advanced analytics techniques (Bayesian models, causal inference).</span></span></li>\r\n</ul>\r\n\r\n<div><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\"><strong>Required Qualifications</strong></span></span></div>\r\n\r\n<ul>\r\n\t<li>6+ years of experience in Marketing Mix Modeling analytics.</li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Hands-on experience in Healthcare, Pharma, or Medical Devices industry (mandatory).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Strong expertise in regression modeling, time-series analysis, and causal inference.</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Proficiency in Python/R (statsmodels, PyMC, Prophet, scikit-learn, etc.).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Experience working with large-scale, messy datasets (claims, prescription, healthcare provider data).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Deep understanding of healthcare marketing channels (HCP promotion, field force, digital, patient marketing).</span></span></li>\r\n\t<li><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Proven ability to present complex insights to non-technical business stakeholders.</span></span></li>\r\n</ul>\r\n",
-    "recruiter": [
-      "abhilash Sr",
-      "Abhilash@bayonesolutions.com",
-      "9253990628"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28791542",
-    "time_scraped": 1782975167551,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28789287,
-    "title": "Workplace Operations Project Manager",
-    "location": "CA, Irvine",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782852651000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p> <strong> Title: Sr. Leadership Administrative Partner<br> Core Hours - 8:30am-5:00pm <br> Estimated Start Date</strong>: 8/31<br> <strong> Rate Range: ***-*** p/hr </strong>- If candidates come in at the higher end of the range, we expect the candidates experience and skill set to be commensurate to the rate*** <br> <strong> This team is constantly moving and requires a great deal of support and collaboration from the support team.</strong> <br> An ideal candidate will have worked in a <strong> fast paced environment</strong>, is <strong> proactive </strong>and stays <strong> 3 steps ahead</strong>, can <strong> problem solve</strong> in the moment, <strong> pivot</strong>,<strong>  take action</strong> and <strong> move things</strong>. <br> <strong> Start up experience</strong> is beneficial, experience working with <strong> very direct communication,</strong> and is <strong> thick skinned.</strong><br> <strong> Highly organized and communicative</strong>. Experience with <strong> cross functional collaboration.</strong> <br> Open to signing an <strong> NDA.</strong><br> <br> </p> <br> <p> Contract Role: <strong> Executive Assistant</strong>: Supporting Design Studio Leaders</p> <br> <p> This document outlines the scope of work for the Contract Role Executive Assistant supporting the Design Studio Leaders.</p> <br> <p> Leaders Supported:</p> <br> <p> ● Chief Design Officer: Main, Full Support</p> <br> <p> ● Sr. Director, Exterior Design: Light Support</p> <br> <p> ● Senior Director, UI/UX Design: Light Support</p> <br> <p> ● TBD - Pending additional light support for other leaders for cross functional requests- only when they need to meet with other senior leaders, very rare.</p> <br> <p>  </p> <br> <p> <strong> Scope of Role: </strong></p> <br> <p> <strong> Supporting Chief Design Officer</strong> (CDO) - Full Support.</p> <br> <p> The Executive Assistant (EA) is the \"heartbeat of the studio\", serving as a critical hub for operations and communication. This role requires responding to urgent tasks and ensuring CDO is kept informed of daily, weekly, and monthly changes. You will thrive in a fast-paced, upbeat environment with a fun organization and coworkers. While CDO has an operational team to prioritize his schedule on a weekly basis, this role will focus on monitoring and adjusting his schedule to accommodate everyday changes as needed.</p> <br> <p> <strong> Core Responsibilities & Studio Environment:</strong></p> <br> <p> ● <strong> Communication Gateway</strong>: Keeping design leaders and Operations Team (Core Group that helps Jeff) and Jeff in contact.</p> <br> <p> ● <strong> Urgent Response</strong>: Responding to urgent tasks and keeping everyone looped into changes.</p> <br> <p> ● <strong> Onboarding</strong>: Calendar will already be set up; you will mirror the current EA for one month prior to her maternity leave to learn the day-to-day operations.</p> <br> <p> ● <strong> Studio Culture</strong>: Fun, upbeat environment with fun coworkers.</p> <br> <p> ● <strong> Required Attitude</strong>: Resilient professional with strong cross-functional communication skills and a proactive approach to navigating ambiguous or fast-paced environments.</p> <br> <p> ● <strong> Hours</strong>: Studio Core Hours are 9 AM–5 PM, but available via text with Jeff for urgent items when needed.</p> <br> <p> ● <strong> Travel/WFH:</strong> Travel is not required. WFH days are optional on CDO’s travel days (typically Mondays and additional days based on the week).</p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Calendar & Scheduling Management</strong></p> <br> <p>  ● Provide <strong> Full Calendar Support</strong>.</p> <br> <p>  ● <strong> Gatekeeper</strong>: Leaders will only come to you for scheduling meetings with CDO, whose schedule is back-to-back.</p> <br> <p> ● <strong> Priority Alignment</strong>: Work with four Operations support staff to align on priority meetings each week, presenting them to Jeff together on Tuesdays.</p> <br> <p> ● <strong> Schedule Adjustment</strong>: Role is to shift and adjust CDO’s schedule as needed for urgent cross-functional meetings and to keep up with CEO meetings that shift.</p> <br> <p> ● <strong> Categorization:</strong> Labels will be created on Gmail Calendar for Weekly, Monthly, and Quarterly meetings, plus recurring CEO meetings, to help you schedule properly.</p> <br> <p> ● <strong> Proactive Management</strong>: Text CDO and the Support Team when meetings are running long or to get CDO to his next meeting when he is running late. He will come ASAP when texted.</p> <br> <p> <strong> Administrative & Inbox Support</strong></p> <br> <p> ● <strong> Travel Arrangements:</strong> Use the NAVAN *** System to update flights if things shift and arrange any travel needs to other *** locations.</p> <br> <p> o   Note: CDO's Monday Palo Alto trips and rental cars will already be booked.</p> <br> <p> ● <strong> Expense Reports</strong>: Submit to the Coupa system on the last week of the month for the corporate card (used for CSO’s lunches and some office supplies).</p> <br> <p> <strong> ● Inbox Support (Minimal):</strong> Schedule any meetings CDO needs with people outside of ***.</p> <br> <p> o   <strong> CEO Coordination</strong>: Communication with the Office of the CEO and other Senior Leader EAs to move Jeff’s schedule daily to work around the CEO’s changing schedule.</p> <br> <p> o   Tags: Tags on the Inbox (To Read ASAP, Updates, and To Approve) are already set up.</p> <br> <p>  ● <strong> Design Agendas:</strong> Update Excel Agendas for recurring Design Reviews by adding agendas the day before the review so attendees can review beforehand.</p> <br> <p> ● <strong> Minimal Note Taking:</strong> Take Notes at Weekly Leader Staff meeting and Monthly Full Leader Staff Meeting, brief notes and will have a Deck to work off of that is already set up, send notes to Leaders for recap after meeting (I take notes on my phone and run them through Gemini for ease to make them brief)</p> <br> <p> ● <strong> Contact Coordination:</strong> The current EA will provide a list of all Senior Leaders Jeff works with, their EAs, and contacts for specific tasks (Travel, Events, Catering, Office of the CEO, Facilities). I will create a handbook with all Facts/Q&A’s for ease!</p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Day-to-Day In-Studio Support</strong></p> <br> <p> ● <strong> Morning Routine</strong>: Greet CDO with coffee in the AM based on his start time (free at the *** Coffee Shop).</p> <br> <p> ● <strong> Lunch:</strong> Help get CDO’s lunch from the cafe when he is in person, expensing it to the provided corporate credit card (only done when CDO is in person).</p> <br> <p>  ● <strong> End-of-Day Recap</strong>: Send an End-of Day Recap to CDO M-TH to keep him on track regarding any changes, upcoming travel, and CEO meetings shifted/changed.</p> <br> <p>  </p> <br> <p> <strong> Studio Events & Visitors </strong></p> <br> <p> ● <strong> Event Coordination</strong>: On occasion, work with the catering team to help organize studio events for food and beverage.</p> <br> <p> ● Visitor Management:</p> <br> <p> o   Greet VIP Guests coming into the Studio.</p> <br> <p> o   Have VIP Guests sign into the lobby and sign an NDA for entry into the Design Studio (it is badge access only since Advanced Work/Designs are located within it).</p> <br> <p> ● Team Support: Join a Slack channel used by EAs to support each other and update/communicate leadership travel and meetings.</p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Scope of Role: Sr. Director, Exterior Design - Light Support </strong></p> <br> <p> ● <strong> Light Calendar Management:</strong> Add design studio conference rooms to his in-person meetings and resolve calendar conflicts. (Typically handled on Friday for the following week).</p> <br> <p> ●<strong>  Scheduling</strong>: EAs and the team will reach out for his availability; outside studio request invites are sent by the requester.</p> <br> <p> ● <strong> Light Travel Support on NAVAN </strong></p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Scope of Role: Senior Director, UI/UX Design- Light Support </strong></p> <br> <p> ● <strong> Light Calendar Management:</strong> Add design studio conference rooms to his in-person meetings and resolve calendar conflicts. (Typically handled on Friday for the following week).</p> <br> <p> ● <strong> Scheduling:</strong></p> <br> <p> o   EAs and the team will reach out for his availability; outside studio request invites are sent by the requester.</p> <br> <p> o   Schedule interviews based on his weekly availability, working around</p>  <p> <strong> Title: Sr. Leadership Administrative Partner<br> Core Hours - 8:30am-5:00pm <br> Estimated Start Date</strong>: 8/31<br> <strong> Rate Range: ***-*** p/hr </strong>- If candidates come in at the higher end of the range, we expect the candidates experience and skill set to be commensurate to the rate*** <br> <strong> This team is constantly moving and requires a great deal of support and collaboration from the support team.</strong> <br> An ideal candidate will have worked in a <strong> fast paced environment</strong>, is <strong> proactive </strong>and stays <strong> 3 steps ahead</strong>, can <strong> problem solve</strong> in the moment, <strong> pivot</strong>,<strong>  take action</strong> and <strong> move things</strong>. <br> <strong> Start up experience</strong> is beneficial, experience working with <strong> very direct communication,</strong> and is <strong> thick skinned.</strong><br> <strong> Highly organized and communicative</strong>. Experience with <strong> cross functional collaboration.</strong> <br> Open to signing an <strong> NDA.</strong><br> <br> </p> <br> <p> Contract Role: <strong> Executive Assistant</strong>: Supporting Design Studio Leaders</p> <br> <p> This document outlines the scope of work for the Contract Role Executive Assistant supporting the Design Studio Leaders.</p> <br> <p> Leaders Supported:</p> <br> <p> ● Chief Design Officer: Main, Full Support</p> <br> <p> ● Sr. Director, Exterior Design: Light Support</p> <br> <p> ● Senior Director, UI/UX Design: Light Support</p> <br> <p> ● TBD - Pending additional light support for other leaders for cross functional requests- only when they need to meet with other senior leaders, very rare.</p> <br> <p>  </p> <br> <p> <strong> Scope of Role: </strong></p> <br> <p> <strong> Supporting Chief Design Officer</strong> (CDO) - Full Support.</p> <br> <p> The Executive Assistant (EA) is the \"heartbeat of the studio\", serving as a critical hub for operations and communication. This role requires responding to urgent tasks and ensuring CDO is kept informed of daily, weekly, and monthly changes. You will thrive in a fast-paced, upbeat environment with a fun organization and coworkers. While CDO has an operational team to prioritize his schedule on a weekly basis, this role will focus on monitoring and adjusting his schedule to accommodate everyday changes as needed.</p> <br> <p> <strong> Core Responsibilities & Studio Environment:</strong></p> <br> <p> ● <strong> Communication Gateway</strong>: Keeping design leaders and Operations Team (Core Group that helps Jeff) and Jeff in contact.</p> <br> <p> ● <strong> Urgent Response</strong>: Responding to urgent tasks and keeping everyone looped into changes.</p> <br> <p> ● <strong> Onboarding</strong>: Calendar will already be set up; you will mirror the current EA for one month prior to her maternity leave to learn the day-to-day operations.</p> <br> <p> ● <strong> Studio Culture</strong>: Fun, upbeat environment with fun coworkers.</p> <br> <p> ● <strong> Required Attitude</strong>: Resilient professional with strong cross-functional communication skills and a proactive approach to navigating ambiguous or fast-paced environments.</p> <br> <p> ● <strong> Hours</strong>: Studio Core Hours are 9 AM–5 PM, but available via text with Jeff for urgent items when needed.</p> <br> <p> ● <strong> Travel/WFH:</strong> Travel is not required. WFH days are optional on CDO’s travel days (typically Mondays and additional days based on the week).</p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Calendar & Scheduling Management</strong></p> <br> <p>  ● Provide <strong> Full Calendar Support</strong>.</p> <br> <p>  ● <strong> Gatekeeper</strong>: Leaders will only come to you for scheduling meetings with CDO, whose schedule is back-to-back.</p> <br> <p> ● <strong> Priority Alignment</strong>: Work with four Operations support staff to align on priority meetings each week, presenting them to Jeff together on Tuesdays.</p> <br> <p> ● <strong> Schedule Adjustment</strong>: Role is to shift and adjust CDO’s schedule as needed for urgent cross-functional meetings and to keep up with CEO meetings that shift.</p> <br> <p> ● <strong> Categorization:</strong> Labels will be created on Gmail Calendar for Weekly, Monthly, and Quarterly meetings, plus recurring CEO meetings, to help you schedule properly.</p> <br> <p> ● <strong> Proactive Management</strong>: Text CDO and the Support Team when meetings are running long or to get CDO to his next meeting when he is running late. He will come ASAP when texted.</p> <br> <p> <strong> Administrative & Inbox Support</strong></p> <br> <p> ● <strong> Travel Arrangements:</strong> Use the NAVAN *** System to update flights if things shift and arrange any travel needs to other *** locations.</p> <br> <p> o   Note: CDO's Monday Palo Alto trips and rental cars will already be booked.</p> <br> <p> ● <strong> Expense Reports</strong>: Submit to the Coupa system on the last week of the month for the corporate card (used for CSO’s lunches and some office supplies).</p> <br> <p> <strong> ● Inbox Support (Minimal):</strong> Schedule any meetings CDO needs with people outside of ***.</p> <br> <p> o   <strong> CEO Coordination</strong>: Communication with the Office of the CEO and other Senior Leader EAs to move Jeff’s schedule daily to work around the CEO’s changing schedule.</p> <br> <p> o   Tags: Tags on the Inbox (To Read ASAP, Updates, and To Approve) are already set up.</p> <br> <p>  ● <strong> Design Agendas:</strong> Update Excel Agendas for recurring Design Reviews by adding agendas the day before the review so attendees can review beforehand.</p> <br> <p> ● <strong> Minimal Note Taking:</strong> Take Notes at Weekly Leader Staff meeting and Monthly Full Leader Staff Meeting, brief notes and will have a Deck to work off of that is already set up, send notes to Leaders for recap after meeting (I take notes on my phone and run them through Gemini for ease to make them brief)</p> <br> <p> ● <strong> Contact Coordination:</strong> The current EA will provide a list of all Senior Leaders Jeff works with, their EAs, and contacts for specific tasks (Travel, Events, Catering, Office of the CEO, Facilities). I will create a handbook with all Facts/Q&A’s for ease!</p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Day-to-Day In-Studio Support</strong></p> <br> <p> ● <strong> Morning Routine</strong>: Greet CDO with coffee in the AM based on his start time (free at the *** Coffee Shop).</p> <br> <p> ● <strong> Lunch:</strong> Help get CDO’s lunch from the cafe when he is in person, expensing it to the provided corporate credit card (only done when CDO is in person).</p> <br> <p>  ● <strong> End-of-Day Recap</strong>: Send an End-of Day Recap to CDO M-TH to keep him on track regarding any changes, upcoming travel, and CEO meetings shifted/changed.</p> <br> <p>  </p> <br> <p> <strong> Studio Events & Visitors </strong></p> <br> <p> ● <strong> Event Coordination</strong>: On occasion, work with the catering team to help organize studio events for food and beverage.</p> <br> <p> ● Visitor Management:</p> <br> <p> o   Greet VIP Guests coming into the Studio.</p> <br> <p> o   Have VIP Guests sign into the lobby and sign an NDA for entry into the Design Studio (it is badge access only since Advanced Work/Designs are located within it).</p> <br> <p> ● Team Support: Join a Slack channel used by EAs to support each other and update/communicate leadership travel and meetings.</p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Scope of Role: Sr. Director, Exterior Design - Light Support </strong></p> <br> <p> ● <strong> Light Calendar Management:</strong> Add design studio conference rooms to his in-person meetings and resolve calendar conflicts. (Typically handled on Friday for the following week).</p> <br> <p> ●<strong>  Scheduling</strong>: EAs and the team will reach out for his availability; outside studio request invites are sent by the requester.</p> <br> <p> ● <strong> Light Travel Support on NAVAN </strong></p> <br> <p> <strong>  </strong></p> <br> <p> <strong> Scope of Role: Senior Director, UI/UX Design- Light Support </strong></p> <br> <p> ● <strong> Light Calendar Management:</strong> Add design studio conference rooms to his in-person meetings and resolve calendar conflicts. (Typically handled on Friday for the following week).</p> <br> <p> ● <strong> Scheduling:</strong></p> <br> <p> o   EAs and the team will reach out for his availability; outside studio request invites are sent by the requester.</p> <br> <p> o   Schedule interviews based on his weekly availability, working around</p>  ['AI GEMINI NOTES', 'Concur', 'Cross functional Collaboration', 'GSuite', 'NAVAN'] Shift: ['AI GEMINI NOTES', 'Concur', 'Cross functional Collaboration', 'GSuite', 'NAVAN']",
+    "description": "<div><strong>Actual Job Title: </strong><strong> Service Supplier Development Engineer</strong><br />\r\n<br />\r\n<strong>*** contractor through end of year (not FTE role)</strong>\r\n\r\n<ul>\r\n\t<li>Supporting the global supply chain with various time zones</li>\r\n\t<li>Ability to travel internationally</li>\r\n\t<li>Focus on the service part of the PPAP</li>\r\n\t<li>Working hours: 8 hours daily can be outside working hours</li>\r\n\t<li>This role will not be approved for overtime</li>\r\n</ul>\r\n <br />\r\n<strong>Role Summary:</strong><br />\r\nYou will work alongside cross-functional teams to drive *** quality requirements and manage our contract manufacturers' quality performance, ensuring seamless scaling of production. Your contributions will directly impact the performance and quality of *** service parts, ensuring successful launches for new programs as well as proper management on current ones. This role reports through the Service Supplier Quality Engineering Team.<br />\r\n <br />\r\n<strong>Responsibilities:</strong>\r\n\r\n<ul>\r\n\t<li>Engage with suppliers for industrialisation and readiness for multiple automotive components.</li>\r\n\t<li>Support supplier selection and capability assessment for various projects, ensuring alignment with program timelines and quality expectations.</li>\r\n\t<li>Drive APQP discipline and enforce PPAP requirements, ensuring suppliers meet dimensional, material, and performance validation before production approval.</li>\r\n\t<li>Track industrialisation project KPIs, internally and externally to assess supplier readiness.</li>\r\n\t<li>Evaluate and validate supplier manufacturing processes by leading process audits, PFMEA reviews, control plan validation, and equipment capability/Run@rate assessments.</li>\r\n\t<li>Optimize supplier manufacturing scalability, ensuring production lines are capable of meeting increasing volume and quality expectations during ramp-up phases.</li>\r\n\t<li>Monitor supplier industrialisation performance through KPIs such as on-time PPAP submission, process capability indices (Cpk/Ppk), defect rates (PPM), issue closure rate*** and supplier corrective action effectiveness.</li>\r\n\t<li>Facilitate problem resolution using structured methodologies (focused problem solving) to address defects, process deviations, and launch roadblocks proactively.</li>\r\n\t<li>Collaborate cross-functionally with engineering, quality, and supply chain teams to drive VA/VE cost optimisation, ensuring seamless design implementation into supplier manufacturing processes and technology while maintaining quality and performance standards</li>\r\n</ul>\r\n <br />\r\n<strong>Up to 50% travel requirement</strong><br />\r\n <br />\r\n<strong>Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>Bachelor’s Degree in Engineering, Supply Chain, or other related field</li>\r\n\t<li>Strong Knowledge of Advanced Product Quality Planning (APQP), Production Part Approval Process (PPAP), Failure Mode and Effect Analysis (FMEA), Corrective and Preventative Actions (CAPA) development, Lean manufacturing, Traceability requirements</li>\r\n\t<li>Technical expertise in automotive components design and manufacturing, including knowledge of safety and test requirements and the appearance approval process.</li>\r\n\t<li>Knowledge of Geometric Design and Tolerancing (GD&T) and datum structures.</li>\r\n\t<li>Experience in Extrusion and fabrication commodities.</li>\r\n\t<li>VDA 6.3 credentials and understanding preferred.</li>\r\n\t<li>In-depth knowledge of IATF16949:2016 and understanding of ISO14001. ISO9001 is also a preferred knowledge set.</li>\r\n\t<li>Ability to stand, sit, or walk for 8-10 hours per day.</li>\r\n\t<li>Required to communicate using phone and/or e-mail.</li>\r\n\t<li>Ability to view, read, and interpret documents.</li>\r\n\t<li>Ability to perform all duties in an office environment that may contain ambient noise and temperature fluctuations</li>\r\n</ul>\r\n</div>\r\n",
     "recruiter": [
       null,
       null,
       null
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28789287",
-    "time_scraped": 1782975166878,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28789099,
-    "title": "Sales Enablement Associate",
-    "location": "CA, Mountain View",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782851465000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><b>About the Role</b><br />\r\nWe are seeking a highly collaborative and strategic <b>Sales Enablement Associate</b> to drive the adoption, optimization, and success of our core sales technology stack across our global markets.<br />\r\n<br />\r\nIn this role, you will act as the critical bridge between our central development teams and our regional/country sales teams. You will own the end-to-end user experience for three primary platforms, ensuring that market-specific feature requirements are understood, issues are swiftly resolved, and sales teams are fully equipped to leverage these tools to drive retail execution and business intelligence.<br />\r\n<b>The Tool Portfolio</b><br />\r\nYou will be the global champion and primary liaison for the following critical systems:\r\n<ul>\r\n\t<li><b>OneHub:</b> Our end-to-end store and visit management platform used by sales teams for sales tracking, Retail Sales Associate (RSA) training, in-store execution, and merchandising audits.</li>\r\n\t<li><b>OneDash:</b> Our centralized Business Intelligence (BI) and AI dashboard that provides actionable business insights to global and regional leadership.</li>\r\n\t<li><b>Salesforce / GFA:</b> The primary tool used for RSA surveys and field data collection in specific operational countries.</li>\r\n</ul>\r\n<b>Key Responsibilities</b><b>Product Adoption & Field Enablement</b>\r\n\r\n<ul>\r\n\t<li>Lead the global rollout and continuous adoption strategies for OneHub, OneDash, and Salesforce/GFA across various country markets.</li>\r\n\t<li>Conduct comprehensive product demos, onboarding sessions, and continuous \"handholding\" for both new and existing country teams.</li>\r\n\t<li>Develop training materials, best-practice playbooks, and localized use-case guides to ensure sales teams are maximizing the value of the tools.</li>\r\n</ul>\r\n<b>Stakeholder Management & Cross-Functional Alignment</b>\r\n\r\n<ul>\r\n\t<li>Act as the primary liaison between Central Operations, Product/Development teams, and Regional/Country Sales leadership.</li>\r\n</ul>\r\n \r\n\r\n<ul>\r\n\t<li>Facilitate day-to-day working sessions with global stakeholders to ensure alignment on tool usage, operational goals, and reporting standards.</li>\r\n\t<li>Navigate cultural and operational differences across regions to standardize processes while accommodating critical local market needs.</li>\r\n</ul>\r\n<b>Product Feedback & Feature Lifecycle</b>\r\n\r\n<ul>\r\n\t<li>Conduct continuous discovery with country teams to deeply understand their operational challenges, product feature requirements, and UI/UX needs.</li>\r\n\t<li>Translate field feedback into clear, actionable product requirements and user stories for the development teams.</li>\r\n\t<li>Participate in sprint planning and product roadmap discussions to advocate for the regional teams' most pressing needs.</li>\r\n</ul>\r\n<b>Issue Resolution & Support</b>\r\n\r\n<ul>\r\n\t<li>Serve as the primary escalation point for critical system issues, bugs, and workflow blockers reported by country teams.</li>\r\n\t<li>Partner closely with technical support and development teams to ensure timely resolution of issues, communicating status updates transparently back to the field.</li>\r\n</ul>\r\n<b>Qualifications & Experience</b>\r\n\r\n<ul>\r\n\t<li><b>Global Experience (Required):</b> Proven track record working in a global or multi-regional role, with demonstrated success managing and influencing international stakeholders across different time zones and cultures.</li>\r\n\t<li><b>Professional Background:</b> 5&plus; years of experience in Sales Enablement, Product Operations, Sales Operations, or a Customer Success/Adoption role—ideally within the retail, consumer goods, or tech sectors.</li>\r\n\t<li><b>Technical Acumen:</b> Strong familiarity with CRM software (Salesforce), BI/Analytics dashboards, and retail execution/field sales applications.</li>\r\n\t<li><b>Project Management:</b> Ability to manage multiple overlapping rollouts, feature requests, and support tickets simultaneously without losing attention to detail.</li>\r\n\t<li><b>Communication Skills:</b> Exceptional verbal and written communication. You must be able to translate complex technical concepts into simple, actionable terms for field sales teams, and conversely, translate field business needs into technical requirements for developers.</li>\r\n\t<li><b>Empathetic Problem Solver:</b> A high degree of patience and empathy when \"handholding\" users through new technologies, coupled with a proactive approach to solving their day-to-day challenges.</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Nigar Samantaray",
-      "nsamantaray@bayonesolutions.com",
-      "9253994055"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28789099",
-    "time_scraped": 1782975167775,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28788874,
-    "title": "Workplace Project Manager",
-    "location": "NC, Raleigh",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782850337000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>   <br />   \r\n<span style=\"color:black;\">   <strong>   Title: Workplace Project Manager<br />   \r\nLocation: Remote or Raleigh<br />   \r\n6 Months Contract</strong><br />   \r\n<br />   \r\n<br />   \r\n<strong>   Job Description:</strong></span>   <br />   \r\n<span style=\"color:black;\">   Experienced in hospitality, food service, and customer service, with a strong background in delivering high-quality guest experiences in fast-paced environments. Skilled in handling customer needs with professionalism, efficiency, and attention to detail.</span>   <br />   \r\n<span style=\"color:black;\">   Proficient in project management, with the ability to coordinate tasks, manage timelines, and support cross-functional teams to achieve operational goals.</span>   <br />   \r\n<span style=\"color:black;\">   Technically skilled in Airtable and Microsoft Excel, including data organization, tracking, reporting, and workflow optimization.</span>   <br />   \r\n<span style=\"color:black;\">   Brings global experience working across different time zones and cultures, with a strong ability to adapt communication styles and collaborate effectively in diverse international teams.</span>   </div>   \r\n",
-    "recruiter": [
-      "Priyanka Tripathi",
-      "priyanka.tripathi@bayonesolutions.com",
-      "9256948931"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28788874",
-    "time_scraped": 1782975177566,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28787935,
-    "title": "Technician: Inventory Control III_USD",
-    "location": "CA, Rancho Cordova",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782845085000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "NAND Test Lab Operations Support Technician<br>  Role Description Summary:<br>  Provides day-to-day NAND Lab support across all assigned tool sets.<br>  Role & Responsibilities:<br>  Adheres to and applies safety procedures within Lab environment.<br>  Performs/supports safety audits routinely and manages hazardous/chemical supplies as necessary according to site safety, local or state requirements.<br>  Experienced executing operational steps necessary on Advantest M67xxAD automated Handler and Advantest Tester systems.<br>  Experienced executing operational steps necessary on Teradyne Nextest Magnum Tester systems in a Windows and User Interface environment.<br>  Can translate Tester & Advantest Handler Test module Interface Hardware requirements and successfully set up automated processing at required temperature. Examples include installing Change Kits and Device Specific Adapters (DSA) combined with working knowledge in the application of Change Kits and DSA’s.<br>  Debugs Advantest Handler pick and place errors with limited or no direct Supervision enabling material process flow seamlessly.<br>  Experienced with generating technical documentation as required. Examples include response flow charts, or procedural step-by-step technical documentation.<br>  Can apply Advantest Handler experience and complete scheduled preventative maintenance and thermal calibration requirements on schedule.<br>  Demonstrates Semiconductor Memory Tester Architecture understanding and translates to Tester Hardware configuration types.<br>  Executes tester diagnostics within Teradyne Nextest or Advantest tester environments and interprets results in failing instances to board level.<br>  Executes tester calibration routines for voltage and timing calibration to meet original equipment manufacturer specifications.<br>  Experienced with Tester Chiller systems including internal distribution and with provided facility process chilled water systems.<br>  Can apply Semiconductor Reliability, Availability & Maintainability metrics within an operational environment with experience to compile and report out accurately internally and externally to original equipment Manufacturer real time equipment performance metrics.<br>  Takes initiative for continuous improvement initiatives.<br>  Not risk adverse in the decision-making process.<br>  Responsible for timely material processing & data collection meeting Product development schedule requirements within established operating environment.<br>  Assumes ownership over Test Equipment & measurement tooling against Preventative Maintenance and Calibration schedules.<br>  Uses Lab workflow tools supporting the movement of material from incoming to outgoing.<br>  Tracks Interface hardware within an inventory management system.<br>  Troubleshoots and resolves standard and non-standard hardware and software problems.<br>  Provide training on test equipment & tooling for test development users as needed.<br>  Plans and participates with Management & Finance supporting Lab material forecasting with focus on cost reduction opportunities.<br>  Test Equipment experienced required. Examples include Advantest Test Equipment knowledge; overall Testers for Memory applications – Teradyne Magnum Testers; Advantest Testers including B6700, V93K, T5835 & legacy handlers – M67xx series.<br>  Experienced in the Application use of Microsoft Office Products Suite including Excel, Word, PowerPoint and Outlook.",
-    "recruiter": [
-      "Bhushan Panchal",
-      "bpanchal@bayonesolutions.com",
-      "925 6948847"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28787935",
-    "time_scraped": 1782975177576,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28787455,
-    "title": "Sustaining Reliability Engineering Technician",
-    "location": "IL, Normal",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782843052000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p> <strong> THIS ROLE IS 100% ONSITE AT LOCATION ON REQ<br> <br> SCHEDULE: - M-F with some potential work on Saturdays where needed<br>  <br> (6AM-8PM)- Minimum 10 hour days (1 hour non billable lunch in this timeframe listed) with ability to  work 11 where there's a business need and if worker is able and willing to<br> <br> With potential to be extended or to convert to FTE- so long as there's business approvals and the worker does a good job<br> <br> CANDIDATE MUST PASS MVR<br> <br> <br> <br> Most Important Skills/Reponsibilities:<br> </strong></p> <br> <ul> <br> <li> Work collaboratively with test engineers to install, configure, and maintain test properties across a variety of complex powertrain test equipment</li> <br> </ul> <br> <ul> <br> <li> Proactively complete highest priority tasks by scheduled due dates while tests are ongoing</li> <br> </ul> <br> <ul> <br> <li> Develop a clean, organized, and efficient working environment<br> <br> <br> <br> </li> <br> </ul> <br> <p> <strong> Role Summary:</strong> <br> As a Sustaining Reliability Laboratory Technician - Battery working at ***’s Normal Illinois test facility, you’ll work with the Sustaining Reliability team to build, maintain, and operate laboratories for testing automotive battery packs, electrified powertrain systems, electric vehicle systems and component reliability.<br> <br> </p> <br> <p> <strong> Responsibilities:</strong></p> <br> <ul> <br> <li> <br> <p> Work collaboratively with test engineers to install, configure, and maintain test properties across a variety of complex powertrain test equipment</p> <br> </li> <br> <li> <br> <p> Execute tests effectively that results in minimal test equipment downtime</p> <br> </li> <br> <li> <br> <p> Troubleshoot test failures and report findings to test engineers</p> <br> </li> <br> <li> <br> <p> Proactively complete highest priority tasks while tests are ongoing</p> <br> </li> <br> <li> <br> <p> Fabricate test fixtures and instrumentation using a variety of materials.</p> <br> </li> <br> <li> <br> <p> Disassemble/reassemble production and prototype hardware</p> <br> </li> <br> <li> <br> <p> Provide guidance to engineers</p> <br> </li> <br> <li> <br> <p> Create electronic standard operating procedures (SOPs)</p> <br> </li> <br> <li> <br> <p> Train other team members to perform procedures in standardized format</p> <br> </li> <br> <li> <br> <p> Perform routine maintenance on test equipment</p> <br> </li> <br> <li> <br> <p> Develop a clean, organized, and efficient working environment</p> <br> </li> <br> <li> <br> <p> Maintain a clean, organized, and efficient working environment</p> <br> </li> <br> <li> <br> <p> Attend daily stand-up and team meetings on-time</p> <br> </li> <br> <li> <br> <p> Document daily work electronically</p> <br> </li> <br> <li> Must work in a team environment and communicate with engineers and fellow technicians</li> <br> <li> <br> <p> Possess excellent time management skills</p> <br> </li> <br> <li> <br> <p> Must be dependable to work scheduled hours</p> <br> </li> <br> <li> <br> <p> Willingness to work off-shifts when required</p> <br> </li> <br> </ul> <br> <p>  </p> <br> <p> <strong> Qualifications:</strong></p> <br> <ul> <br> <li> <br> <p> Must have domain knowledge:</p> <br> <ul> <br> <li> <br> <p> Knowledge of equipment for laboratory testing (Associates degree in a technology field or relevant experience or 2&plus; years tech experience)</p> <br> </li> <br> <li> <br> <p> Knowledge of instrumentation and data collection</p> <br> </li> <br> <li> <br> <p> Proficiency with hand and power tools</p> <br> </li> <br> <li> <br> <p> Proficiency with computers</p> <br> </li> <br> <li> <br> <p> Proficiency in writing clear standard operating procedures</p> <br> </li> <br> <li> <br> <p> Workplace safety concepts</p> <br> </li> <br> </ul> <br> </li> <br> <li> <br> <p> Bonus:</p> <br> <ul> <br> <li> Knowledge of low voltage electronics</li> <br> </ul> <br> <ul> <br> <li> <br> <p> Knowledge of High-Voltage Battery systems</p> <br> </li> <br> <li> <br> <p> Possesses High-Voltage Battery certifications</p> <br> </li> <br> <li> <br> <p> Knowledge of reliability testing</p> <br> </li> <br> <li> <br> <p> Familiarity with test cells</p> <br> </li> <br> <li> <br> <p> Proficiency in operating forklifts and cranes</p> <br> </li> <br> </ul> <br> </li> <br> </ul> <br> <p>  </p>  <p> <strong> THIS ROLE IS 100% ONSITE AT LOCATION ON REQ<br> <br> SCHEDULE: - M-F with some potential work on Saturdays where needed<br>  <br> (6AM-8PM)- Minimum 10 hour days (1 hour non billable lunch in this timeframe listed) with ability to  work 11 where there's a business need and if worker is able and willing to<br> <br> With potential to be extended or to convert to FTE- so long as there's business approvals and the worker does a good job<br> <br> CANDIDATE MUST PASS MVR<br> <br> <br> <br> Most Important Skills/Reponsibilities:<br> </strong></p> <br> <ul> <br> <li> Work collaboratively with test engineers to install, configure, and maintain test properties across a variety of complex powertrain test equipment</li> <br> </ul> <br> <ul> <br> <li> Proactively complete highest priority tasks by scheduled due dates while tests are ongoing</li> <br> </ul> <br> <ul> <br> <li> Develop a clean, organized, and efficient working environment<br> <br> <br> <br> </li> <br> </ul> <br> <p> <strong> Role Summary:</strong> <br> As a Sustaining Reliability Laboratory Technician - Battery working at ***’s Normal Illinois test facility, you’ll work with the Sustaining Reliability team to build, maintain, and operate laboratories for testing automotive battery packs, electrified powertrain systems, electric vehicle systems and component reliability.<br> <br> </p> <br> <p> <strong> Responsibilities:</strong></p> <br> <ul> <br> <li> <br> <p> Work collaboratively with test engineers to install, configure, and maintain test properties across a variety of complex powertrain test equipment</p> <br> </li> <br> <li> <br> <p> Execute tests effectively that results in minimal test equipment downtime</p> <br> </li> <br> <li> <br> <p> Troubleshoot test failures and report findings to test engineers</p> <br> </li> <br> <li> <br> <p> Proactively complete highest priority tasks while tests are ongoing</p> <br> </li> <br> <li> <br> <p> Fabricate test fixtures and instrumentation using a variety of materials.</p> <br> </li> <br> <li> <br> <p> Disassemble/reassemble production and prototype hardware</p> <br> </li> <br> <li> <br> <p> Provide guidance to engineers</p> <br> </li> <br> <li> <br> <p> Create electronic standard operating procedures (SOPs)</p> <br> </li> <br> <li> <br> <p> Train other team members to perform procedures in standardized format</p> <br> </li> <br> <li> <br> <p> Perform routine maintenance on test equipment</p> <br> </li> <br> <li> <br> <p> Develop a clean, organized, and efficient working environment</p> <br> </li> <br> <li> <br> <p> Maintain a clean, organized, and efficient working environment</p> <br> </li> <br> <li> <br> <p> Attend daily stand-up and team meetings on-time</p> <br> </li> <br> <li> <br> <p> Document daily work electronically</p> <br> </li> <br> <li> Must work in a team environment and communicate with engineers and fellow technicians</li> <br> <li> <br> <p> Possess excellent time management skills</p> <br> </li> <br> <li> <br> <p> Must be dependable to work scheduled hours</p> <br> </li> <br> <li> <br> <p> Willingness to work off-shifts when required</p> <br> </li> <br> </ul> <br> <p>  </p> <br> <p> <strong> Qualifications:</strong></p> <br> <ul> <br> <li> <br> <p> Must have domain knowledge:</p> <br> <ul> <br> <li> <br> <p> Knowledge of equipment for laboratory testing (Associates degree in a technology field or relevant experience or 2&plus; years tech experience)</p> <br> </li> <br> <li> <br> <p> Knowledge of instrumentation and data collection</p> <br> </li> <br> <li> <br> <p> Proficiency with hand and power tools</p> <br> </li> <br> <li> <br> <p> Proficiency with computers</p> <br> </li> <br> <li> <br> <p> Proficiency in writing clear standard operating procedures</p> <br> </li> <br> <li> <br> <p> Workplace safety concepts</p> <br> </li> <br> </ul> <br> </li> <br> <li> <br> <p> Bonus:</p> <br> <ul> <br> <li> Knowledge of low voltage electronics</li> <br> </ul> <br> <ul> <br> <li> <br> <p> Knowledge of High-Voltage Battery systems</p> <br> </li> <br> <li> <br> <p> Possesses High-Voltage Battery certifications</p> <br> </li> <br> <li> <br> <p> Knowledge of reliability testing</p> <br> </li> <br> <li> <br> <p> Familiarity with test cells</p> <br> </li> <br> <li> <br> <p> Proficiency in operating forklifts and cranes</p> <br> </li> <br> </ul> <br> </li> <br> </ul> <br> <p>  </p>  ['Average Computer skills', 'Communication Skills', 'Handheld Power Tools', '• hand tools', 'Reliable', 'Self-Sufficiency'] Shift: ['Average Computer skills', 'Communication Skills', 'Handheld Power Tools', '• hand tools', 'Reliable', 'Self-Sufficiency']",
-    "recruiter": [
-      null,
-      null,
-      null
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28787455",
-    "time_scraped": 1782975177558,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28787454,
-    "title": "Senior Software Simulation Engineer",
-    "location": "MI, Lansing",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782843048000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<h2> Job Title: Simulation Engineer (DES)</h2> <br> <p> Job Title: Simulation Engineer, Factory Design<br> Work location: Remote<br> Working hours: 40hrs/week<br> Travel: Yes - <strong> Must be able to travel in the first month of onboarding for 1 week to Normal, IL -  additional Travel based on projects.</strong><br> <br> <strong> Role Summary</strong></p> <br> <p> ***’s Factory Design & Simulation team is seeking a contract Simulation Engineer (DES) to support early manufacturing engineering and throughput architecture for the R2 ramp in Normal.<br> This role focuses on building and analyzing discrete event simulation models to guide factory and line design decisions before RFQ and detailed design.<br> You will work closely with Body, GA, Paint, Battery, Drive Unit, and Material Flow teams to validate capacity, size buffers, and identify bottlenecks impacting R2 launch and ramp in Normal.</p> <br> <h2> Key responsibilities</h2> <br> <ul> <br> <li> <br> <p> Build discrete event simulation models (FlexSim preferred) for manufacturing and material flow use cases in Normal (e.g., inter‐shop buffers, ASRS sizing, AGV flows, shop overspeed trade‐offs).</p> <br> </li> <br> <li> <br> <p> Translate high‐level factory requirements (demand, shift pattern, product mix, FPY, MTBF/MTTR) into simulation‐ready input assumptions and scenarios.</p> <br> </li> <br> <li> <br> <p> Run scenario and sensitivity studies (Experimenter) to:</p> <br> </li> <br> <ul> <br> <li> <br> <p> Confirm line and shop net JPH vs. targets.</p> <br> </li> <br> <li> <br> <p> Quantify overspeed, OPR/TEE, and buffer requirements.</p> <br> </li> <br> <li> <br> <p> Evaluate jobs‐per‐shift (JPS) regularity and risk envelopes.</p> <br> </li> <br> </ul> <br> <li> <br> <p> Summarize results in clear, decision‐focused reports and slide content for ME and program leadership (e.g., options with trade‐offs on throughput, risk, and space).</p> <br> </li> <br> <li> <br> <p> Collaborate with layout, material flow, and industrial engineering to align DES assumptions with real PORs and constraints.</p> <br> </li> <br> <li> <br> <p> Follow *** DES standards and libraries for model structure, naming, documentation, and handoff.</p> <br> </li> <br> </ul> <br> <h2> Required qualifications</h2> <br> <ul> <br> <li> <br> <p> 3&plus; years experience in automotive manufacturing engineering (e.g., body, paint, GA, battery, drive unit, or material flow) with direct ownership of discrete event simulation projects.</p> <br> </li> <br> <li> <br> <p> Expert‐level proficiency with Autodesk FlexSim</p> <br> </li> <br> <li> <br> <p> Demonstrated experience modeling:</p> <br> </li> <br> <ul> <br> <li> <br> <p> Multi‐line assembly systems with buffers and rework.</p> <br> </li> <br> <li> <br> <p> Stochastic behavior (failures, repairs, variability in process times).</p> <br> </li> <br> <li> <br> <p> Throughput / capacity and bottleneck analysis.</p> <br> </li> <br> </ul> <br> <li> <br> <p> Solid understanding of manufacturing KPIs (JPH, JPS, OEE/TEE, MTBF/MTTR, WIP, buffer sizing).</p> <br> </li> <br> <li> <br> <p> Ability to clean and structure input data, define scenarios, and explain model limitations and assumptions.</p> <br> </li> <br> <li> <br> <p> Strong communication skills: can condense complex simulation logic into concise recommendations for non‐simulation stakeholders.</p> <br> </li> <br> </ul> <br> <h2> Preferred qualifications</h2> <br> <ul> <br> <li> <br> <p> Familiarity with FlexScript / C&plus;&plus; / Python for custom logic and tooling in DES.</p> <br> </li> <br> <li> <br> <p> Prior work on greenfield factory design or major capacity upgrades (launch and ramp).</p> <br> </li> <br> </ul> <br> <p>  </p>  <h2> Job Title: Simulation Engineer (DES)</h2> <br> <p> Job Title: Simulation Engineer, Factory Design<br> Work location: Remote<br> Working hours: 40hrs/week<br> Travel: Yes - <strong> Must be able to travel in the first month of onboarding for 1 week to Normal, IL -  additional Travel based on projects.</strong><br> <br> <strong> Role Summary</strong></p> <br> <p> ***’s Factory Design & Simulation team is seeking a contract Simulation Engineer (DES) to support early manufacturing engineering and throughput architecture for the R2 ramp in Normal.<br> This role focuses on building and analyzing discrete event simulation models to guide factory and line design decisions before RFQ and detailed design.<br> You will work closely with Body, GA, Paint, Battery, Drive Unit, and Material Flow teams to validate capacity, size buffers, and identify bottlenecks impacting R2 launch and ramp in Normal.</p> <br> <h2> Key responsibilities</h2> <br> <ul> <br> <li> <br> <p> Build discrete event simulation models (FlexSim preferred) for manufacturing and material flow use cases in Normal (e.g., inter‐shop buffers, ASRS sizing, AGV flows, shop overspeed trade‐offs).</p> <br> </li> <br> <li> <br> <p> Translate high‐level factory requirements (demand, shift pattern, product mix, FPY, MTBF/MTTR) into simulation‐ready input assumptions and scenarios.</p> <br> </li> <br> <li> <br> <p> Run scenario and sensitivity studies (Experimenter) to:</p> <br> </li> <br> <ul> <br> <li> <br> <p> Confirm line and shop net JPH vs. targets.</p> <br> </li> <br> <li> <br> <p> Quantify overspeed, OPR/TEE, and buffer requirements.</p> <br> </li> <br> <li> <br> <p> Evaluate jobs‐per‐shift (JPS) regularity and risk envelopes.</p> <br> </li> <br> </ul> <br> <li> <br> <p> Summarize results in clear, decision‐focused reports and slide content for ME and program leadership (e.g., options with trade‐offs on throughput, risk, and space).</p> <br> </li> <br> <li> <br> <p> Collaborate with layout, material flow, and industrial engineering to align DES assumptions with real PORs and constraints.</p> <br> </li> <br> <li> <br> <p> Follow *** DES standards and libraries for model structure, naming, documentation, and handoff.</p> <br> </li> <br> </ul> <br> <h2> Required qualifications</h2> <br> <ul> <br> <li> <br> <p> 3&plus; years experience in automotive manufacturing engineering (e.g., body, paint, GA, battery, drive unit, or material flow) with direct ownership of discrete event simulation projects.</p> <br> </li> <br> <li> <br> <p> Expert‐level proficiency with Autodesk FlexSim</p> <br> </li> <br> <li> <br> <p> Demonstrated experience modeling:</p> <br> </li> <br> <ul> <br> <li> <br> <p> Multi‐line assembly systems with buffers and rework.</p> <br> </li> <br> <li> <br> <p> Stochastic behavior (failures, repairs, variability in process times).</p> <br> </li> <br> <li> <br> <p> Throughput / capacity and bottleneck analysis.</p> <br> </li> <br> </ul> <br> <li> <br> <p> Solid understanding of manufacturing KPIs (JPH, JPS, OEE/TEE, MTBF/MTTR, WIP, buffer sizing).</p> <br> </li> <br> <li> <br> <p> Ability to clean and structure input data, define scenarios, and explain model limitations and assumptions.</p> <br> </li> <br> <li> <br> <p> Strong communication skills: can condense complex simulation logic into concise recommendations for non‐simulation stakeholders.</p> <br> </li> <br> </ul> <br> <h2> Preferred qualifications</h2> <br> <ul> <br> <li> <br> <p> Familiarity with FlexScript / C&plus;&plus; / Python for custom logic and tooling in DES.</p> <br> </li> <br> <li> <br> <p> Prior work on greenfield factory design or major capacity upgrades (launch and ramp).</p> <br> </li> <br> </ul> <br> <p>  </p>  ['Discrete Event Simulation', 'FlexSim'] Shift: ['Discrete Event Simulation', 'FlexSim']",
-    "recruiter": [
-      null,
-      null,
-      null
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28787454",
-    "time_scraped": 1782975192971,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28787314,
-    "title": "Phlebotomist I - 1st Shift",
-    "location": "CT, Cheshire",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782841875000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> <strong> Job Details:</strong><br /> \r\n<strong> <strong> Title</strong></strong>: Phlebotomist I<br /> \r\n<strong> Position Type</strong>: 3-month contract with the possibility of extension or permanent hire<br /> \r\n<strong> Location</strong>: Cheshire, CT, United States<br /> \r\n<strong> Shift time: </strong>Monday–Friday, 7:00 AM – 4:00 PM (Central Time)<br /> \r\n<strong> State of Credentials/Licenses Required:</strong> Phlebotomy certificate<br /> \r\n<br /> \r\n<strong> Description: </strong>The Patient Services Representative I (PSR I) represents the face of the company to patients who come in, both as part of their health routine or for insights into life-defining health decisions. The PSR I draws quality blood samples from patients and prepares those specimens for lab testing while following established practices and procedures. The PSR I has direct contact with patients and creates an atmosphere of trust and confidence while explaining procedures to patients and drawing blood specimens in a skillful, safe and accurate manner. The PSR I will demonstrate Leadership Behaviors while focusing on process excellence skills and sensitivity to confidentiality and accuracy to patient information.<br /> \r\n<br /> \r\nUnder the direction of the area supervisor, perform daily activities accurately and on time.<br /> \r\nMaintain a safe and professional environment.<br /> \r\nPerforms with confidence, both the forensic and clinical specimen collection and processing duties following established practices and procedures.<br /> \r\nMaintains required records and documentation.<br /> \r\nDemonstrates organizational commitment and promotes a positive image to patients, clients, employees and the public in general.<br /> \r\n<br /> \r\n<strong> Job Requirements: </strong></span> </span> \r\n<ul> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Ability to provide quality, error free work in a fast-paced environment.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Ability to work independently with minimal on-site supervision.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Excellent phlebotomy skills to include pediatric and geriatric.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Flexible and available based on staffing needs, which includes weekends, holidays, on-call and overtime.</span> </span> </li> \r\n</ul> \r\n<br /> \r\n<span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> <strong> Required Education: </strong></span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> High school diploma or equivalent.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Medical training: medical assistant or paramedic training preferred.</span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Phlebotomy certification preferred (Required in California, Nevada, and Washington).</span> </span> </li> \r\n</ul> \r\n<br /> \r\n<span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> <strong> Work Experience:</strong> </span> </span> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Minimum of 6 months experience. One(&plus;) years phlebotomy experience preferred. </span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Customer service in a retail or service environment preferred. </span> </span> </li> \r\n\t<li> <span style=\"font-size:11pt\"> <span style=\"font-family:calibri,helvetica,sans-serif\"> Keyboard/data entry experience a must.</span> </span> </li> \r\n</ul> \r\n",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28787314",
-    "time_scraped": 1782975193334,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28787312,
-    "title": "Phlebotomist I - 1st Shift",
-    "location": "CT, Southbury",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782841870000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Description: The Patient Services Representative I (PSR I) represents the face of the company to patients who come in, both as part of their health routine or for insights into life-defining health decisions. The PSR I draws quality blood samples from patients and prepares those specimens for lab testing while following established practices and procedures. The PSR I has direct contact with patients and creates an atmosphere of trust and confidence while explaining procedures to patients and drawing blood specimens in a skillful, safe and accurate manner. The PSR I will demonstrate Leadership Behaviors while focusing on process excellence skills and sensitivity to confidentiality and accuracy to patient information.<br>  <br> Under the direction of the area supervisor, perform daily activities accurately and on time. <br> Maintain a safe and professional environment. <br> Performs with confidence, both the forensic and clinical specimen collection and processing duties following established practices and procedures. <br> Maintains required records and documentation. <br> Demonstrates organizational commitment and promotes a positive image to patients, clients, employees and the public in general. <br> <br> Job Requirements: Ability to provide quality, error free work in a fast-paced environment. <br> Ability to work independently with minimal on-site supervision. <br> Excellent phlebotomy skills to include pediatric and geriatric. <br> *Flexible and available based on staffing needs, which includes weekends, holidays, on-call and overtime.* <br> <br> Required Education: High school diploma or equivalent. <br> Medical training: medical assistant or paramedic training preferred. <br> Phlebotomy certification preferred (Required in California, Nevada, and Washington). <br> <br> Work Experience: Minimum of 6 months experience. One(&plus;) years phlebotomy experience preferred. Customer service in a retail or service environment preferred. Keyboard/data entry experience a must. <br> <br> Custom Fields: <br> Name: CapEX<br> Value: None<br> <br> Name: Justification for Temp<br> Value: increased volume  to replace previous temp<br> <br> Name: Time Zone<br> Value: 7a - 4 p<br> <br> Name: Reporting Business Unit (RBU)<br> Value: 64000:***-Wallingford<br> <br> Name: GLBU-SiteCode<br> Value: 64000-BPH:Client's-385 MAIN STREET SOUTH<br> <br> Name: Line of Business (LOB)<br> Value: 300:Diagnostics Information Servic<br> <br> Name: State of Credentials/Licenses Required<br> Value: phlebotomy certificate<br> <br> Name: Is Covid Vaccination Required?<br> Value: No<br> <br> Name: Is this a hospital site that requires additional credentialing?<br> Value: No<br> <br> Name: Federal Contract Work in Lab<br> Value: No<br> <br> Name: Is Position Eligible for Remote Work?<br> Value: No<br> <br> Name: GL Account<br> Value: 551000|Temp  Labor:  Agency  Taxable (Contingent PA and CT Locations ONLY)<br> <br> ",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28787312",
-    "time_scraped": 1782975193154,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28786751,
-    "title": "Lab Assistant",
-    "location": "NJ, Clifton",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782838286000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Description: OB SUMMARY:<br> Perform the daily activities as described below. Basic Purpose: Perform various routine laboratory functions in a precise and accurate fashion to assist the laboratory professional staff and to facilitate production.<br> JOB REQUIREMENTS:<br> Sorting, and receiving specimens in the department.<br> Performs routine instrument maintenance on some equipment.<br> Performs laboratory tasks of centrifuging specimens, printing extra labels, recording data (temperature charts) specimen storage and retrieval.<br> Preparing reagents and or media in the department.<br> Preparing specimens at workstations for testing. (Including building worklists, aliquoting specimens into sample cups, checking specimens for clots and fibrin, inoculation, slide preparation)<br> Performs QA/QC duties as assigned.<br> Resolves pending lists.<br> Finds missing samples.<br> Decontaminates work areas.<br> Performs weekly radioactive wipe tests.<br> Maintains files for department records.<br> Changes gas cylinders.<br> Follows all PPE requirements and all safety regulations.<br> Uses the laboratory computer system as well as operates PCs.<br> Disposes of biohazardous material.<br> Completes training and competency checklists as appropriate.<br> This is not an exhaustive list of all duties and responsibilities, but rather a general description of the work performed by this position.<br> Education: High school diploma or equivalent. Medical assistant training helpful. Math and science courses preferred.<br> Work Experience: None required<br> Special Requirements:<br> Must have the ability to establish work priorities and to handle several tasks for maximum workstation efficiency.<br> Must be able to retain information once learned.<br> Must interact with other coworkers, internal and external customers with courtesy and respect.<br> Key Word Search: laboratory, medical <br> <br> Custom Fields: <br> Name: Is this a hospital site that requires additional credentialing?<br> Value: No<br> <br> Name: State of Credentials/Licenses Required<br> Value: None<br> <br> Name: GL Account<br> Value: 551100|Temp  Labor:  Agency  Non-Taxa (Contingent, All but PA and CT Locations)<br> <br> Name: Justification for Temp<br> Value: Replacement<br> <br> Name: CapEX<br> Value: None<br> <br> Name: Reporting Business Unit (RBU)<br> Value: 62500:Clifton<br> <br> Name: Line of Business (LOB)<br> Value: 300:Diagnostics Information Servic<br> <br> Name: GLBU-SiteCode<br> Value: 62500-Z99:Client's-1 Insights Drive<br> <br> Name: Time Zone<br> Value: Monday to Friday, 9am to 5:30pm<br> <br> Name: Is Covid Vaccination Required?<br> Value: None<br> <br> Name: Federal Contract Work in Lab<br> Value: No<br> <br> Name: Is Position Eligible for Remote Work?<br> Value: No<br> <br> ",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28786751",
-    "time_scraped": 1782975203310,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28786745,
-    "title": "Medical Laboratory Scientist",
-    "location": "NJ, Clifton",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782838271000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Description: JOB RESPONSIBILITIES:<br> 1. Follow the laboratory's procedures for specimen handling and processing, test analyses, reporting and maintaining records of patient test result;<br> 2. Maintain records that demonstrate that proficiency testing samples are tested in the same manner as patient specimens;<br> 3. Analyze specimens using approved testing procedures (see department SOPs).<br> 4. Review and release test results.<br> 5. Follow CLIA, HIPAA, OSHA, and safety guidelines as described in their respective guidelines.<br> 6. Adhere to the laboratory's quality control policies, document all quality control activities, instrument and procedural calibrations and all maintenance performed;<br> 7. Follow the laboratory's established policies and procedures whenever test systems are not within the laboratory's established acceptable levels of performance.<br> 8. Identify problems that may adversely affect test performance or reporting of test results, correct the problems encountered or immediately notify the senior technologist or supervisor.<br> 9. Document all corrective actions taken when test systems deviate from the laboratory's established performance specifications.<br> 10. Follow department's procedure in reporting STATS or Critical results to clients.<br> 11. If applicable, answer questions from customers or other lab personnel.<br> 12. Maintain complete records of all testing performed on-site.<br> 13. Maintain general appearance of the department.<br> 14. Make sure reagents/test kits have received dates, expiration dates, and if applicable opened dates. 15. Review/train on new procedures.<br> 16. Attend monthly department and any additional training/educational meetings.<br> 17. Participate in all applicable safety training sessions. Know the location and contents of the safety manual. Know the location/use of all applicable safety equipment.<br> 18. If needed, participate in government or regulatory agency inspections.<br> 19. Perform other duties as directed by supervisor.<br> Required Knowledge: A solid understanding of basic laboratory testing is required for this position. The successful candidate must possess good computer skills and be able to adapt to working in multiple computer systems. Must have knowledge of QC and QA as well as knowledge of all areas of the laboratory.<br> <br> Education:<br> BS in Medical Technology preferred; or BS/BA in Chemistry or Biology, or Associates degree in a Laboratory Science or Medical Technology, or Previously qualified as a Technologist under 42 CFR 493. 1433 published in March 14, 1990. Foreign educated candidates must provide a detailed credential evaluation from IERF (International Education Research Foundation). United States educated candidates must provide a detailed original transcript. A successful candidate should possess or be eligible for national certification as an MT / MLT from a recognized organization (ASCP or AMT).<br> Work Experience:<br> 1 year Clinical experience (high complexity testing) preferred. Minimum of 1 year of clinical laboratory experience in highly complex testing for those with BS/BA in Chemistry or Biology. National and State licensure as required.<br> Special Requirements:<br> 1. Must have the ability to establish work priorities and handle several procedures simultaneously.<br> 2. Must interact with other departments.<br> 3. Contact with clients may be required, good customer service skills are important.<br> 4. Must protect patient confidentiality at all times. <br> <br> Custom Fields: <br> Name: Is this a hospital site that requires additional credentialing?<br> Value: No<br> <br> Name: GL Account<br> Value: 551100|Temp  Labor:  Agency  Non-Taxa (Contingent, All but PA and CT Locations)<br> <br> Name: Federal Contract Work in Lab<br> Value: No<br> <br> Name: Is Position Eligible for Remote Work?<br> Value: No<br> <br> Name: Justification for Temp<br> Value: To replace the Molecular help (OT).<br> <br> Name: State of Credentials/Licenses Required<br> Value: NA<br> <br> Name: GLBU-SiteCode<br> Value: 62500-J5P:Client's-1 Malcolm Ave<br> <br> Name: CapEX<br> Value: None<br> <br> Name: Time Zone<br> Value: Tuesday - Saturday. <br> <br> 3:00PM - 11:30PM.<br> <br> Name: Reporting Business Unit (RBU)<br> Value: 62500:Clifton<br> <br> Name: Is Covid Vaccination Required?<br> Value: No<br> <br> Name: Line of Business (LOB)<br> Value: 300:Diagnostics Information Servic<br> <br> ",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28786745",
-    "time_scraped": 1782975203347,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785904,
-    "title": "Specimen Technician - 3rd Shift",
-    "location": "NJ, Clifton",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782833455000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong> Job Role:Specimen Technician<br /> \r\nShift:M-F 10pm-6:30am<br /> \r\nLocation:1 Insights Drive Clifton NJ 07012<br /> \r\nDescription: </strong>The SPT I is responsible for general support functions within the Specimen Processing Department. This position requires a data entry background. Functions performed may include but are not limited to A-station, presort, pickup and delivery of processed specimens to the laboratory, imaging/microfilming, centrifugation and aliquoting. All functions must be performed with confidence, accuracy and in a timely manner. Job is complex and requires that employee have good organization skills and is able to learn and understand specimen types related to test(s) ordered by client. The SPT I must have to the ability learn and understand the compliance regulations related to test ordering which may change on a daily basis. This position is critical to quality for customer satisfaction. Additionally, since many changes do occur from day to day, great flexibility on the part of the SPT I is required. The SPT I will be exposed to many different demands made by the customer. Majority of SPT I work on the nightshift but based on staffing needs, weekends, holidays, on call and overtime availability is a requirement.<br /> \r\n<br /> \r\nDepartment is a production environment, with emphasis on productivity/quality standards and departmental completion times.<br /> \r\nPosition requires data background with abilities to enter 6,000 alphanumeric keystrokes/hour.<br /> \r\nWorks in a biohazard environment, practicing good safety habits.<br /> \r\nAble to sit or stand for long periods.<br /> \r\nCommunicates effectively with all levels of staff.<br /> \r\nAdheres to core values, safety and compliance policies and procedures.<br /> \r\nKeeps work area neat and clean.<br /> \r\nDemonstrates strong interpersonal skills that foster a positive environment.<br /> \r\nDemonstrates flexibility and ability to adapt to change.<br /> \r\n<br /> \r\nEducation: HS diploma or equivalent.<br /> \r\n<br /> \r\nRequired Knowledge: Basic understanding of computers with a preferred knowledge of laboratory testing and/or laboratory specimen processing.<br /> \r\n<br /> \r\nWork Experience: No experience required but previous laboratory experience preferred.<br /> \r\nMedical background preferred which includes medical terminology applicable to a clinical laboratory.<br /> \r\nPrevious hospital laboratory experience is a plus but not required.<br /> \r\nPrevious experience in a production environment preferred.<br /> \r\n<br /> \r\n ",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28785904",
-    "time_scraped": 1782975202596,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785064,
-    "title": "Phlebotomist II",
-    "location": "MI, Pontiac",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782828679000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong>Job Title: Phlebotomist II</strong><br />\r\n<strong>Location: 1701, Baldwin Ave, Pontiac, MI - 48340</strong><br />\r\n<strong>Shift: 1st Shift Monday-Friday 9:00 am - 5:30 pm 30 MINUTE LUNCH 12:30 pm - 1pm</strong><br />\r\n<strong>Certification/License: NA</strong><br />\r\n<br />\r\nDescription: The Patient Services Representative II (PSR II) represents the face of our company to patients who come in, both as part of their health routine or for insights into life-defining health decisions. The PSR II draws quality blood samples from patients and prepares those specimens for lab testing while following established practices and procedures. The PSR II has direct contact with patients and creates an atmosphere of trust and confidence while explaining procedures to patients and drawing blood specimens in a skillful, safe and accurate manner. The PSR II will demonstrate Leadership Behaviors while focusing on process excellence skills and sensitivity to confidentiality and accuracy to patient information. Successful applicants may be assigned to a doctor's office, a patient service center or as business needs dictate.<br />\r\n<br />\r\nUnder the direction of the area supervisor, perform daily activities accurately and on time.<br />\r\nMaintain a safe and professional environment.<br />\r\nPerforms with confidence, both the forensic and clinical specimen collection and processing duties following established practices and procedures.<br />\r\nPerform verification of patient demographic info / initials including patient signature post-venipuncture to verify tubes were labeled in their presence and that the name on the label is correct.<br />\r\nMaintains required records and documentation.<br />\r\nDemonstrates organizational commitment and promotes a positive image to patients, clients, employees and the public in general.<br />\r\n<br />\r\nJob Requirements:<br />\r\nAbility to provide quality, error free work in a fast-paced environment.<br />\r\nAbility to work independently with minimal on-site supervision.<br />\r\nExcellent phlebotomy skills to include pediatric and geriatric.<br />\r\nFlexible and available based on staffing needs, which includes weekends, holidays, on-call and overtime.<br />\r\nCommitted to all Policies & Procedures including Company dress code, Employee Health & Safety, and Everyday Excellence Guiding Principles.<br />\r\nMust be able to make decisions based on established procedures and exercise good judgment.<br />\r\nMust have reliable transportation, valid driver license, and clean driving record, if applicable.<br />\r\nTravel and flexible hours required to work multiple locations and required to cover at Patient Service Center/In-Office Phlebotomy locations with minimal notice.<br />\r\nCapable of handling multiple priorities in a high-volume setting.<br />\r\nMust demonstrate Superior Customer Focus; ability to communicate openly and transparently with peers, supervisors and patients; ability to accelerate and embrace change; and knowledge of our business.<br />\r\n<br />\r\nTraining locations may vary based on trainer availability.<br />\r\n<br />\r\nRequired Education:<br />\r\nHigh school diploma or equivalent REQUIRED.<br />\r\nMedical training: medical assistant or paramedic training preferred.<br />\r\nPhlebotomy certification preferred. Required in California, Nevada, and Washington.<br />\r\n<br />\r\nWork Experience:<br />\r\n1-3 years phlebotomy experience required, inclusive of pediatric, geriatric and capillary collections.<br />\r\n2 years in a Patient Service Center environment preferred.<br />\r\nCustomer service in a retail or service environment highly preferred.<br />\r\nKeyboard/data entry experience.",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28785064",
-    "time_scraped": 1782975214032,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785063,
-    "title": "Phlebotomist III - Floater",
-    "location": "MN, Lakeville",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782828674000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong>Job Details:</strong><br />\r\n<strong>Title: Phlebotomist II</strong><br />\r\n<strong>Location: 17489 Dodd Blvd, Lakeville MN 55044</strong><br />\r\n<strong>Required Immunizations/titer level: TDaP, MMR, Varicella, Covid, Influenza, and negative TB result.<br />\r\nShift: 8 hour shifts (with 30 min unpaid break) between 6:45am-8:30pm CST M-F<br />\r\n<br />\r\nDescription:</strong><br />\r\nThe Patient Services Representative III-Floater (PSR III) represents the face of our company to patients who come in, both as part of their health routine or for insights into life-defining health decisions. The PSR III draws quality blood samples from patients and prepares those specimens for lab testing while following established practices and procedures. The PSR III has direct contact with patients and creates an atmosphere of trust and confidence while explaining procedures to patients and drawing blood specimens in a skillful, safe and accurate manner. The PSR III will demonstrate Leadership Behaviors while focusing on process excellence skills and sensitivity to confidentiality and accuracy to patient information. Successful applicants may be assigned to a doctor's office, a patient service center or as business needs dictate.<br />\r\nUnder the direction of the area supervisor, perform daily activities accurately and on time. Maintain a safe and professional environment. Performs with confidence, both the forensic and clinical specimen collection and processing duties following established practices and procedures. Perform verification of patient demographic info / initials including patient signature post-venipuncture to verify tubes were labeled in their presence and that the name on the label is correct. Maintains required records and documentation. Demonstrates organizational commitment and promotes a positive image to patients, clients, employees and the public in general.<br />\r\n<br />\r\n<strong>Job Requirements:</strong><br />\r\nAbility to provide quality, error free work in a fast-paced environment.<br />\r\nAbility to work independently with minimal on-site supervision.<br />\r\nExcellent phlebotomy skills to include pediatric and geriatric.<br />\r\nFlexible and available based on staffing needs, which includes weekends, holidays, on-call and overtime.<br />\r\nCommitted to all Policies & Procedures including Company dress code, Employee Health & Safety, and Everyday Excellence Guiding Principles.<br />\r\nMust be able to make decisions based on established procedures and exercise good judgment. Must have reliable transportation, valid driver license, and clean driving record, if applicable.<br />\r\nTravel and flexible hours required to work multiple locations and required to cover at Patient Service Center/In-Office Phlebotomy locations with minimal notice.<br />\r\nCapable of handling multiple priorities in a high-volume setting.<br />\r\nMust demonstrate Superior Customer Focus; ability to communicate openly and transparently with peers, supervisors and patients; ability to accelerate and embrace change; and knowledge of our business.<br />\r\nTraining locations may vary based on trainer availability.<br />\r\n<br />\r\n<strong>Required Education:</strong><br />\r\nHigh school diploma or equivalent - REQUIRED<br />\r\nMedical training: medical assistant or paramedic training preferred. Phlebotomy certification preferred. Required in California, Nevada, and Washington.<br />\r\n<br />\r\n<strong>Work Experience:</strong><br />\r\nThree years phlebotomy experience required, inclusive of pediatric, geriatric and capillary collections.<br />\r\nMinimum 2 years in a Patient Service Center environment preferred.<br />\r\nCustomer service in a retail or service environment preferred. Keyboard/data entry experience.<br />\r\n<br />\r\n<strong>Additional info:</strong><br />\r\nSites covered will include but may not be limited to:<br />\r\nAMPV- Lakeville North<br />\r\nAKEW- Lakeville South<br />\r\nAKGB- Lakeville Specialty<br />\r\nAKFA- Northfield<br />\r\nAKFM- Faribault clinic<br />\r\nAKFS - Apple Valley<br />\r\nAKER- Farmington<br />\r\nAKEM - Eagan<br />\r\nAKFZ- Hastings<br />\r\n8hr shifts may be anytime during business hours. Sites are staffed 15mins prior to clinic open, and 30 mins after clinic closes.",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28785063",
-    "time_scraped": 1782975213444,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785061,
-    "title": "Phlebotomist II",
-    "location": "MI, Pontiac",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782828668000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong>Job Title: Phlebotomist II</strong><br />\r\n<strong>Location: 461, W Huron St, Pontiac, MI - 48341</strong><br />\r\n<strong>Shift: 1st Shift Monday-Friday 9:00 am - 5:30 pm 30 MINUTE LUNCH 12:30 pm - 1pm</strong><br />\r\n<strong>Certification/License: NA</strong><br />\r\n<br />\r\nDescription: The Patient Services Representative II (PSR II) represents the face of our company to patients who come in, both as part of their health routine or for insights into life-defining health decisions. The PSR II draws quality blood samples from patients and prepares those specimens for lab testing while following established practices and procedures. The PSR II has direct contact with patients and creates an atmosphere of trust and confidence while explaining procedures to patients and drawing blood specimens in a skillful, safe and accurate manner. The PSR II will demonstrate Leadership Behaviors while focusing on process excellence skills and sensitivity to confidentiality and accuracy to patient information. Successful applicants may be assigned to a doctor's office, a patient service center or as business needs dictate.<br />\r\n<br />\r\nUnder the direction of the area supervisor, perform daily activities accurately and on time.<br />\r\nMaintain a safe and professional environment.<br />\r\nPerforms with confidence, both the forensic and clinical specimen collection and processing duties following established practices and procedures.<br />\r\nPerform verification of patient demographic info / initials including patient signature post-venipuncture to verify tubes were labeled in their presence and that the name on the label is correct.<br />\r\nMaintains required records and documentation.<br />\r\nDemonstrates organizational commitment and promotes a positive image to patients, clients, employees and the public in general.<br />\r\n<br />\r\nJob Requirements:<br />\r\nAbility to provide quality, error free work in a fast-paced environment.<br />\r\nAbility to work independently with minimal on-site supervision.<br />\r\nExcellent phlebotomy skills to include pediatric and geriatric.<br />\r\nFlexible and available based on staffing needs, which includes weekends, holidays, on-call and overtime.<br />\r\nCommitted to all Policies & Procedures including Company dress code, Employee Health & Safety, and Everyday Excellence Guiding Principles.<br />\r\nMust be able to make decisions based on established procedures and exercise good judgment.<br />\r\nMust have reliable transportation, valid driver license, and clean driving record, if applicable.<br />\r\nTravel and flexible hours required to work multiple locations and required to cover at Patient Service Center/In-Office Phlebotomy locations with minimal notice.<br />\r\nCapable of handling multiple priorities in a high-volume setting.<br />\r\nMust demonstrate Superior Customer Focus; ability to communicate openly and transparently with peers, supervisors and patients; ability to accelerate and embrace change; and knowledge of our business.<br />\r\n<br />\r\nTraining locations may vary based on trainer availability.<br />\r\n<br />\r\nRequired Education:<br />\r\nHigh school diploma or equivalent REQUIRED.<br />\r\nMedical training: medical assistant or paramedic training preferred.<br />\r\nPhlebotomy certification preferred. Required in California, Nevada, and Washington.<br />\r\n<br />\r\nWork Experience:<br />\r\n1-3 years phlebotomy experience required, inclusive of pediatric, geriatric and capillary collections.<br />\r\n2 years in a Patient Service Center environment preferred.<br />\r\nCustomer service in a retail or service environment highly preferred.<br />\r\nKeyboard/data entry experience.<br />\r\n ",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28785061",
-    "time_scraped": 1782975213820,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785058,
-    "title": "Phlebotomist II",
-    "location": "IN, Cayuga",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782828663000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><strong>Position:</strong> Phlebotomist II (PSR II)<br />\r\n<strong>Location:</strong> IN_AGRJ_703 W Park St, Cayuga IN 47928<br />\r\n<strong>Shift:</strong> 8:00 AM – 5:00 PM (ET)</p>\r\n\r\n<p><strong>Job Description:</strong></p>\r\n\r\n<ul>\r\n\t<li>Perform venipuncture and specimen collection for pediatric, adult, and geriatric patients.</li>\r\n\t<li>Process, label, and prepare specimens for laboratory testing.</li>\r\n\t<li>Verify patient information and maintain accurate documentation.</li>\r\n\t<li>Deliver excellent patient service while ensuring safety, confidentiality, and quality.</li>\r\n\t<li>Work independently in a fast-paced environment and support multiple collection sites as needed.</li>\r\n</ul>\r\n\r\n<p><strong>Requirements:</strong></p>\r\n\r\n<ul>\r\n\t<li>High school diploma or equivalent.</li>\r\n\t<li>1–3 years of phlebotomy experience (including pediatric and geriatric collections).</li>\r\n\t<li>Strong specimen processing and data entry skills.</li>\r\n\t<li>Excellent customer service and communication skills.</li>\r\n\t<li>Phlebotomy certification preferred (required where applicable).</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "NIkhil Nawani",
-      "nnawani@bayonesolutions.com",
-      "9253997838"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28785058",
-    "time_scraped": 1782975225903,
-    "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28784474,
-    "title": "Packaging Associate INT",
-    "location": "WI, Franksville",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782822876000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Transducer Screening<br /> \r\n• Perform transducer screening and inspection.<br /> \r\n• Document results of transducer screening and inspection according to Good Documentation Practices (GDPs).<br /> \r\n• Assist in the completion of screening and inspection records according to GDPs.<br /> \r\n• Assist in the collection of data used to report transducer performance.<br /> \r\n• Complete daily screening laboratory equipment and facility records.<br /> \r\nProficiency in fundamental computer operations is required<br /> \r\nMust be able to pass vision testing requirements (with or without corrective eyewear)<br /> \r\nHours: Monday - Friday 6am-2:30pm<br /> \r\nHourly Rate: ***",
-    "recruiter": [
-      "Harshil Rajput",
-      "rharshil@bayonesolutions.com",
-      "9253990633"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28784474",
-    "time_scraped": 1782975225781,
+    "url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v&SearchString=#/jobs/28799809",
+    "time_scraped": 1783059422500,
     "source_company": "gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "source_url": "https://www1.jobdiva.com/portal/?a=gqjdnwjcebrekv6n9h8rbmzzvmztk50234z9012psk4xgcxd6b4y7ufhtefg6g6v",
     "date_cutoff_days": 15

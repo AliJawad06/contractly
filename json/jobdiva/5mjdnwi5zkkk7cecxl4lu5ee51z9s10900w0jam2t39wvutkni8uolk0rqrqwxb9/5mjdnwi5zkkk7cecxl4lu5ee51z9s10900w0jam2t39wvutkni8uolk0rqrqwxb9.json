@@ -1,80 +1,14 @@
 [
   {
-    "id": 32537759,
-    "title": "Data Science / Data Engineering",
-    "location": "None, Remote",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782945328000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div> <b data-olk-copy-source=\"MessageBody\"> Job Title: Data Science <br /> \r\nLocation: Canada (Remote)<br /> \r\nEmployment Type: Contract</b> <br /> \r\n<br /> \r\nWe currently have a gap in the mastering and semantic matching space. We need:<br /> \r\n<br /> \r\n  * Strong data engineers &plus; data scientists with deep expertise in data mastering and entity resolution<br /> \r\n  * Experience leveraging ML/AI models for semantic matching and data normalization<br /> \r\n  * Ability to improve mastering accuracy across ingestion, merging, and rollup layers<br /> \r\n  * Hands-on experience working with large-scale data pipelines and production-grade data platforms</div> \r\n",
-    "recruiter": [
-      "Amit Rohilla",
-      "amit.r@epsilonsolutions.ca",
-      "647 9331304"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32537759",
-    "time_scraped": 1782972864606,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32537571,
-    "title": "SDET ",
-    "location": "ON, Toronto",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782943086000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:black;\"><span style=\"font-family:Cambria,serif;\"><span style=\"font-size:11.0pt;\">Job Title: SDET/ QA<br />\r\nLocation: Toronto, ON (Hybrid- 4 days/week)<br />\r\nEmployment Type: Contract</span></span></span></strong><br />\r\n <br />\r\n<strong><span style=\"color:black;\">4 days a week on site F2F interview required</span></strong><br />\r\n <br />\r\n<span style=\"color:black;\">4-6 Years</span><br />\r\n <br />\r\n<strong><span style=\"color:black;\"> Primary Skills Must Have</span></strong>\r\n<ul>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> SQL</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Strong ability to write complex queries for data validation</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Experience in database testing and backend validation</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> API Testing</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Handson experience with REST API testing Postman Pytest or similar tools</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">    Good understanding of requestresponse validation authentication and status codes</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Kafka Testing</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Experience in testing eventdriven architectures</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Ability to validate Kafka producers consumers and message flows</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> GitHub Actions CICD</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Strong experience in building and maintaining CICD pipelines</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Integration of automated test suites into CICD workflows</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Knowledge of reporting scheduling and automated triggers</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"color:black;\"> Secondary Skills</span></strong>\r\n\r\n<ul>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Playwright with Pytest Python</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Experience in UI automation using Playwright</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Understanding of Pytest framework fixtures assertions parametrization</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Ability to create and maintain automation frameworks</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> GitHub Copilot</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Experience using AIassisted coding tools</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\">Ability to accelerate test creation and improve productivity</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"color:black;\"> Roles  Responsibilities</span></strong>\r\n\r\n<ul>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Perform API database and eventdriven testing Kafka</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Develop and maintain validation scripts for backend systems</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Design and execute test cases for integration and system testing</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Build and maintain CICD pipelines using GitHub Actions</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Collaborate with QA development and DevOps teams</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Identify defects analyze issues and ensure quality delivery</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Support UI automation initiatives using Playwright as secondary focus</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Leverage GitHub Copilot for efficient test development</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"color:black;\"> Nice to Have</span></strong>\r\n\r\n<ul>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Experience with UI automation frameworks</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Knowledge of AgileScrum methodologies</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Exposure to cloud platforms AzureAWS</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Basic scriptingdebugging skills</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"color:black;\"> Expected Outcomes</span></strong>\r\n\r\n<ul>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Strong validation of backend systems and APIs</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Reliable CICDdriven testing pipelines</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Improved data integrity and event validation</span></li>\r\n\t<li role=\"presentation\"><span style=\"color:black;\"> Highquality releases with reduced defects</span></li>\r\n</ul>\r\n </div>\r\n",
-    "recruiter": [
-      "Ifrah K",
-      "ifrah.k@epsilonsolutions.ca",
-      "647 4938943"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32537571",
-    "time_scraped": 1782972864359,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32531011,
-    "title": "SAP SD Techno-Functional Consultant",
+    "id": 32542704,
+    "title": "Senior Backend Java Engineer",
     "location": "",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782855694000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783028612000
     },
     "start": {
       "start_dateStr": null,
@@ -85,293 +19,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <span style=\"color:black;\"> <span style=\"font-family:Segoe UI Emoji,sans-serif;\"> SAP SD Techno-Functional Consultant</span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Segoe UI Emoji,sans-serif;\"> 12 Months</span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Segoe UI Emoji,sans-serif;\"> Video Interview</span> </span> <br /> \r\n<span style=\"color:black;\"> <span style=\"font-family:Segoe UI Emoji,sans-serif;\"> 📍</span> </span> <span style=\"color:black;\">  <strong> Location:</strong> Montreal, QC (Hybrid)</span> <br /> \r\n<br /> \r\n<span style=\"color:black;\"> If you have suitable candidates available, please share their updated resume along with contact details, rate expectations, and availability.</span> <br /> \r\n \r\n<ul> \r\n\t<li> 10&plus; years of experience in <strong> SAP Sales & Distribution (SD)</strong></li> \r\n\t<li> Strong experience with <strong> ABAP Debugging</strong></li> \r\n\t<li> Experience in at least <strong> 1-2 SAP implementations and/or support projects</strong></li> \r\n\t<li> Strong knowledge of <strong> SAP SD integration with Logistics and Finance</strong></li> \r\n\t<li> Solid expertise in:\r\n\t<ul> \r\n\t\t<li> Sales Order Processing</li> \r\n\t\t<li> Contract Management</li> \r\n\t\t<li> Pricing & Taxes</li> \r\n\t\t<li> OTC (Order-to-Cash)</li> \r\n\t\t<li> Partner Determination</li> \r\n\t\t<li> Text Management</li> \r\n\t\t<li> Billing</li> \r\n\t\t<li> Credit Management</li> \r\n\t\t<li> Back Orders</li> \r\n\t</ul> \r\n\t</li> \r\n\t<li> Experience configuring:\r\n\t<ul> \r\n\t\t<li> Master Data</li> \r\n\t\t<li> Sales Order Types</li> \r\n\t\t<li> Delivery Documents</li> \r\n\t\t<li> Billing Documents</li> \r\n\t\t<li> Credit/Debit Memos</li> \r\n\t\t<li> Third-Party Processing</li> \r\n\t\t<li> Consignment Processing</li> \r\n\t\t<li> Intercompany Billing</li> \r\n\t\t<li> Intercompany Stock Transfers</li> \r\n\t\t<li> Availability Check</li> \r\n\t\t<li> Material Listing/Exclusion</li> \r\n\t\t<li> Rebate Processing</li> \r\n\t\t<li> Deliveries & Post Goods Issue</li> \r\n\t</ul> \r\n\t</li> \r\n\t<li> Experience with <strong> SAP TM</strong> is highly preferred.</li> \r\n</ul> \r\n <br /> \r\n <br /> \r\n<a name=\"_MailAutoSig\"> <span style=\"color:#222222;\"> Thanks & Regards</span> </a> <br /> \r\n<span style=\"color:#222222;\"> Aman Sharma</span> <br /> \r\nDirect Number:408-459-7174<br /> \r\ne-mail : <a href=\"mailto:aman.s@epsilonsolutions.ca\" target=\"_blank\"> <span style=\"color:#1155cc;\"> aman.s@epsilonsolutions.ca</span> </a> <br /> \r\n<span style=\"color:#222222;\"> Mississauga, Canada</span> <br /> \r\n <br /> \r\n </div> \r\n",
+    "remote": 100,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:11.0pt;\">Title: Senior Backend Java Engineer</span></span></span></strong><br />\r\n<strong><span style=\"color:#242424;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:11.0pt;\">Location: Remote- Canada         <br />\r\nDuration: Contract</span></span></span></strong><br />\r\n<br />\r\n <br />\r\n<br />\r\nRole Overview:<br />\r\nJob description:<br />\r\nWe are looking for senior backend engineers for a critical project, that comprises a series of new developments and enhancements for a valuable client in hospitality sector. Engineers will be working with cutting edge tech stack, collaborating closely with the Machine Learning/Intelligence team.<br />\r\n <br />\r\n<br />\r\nKey Responsibilities:<br />\r\n&bull;  Independent contributor with minimum guidance needed to navigate through the software development process.<br />\r\n&bull;  Working closely with client stakeholders on day-to-day assignments.<br />\r\n&bull;  Helping and supporting junior and new team members<br />\r\n&bull;  Obtains tasks from the project lead prepares functional and design specifications, approves them with all stakeholders.<br />\r\n&bull;  Troubleshooting and optimizing microservices<br />\r\n <br />\r\n&bull;  5&plus; years of relevant software development industry experience.<br />\r\n&bull;  Able to work on ambiguous tasks independently.<br />\r\n&bull;  Proficiency in Java backend language. Exposure to Python, NodeJS is highly valued.<br />\r\n&bull;  Strong understanding of microservices , Kubernetes and APIs and end-to-end development from developing to testing.<br />\r\n&bull;  Exposure to architectural patterns of a large, high-scale system/product, like APIs, high volume data pipelines, distributed systems, and efficient algorithms<br />\r\n&bull;  Willingness to work across the backend stack to address technical challenges anywhere in the system<br />\r\n&bull;  Hands-on working with GenAI tools, Claude Code<br />\r\n <br />\r\n <br />\r\nMandatory skills:<br />\r\n&bull;  Proficiency in Java backend language. Exposure to Python, NodeJS<br />\r\n </div>\r\n",
     "recruiter": [
-      "Chetransh Shrivas",
-      "chetransh.s@epsilonsolutions.ca",
-      "647 9330665"
+      "Hrituraj Kumar",
+      "hrituraj.k@epsilonsolutions.ca",
+      "6474987410"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32531011",
-    "time_scraped": 1782972864562,
+    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32542704",
+    "time_scraped": 1783058488328,
     "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
     "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32531005,
-    "title": "Salesforce Solution Specialist / Architect",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782855562000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <span style=\"color:black;\"> Role Salesforce Solution Specialist / Architect – New Requirement</span> <br /> \r\n<span style=\"color:black;\"> Onsite : 3 days office, 2 days WFH Toronto office</span> <br /> \r\n<span style=\"color:black;\"> 12 Months/ Full Time</span> <br /> \r\n<span style=\"color:black;\"> Video Interview</span> <br /> \r\n <br /> \r\n <br /> \r\n \r\n<ul> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Must have 6&plus; years' experience in Salesforce Architecture, working for major F500 company,</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Minimum 10X Certified with at least 2 Architect certifications</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Should have rich client experience and should have been in client facing roles.</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Must have an expert level understanding and 10&plus; years of directly working with of the Salesforce product suite, Preferably from Financial Services cloud, Sales, Service, Community/ Experience (Bare minimum 3 cloud expertise required)</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Must have an extensive experience with data migrations from third party systems to Salesforce</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Must have a proven desire to continue to grow their knowledge inside the Salesforce ecosystem</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Knowledge & Experience of Service Cloud/Amazon Connect is a big plus</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> 10&plus; years Salesforce business process design and rules configuration</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Must have an extensive knowledge with platform authentication patterns (SAML, SSO, OAuth)</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> 10&plus; years multi-tier architecture design for scalable solutions with manufacturing and billing systems</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> 8&plus; years Integration architecture and tools experience - real-time APIs and ETL - tools such as SAP PI/PO, Mulesoft and Salesforce connect;</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Expertise in full Salesforce application lifecycle development, including solutioning, planning, development, testing, environment management, release management, code versioning best practices, and deployment methodologies and operationalizing</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Must have an expert level of knowledge in configuration as well as in declarative customization and APEX development</span> </li> \r\n\t<li> <span style=\"font-family:Aptos Display,sans-serif;\"> Expertise with Salesforce and enterprise architecture best practices design - weighing balance between configuration, customization, use of managed packages, app exchange apps, accelerators, and connectors</span> </li> \r\n</ul> \r\n<span style=\"color:black;\"> <span style=\"font-family:Aptos Display,sans-serif;\"> Will take the ownership of the Solution Architecture E2E and contribute to the development</span> </span> <br /> \r\n <br /> \r\n<a name=\"_MailAutoSig\"> <span style=\"color:#222222;\"> Thanks & Regards</span> </a> <br /> \r\n<span style=\"color:#222222;\"> Aman Sharma</span> <br /> \r\nDirect Number:408-459-7174<br /> \r\ne-mail : <a href=\"mailto:aman.s@epsilonsolutions.ca\" target=\"_blank\"> <span style=\"color:#1155cc;\"> aman.s@epsilonsolutions.ca</span> </a> <br /> \r\n<span style=\"color:#222222;\"> Mississauga, Canada</span> <br /> \r\n <br /> \r\n </div> \r\n",
-    "recruiter": [
-      "Chetransh Shrivas",
-      "chetransh.s@epsilonsolutions.ca",
-      "647 9330665"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32531005",
-    "time_scraped": 1782972875273,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32531001,
-    "title": "FileMaker Developer / Support Engineer",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782855513000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span> <br />\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">FileMaker Developer / Support Engineer</span></strong><br />\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">Remote</span></strong><br />\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">12 Months</span></strong><br />\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">🔹</span> Required Skills</strong><br />\r\n<strong>Core FileMaker Skills</strong>\r\n<ul>\r\n\t<li>Strong hands-on experience with:\r\n\t<ul>\r\n\t\t<li>Claris FileMaker Pro / FileMaker Server</li>\r\n\t\t<li>Layout design (UI/UX)</li>\r\n\t\t<li>Script development</li>\r\n\t\t<li>Relational database modeling</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Integration Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience with:\r\n\t<ul>\r\n\t\t<li>REST APIs</li>\r\n\t\t<li>ODBC/JDBC connections</li>\r\n\t\t<li>JSON/XML data handling</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Database Knowledge</strong>\r\n\r\n<ul>\r\n\t<li>Solid understanding of:\r\n\t<ul>\r\n\t\t<li>RDBMS systems (SQL Server, Oracle, MySQL)</li>\r\n\t\t<li>Data modeling and performance tuning</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Support &amp; Infra Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience in:\r\n\t<ul>\r\n\t\t<li>Production support (incident/change/problem management)</li>\r\n\t\t<li>Deployment and release management</li>\r\n\t\t<li>Server configuration and administration</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n <br />\r\n <br />\r\n<strong><span style=\"font-family:Segoe UI Emoji,sans-serif;\">🔹</span> Required Skills</strong><br />\r\n<strong>Core FileMaker Skills</strong>\r\n\r\n<ul>\r\n\t<li>Strong hands-on experience with:\r\n\t<ul>\r\n\t\t<li>Claris FileMaker Pro / FileMaker Server</li>\r\n\t\t<li>Layout design (UI/UX)</li>\r\n\t\t<li>Script development</li>\r\n\t\t<li>Relational database modeling</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Integration Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience with:\r\n\t<ul>\r\n\t\t<li>REST APIs</li>\r\n\t\t<li>ODBC/JDBC connections</li>\r\n\t\t<li>JSON/XML data handling</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Database Knowledge</strong>\r\n\r\n<ul>\r\n\t<li>Solid understanding of:\r\n\t<ul>\r\n\t\t<li>RDBMS systems (SQL Server, Oracle, MySQL)</li>\r\n\t\t<li>Data modeling and performance tuning</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Support &amp; Infra Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience in:\r\n\t<ul>\r\n\t\t<li>Production support (incident/change/problem management)</li>\r\n\t\t<li>Deployment and release management</li>\r\n\t\t<li>Server configuration and administration</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n <br />\r\n <br />\r\n <br />\r\n<a name=\"_MailAutoSig\"><span style=\"color:#222222;\">Thanks &amp; Regards</span></a><br />\r\n<span style=\"color:#222222;\">Aman Sharma</span><br />\r\nDirect Number:408-459-7174<br />\r\ne-mail : <a href=\"mailto:aman.s@epsilonsolutions.ca\" target=\"_blank\"><span style=\"color:#1155cc;\">aman.s@epsilonsolutions.ca</span></a><br />\r\n<span style=\"color:#222222;\">Mississauga, Canada</span><br />\r\n <br />\r\n </div>\r\n",
-    "recruiter": [
-      "Chetransh Shrivas",
-      "chetransh.s@epsilonsolutions.ca",
-      "647 9330665"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32531001",
-    "time_scraped": 1782972875295,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32530996,
-    "title": "IAM Cybersecurity Lead",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782855393000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> IAM Cybersecurity Lead           &quot;IAM, PAM technologies and ITIL process Ori<br /> \r\n5-6 years of IAM Cybersecurity operations lead &quot;    1             Remote                             <br /> \r\n <br /> \r\n   &quot;Detail JD attached FYR<br /> \r\nIdentity and Access Management (IAM) Operations Lead is responsible for the day-to-day administration, maintenance, and governance of an organization's identity security infrastructure. They ensure that the right individuals have the correct access to technology resources at the right time, minimizing security risks while maintaining operational continuity.<br /> \r\nLead<br /> \r\n <br /> \r\n________________________________________<br /> \r\nKey Responsibilities<br /> \r\n•             Own day to day IAM operations for Client including JML, access provisioning, de provisioning, modifications, and recertification<br /> \r\n•             Ensure SLA and KPI compliance, monitor backlog, ticket aging, response quality, and drive continuous improvements<br /> \r\n•             Lead operational governance, audits, and compliance reporting aligned to Client requirements<br /> \r\n•             Prepare and present weekly/monthly service reports and lead customer service review meetings<br /> \r\n•             Act as the escalation point for critical IAM incidents and operational risks<br /> \r\n•             Drive operational discipline across ITSM processes (Incident, SR, Problem, Change)<br /> \r\n•             Build, manage, and mentor a high performance IAM operations team (onshore/offshore)<br /> \r\n________________________________________<br /> \r\nRequired Experience<br /> \r\n•             8&plus; years in IAM / Security operations with customer facing delivery experience<br /> \r\n•             Strong understanding of IAM concepts (JML, RBAC, access reviews, recertification)<br /> \r\n•             Proven experience in operations governance, KPI tracking, and stakeholder management<br /> \r\n________________________________________<br /> \r\nSuccess Measures<br /> \r\n•             SLA & KPI adherence<br /> \r\n•             Reduced backlog and operational defects<br /> \r\n•             Improved audit outcomes and customer satisfaction<br /> \r\n•             Stable, scalable IAM operations for Client<br /> \r\n <br /> \r\n <br /> \r\n<span style=\"color:#222222;\"> Thanks & Regards</span> <br /> \r\n<span style=\"color:#222222;\"> Aman Sharma</span> <br /> \r\nDirect Number:408-459-7174<br /> \r\ne-mail : <a href=\"mailto:aman.s@epsilonsolutions.ca\" target=\"_blank\"> <span style=\"color:#1155cc;\"> aman.s@epsilonsolutions.ca</span> </a> <br /> \r\nMississauga, Canada<br /> \r\n <br /> \r\n </div> \r\n",
-    "recruiter": [
-      "Chetransh Shrivas",
-      "chetransh.s@epsilonsolutions.ca",
-      "647 9330665"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32530996",
-    "time_scraped": 1782972875471,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32529589,
-    "title": "IBM Middleware Project Manager (Integration and QA",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782846799000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><b>IBM Middleware Project Manager (Integration and QA</b></div>\r\n",
-    "recruiter": [
-      "Vrinda Arora",
-      "vrinda.a@epsilonsolutions.ca",
-      "4085207136"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32529589",
-    "time_scraped": 1782972886119,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32529543,
-    "title": "IBM Middleware Project Manager (Integration and QA",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782846631000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><b>IBM Middleware Project Manager (Integration and QA)</b></div>\r\n",
-    "recruiter": [
-      "Param Singh Epsilon",
-      "ap@epsilonsolutions.ca",
-      "4377748898"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32529543",
-    "time_scraped": 1782972886280,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32529499,
-    "title": "IBM Middleware Project Manager (Integration and QA) ",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782846483000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><b>IBM Middleware Project Manager (Integration and QA) </b></div>\r\n",
-    "recruiter": [
-      "Akash Sharma",
-      "akash.sharma@epsilonsolutions.ca",
-      "6479307633"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32529499",
-    "time_scraped": 1782972886046,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32529338,
-    "title": "IBM Middleware Project Manager (Integration and QA) ",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782845997000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><b>IBM Middleware Project Manager (Integration and QA) </b></div>\r\n",
-    "recruiter": [
-      "Katyayani Rai",
-      "katyayani.r@epsilonsolutions.ca",
-      "6476605583"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32529338",
-    "time_scraped": 1782972896688,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32529321,
-    "title": "IBM Middleware Project Manager (Integration and QA) ",
-    "location": "",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782845925000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><b>IBM Middleware Project Manager (Integration and QA) </b></div>\r\n",
-    "recruiter": [
-      "Katyayani Rai",
-      "katyayani.r@epsilonsolutions.ca",
-      "6476605583"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32529321",
-    "time_scraped": 1782972896263,
-    "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32527785,
-    "title": "AZURE DATA ENGINEER + POWER BI",
+    "id": 32541699,
+    "title": "BSA WITH SQL",
     "location": "ON, TORONTO",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782836884000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783017362000
     },
     "start": {
       "start_dateStr": null,
@@ -383,28 +53,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\">ROLE: AZURE DATA ENGINEER &plus; POWER BI<br />\r\nTORONTO - HYBRID - FULLTIME</span> </span>\r\n<ul type=\"disc\">\r\n\t<li>Onsite Data Engineer, BI and delivering on business programs/intakes</li>\r\n\t<li>All our data in on cloud so working experience with MS Azure, SQL, Python and Power BI</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p><b>Tailored Job Description &ndash; Azure Data Engineer</b></p>\r\n\r\n<p aria-hidden=\"true\"> </p>\r\n\r\n<ol start=\"1\" type=\"1\">\r\n\t<li><b>Data Modelling &amp; Architecture</b></li>\r\n</ol>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<ul type=\"circle\">\r\n\t\t<li>Strong understanding of semantic models used in enterprise reporting and analytics.</li>\r\n\t\t<li>Expertise in dimensional modelling, including star and snowflake schema design.</li>\r\n\t\t<li>Practical experience implementing Slowly Changing Dimensions (SCD) Type 1 and Type 2.</li>\r\n\t\t<li>Ability to translate business requirements into scalable data models.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li> </li>\r\n</ul>\r\n\r\n<ol start=\"2\" type=\"1\">\r\n\t<li><b>Advanced Spark SQL</b></li>\r\n</ol>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<ul type=\"circle\">\r\n\t\t<li>Proficiency in Spark SQL, including complex joins, aggregations, and transformations.</li>\r\n\t\t<li>Strong command over window functions, ranking functions, and analytical queries.</li>\r\n\t\t<li>Ability to troubleshoot performance issues and optimize Spark SQL queries.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li> </li>\r\n</ul>\r\n\r\n<ol start=\"3\" type=\"1\">\r\n\t<li><b>PySpark Development</b></li>\r\n</ol>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<ul type=\"circle\">\r\n\t\t<li>Working knowledge of PySpark for data ingestion, transformation, and workflow orchestration.</li>\r\n\t\t<li>Ability to write and understand basic pyspark functions</li>\r\n\t\t<li>Basic understanding of Spark architecture, including executors, partitions, and caching.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li> </li>\r\n</ul>\r\n\r\n<ol start=\"4\" type=\"1\">\r\n\t<li><b>Data Engineering Skills</b></li>\r\n</ol>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<ul type=\"circle\">\r\n\t\t<li>Experience building ETL/ELT pipelines using Azure Databricks and load to Synapse.</li>\r\n\t\t<li>Familiarity with Delta Lake, data versioning, and ACID transactions.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li> </li>\r\n</ul>\r\n\r\n<ol start=\"5\" type=\"1\">\r\n\t<li><b>Independence &amp; Collaboration</b></li>\r\n</ol>\r\n\r\n<ul type=\"disc\">\r\n\t<li>\r\n\t<ul type=\"circle\">\r\n\t\t<li>Ability to work independently with minimal oversight.</li>\r\n\t\t<li>Strong communication skills to collaborate with cross-functional teams and business stakeholders.</li>\r\n\t\t<li>Proactive in identifying issues and proposing data-driven solutions.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n</div>\r\n",
+    "description": "<p data-olk-copy-source=\"MessageBody\">BSA with SQL (very Strong )</p>\r\n\r\n<p>Location : Toronto // Hybrid (4days week)</p>\r\n\r\n<p> </p>\r\n\r\n<p>Job Description -</p>\r\n\r\n<p> </p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>Experience with Credit / Capital Calculation Engines / QRM / Market risk technology implementation.</li>\r\n\t<li>Familiarity with Axiom for capital reporting</li>\r\n\t<li>3&plus; years of experience in capital management technology, treasury systems, or related financial services roles</li>\r\n\t<li>Translate capital management business rules and data into detailed technology requirements, mappings, and controls, including requirement traceability matrices.</li>\r\n\t<li>Proficiency in creating data/process flows and maintaining governance artifacts.</li>\r\n\t<li>Solid foundational understanding of financial products</li>\r\n\t<li>Experience &amp; proven ability to translate business rules into technology requirements and maintain traceability.</li>\r\n\t<li>Strong experience with SQL and data analysis across large datasets.</li>\r\n\t<li>Author user stories and acceptance criteria using JIRA and Confluence.</li>\r\n\t<li>Develop and maintain data lineage, catalogs, and control documentation to ensure transparency, compliance, and audit readiness.</li>\r\n\t<li>Prepare test cases and plans; lead triage and QA activities to validate data and system integrity.</li>\r\n\t<li>Conduct data discovery and profiling for critical capital data sources to ensure completeness, accuracy, and quality.</li>\r\n\t<li>Perform hands-on work with data platforms, integration processes, and testing methodologies.</li>\r\n\t<li>Create data and process flows using Visio, Confluence, and similar tools.</li>\r\n\t<li>Utilize SQL for analysis across large datasets and demonstrate understanding of big-data concepts.</li>\r\n\t<li>Maintain a strong foundational understanding of financial products and their impact on capital management.</li>\r\n</ul>\r\n",
     "recruiter": [
       "Dheeraj Sisodiya",
       "dheeraj.s@epsilonsolutions.ca",
       "6479305986"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32527785",
-    "time_scraped": 1782972896652,
+    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32541699",
+    "time_scraped": 1783058488513,
     "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
     "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32527743,
-    "title": "POWER BI DEVELOPER",
-    "location": "ON, TORONTO",
+    "id": 32541624,
+    "title": "FULL STACK DEVELOPER",
+    "location": "ON, TORONTO/CALGARY",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782836580000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783017176000
     },
     "start": {
       "start_dateStr": null,
@@ -415,15 +85,15 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<div>Role: Power BI Developer<br />\r\nToronto - Fulltime - Hybrid (4days/wk)<br />\r\n<br />\r\n<br />\r\nMandatory Skills: Microsoft Power BI .<br />\r\nExperience: 8-10 Years .<br />\r\n<br />\r\n<b>Job Description</b><br />\r\nRole Summary:<br />\r\nThis role focused on delivering end‐to‐end reporting and analytics solutions. The successful candidate will be highly hands‐on, with strong coding and visualization skills, and will work closely with business stakeholders to translate business questions into clear metrics, dashboards, and reporting solutions.<br />\r\nThe role combines technical execution with business analysis responsibilities, owning the full lifecycle from requirements gathering through build, validation, iteration, and handoff. This is a delivery‐oriented role with defined timelines and clear outcomes.<br />\r\ntechnical skills:<br />\r\n* PowerBI<br />\r\n* Tableau<br />\r\n* Python<br />\r\n* Sql<br />\r\n* co-pilot (nice to have)<br />\r\nJob Description (Key Responsibilities):\r\n<ul>\r\n\t<li>Design, build, and maintain end‐to‐end reporting solutions, including data extraction, transformation, modeling, and visualization.</li>\r\n\t<li>Own report/dashboard development lifecycle: requirements &rarr; build &rarr; validation &rarr; iteration &rarr; handoff/support.</li>\r\n\t<li>Translate loosely defined business questions into clear metrics, KPIs, and reporting logic.</li>\r\n\t<li>Collaborate with business stakeholders to align definitions, assumptions, and interpretations of externally sourced data.</li>\r\n\t<li>Clearly explain data limitations, transformations, and lineage to non‐technical stakeholders to build trust in reporting outputs.</li>\r\n\t<li>Act as a bridge between business and technical teams, ensuring solutions are usable, trusted, and actionable.</li>\r\n\t<li>Proactively challenge requirements and propose simpler or more scalable reporting approaches.</li>\r\n\t<li>Build high‐quality dashboards and reports using tools such as Power BI, Tableau, or similar platforms.</li>\r\n\t<li>Apply best practices in data modeling, dashboard design, and performance optimization.</li>\r\n\t<li>Enable business users to confidently self‐serve insights through well‐designed and well‐documented reports.</li>\r\n\t<li>Understanding source system structures, field definitions, and delivery formats.</li>\r\n\t<li>Perform data mapping between external data sources and internal data models, ensuring consistency and correctness of metrics.</li>\r\n\t<li>Define and document data lineage, including source‐to‐target mappings, transformations, and calculation logic used in reporting.</li>\r\n\t<li>Validate external data against business expectations and internal reference data, identifying gaps, anomalies, and quality issues.</li>\r\n\t<li>Partner with internal data engineering, platform, and business teams to resolve data discrepancies and clarify ownership and definitions.</li>\r\n\t<li>Produce clear documentation to support auditability, explainability, and ongoing maintenance of reporting solutions.</li>\r\n\t<li>Job Requirements:</li>\r\n\t<li>3&plus; years of hands‐on experience with:\r\n\t<ul>\r\n\t\t<li>SQL (complex queries, joins, window functions, performance optimization)</li>\r\n\t\t<li>Python (Pandas, NumPy) for data transformation, analysis, and reporting workflows</li>\r\n\t\t<li>PySpark or distributed data processing frameworks</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>3&plus; years of experience building dashboards and reports using Power BI, Tableau, or similar BI tools, including:\r\n\t<ul>\r\n\t\t<li>Data modeling</li>\r\n\t\t<li>Calculated measures (e.g., DAX or equivalent)</li>\r\n\t\t<li>Dashboard performance optimization</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Strong experience working directly with business stakeholders to define requirements and deliver reporting solutions.</li>\r\n</ul>\r\n</div>\r\n",
+    "remote": 50,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> ROLE: FULL STACK DEVELOPER<br />\r\nTORONTO/CALGARY - HYBRID - FULLTIME</span></span><br />\r\n \r\n<p><b>FullStack JD:</b> </p>\r\n\r\n<p>As a Full Stack Tech Lead <b>(75% Java and 25% Angular), </b>you should have / are responsible for</p>\r\n\r\n<p><br />\r\n&bull; <b>Deep work experience with Java, Spring Boot, Mysql, AWS.</b></p>\r\n\r\n<p>&bull; <b>Smart development using Github-Copilot for increased productivity and efficient usage of tokens.</b></p>\r\n\r\n<p>&bull; In-depth knowledge of APIs and microservices.</p>\r\n\r\n<p>&bull; Able to work with Product owner and business user to understand requirement, perform requirement elicitation and write solution design document.<br />\r\n&bull; Should have hands-on experience in <b>Angular 18 or above</b><br />\r\n&bull; Communicate in a bold and persuasive way at all levels to many different audiences<br />\r\n&bull; significant experience in tech/software development and technical leadership<br />\r\n&bull; Developing high-quality and detailed designs.<br />\r\n&bull; Conducting unit testing using automated unit test frameworks.<br />\r\n&bull; Identifying risk and conducting mitigation action planning.<br />\r\n&bull; Reviewing the work of other developers and providing feedback.<br />\r\n&bull; Using coding standards and best practices to ensure quality.</p>\r\n</div>\r\n",
     "recruiter": [
-      "Dheeraj Sisodiya",
-      "dheeraj.s@epsilonsolutions.ca",
-      "6479305986"
+      "Sayani Basu",
+      "sayani.b@epsilonsolutions.ca",
+      "6476736705"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32527743",
-    "time_scraped": 1782972908428,
+    "url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google&SearchString=#/jobs/32541624",
+    "time_scraped": 1783058488335,
     "source_company": "5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9",
     "source_url": "https://www1.jobdiva.com/portal/?a=5mjdnwi5zkkk7cecxl4lu5ee51z9s10900w0jam2t39wvutkni8uolk0rqrqwxb9&jobid=30137039&source=google",
     "date_cutoff_days": 15

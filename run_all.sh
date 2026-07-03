@@ -11,10 +11,9 @@ echo "================================"
 cd /root/contractly
 source venv/bin/activate
 
-
-export ANTHROPIC_API_KEY="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"
-
-
+set -a
+source /root/contractly/.env
+set +a
 
 SCRIPTS=(
 	"source venv/bin/activate"

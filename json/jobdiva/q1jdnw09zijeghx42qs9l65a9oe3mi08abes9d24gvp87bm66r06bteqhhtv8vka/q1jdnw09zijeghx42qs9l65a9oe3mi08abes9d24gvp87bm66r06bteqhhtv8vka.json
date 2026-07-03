@@ -1,212 +1,14 @@
 [
   {
-    "id": 32536346,
-    "title": "Senior Data & AI Solutions Architect",
-    "location": "CT, New Haven",
-    "experience": {
-      "experience": 11
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782935927000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<div>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"763\">\r\n\t<tbody>\r\n\t\t<tr height=\"25\">\r\n\t\t\t<td height=\"125\" rowspan=\"5\" width=\"763\">Overview<br />\r\n\t\t\tThe Senior Data & AI Solutions Architect is a strategic, hands-on technical expert responsible for designing and delivering enterprise data and artificial intelligence solutions across the core business lines of Life Insurance, Investments, Membership and Charities.  This is a senior level individual contributor role who will be responsible for operating as a domain authority and trusted technical partner driving outcomes through influence, collaboration, and deep expertise.<br />\r\n\t\t\t <br />\r\n\t\t\tReporting directly to the Director of Applied AI & Data Science, this role partners closely with business leaders, data analysts, data movement engineers, infrastructure teams, and peer architects to translate business needs into architectures that are secure, governed, and built to scale. The Senior Data & AI Solutions Architect plays a critical role in continuing to modernize the data landscape including bridging legacy mainframe and DB2 platforms with a cloud and AI enabled ecosystem that includes Snowflake, PostgreSQL, Talend, Microsoft Copilot, Snowflake Cortex, and enterprise large language models. This foundation is essential to enabling Deep Research LLM and agentic AI capabilities across the organization.<br />\r\n\t\t\t<br />\r\n\t\t\tCore Responsibilities<br />\r\n\t\t\t• Define and govern enterprise Data & AI architecture across legacy, cloud, and AI native platforms<br />\r\n\t\t\t• Architect hybrid data integration across mainframe, DB2, Snowflake, Postgres, Talend, and event streaming<br />\r\n\t\t\t• Design and deliver LLM and agentic AI solutions using Snowflake Cortex, Azure AI Foundry, Azure OpenAI Service, Copilot Studio, and orchestration frameworks<br />\r\n\t\t\t• Establish RAG, vector database, and embedding strategies for enterprise research and analytics<br />\r\n\t\t\t• Coordinate the continual modernization of ETL and Lakehouse architecture<br />\r\n\t\t\t• Enable Snowflake governance: RBAC, dynamic masking, row level security, encryption<br />\r\n\t\t\t• Ensure compliance with OSFI, SOX, NAIC, PIPEDA/GDPR, SEC/state insurance regulations<br />\r\n\t\t\t• Partner with business, risk, compliance, legal, IT, Information Security and vendors as the lead technical advisor<br />\r\n\t\t\t<br />\r\n\t\t\tSkills Qualifications<br />\r\n\t\t\tRequired:<br />\r\n\t\t\t• 3&plus; years hands on Snowflake experience (Snowpark, Cortex, data sharing)<br />\r\n\t\t\t• 3&plus; years delivering production LLM / GenAI solutions (RAG, agents, fine tuning)<br />\r\n\t\t\t• Proven legacy to cloud migration experience involving IBM DB2 or equivalent<br />\r\n\t\t\t• Experience with Talend, modern data integration, and real time ingestion<br />\r\n\t\t\t• Knowledge of relational (e.g., PostgreSQL), NoSQL, NewSQL, and vector/LLM databases<br />\r\n\t\t\t• Demonstrated experience with legacy-to-cloud data migration involving IBM DB2 or equivalent mainframe/relational systems<br />\r\n\t\t\t• Proven delivery of agentic AI systems or multi-model orchestration pipelines in enterprise environments<br />\r\n\t\t\t<br />\r\n\t\t\tEducation<br />\r\n\t\t\tRequired:<br />\r\n\t\t\t• 12&plus; years in data architecture, data engineering, or enterprise architecture<br />\r\n\t\t\t• 5&plus; years in financial services (life insurance, annuities, investments preferred)</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n",
-    "recruiter": [
-      "Toukeer Ahmad",
-      "Toukeer.A@nrconsulting.com",
-      "7207411749"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32536346",
-    "time_scraped": 1782975973416,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32536330,
-    "title": "Director of Applied AI & Data Science",
-    "location": "CT, New Haven",
-    "experience": {
-      "experience": 8
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782935861000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<div>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"763\">\r\n\t<tbody>\r\n\t\t<tr height=\"25\">\r\n\t\t\t<td height=\"125\" rowspan=\"5\" width=\"763\">\r\n\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"763\">\r\n\t\t\t\t<tbody>\r\n\t\t\t\t\t<tr height=\"25\">\r\n\t\t\t\t\t\t<td height=\"125\" rowspan=\"5\" width=\"763\">Overview<br />\r\n\t\t\t\t\t\tThe Director of Applied AI & Data Science is a senior technical leader responsible for designing, engineering and operationalizing production grade AI solutions across Life Insurance, Investments, Membership, and Charities. This role focuses on building scalable and reliable AI systems, including machine learning and generative AI (LLM) capabilities, within a governed enterprise data and AI ecosystem.<br />\r\n\t\t\t\t\t\t <br />\r\n\t\t\t\t\t\tThis role provides technical leadership and oversight for the Senior Applied AI & Data Scientist, Applied AI & Data Scientist, and Senior Data & AI Solutions Architect. The Director of Applied AI & Data Science ensures solutions are production-ready, resilient, cost-effective, and aligned to responsible AI and regulatory standards.<br />\r\n\t\t\t\t\t\t<br />\r\n\t\t\t\t\t\tCore Responsibilities<br />\r\n\t\t\t\t\t\t• Develop and deploy advanced statistical, machine learning, and AI models supporting insurance, actuarial, claims, and investment decision making<br />\r\n\t\t\t\t\t\t• Design and deliver LLM enabled analytics and Deep Research solutions, including RAG based approaches over structured and unstructured data<br />\r\n\t\t\t\t\t\t• Perform hands on data analysis, feature engineering, and model development using enterprise platforms (Snowflake, PostgreSQL, DB2)<br />\r\n\t\t\t\t\t\t• Define model success metrics, validation approaches, and explainability standards aligned to business and regulatory expectations<br />\r\n\t\t\t\t\t\t• Partner with data engineers and architects to produce models, establish monitoring, and manage model lifecycle and drift<br />\r\n\t\t\t\t\t\t• Apply responsible AI practices including bias assessment, transparency, and documentation for audit and compliance review<br />\r\n\t\t\t\t\t\t• Communicate analytical insights and model outcomes clearly to business leaders and technical stakeholders<br />\r\n\t\t\t\t\t\t• Collaborate across analytics, engineering, risk, and compliance teams to ensure scalable, governed AI and analytics delivery<br />\r\n\t\t\t\t\t\t<br />\r\n\t\t\t\t\t\tSkills Qualifications<br />\r\n\t\t\t\t\t\tRequired:<br />\r\n\t\t\t\t\t\t• Strong experience with Python and SQL and production system development.<br />\r\n\t\t\t\t\t\t• Experience with Snowflake and relational databases such as PostgreSQL.<br />\r\n\t\t\t\t\t\t• Experience with API development, pipelines, and system integration.<br />\r\n\t\t\t\t\t\t• Experience with monitoring, CI/CD, and operational lifecycle management of AI systems.<br />\r\n\t\t\t\t\t\t• Proven ability to lead technical teams and deliver complex solutions.<br />\r\n\t\t\t\t\t\t<br />\r\n\t\t\t\t\t\tPreferred:<br />\r\n\t\t\t\t\t\t• Experience in financial services or other regulated industries.<br />\r\n\t\t\t\t\t\t• Experience with DB2 or legacy-to-cloud data migration.<br />\r\n\t\t\t\t\t\t<br />\r\n\t\t\t\t\t\tEducation<br />\r\n\t\t\t\t\t\tRequired:<br />\r\n\t\t\t\t\t\t• 8&plus; years of experience in software engineering, data engineering, or ML engineering.<br />\r\n\t\t\t\t\t\t• 3&plus; years delivering production AI/ML and/or GenAI solutions (RAG, agents, or similar)</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr height=\"25\">\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr height=\"25\">\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr height=\"25\">\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr height=\"25\">\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</tbody>\r\n\t\t\t</table>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n",
-    "recruiter": [
-      "Toukeer Ahmad",
-      "Toukeer.A@nrconsulting.com",
-      "7207411749"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32536330",
-    "time_scraped": 1782975973365,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32536309,
-    "title": "Financial Specialist",
-    "location": "CT, New Haven",
-    "experience": {
-      "experience": 3
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782935776000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"763\">\r\n\t<tbody>\r\n\t\t<tr height=\"25\">\r\n\t\t\t<td height=\"125\" rowspan=\"5\" width=\"763\">Overview<br />\r\n\t\t\tConducts financial analysis and reporting to support insurance operations, nonprofit organizations, and investment management entities. Responsibilities include expense planning, forecasting, and monitoring through analysis of financial results, identification of key variance drivers, and preparation of recurring reports for stakeholders. Partners with Finance, Accounting, and internal and external teams investigate expense activity, address inquiries, and support annual budgeting and forecasting processes within a dynamic systems environment.<br />\r\n\t\t\t<br />\r\n\t\t\tCore Responsibilities<br />\r\n\t\t\t• Collaborate closely with the Associate Director to offer comprehensive support for expense management, budget, forecasting, and other critical financial planning activities.<br />\r\n\t\t\t• Perform monthly and quarterly variance analysis on assigned expense lines, identifying key drivers of fluctuations and summarizing findings for management reporting.<br />\r\n\t\t\t• Support the development of annual budgets and periodic forecasts by analyzing trends, validating assumptions with business partners, and updating financial models.<br />\r\n\t\t\t• Collaborate with internal departments to research and resolve expense-related questions, providing clear explanations, and improving understanding of financial results.<br />\r\n\t\t\t• Work with stakeholders to identify and support accruals, including reviewing large or unusual transactions to ensure expenses are recorded in the proper period.<br />\r\n\t\t\t• Extract, analyze, and maintain financial data using applications tools such as SAP and Excel; assist in improving reporting processes and data accuracy as part of ongoing system enhancements.<br />\r\n\t\t\t• Respond to ad hoc requests and participate in projects aimed at improving financial processes, reporting efficiency, and overall expense management.<br />\r\n\t\t\t• Other duties assigned as required by business needs.<br />\r\n\t\t\t<br />\r\n\t\t\tSkills Qualifications<br />\r\n\t\t\tRequired:<br />\r\n\t\t\t• Strong attention to detail with a high level of accuracy in financial analysis and reporting<br />\r\n\t\t\t• Solid analytical and financial modeling skills with the ability to interpret and explain results<br />\r\n\t\t\t• Effective organizational skills with the ability to manage multiple priorities and deadlines<br />\r\n\t\t\t• Strong written and verbal communication skills, including the ability to clearly present financial information and recommendations<br />\r\n\t\t\t• Proven interpersonal skills and ability to work collaboratively across various internal and external stakeholders<br />\r\n\t\t\t• Strong problem-solving skills with the ability to investigate and resolve variances and discrepancies<br />\r\n\t\t\t <br />\r\n\t\t\tSystems/Technical Knowledge:<br />\r\n\t\t\t• Proficiency in Microsoft Office Products, including intermediate to advanced Excel (e.g., data analysis, formulas, pivot tables); Word and PowerPoint<br />\r\n\t\t\t• Experience with large-scale ERP systems (e.g., SAP or similar) preferred<br />\r\n\t\t\t• Working knowledge of applications, supporting data, and maintenance.<br />\r\n\t\t\t<br />\r\n\t\t\tEducation<br />\r\n\t\t\tRequired:<br />\r\n\t\t\t• BS in Accounting or Finance<br />\r\n\t\t\t• 3-5 years insurance industry experience or equivalent combination of training and experience.</td>\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t\t<tr height=\"25\">\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n",
-    "recruiter": [
-      "Toukeer Ahmad",
-      "Toukeer.A@nrconsulting.com",
-      "7207411749"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32536309",
-    "time_scraped": 1782975973616,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32531602,
-    "title": "Storekeeper",
-    "location": "TX, Odessa",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782871342000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">Job Title: Storekeeper</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">Location: </span></span></strong><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">Odessa TX </span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">Duration: 06&plus; Months </span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">Pay rate: $20/hr – $23.00/hr on W2 without benefits (DOE)</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">Shift: </span></span></strong>\r\n\r\n<ul>\r\n\t<li><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">Day shift: 7 AM–7 PM</span></span></strong></li>\r\n\t<li><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:14.0pt\">11 days on / 3 days off, every other Fri/Sat/Sun</span></span></strong></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary:</span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">What you will do:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Maintain accurate inventory records for raw materials, WIP, and finished goods in Oracle</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Perform daily inventory transactions including receipts, transfers, adjustments, and material consumption</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Execute cycle counts and support physical inventory audits; investigate discrepancies and implement corrective actions</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Receive incoming materials; verify quantities and condition against purchase orders and packing slips</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Process system receipts accurately and ensure timely inventory updates</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Prepare, verify, and process outbound shipments including picking, packing, labeling, and documentation</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure all shipping documentation (BOLs, packing lists, labels) is accurate, complete, and compliant</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Track and resolve shipping and receiving discrepancies in a timely manner</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Review and validate all inbound and outbound transactions for accuracy and proper system entry</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Support production scheduling by ensuring material availability and staging requirements are met</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure compliance with company policies, SOX/internal controls, and all safety and regulatory standards</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Maintain organized, clean, and safe storage areas in alignment with 5S principles</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Identify and implement continuous improvement opportunities in inventory and warehouse processes</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Train and support team members on inventory procedures, system transactions, and best practices</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Minimum Qualifications:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">1 years of experience in inventory control and supply chain</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Immigration sponsorship not offered for this role</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Accuracy and Attention to detail</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Strong proficiency with all Microsoft Office applications and SAP</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Interact politely and professionally with customers and/or coworkers</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ability to work under general supervision</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Effectively present information and respond to questions</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Intermediate verbal and written communication skills</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Action oriented for delivering results</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Customer first mindset</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Successful planning, priority setting, informing, results and time management skills.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Excellent verbal and written communication skills</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Excellent customer service skills including the ability to explain and train</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ability to interact politely and professionally with customers and/or coworkers</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Physical Demands:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Role is deemed safety-sensitive and may be subject to employer or customer drug testing.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Exerting up to 50 pounds of force occasionally and/or up to 20 pounds of force frequently, and/or up to 10 pounds of force constantly to move objects.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Climbing:  Ascending or descending ladders, stairs, scaffolding, ramps, poles, and the like, using feet and legs and/or hands and arms. Body agility is emphasized.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Balancing:  Maintaining body equilibrium to prevent falling when walking, standing, or crouching on narrow, slippery, or erratically moving surfaces.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Stooping:  Bending body downward and forward by bending spine at the waist. This factor is important if it occurs to a considerable degree and requires full use of the lower extremities and back muscles.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Kneeling:  Bending legs at knee to come to a rest on knees.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Crouching:  Bending the body downward and forward by bending leg and spine.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Crawling:  Moving about on hands and knees or hands and feet.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Reaching:  Extending hand(s) and arm(s) in any direction.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Walking:  Moving about on foot to accomplish tasks, particularly for long distances or moving from one work site to another.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Pushing:  Using upper extremities to press against something with steady force in order to thrust forward, downward, or outward.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Pulling:  Using upper extremities to exert force in order to draw, drag, haul, or tug objects in a sustained motion.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Lifting:  Raising objects from a lower to a higher position or moving objects horizontally from position to position.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Fingering:  Picking, pinching, typing, or otherwise working, primarily with fingers rather than the whole hand or arm as in handling.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Grasping:  Applying pressure to an object with the fingers and palm.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Feeling:  Perceiving attributes of objects, such as size, shape, temperature, or texture by touching with skin, particularly that of fingertips.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Talking:  Expressing or exchanging ideas by means of the spoken word.  Those activities in which they must convey detailed or important spoken instructions to customer or other workers accurately, loudly, or quickly.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hearing:  Perceiving the nature of sounds at normal speaking levels with or without correction.  Ability to receive detailed information through oral communication, and to make the discriminations in sound.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Repetitive motion:  Substantial movement (motions) of the wrists, hands, and/or fingers to use a computer.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The employee is required to have close visual acuity to perform an activity such as: visual inspection involving small defects, small parts and/or operation of machines (including inspection), using measurement devices, and/or assembly or fabrication of parts at distances close to the eyes.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The employee is required to have visual acuity to operate motor vehicles.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">The employee is required to have visual acuity to determine the accuracy, neatness, thoroughness of work assigned or to make general observations of facilities or structures.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Indoor and outdoor environmental conditions.  Activities occur indoors and outdoors.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Extreme heat.  Temperatures above 100 degrees for periods of more than one hour.  Consideration should be given to the effect of other environmental conditions, such as wind and humidity.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Hazards.  Includes a variety of physical conditions, such as proximity to moving mechanical parts, moving vehicles, electrical current or exposure to chemicals.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Atmospheric conditions.  One or more of the following conditions that affect the respiratory system or the skin:  fumes, odors, dust, mists, gases, or poor ventilation.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Oils. There is air and/or skin exposure to oils and other cutting fluids.</span></li>\r\n</ul>\r\n <br />\r\n ",
-    "recruiter": [
-      "Prachi Negi",
-      "Prachi.N@nrconsulting.com",
-      "3074635385"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32531602",
-    "time_scraped": 1782975985932,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32531600,
-    "title": "Laboratory Technician",
-    "location": "TX, Odessa",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782871314000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Job Title: Laboratory Technician</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Location: </span></span></strong><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Odessa TX 79765</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Duration: 06&plus; Months </span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Shift: </span></span></strong><strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Monday - Friday 8AM - 5PM</span></span></strong><br />\r\n<strong><span style=\"font-family:calibri,sans-serif\"><span style=\"font-size:12.0pt\">Pay Rate: $20.00/hr - $25.00/hr on W2 without benefits  </span></span></strong><br />\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Summary:</span></strong><br />\r\n<span style=\"font-family:calibri,sans-serif\">The Laboratory Technician is responsible for delivering safe, efficient, and reliable results to customers. The Laboratory Technician performs limited routine laboratory tasks with moderate supervision. This person will run oil field samples, learns basic troubleshooting of equipment (if applicable), use and maneuver through lab software (LIMS), and be detail oriented when entering lab data.</span><br />\r\n \r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Demonstrate ability to work as an integral member of the team.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure job deliverables are accurate and delivered on time.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Ensure that laboratory equipment is in clean, working condition and that waste is regularly disposed of.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Maintain standard turnaround times and follow standard operating procedures (SOPs).</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Participate in HSE and Quality initiatives. </span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Wear PPE and observe HSE policies.</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Maintain the required safety training.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:calibri,sans-serif\">Qualifications:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">High school diploma or equivalent</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">1-2 years of relevant work experience</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Able to lift 50lbs (Occasionally)</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Basic Microsoft Office exp</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Good written and verbal communication</span></li>\r\n\t<li><span style=\"font-family:calibri,sans-serif\">Able to work as a team player</span></li>\r\n</ul>\r\n <br />\r\n ",
-    "recruiter": [
-      "Salim Chauhan",
-      "Salim.C@nrconsulting.com",
-      "7207411634"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32531600",
-    "time_scraped": 1782975985966,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32530878,
-    "title": "Storekeeper",
-    "location": "TX, Rosharon",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782854503000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Job Title: Storekeeper</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Location: Rosharon, TX, 77583</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Duration: 12&plus; Months </span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Pay rate: $20/hr – $23.00/hr on W2 without benefits</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Shift: 6:30 AM - 3:00 PM</span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Summary:</span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> The Storekeeper is responsible to execute product and material handling and movement within the warehouse in compliance with established policies, procedures, and standards. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> They inspect and accept incoming shipments against supplier packing lists, ensuring items have been received in a satisfactory state. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> They complete material fulfilment upon Division request. Key Indicators? Housekeeping in warehouse and goods shipping/receiving area </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Comply with applicable company policies including, but not limited to, personnel and QHSE. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform inspecting, labelling, receiving, storing, picking, packing, issuing, disposal and cycle counting of inventory items. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Accept supplier deliveries, checking that actual item received are in suitable condition and match the packing list and/or purchase order and report discrepancies in a timely manner. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Ensure outgoing inventory items are suitably packed and issued with correct and complete documentation. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Improve efficiency and safety by optimizing warehouse bin locations. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Maintain a high level of housekeeping within the warehouse and shipping/receiving areas. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform inventory cycle counting and support periodic physical counts. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform tasks associated with Kitting and Kanban point-of-use replenishment and other materials management initiatives as directed by the Supervisor. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Investigate and resolve local inventory and warehouse issues as requested by the Supervisor. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Ensure compliance with established policies, procedures, and standards. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Operate a forklift or other materials handling equipment upon completion of training and certification. </span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform other duties as assigned.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Key Requirements</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Housekeeping in warehouse and goods shipping/receiving area.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Must be able to lift and carry items weighing up to 70 lbs.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Must be able to obtain an ATF clearance to work with explosives.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Comply with ATF requirements for record keeping as pertaining to explosive inventory accuracy.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Comply with applicable company policies including, but not limited to, personnel and QHSE.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform inspecting, labelling, receiving, storing, picking, packing, issuing, disposal and cycle counting of inventory items.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Accept supplier deliveries, checking that actual item received are in suitable condition and match the packing list and/or purchase order and report discrepancies in a timely manner.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Ensure outgoing inventory items are suitably packed and issued with correct and complete documentation.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Improve efficiency and safety by optimizing warehouse bin locations.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Maintain a high level of housekeeping within the warehouse and shipping/receiving areas.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform inventory cycle counting and support periodic physical counts.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform tasks associated with Kitting and Kanban point-of-use replenishment and other materials management initiatives as directed by the Supervisor.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Investigate and resolve local inventory and warehouse issues as requested by the Supervisor.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Ensure compliance with established policies, procedures, and standards.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Operate a forklift or other materials handling equipment upon completion of training and certification.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Perform other duties as assigned.</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Must be punctual, flexible, and a self-starter.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Warehouse knowledge, forklift experience, and SAP experience are preferred.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Warehouse is not fully air conditioned; working outdoors about 75% of the time.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Education: Minimum high school diploma or GED</span> </li> \r\n</ul> \r\n",
-    "recruiter": [
-      "Prachi Negi",
-      "Prachi.N@nrconsulting.com",
-      "3074635385"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32530878",
-    "time_scraped": 1782975985996,
-    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
-    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32526669,
+    "id": 32542687,
     "title": "Cementing Bulk Plant Operator",
-    "location": "TX, Midland",
+    "location": "OK, El Reno",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782830508000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783028173000
     },
     "start": {
       "start_dateStr": null,
@@ -218,28 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p><b>Job Title: Cementing Bulk Plant Operator</b></p>\r\n\r\n<p><b>Location: </b><b>Midland TX 79706</b></p>\r\n\r\n<p><b>Duration: 06+ Months </b></p>\r\n\r\n<p><b>Pay rate: $21/Hour- $23/Hour on W2 without benefits</b></p>\r\n\r\n<p><b>Rotation: 15/6</b></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><b>Summary:</b></p>\r\n\r\n<p>The Bulk Plant Operator is responsible for delivering safe, efficient, and reliable product and service delivery (PSD) to customers. The Bulk Plant Operator identifies opportunities to improve service delivery, implements standard work (SW), and manages risk during service delivery. This person manages bulk plant facilities to facilitate delivery of prepared products and bulk materials to wellsites, maintaining excellent quality control (QC) in accordance with company policies and procedures. The Bulk Plant Operator assists in training other Operators and trainees. This person ensures compliance with governmental regulations and industry standards, and reduces environmental impacts through observing Health, Safety, and Environment (HSE) policies. * Ensure job deliverables are accurate and delivered on time. * Blend and mix bulk products for delivery to the wellsite, on time, according to the job program design. * Check and/or calculate quantities of material blends required prior to loading. * Follow Product Line (PL) quality assurance procedures to ensure proper loading. * Coordinate movement of bulk products to and from locations with the PSD and Logistics Team. * Assist in conducting monthly inventory and daily paperwork completion for goods received and shipped. * Label and store additives in a safe manner and ensure the disposal of empty drums and pails. * Maintain bulk plant equipment by performing a daily check while ensuring the bulk plant is kept clean. * Participate in job risk analysis and continuous improvement programs. * Wear PPE and observe HSE policies.</p>\r\n",
+    "description": "<p><strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:14.0pt;\">Shift: </span></span></strong><strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:14.0pt;\">15*6</span></span></strong><br />\r\n <br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Summary:</span></strong> <br />\r\n<span style=\"font-family:Calibri,sans-serif;\">The Equipment Operator is responsible for delivering safe, efficient, and reliable PSD to customers. The Equipment Operator identifies opportunities to improve service delivery, and assists field and maintenance crews with preparing equipment for operations. * Ensure job deliverables are accurate and delivered on time. * Participate in pre-job and Toolbox meetings with crew members. * Maintain good, safe working order of equipment according to standards, reporting problems or deviations. * Ensure individual and crew work safety. * Prepare equipment for rig up and rig down times. * Operate the equipment according to competency level and job requirement. * Wear PPE and observe HSE policies. * Maintain the required safety training.</span></p>\r\n",
     "recruiter": [
-      "Muskan Patne",
-      "Muskan.p@nrconsulting.com",
-      "3072563908"
+      "Amritesh Rai",
+      "Amritesh.R@nrconsulting.com",
+      "3074566357"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32526669",
-    "time_scraped": 1782975993394,
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32542687",
+    "time_scraped": 1783059995346,
     "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
     "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32526293,
-    "title": "Customer Service Representative",
-    "location": "TX, Rosharon",
+    "id": 32542683,
+    "title": "Cementing Bulk Plant Operator",
+    "location": "NY, Horseheads",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782827505000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783028022000
     },
     "start": {
       "start_dateStr": null,
@@ -251,14 +53,179 @@
     },
     "salary": null,
     "remote": 0,
-    "description": " <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Job Title: Customer Service Representative</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Location: Rosharon, TX, 77583</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Duration: 12&plus; Months </span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Pay rate: $20.00/hr – $26.00/hr on W2 without benefits</span> </span> </strong><br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Shift: </span> </span> </strong><strong> <span style=\"font-family:calibri,sans-serif\"> <span style=\"font-size:14.0pt\"> Monday - Friday 8AM- 5PM Hybrid 3 days in office.</span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Summary:</span> </strong>\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> The Customer Service Representative is responsible for providing and maintaining updated information for customers.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Perform administrative functions supporting customer service functions and sales order entries.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Provide monthly status of open orders and follow up with customers and Production.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Maintain record of asset delivery progress and invoicing.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Interact with Production, Buyer and Planner for follow-up of customer orders.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Resolve licensing issues received from customers and record in support database.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Maintain and improve the integrity of the data in the SAP database.</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Use the guiding principles and tools of the Manufacturing System to drive continuous improvement, wherever applicable.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:calibri,sans-serif\"> Experience</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Candidate will work as Customer Service Rep in Explosive Manufacturing Department, taking internal calls from Oil & Gas Customers. Preparing orders from shipment</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Understanding of ERP Systems</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> 1-3 years of working in SAP</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Associate Degree</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Office Skills</span> </li> \r\n\t<li> <span style=\"font-family:calibri,sans-serif\"> Ability to work independently</span> </li> \r\n</ul> \r\n <br /> \r\n ",
+    "description": "<p><strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:14.0pt;\">Shift: </span></span></strong><strong><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:14.0pt;\">15*6</span></span></strong><br />\r\n <br />\r\n<strong><span style=\"font-family:Calibri,sans-serif;\">Summary:</span></strong> <br />\r\n<span style=\"font-family:Calibri,sans-serif;\">The Bulk Plant Operator is responsible for delivering safe, efficient, and reliable product and service delivery (PSD) to customers. The Bulk Plant Operator identifies opportunities to improve service delivery, implements standard work (SW), and manages risk during service delivery. This person manages bulk plant facilities to facilitate delivery of prepared products and bulk materials to wellsites, maintaining excellent quality control (QC) in accordance with company policies and procedures. The Bulk Plant Operator assists in training other Operators and trainees. This person ensures compliance with governmental regulations and industry standards, and reduces environmental impacts through observing Health, Safety, and Environment (HSE) policies. * Ensure job deliverables are accurate and delivered on time. * Blend and mix bulk products for delivery to the wellsite, on time, according to the job program design. * Check and/or calculate quantities of material blends required prior to loading. * Follow Product Line (PL) quality assurance procedures to ensure proper loading. * Coordinate movement of bulk products to and from locations with the PSD and Logistics Team. * Assist in conducting monthly inventory and daily paperwork completion for goods received and shipped. * Label and store additives in a safe manner and ensure the disposal of empty drums and pails. * Maintain bulk plant equipment by performing a daily check while ensuring the bulk plant is kept clean. * Participate in job risk analysis and continuous improvement programs. * Wear PPE and observe HSE policies.</span></p>\r\n",
     "recruiter": [
-      "Tanmay Teotia",
-      "Tanmay.t@nrconsulting.com",
-      "3074635525"
+      "Amritesh Rai",
+      "Amritesh.R@nrconsulting.com",
+      "3074566357"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32526293",
-    "time_scraped": 1782975993372,
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32542683",
+    "time_scraped": 1783059997249,
+    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
+    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32541402,
+    "title": "Assembler",
+    "location": "AL, Mobile",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783015202000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p> <strong> Job Title: Assembler</strong></p> \r\n\r\n<p> <strong> Location: Mobile, AL, 36605</strong></p> \r\n\r\n<p> <strong> Duration: 6&plus; Months</strong></p> \r\n\r\n<p> <strong> Pay rate: $24/hr -$26/hr - $2/hr shift differential on W2 without benefits</strong></p> \r\n\r\n<p> <strong> Shift: </strong><strong> 15*6</strong></p> \r\n\r\n<p>  </p> \r\n\r\n<p> <strong> Summary:</strong> </p> \r\n\r\n<ul> \r\n\t<li> The Load Out Technician is responsible for executing load-out, spooling, and material handling activities associated with subsea umbilical’s and related equipment.</li> \r\n\t<li> This role supports the safe and efficient transfer of finished product from manufacturing to transport or installation interfaces.</li> \r\n\t<li> The position performs rigging, lifting, spooling to installation reels, and sea fastening operations in accordance with approved procedures, lift plans, and project requirements.</li> \r\n\t<li> The Load Out Technician ensures all activities are conducted with a high level of safety, equipment control, and product integrity. </li> \r\n\t<li> This role operates within a yard environment and requires strict adherence to HSE standards, operational procedures, and quality requirements associated with subsea umbilical handling and delivery.</li> \r\n</ul> \r\n",
+    "recruiter": [
+      "Amritesh Rai",
+      "Amritesh.R@nrconsulting.com",
+      "3074566357"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32541402",
+    "time_scraped": 1783059995896,
+    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
+    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32541358,
+    "title": "Cementing Bulk Plant Operator",
+    "location": "OH, Strasburg",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783014932000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> <strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:14.0pt;\"> Shift: </span> </span> </strong><strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:14.0pt;\"> 15*6</span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> Summary:</span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> The Bulk Plant Operator is responsible for delivering safe, efficient, and reliable product and service delivery (PSD) to customers. The Bulk Plant Operator identifies opportunities to improve service delivery, implements standard work (SW), and manages risk during service delivery. This person manages bulk plant facilities to facilitate delivery of prepared products and bulk materials to wellsites, maintaining excellent quality control (QC) in accordance with company policies and procedures. The Bulk Plant Operator assists in training other Operators and trainees. This person ensures compliance with governmental regulations and industry standards, and reduces environmental impacts through observing Health, Safety, and Environment (HSE) policies. * Ensure job deliverables are accurate and delivered on time. * Blend and mix bulk products for delivery to the wellsite, on time, according to the job program design. * Check and/or calculate quantities of material blends required prior to loading. * Follow Product Line (PL) quality assurance procedures to ensure proper loading. * Coordinate movement of bulk products to and from locations with the PSD and Logistics Team. * Assist in conducting monthly inventory and daily paperwork completion for goods received and shipped. * Label and store additives in a safe manner and ensure the disposal of empty drums and pails. * Maintain bulk plant equipment by performing a daily check while ensuring the bulk plant is kept clean. * Participate in job risk analysis and continuous improvement programs. * Wear PPE and observe HSE policies.</span> </div> \r\n",
+    "recruiter": [
+      "Amritesh Rai",
+      "Amritesh.R@nrconsulting.com",
+      "3074566357"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32541358",
+    "time_scraped": 1783060010124,
+    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
+    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32541339,
+    "title": "Equipment Operator",
+    "location": "ND, Williston",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783014800000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> <strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:14.0pt;\"> Shift: </span> </span> </strong><strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:14.0pt;\"> 15*6</span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> Summary:</span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> The Equipment Operator is responsible for delivering safe, efficient, and reliable PSD to customers. The Equipment Operator identifies opportunities to improve service delivery, and assists field and maintenance crews with preparing equipment for operations. * Ensure job deliverables are accurate and delivered on time. * Participate in pre-job and Toolbox meetings with crew members. * Maintain good, safe working order of equipment according to standards, reporting problems or deviations. * Ensure individual and crew work safety. * Prepare equipment for rig up and rig down times. * Operate the equipment according to competency level and job requirement. * Wear PPE and observe HSE policies. * Maintain the required safety training.</span> </div> \r\n",
+    "recruiter": [
+      "Amritesh Rai",
+      "Amritesh.R@nrconsulting.com",
+      "3074566357"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32541339",
+    "time_scraped": 1783060010726,
+    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
+    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32541333,
+    "title": "Equipment Operator",
+    "location": "OH, Strasburg",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783014675000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> <strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:14.0pt;\"> Shift: </span> </span> </strong><strong> <span style=\"font-family:Calibri,sans-serif;\"> <span style=\"font-size:14.0pt;\"> 15*6</span> </span> </strong><br /> \r\n <br /> \r\n<strong> <span style=\"font-family:Calibri,sans-serif;\"> Summary:</span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> The Equipment Operator is responsible for delivering safe, efficient, and reliable PSD to customers. The Equipment Operator identifies opportunities to improve service delivery, and assists field and maintenance crews with preparing equipment for operations. * Ensure job deliverables are accurate and delivered on time. * Participate in pre-job and Toolbox meetings with crew members. * Maintain good, safe working order of equipment according to standards, reporting problems or deviations. * Ensure individual and crew work safety. * Prepare equipment for rig up and rig down times. * Operate the equipment according to competency level and job requirement. * Wear PPE and observe HSE policies. * Maintain the required safety training.</span> </div> \r\n",
+    "recruiter": [
+      "Amritesh Rai",
+      "Amritesh.R@nrconsulting.com",
+      "3074566357"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32541333",
+    "time_scraped": 1783060010726,
+    "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
+    "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32541321,
+    "title": "Cementing Bulk Plant Operator",
+    "location": "ND, Williston",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783014551000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <strong> <span style=\"font-family:Calibri,sans-serif;\"> Summary:</span> </strong><br /> \r\n<span style=\"font-family:Calibri,sans-serif;\"> The Bulk Plant Operator is responsible for delivering safe, efficient, and reliable product and service delivery (PSD) to customers. The Bulk Plant Operator identifies opportunities to improve service delivery, implements standard work (SW), and manages risk during service delivery. This person manages bulk plant facilities to facilitate delivery of prepared products and bulk materials to wellsites, maintaining excellent quality control (QC) in accordance with company policies and procedures. The Bulk Plant Operator assists in training other Operators and trainees. This person ensures compliance with governmental regulations and industry standards, and reduces environmental impacts through observing Health, Safety, and Environment (HSE) policies. * Ensure job deliverables are accurate and delivered on time. * Blend and mix bulk products for delivery to the wellsite, on time, according to the job program design. * Check and/or calculate quantities of material blends required prior to loading. * Follow Product Line (PL) quality assurance procedures to ensure proper loading. * Coordinate movement of bulk products to and from locations with the PSD and Logistics Team. * Assist in conducting monthly inventory and daily paperwork completion for goods received and shipped. * Label and store additives in a safe manner and ensure the disposal of empty drums and pails. * Maintain bulk plant equipment by performing a daily check while ensuring the bulk plant is kept clean. * Participate in job risk analysis and continuous improvement programs. * Wear PPE and observe HSE policies.</span> </div> \r\n",
+    "recruiter": [
+      "Amritesh Rai",
+      "Amritesh.R@nrconsulting.com",
+      "3074566357"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google&SearchString=#/jobs/32541321",
+    "time_scraped": 1783060016778,
     "source_company": "q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka",
     "source_url": "https://www1.jobdiva.com/portal/?a=q1jdnw09zijeghx42qs9l65a9oe3mi08abes9d24gvp87bm66r06bteqhhtv8vka&jobid=30535923&source=google",
     "date_cutoff_days": 15

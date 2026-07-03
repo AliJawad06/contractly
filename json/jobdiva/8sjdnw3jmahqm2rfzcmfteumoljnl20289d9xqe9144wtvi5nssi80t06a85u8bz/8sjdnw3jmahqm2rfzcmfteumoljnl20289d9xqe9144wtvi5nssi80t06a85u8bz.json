@@ -1,14 +1,47 @@
 [
   {
-    "id": 28797820,
-    "title": "SAP Central Finance Consultant Mid - Deloitte",
+    "id": 28798819,
+    "title": "Finance Manager ",
+    "location": "NC, Charlotte",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1782998181000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<p><strong>Job Title: Manager &ndash; Finance, Payroll &amp; Statutory Compliance</strong></p>\r\n\r\n<p><strong>Location:</strong> Hyderabad</p>\r\n\r\n<p><strong>Experience:</strong> 10&plus; Years</p>\r\n\r\n<p><strong>Focus:</strong> Internal Company Accounts, Compliance &amp; Full-Cycle Payroll</p>\r\n\r\n<p><strong>Role Overview</strong></p>\r\n\r\n<p><strong>Euclid Innovations</strong> is seeking a versatile <strong>Finance &amp; Operations Manager</strong> to independently lead our internal accounting and payroll functions. This is a critical &quot;hands-on&quot; leadership role that covers everything from daily bookkeeping to high-level statutory compliance. You will be responsible for ensuring that our financial operations&mdash;including <strong>GST/TDS filings</strong>, <strong>payroll processing</strong>, and <strong>vendor invoicing</strong>&mdash;run like clockwork. The ideal candidate has a deep understanding of the IT services/staffing landscape and is an expert in navigating Indian statutory requirements (<strong>PF, PT, ESIC</strong>).</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Key Responsibilities</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Full-Cycle Accounting:</strong> Manage overall company accounts, including bookkeeping, ledger maintenance, and financial reporting.</li>\r\n\t<li><strong>Taxation &amp; Filings:</strong> Independently handle monthly and annual <strong>GST filings</strong> and quarterly <strong>TDS filings</strong> with 100% accuracy.</li>\r\n\t<li><strong>Payroll Management:</strong> Own the end-to-end payroll process, ensuring timely salary disbursements and accurate tax computations for all employees.</li>\r\n\t<li><strong>Statutory Compliance:</strong> Manage all aspects of <strong>PF, PT, and ESIC</strong>; stay updated on labor laws to ensure the company remains fully compliant.</li>\r\n\t<li><strong>Vendor &amp; Client Invoicing:</strong> Oversee the invoicing lifecycle, managing payables and receivables while maintaining strong vendor relationships.</li>\r\n\t<li><strong>Audit Coordination:</strong> Act as the primary point of contact for external auditors, preparing all necessary documentation for smooth annual audits.</li>\r\n\t<li><strong>Platform Management:</strong> Utilize payroll and accounting tools (e.g., <strong>greytHR, Keka, Zoho Books</strong>) to automate and optimize financial workflows.</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Required Skills &amp; Qualifications</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Experience:</strong> 10<strong>&plus; years</strong> in a Finance/Accounts Manager role, preferably within the <strong>IT Services or Staffing</strong> industry.</li>\r\n\t<li><strong>Core Expertise:</strong> Demonstrated experience in handling <strong>complete company accounts</strong> independently.</li>\r\n\t<li><strong>Compliance Authority:</strong> In-depth knowledge of <strong>GST, TDS, PF, ESIC, and Professional Tax (PT)</strong> regulations.</li>\r\n\t<li><strong>Invoicing Logic:</strong> Proven ability to manage complex invoicing cycles (staffing/consulting models).</li>\r\n\t<li><strong>Technical Proficiency:</strong> Hands-on experience with modern payroll tools (e.g., <strong>greytHR, Keka, Razorpay Payroll</strong>) and accounting software like <strong>Zoho Books or Tally</strong>.</li>\r\n\t<li><strong>Attributes:</strong> High attention to detail, strong analytical skills, and the ability to work independently without constant supervision</li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Manikanta Eluri",
+      "manikanta.eluri@euclidinnovations.com",
+      "0"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28798819",
+    "time_scraped": 1783058751133,
+    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
+    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28798700,
+    "title": "BSA Tester - Deloitte",
     "location": "Telangana, Bengaluru",
     "experience": {
       "experience": -1
     },
     "posted": {
       "date_postedStr": "7/2/2026",
-      "date_posted": 1782973158000
+      "date_posted": 1782996664000
     },
     "start": {
       "start_dateStr": null,
@@ -20,212 +53,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>SAP Central Finance Consultant</strong> <em>Mid-Senior Level | 5&ndash;8 Years Experience</em>\r\n<div>\r\n<hr align=\"left\" size=\"1\" width=\"100%\" /></div>\r\n<strong>About the Role</strong><br />\r\nWe are looking for an experienced SAP Central Finance (CFIN) Consultant to join our growing Finance Transformation practice. In this role, you will play a key part in deploying and sustaining Central Finance solutions &mdash; bringing together disparate financial data across the enterprise into a unified, real-time view that drives meaningful business decisions.\r\n<div>\r\n<hr align=\"left\" size=\"1\" width=\"100%\" /></div>\r\n<strong>What You&#39;ll Do</strong>\r\n\r\n<ul>\r\n\t<li>Lead and support the deployment of new company codes into the Central Finance landscape, including mapping, configuration, and cutover activities</li>\r\n\t<li>Analyze, troubleshoot, and resolve Application Interface Framework (AIF) errors, ensuring the integrity of real-time financial data replication from source systems</li>\r\n\t<li>Deliver enhancements to existing CFIN configurations, including mapping rules, initial load reconciliation, and postprocessing settings</li>\r\n\t<li>Collaborate with functional and technical teams to design scalable solutions for complex finance integration requirements</li>\r\n\t<li>Support end-to-end testing cycles &mdash; unit, integration, and UAT &mdash; for new deployments and change requests</li>\r\n\t<li>Work closely with business stakeholders to gather requirements, document solutions, and manage expectations through delivery</li>\r\n\t<li>Contribute to ongoing system health monitoring, incident resolution, and continuous improvement initiatives</li>\r\n\t<li>Produce and maintain solution documentation including functional specs, configuration guides, and test scripts</li>\r\n</ul>\r\n\r\n<div>\r\n<hr align=\"left\" size=\"1\" width=\"100%\" /></div>\r\n<strong>What You Bring</strong>\r\n\r\n<ul>\r\n\t<li>5&ndash;8 years of hands-on SAP Finance experience, with at least 2&ndash;3 years specifically in Central Finance (CFIN)</li>\r\n\t<li>Strong understanding of the SAP Landscape Transformation (SLT) replication framework and its interaction with CFIN</li>\r\n\t<li>Proven experience with AIF (Application Interface Framework) &mdash; monitoring, error analysis, and resolution</li>\r\n\t<li>Solid background in company code deployment within CFIN, including organizational structure mapping and initial load processes</li>\r\n\t<li>Proficiency in SAP S/4HANA Finance and core FI/CO modules (GL, AP, AR, Asset Accounting, Profit Center/Cost Center Accounting)</li>\r\n\t<li>Familiarity with Master Data Governance (MDG) concepts as they relate to CFIN deployments</li>\r\n\t<li>Experience working in Agile or hybrid project delivery environments</li>\r\n\t<li>Strong analytical and problem-solving skills with the ability to communicate technical concepts to non-technical stakeholders</li>\r\n</ul>\r\n<strong>Nice to Have</strong>\r\n\r\n<ul>\r\n\t<li>Experience with SAP Group Reporting or Financial Consolidation in a CFIN context</li>\r\n\t<li>SAP S/4HANA Finance or CFIN certification</li>\r\n\t<li>Prior consulting or client-facing delivery experience</li>\r\n</ul>\r\n\r\n<div>\r\n<hr align=\"left\" size=\"1\" width=\"100%\" /></div>\r\n<strong>Skills &amp; Competencies</strong>\r\n\r\n<ul>\r\n\t<li>Detail-oriented with strong documentation habits</li>\r\n\t<li>Ability to manage multiple workstreams in a fast-paced environment</li>\r\n\t<li>Collaborative mindset with a track record of working across cross-functional teams</li>\r\n\t<li>Proactive communicator &mdash; comfortable raising risks and proposing solutions early</li>\r\n</ul>\r\n</div>\r\n",
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<ul>\r\n\t<li><span style=\"font-size:11.0pt;\">3&ndash;6 years in BSA or QA roles in healthcare IT</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Hands on experience on Claims in the Healthcare domain </span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">UAT planning and execution in enterprise environments</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Hands-on experience with Medicaid or managed care systems</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Experience with HealthRules Payer (HRP) or similar platforms</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Familiarity with NY Medicaid programs (HARP, OMH, OASAS, FPBP)</span></li>\r\n\t<li><span style=\"font-size:11.0pt;\">Knowledge of EDI transaction standards (837, 835, 270/271 etc.)</span></li>\r\n</ul>\r\n</div>\r\n",
     "recruiter": [
-      "Adithya Kanaveni",
-      "adithya.kanaveni@euclidinnovations.com",
-      "9502438145"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28797820",
-    "time_scraped": 1782973437075,
-    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
-    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28791869,
-    "title": "Senior SOM Lead - Deloitte",
-    "location": "Telangana, Bengaluru",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782913619000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> SOM Lead</span></span></div>\r\n",
-    "recruiter": [
-      "Lokeshwar Reddy Kuppannagari",
-      "lokeshwar.kuppannagari@euclidinnovations.com",
-      "8688772059"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28791869",
-    "time_scraped": 1782973437096,
-    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
-    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28790974,
-    "title": "OpenText  - Deloitte",
-    "location": "Telangana, Bengaluru",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782902288000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>Description:<br />\r\n: The Primary duties will include, but shall not be limited tthe following: Working with the Global Support (Client) team tprovide Hypercare support and resolve any issues arising from the implementation. Working with the Client team tfinalize the design of enhancements that have been identified; Work on the implementation of the enhancements; Testing and Documentation of all the enhancements and changes made; OpenText VIM Knowledge transfer tthe Client Team; Work with Core Team on production incidents and fixing defects; Perform adhoc and project based support as needed. Key Desired Experience: Participation in at least 2 full implementations of the OpenText VIM solution; Working on projects in highly customized SAP environments; Experience with SAP S4 business suite highly desirable; Knowledge of ArchiveLink &amp; IXOS interface for Archiving; Good understanding of the entire OpenText invoice process flow, from initiation through tcoding and approval. Working with custom workflows for Approvals (Pand NonPO) highly desired; Knowledge of SAP ABAP/4 is desired. Knowledge of ECM/xECM is desired. Qualifications: Bachelor&#39;s degree in Computer Science, Business Administration or equivalent educational or professional experience and/or qualifications; 5&plus; years of SAP/OpenText VIM Functional/technical experience; Experience with Internal documentation  technical and functional; Excellent written and verbal communications, organization, planning and leadership skills; Strong management, communication, technical and remote collaboration skills are a must; Experience in dealing with cross-functional teams, and ability tcoordinate across teams in a large matrix organization environment Ability teffectively conduct technical discussions directly with Project/Product management, and clients</div>\r\n",
-    "recruiter": [
-      "Sowmya Mukkara",
-      "sowmya.mukkara@euclidinnovations.com",
-      "8886098428"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28790974",
-    "time_scraped": 1782973436265,
-    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
-    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28790970,
-    "title": "Oracle conversion support -Deloitte",
-    "location": "Telangana, Bengaluru",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782902162000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Oracle cloud conversion Lead across finance (GL, FA, Projects, AP, Procurement, Cash Management, Items, Suppliers)</span></span><br />\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Mandatory Skill : BIP Reports, PLSQL Packages</span></span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Preferable: Oracle Fusion Finance, SCM Cloud </span></span></span></div>\r\n",
-    "recruiter": [
-      "divya Vakkalagadda",
-      "divya.vakkalagadda@euclidinnovations.com",
-      "8331860759"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28790970",
-    "time_scraped": 1782973448570,
-    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
-    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28790957,
-    "title": "IDMC+ Data Lineage - Deloitte",
-    "location": "Telangana, Bengaluru",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782901767000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>IDMC&plus; Data Lineage</div>\r\n",
-    "recruiter": [
-      "Jayanti Kushwaha",
-      "jayanti.kushwaha@euclidinnovations.com",
+      "Rohit Kotturthy",
+      "rohit.kotturthy@euclidinnovations.com",
       "0"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28790957",
-    "time_scraped": 1782973447643,
-    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
-    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28790695,
-    "title": "System Engineer Payment - Deloitte",
-    "location": "Telangana, Bengaluru",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782896407000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<ul>\r\n\t<li>6 to 8 years of technology design, architecture, infrastructure experience or related experience</li>\r\n\t<li>Experience with configuring and troubleshooting development and production environments</li>\r\n\t<li>Experience in the payment industry preferably with ACI products (Base24-eps, ACI-Issuer, ACI-Interchange and PRM)</li>\r\n\t<li>Coding skills (C&plus;&plus;, Linux Shell scripting, Cobol and BASE24-eps Scripting)</li>\r\n\t<li>Experience with SQL Databases such as PostgreSQL</li>\r\n\t<li>Base24-eps and CMM Installation &amp; Support, Systems Monitoring &amp; Administration, System Documentation, Capacity Management &amp; Growth Analysis</li>\r\n\t<li>Strong knowledge of interchanges (Visa, Client, Client and Client) and the different types of transaction processing they may support, including single and dual message</li>\r\n\t<li>Strong knowledge of Key management and TSS</li>\r\n\t<li>Excellent communication skills to be able to present technical information to different types of audiences</li>\r\n</ul>\r\n </div>\r\n",
-    "recruiter": [
-      "Lokeshwar Reddy Kuppannagari",
-      "lokeshwar.kuppannagari@euclidinnovations.com",
-      "8688772059"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28790695",
-    "time_scraped": 1782973448851,
-    "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
-    "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28790689,
-    "title": "FileNET - Developer - Deloitte",
-    "location": "Telangana, Bengaluru",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782896004000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span>\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:1417px;\" width=\"1417\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"height:20px;\"><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:10.0pt;\">Content Platform Engine (CPE), IBM Content navigator(ICN), IBM Content Collector(ICC), IBM Websphere</span></span></span></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" style=\"height:20px;\"><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:10.0pt;\">Content Search Services(CSS), ICC4SAP</span></span></span></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n</div>\r\n",
-    "recruiter": [
-      "Adithya Kanaveni",
-      "adithya.kanaveni@euclidinnovations.com",
-      "9502438145"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28790689",
-    "time_scraped": 1782973455152,
+    "url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1&SearchString=#/jobs/28798700",
+    "time_scraped": 1783058750895,
     "source_company": "8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz",
     "source_url": "https://www2.jobdiva.com/portal/?a=8sjdnw3jmahqm2rfzcmfteumoljnl20289d9xqe9144wtvi5nssi80t06a85u8bz&compid=-1",
     "date_cutoff_days": 15

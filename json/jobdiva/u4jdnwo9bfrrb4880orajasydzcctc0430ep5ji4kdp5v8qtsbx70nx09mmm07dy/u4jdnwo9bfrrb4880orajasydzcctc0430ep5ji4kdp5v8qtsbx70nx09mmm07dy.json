@@ -1,14 +1,14 @@
 [
   {
-    "id": 28795011,
-    "title": "Robot Engineer iRVision",
-    "location": "MS, Columbus",
+    "id": 28802489,
+    "title": "Systems Integration Engineer",
+    "location": "MI, Dearborn",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782930997000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783026214000
     },
     "start": {
       "start_dateStr": null,
@@ -20,259 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Job Description:</span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Strong FANUC robot programming experience</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Fanuc iRVision 2D experience</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Proven experience programming robots from scratch</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Naveen Aradhyamath",
-      "na2@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28795011",
-    "time_scraped": 1782976603922,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28794791,
-    "title": "Senior Power Platform Developer",
-    "location": "TX, Dallas",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782930069000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 100,
-    "description": "<p> <strong> <span style=\"font-family:Arial,sans-serif;\"> Job Description: </span> </strong></p> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> The Senior Power Platform Developer designs, develops, tests, and maintains business applications across the Microsoft 365 and Power Platform ecosystem to meet functional, performance, and quality requirements. </span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> As a senior member of the team, this role owns solution architecture end to end, sets technical direction, mentors other developers, and partners with stakeholders to deliver reliable, scalable, user-centered low-code/pro-code solutions with scope to leverage an existing AI bot to enhance application functionality.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Responsibilities: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Design, build, and maintain complex Canvas Apps, owning the solution architecture from data layer through user experience.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Drive UI/UX design for applications, information architecture, intuitive navigation, responsive layouts, accessibility, and consistent, on-brand component patterns that prioritize end-user adoption.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Develop and orchestrate business process automation using Power Automate (cloud flows, approvals, HTTP/connector integrations).</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Architect SharePoint Online solutions including lists, libraries, permissions, and site structures to support application data and content needs.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Write, test, and optimize PowerFx with attention to delegation, performance, and data source limits.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Establish and champion development standards, reusable patterns, and ALM practices (solution packaging, environment strategy, source control).</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Lead requirements discovery with stakeholders, translate ambiguous business needs into technical designs, and deliver iteratively.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Test, debug, and maintain existing applications, including troubleshooting connector, authentication, and data issues.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Document solutions, configurations, and handoff materials for internal teams.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> (AI scope) Work with an existing AI bot to analyze responses, craft and refine prompts, and integrate AI-assisted capabilities into Power Platform apps and flows.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Requirements: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Advanced proficiency with Power Automate and PowerFx, including performance and delegation optimization.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Demonstrated UI/UX sensibility, designing clean, intuitive, accessible interfaces and reusable component patterns.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Solid understanding of SharePoint Online administration and information architecture</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Strong problem-solving skills and the ability to work independently and lead in a collaborative, cross-functional environment.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Preferred: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Experience with prompt engineering and analyzing AI-generated responses for accuracy and consistency.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Familiarity with Microsoft Graph API and Entra ID.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Power BI reporting and data modeling experience.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> JavaScript/jQuery for client-side customizations, and PnP PowerShell for SharePoint administration.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Experience working in an Agile / SAFe delivery environment (e.g., Jira).</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Microsoft Power Platform certifications (e.g., PL-200, PL-400).</span> </li> \r\n</ul> \r\n\r\n<p>  </p> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
-    "recruiter": [
-      "Rick Keller",
-      "rk2@zobility.com",
-      "2482686817"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28794791",
-    "time_scraped": 1782976604272,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28794617,
-    "title": "Business Systems Analyst",
-    "location": "VA, Richmond",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782928561000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><strong><span style=\"font-family:arial,sans-serif\">Job Description: </span> </strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Data focused position to help support the RNG Gas Operations Unit</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated competency in verbal and written communications and interpersonal understanding.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated ability to research and understand customer issues.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated ability to establish and maintain a high level of customer trust and confidence in the Information Technology team&#39;s knowledge of and concern for the customer&#39;s business needs.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated organization and planning skills that include the ability to handle multiple deadlines and associated pressures, and to manage work.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated competency in analytical and logical thinking.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated ability to identify and solve problems. </span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated ability to create a network of relevant individuals to solve operational problems.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Demonstrated ability to achieve results through others.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Experience in the adaptation to and the application of rapidly changing technology to business needs.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Achievement orientation.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Business systems orientation.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Concern for quality. Flexibility. Self-starter. Self-control.</span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:arial,sans-serif\">Education: </span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Bachelors</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Minimum HS Diploma Required</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" style=\"cursor: pointer;\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Lokendra (Loki) Kumar",
-      "lk4@zobility.com",
-      "2482686805"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28794617",
-    "time_scraped": 1782976604214,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28792555,
-    "title": "PlanView Project Manager",
-    "location": "MI, Troy",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782917066000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><strong><span style=\"font-family:arial,sans-serif\">Responsibilities:</span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Lead and manage all IT-related activities for the deployment of Planview across Client.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Coordinate technical planning, configuration, integration, and rollout activities in collaboration with internal IT teams and Planview stakeholders.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Serve as the primary IT point of contact for the Planview implementation, ensuring alignment between technical execution and business objectives</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Manage dependencies between infrastructure, security, identity, integrations, and application readiness.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Ensure compliance with Client&#39;s IT standards, security policies, and governance requirements throughout the deployment.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Track progress, risks, issues, and milestones related to IT delivery and escalate as needed.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Support testing, cutover planning, and go-live activities from an IT perspective</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Facilitate communication between IT, business teams, and vendors to ensure smooth deployment and adoption.</span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:arial,sans-serif\">Requirements:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Proven experience managing IT-related activities for enterprise application deployments or system implementations</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Hands-on experience coordinating cross-functional IT teams (e.g., infrastructure, security, IAM, integrations, applications)</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Strong understanding of IT project management practices and delivery methodologies (Agile, Waterfall, or hybrid)</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Experience managing project schedules, dependencies, risks, and issues in a controlled enterprise environment</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Ability to translate business requirements into IT delivery plans and technical activities</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Strong stakeholder management and communication skills, including the ability to work with technical and non-technical audiences</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Experience working with external vendors or SaaS providers during implementation efforts</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Familiarity with enterprise SaaS platforms and cloud-based solutions</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Understanding of identity management, security, data integrations, and compliance considerations in enterprise IT</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Experience supporting testing, cutover, and go-live activities from an IT perspective</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Proficiency with common project management and collaboration tools</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Preferred Qualifications</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Experience with Planview (PPM, Portfolios, AgilePlace, or related modules) or similar portfolio and project management platforms</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Project management certification (PMP or equivalent)</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Experience working in a global or multi-region enterprise environment</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Background in IT engineering, infrastructure, or application management roles</span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:arial,sans-serif\">Education:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Degree in Information Technology, Computer Science, Engineering, or a related field, or equivalent practical experience</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" style=\"cursor: pointer;\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Anthony Christopher",
-      "ac4@zobility.com",
-      "2482686807"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28792555",
-    "time_scraped": 1782976612830,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28792134,
-    "title": "Automotive Technical Subject Matter Expert",
-    "location": "MI, Troy",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782914883000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Job Description: </span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Seeking a highly skilled Subject Matter Expert (SME) with strong automotive technical experience, ideally gained in a dealership environment.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">This role works closely with a curriculum development team and other SMEs to research, develop, validate, and support service technical training courses.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">A strong focus on diesel engine performance, diagnostics, and repair is essential.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The ideal candidate has extensive hands-on diesel experience, advanced diagnostic skills, and the ability to translate complex technical content into effective learning materials.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Requirements: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Minimum of five (5) years automotive technician experience, with a strong focus on diesel engine systems, performance, and diagnostics</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Diesel-specific ASE certifications (e.g., A9 Diesel Engine Performance) - Required</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Current ASE certifications A1 through A8 - Strongly Preferred</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Minimum five (5) years automotive technical experience, including extensive diesel diagnostic and repair work</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">ASE Certified Master Automotive Technician</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Strong understanding of complex mechanical and electrical systems</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Advanced diagnostic experience using equipment such as diesel performance tools, OEM scan tools, oscilloscopes, digital multimeters, air conditioning recycling equipment, and vibration diagnostic equipment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to work with customers, peers, and curriculum teams in a collaborative environment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Intermediate computer skills including use of Microsoft Office and online research</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to adapt to evolving technologies and project requirements</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Strong organizational, time-management, and communication skills</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience in developing web-based and hands-on technical training - Preferred</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Technical writing experience</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">GM dealership technician experience - Plus</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Preferred: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Strong working knowledge of diesel engine performance, aftertreatment systems, mechanical systems, and electrical systems</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Up-to-date understanding of modern diesel technologies and diagnostic strategies</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Knowledge of adult learning principles and competency-based training approaches</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience with multiple training delivery methods: video, web-based, virtual classroom, and instructor-led hands-on training</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to navigate and utilize computer software (MS Office, training platforms)</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Understanding of dealership service environments and technical training center operations</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Effective verbal communication and public speaking skills</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"> Education: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Formal automotive or diesel technology training is a plus but not required</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">High school diploma or equivalent required</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Albert Anthony",
-      "aa2@zobility.com",
-      "2482686811"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28792134",
-    "time_scraped": 1782976612803,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28791388,
-    "title": "Quality Support",
-    "location": "FL, Miramar",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782910848000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p>  <strong>  Job Description:</strong></p>  \r\n\r\n<ul>  \r\n\t<li>  The Quality Support Specialist assists the quality organization by performing documentation reviews, coordinating quality activities, supporting inspections, managing data, and ensuring compliance with internal standards and customer/regulatory requirements.</li>  \r\n\t<li>  This role helps maintain product and process quality through administrative, analytical, and coordination support.</li>  \r\n</ul>  \r\n\r\n<p>  We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>   to learn more.</p>  \r\n\r\n<p>  Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>  \r\n",
-    "recruiter": [
-      "Arjun Ajith",
-      "aa3@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28791388",
-    "time_scraped": 1782976612618,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28791349,
-    "title": "Electrical Systems Integration Engineer / Launch",
-    "location": "MI, Allen Park",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782910345000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Responsibilities:</span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Responsible for design and development of Client Performance specific electrical content </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Coordinate technical design reviews between component and EDS engineers to ensure system integrity in the design phase </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Responsible for surveying Engineers for components that have electrical interfaces and ensure those device transmittals are populated into VSEM to support EDS wiring development </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Build DV Requirements for system level electrical functions and perform validation testing to ensure product compliance </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Support BOM sign offs for pre-production build events </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Represent the electrical team on evaluation drives </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Root cause and fix electrical issues on vehicles as they arise </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Support offsite vehicle level DV testing </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Support breadboard activities by configuring, updating, and root causing electrical modules and systems </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Onsight support for vehicle builds at the assembly plant, representing the Electrical team </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Lead FSS (Full Service Suppliers) and/or other internal/external resources to deliver subject programs </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Lead development of system designs that support vehicle performance targets </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Assure conformance to the Client Racing DNA all applicable Client &amp; regulatory requirements </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Develop innovative solutions for performance vehicles </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Support supplier sourcing processes and FMA activities </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Handle deliverables to support program &amp; engineering GPDS breakthroughs </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">FEDE BOM / WERS / Bill of Material / AIMS / JIRA / 5/8Ds / FEDE DVP / QUIP / Engineering Sign Off / QUIP / eCATs / IVS</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Requirements:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">5&plus; years experience in automotive electrical systems </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Electrical Engineering - Proficient understanding and skilled with module electronics (Hardware and Software), vehicle architecture, module, power supply, driver assist systems and wiring integration in vehicle.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Understanding of GPDS deliverables and basic Client engineering tools (FEDE BOM / WERS / Bill of Material / AIMS / JIRA / 5/8Ds / FEDE DVP / Engineering Sign Off / DFMEA / Six Sigma) </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience launching new vehicles </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to handle complex tasks and complicated situations under compressed timing </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Outstanding planning, organizational and project management skills with accurate follow-up to accomplish multiple objectives </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Strong One Client Leadership Behaviors with proven ability to drive and deliver results </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Effective written and oral presentation skills </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to build strong effective relationships with multi-functional teams (Program, Studio, Purchasing, Core Body Engineering, VE, VI, VO) </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Passion for performance vehicles is desirable </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience with CAN tools, Module Software flashing, CAN network troubleshooting, Bus Queries, CAN log and data collection, Diagnostic Engineering Tool, MyCanic, Data Logger, Vehicle configuration (VSCS)</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Preferred: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Circuit Design - Familiar and experienced in reading: Schematics / Device Transmittals </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Electrical Wiring - Experience with using Voltmeter, ringing our circuitry in vehicle or on bread board </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Software Testing - Versed in module flashes / Vector Canalyzer tool and Client DET or equivalent of diagnostic trouble shooting</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Education: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">BS Mechanical Engineering or Electrical Engineering (or equivalent)</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Master degree preferred</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Additional Information:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Position Is Fully Onsite</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Sandeep Abbimane",
-      "sa3@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28791349",
-    "time_scraped": 1782976628580,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28791326,
-    "title": "Workers Compensation Plant Rep II",
-    "location": "KY, Louisville",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782910086000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p> <strong> Position Description:</strong></p> \r\n\r\n<ul> \r\n\t<li> Workers' Compensation Claims Handler at the plant with a focus on excellent customer service, quality claims handling, and loss cost management.</li> \r\n\t<li> Plant-based position</li> \r\n</ul> \r\n<strong> Responsibilities:</strong>\r\n\r\n<ul> \r\n\t<li> Analyze and process complex or technically difficult workers' compensation claims by investigating and gathering information to determine the exposure on the claim</li> \r\n\t<li> Ability to handle a full case load, with proven ability to handle cases of increased severity.</li> \r\n\t<li> Workers' Compensation Lost Time claim handling experience</li> \r\n\t<li> Manage claims through well-developed action plans to ensure timely and cost-effective resolutions.</li> \r\n\t<li> Calculate and assign timely and appropriate reserves to claims; manages reserve adequacy throughout the life of the claim.</li> \r\n\t<li> Calculate and pay benefits due; approve and make timely claim payments and adjustments; and settle clams within designated authority level.</li> \r\n\t<li> Prepare necessary state fillings within statutory limits.</li> \r\n\t<li> Coordinate vendor referrals for additional investigation and/or litigation management.</li> \r\n\t<li> Use appropriate cost containment techniques including strategic vendor partnerships to reduce overall cost of claims.</li> \r\n\t<li> Manage claim recoveries, including but not limited to: subrogation, Second Injury Fund excess recoveries and Social Security and Medicare offsets.</li> \r\n\t<li> Report claims to the excess carrier.</li> \r\n\t<li> Communicate claim activity and processing with the claimant and the client.</li> \r\n\t<li> Ensure claim files are properly documented, and claims coding is correct.</li> \r\n\t<li> Refer cases as appropriate to supervisor and management.</li> \r\n</ul> \r\n<strong> Skills Required:</strong>\r\n\r\n<ul> \r\n\t<li> Workers' Compensation</li> \r\n</ul> \r\n<strong> Experience Required:</strong>\r\n\r\n<ul> \r\n\t<li> 3-5 years of Workers' Compensation claims management experience</li> \r\n</ul> \r\n<strong> Education Required:</strong>\r\n\r\n<ul> \r\n\t<li> High School Diploma / GED</li> \r\n</ul> \r\n<strong> Education Preferred:</strong>\r\n\r\n<ul> \r\n\t<li> Bachelor's Degree</li> \r\n</ul> \r\n<strong> Additional Information:</strong>\r\n\r\n<ul> \r\n\t<li> Fully onsite.</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
+    "description": "<p> <strong> Position Description:</strong></p> \r\n\r\n<ul> \r\n\t<li> As a Systems Integration Engineer, the successful candidate will design, implement and validate vehicle electrical systems by reviewing and approving device transmittals</li> \r\n\t<li> Developing vehicle-level logical schematics, conducting design/compatibility reviews, defining fusing and grounding strategies</li> \r\n\t<li> Supporting system-level validation/diagnostics, providing technical support for prototype and pre-production builds.</li> \r\n\t<li> You will also perform System Level tests for ECU integration by flashing ECU software and calibration files, performing configuration, commanding and analyzing self-test results, and performing functional tests.</li> \r\n</ul> \r\n<strong> Skills Required:</strong>\r\n\r\n<ul> \r\n\t<li> Electrical Engineering, Electrical Wiring, Systems Engineering, Root Cause Analysis</li> \r\n\t<li> Electrical Engineering: Must have electrical engineering background, either bachelor, minor or master degree, and demonstrated experience on electrical schematics design.</li> \r\n\t<li> Electrical Wiring: Background on harness design is well appreciated, but not a must have.</li> \r\n\t<li> Systems Engineering: Must have experience on systems engineering, leading or being part of a team defining and developing components interfaces and interactions.</li> \r\n\t<li> Root Cause Analysis: Should be able to present a logical approach to decompose a problem into small elements that can be tested/checked for their contribution on the failure mode.</li> \r\n</ul> \r\n<strong> Experience Required:</strong>\r\n\r\n<ul> \r\n\t<li> Design/Develop program specific electrical system schematics Support electrical device transmittal process: BSEM GDT Set-up, Create DT Status Report Develop program specific system FMEA and DVP (Validation Plans)</li> \r\n\t<li> Prototype Breadboards (parts list development & sign-off, validation, sign-off) Prototype Vehicle Builds (Yellow board software flashing and configuration, functional sign-off, & troubleshooting)</li> \r\n\t<li> Lead compatibility reviews to verify all module and wiring interfaces Support builds at production plant</li> \r\n</ul> \r\n<strong> Experience Preferred:</strong>\r\n\r\n<ul> \r\n\t<li> Electrical schematics design CAN Network ECU software flashing and diagnostics Root Cause Analysis</li> \r\n</ul> \r\n<strong> Education Required:</strong>\r\n\r\n<ul> \r\n\t<li> Bachelor's Degree</li> \r\n</ul> \r\n<strong> Education Preferred:</strong>\r\n\r\n<ul> \r\n\t<li> Master's Degree</li> \r\n</ul> \r\n<strong> Additional Information:</strong>\r\n\r\n<ul> \r\n\t<li> Hybrid (4 days per week in the office / Can be 5-6 days depending on prototype and launch build needs.) Engineers working on the design phase are required to be in the office 4 days a week.</li> \r\n\t<li> Engineers supporting prototype builds or launch events are required to be 5 days in the office (prototype lab or assembly plant) and be aware that weekend support might be requested (with respective OT payment).</li> \r\n\t<li> Suppliers must be aware of the need to pay OT.</li> \r\n\t<li> Design electrical schematics Perform system level tests at Breadboard Support prototype vehicle builds Support launch build events Troubleshoot system level issues</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
     "recruiter": [
       "Umesh Lokanathan",
       "ul2@zobility.com",
       "2482686752"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28791326",
-    "time_scraped": 1782976628579,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28802489",
+    "time_scraped": 1783060259866,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28791274,
-    "title": "Engineering Support - Vehicle Fleet Coordinator",
-    "location": "MI, Auburn Hills",
+    "id": 28802429,
+    "title": "Automotive Training and Development Consultant",
+    "location": "MS, Madison",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782909359000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783025485000
     },
     "start": {
       "start_dateStr": null,
@@ -284,61 +53,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p> <strong> Job Description:</strong></p> \r\n\r\n<ul> \r\n\t<li> This is a position supporting vehicle fleet operations and engineering activities.</li> \r\n\t<li> The role combines fleet coordination, hands-on vehicle work, prototype support, and administrative responsibilities.</li> \r\n\t<li> The individual will help manage a wide variety of client vehicles, including gas, hybrid, electric, production, and prototype vehicles.</li> \r\n</ul> \r\n<strong> Responsibilities:</strong>\r\n\r\n<ul> \r\n\t<li> Manage and coordinate the vehicle fleet.</li> \r\n\t<li> Support engineering teams with part installations and fitment checks.</li> \r\n\t<li> Perform basic vehicle maintenance and troubleshooting.</li> \r\n\t<li> Assist with vehicle software updates.</li> \r\n\t<li> Coordinate vehicle scheduling and availability.</li> \r\n\t<li> Track and maintain vehicle registrations, insurance, tabs, and compliance requirements.</li> \r\n\t<li> Coordinate vehicle deliveries to suppliers and Client facilities.</li> \r\n\t<li> Document installation results, fitment concerns, and engineering feedback.</li> \r\n\t<li> Communicate findings with engineering teams and suppliers.</li> \r\n\t<li> Engineering & Build Support</li> \r\n\t<li> Support engineering teams with vehicle prep, part installation, removal, and modification</li> \r\n\t<li> Conduct part fitment checks and provide clear feedback on engineering issues</li> \r\n\t<li> Assist in troubleshooting mechanical, electrical, and system-level concerns</li> \r\n\t<li> Review and check parts in CAD 3D NX</li> \r\n\t<li> Vehicle Maintenance & Service</li> \r\n\t<li> Perform routine maintenance, diagnostics, and repairs on development and fleet vehicles</li> \r\n\t<li> Ensure all vehicles meet safety, compliance, and OEM standards</li> \r\n\t<li> Maintain accurate service, repair, and configuration documentation</li> \r\n\t<li> Fleet & Workshop Operations</li> \r\n\t<li> Coordinate vehicle scheduling and readiness for testing and development activities</li> \r\n\t<li> Manage parts inventory, test components, and specialized tools</li> \r\n\t<li> Maintain an organized, safe, and efficient workshop environment</li> \r\n\t<li> Support test fleet with updating older vehicles with newer models and scraping of old</li> \r\n\t<li> Cross-Functional Collaboration</li> \r\n\t<li> Work closely with engineering, testing, quality, and supplier partners</li> \r\n\t<li> Support prototype part handling, shipping/receiving, and traceability</li> \r\n\t<li> Provide technical insights during build reviews and test planning</li> \r\n</ul> \r\n<strong> Requirements:</strong>\r\n\r\n<ul> \r\n\t<li> Strong automotive mechanical knowledge and hands-on experience.</li> \r\n\t<li> Understanding of vehicle systems, including engines, transmissions, and control modules.</li> \r\n\t<li> Experience with automotive diagnostics and troubleshooting.</li> \r\n\t<li> Familiarity with OBD diagnostics and standard automotive repair practices.</li> \r\n\t<li> Ability to perform part installations, fitment checks, and basic wiring modifications.</li> \r\n\t<li> Experience troubleshooting electrical and electronic vehicle issues.</li> \r\n\t<li> Strong organizational and communication skills.</li> \r\n\t<li> Proficiency with Microsoft Office applications.</li> \r\n\t<li> Ability to document issues and communicate technical findings clearly.</li> \r\n\t<li> Proper technical writing skills for vehicle communication/documentation</li> \r\n\t<li> Ability to multitask and manage shifting priorities</li> \r\n\t<li> Intermediate Skill set in NX</li> \r\n\t<li> Mechanical skills required for part installation and fitment</li> \r\n\t<li> Ability to multitask and manage shifting priorities</li> \r\n</ul> \r\n<strong> Preferred:</strong>\r\n\r\n<ul> \r\n\t<li> Experience with NX and Teamcenter.</li> \r\n\t<li> Experience working with prototype or development vehicles.</li> \r\n\t<li> Familiarity with automotive diagnostic software and tools.</li> \r\n\t<li> Exposure to hybrid and electric vehicle systems.</li> \r\n\t<li> Previous experience supporting engineering or research vehicle fleets.</li> \r\n\t<li> Familiarity with Client tools such as CDA/CAC, Service Library, or Star Parts.</li> \r\n\t<li> Preferred: 2–5 years of relevant experience.</li> \r\n\t<li> The manager is seeking candidates who are eager to learn, adaptable, and interested in long-term growth opportunities.</li> \r\n\t<li> Automotive mechanical or tech certificate or degree</li> \r\n\t<li> Essential: 2 to 5 years' experience in Vehicle and parts management.</li> \r\n\t<li> Desirable -5&plus; years' experience in automotive service, vehicle builds, mechanical maintenance, or engineering support.</li> \r\n</ul> \r\n<strong> Education:</strong>\r\n\r\n<ul> \r\n\t<li> Automotive Technician Degree</li> \r\n\t<li> Automotive Technical Associate Degree</li> \r\n\t<li> Automotive Technical Certificate</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
-    "recruiter": [
-      "Naveen Aradhyamath",
-      "na2@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28791274",
-    "time_scraped": 1782976628580,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28791232,
-    "title": "Business Analyst",
-    "location": "UT, Salt Lake City",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782908857000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p> <strong> <span style=\"font-family:Arial,sans-serif;\"> Job Description:</span> </strong></p> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> We are looking for an experienced Business Analyst to join the Utility Integration Business Applications team. </span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> This person will focus on planning and executing integration activities for business systems and processes. </span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> It involves migrating new utilities from their current systems, working closely with the utilities and other program workstream teams to elicit, analyze, and document business requirements and collaborate with the technical team to develop functional designs that meet business requirements.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> This also involves assisting in test planning, documenting test scripts, the execution of testing, supporting user training and implementation and will help ensure the businesses voice is well represented during all phases of the integration project, business impacts are well understood, and subject matter expert's (SME) voices are represented during decision making.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Responsibilities: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Work closely with the utilities and business applications teams to elicit, analyze, and document business requirements.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Collaborate with the technical team to develop functional designs that meet business requirements.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Help ensure the businesses voice is well represented during all phases of the integration project, business impacts are well understood, and SME voices are represented during decision making.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Partner with functional and technical teams to develop test plans, write detailed test cases and execute test scripts for both System and User Acceptance Testing, ensuring alignment with business requirements.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Act as a liaison between business partners, functional and technical teams, stepping in where needed to clarify, communicate, and provide support.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Support the creation of training materials that reflect any new functionalities of systems delivered.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Assist with the co-ordination of business readiness planning and Impact analysis.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Provide ongoing support during the cut-over, go-live and hypercare phases to address any issues and ensure a smooth transition.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Requirements:</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Demonstrated ability to be innovative, initiate, lead, and manage change.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Demonstrated ability to work independently on complex technical issues.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Proven interpersonal, communication, negotiation, influence, and leadership skills.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Demonstrated keen awareness of and aptitude for developing interpersonal relationships and building stakeholder engagement.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Excellent analytical and problem-solving skills.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Ability to make sound decisions and deliver results.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Stellar interpersonal skills including building consensus, negotiation, and facilitation.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Flexible and adaptable; able to work in ambiguous situations.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Preferred:</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> CBAP Certification or other formally recognized education in the field of business analysis can be considered as an asset.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Working knowledge of Client or Dominion systems, specifically around systems supporting Operations and Engineering</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Oracle Account or Financial experience</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Education: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Related university degree and three</span> <span style=\"font-family:Cambria Math,serif;\"> ‐</span> <span style=\"font-family:Arial,sans-serif;\"> plus years' experience in business or systems analysis OR seven</span> <span style=\"font-family:Cambria Math,serif;\"> ‐</span> <span style=\"font-family:Arial,sans-serif;\"> plus years of previous field/operations experience. </span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Equivalent mix of formal education and experience may be considered.</span> </li> \r\n</ul> \r\n\r\n<p>  </p> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
+    "description": "<p> <strong> Job Description:</strong></p> \r\n\r\n<ul> \r\n\t<li> This position is responsible for analysis, research, development and delivery of manufacturing processes and technical launch training with on-site support to OEM vehicle assembly plants in the US, Canada and Mexico.</li> \r\n</ul> \r\n<strong> Responsibilities:</strong>\r\n\r\n<ul> \r\n\t<li> Provide on-site training and support at each of the OEM vehicle assembly plants</li> \r\n\t<li> Instruct and consult plant process and repair personnel to improve their understanding of the vehicle and its highly intricate and interconnected systems and subsystems</li> \r\n\t<li> Present and demonstrate efficient and effective methods of diagnosing and correcting vehicle assembly, vehicle electrical systems and sub-system deficiencies</li> \r\n\t<li> Conduct root cause analysis to accurately identify the cause(s) of assembly and vehicle deficiencies</li> \r\n\t<li> Act as the training liaison between product/manufacturing engineering and general assembly by creating, designing and developing training materials related to vehicle assembly process, electrical harness manufacture, vehicle electrical system architectures and schematics</li> \r\n\t<li> Communicate and share lessons learned, developed training materials and information gathered in support of one plant project with remaining plants on a timely basis</li> \r\n\t<li> Analyze and identify future training needs for each of the OEM vehicle assembly plants</li> \r\n\t<li> Support and participate in plant launch meetings and provide training reports to Raytheon management, the OEM management and OEM launch teams</li> \r\n\t<li> Interface with engineering, component suppliers and vendors to validate and develop training materials for the manufacturing process, vehicle and vehicle electrical sub-systems prior to the Start of Regular Production (SORP)</li> \r\n\t<li> Research and compile manufacturing processes and technical information to be included in training course materials, such as, but not limited to engineering schematics, work in process service information, engineering documents, engineering math data and manufacturing reports</li> \r\n</ul> \r\n<strong> Requirements:</strong>\r\n\r\n<ul> \r\n\t<li> Minimum four years of experience as an automotive instructional designer, training developer, automotive instructor and/or manufacturing instructor</li> \r\n\t<li> Demonstrated knowledge of automotive systems from an advanced diagnostics perspective</li> \r\n\t<li> Demonstrated knowledge of OEM manufacturing tracking and reporting systems</li> \r\n\t<li> Demonstrated knowledge of OEM manufacturing dynamic vehicle testing systems</li> \r\n\t<li> Ability to develop professional training materials using pre-launch documents</li> \r\n\t<li> Ability to read and interpret a digital multimeter, OEM diagnostic scan tool and other automotive related diagnostic test equipment</li> \r\n\t<li> Ability to effectively conduct one-on-one and group presentations Ability to interpret early engineering level electrical schematic diagrams</li> \r\n\t<li> Ability to read OEM supplier electrical harness prints</li> \r\n\t<li> Strong working knowledge of Microsoft Office</li> \r\n\t<li> Extensive travel flexibility. Upward of 75% travel, depending upon launch</li> \r\n\t<li> Ability to work independently without supervision</li> \r\n\t<li> ASE certifications</li> \r\n\t<li> Demonstrated presentation skills delivering process and technical training</li> \r\n\t<li> Automotive technical assistance center experience</li> \r\n</ul> \r\n<strong> Education:</strong>\r\n\r\n<ul> \r\n\t<li> Associate's degree or Certificate in Automotive Technology, engineering or other related discipline</li> \r\n\t<li> High school diploma with eight years of experience as an automotive instructional designer, training developer, automotive instructor and/or manufacturing instructor may be considered in lieu of an associate's degree</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
     "recruiter": [
       "Suraj Babu",
       "sb6@zobility.com",
       "2482686803"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28791232",
-    "time_scraped": 1782976636868,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28802429",
+    "time_scraped": 1783060259867,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28789615,
-    "title": "Project Management Analyst Lead",
-    "location": "MI, Allen Park",
+    "id": 28801980,
+    "title": "Quality Area Manager",
+    "location": "LA, Shreveport",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782855002000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783020222000
     },
     "start": {
       "start_dateStr": null,
@@ -350,28 +86,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p> <strong> Position Description:</strong></p> \r\n\r\n<ul> \r\n\t<li> Must be experienced in managing project management software deployment, supporting program and project manager and program analysts, to ensure that the work is delivered effectively.</li> \r\n\t<li> Able to help resolve any problems or issues that may arise.</li> \r\n\t<li> Ability to integrate, consolidate, and manage multiple projects and integrate multiple model year plans for major program teams, as applicable.</li> \r\n\t<li> Must have the ability and authority to provide guidance to PMA supplier staff and ability to interface with upper level management.</li> \r\n\t<li> Works with minimal supervision and able to function effectively in a matrix organization.</li> \r\n</ul> \r\n<strong> Responsibilities:</strong>\r\n\r\n<ul> \r\n\t<li> Assist PMT leader to coordinate and manage Electrical design, development, engineering, validation, and certification statuses for the team on Performance vehicles to support program and engineering GPDS milestones</li> \r\n\t<li> Support supplier sourcing processes and FMA activities</li> \r\n\t<li> Approval and Sign-Off on all CRs (Base Driven or FP driven) as  &quot;NA”/ flow-through / Approved Review daily Base and FP specific Change Control Decks for any CRs that impact our FP product lines</li> \r\n\t<li> Support weekly FP specific Change Control meeting</li> \r\n\t<li> Review any changes with interfacing D&R engineer to confirm FP impact and update the D screen with PMT5 sign-off</li> \r\n\t<li> Attend Daily Red Border / Part Shortage / OTG meetings for FP programs and follow-up on any PMT specific open item parts through completion</li> \r\n\t<li> Support the progression of Quality / FMA deliverables and follow-up with D&Rs to ensure progression of FMA completion at each milestone</li> \r\n\t<li> Support and drive closure of all FEDE DVPs for any Regulatory Compliance Demonstration Plan / Requirements</li> \r\n\t<li> Support and work with D&Rs to help facilitate closure of any FEDE BOM Sign-off, FEDE BOM Quality, FEDE BOM Sign-Off issues as well as production launch BOM Sign-off</li> \r\n\t<li> Interface daily maintain a collaborative relationship with the core electrical functional engineering teams, attribute teams, suppliers, manufacturing, and management to ensure parts comply with required specifications and critical decisions are made efficiently.</li> \r\n\t<li> Lead and facilitate D&R interface meetings to support closure of open issues for DVPs, CRs, FEDEBOM, FMA, Part Shortages, Red Border and Open-To-Go, Part Sign-Off at production builds and CDP/CDRs.</li> \r\n</ul> \r\n<strong>  Requirements:</strong>\r\n\r\n<ul> \r\n\t<li> Change Management: Lead the cross-functional coordination of electrical engineering changes (DCRs). Track changes from initiation to final approval, ensuring downstream partners (wire harness, purchasing, manufacturing) assess and sign off on cost, weight, and tooling timing impacts to protect vehicle launch</li> \r\n\t<li> Product Development: Proactively track and manage ESI deliverables through GPDS milestones (e.g., KO through FEC). Monitor design maturity and test status leading up to virtual and physical builds (VP, TT), identifying timing bottlenecks or supplier issues early to prevent build delays</li> \r\n\t<li> Product Management: Manage feature-to-part complexity matrices. Align electrical architectures, module variants, and harness part numbers with the Marketing Feature Availability List (MFAL) and program cost/complexity targets</li> \r\n\t<li> Release Management: Drive the on-time release of all Electrical parts (ECUs, wire harnesses). Audit release readiness for build milestones, ensuring engineers clear WERS alerts, resolve  &quot;not-released  &quot; (NR) statuses, and secure purchasing/manufacturing signoffs prior to release freezes.</li> \r\n\t<li> Systems Engineering: Facilitate and track Interface Agreements (IAs) between ESI and other module owners (e.g., ADAS, Infotainment). Monitor the release status of network communications databases to ensure integration testing is not delayed.</li> \r\n\t<li> WERS: Demonstrate high proficiency in WERS to independently query and report on Engineering Concerns, track/drive the closure of WERS alerts, and ensure correct part effectivity dates are applied for plant execution</li> \r\n\t<li> Team Center: Utilize Teamcenter to monitor design maturity and BOM alignment. Track CAD maturity of wiring harnesses and verify that the engineering BOM (eBOM) matches physical releases in WERS for electrical components/ commodities</li> \r\n</ul> \r\n<strong>  Experience Required:</strong>\r\n\r\n<ul> \r\n\t<li> 5&plus; years experience on automotive programs</li> \r\n\t<li> Understanding of GPDS deliverables and basic client engineering tools (FEDE BOM / WERS / Bill of Material / AIMS / 8Ds / Part Sign-Off / GPIRs / FEDE DVP / Engineering Sign Off / DFMEA / FMA / Six Sigma)</li> \r\n\t<li> Experience launching new vehicles and working with a Cross-functional team</li> \r\n\t<li> Ability to handle complex and multiple tasks and complicated situations under compressed timing</li> \r\n</ul> \r\n<strong>  Education Required:</strong>\r\n\r\n<ul> \r\n\t<li> BS Mechanical Engineering or BS Electrical Engineering (or equivalent) or BBA or Associate Degree or BS in Business Administration (or equivalent)</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" style=\"cursor: pointer;\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
+    "description": "<p>We are seeking an experienced <strong>Area Manager &ndash; Quality</strong> to lead all Quality Assurance, Quality Control, and Quality Management functions within a heavy manufacturing facility. This individual will be responsible for ensuring products consistently meet customer specifications, industry standards, and internal quality requirements while driving continuous improvement throughout the operation.</p>\r\n\r\n<p>This is a key leadership position that partners closely with operations, engineering, supply chain, sales, and executive leadership to support production, customer satisfaction, and long-term operational success.</p>\r\n\r\n<h2>Key Responsibilities</h2>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Lead all Quality Assurance, Quality Control, and Quality Management activities for the facility.</li>\r\n\t<li>Develop, implement, maintain, and continuously improve the site&#39;s Quality Management System (QMS).</li>\r\n\t<li>Ensure products consistently meet customer specifications, regulatory requirements, and applicable industry standards.</li>\r\n\t<li>Lead, mentor, develop, and evaluate Quality personnel while building a strong culture of accountability and continuous improvement.</li>\r\n\t<li>Support quality inspections, surveillance activities, and product validation throughout the manufacturing process.</li>\r\n\t<li>Analyze quality trends, investigate customer complaints, product nonconformances, and quality-related issues while leading corrective and preventive actions.</li>\r\n\t<li>Establish quality objectives, performance metrics, and continuous improvement initiatives that reduce defects and operating costs.</li>\r\n\t<li>Manage supplier quality activities, including supplier qualification, audits, production capability assessments, and ongoing performance improvement.</li>\r\n\t<li>Coordinate and lead internal, customer, and third-party quality audits.</li>\r\n\t<li>Serve as the primary quality contact for customers, including technical discussions, plant visits, quality improvement initiatives, and issue resolution.</li>\r\n\t<li>Partner with Operations, Production, Engineering, Maintenance, Supply Chain, Logistics, and Sales to improve manufacturing performance and product quality.</li>\r\n\t<li>Assist in developing quality specifications for new products, inspection equipment, and testing processes.</li>\r\n\t<li>Support budget planning while identifying opportunities to reduce costs associated with quality issues.</li>\r\n\t<li>Ensure compliance with all safety, environmental, and regulatory requirements.</li>\r\n</ul>\r\n\r\n<h2>Required Qualifications</h2>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Bachelor&#39;s degree in Engineering, Metallurgy, Mechanical Engineering, Industrial Engineering, or a related technical discipline. Equivalent industry experience may be considered.</li>\r\n\t<li><strong>Minimum of 5 years of Quality Assurance leadership experience within an OCTG (Oil Country Tubular Goods) manufacturing environment is required.</strong></li>\r\n\t<li>Strong technical knowledge of OCTG manufacturing processes and tubular steel products.</li>\r\n\t<li>Proven ability to interpret customer specifications and translate technical requirements into manufacturing and inspection processes.</li>\r\n\t<li>Demonstrated experience leading Quality Assurance programs within a heavy manufacturing environment.</li>\r\n\t<li>Strong project management experience with the ability to lead cross-functional quality initiatives.</li>\r\n</ul>\r\n\r\n<h2>Technical Qualifications</h2>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Extensive knowledge of tubular manufacturing processes.</li>\r\n\t<li>Strong understanding of material testing, inspection methods, and quality assurance principles.</li>\r\n\t<li>Extensive experience with nondestructive testing (NDT) methods and inspection techniques.</li>\r\n\t<li>Knowledge of raw material specifications and quality requirements.</li>\r\n\t<li>Experience supporting product development and manufacturing quality planning.</li>\r\n\t<li>Strong working knowledge of API, ASTM, and ASME standards.</li>\r\n\t<li>Experience implementing quality improvement initiatives, advanced quality planning, and corrective/preventive action programs.</li>\r\n\t<li>Experience developing, implementing, and maintaining Quality Management Systems (QMS).</li>\r\n\t<li>Experience conducting internal audits, supplier audits, and customer audits.</li>\r\n\t<li>Proficiency with ERP systems such as SAP and Microsoft Office applications.</li>\r\n</ul>\r\n\r\n<h2>Preferred Qualifications</h2>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Master&#39;s degree in Engineering, Metallurgy, Mechanical Engineering, Industrial Engineering, or a related technical field.</li>\r\n\t<li>Previous experience leading supplier quality programs and customer quality initiatives.</li>\r\n\t<li>Experience selecting inspection equipment and developing quality inspection strategies.</li>\r\n\t<li>Experience building and developing quality organizations within a manufacturing environment.</li>\r\n</ul>\r\n\r\n<h2>Professional Skills</h2>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Excellent written and verbal communication skills.</li>\r\n\t<li>Strong leadership, coaching, and team development abilities.</li>\r\n\t<li>Proven ability to influence cross-functional teams and drive organizational change.</li>\r\n\t<li>Strong planning, organizational, and decision-making skills.</li>\r\n\t<li>Excellent analytical, root cause analysis, and problem-solving capabilities.</li>\r\n\t<li>Ability to explain complex technical information to customers, suppliers, and internal stakeholders.</li>\r\n\t<li>Comfortable managing multiple priorities in a fast-paced manufacturing environment.</li>\r\n</ul>\r\n\r\n<h2>Physical Requirements</h2>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Ability to work throughout an industrial manufacturing environment, including standing, walking, climbing stairs, and navigating production areas.</li>\r\n\t<li>Ability to occasionally lift up to 50 pounds and participate in team lifts when required.</li>\r\n\t<li>Ability to work around manufacturing equipment while following all PPE and safety requirements.</li>\r\n\t<li>Comfortable working in varying environmental conditions, including heat, cold, and elevated noise levels.</li>\r\n</ul>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
     "recruiter": [
-      "Umesh Lokanathan",
-      "ul2@zobility.com",
-      "2482686752"
+      null,
+      null,
+      null
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28789615",
-    "time_scraped": 1782976637501,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28801980",
+    "time_scraped": 1783060259866,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28789518,
-    "title": "Maintenance Technician",
-    "location": "IN, Jeffersonville",
+    "id": 28801944,
+    "title": "Quality Assurance Manager/NDT III",
+    "location": "LA, Shreveport",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782854316000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783019858000
     },
     "start": {
       "start_dateStr": null,
@@ -383,28 +119,61 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Job Description:</span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The Maintenance Technician is responsible for ensuring equipment uptime through timely, in-depth troubleshooting and repair. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The Maintenance Technician performs troubleshooting and repair of all production equipment including injection molders, blow molders, fillers/cappers, labelers, case packers, conveyors, palletizers, and stretch wrappers. The Maintenance Technician also performs troubleshooting and repair of facilities and auxiliary equipment, such as chillers, air compressors, Reverse Osmosis, other water filtration equipment and general maintenance of the plant. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The Maintenance Technician works directly with machine Operators, Supervisors, Preventative Maintenance Mechanics and Sr. Maintenance Technicians to resolve mechanical issues that arise during shift. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The Maintenance Technician proposes solutions to complex and reoccurring problems on production equipment to Sr. Mechanics and Management to resolve issues.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Responsibilities: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Troubleshoot mechanical, electrical, pneumatic, and hydraulic systems using schematics, technical drawings and testing equipment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Repair equipment, fixtures, systems, conveyors, and other equipment at facility</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Modify, lubricate, diagnose, and operate equipment in accordance with Client&#39;s defined processes</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Maintain industrial control systems</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Work independently and with other team members to complete repairs in a safe and timely manner</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">May fill in for production operator as needed</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Create and report repairs throughout shift. Complete required work order paperwork, document parts and material usage    </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Understand and follow plant safety rules including safe lifting practices and safe machine operation. Personal Protective Equipment is to be used where required</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Regular and predictable attendance is an essential function of the job to ensure equipment and facility uptime          </span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Requirements: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">4 Years  - Experience in Field or similar maintenance environment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">4 Years  - Experience in Position</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">4 Years  - Experience managing people/projects</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Demonstrated ability to communicate effectively and resolve issues across multiple departments</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Basic experience with Microsoft Word, Excel and Outlook</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Effective communication of issues and solutions to cross-functional team members</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to read and interpret schematics: electrical, hydraulic, and pneumatic</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Skilled in the use of shop equipment such as hydraulic and mechanical presses, bench grinder, drill press, mill and lathe, and assorted power tools</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Proficient skills with precision measuring equipment, such as calipers, dial indicators, bore gauges, and depth gauges</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Willingness to be a technical leader and trainer within a specific area of plant or machine center</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Will need own toolbox and basic tools</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Preferred:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">6 Years - Experience in Field or similar manufacturing environment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">6 Years - Experience working in Position               </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">6 Years - Experience managing people/projects</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience in high-speed manufacturing, bottling, beverage, packaging, or plastics industries</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience with the following technologies:</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Variable frequency drive (VFD), servo drives, and servo motor</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Rotary equipment such as rotary press or filler</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Thermodynamics, heat transfer, or plastics processing</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Krones, Sidel, or Husky equipment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">HVAC including chillers and/or air compressors</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience working with electrical, hydraulic and pneumatic schematics for troubleshooting</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Skilled in fabrication capabilities such as cutting and welding (mig, tig or stick)</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Skilled working with electrical systems including 480VAC &amp; 24VDC power</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
+    "description": "<p> We are seeking an experienced <strong> Quality Assurance Manager</strong> to lead quality initiatives within a manufacturing environment. This individual will oversee Quality Assurance and Quality Control operations while ensuring products consistently meet customer expectations, regulatory requirements, and internal quality standards.</p> \r\n\r\n<p> This is a hands-on leadership role focused on driving continuous improvement, supporting production, and building a strong quality culture.</p> \r\n\r\n<h3> Responsibilities</h3> \r\n\r\n<ul data-spread=\"false\"> \r\n\t<li> Lead and develop Quality Assurance and Quality Control teams.</li> \r\n\t<li> Manage and maintain the Quality Management System (QMS).</li> \r\n\t<li> Develop, implement, and improve quality processes, procedures, and work instructions.</li> \r\n\t<li> Monitor production quality and identify opportunities for process improvements.</li> \r\n\t<li> Analyze quality data and prepare reports for plant leadership.</li> \r\n\t<li> Lead investigations into customer complaints, product nonconformances, and corrective actions.</li> \r\n\t<li> Coordinate internal, customer, and third-party quality audits.</li> \r\n\t<li> Ensure compliance with applicable industry standards and customer specifications.</li> \r\n\t<li> Develop quality training programs and mentor team members on quality best practices.</li> \r\n\t<li> Partner with production, engineering, and operations teams to improve manufacturing performance, product quality, and overall efficiency.</li> \r\n\t<li> Support continuous improvement initiatives that reduce defects and improve operational performance.</li> \r\n</ul> \r\n\r\n<h3> Required Qualifications</h3> \r\n\r\n<ul data-spread=\"false\"> \r\n\t<li> Bachelor's degree in Engineering, Engineering Technology, or a related technical field, or equivalent industry experience.</li> \r\n\t<li> 5&plus; years of manufacturing experience.</li> \r\n\t<li> 6&plus; years of progressive experience in Quality Assurance or Quality Control, including leadership responsibilities.</li> \r\n\t<li> Experience within steel, tubular products, metals, or other heavy manufacturing environments.</li> \r\n\t<li> Strong understanding of quality systems, process control, and continuous improvement methodologies.</li> \r\n\t<li> Experience with nondestructive testing (NDT) and mechanical testing.</li> \r\n\t<li> Knowledge of industry quality standards and manufacturing specifications.</li> \r\n\t<li> Excellent analytical, organizational, and communication skills.</li> \r\n\t<li> Ability to manage multiple priorities in a fast-paced manufacturing environment.</li> \r\n</ul> \r\n\r\n<h3> Preferred Qualifications</h3> \r\n\r\n<ul data-spread=\"false\"> \r\n\t<li> NDT Level III certification.</li> \r\n\t<li> Six Sigma Green Belt certification.</li> \r\n\t<li> Advanced degree in Engineering, Technology, or Business.</li> \r\n\t<li> Experience with ERP systems such as SAP.</li> \r\n\t<li> Previous experience leading quality teams through audits, process improvements, and manufacturing start-up or expansion activities.</li> \r\n</ul> \r\n\r\n<h3> Physical Requirements</h3> \r\n\r\n<ul data-spread=\"false\"> \r\n\t<li> Ability to occasionally lift up to 50 pounds.</li> \r\n\t<li> Comfortable working throughout an industrial manufacturing facility, including standing, walking, and climbing stairs.</li> \r\n\t<li> Ability to work safely around production equipment while following all PPE and safety requirements.</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
     "recruiter": [
-      "Nagendra (Nate) Kumar",
-      "nk12@zobility.com",
+      null,
+      null,
+      null
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28801944",
+    "time_scraped": 1783060273188,
+    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
+    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28801817,
+    "title": "Manufacturing Engineer ",
+    "location": "AL, Foley",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783018719000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Job Description:</span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The Manufacturing Engineer supports production operations by developing, optimizing, and maintaining manufacturing processes, tools, and workflows. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">This role ensures products are built efficiently, safely, and in compliance with quality, cost, and delivery targets while supporting continuous improvement initiatives across the manufacturing environment. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Focus on OEM productions site support for ground and flight support manufacturing engineering activities.</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
+    "recruiter": [
+      "Ajay Vishwakarma",
+      "av45@zobility.com",
       "2485891135"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28789518",
-    "time_scraped": 1782976637586,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28801817",
+    "time_scraped": 1783060273192,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28789437,
-    "title": "Sr. Maintenance Technician",
-    "location": "IN, Jeffersonville",
+    "id": 28801785,
+    "title": "Quality Support",
+    "location": "KS, Lenexa",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782853653000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783018506000
     },
     "start": {
       "start_dateStr": null,
@@ -416,28 +185,61 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p> <strong> <span style=\"font-family:arial,sans-serif\"> Job Description:</span>  </strong></p> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> The Sr. Maintenance Technician ensures equipment uptime through timely, in-depth troubleshooting and repair of all equipment failures. </span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> The Sr. Maintenance Technician shares knowledge of all production equipment to maintenance team and Operators. </span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> The Sr. Maintenance Technician acts as a subject matter expert on behalf of the plant in at least one of the following equipment areas: injection molders, blow molders, fillers/cappers, labelers, case packers, conveyors, palletizers and/or stretch wrappers.</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> The Sr. Maintenance Technician performs troubleshooting and repair of facilities and auxiliary equipment such as chillers, air compressors, Reverse Osmosis, other water filtration equipment and general maintenance of the plant. Sr. Maintenance Technician works directly with Maintenance Technicians, machine Operators, Supervisors, and Managers to resolve mechanical issues. </span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> The Sr. Maintenance Technician develops and implements best practices aligned with Client's maintenance strategies. Through the use of preventative and predictive maintenance processes, the Sr. Maintenance Technician champions continuous improvement efforts and assists with training in their designated focus areas.</span> </li> \r\n</ul> \r\n<br /> \r\n<strong> <span style=\"font-family:arial,sans-serif\"> Responsibilities:</span>  </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Adhere to and enforce highest standards in safety and good manufacturing practices plant-wide</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Train and lead Operators, Mechanics and Supervisors on technical procedures related to high-speed bottle manufacturing and packaging</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Work directly with plant leadership to develop and execute projects involving continuous improvement, upgrades, and the resolution of re-occurring problems</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Rapid identification of machine problems to minimize equipment downtime with root cause analysis conducted to prevent re-occurrence</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Partner with other Sr. Maintenance Technician to resolve cross-functional problems</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Use of available software systems to analyze and identify issues to drive throughput performance</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Define requirements and lead overhaul efforts to rebuild equipment to like-new status during planned downtime</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Transfer knowledge to Client team members to develop operating and troubleshooting</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> procedures in the following areas of bottling production specialization:</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Blow molding, inclusive of PET processing, machine set-up, mold changes, and quality inspection systems</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Filling/capping, beverage processing methods, cap feeding systems with light closures, vision inspections systems and laser date coders, quality/sanitation standards, and conveying systems</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Labeling technology, roll-fed and/or cut and stack, machine set-up, hot melt gluing systems, and conveying systems</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Dry-end packaging including case packers, case conveyors, conventional and robotic palletizers, and stretch wrappers.</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Machine set-up required for all pack size changes</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Common OEM's for production equipment: Krones, Sidel, KHS, Sacmi, Tech Long</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Transfer knowledge to Client team members to develop operating and troubleshooting procedures in the following areas of injection technology:</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Husky injection molding machines consisting of hydraulic, pneumatic, and electromechanical systems</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Auxiliary systems including resin handling/blending, resin drying, dehumidification, vision inspection, conveying, and cooling systems</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Mold systems, internal hot runner and cold half maintenance, identification of component wear and troubleshooting through detailed inspection of produced products</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Plastic processing at high speeds while maintaining tight part tolerances and acceptable levels of acetaldehyde (AA)</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Create SOP's for troubleshooting machines, and upload them to BDA system; responsibility for machine reliability and meantime before failure</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Regular and predictable attendance, as well as required on-call availability, are essential functions of the job to ensure equipment and facility up-time</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Ability to stand or walk for extended periods of time in a manufacturing environment. Ability to lift up to 50 lbs.</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Will need own toolbox and basic tools.</span> </li> \r\n</ul> \r\n<br /> \r\n<strong> <span style=\"font-family:arial,sans-serif\"> Requirements:</span>  </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> 6 Years - Experience in a maintenance manufacturing environment</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> 6 Years - Experience in Position</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> 4 Years - Experience managing people/projects</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Demonstrated ability to communicate effectively and resolve issues across multiple departments and levels of the organization</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Experience with Microsoft Word, Excel, and Outlook</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Effective communication of issues and solutions to cross-functional team members</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Ability to read and interpret schematics: electrical, hydraulic, and pneumatic</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Skilled in the use of shop equipment such as hydraulic and mechanical presses, bench grinder, drill press, mill and lathe, and assorted power tools</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Proficient skills with precision measuring equipment, such as calipers, dial indicators, bore gauges, and depth gauges</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Willingness to be a technical leader and trainer within a specific area of plant or machine center</span> </li> \r\n</ul> \r\n<br /> \r\n<strong> <span style=\"font-family:arial,sans-serif\"> Preferred:</span>  </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> 4 years of experience in one of the following fields: blow molding, injection molding,</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> packaging, or beverage</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> 4 years of experience with Krones, Husky, Sidel, or other packaging or bottling equipment</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> 1 year of experience leading and developing others on the functionality and repair of equipment</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> 2 years of experience creating process improvements or continuous improvement initiatives</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Skilled in fabrication capabilities such as cutting and welding (mig, tig or stick)</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Skilled working with electrical systems including 480VAC & 24VDC power</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Ability to read and interpret schematics for process and instrumentation diagrams</span> </li> \r\n\t<li> <span style=\"font-family:arial,sans-serif\"> Skilled in the repair of variable frequency drives, servo motors and controllers, communication systems (asi-bus, can-bus, profi-bus, ethernet), PLC input/output cards, and safety modules</span> </li> \r\n</ul> \r\n\r\n<p>  </p> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" style=\"cursor: pointer;\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
+    "description": "<p> <strong> Responsibilities:</strong></p> \r\n\r\n<ul> \r\n\t<li> The Quality Support Specialist assists the quality organization by performing documentation reviews, coordinating quality activities, supporting inspections, managing data, and ensuring compliance with internal standards and customer/regulatory requirements.</li> \r\n\t<li> This role helps maintain product and process quality through administrative, analytical, and coordination support.</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
     "recruiter": [
-      "Nagendra (Nate) Kumar",
-      "nk12@zobility.com",
+      "Albert Anthony",
+      "aa2@zobility.com",
+      "2482686811"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28801785",
+    "time_scraped": 1783060273195,
+    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
+    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28801428,
+    "title": "Supplier Quality Engineer",
+    "location": "SC, Florence",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783015703000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p> <strong> Job Description:</strong></p> \r\n\r\n<ul> \r\n\t<li> Products: Elevator components (Mechanical, Electrical, electromechanical & Fabrication)</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
+    "recruiter": [
+      "Ana Sybil",
+      "as14@rgbsi.com",
       "2485891135"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28789437",
-    "time_scraped": 1782976646334,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28801428",
+    "time_scraped": 1783060286707,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28789296,
-    "title": "Maintenance Supervisor",
-    "location": "IN, Jeffersonville",
+    "id": 28800657,
+    "title": "Customer Support Engineering (3rd Shift)",
+    "location": "MI, Sterling Heights",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782852714000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783011252000
     },
     "start": {
       "start_dateStr": null,
@@ -449,28 +251,94 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Job Description: </span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Coordinates the day-to-day activities of maintenance workers to ensure that production equipment, machinery, or instruments function reliably and safely and that facilities, buildings, and plants are in good working order. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Monitors workers responsible for the maintenance of production equipment and related systems. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Assists with root cause analysis of equipment failures and implements fixes.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Responsibilities: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Oversees maintenance of injection molding, blow molding and packaging equipment.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Oversees activities of maintenance department. Reviews and approves preventative maintenance documents.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Schedules and manages preventative maintenance activities.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Responsible for building world-class mechanical and preventative maintenance teams that will keep production equipment in excellent condition, keep lines running high efficiencies and maintain proper stock of parts.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Oversees outside contractors performing installations and projects at the facility.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Interfaces with others in the organization to ensure customer deadlines are met.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Hires, trains, coaches and reviews performance of employees.  Works with HR for employee discipline issues, terminations and recruitment.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Oversees safety team activities.   Monitors and enforces safety requirements.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Builds a positive work environment.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Develops, recommends, and implements measures to improve production methods, equipment performance, and quality of product.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Suggests changes in working conditions and use of equipment to increase efficiency of shop, department, or work crew.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Analyzes and resolves work problems, or assists workers in solving work problems.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Maintains time and maintenance records.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Develops capital equipment justifications for machine tools and process technology to improve quality, cost and cycle times.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Estimates, requisitions and inspects materials.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Maintains a clean work environment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Regular and predictable attendance is an essential function of the job.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Requirements:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">4 Years - Experience in Field or similar manufacturing environment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">4 Years - Experience in Position</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">4 Years - Experience managing people/projects experience may include a combination of work experience and education</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Required to lift items up to 50 lbs throughout shift.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Preferred:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">6 Years - Experience in Field or similar manufacturing environment</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">6 Years - Experience working in Position               </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">6 Years - Experience managing people/projects</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Education: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Associate&#39;s Degree in Engineering, Business Administration or other related field/vocational studies</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Bachelor&#39;s Degree in Engineering, Business Administration or other related field/vocational studies preferred</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
+    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Job Description: </span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The successful candidate will serve as the link between the plant and the manufacturing facility. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">The candidate will also be required to re-verify parts within the computer system. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Candidate should be computer literate and familiar with Excel, Word, and email. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">This person should be highly organized and have superior communication skills as he/she will interface with customers. </span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Responsibilities: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Perform a good first level analysis of non-conformances. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Verify all suspect product and maintain product test equipment. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Be the communication link between Customer Plant and Client. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">CSE will reside at customer facility. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Expedite non-confirming material back to Client same day. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Input data into Incident Reporting System (IRS). </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Provide technical support and system understanding. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Conduct/coordinate initial 24 hour containment. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Where required, coordinate additional containment. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Be an integral part of the response teams. Write a weekly trip report. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Monitor/negotiate Global Customer Base Return Parts Per Million (PPM) rates.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Provide/coordinate special event activity. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Develop customer relationships in the plant to improve the product and maintain or increase the business. </span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Requirements: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">6-10 years of related work experience. </span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Education: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">College degree with a major in Engineering</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Training in computer applications</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
+    "recruiter": [
+      "Arjun Ajith",
+      "aa3@zobility.com",
+      "2485891135"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28800657",
+    "time_scraped": 1783060286707,
+    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
+    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28799835,
+    "title": "Operations Support",
+    "location": "AZ, Phoenix",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783005267000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p>  <strong>  Responsibilities:</strong></p>  \r\n\r\n<ul>  \r\n\t<li>  The Operations Support role is responsible for assisting day to day business operations by coordinating processes, maintaining documentation, and supporting teams to ensure efficient workflow and operational effectiveness.</li>  \r\n\t<li>  This role works closely with cross functional departments to resolve issues, streamline activities, and support overall organizational productivity.</li>  \r\n</ul>  \r\n\r\n<p>  We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>   to learn more.</p>  \r\n\r\n<p>  Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>  \r\n",
+    "recruiter": [
+      "Albert Anthony",
+      "aa2@zobility.com",
+      "2482686811"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28799835",
+    "time_scraped": 1783060286707,
+    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
+    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28798861,
+    "title": "Business Operations Specialists",
+    "location": "CT, Windsor Locks",
+    "experience": {
+      "experience": -1
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1782998605000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p>  <strong>  Responsibilities:</strong></p>  \r\n\r\n<ul>  \r\n\t<li>  EACS Operations Lead (Onsite - Windsor Locks, CT) Maintain a culture of safety, quality and compliance as a top priority</li>  \r\n\t<li>  Leverage exceptional written and verbal communication skills, in partnership with the Program Managers to ensure effective internal and customer communication on manufacturing plans and operational performance.</li>  \r\n\t<li>  Drive rapid closure to issues as they arise, including quality, supply and operational excellence issues Partner with site operations to develop strong inventory strategies and production schedules based on demand, lead time, capacity constraints, inventory targets and materials availability</li>  \r\n\t<li>  Accelerate proactive efforts to get in front of future risk to operational performance</li>  \r\n\t<li>  Facilitate burndown of SRI (Supplier Request for Information) and FAI (First Article Inspection) Support LTB or material substitution activities to ensure component availability.</li>  \r\n\t<li>  Provide inputs into the SIOP process Support the Product Line Teams in driving rate readiness assessments, identifying gaps, and driving action plans to maintain production capacity (labor, equipment, tooling) in alignment with the long and short-term demand.</li>  \r\n</ul>  \r\n<strong>  Requirements:</strong>\r\n\r\n<ul>  \r\n\t<li>  Experience in Quality, Operations or Supply Management including new product introduction Qualifications</li>  \r\n\t<li>  We Prefer Experience with SI&OP (Sales, Inventory and Operations Planning) processes. Customer relationship management skills, with working experience resolving operational challenges.</li>  \r\n\t<li>  Experience in application of continuous improvement tools.</li>  \r\n\t<li>  All business operations specialists not listed separately.</li>  \r\n</ul>  \r\n<strong>  Education:</strong>\r\n\r\n<ul>  \r\n\t<li>  Typically requires a University Degree and minimum 8 years prior relevant experience or an Advanced Degree in a related field and minimum 5 years of experience</li>  \r\n</ul>  \r\n\r\n<p>  We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>   to learn more.</p>  \r\n\r\n<p>  Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>  \r\n",
     "recruiter": [
       "Aboo Backer",
       "mb3@zobility.com",
       "248 589 1135"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28789296",
-    "time_scraped": 1782976646081,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28798861",
+    "time_scraped": 1783060298762,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28789163,
-    "title": "Vision Engineer",
-    "location": "MI, Wixom",
+    "id": 28798584,
+    "title": "CADD Technician II",
+    "location": "UT, Salt Lake City",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782851803000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1782995426000
     },
     "start": {
       "start_dateStr": null,
@@ -482,160 +350,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Job Description:</span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Perform feasibility studies, Cognex Easybuilder, spreadsheet, Keyence laser and Keyence traditional tools. </span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Requirements:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">3&plus; years experience is ideal</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Must be able to work alone and/or within a team.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Must be able to engage with customer in a professional manner.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Matrox DA (Design Assistance), Matrox template programming, AIA certified a benefit not a must.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">GigE networks.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Software: Cognex, Keyence, Allied Vision, Basler, Matrox, GVI, Smart Vision Lighting, AIA</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Candidates should have the ability to create machine vision inspections based on specification and scope of work.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Must have developed applications for Absence/Presence, Kitting, model inspection, barcode, OCR</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Familiarity using external lights and lighting, filters and lenses.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Able to travel to customer sites as needed</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Education:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">AS or BS in Engineering. Ideally, Computer Science, Mechatronics, Electrical Engineer or similar. Equivalent years of experience can be substituted for a degree.</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Naveen Aradhyamath",
-      "na2@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28789163",
-    "time_scraped": 1782976646756,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28788578,
-    "title": "Assistant Vice President - Manufacturing",
-    "location": "PA, Reading",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782849089000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><strong>Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Execute manufacturing strategy in partnership with VP Manufacturing</li>\r\n\t<li>Lead performance across GM-led business units</li>\r\n\t<li>Drive safety, quality, delivery, cost, and productivity</li>\r\n\t<li>Support financial planning, forecasting, and cost management</li>\r\n\t<li>Lead Lean transformation and continuous improvement</li>\r\n\t<li>Oversee capital projects and operational initiatives</li>\r\n\t<li>Develop leadership bench strength and succession plans</li>\r\n\t<li>Partner with executive leadership and stakeholders</li>\r\n</ul>\r\n<strong>Requirements:</strong>\r\n\r\n<ul>\r\n\t<li>12&plus; years manufacturing leadership experience</li>\r\n\t<li>Experience in large-scale industrial environments</li>\r\n\t<li>Proven leadership of multi-unit or complex operations</li>\r\n\t<li>Experience managing senior leaders</li>\r\n</ul>\r\n<strong> Education: </strong>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree required; advanced degree preferred</li>\r\n</ul>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" style=\"cursor: pointer;\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Sandeep Abbimane",
-      "sa3@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28788578",
-    "time_scraped": 1782976661466,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28788483,
-    "title": "General Utility Associate (2nd Shift)",
-    "location": "IL, Kankakee",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782848409000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p>  <strong>  <span style=\"font-family:Arial,sans-serif;\">  Job Description: </span>  </strong></p>  \r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  The General Utility Associate helps the facility in several ways. </span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  They work with production to ensure production lines have materials, completes paperwork, maintain housekeeping, and can assist with quality checks so the team operates smoothly and safely. </span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  This position also helps ensure shipments are staged, loaded, and labeled correctly to ensure that the correct product goes out on time every shift.</span>  </li>  \r\n</ul>  \r\n <br />  \r\n<strong>  <span style=\"font-family:Arial,sans-serif;\">  Responsibilities: </span>  </strong>\r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Work closely with plant staff to provide a safe work environment.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Responsible for starting and operating mixer/production line.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Empty production line into pallets for WIP or finished goods.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Keep count of inventory produced during shift.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Helps keep track of actual downtime and cause.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Ensures proper packaging materials are used for product type.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Responsible for building pallets to keep up with product output.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Unload/load trucks and stage products into correct location.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Periodically inspect for quality issues. May be done visually or with tools.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Keep the work area clean using 6S process.</span>  </li>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  Other duties as assigned.</span>  </li>  \r\n</ul>  \r\n <br />  \r\n<strong>  <span style=\"font-family:Arial,sans-serif;\">  Requirements: </span>  </strong>\r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  General work experience in manufacturing or similar preferred.</span>  </li>  \r\n</ul>  \r\n <br />  \r\n<strong>  <span style=\"font-family:Arial,sans-serif;\">  Education: </span>  </strong>\r\n\r\n<ul>  \r\n\t<li>  <span style=\"font-family:Arial,sans-serif;\">  High School Diploma or GED preferred.</span>  </li>  \r\n</ul>  \r\n\r\n<p>   </p>  \r\n\r\n<p>  We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>   to learn more.</p>  \r\n\r\n<p>  Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>  \r\n",
-    "recruiter": [
-      "Arfath (Andrew) Azeez",
-      "aa14@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28788483",
-    "time_scraped": 1782976660872,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785943,
-    "title": "Shipping, Receiving, and Inventory Clerks",
-    "location": "NC, Monroe",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782833684000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p>  <strong>  Responsibilities:</strong></p>  \r\n\r\n<ul>  \r\n\t<li>  Verify and maintain records on incoming and outgoing shipments involving inventory.</li>  \r\n\t<li>  Duties include verifying and recording incoming merchandise or material and arranging for the transportation of products.</li>  \r\n\t<li>  May prepare items for shipment.</li>  \r\n</ul>  \r\n\r\n<p>  We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>   to learn more.</p>  \r\n\r\n<p>  Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>  \r\n",
-    "recruiter": [
-      "Kelvin Biju",
-      "kb2@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28785943",
-    "time_scraped": 1782976661645,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785818,
-    "title": "Test Engineer",
-    "location": "AZ, Gilbert",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782833042000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p>  <strong>  Responsibilities:</strong></p>  \r\n\r\n<ul>  \r\n\t<li>  Responsible for completing tasks related to the design and manufacture of Electrical Ground Support Equipment (EGSE) for client products.</li>  \r\n\t<li>  This includes the development of EGSE test systems includes software, and documentation.</li>  \r\n\t<li>  Working with other disciplines and within the test team to ensure program schedules and requirements are met.</li>  \r\n</ul>  \r\n<strong>  Test Software:</strong>\r\n\r\n<ul>  \r\n\t<li>  Create National Instruments LabVIEW VIs for COTS instrument control and monitoring, and User Interface (UI) for UUT command and telemetry.</li>  \r\n\t<li>  Development of Python scripts to control execution of VxWorks and LabVIEW code for test automation.</li>  \r\n\t<li>  Knowledge of VxWorks test code is desirable for integration with the C code on the SBC.</li>  \r\n\t<li>  Familiarity with VHDL is also desirable for FPGA programming and integration.</li>  \r\n</ul>  \r\n<strong>  Documentation:</strong>\r\n\r\n<ul>  \r\n\t<li>  Test engineers are responsible for the creation and maintenance of assembly, schematic, and parts lists for custom test equipment through the client document control system. Microsoft Visio, Microsoft Excel, and Intercept Mozaix are used for design documentation.</li>  \r\n\t<li>  Test engineers are also responsible for the formal documentation of Integration and Test Plans, Environmental Test Plans and Acceptance Test Procedures (customer deliverables) used to document compliance with all customer and design requirements.</li>  \r\n</ul>  \r\n<strong>  Requirements:</strong>\r\n\r\n<ul>  \r\n\t<li>  A candidate must be knowledgeable in software development using any of C, LabVIEW, or Python programming languages.</li>  \r\n\t<li>  Knowledgeable using Windows applications such as Visio, Word and other Microsoft Office tools.</li>  \r\n\t<li>  Knowledge of hardware test principals and preferably test experience for spacecraft components.</li>  \r\n\t<li>  Self-motivated and willing to take ownership of assignments and look for ways to execute on time.</li>  \r\n\t<li>  Willing to assist other engineers in Hardware or Software Development, Debug, and Execution. </li>  \r\n</ul>  \r\n<strong>  Education:</strong>\r\n\r\n<ul>  \r\n\t<li>  A minimum of a BS in Electrical Engineering, Computer Science, or related STEM degree and 3&plus; years of position related experience.</li>  \r\n</ul>  \r\n\r\n<p>  We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">  www.zobility.com</a>   to learn more.</p>  \r\n\r\n<p>  Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>  \r\n",
+    "description": "<p><strong><span style=\"font-family:arial,sans-serif\">Responsibilities:</span> </strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Prepares simple to intermediate level piping / mechanical fabrication drawings and/or civil site and grading plans, pipeline alignment and profile drawings for construction of gas distribution pipeline projects (e.g., gate stations, meter and regulator stations as well as related pipeline appurtenance).</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Coordinate assigned projects, prepare project drawing reviews and ongoing status reports.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Assist Internal and External customers by providing them with drawings and other needed pipe information and data.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Provide facility data research required for modifying existing facilities.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Provide gas facility and mapping information for engineering, construction and other company personnel.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Provide gas facility information to external customers i.e. engineering firms, Blue Stakes, Government agencies, etc.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Works under direction from the supervisor and other designers to carry out design/drafting assignments with latitude in the use of initiative and independent judgment.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Perform other duties as assigned.</span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:arial,sans-serif\">Requirements:</span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Regular attendance; on-the-job working an approved schedule.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Proficient with entry level design and drafting and be able to meet reasonable design / drafting project completion deadlines.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">A valid driver&#39;s license and acceptable driving record.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Adherence to all company policies, including the Business Ethics and Compliance Policy including all applicable industry rules and regulations such as FERC and DOT compliance.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Requires ability to walk up steep and/or ungraded surfaces.</span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:arial,sans-serif\">Knowledge of:</span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Computer Aided Drafting (CAD) programs</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Read and understand facility drawings and alignment sheets.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Standard Practices and terminology.</span></li>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Property rights-of-way and surveying principles; basic mathematics algebra, geometry &amp; trigonometry.</span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:arial,sans-serif\">Demonstrated Skill:</span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">AutoCAD, AutoCAD Plant 3D and/or AutoCAD Civil 3D, Vehicle Tracking, Autodesk Vault, Microsoft Office products including Outlook, Word and Excel, Adobe Acrobat Pro, CADWorx P&amp;ID (beneficial)</span></li>\r\n</ul>\r\n<br />\r\n<strong><span style=\"font-family:arial,sans-serif\">Education:</span> </strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:arial,sans-serif\">Two-year associate degree or certificate in Computer Aided Design and Drafting from an accredited institution or equivalent professional experience as well as 0 - 2&plus; years Professional Experience.</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" style=\"cursor: pointer;\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
     "recruiter": [
       "Rachel Kaur",
       "rk13@zobility.com",
       "2485891135"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28785818",
-    "time_scraped": 1782976670452,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28798584",
+    "time_scraped": 1783060297354,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28785594,
-    "title": "Regulatory Affairs Specialist",
-    "location": "CT, Trumbull",
+    "id": 28798465,
+    "title": "Executive Administrative Assistant",
+    "location": "CT, Farmington",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782831823000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1782994107000
     },
     "start": {
       "start_dateStr": null,
@@ -647,47 +383,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p> <strong> Job Description:</strong></p> \r\n\r\n<ul> \r\n\t<li> This is work in pesticide product registration and compliance requiring an entrepreneurial attitude, and enthusiasm for supporting business development and technical efforts supporting new end-use product registrations.</li> \r\n\t<li> The successful candidate will have a background in FIFRA product registration, data generation and efficacy testing to support cost effective and time sensitive product registration applications.</li> \r\n</ul> \r\n<strong> Responsibilities:</strong>\r\n\r\n<ul> \r\n\t<li> Developing and managing projects related to pesticide product registration, safety and compliance.</li> \r\n\t<li> Support FIFRA registrations for conventional pesticides including preparing, submitting and/or managing product applications.</li> \r\n\t<li> Managing multiple product registrations and project teams within the scope/ budget/ schedule expectations and ensuring quality standards on project deliverables.</li> \r\n</ul> \r\n<strong> Requirements:</strong>\r\n\r\n<ul> \r\n\t<li> At least 5 years of experience in pesticide product registration; or equivalent combination of education and experience, including preparation and submission of pesticide registration applications, product labels, offers-to-pay, data matrices, etc. (required).</li> \r\n\t<li> Knowledge of federal and state statutes and regulations related to pesticide registration (required).</li> \r\n\t<li> Working knowledge of relevant federal and state regulatory programs (e.g., FIFRA, TSCA, Prop 65). (required)</li> \r\n\t<li> Experience in managing multiple complex product registration, safety and compliance, EHS compliance, or related projects. (required)</li> \r\n\t<li> Safety and compliance, EHS compliance, or related practices experience (preferred).</li> \r\n</ul> \r\n<strong> Education:</strong>\r\n\r\n<ul> \r\n\t<li> Bachelor's degree in environmental science, chemistry, toxicology, environmental engineering, or other applicable related degree. (required)</li> \r\n\t<li> Advanced degree in environmental science, chemistry, toxicology, environmental engineering, or other applicable related degree. (preferred)</li> \r\n</ul> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
+    "description": "<p> <strong> <span style=\"font-family:Arial,sans-serif;\"> Job Description: </span> </strong></p> \r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Executive Administrative Assistant to support a C-Suite senior leader in the Human Resources function. </span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> The successful candidate will be a self-starter with the ability to make important office decisions while working in a highly collaborative, and versatile environment handling an array of assignments and responsibilities. </span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Exceptional focus on time management, organization and attention to details are critical.</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Responsibilities: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Effective calendar management - managing complex executive schedules, understanding priorities, scheduling meetings, and resolving conflicts effectively and efficiently</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Scheduling all aspects of travel (domestic and international) - available off hours as needed - ensure all necessary documents and processes are followed in advance of the trip</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Accurately processing expense reports with timely submission in accordance with all policies and procedures</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Prepare for meetings - includes booking conference room, escorting visitors, printing materials, connecting Zoom calls and organizing catering as needed</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Preparing documents and presentations for leadership, as needed</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Maintaining accurate team documents such as department files, correspondence, contact lists and organizational charts.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Attending executive staff meetings, taking meeting minutes and distributing action items to attendees.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Develop collaborative relationships with administrative staff within the organization</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Resourceful in getting answers to questions and communicating them effectively</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> The ability to handle confidential information with maturity, discretion, and a high degree of professionalism is paramount</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Requirements: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Familiarity with digital collaboration tools and video/virtual conferencing platforms.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Tech savvy - proficient with Microsoft office suite (PowerPoint, Excel, Outlook).</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Must be willing to work onsite, Monday through Friday, in Farmington, CT</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Preferred: </span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Experience with another large organization supporting a senior level leader</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Ability to navigate across broader organization</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Follows directions thoroughly and maintains confidentiality of any company sensitive information</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Self-motivated team player with desire and drive to learn and grow</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Operate efficiently, learn, adapt quickly and lean forward</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Outstanding interpersonal skills, both verbal and written</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Excellent prioritization and organizational skills</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Problem-solver with sound business judgment</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Collaborate effectively with all team members</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Forward thinker with proactive mindset and attention to detail</span> </li> \r\n</ul> \r\n <br /> \r\n<strong> <span style=\"font-family:Arial,sans-serif;\"> Education:</span> </strong>\r\n\r\n<ul> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Typically requires an associate's degree and prior experience in an Administrative Assistant role, supporting Executives.</span> </li> \r\n\t<li> <span style=\"font-family:Arial,sans-serif;\"> Bachelor's Degree and 8 years of prior work experience preferred. </span> </li> \r\n</ul> \r\n\r\n<p>  </p> \r\n\r\n<p> We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let's talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\"> www.zobility.com</a>  to learn more.</p> \r\n\r\n<p> Zobility is RGBSI's workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p> \r\n",
     "recruiter": [
-      "Vinu Antony",
-      "va1@zobility.com",
-      "2485891135"
+      "Milind Jain",
+      "mj3@zobility.com",
+      "2482686786"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28785594",
-    "time_scraped": 1782976670753,
-    "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
-    "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28785547,
-    "title": "Regulatory Affairs Specialist",
-    "location": "CT, Trumbull",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782831708000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Arial,sans-serif;\">Responsibilities:</span></strong></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Approve label copy and assist with artwork approvals to confirm compliance with local, state and federal requirements in the US and Canada for laundry and home care product development projects</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Support Safety Data Sheet (SDS) development and ingredient disclosure requirements</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Gather and enter data into third-party compliance systems</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Assist with various documentation needs, as requested</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Work proactively with cross-functional teams to ensure product regulatory compliance and provide necessary regulatory documentation</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Develop and document programs and associated processes to comply with regulations and government agencies.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Assist with raw material, formulation and packaging regulatory evaluations to confirm compliance with local, state and federal requirements in the US and Canada for new laundry and home care product development projects</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Evaluate, approve and document raw material, formulas, packaging and labeling regulatory compliance, taking into consideration but not limited to the following regulations: Toxic Substances Control Act (US), New Substance Notification Regulations (Canada), Consumer Chemicals and Containers Regulations (Canada), Consumer Product Safety Act (US), Federal Hazardous Substances Act (US), Poison Prevention Packaging Act (US), federal and state Volatile Organic Compound (VOC) regulations (US), California Prop 65 (US), Federal Insecticide, Fungicide and Rodenticide Act (US), Fair Packaging and Labeling Act (US), California Green Chemistry regulations, EPA Safer Choice, etc.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Manage workload, priority and performance of regulatory staff, in addition to providing development opportunities to build capability.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Requirements:</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">1-3 years experience in regulatory affairs field of Laundry and detergents or CPG products. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Knowledge of federal and state statutes and regulations related to pesticide registration (required). Working knowledge of relevant federal and state regulatory programs (e.g., FIFRA, TSCA, Prop 65). (required)</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Strong communication skills, ability to manage projects with cross functional teams, proficiency in Microsoft Office Suite (Word, Excel, PowerPoint), SAP experience helpful.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Ability to manage multiple projects or relationships while effectively communicating status to senior staff. </span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Excellent written and oral communication skills.</span></li>\r\n</ul>\r\n <br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Education: </span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Bachelors Degree in in Chemistry, Environmental Science, Engineering or related field preferred.</span></li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p>We offer attractive, competitive compensation and benefits including, medical, dental, 401k, short-term disability, AD&amp;D, tuition reimbursement, and more. If you take pride in your work and are committed to personal and professional success, let&#39;s talk. Please visit <a aria-label=\"Link www.zobility.com\" href=\"https://www.zobility.com\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://www.zobility.com/\">www.zobility.com</a> to learn more.</p>\r\n\r\n<p>Zobility is RGBSI&#39;s workforce management and staffing division. RGBSI is a multi-national corporation headquartered in Troy, MI with branches throughout the USA, Canada, Germany, and India.</p>\r\n",
-    "recruiter": [
-      "Vinu Antony",
-      "va1@zobility.com",
-      "2485891135"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28785547",
-    "time_scraped": 1782976670386,
+    "url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0&SearchString=#/jobs/28798465",
+    "time_scraped": 1783060297659,
     "source_company": "u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
     "source_url": "https://www2.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy&compid=0",
     "date_cutoff_days": 15

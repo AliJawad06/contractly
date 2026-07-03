@@ -1,14 +1,14 @@
 [
   {
-    "id": 28795788,
-    "title": "Senior Business Analyst :: Lansing, MI (Hybrid)",
-    "location": "MI, Lansing",
+    "id": 28802390,
+    "title": "Senior Cloud Security Architect :: Bethesda, MD (Hybrid/Remote)",
+    "location": "MD, Bethesda",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782935969000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783025057000
     },
     "start": {
       "start_dateStr": null,
@@ -20,28 +20,61 @@
     },
     "salary": null,
     "remote": 50,
-    "description": "<h3>Senior Business Analyst&nbsp;</h3>\r\n\r\n<p>Duration: 12 months | Lansing, MI (Hybrid)</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>Seeking for&nbsp;a Senior Business Analyst focused on behavioral health customer relationship management (BH CRM). You will support the development, implementation, and improvement of strategic initiatives and business processes within the BH CRM. Collaborate with project teams, business owners, and IT to operationalize processes and create training materials.</p>\r\n\r\n<p><strong>Duties &amp; Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Review and prioritize business and user needs.</li>\r\n\t<li>Manage user requests and communicate effectively with stakeholders.</li>\r\n\t<li>Maintain CRM communications and draft updates for users.</li>\r\n\t<li>Develop solutions, risk assessments, and financial analyses.</li>\r\n\t<li>Create detailed descriptions of user needs and program functions.</li>\r\n\t<li>Prepare and document Functional and Technical Specifications.</li>\r\n\t<li>Assist with RFP development and end-user reporting tools.</li>\r\n\t<li>Collaborate with IT on reporting and data warehousing requirements.</li>\r\n\t<li>Document and transfer knowledge to the Enterprise Reporting Team.</li>\r\n\t<li>Attend BH CRM meetings and assist QA/Testing team as needed.</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>5 years of experience as a Business Analyst.</li>\r\n\t<li>Experience with Salesforce-based applications.</li>\r\n\t<li>QA/Testing experience.</li>\r\n</ul>\r\n\r\n<p><strong>Desired Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience in Local, State, or Federal government.</li>\r\n\t<li>Knowledge of Azure DevOps, FedRAMP, HIPAA, and contact center suites like Nice CXone.</li>\r\n\t<li>Experience in business process reengineering and technology application.</li>\r\n\t<li>Familiarity with industry standard technologies and business process mapping.</li>\r\n\t<li>Strong organizational, communication, and data management skills.</li>\r\n\t<li>Proficiency in Microsoft Office applications.</li>\r\n</ul>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<ul>\r\n\t<li>Associate&#39;s Degree</li>\r\n</ul>\r\n",
+    "description": "<h3>Senior Cloud Security Architect</h3>\r\n\r\n<p>Bethesda, MD | Hybrid/Remote | 5-month contract</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>Seeking for an experienced professional to lead the design and implementation of secure cloud infrastructure across our AWS-based environments. This role focuses on securing network boundaries, containerized workloads, cloud-native data storage, and overall cloud infrastructure components. You will be the security expert in cloud architecture projects, ensuring all designs align with best practices and compliance requirements.</p>\r\n\r\n<p><strong>Core Work Activities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Design and maintain secure architectures for cloud infrastructure in AWS, AliCloud, and other cloud services.</li>\r\n\t<li>Implement and validate network segmentation, ingress/egress controls, and virtual firewall configurations.</li>\r\n\t<li>Secure containerized workloads in Amazon EKS or self-managed Kubernetes clusters.</li>\r\n\t<li>Collaborate with DevOps and platform teams to integrate security into CI/CD pipelines.</li>\r\n\t<li>Ensure secure configuration of cloud-native storage solutions.</li>\r\n\t<li>Evaluate and enforce policies around public access and data loss prevention.</li>\r\n\t<li>Ensure compliance with internal policies and external regulatory requirements.</li>\r\n\t<li>Contribute to threat modeling, risk assessments, and architecture review processes.</li>\r\n\t<li>Define and implement logging and monitoring strategies.</li>\r\n\t<li>Collaborate with Security Operations and Incident Response teams.</li>\r\n\t<li>Conduct security and privacy technology research and assessments.</li>\r\n\t<li>Consult with customers to gather and evaluate functional requirements.</li>\r\n\t<li>Provide advice and recommendations on cloud security topics.</li>\r\n\t<li>Manage and measure information security implications within the organization.</li>\r\n</ul>\r\n\r\n<p><strong>Education and Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li>Must have a Bachelor&#39;s or Master&#39;s degree in Computer Science, Information Security, or related field, or equivalent professional experience.</li>\r\n\t<li>Must have 7 years of experience in Cybersecurity with at least 3 years focused on cloud security in AWS.</li>\r\n\t<li>Must have hands-on expertise in AWS services, Kubernetes security, and Infrastructure-as-Code security.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred:</strong></p>\r\n\r\n<ul>\r\n\t<li>Cloud Security Certifications such as AWS Certified Security &ndash; Specialty, AWS Certified Solutions Architect, or similar.</li>\r\n\t<li>Experience securing workloads across AWS, Azure, and GCP.</li>\r\n\t<li>Familiarity with Zero Trust principles and secure service-to-service communication.</li>\r\n</ul>\r\n",
     "recruiter": [
-      "Satyam Mishra",
-      "Satyam@ARKSolutionsInc.com",
-      "571 8951989"
+      "Iryna Atamanchuk",
+      "Iryna@ARKSolutionsInc.com",
+      "7039802803"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28795788",
-    "time_scraped": 1782975191579,
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28802390",
+    "time_scraped": 1783059488398,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28795574,
-    "title": "Senior Software Engineer Manager :: Bethesda, MD (Remote)",
+    "id": 28802245,
+    "title": "Senior Platform Engineer :: Bethesda, MD (Hybrid/Remote)",
     "location": "MD, Bethesda",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782934731000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783023634000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 50,
+    "description": "<h3>Senior Platform Engineer</h3>\r\n\r\n<p>Bethesda, MD | Hybrid/Remote&nbsp;| 5-month Contract</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>Seeking for a Senior Platform Engineer&nbsp;with strong software engineering skills, genuine database expertise, and a platform engineering orientation. You will be responsible for designing, automating, and operating production-scale database platforms that are secure, resilient, and easy for application teams to use. You will work closely with Site Reliability Engineering, Networking, Security, and Application Engineering teams to deliver database capabilities through our Internal Developer Platform.</p>\r\n\r\n<p><strong>Core Work Activities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Design and build database infrastructure provisioning modules and automation pipelines.</li>\r\n\t<li>Implement CI/CD automation for standardized and safe database platform changes.</li>\r\n\t<li>Enable self-service database capabilities for application teams.</li>\r\n\t<li>Develop platform tooling for database health, security, and compliance visibility.</li>\r\n\t<li>Support strategic database migrations and develop migration patterns and standards.</li>\r\n\t<li>Create guidance artifacts and documentation for supported database platforms.</li>\r\n\t<li>Collaborate on database architecture, performance, and operational readiness.</li>\r\n\t<li>Ensure database platforms align with security and compliance standards.</li>\r\n\t<li>Integrate database services with IAM controls, networking, and configuration management.</li>\r\n\t<li>Participate in technical discussions, shared documentation, and engineering standards.</li>\r\n</ul>\r\n\r\n<p><strong>Education and Experience:</strong></p>\r\n\r\n<p><strong>Required:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in engineering or computer science discipline or equivalent professional experience.</li>\r\n\t<li>7 years of combined software and infrastructure engineering experience, with hands-on experience in distributed or document-oriented database technology.</li>\r\n\t<li>Strong experience with Infrastructure as Code (especially Terraform), CI/CD pipelines, and cloud infrastructure (preferably AWS).</li>\r\n\t<li>Proficiency in at least one general-purpose programming or scripting language (Python, Go, or equivalent).</li>\r\n</ul>\r\n\r\n<p><strong>Preferred:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience with Couchbase Server or Couchbase Capella, and/or AWS managed database services.</li>\r\n\t<li>Experience with event-driven systems, workflow orchestration, and compliance automation tools.</li>\r\n\t<li>Involvement in large-scale database migrations or backend software development experience.</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Iryna Atamanchuk",
+      "Iryna@ARKSolutionsInc.com",
+      "7039802803"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28802245",
+    "time_scraped": 1783059488062,
+    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28802128,
+    "title": "Systems Engineer II (Systems Integration & Interoperability) :: Harrisburg, PA (Hybrid)",
+    "location": "DC, Washington",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783022222000
     },
     "start": {
       "start_dateStr": null,
@@ -53,28 +86,28 @@
     },
     "salary": null,
     "remote": 100,
-    "description": "<h3>Senior Software Engineer Manager</h3>\r\n\r\n<p>Bethesda, MD | Remote | 12-month Contract</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>Seeking&nbsp;for a highly engaged and motivated individual to design, develop, and implement enterprise-level applications using ReactJS, NextJS, NodeJS, GraphQL, and TypeScript. This role focuses on front-end development within full-stack solutions and requires close collaboration with product, business, and technology stakeholders.</p>\r\n\r\n<p><strong>Core Work Activities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Design and develop enterprise-level applications using ReactJS, NextJS, NodeJS, GraphQL, and TypeScript.</li>\r\n\t<li>Build efficient, reusable, and maintainable code for high-quality responsive and cross-platform applications.</li>\r\n\t<li>Analyze project specifications and deliver scalable solutions aligned with enterprise standards.</li>\r\n\t<li>Develop and consume GraphQL APIs and integrate front-end experiences with backend services.</li>\r\n\t<li>Contribute to full-stack solution design for complex initiatives.</li>\r\n\t<li>Participate in Agile delivery by estimating work and completing sprint commitments.</li>\r\n\t<li>Use Git and command-line workflows proficiently.</li>\r\n\t<li>Review code and provide constructive feedback.</li>\r\n\t<li>Troubleshoot, debug, and resolve application defects and production issues.</li>\r\n\t<li>Collaborate closely with engineers, product owners, and stakeholders.</li>\r\n\t<li>Work independently to produce high-quality deliverables.</li>\r\n\t<li>Provide technical input into application patterns and architecture decisions.</li>\r\n</ul>\r\n\r\n<p><strong>Education and Experience Required:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in Computer Science, Information Technology, or a related field, or equivalent professional experience.</li>\r\n\t<li>7 years of experience developing applications with ReactJS or a similar JavaScript framework.</li>\r\n\t<li>Experience delivering complex full-stack projects involving multiple functions and scalable data patterns.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred:</strong></p>\r\n\r\n<ul>\r\n\t<li>Proven experience designing and consuming GraphQL-based backend systems.</li>\r\n\t<li>Hands-on experience with TypeScript, NextJS, React Query, NodeJS, Nx monorepos, Docker, and Git/CLI.</li>\r\n\t<li>Experience leading IT project work and providing technical guidance.</li>\r\n</ul>\r\n\r\n<p><strong>Technical Requirements:</strong></p>\r\n\r\n<ul>\r\n\t<li>Strong proficiency with TypeScript, ReactJS, NextJS, React Query, GraphQL, Git/CLI, Nx monorepo workflows, UNIX/bash/CLI, and Docker.</li>\r\n\t<li>Ability to design, build, and consume GraphQL-based backend systems as part of full-stack application delivery.</li>\r\n\t<li>Ability to write clean, tested, reusable, and performant code.</li>\r\n</ul>\r\n",
+    "description": "<h3>Systems Engineer II &ndash; Systems Integration &amp; Interoperability</h3>\r\n\r\n<h3>Location: Harrisburg, PA</h3>\r\n\r\n<p>Duration: 9 months (Hybrid)</p>\r\n\r\n<p><strong>Position Summary:</strong></p>\r\n\r\n<p>The Systems Engineer II supports the design, integration, testing, deployment, and sustainment of enterprise health information technology solutions. This role involves working closely with technical teams, clinical stakeholders, and vendors to ensure system readiness and operational success.</p>\r\n\r\n<ul>\r\n\t<li>Support design and integration of enterprise Health IT and EHR capabilities.</li>\r\n\t<li>Translate clinical and operational requirements into technical specifications.</li>\r\n\t<li>Implement scalable, cloud-based solutions in a federal healthcare environment.</li>\r\n\t<li>Support healthcare interoperability and interface management efforts.</li>\r\n\t<li>Assist with secure migration and support of clinical data in cloud-based repositories.</li>\r\n\t<li>Participate in testing, validation, and readiness activities.</li>\r\n\t<li>Coordinate with stakeholders for deployment support and issue resolution.</li>\r\n\t<li>Identify and track technical risks and issues.</li>\r\n</ul>\r\n\r\n<p><strong>Minimum Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in Systems Engineering, Computer Science, Information Systems, or related field.</li>\r\n\t<li>2&ndash;5 years of relevant experience in IT, systems engineering, or Health IT programs.</li>\r\n\t<li>Experience with systems integration, interfaces, and EHR environments.</li>\r\n\t<li>Experience documenting technical requirements and system processes.</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience in healthcare IT environments.</li>\r\n\t<li>Familiarity with federal healthcare operations or large-scale public sector IT programs.</li>\r\n\t<li>Experience with cloud-based systems and secure data environments.</li>\r\n\t<li>Familiarity with EHR sustainment and healthcare data standardization.</li>\r\n</ul>\r\n\r\n<p><strong>Required Knowledge, Skills, and Abilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Strong understanding of systems engineering principles and interoperability concepts.</li>\r\n\t<li>Ability to analyze technical requirements and identify integration constraints.</li>\r\n\t<li>Strong troubleshooting and problem-solving skills.</li>\r\n\t<li>Effective communication skills with both technical and non-technical stakeholders.</li>\r\n</ul>\r\n",
     "recruiter": [
       "Iryna Atamanchuk",
       "Iryna@ARKSolutionsInc.com",
       "7039802803"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28795574",
-    "time_scraped": 1782975191502,
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28802128",
+    "time_scraped": 1783059488050,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28791738,
-    "title": "Senior IBM Master Data Management (MDM) & Integration Developer :: Lansing, MI (Hybrid)",
-    "location": "MI, Lansing",
+    "id": 28801435,
+    "title": "Sr Project Manager :: Richmond, VA (Hybrid)",
+    "location": "VA, Richmond",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "7/1/2026",
-      "date_posted": 1782913166000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783015809000
     },
     "start": {
       "start_dateStr": null,
@@ -86,28 +119,28 @@
     },
     "salary": null,
     "remote": 50,
-    "description": "<h3>Senior IBM Master Data Management (MDM) &amp; Integration Developer</h3>\r\n\r\n<p><strong>Location:</strong> Lansing, MI</p>\r\n\r\n<p><strong>Contract Duration:</strong> 3 Months, Hybrid</p>\r\n\r\n<p>The position is responsible for providing ongoing maintenance and support for Master Person Index (MPI), Index Data Stewardship Portal, and Symmetry applications supported within our department. These applications are part of the Technology and Database area. The resource is integral to supporting and improving automated processes, streamlining critical business processes, data integrity, compliance, and securing the applications. As a lead, the resource participates in a variety of assignments that provide for the enhancement, integration, maintenance, and implementation of projects. The resource also provides application oversight to business analysts and other teams integrating with Master Person Index.</p>\r\n\r\n<h3>Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Write high-level functional requirement documents.</li>\r\n\t<li>Work in Linux Operating Systems.</li>\r\n\t<li>Develop scripts in PowerShell.</li>\r\n\t<li>Work in Git and GitHub for repositories.</li>\r\n\t<li>Collaborate closely with Database Administrators to develop and execute SQL scripts.</li>\r\n\t<li>Create monthly reports for MDM applications.</li>\r\n\t<li>Work with clients for task and ticket resolutions in MPI and IDSP.</li>\r\n\t<li>Create and deploy certificates on Windows and Linux systems.</li>\r\n\t<li>Collaborate with Infrastructure teams like Server team (Linux, Windows) and Network team for maintenance and issue resolution.</li>\r\n\t<li>Execute full software development life cycle (SDLC) including experience in gathering requirements and writing functional/technical specifications for complex projects.</li>\r\n\t<li>Develop prototypes and mockups for user review and approval.</li>\r\n\t<li>Exposure to flowcharts, screen layouts, and documentation to ensure logical flow of the system requirements.</li>\r\n\t<li>Assist with Enterprise Architecture Solution Assessment (EASA), Hosting document, and Firewall Rules.</li>\r\n\t<li>Design, develop, and implement test plans and test reports for applications or subsystems.</li>\r\n\t<li>Create or collect test data and execute approved tests to determine the accuracy of program logic to produce desired results.</li>\r\n\t<li>Assist with UAT Testing, Test cases, Post Implementation testing.</li>\r\n\t<li>Provide defect and incident tracking information.</li>\r\n\t<li>Assist with implementation of Request for Change (RFC - application changes, infrastructure changes, etc.).</li>\r\n\t<li>Maintain/update system documentation as a result of system upgrades.</li>\r\n\t<li>Monitor applications in both production and non-production environments.</li>\r\n\t<li>Provide application support for business client applications maintained by department.</li>\r\n\t<li>Deliver product and services based on the core concepts of software development.</li>\r\n</ul>\r\n\r\n<h3>Required Skills:</h3>\r\n\r\n<ul>\r\n\t<li>8+ years of software development experience supporting enterprise-scale systems.</li>\r\n\t<li>Strong hands-on experience with IBM InfoSphere MDM v14.x Standard Edition (Virtual MDM), including MDM data models, entities, transactions, batch processing, configuration, customization, and troubleshooting.</li>\r\n\t<li>Hands-on experience with Apache Kafka.</li>\r\n</ul>\r\n\r\n<h3>Desired Skills:</h3>\r\n\r\n<ul>\r\n\t<li>Strong understanding of MDM concepts and IBM MDM product capabilities, with the ability to understand, maintain, and enhance an existing MDM Standard Edition implementation built by a third-party vendor.</li>\r\n\t<li>8+ years of Java / J2EE experience, including Java, JSP, and REST/SOAP-based services, with strong production troubleshooting skills.</li>\r\n\t<li>5+ years of experience working with Linux/Unix operating systems, including command-line usage, log analysis, and system-level troubleshooting.</li>\r\n\t<li>Hands-on experience with Apache Kafka, including topic creation and configuration, producer and consumer development, message flow troubleshooting, and understanding of Zookeeper and Kafka KRaft concepts using Strimzi operator.</li>\r\n\t<li>Experience with batch processing using WildFly and Kafka.</li>\r\n\t<li>Experience working with application servers such as WildFly, including application deployments, startup, configuration, health checks, and runtime issue resolution.</li>\r\n\t<li>Experience integrating Kafka with WildFly-based applications and IBM MDM Standard Edition.</li>\r\n\t<li>Proficiency in writing and optimizing SQL queries in Oracle and Microsoft SQL Server environments.</li>\r\n\t<li>Strong Linux/Unix shell scripting skills (Bash), including automation and operational scripting.</li>\r\n\t<li>Experience creating, scheduling, and maintaining CRON jobs for batch and scheduled processes.</li>\r\n\t<li>Experience in development of Flowable is a strong plus.</li>\r\n\t<li>Experience with CI/CD pipelines using Azure DevOps, Azure Git repo, or similar tools.</li>\r\n\t<li>Experience deploying and supporting applications in cloud and OCP containerized environments.</li>\r\n\t<li>Familiarity with cloud platforms such as AWS and/or Azure.</li>\r\n\t<li>Exposure to OpenShift and Kubernetes is a strong plus.</li>\r\n\t<li>Experience with ELK / Elastic Stack for log monitoring and troubleshooting, including correlating logs across Kafka, WildFly, and MDM.</li>\r\n\t<li>Experience working with data and supporting mission-critical production systems.</li>\r\n\t<li>Ability to independently own, maintain, and support complex systems with minimal external dependency.</li>\r\n</ul>\r\n",
+    "description": "<h3>Sr Project Manager - Richmond, VA (Hybrid)</h3>\r\n\r\n<p>Duration: 6 months</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>Seeking for a Senior Project Manager to lead the planning and implementation of a high-risk, complex Revenue Lifecycle Replacement System with multiple workstreams. The candidate will manage vendor and internal staff activities and ensure successful project execution.</p>\r\n\r\n<p><strong>Day-to-Day Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Coordinate with vendors, consultants, IT, and business staff.</li>\r\n\t<li>Perform project management tasks such as tracking budget and expenditures, developing schedules, and managing risks.</li>\r\n\t<li>Develop and present project updates to senior leadership.</li>\r\n\t<li>Oversee and manage day-to-day project activities.</li>\r\n\t<li>Maintain relationships with stakeholders including executive management, business management, vendors, and project sponsors.</li>\r\n\t<li>Collaborate with technology leads and solution architects to incorporate best practices into project plans.</li>\r\n\t<li>Drive consistent project delivery through the entire lifecycle, including procurements, project planning, resource allocation, and risk management.</li>\r\n\t<li>Monitor and evaluate third-party vendor progress using metrics.</li>\r\n\t<li>Facilitate resolution of technical and non-technical risks and issues.</li>\r\n\t<li>Lead scoping, requirements gathering, estimating, and planning for workstreams.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Skills &amp; Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li>Strong analytical, organizational, problem-solving, and decision-making skills - 10 Years</li>\r\n\t<li>Ability to lead implementation of new approaches and systems - 10 Years</li>\r\n\t<li>Solid understanding of software development life cycle models - 10 Years</li>\r\n\t<li>Ability to represent project team in multiple forums - 10 Years</li>\r\n\t<li>Experience leading business &amp; IT resources in requirement documentation - 10 Years</li>\r\n\t<li>Knowledge of Agile and Waterfall project management principles - 10 Years</li>\r\n\t<li>Active PMP certification from PMI - 10 Years</li>\r\n\t<li>Experience with scrum, kanban, or waterfall project management practices - 10 Years</li>\r\n\t<li>Experience leading large programs with multiple workstreams - 5 Years</li>\r\n\t<li>Experience working with vendors and implementing vendor solutions - 5 Years</li>\r\n</ul>\r\n",
     "recruiter": [
       "Satyam Mishra",
       "Satyam@ARKSolutionsInc.com",
       "571 8951989"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28791738",
-    "time_scraped": 1782975191643,
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28801435",
+    "time_scraped": 1783059502816,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28786851,
-    "title": ".NET Developer/Programmer :: Lansing, MI (Hybrid)",
-    "location": "MI, Lansing",
+    "id": 28801119,
+    "title": "IT Support Specialist :: Denver, CO (REMOTE)",
+    "location": "CO, Denver",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782838766000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783014241000
     },
     "start": {
       "start_dateStr": null,
@@ -118,95 +151,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 50,
-    "description": "<h3>.NET Developer/Programmer - Lansing, MI</h3>\r\n\r\n<p>Duration: 12 months (Hybrid)</p>\r\n\r\n<p>Seeking for a .NET Developer/Programmer with a solid background in software development and agile methodologies.</p>\r\n\r\n<h3>Job Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Collaborate with the Business Analyst to present gathered information to the Project Review Board and/or Project Sponsors during project review meetings, workgroups, and to the Technical Review Board.</li>\r\n\t<li>Create, update, and maintain systems and IT programs documentation, including system and functional specifications.</li>\r\n\t<li>Draft technical models that capture data element requirements and design data elements to best meet application needs.</li>\r\n\t<li>Design and develop software code based on reusability, approved architecture/design, and compliance with security (SADLC) and other applicable standards, policies, and procedures.</li>\r\n\t<li>Mitigate application-level security risks and remediate vulnerabilities as soon as identified.</li>\r\n\t<li>Participate and provide input for structured walkthroughs, code reviews, and stage exits.</li>\r\n\t<li>Strictly follow configuration management procedures as defined by the development team.</li>\r\n\t<li>Adhere to change management procedures as defined by the department&nbsp;and provide input in executing change management.</li>\r\n\t<li>Support project documentation requirements by following System Engineering - SUITE standards for Agile and Traditional methodologies as applicable.</li>\r\n\t<li>Perform application unit, string, and integrated testing to ensure compliance with business and technical requirements.</li>\r\n\t<li>Develop system/module level test scripts, test plans, and test cases required to support the execution of unit, string, and integrated system testing activities.</li>\r\n\t<li>Document identified problems, analyze to determine root cause, and provide root cause analysis reports.</li>\r\n\t<li>Develop user manuals and conduct training for users as necessary.</li>\r\n\t<li>Evaluate requests for modifications and enhancements for impact on existing projects and applications.</li>\r\n\t<li>Plan and accomplish goals independently, performing a variety of complicated tasks with a wide degree of creativity and latitude.</li>\r\n\t<li>Familiarity with PowerApps.</li>\r\n</ul>\r\n\r\n<h3>Required Skills:</h3>\r\n\r\n<ul>\r\n\t<li>6 years of Angular Development experience</li>\r\n\t<li>6 years of experience with Azure DevOps</li>\r\n\t<li>6 years of experience with .NET technologies</li>\r\n\t<li>6 years of experience with Cloud AWS Migration</li>\r\n\t<li>Strong experience working within process-oriented Agile methodologies</li>\r\n\t<li>Proven experience with Test-Driven Development</li>\r\n\t<li>Preferred: Experience with Playwright for integration testing</li>\r\n</ul>\r\n",
+    "remote": 100,
+    "description": "<h3>IT Support Specialist&nbsp;</h3>\r\n\r\n<p>Location: Denver, CO (REMOTE)</p>\r\n\r\n<p>Duration: 12 months</p>\r\n\r\n<p>Seeking for a skilled IT Support Specialist to provide&nbsp;technical support to both the Technology and the&nbsp;Automated Tracking System.</p>\r\n\r\n<ul>\r\n\t<li>Assist with internal and external end-user technical support and incident management.</li>\r\n\t<li>Maintain technical documentation and issue tracking systems, including Salesforce Helpdesk and Jira.</li>\r\n\t<li>Manage support emails and calls from system users.</li>\r\n\t<li>Update issue tracking systems with service desk report information.</li>\r\n\t<li>Create and provide reports to interested groups.</li>\r\n\t<li>Assign incident work items to team members as needed.</li>\r\n</ul>\r\n\r\n<h3>Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Provide Salesforce and third-party application support for technology issues.</li>\r\n\t<li>Follow up with users to gather information and solve technical problems.</li>\r\n\t<li>Document, track, and monitor technical issues for timely resolution.</li>\r\n\t<li>Submit and track user-reported issues in the incident management system.</li>\r\n\t<li>Validate user-reported bugs and system issues, identifying root causes.</li>\r\n\t<li>Escalate issues beyond basic support/Tier 1 to appropriate technical teams.</li>\r\n\t<li>Communicate known system issues and resolutions to end users.</li>\r\n\t<li>Participate in testing and validation activities.</li>\r\n</ul>\r\n\r\n<h3>Skills and Experience</h3>\r\n\r\n<ul>\r\n\t<li>Minimum three years of experience with Microsoft Word, Excel, and Google Suite.</li>\r\n\t<li>Excellent analytical and troubleshooting skills.</li>\r\n\t<li>Ability to work independently and as part of a team.</li>\r\n\t<li>Strong verbal and written communication skills.</li>\r\n\t<li>Detail-oriented and efficient with time-sensitive projects.</li>\r\n</ul>\r\n\r\n<h3>Preferred Qualifications</h3>\r\n\r\n<ul>\r\n\t<li>Three years of experience with Salesforce CRM and Jira.</li>\r\n\t<li>Current Salesforce Administrator Certification in progress.</li>\r\n</ul>\r\n",
     "recruiter": [
       "Satyam Mishra",
       "Satyam@ARKSolutionsInc.com",
       "571 8951989"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28786851",
-    "time_scraped": 1782975206024,
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28801119",
+    "time_scraped": 1783059503007,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28785884,
-    "title": "Legal Workforce Solutions Lead :: Washington, DC / New York City, NY / Chicago, IL (Hybrid)",
-    "location": "DC, Washington",
+    "id": 28800990,
+    "title": "Senior Security Engineer :: Dover, DE (Onsite)",
+    "location": "DE, Dover",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782833340000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<h3>Legal Workforce Solutions Lead</h3>\r\n\r\n<p>Location: Washington, DC / New York City, NY / Chicago, IL</p>\r\n\r\n<p>Contract: Full-time, Hybrid</p>\r\n\r\n<p><strong>Role Summary</strong></p>\r\n\r\n<p>We are seeking an entrepreneurial, relationship-driven professional to help build a new market vertical focused on workforce solutions for law firms, corporate legal departments, government agencies, consulting firms, and legal service organizations. The focus is on contingent workforce solutions including Legal Operations, eDiscovery, Litigation Support, Compliance, Contract Management, Regulatory Support, Paralegal Services, Legal Technology, Employer of Record (EOR), and Recruitment Process Outsourcing (RPO).</p>\r\n\r\n<p><strong>Key Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Develop and execute go-to-market strategy for Legal Workforce Solutions.</li>\r\n\t<li>Identify and cultivate relationships with key stakeholders in the legal industry.</li>\r\n\t<li>Generate new business opportunities through strategic outreach and networking.</li>\r\n\t<li>Meet regularly with legal hiring managers and executive stakeholders.</li>\r\n\t<li>Represent at legal conferences and industry organizations.</li>\r\n\t<li>Collaborate with internal teams to ensure successful execution and outstanding client experience.</li>\r\n</ul>\r\n\r\n<p><strong>Qualifications:</strong></p>\r\n<strong>Must Have:</strong>\r\n\r\n<ul>\r\n\t<li>5 years of business development, client partnerships, or account management experience.</li>\r\n\t<li>Experience selling professional services, staffing, consulting, or workforce solutions.</li>\r\n\t<li>Demonstrated success in building executive-level client relationships.</li>\r\n\t<li>Outstanding communication and relationship-building skills.</li>\r\n\t<li>Comfortable with extensive travel and face-to-face client meetings.</li>\r\n\t<li>Self-starter with an entrepreneurial mindset.</li>\r\n\t<li>Strong organizational skills and disciplined CRM management.</li>\r\n</ul>\r\n<strong>Preferred:</strong>\r\n\r\n<ul>\r\n\t<li>Experience within legal staffing or services.</li>\r\n\t<li>Existing relationships within law firms or legal operations organizations.</li>\r\n\t<li>Familiarity with contingent workforce programs, EOR, or RPO.</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Angshudeep Saha",
-      "Angshu@arksolutionsinc.com",
-      "5718952419"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28785884",
-    "time_scraped": 1782975206891,
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28784858,
-    "title": "Junior .NET Developer :: Atlanta, GA (Hybrid)",
-    "location": "GA, Atlanta",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782826866000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<h3>Junior .NET Developer</h3>\r\n\r\n<p>Location: Atlanta, GA (Hybrid)</p>\r\n\r\n<p>Duration: 12 Months</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>Seeking for a .NET Developer to design, code, test, modify, and debug computer software under direct supervision. You will also research and analyze program or systems problems and develop program documentation. Your work will involve translating business requirements into secure and maintainable code and supporting the configuration of all aspects of the COTS application.</p>\r\n\r\n<p><strong>Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Working knowledge of Structured Query Language (SQL)</li>\r\n\t<li>Experience in Microsoft .NET</li>\r\n</ul>\r\n\r\n<p><strong>Preferred Qualifications:</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in computer science or management information systems</li>\r\n\t<li>Experience working with software development organizations</li>\r\n\t<li>Strong analytical and problem-solving skills</li>\r\n</ul>\r\n\r\n<p><strong>Must Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience in any .NET programming language - 1 Year</li>\r\n\t<li>Working knowledge of Structured Query Language (SQL) - 1 Year</li>\r\n\t<li>Strong problem-solving skills</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Satyam Mishra",
-      "Satyam@ARKSolutionsInc.com",
-      "571 8951989"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28784858",
-    "time_scraped": 1782975206146,
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28784848,
-    "title": "IT Support Specialist :: Conyers, GA (Onsite)",
-    "location": "GA, Conyers",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782826795000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783013418000
     },
     "start": {
       "start_dateStr": null,
@@ -218,28 +185,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<h3>IT Support Specialist</h3>\r\n\r\n<p>Location: Conyers, GA</p>\r\n\r\n<p>Duration: 12 months (Onsite)</p>\r\n\r\n<p>Seeking for an IT Support Specialist&nbsp;to maintain business applications and critical infrastructure. The ideal candidate will manage and support various systems, provide operations support, and engage with partners to restore services. This role requires continuous learning and staying updated with emerging IT technologies.</p>\r\n\r\n<h3>Duties and Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Maintain cost-efficient, scalable cloud environments.</li>\r\n\t<li>Understand business objectives and create cloud-based solutions.</li>\r\n\t<li>Design, build, and maintain internal cloud applications.</li>\r\n\t<li>Stay updated on cloud computing best practices and improve infrastructure.</li>\r\n\t<li>Recommend hardware and software based on project needs.</li>\r\n\t<li>Experience in automation and provisioning technologies like AWS CLI and Terraform.</li>\r\n\t<li>Monitor ServiceNow ticket queue and respond promptly.</li>\r\n\t<li>Provide customer support for software, configurations, and processes.</li>\r\n\t<li>Improve operations to digitize common tasks.</li>\r\n\t<li>Minimize data leakage and downtime.</li>\r\n\t<li>Assist IT Infrastructure team members.</li>\r\n\t<li>Monitor ticket activities and escalate when needed.</li>\r\n\t<li>Troubleshoot and support PCs, laptops, scanners, printers, and other field systems.</li>\r\n\t<li>Act as an administrator or expert for applications as needed.</li>\r\n</ul>\r\n\r\n<h3>Competencies Needed:</h3>\r\n\r\n<ul>\r\n\t<li>2-3 years of IT support and management experience.</li>\r\n\t<li>Professional certification (e.g., A+, Network+, Cloud+ or equivalent).</li>\r\n\t<li>Experience with ServiceNow.</li>\r\n\t<li>Ability to present ideas in business-friendly language.</li>\r\n\t<li>Excellent communication and interpersonal skills.</li>\r\n\t<li>Ability to detect trends and recommend changes.</li>\r\n\t<li>Experience with desktop computer hardware, OS, and software troubleshooting.</li>\r\n\t<li>Knowledge of current technologies (computer systems, mobile devices).</li>\r\n\t<li>Experience with TCP/IP network issue resolution.</li>\r\n\t<li>Ability to maintain and support video conferencing and A/V equipment.</li>\r\n\t<li>Proven problem-solving skills.</li>\r\n</ul>\r\n\r\n<h3>Minimum Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in a related field (e.g., IT, computer science) and three years of related experience.</li>\r\n\t<li>Associate&#39;s/Vocational/Technical degree in a related field and five years of related experience.</li>\r\n\t<li>One year of experience at the IT Support Specialist 2 level or equivalent.</li>\r\n</ul>\r\n\r\n<h3>Skills Required:</h3>\r\n\r\n<ul>\r\n\t<li>Knowledge of basic network troubleshooting (3 years).</li>\r\n\t<li>Knowledge of Microsoft Windows Active Directory &ndash; DNS and DHCP (2 years).</li>\r\n\t<li>Experience with desktop computer hardware, OS, and software troubleshooting (2 years).</li>\r\n\t<li>Knowledge of Microsoft Active Directory local and group policy (2 years).</li>\r\n\t<li>Professional certification (e.g., A+, Network+, Cloud+ or equivalent).</li>\r\n\t<li>Experience with ServiceNow (2 years).</li>\r\n\t<li>Experience with TCP/IP network issue resolution (2 years).</li>\r\n\t<li>Experience in automation and provisioning technologies (e.g., AWS CLI, Terraform) (2 years).</li>\r\n</ul>\r\n",
+    "description": "<h3>Senior Security Engineer&nbsp;&nbsp;</h3>\r\n\r\n<p>Duration: 10 months, Onsite at&nbsp;Dover, DE</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>Seeking for a skilled cloud security professional with expertise in securing cloud workloads, tools, and services. A strong track record in Zero Trust Network Access (ZTNA) principles and experience in managing secure cloud environments across multiple platforms is essential. Expertise in GCP cloud services is highly desired.</p>\r\n\r\n<p><strong>Core Technical Skills &amp; Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Zero Trust Network Access (ZTNA):</strong> Experience in ZTNA engineering and automation, ensuring secure, scalable, and policy-driven access control. Familiarity with NIST 800-207 and Zscaler technologies.</li>\r\n\t<li><strong>Cloud Platform Expertise:</strong> Comprehensive understanding of cloud security platforms like Google, Amazon, and Microsoft. Ability to design and implement secure cloud architectures.</li>\r\n\t<li><strong>Identity and Access Management (IAM):</strong> Proficient in IAM concepts, least privilege access controls, and solutions like Okta.</li>\r\n\t<li><strong>Security Automation and Orchestration:</strong> Experience with automation tools such as Python, Terraform, and SOAR platforms.</li>\r\n\t<li><strong>Security Monitoring and Incident Response:</strong> Proficiency in SIEM logging, analysis, and incident response procedures.</li>\r\n\t<li><strong>Security Policy, Compliance, and Governance:</strong> Knowledge of security policies, compliance regulations, and governance standards.</li>\r\n\t<li><strong>Data Security:</strong> Understanding of data classification standards and data loss prevention (DLP) configurations.</li>\r\n\t<li><strong>Network Security:</strong> Extensive experience with network security concepts and technologies.</li>\r\n\t<li><strong>Endpoint Security:</strong> Understanding of endpoint security concepts and technologies.</li>\r\n</ul>\r\n\r\n<p><strong>Soft Skills &amp; Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Leadership and Communication:</strong> Ability to lead and mentor junior security engineers, with excellent communication skills.</li>\r\n\t<li><strong>Problem-Solving and Critical Thinking:</strong> Strong analytical skills, strategic thinking, and risk mitigation capabilities.</li>\r\n</ul>\r\n\r\n<p><strong>Education and Certifications (Preferred):</strong></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s or Master&#39;s degree in Computer Science, Information Security, or a related field.</li>\r\n\t<li>Relevant certifications (e.g., CISSP, CCSP, AWS Certified Security &ndash; Specialty, Google Cloud Certified Professional Cloud Security Engineer, Microsoft Certified: Azure Security Engineer Associate).</li>\r\n</ul>\r\n\r\n<p><strong>Experience Level:</strong></p>\r\n\r\n<ul>\r\n\t<li>Minimum of 7-10 years of experience in information security, with a focus on cloud security and ZTNA.</li>\r\n\t<li>Significant experience with GCP, AWS, and/or Azure.</li>\r\n\t<li>Demonstrated experience in implementing and managing ZTNA solutions.</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Extensive experience in ZTNA engineering and automation.</li>\r\n\t<li>Experience with Security Information and Event Management (SIEM).</li>\r\n\t<li>Understanding of data classification standards and data loss prevention (DLP) configurations.</li>\r\n\t<li>Understanding of endpoint security concepts and technologies.</li>\r\n\t<li>Strong analytical and problem-solving skills, with the ability to anticipate security risks and develop effective mitigation strategies.</li>\r\n</ul>\r\n",
     "recruiter": [
       "Satyam Mishra",
       "Satyam@ARKSolutionsInc.com",
       "571 8951989"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28784848",
-    "time_scraped": 1782975219855,
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28800990",
+    "time_scraped": 1783059505178,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 28784508,
-    "title": "Mainframe Technical Specialist :: Raleigh, NC (Hybrid)",
-    "location": "NC, Raleigh",
+    "id": 28799567,
+    "title": "Senior Project Manager - Harrisburg, PA (Hybrid/Remote)",
+    "location": "PA, Harrisburg",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782823259000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783003971000
     },
     "start": {
       "start_dateStr": null,
@@ -251,47 +218,14 @@
     },
     "salary": null,
     "remote": 50,
-    "description": "<h3>Mainframe&nbsp;Technical Specialist</h3>\r\n\r\n<p>Location: Raleigh, NC (Hybrid)</p>\r\n\r\n<p>Duration: 5 Months</p>\r\n\r\n<p><strong>Job Summary:</strong></p>\r\n\r\n<p>This role involves analyzing complex legacy program modules, coding, and testing new and existing modules for major modifications to legacy applications.</p>\r\n\r\n<p><strong>Role Responsibilities:</strong></p>\r\n\r\n<ul>\r\n\t<li>Analyze, define, and document requirements for data and business processes.</li>\r\n\t<li>Design, document, and coordinate desired changes to legacy modules.</li>\r\n\t<li>Document the program and project deliverables as assigned.</li>\r\n\t<li>Analyze and estimate feasibility and compatibility with other programs and projects.</li>\r\n\t<li>Provide quality control for project deliverables.</li>\r\n</ul>\r\n\r\n<p><strong>Knowledge, Skills, and Abilities Requirements:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Must Have:</strong>\r\n\r\n\t<ul>\r\n\t\t<li>Minimum of 10 years of experience in corporate or government as a programmer analyst.</li>\r\n\t\t<li>Minimum of 5 years of experience exposing CICS and COBOL programs as web services via CICS Transaction Server (CTS) and/or CICS Transaction Gateway (CTG).</li>\r\n\t\t<li>Proven experience in programming techniques and languages in the mainframe environment.</li>\r\n\t\t<li>Proven knowledge of principles and techniques of computer programming, testing, debugging, implementation, and documentation.</li>\r\n\t\t<li>Proven experience with analysis and design.</li>\r\n\t\t<li>Excellent communication skills (written, verbal, presentations).</li>\r\n\t\t<li>Excellent organizational, analytical, planning, and scheduling skills.</li>\r\n\t\t<li>Ability to resolve highly complex problems.</li>\r\n\t\t<li>Proven experience with financial processes analysis and modification.</li>\r\n\t\t<li>Self-starter who can work with a large and diverse team of business, management, and IT individuals.</li>\r\n\t\t<li>Demonstrated experience working with large project teams.</li>\r\n\t\t<li>Microsoft Suite experience (e.g., Word, Excel, PowerPoint), COBOL, CICS, TSO, MVS JCL, ENDEVOR, CA Tools, SQL, DB2, and VSAM.</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>Preferred:</strong>\r\n\t<ul>\r\n\t\t<li>Experience with federal/state or county government.</li>\r\n\t\t<li>Secure Socket Layer (SSL) Experience.</li>\r\n\t\t<li>Experience with Enterprise Level Application Development spanning two or more business areas.</li>\r\n\t\t<li>Experience with C# applications using the latest .NET framework.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>Skills Required:</strong></p>\r\n\r\n<ul>\r\n\t<li>IBM z/OS: 10 Years</li>\r\n\t<li>COBOL/CICS/DB2: 10 Years</li>\r\n\t<li>CICS Web Services: 5 Years</li>\r\n\t<li>ENDEVOR: 10 Years</li>\r\n\t<li>CA DB2 Products: 5 Years</li>\r\n\t<li>Business Systems Analysis: 5 Years</li>\r\n</ul>\r\n",
+    "description": "<h3>Senior Project Manager - Harrisburg, PA</h3>\r\n\r\n<p>Contract Duration: 6 months (Hybrid/Remote)</p>\r\n\r\n<p>Seeking for a Senior Project Manager to administer and oversee programs supporting health and wellbeing. Manage Medicaid programs and collaborate with federal, state, and community partners to ensure compliance and improve outcomes. Lead cross-program implementation efforts from planning through launch and stabilization. Utilize project management tools to drive clarity and accountability.</p>\r\n\r\n<h3>Key Responsibilities:</h3>\r\n\r\n<ul>\r\n\t<li>Lead initiative workstreams and governance forums; prepare agendas and materials.</li>\r\n\t<li>Develop and maintain integrated project plans.</li>\r\n\t<li>Translate policy requirements into actionable tasks.</li>\r\n\t<li>Establish and maintain project artifacts like RACI matrices and RAID logs.</li>\r\n\t<li>Identify risks early and drive mitigation plans.</li>\r\n\t<li>Coordinate with program offices and external partners.</li>\r\n\t<li>Support change management and documentation processes.</li>\r\n\t<li>Coach junior PMs and independently drive complex initiatives.</li>\r\n</ul>\r\n\r\n<h3>Required Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>7 years of experience leading large, multi-workstream initiatives.</li>\r\n\t<li>Ability to drive cross-functional coordination and facilitate productive meetings.</li>\r\n\t<li>Strong written and verbal communication skills.</li>\r\n\t<li>Experience using project controls and tools.</li>\r\n\t<li>Ability to work independently and manage competing priorities.</li>\r\n</ul>\r\n\r\n<h3>Preferred Qualifications:</h3>\r\n\r\n<ul>\r\n\t<li>Experience in Medicaid or CMS-facing initiatives.</li>\r\n\t<li>Experience with Section 1115 demonstrations or similar programs.</li>\r\n\t<li>Familiarity with government operations or regulatory implementation.</li>\r\n\t<li>PMP or similar project management certification.</li>\r\n</ul>\r\n",
     "recruiter": [
       "Satyam Mishra",
       "Satyam@ARKSolutionsInc.com",
       "571 8951989"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28784508",
-    "time_scraped": 1782975219705,
-    "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28784501,
-    "title": "Active Directory Technical Specialist :: Raleigh, NC (Hybrid)",
-    "location": "NC, Raleigh",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/30/2026",
-      "date_posted": 1782823187000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<h3>Active Directory Technical Specialist&nbsp;</h3>\r\n\r\n<p><strong>Location:</strong> Raleigh, NC (Hybrid)</p>\r\n\r\n<p><strong>Duration:</strong> 12 Months</p>\r\n\r\n<p>Seeking for a Active Directory Technical Specialist&nbsp;to providing account management and advanced support for Active Directory. You&#39;ll work on IT incident resolution, account administration, and ensure system security.</p>\r\n\r\n<ul>\r\n\t<li>Work with the Accounts Team to manage and modify user accounts.</li>\r\n\t<li>Provide advanced support in Active Directory and troubleshoot access issues.</li>\r\n\t<li>Document requests and resolutions using ServiceNow.</li>\r\n\t<li>Implement IT Security Office requirements to protect data.</li>\r\n\t<li>Lead projects and provide status updates to management.</li>\r\n\t<li>Develop and maintain documentation for processes and procedures.</li>\r\n</ul>\r\n\r\n<p><strong>Must-Have Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>3 years of experience in account management and administering Active Directory.</li>\r\n\t<li>Hands-on experience with Microsoft Active Directory 2008/2012 in multi-site and multi-domain environments.</li>\r\n\t<li>Strong analytical and problem-solving skills.</li>\r\n\t<li>Excellent customer service and communication skills.</li>\r\n\t<li>Ability to work independently and manage tasks effectively.</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Satyam Mishra",
-      "Satyam@ARKSolutionsInc.com",
-      "571 8951989"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28784501",
-    "time_scraped": 1782975220561,
+    "url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0&SearchString=#/jobs/28799567",
+    "time_scraped": 1783059512993,
     "source_company": "hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd",
     "source_url": "https://www2.jobdiva.com/portal/?a=hdjdnwt3oqdy1dsj4sou8i7vyoimqj03bekdzg89i3qyi2p5pohpfah42mexnfsd&compid=0",
     "date_cutoff_days": 15
