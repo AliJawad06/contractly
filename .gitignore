@@ -52,6 +52,8 @@ doccano-env/
 !repeats.json
 !newmap.json
 !location_mapper.json
-
-venv/
+json/
+day/
+cron.log
+combined.jsonl
 venv/

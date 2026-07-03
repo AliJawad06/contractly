@@ -1,82 +1,46 @@
 {
   "company": "GSK SOLUTIONS INC",
-  "scrape_date": "2026-06-02T22:18:53.084421",
-  "total_jobs": 15,
+  "scrape_date": "2026-07-02T07:43:55.353026",
+  "total_jobs": 9,
   "jobs": [
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c7SoZBRJBwtvwjTGnxY8SHw=",
-      "title": "Oracle HCM Cloud Technical Consultant",
-      "location": "Newark",
+      "id": "z5G7h3l6a1kMvyS65NP3cx38q3LwKaAwkWJaUCrm5Ek=",
+      "title": "Data Warehouse/BI Developer 3",
+      "location": "6900 Atmore Drive Richmond Virginia 23225",
       "experience": {
         "experience": "10-12 years",
         "min_experience": "10"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "\n\n\n\n\n\nJob Title:\n\n\n Oracle HCM Cloud Technical Consultant (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\n Newark, NJ\n\n\n\n\nDuration:\n\n\n 6 months\n\n\n\n\nPay Rate:\n\n\n $90/hr on C2C / 1099 all inclusive (OR) $80/hr on W2\n\n\n\n\nInterview Process:\n\n\n Either iLinc Web Cam or In Person interview\n\n\n\n\nNote:\n\n\nPlease provide address to LinkedIn Profile\nHybrid Schedule: 3 days Onsite / 2 days remote (no exceptions). Local candidates only. \nPlease list 2 Oracle implementation projects on which your candidate has worked.\n \n\n\n\n\nJob Description\n\n\nWe are seeking a talented and experienced Oracle HCM Cloud technical consultant (not functional) with a focus on interfaces, reports, documenting the business requirements, development and testing of Oracle Human Capital Management Cloud application. \n \nJob Summary\n\n\nDesign, develop, and implement Oracle Visual Builder Cloud Service (VBCS) applications\n\n\nExtend Oracle Fusion Cloud (ERP/HCM) capabilities through custom UI applications\n\n\nWork in a low-code/no-code PaaS environment with enterprise-grade standards\n\n\n \nKey Responsibilities\nVBCS Development\n\n\nDesign and develop responsive, user-friendly web and mobile applications using Oracle VBCS\n\n\nBuild and customize UI components, business objects, and service connections\n\n\nImplement reusable components, business rules, and validation logic\n\n\nOptimize applications for performance, usability, and scalability\n\n\nBuild custom UI extensions for Oracle SaaS applications (ERP/HCM)\n\n\n \nIntegration\n\n\nDesign, develop, and deploy integrations using Oracle Integration Cloud (OIC)\n\n\nDevelop and consume REST/SOAP APIs for system communication\n\n\nConfigure orchestrations, transformations, and routing logic for complex integrations\n\n\nHandle error management, logging, and monitoring of integrations\n\n\nIntegrate VBCS applications with Oracle Cloud modules and third-party systems\n\n\n \nCollaboration\n\n\nWork closely with project managers and business analysts to gather and understand requirements\n\n\nTranslate business requirements into technical designs and process flows\n\n\nParticipate in code reviews and contribute to improvement initiatives\n\n\nCollaborate with middleware, backend, and functional teams\n\n\nWork with Internal IT Teams, SMEs, and end users\n\n\n \nTesting & Deployment\n\n\nPerform unit and system testing to ensure applications function as expected\n\n\nTroubleshoot and debug applications to optimize performance\n\n\nDeploy applications across test, UAT, and production environments\n\n\n \nRequired Skills & Qualifications\nTechnical\n\n\nHands-on experience with Oracle Visual Builder Cloud Service (VBCS)\n\n\nStrong proficiency in JavaScript, HTML5, and CSS3\n\n\nExperience with REST APIs and JSON data structures\n\n\nKnowledge of Oracle Integration Cloud (OIC)\n\n\nFamiliarity with Oracle Fusion Cloud ERP/HCM modules\n\n\nExperience with SOAP/REST API integration patterns\n\n\n \nSoft Skills\n\n\nStrong problem-solving and analytical skills\n\n\nExcellent communication and cross-functional collaboration abilities\n\n\nAbility to thrive in fast-paced, dynamic environments with multiple concurrent projects\n\n\n \nNice-to-Have / Senior-Level Skills\n\n\nPL/SQL, OTBI, BI Publisher, Oracle APEX\n\n\nOracle Process Cloud Service (PCS) / Oracle Policy Automation (OPA)\n\n\nOracle ADF exposure\n\n\nExperience with Oracle Autonomous Database\n\n\nExperience leading cloud migration projects\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nHands-on experience with Oracle Visual Builder Cloud Service (VBCS)\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nStrong proficiency in JavaScript, HTML5, and CSS3\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nExperience with REST APIs and JSON data structures\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nKnowledge of Oracle Integration Cloud (OIC)\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nExperience training and mentoring Team\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nFamiliarity with Oracle Fusion Cloud ERP/HCM modules\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nExperience with SOAP/REST API integration patterns\n\n\nHighly desired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\n \nLokesh : Eight three two - Nine nine zero -Two four two six\n \n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
+      "description": "\n\n\n\nJob Title\n\n\nData Warehouse/BI Developer 3 (Hybrid)\n\n\n\n\nLocation\n\n\nRichmond, VA\n\n\n\n\nDuration\n\n\n12 months\n\n\n\n\nPay Rate\n\n\n$70/hr. On C2C/1099 AND $65/hr. On W2\n\n\n\n\nInterview Type\n\n\nIn Person Interview\n\n\n\n\nNote\n\n\nCandidates must be able to come F2F interview and work on site. Local Candidates are strongly preferred. \n\n\n\n\nJob Description\n\n\nA Data Warehouse Developer who can self‑manage, partner with BSAs and PMs, and translate business needs into actionable, analytics‑ready data solutions. This role requires strong data engineering skills in SQL Server, data modeling using Kimball methodologies, and hands‑on development of data marts, SSIS ETL pipelines, and data flow design documentation. The developer must be able to deep-dive profile source systems, design and implement database projects in Visual Studio, manage code in GIT, and validate data accuracy through testing. Experience building dashboards is helpful but secondary.\nThis role is ideal for someone who thrives in a self‑directed environment, communicates clearly with both technical and non‑technical partners, and takes pride in delivering clean, well‑modeled, well‑tested data.\n﻿\nKey Responsibilities:\n\n\nData profiling — Analyze and understand source systems to determine data availability, quality, and extraction logic.\n\n\nData modeling — Design dimensional models and star schemas to support analytics and reporting needs.\n\n\nData flow design — Produce clear, detailed mapping documents that translate business rules into technical specifications.\n\n\nSQL Server data mart development — Build and optimize tables, views, stored procedures, and indexes.\n\n\nVisual Studio database projects — Create and maintain database projects for versioned, repeatable deployments.\n\n\nGIT source control — Manage code changes, branching, and collaboration workflows.\n\n\nSSIS ETL development — Build, schedule, and monitor ETL packages to load data marts reliably and efficiently.\n\n\nData validation testing — Ensure accuracy, completeness, and alignment with business rules.\n\n\nDashboard/report creation (nice‑to‑have) — Build basic dashboards or visualizations using tools such as Power BI or Tableau.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nData profiling\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nData modeling\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nSQL Server data mart development\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nSSIS ETL development\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nSource Control\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nDashboard/report creation\n\n\nDesired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details\n\n\nContact: Sameer - sameer@gsksolutions.com - Seven one nine – two three nine – Five five five five\n\n\n\n",
       "closing": {
         "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "07/01/26",
-        "start_dateStr": 1782864000000
+        "start_date": "08/01/26",
+        "start_dateStr": 1785542400000
       },
       "end": {
-        "end_dateStr": "01/01/27",
-        "end_date": 1798761600000
+        "end_dateStr": "01/29/27",
+        "end_date": 1801180800000
       },
       "salary": "",
       "remote": 2,
       "assigned_recruiter": "",
       "recruiter": {
-        "contact": "Lokesh lokesh@gsksolutions.com",
+        "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/TxcdVI8vkIXCgL1gdvwtdN61h-Mrzx5gKo577H6bmKM",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c7SoZBRJBwtvwjTGnxY8SHw="
+      "apply": "https://candidateportal.ceipal.com/job-details/yIjGMam0O4js5_KodaM-8pG-s4wuCGc8sfJkM3Y-WK0",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3cx38q3LwKaAwkWJaUCrm5Ek="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c-s7QTg7UH8z4tjyvLBvLSU=",
-      "title": "Sr. Network Engineer",
-      "location": "Newark, NJ",
-      "experience": {
-        "experience": "8-20 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\nJob Title:\n\n\nSr. Network Engineer (Onsite)\n\n\n\n\nLocation:\n\n\nNewark, NJ\n\n\n\n\nDuration:\n\n\n6 months\n\n\n\n\nNote:\n\n\nDoes the candidate agree to split their time between being on site in Newark, NJ and performing field work? (NOT Hybrid)\n\n\n\n\nInterview Process:\n\n\nIn Person Only\n\n\n\n\nJob Description\n\n\nRoles & Responsibilities: \n\nDesigns, implements, supports, and maintains enterprise network/wireless infrastructure across NJ Transit facilities including data centers, rail stations, bus garages, office buildings, transportation hubs, dispatch centers, maintenance facilities, and remote locations.\nDesigns, implements, and supports wireless cellular technologies including LTE, 5G, DAS, wireless WAN (WWAN), and mobile network solutions.\nSupports highly available network/wireless infrastructure for 24x7 transportation operations with focus on resiliency, redundancy, and operational continuity. Performs cellular/wireless signal analysis, coverage validation, interference troubleshooting, and cellular performance optimization.\nSupports out-of-band (OOB) connectivity solutions utilizing cellular technologies for remote infrastructure management and resiliency.\\\nDetermines and analyzes user requirements for voice and data services/equipment. Participates in vulnerability remediation, security audits, incident response, and infrastructure hardening initiatives.\nEvaluates technical and cost proposals for telecommunications equipment, systems and services and prepares recommendations to immediate supervisor.\nPerforms voice and data traffic engineering analysis to assure that telecommunications services are optimized and satisfactory level of service is maintained/improved.\nParticipates in vulnerability remediation, security audits, incident response, and infrastructure hardening initiatives. \n\nEducation, Experience & Qualifications\n\nBachelors Degree in Computer Science or related major or equivalent.\n\nKnowledge & Skills\n\nCradlePoint Modem Device Configuration skills and Operational Support\nFour (4) or more years of applied experience in the telecommunications field, including voice and data.\nExperience to include working in a major PBX and\\or network environment with extensive client interaction in the implementation/support of data and voice networks.\nExperience with wireless cellular technologies including LTE, 5G, DAS, cellular gateways/modems, and carrier network services preferred.\nKnowledge of wireless network architecture, RF fundamentals, carrier connectivity, and mobile communications infrastructure preferred.\nExperience supporting mission-critical wireless infrastructure and transportation communications systems preferred.\n\nCertificates, Licenses, Registrations\n\nIndustry certifications such as CCNP, CWNA, CWNP, Cisco Wireless or equivalent preferred.\n\nWorking Environment\n\nRequires fieldwork at transportation facilities, remote sites, data centers, rail stations, bus garages and outdoor locations.  Locations to be provided as it will be dependent upon where the work is needed.  Candidate can expect 1-2 days per week in office at 2 Gateway, Newark NJ and remainder of days per week at one of the sites.  Candidate will not work from home.\nMay require after-hours support for emergency wireless/cellular outages and maintenance activities.\n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\n \n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nCradlePoint Modem Device Configuration Skills\n\n\nRequired\n\n\n4\n\n\nYears\n\n\n\n\nApplied experience in the telecommunications field, including voice and data.\n\n\nRequired\n\n\n4\n\n\nYears\n\n\n\n\nExperience to include working in a major PBX and/or network environment with extensive client interaction in the implementation/support of data\n\n\nRequired\n\n\n4\n\n\nYears\n\n\n\n\nExperience with wireless cellular technologies including LTE, 5G, DAS, cellular gateways.\n\n\nRequired\n\n\n4\n\n\nYears\n\n\n\n\nKnowledge of wireless network architecture, RF fundamentals, carrier connectivity & mobile communications infrastructure\n\n\nRequired\n\n\n4\n\n\nYears\n\n\n\n\nExperience with Cisco, Cradlepoint, Sierra Wireless, Digi, Aruba or similar wireless networking platforms\n\n\nRequired\n\n\n4\n\n\nYears\n\n\n\n\nIndustry Certifications: CCNP, CWNA, CWNP, Cisco Wireless or equivalent\n\n\nHighly desired\n\n\n0\n\n \n\n\n\n\n \n\n\n\n\nRecruiter Details:\n\n\nPraveen : praveen@gsksolutions.com\n\n\n\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/01/26",
-        "start_dateStr": 1782864000000
-      },
-      "end": {
-        "end_dateStr": "01/31/27",
-        "end_date": 1801353600000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "Praveen Ballempraveen@gsksolutions.com",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/3XXbeZaRogzRWPeCNuEx0V0IP99buRKKPLxGvoBwpag",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c-s7QTg7UH8z4tjyvLBvLSU="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cxMkC3DtPiqI0142EYmL0vE=",
+      "id": "z5G7h3l6a1kMvyS65NP3c6FCbWwZMg3ffYk938wtCvc=",
       "title": "Business Systems Analyst",
       "location": "430 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
       "experience": {
@@ -85,17 +49,17 @@
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "\n\n\n\n\nJob Title:\n\n\nBusiness Systems Analyst (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nLansing, MI\n\n\n\n\nDuration:\n\n\n12 months+\n\n\n\n\nPay Rate:\n\n\n$53/hr on C2C / 1099 all inclusive (OR) $50/hr on W2\n\n\n\n\nInterview Process:\n\n\nInterviews will be held in-person. Candidates MUST be available for an in-person interview.\n\n\n\n\nNote:\n\n\n\n\nWill close submissions on: 6/8 @10am EST\n\n\nDuration: 1.5 years with desire for contractor to convert to fulltime with SOMI in 1-2 years. At the time of conversion, candidate must be authorized to work in the US without VISA sponsorship by the State of Michigan.\n\n\nHybrid: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week (required in-person days are Tuesdays and Wednesdays). Please note, the first month of work will require onsite presence 5 days per week for onboarding.\n\n\nLocal candidates ONLY. Must be located within 1 hour of Lansing, MI at time of submission.\n\n\n \n\n\n\n\nJob Description\n\n\nThis position functions as part of an Agile team with heavy understanding and usage of the Azure DevOps tool as part of the required skillset. The System Analyst 3 is responsible for gathering, documenting, and testing clear, unambiguous business requirements from the client. Understanding the business requirements thoroughly in order to communicate business needs and system functionality to technical and non-technical stakeholders, project team members, and the user community. The System Analyst serves as the ScrumMaster (heavy usage of Azure DevOps tool) on projects and coordinates with the PMO’s Project Manager for artifacts/documentation needed\n \nThe System Analyst is responsible for working with the project team and stakeholders to examine existing and future-state business processes, data, and systems. This information is used to guide the gathering of business requirements and executing test cases as they relate to the desired system functionality.\n \nResponsibilities\n\n\nGather, analyze, and document business and functional requirements.\n\n\nDevelop process flows, use cases, and user stories with clear acceptance criteria.\n\n\nTranslate business needs into technical specifications for development teams.\n\n\nCreate test plans, test scenarios, and detailed test cases based on requirements.\n\n\nExecute functional, integration, and regression testing; log and track defects.\n\n\nSupport User Acceptance Testing (UAT) and coordinate with business partners.\n\n\nValidate that delivered solutions meet documented requirements and quality standards.\n\n\nCollaborate with developers, project managers, and business stakeholders to clarify requirements and resolve issues.\n\n\nAssist with system demonstrations, training materials, and production validation.\n\n\nEnsure documentation remains accurate and updated throughout the project lifecycle.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\n \n\n\n\n\nSkill Set [experience must be within last 5 years]\n\n\n# of Years\n\n\n\n\nBusiness Analyst\n\n\n3\n\n\n\n\nQuality Assurance Analyst\n\n\n3\n\n\n\n\nAzure DevOps Knowledge – or similar tool like JIRA (comfortable with creating epics/features/user stories for projects as well as moving cards through project lifecycle)\n\n\n3\n\n\n\n\nUnderstanding of BA, QA, DEV roles/responsibilities\n\n\n3\n\n\n\n\nExperienced with as-is/to-be processes and content creation\n\n\n3\n\n\n\n\nExperience with creating product roadmap\n\n\n3\n\n\n\n\nFamiliarity with Project Management Methodologies/Agile\n\n\n3\n\n\n\n\nAdept with using BA/QA tools (e.g., FIGMA, Visio)\n\n\n3\n\n\n\n\n \n\n\n\n\nRecruiter Details:\n\n\nName : Praveen\nContact : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
+      "description": "\n\n\n\nJob Title\n\n\nBusiness Systems Analyst (Hybrid Onsite)\n\n\n\n\nLocation\n\n\nLansing, MI\n\n\n\n\nDuration\n\n\n1.5 years+\n\n\n\n\nPay Rate\n\n\n$53/hr on C2C / 1099 all inclusive (OR) $50/hr on W2\n\n\n\n\nInterview Type\n\n\nInterviews will be held in-person. Candidates MUST be available for an in-person interview.\n\n\n\n\nNote\n\n\nCandidate must be authorized to work in the US without VISA sponsorship by the State of Michigan. - Hybrid: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week (required in-person days are Tuesdays and Wednesdays). Please note, the first month of work will require onsite presence 5 days per week for onboarding. - Local candidates ONLY. Must be located within 1 hour of Lansing, MI at time of submission.\n\n\n\n\nJob Description\n\n\nThis position functions as part of an Agile team with heavy understanding and usage of the Azure DevOps tool as part of the required skillset. The System Analyst 3 is responsible for gathering, documenting, and testing clear, unambiguous business requirements from the client. Understanding the business requirements thoroughly in order to communicate business needs and system functionality to technical and non-technical stakeholders, project team members, and the user community. The System Analyst serves as the ScrumMaster (heavy usage of Azure DevOps tool) on projects and coordinates with the PMO’s Project Manager for artifacts/documentation needed on State of Michigan projects.\nThe System Analyst is responsible for working with the project team and stakeholders to examine existing and future-state business processes, data, and systems. This information is used to guide the gathering of business requirements and executing test cases as they relate to the desired system functionality.\n \nResponsibilities\n\n\nGather, analyze, and document business and functional requirements.\n\n\nDevelop process flows, use cases, and user stories with clear acceptance criteria.\n\n\nTranslate business needs into technical specifications for development teams.\n\n\nCreate test plans, test scenarios, and detailed test cases based on requirements.\n\n\nExecute functional, integration, and regression testing; log and track defects.\n\n\nSupport User Acceptance Testing (UAT) and coordinate with business partners.\n\n\nValidate that delivered solutions meet documented requirements and quality standards.\n\n\nCollaborate with developers, project managers, and business stakeholders to clarify requirements and resolve issues.\n\n\nAssist with system demonstrations, training materials, and production validation.\n\n\nEnsure documentation remains accurate and updated throughout the project lifecycle.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\n\n\n\nSkill Set [experience must be within last 5 years]\n\n\n# of Years\n\n\n\n\nBusiness Analyst\n\n\n3\n\n\n\n\nQuality Assurance Analyst\n\n\n3\n\n\n\n\nAzure DevOps Knowledge – or similar tool like JIRA (comfortable with creating epics/features/user stories for projects as well as moving cards through project lifecycle)\n\n\n3\n\n\n\n\nUnderstanding of BA, QA, DEV roles/responsibilities\n\n\n3\n\n\n\n\nExperienced with as-is/to-be processes and content creation\n\n\n3\n\n\n\n\nExperience with creating product roadmap\n\n\n3\n\n\n\n\nFamiliarity with Project Management Methodologies/Agile\n\n\n3\n\n\n\n\nAdept with using BA/QA tools (e.g., FIGMA, Visio)\n\n\n3\n\n\n\n\n \n\n\n\n\nRecruiter Details\n\n\nContact: Sameer - sameer@gsksolutions.com - Seven one nine – two three nine – Five five five five\n\n\n\n\n ",
       "closing": {
         "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
+        "start_date": "07/27/26",
+        "start_dateStr": 1785110400000
       },
       "end": {
         "end_dateStr": "09/30/27",
@@ -105,285 +69,33 @@
       "remote": 2,
       "assigned_recruiter": "",
       "recruiter": {
-        "contact": "Praveen Ballempraveen@gsksolutions.com",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/vWh5C44D9seLQKCyilR6YhiqB2oYL8FiJ71taQEeHqg",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3cxMkC3DtPiqI0142EYmL0vE="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7IhstE2NUoanWWSqVKn6Jk=",
-      "title": "GRC Administrator / Developer",
-      "location": "525 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\n\nJob Title:\n\n\nGRC Administrator / Developer (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nLansing, MI\n\n\n\n\nDuration:\n\n\n12 months\n\n\n\n\nPay Rate:\n\n\n$55/hr on C2C / 1099 all inclusive (OR) $50/hr on W2\n\n\n\n\nInterview Process:\n\n\nIn-person interviews (bringing laptops, headsets, etc. to the interview is not permitted). Candidates MUST be available for an in-person interview.\n\n\n\n\nNote:\n\n\n\n\nHybrid: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week (Mondays and Tuesdays required)\n\n\nLocal candidates ONLY (must be within 1.5 hours from Lansing, MI at time of submission)\n\n\n \n\n\n\n\nJob Description\n\n\nThis position is part of a collaborative team of information technology professionals dedicated to supporting the agency’s mission and goals. The role focuses on maintaining and enhancing the State of Michigan’s Web-based Governance, Risk, and Compliance (GRC) tool, Navex IRM (formerly Keylight). Responsibilities include administration, development, troubleshooting, and implementing new functionality. The position may also involve working on new development projects, testing, documentation, and cross-team collaboration with Michigan Cyber Security, Office of Internal Audit Systems, Office of the Chief Technology Officer, and the Enterprise Project Management Office.\n \nKey Responsibilities\n\n\nServe as the primary administrator and developer for the State of client’s tool (Navex IRM).\n\n\nCollaborate closely with stakeholders to understand security and compliance requirements and design tailored automation solutions.\n\n\nLead automation initiatives for security accreditation processes, including evidence collection, workflow routing, and control reviews to reduce manual effort.\n\n\nDesign and implement unified security controls frameworks aligned with client standard and integrate CJIS v6.0, IRS 1075, PCI (SAQ A, SAQ A-EP), and ARC-AMPE standards.\n\n\nDevelop and maintain Python API modules and automation scripts to import and update compliance controls, integrate CMDB, vulnerability data, and audit evidence for continuous monitoring.\n\n\nWork cross-functionally with IT, security, and business teams to ingest structured data (JSON, CSV) into the GRC tool and maintain centralized Azure Repos for source control and documentation.\n\n\nIntegrate with RESTful APIs to automate data imports, exports, and reporting in JSON and CSV formats.\n\n\nTroubleshoot issues, identify solutions, and ensure timely resolution.\n\n\nMaintain and update system and project documentation (Azure repositories, SharePoint).\n\n\nCommunicate with Navex IRM regarding software issues, maintenance, and upgrades.\n\n\nAnalyze GRC issues/incidents to identify root causes and work with vendor support to implement solutions.\n\n\nParticipate in development activities, including testing, implementation, and documentation.\n\n\nPerform other duties as assigned\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired Skills and Qualifications\n\n\nPython programming experience\n\n\nExperience developing automation scripts and API integrations (RESTful APIs)\n\n\nGeneral knowledge of database design\n\n\nBasic programming skills in Java or C#\n\n\nFamiliarity with DevOps practices and Risk Management concepts\n\n\nExperience with Agile methodology (e.g., sprints)\n\n\nStrong troubleshooting and problem-solving skills\n\n\nExcellent communication and collaboration abilities\n\n\n \nPreferred Skills\n\n\nExperience with automated testing\n\n\nKnowledge of any GRC tool (Navex IRM experience is a plus)\n\n\nUnderstanding of governance, risk, and compliance frameworks\n\n\nExperience with security frameworks such as CJIS, IRS 1075, PCI, ARC-AMPE\n\n\n \nTop Skills Summary\n\n\nPython programming (primary requirement) – 2-3+ years\n\n\nAPI integration and automation experience – 1-2+ years\n\n\nAgile methodology experience – 1-2+ years\n\n\nRisk Management knowledge – 1-2+ years\n\n\nDatabase design expertise – 2-3+ years\n\n\nGRC tool familiarity (preferred) – 1-2+ years\n\n\n\n\n\n\nRecruiter Details:\n\n\nName : Sameer\nContact : Seven one nine – two three nine – Five five five five\n\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "Sameer Maniyarsameer@gsksolutions.com",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/_URTN3PREXI-H9z5Q_mSR-ejReB2WdAlKSk09bu1H_c",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c7IhstE2NUoanWWSqVKn6Jk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c5m7QbvOowwX6ym-qqW75EY=",
-      "title": "Network Administrator",
-      "location": "10700 Horsemens Road\\nNew Kent, VA  23124",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\nJob Title:\n\n\nNetwork Administrator (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nNew Kent, VA\n\n\n\n\nDuration:\n\n\n6 months\n\n\n\n\nPay Rate:\n\n\n$40/hr on C2C / 1099 all inclusive (OR) $35/hr on W2\n\n\n\n\nInterview Process:\n\n\nIn Person Only\n\n\n\n\nNote:\n\n\nIN PERSON IVS ONLY - Preference for local Richmond candidates due to the on site requirement \n \n\n\n\n\nJob Description\n\n\n\n\nGeneral IT knowledge across networking, systems, web, and cybersecurity enough to speak the language and triage issues\n\n\nExperience coordinating or managing IT vendors or contractors\n\n\nComfortable serving as the bridge between non-technical agency staff and technical contractors\n\n\nAbility to track open tickets, follow up on deliverables, and escalate as needed\n\n\nExperience in a small office or government environment preferred\n\n\nFamiliarity with Commonwealth of client IT standards (VITA) a plus\n\n\n \nTECHNICAL SKILLS (Required):\n\n\nIT vendor and contractor management\n\n\nGeneral networking and systems knowledge (awareness level)\n\n\nCybersecurity awareness and client compliance coordination\n\n\nWebsite content coordination (not development)\n\n\nIT asset and software license tracking\n\n\nHelp desk triage and escalation\n\n\nProject coordination and ticket/task management\n\n\nMicrosoft Office / productivity tools\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nIT vendor and contractor management\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nIT asset and software license tracking\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nProject coordination and ticket/task management\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nHelp desk triage and escalation\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nWebsite content coordination (not development)\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nGeneral networking and systems knowledge (awareness level)\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nMicrosoft Office / productivity tools\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nCybersecurity awareness and VITA/COV compliance coordination\n\n\nHighly desired\n\n\n2\n\n\nYears\n\n\n\n\nHands-on network or systems administration\n\n\nNice to have\n\n\n3\n\n\nYears\n\n\n\n\nHands-on cybersecurity engineering\n\n\nNice to have\n\n\n3\n\n\nYears\n\n\n\n\nVITA IT procurement / eVA system experience\n\n\nNice to have\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nKris : Kirs@gsksolutions.com\nLokesh : Eight three two - Nine nine zero -Two four two six\nSameer : Seven one nine – two three nine – Five five five five\nPraveen : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "2026-06-04T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "12/19/26",
-        "end_date": 1797638400000
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/zAYOfG9KnlNoXi_o_zR9iC5V1ghzAYwYkcLE56P-FkY",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c5m7QbvOowwX6ym-qqW75EY="
+      "apply": "https://candidateportal.ceipal.com/job-details/RnwMRqUYgGl2-eP9eVRkVEpTQi0nb__W4SN2koeLDYw",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c6FCbWwZMg3ffYk938wtCvc="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c8dTtX61CaLkNsYV2NMyc_s=",
-      "title": "Project Manager",
-      "location": "9960 Mayland Dr. Ste 402 Henrico, VA 23233",
+      "id": "z5G7h3l6a1kMvyS65NP3c0TWPIla9V9sBjmR1cPTsPw=",
+      "title": "Senior Dynatrace Engineer ",
+      "location": "600 WEST PEACHTREE ST.NW,ATLANTA,GEORGIA 30308",
       "experience": {
         "experience": "10-12 years",
         "min_experience": "10"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "\n\n\n\n\nJob Title:\n\n\nProject Manager (Part Time - Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nHenrico, VA\n\n\n\n\nDuration:\n\n\n6 months\n\n\n\n\nPay Rate:\n\n\n$100/hr on C2C / 1099 all inclusive (OR) $90/hr on W2\n\n\n\n\nInterview Process:\n\n\nIn Person Only\n\n\n\n\nNote:\n\n\nEstimated total hours 640 - 20 hours per week (Part time) \r\n\t\t\tHybrid with on-site expected once a week\nActive PMP Certification is REQUITRED. Pls upload a copy of your candidates PMP cert under the REFERENCE tab at time of submittal to be considered.\n \n\n\n\n\nJob Description\n\n\nProject Manager will provide project management oversight for the design, configuration, staff training and implementation of VBOA’s replacement licensing and management system and to provide internal support for the steps required by client\n\r\n\t\t\tProject management activities include but are not limited to; leading team members through process mapping and requirements gathering, serving as the day-to-day point of contact for the project and overseeing the various system implementation phases and processes, overseeing acceptable user acceptance testing, certifying that the solution is ready for deployment and is fully implemented as planned. The Project Manager will also be responsible for change management, overall vendor management and project closeout. \n\r\n\t\t\tRequirements include:  strong management and leadership skills, the ability to set and maintain adherence to project goals with internal team and IT vendor, maintain project timeframes, budgeting estimates and status reports for executive management and the board, coordinating project team members and developing and tracking schedules and individual responsibilities, implementing IT strategies that deliver projects on schedule and within budget.\n\r\n\t\t\tCertified Project Management Professional (PMP) certification through the Project Management Institute (PMI) required with demonstrated experience in effective team building, and communication skills, knowledge and experience in successfully executing Software as a Service (SaaS) or Platform as a Service (PaaS) implementation with strong vendor management skills, experience assisting Commonwealth of agencies in planning, developing, and validating functional and technical requirements to support the implementation of IT solutions, knowledge of current Commonwealth of policies, standards, procedures, and practices, particularly those related to client.\r\n\t\t\t \n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nCloud & SaaS Expertise: Strong background in planning, executing, and managing cloud-hosted SaaS implementation projects.\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nAnalytical & Organizational Expertise: Strong ability to analyze complex problems, organize priorities, and make sound decisions under pressure.\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nLeadership & Change Management: Proven capability to lead cross-functional teams and drive adoption of new approaches, systems, and methodologies.\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nRequirements Management: Extensive experience guiding business and IT stakeholders through discovery and documentation of business and technical requi\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nProject Management Methodologies: Deep knowledge of Agile and Waterfall principles, with hands-on experience running Scrum, Kanban, and Waterfall proj\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nVendor Management: Skilled in collaborating with vendors and overseeing successful implementation of vendor solutions.\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nCertifications: Active PMP® certification from PMI.\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nKris : Kirs@gsksolutions.com\nLokesh : Eight three two - Nine nine zero -Two four two six\nSameer : Seven one nine – two three nine – Five five five five\nPraveen : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
+      "description": "\n\n\n\n\nJob Title\n\n\nSenior Dynatrace Engineer (Hybrid)\n\n\n\n\nLocation\n\n\nAtlanta, GA\n\n\n\n\nDuration\n\n\n12 months\n\n\n\n\nPay Rate\n\n\n$71.67/hr. On C2C/1099/W2\n\n\n\n\nInterview Type\n\n\nBoth Web Cam OR In Person Interview\n\n\n\n\nNote\n\n\nThis position is Hybrid (Remote and Onsite). The candidate's first day is onsite and onsite on demand basis. Preference will be given to candidates local to Atlanta Metro area/State of Georgia.\n\n\n\n\nJob Description\n\n\n\nUnder limited supervision, coordinates, designs, and secures computer databases to store, track, and maintain a large volume of critical business information. Serves as highest advanced-level subject matter expert, providing authoritative guidance for professional staff. May also serve in a lead role. Collaborate with cross-functional teams to automate monitoring, troubleshoot performance bottlenecks, and research for Root Cause Analysis (RCA) across hybrid, multi-cloud, and microservices architectures. This is for the INET Program. \n \nMonitoring & Observability:\n\n\nConfigure, maintain, and optimize monitoring solutions using Dynatrace.\n\n\nEnable end-to-end visibility across infrastructure, systems, and applications.\n\n\nDevelop dashboards, alerts, and health checks to ensure system health and reliability.\n\n\nMonitor service performance and availability and set alert thresholds to minimize false positives.\n\n\nInfrastructure Systems Monitoring:\n\n\nMonitor Windows/Linux servers, virtual environments, and cloud platforms (AWS, Azure, GCP).\n\n\nSupport monitoring of databases, middleware, and network components.\n\n\nCollaborate with infrastructure and cloud teams to identify trends and capacity needs.\n\n\nProactively identify and resolve issues before they impact production.\n\n\nApplication Monitoring:\n\n\nUse Dynatrace to monitor application performance and transaction flows.\n\n\nSupport synthetic monitoring and real user monitoring.\n\n\nWork closely with application teams to ensure comprehensive monitoring coverage.\n\n\nAssist in troubleshooting performance issues at both the application and system level.\n\n\nIncident Support:\n\n\nParticipate in incident response efforts related to performance and availability.\n\n\nProvide monitoring insights during troubleshooting and root cause analysis.\n\n\nIdentify and close monitoring gaps.\n\n\nContinuous Improvement:\n\n\nEnhance monitoring standards and documentation.\n\n\nRecommend improvements to monitoring configurations and alert strategies.\n\n\nSupport integration of monitoring tools with IT Service Management (ITSM) platforms.\n\n\nRequirements:\n\n\nEducation: Bachelor's degree in information systems, Computer Science, or equivalent experience.\n\n\nExperience:\n\n\n5+ years in systems engineering, infrastructure support, or monitoring roles.\n\n\n5+ years of hands-on experience with Dynatrace or similar APM tools.\n\n\nTechnical Skills:\n\n\nKnowledge of Windows/Linux servers, virtualized environments (VMware), and cloud platforms (AWS, Azure, GCP).\n\n\nBasic networking understanding (DNS, TCP/IP, load balancing).\n\n\nExperience with scripting or automation tools like PowerShell or Bash (preferred).\n\n\nFamiliarity with Kubernetes or container monitoring.\n\n\nExperience with ITIL practices and regulated industries (e.g., healthcare, financial services).\n\n\nSoft Skills:\n\n\nStrong troubleshooting and analytical skills.\n\n\nEffective communication and collaboration across teams.\n\n\nDetail-oriented with a proactive mindset.\n\n\n \n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\nRequired/Desired Skills\n\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nDemonstrate ability to effectively communicate verbally and in writing with all levels of staff and management\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nKnowledge of Windows/Linux servers, virtualized environments (VMware), and cloud platforms (AWS, Azure, GCP).\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nExperience with scripting or automation tools like PowerShell or Bash (preferred).\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nBasic networking understanding (DNS, TCP/IP, Load balancing).\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nExperience migrating from Dynatrace Managed to SaaS\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nKnowledge of recommending baseline monitoring thresholds, KPI;s and SLA's\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nFamiliarity with enterprise log analysis frameworks and tools like Jira or Service Now.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nExposure to AWS Solution Architect Professional Certification (Preferred).\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n\n \n\n\n\n\n\nRecruiter Details\n\n\nContact: Praveen - praveen@gsksolutions.com - Eight three two - Nine Nine Zero - Two four two seven\n\n\n\n",
       "closing": {
-        "closing_date": "2026-06-03T23:59:00Z",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-03T23:59:00Z",
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "02/19/27",
-        "end_date": 1802995200000
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/JGzVs-_Upzc0u3Jz7SuyhICjlyEUNBDLcmWtW52rocs",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c8dTtX61CaLkNsYV2NMyc_s="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cyRpvARDuC74Kqd4lNmNqGg=",
-      "title": "Technica Support 1",
-      "location": "1425 East Warren Avenue,Detroit,Michigan,48207,UNITED STATES",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\n\nJob Title:\n\n\nTechnica Support 1 (Onsite)\n\n\n\n\nLocation:\n\n\nDetroit, MI\n\n\n\n\nDuration:\n\n\n12 months\n\n\n\n\nPay Rate:\n\n\n$25/hr on W2 / 1099 all inclusive\n\n\n\n\nJob Description\n\n\nPosition Summary: As a key member of the Technology Division’s Field Services and Asset Management team, the Contracted Asset Management & Deployment Specialist provides coordination and support with all phases of the asset lifecycle of technology devices, from initial receipt to final disposal, while maintaining a well-organized warehouse environment. The candidate for this position should have a keen focus on maintaining high standards of procedural fidelity, ensuring quality assurance, fulfilling service level expectations, and delivering best-in-class service experiences to all stakeholders.\n\n\n\n\nTop Skills & Years of Experience\n\n\nMinimum Qualifications:\n\n\nAssociate’s degree in Information Technology, Business Administration, or a related field\n\n\nProven experience in asset management and IT deployment, preferably in an educational or large enterprise setting.\n\n\nMinimum of five (5) years of desktop/computer support experience demonstrating the ability to troubleshoot and perform routine maintenance on computers and peripheral equipment. Experience with Apple, HP, Lenovo, and Dell products preferred.\n\n\nMust demonstrate proficiency with Microsoft 365 products such as Word, Excel, Outlook, Teams, and SharePoint.\n\n\nStrong organizational skills and the ability to manage multiple tasks simultaneously.\n\n\nExcellent communication and interpersonal skills to interact with various stakeholders.\n\n\nHigh attention to detail and commitment to quality.\n\n\nFamiliarity with ITSM and ITAM tools and database management.\n\n\nAbility to follow strict procedures and create reports reflecting accurate metrics.\n\n\nAbility to work well under pressure, meet deadlines and prioritize requests with professionalism and empathy.\n\n\nSelf-motivated with the ability to work in a fast-moving environment.\n\n\nAbility to perform physical tasks such as lifting and moving up to 50 pounds without assistance.\n\n\nMust own reliable transportation and have valid driver’s license.\n\n\n \nEssential Functions:\n\n\nSupport each phase of the asset lifecycle for technology devices within the district, from acquisition and deployment to maintenance and disposal, ensuring accuracy and efficiency.\n\n\nAct as the first line of contact for support with technology purchases placed by district stakeholders. This includes responding to customer inquiries regarding order status, assisting onboarding and offboard staff members, maintaining delivery schedules, and pick-up of old technology.\n\n\nAssist with coordination of technology deployment of devices to district locations; including scheduling timely delivery of devices to schools.\n\n\nConduct new hire orientation and/or best practice workshops for employees upon device deployment to facilitate seamless adoption and utilization of new technology.\n\n\nSupport warehouse upkeep and maintenance of warehouse/vault, including the staging and labeling of bays and shelves, to support organizational efficiency and accessibility.\n\n\nProvide best-in-class service experience by addressing concerns and inquiries timely and accurately.\n\n\nStrictly follow all relevant procedures and guidelines to maintain consistency and integrity in the deployment and management processes.\n\n\nMaintain accurate and up-to-date records of all devices, including incoming technology orders, confirming receipt of assets, managing partial orders with vendors, and updating district inventory.\n\n\nTroubleshoot and resolve order, warranty or delivery issues with colleagues, vendors and carriers.\n\n\nAssist with coordination and scheduling of physical inventory or technology audits, including providing up-to-date inventory data such as lost and stolen or damaged device reports or targeted inventory reporting.\n\n\nManage stock inventory tightly to ensure items are readily available for deployment.\n\n\nDevelop and update information resources such as internal knowledge articles and frequently asked questions for the Hub.\n\n\nStrictly follow all warehouse guidelines for safety as well as ensure assets are organized and stored securely daily.\n\n\nCollaborate with other teams to ensure coordination and timely completion of projects/tasks, assist with special projects, and resolve incidents related to asset management.\n\n\nDemonstrate professionalism, courtesy, and empathy through customer service while working with all stakeholders; exemplify and model the core values of the District in all interactions\n\n\nOther duties as assigned by Supervisor.\n\n\n \nSecurity Clearance:\nIn alignment with Michigan law, if you are hired to fill a position, you will be required to submit to a Detroit Public Schools Community District criminal background check through LiveScan. Information regarding required background checks will be shared at point of hire.\n\n\n\n\nRecruiter Details:\n\n\nKris : Kris@gsksolutions.com\nLokesh : Eight three two - Nine nine zero -Two four two six\nSameer : Seven one nine – two three nine – Five five five five\nPraveen : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/01/26",
-        "start_dateStr": 1782864000000
-      },
-      "end": {
-        "end_dateStr": "06/20/27",
-        "end_date": 1813449600000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/T_M2Of76Htq5j6QueNeucdZshKN1RCrrVMzcqwPx0fc",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3cyRpvARDuC74Kqd4lNmNqGg="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c--3WBN78syXrHALBHso5w4=",
-      "title": "Senior Java Developer",
-      "location": "500 North Meridian Street\\nIndianapolis, IN 46204",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\nJob Title:\n\n\nSenior Java Developer (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nIndianapolis, IN\n\n\n\n\nDuration:\n\n\n12 months+\n\n\n\n\nPay Rate:\n\n\n$65.00/hr on C2C / 1099 / W2 all inclusive\n\n\n\n\nInterview Process:\n\n\nWebcam only\n\n\n\n\nNote:\n\n\nSelected candidate will be required to work onsite 3 days per week and 2 days remote.\n \n\n\n\n\nJob Description\n\n\nExperienced Java developer with expertise in Spring Boot, REST API development, batch processing, event-driven queue processing, MuleSoft integration, and document generation tools.\n \nComplete Description:\n\n\nResource is required with strong hands-on experience in Java, Spring Boot framework for backend development, and creation of scalable RESTful APIs.\n\n\nThe candidate must have practical exposure to designing and executing batch processes.\n\n\nImplementing event-driven and queue-based asynchronous processing using technologies such as AS400 Data Queues, Kafka, RabbitMQ, or AWS SQS.\n\n\nResource must have hands-on experience deploying Java-based applications to AWS applications and web server environments.\n\n\nExperience in writing PostgreSQL functions, stored procedures, and advanced SQL queries is a strong plus.\n\n\nExperience in MuleSoft integration flows, API-led connectivity.\n\n\nFamiliarity with Angular/React for frontend development is preferred.\n\n\nPreferred experience with document automation and template management tools such as Smart Documents or Adobe Forms Development.\n\n\nCandidates will work with cross-functional teams to deliver enterprise-grade solutions.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nJava and Spring Boot development.\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nStrong exposure to REST API design, authentication, authorization, and microservice patterns.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nExperience building and optimizing batch processes\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nHands-on experience with event-driven architectures and message queues.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nMuleSoft development experience (including integrations and API management).\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nWorking knowledge of template-based document generation platforms.\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nKris : Kirs@gsksolutions.com\nLokesh : Eight three two - Nine nine zero -Two four two six\nSameer : Seven one nine – two three nine – Five five five five\nPraveen : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "2026-06-04T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/01/26",
-        "start_dateStr": 1780272000000
-      },
-      "end": {
-        "end_dateStr": "01/01/27",
-        "end_date": 1798761600000
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/sDrFUFPz5RNOU7xgmCfe8tYEAIoBh_Bcszak6BtprXk",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c--3WBN78syXrHALBHso5w4="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c14MxoeFCeyyGFBwMoq09_M=",
-      "title": "Senior Business Analyst",
-      "location": "525 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\n\nJob Title:\n\n\nSenior Business Analyst (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nLansing, MI\n\n\n\n\nDuration:\n\n\n12 months+\n\n\n\n\nPay Rate:\n\n\n $70/hr on C2C / 1099 all inclusive (OR) $65/hr on W2\n\n\n\n\nJob Description\n\n\nKey responsibilities include being the liaison between DTMB and the project stakeholders, as well as providing expert facilitation and elicitation and process modeling to help develop strategy and requirements for ongoing enhancements and related work projects. In addition, as part of the overall support for EGLE, this person will be a critical member of the Agency Services Business Analyst team, participating in various related work requests for EGLE and contributing to the operational activities of the BA team. The ideal candidate will possess SOM process experience; strong facilitator experienced using facilitation for requirements elicitation; experience with gap fit analysis and program performance analytics.\n \nBusiness Analyst Position General Description:\n\n\nFacilitation of requirements elicitation meetings; experience with gap fit analysis and requirements refinement.\n\n\nReviews, analyzes, and evaluates business systems and user needs. Formulates systems to parallel overall business strategies. Experienced with business process reengineering and identifying new applications of technology to business problems to make business more effective. Familiar with industry standard (including Legacy, Core, and Emerging technologies), business process mapping, and reengineering. Prepares solution options, risk identification, and financial analyses such as cost/benefit, ROI, buy/build, etc. Writes detailed description of user needs, program functions, and steps required to develop or modify computer programs.\n\n\nPrepare and document Functional and Technical Specifications for reporting and data warehouse work. Assist with business warehouse/intelligence support and enhancements. Develops RFPs. Assist in deployment and management of end-user reporting tools and platforms. Work with IT and business project teams to understand reporting and data\n\n\nwarehousing requirements and propose solutions. Document and provide knowledge transfer to the rest of the Enterprise Reporting Team for all solutions.\n\n\nReviews, analyzes, and evaluates business systems and user needs. Formulates systems to parallel overall business strategies. Has knowledge of commonly used concepts, practices, and procedures within a particular field. Familiar with relational database concepts, and client-server concepts.\n\n\nRelies on limited experience and judgment to plan and accomplish goals. Performs a variety of tasks.\n\n\nWorks under general supervision; typically reports to a project manager. A certain degree of creativity and latitude is required\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nSpecific Position Experience Required:\n\n\nMinimum of 7 years conducting business process review and requirements elicitation and documentation to include process modeling\n\n\nMinimum of 5 years developing and/or managing user stories on Agile development project(s)\n\n\nMinimum of 2 years working directly with senior management in facilitating discussions to determine strategy, develop road maps and/or gain consensus to resolve opposing positions\n\n\nMinimum of 2 years supporting the development of or compliance to statement of work and/or other work agreements/contracts\n\n\nMinimum of 2 years working on projects developing/implementing IT solutions for public use\n\n\nMinimum of 1 year working with programs governed by state and/or federal regulations\n\n\n\n\n\n\nRecruiter Details:\n\n\nName : Lokesh\nContact : Eight three two - Nine nine zero -Two four two six\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/29/26",
-        "start_dateStr": 1782691200000
-      },
-      "end": {
-        "end_dateStr": "09/30/27",
-        "end_date": 1822262400000
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "Lokesh lokesh@gsksolutions.com",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/tUQJ0mq72fsT_f-iBmofYZibpTnxbsRX88GNh4kAGJQ",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c14MxoeFCeyyGFBwMoq09_M="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3czRnmNApU2xXrOkbpMUNjG8=",
-      "title": "Business Analyst",
-      "location": "109 Governor Street, Richmond, VA  23219",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\nJob Title:\n\n\nBusiness Analyst (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nRichmond, VA\n\n\n\n\nDuration:\n\n\n6 months+\n\n\n\n\nPay Rate:\n\n\n$60/hr on C2C / 1099 all inclusive (OR) $55/hr on W2\n\n\n\n\nInterview Process:\n\n\nBoth Web Cam and In Person Interview\n\n\n\n\nNote:\n\n\n\n\nIs candidate willing and able to interview onsite in Richmond, VA? If not, please do not submit.\n\n\nIs candidate willing and able to work onsite at least one day every week in Richmond, VA? If not, please do not submit.\n\n\n \n\n\n\n\nJob Description\n\n\nThis position provides business analysis and project coordination support for a migration initiative within the Office of Epidemiology (OEPI). The role requires close collaboration with business teams, federal and state partners, and coordination with client. The ideal candidate will be adept at managing and tracking tasks across multiple stakeholder groups to ensure consistent progress. The Business Analyst will ensure business requirements, enhancements, modifications, and newly identified business initiatives related to the needs of application and data migration are thoroughly documented for successful implementation of Information Technology solutions. They will also assist in creating and updating security documents.\n \nSpecific Tasks such as:\n\n\nFollow requirement elicitation strategies to gather requirements from business stakeholders for tasks related to applicationdata migration\n\n\nFacilitate project conference calls, status meetings, planning sessions, and provide for meeting notes\n\n\nBe a consultant to customers and communicate project status throughout the project lifecycle\n\n\nKeep the project team informed of key issues and tasks that require follow-up in a timely manner\n\n\nFacilitate calls with different teams to drive necessary information\n\n\nEngage with business team, state partners (VITA), federal partners such as CDC\n\n\nDocument current state, future state process, GAP analysis, requirements documentation, user stories with acceptance criteria\n\n\nRepresent requirements in process flow and other suitable pictorial diagrams\n\n\nActively participating in functional and systems integration unit testing; creating test plans, scenarios, and testing results\n\n\nAssisting customers with user acceptance testing\n\n\nDeveloping and presenting training to customers, documenting user manual when needed\n\n\nProviding implementation and maintenance support\n\n\nUtilizing system-based project management applications, collaboration applications, and MS Office applications, SharePoint, MS Project,Teams, etc.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nDemonstrates skill in project planning, requirements gathering, business analysis, business process mapping, procedural writing, process engineering\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nDemonstrates problem-solving, active listening, negotiation, conflict resolution, group visitation, written and oral communication\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nShould be Excellent in facilitation, collaboration, negotiation, organization and time management, and presentation skills\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nDocumenting and understanding customer requirements, processes, and design and programming specifications\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nShould be skilled in Business analysis, requirements solicitation and documentation\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nDemonstrated skills in Meeting facilitation with customers and technical teams both\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nKnowledge and experience using multiple project management methodologies such as Waterfall, Iterative, and Agile\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nKnowledge of system development lifecycle (SDLC) methodologies, quality assurance techniques, and change management procedures\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nShould be skilled in reading logical data models, databases and programming specifications developed from customer requirements\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nAbility to blend methodologies together in the right proportions to fit a project and business environment\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nMust be able to operate effectively in a changing environment with multiple priorities\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nStrong attention to detail, with the ability to follow-through\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nExcellent verbal and written communications skills\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nStrong analytical, planning, and organizational skills with an ability to manage competing demands\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nBachelor's degree in Information Technology, Information Systems or Computer Science, or equivalent experience\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nKnowledge of quality assurance techniques, and change management procedures\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nWorking knowledge or awareness of relational databases, data modeling concepts and ETL (Extract, Transform, Load) processes and tools.\n\n\nDesired\n\n\n6\n\n\nYears\n\n\n\n\nExperience with Healthcare Information Systems such as diseases surveillance systems\n\n\nDesired\n\n\n5\n\n\nYears\n\n\n\n\nExperience performing systems analysis and/or coordinating application development projects\n\n\nDesired\n\n\n5\n\n\nYears\n\n\n\n\nExperience or knowledge with the Commonwealth of Virginia Information Security Standard, SEC 530\n\n\nDesired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nKris : Kirs@gsksolutions.com\nLokesh : Eight three two - Nine nine zero -Two four two six\nSameer : Seven one nine – two three nine – Five five five five\nPraveen : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n \n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/11/26",
-        "start_dateStr": 1781136000000
-      },
-      "end": {
-        "end_dateStr": "06/30/26",
-        "end_date": 1782777600000
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/-NZ9rByQRCaWkfon6Rbvf1jRKxSWn7FSqfhxJclh3Pg",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3czRnmNApU2xXrOkbpMUNjG8="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c6_pAihgmHF4Vs-w0gW9YFY=",
-      "title": "Senior Data Analyst",
-      "location": "270 Washington Street SE, Suite 5-181, Atlanta, GA 30334",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\nJob Title:\n\n\nSenior Data Analyst (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nAtlanta, GA\n\n\n\n\nDuration:\n\n\n12 months\n\n\n\n\nPay Rate:\n\n\n$53.76/hr on C2C / 1099 / W2 all inclusive\n\n\n\n\nInterview Process:\n\n\nON-SITE INTERVIEWS ONLY! \n\n\n\n\nNote:\n\n\nON-SITE INTERVIEWS ONLY! \nClient DOES NOT SHIP EQUIPMENT. The chosen candidate will be required ON-SITE Day 1 to pick up equipment and take a Drug Test.\n \n\n\n\n\nJob Description\n\n\nUnder broad supervision, performs complex administrative duties and statistical, financial, or operational data analysis and reporting in support of management decision making in the functional area.\n \nJOB SUMMARY\nUnder broad supervision, performs complex administrative duties and statistical, financial, or operational data analysis and reporting in support of management decision making in the functional area. Identifies trends, discrepancies, and variances to improve the efficiency and effectiveness of operations. May partner with other departments, divisions, outside agencies, and vendors to address business issues. Exercises various latitudes of independent judgment. May administer or provide high-level support for various projects, grants, contracts, implementation of procedures, and/or any specialized functions. Assists with orientation, training, or providing task guidance of junior team members. Provides strategic analysis.\n \nPRIMARY DUTIES AND RESPONSIBILITIES\n\n\nPerform job responsibilities with minimal supervision\n\n\nExtract primary data from Oracle Database with the use of SQL\n\n\nInterpret data, analyze results using statistical techniques and provide ongoing reports\n\n\nProvide timely and accurate data to fulfill internal and external data requests\n\n\nIdentify, compile, and ‘clean’ data for research projects\n\n\nIdentify, analyze, and interpret trends or patterns in complex data sets\n\n\nOversee evaluation and research projects\n\n\nCommunicate the evaluation plan and its details to leadership and stakeholders\n\n\nCollaborate with external research partners to ensure understanding of data points and data sets\n\n\nDevelop and monitor internal and external data requests\n\n\nManage, summarize, and analyze quantitative and/or qualitative data\n\n\nSummarize and explain research findings and their implications\n\n\nPrepare findings for publication\n\n\nDevelop, review, and abstract published research\n\n\nProduce data visualization dashboards with Tableau\n\n\n \nMINIMUM QUALIFICATIONS\r\n\t\t\tBachelor's degree in a related field from an accredited college or university AND Two years in a related lead or supervisory role OR Associate's degree in a related field from an accredited college or university AND Four years of related experience, Two years of which in a related lead or supervisory role OR Two years of experience at the lower level IT Business Analyst or position equivalent.\n \nPREFERRED QUALIFICATIONS\n\n\n5+ years of knowledge and experience with databases (SQL, Oracle, etc)\n\n\n5+ years of experience in accessing and extracting data from organizational and/or other institutional databases\n\n\nStrong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy\n\n\n2+ years of relevant work experience in the Criminal Justice field and/or Data Management/Analysis\n\n\nProficient skills in queries, report writing, and presenting findings\r\n\t\t\t\tExperience in data visualization software (i.e., Tableau)\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\n5+ years of knowledge and experience with databases (SQL, Oracle, etc)\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n5+ years of experience in accessing and extracting data from organizational and/or other institutional databases\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nStrong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail a\n\n\nRequired\n\n\n1\n\n\nYears\n\n\n\n\n2+ years of relevant work experience in the Criminal Justice field and/or Data Management/Analysis\n\n\nHighly desired\n\n\n2\n\n\nYears\n\n\n\n\nProficient skills in queries, report writing, and presenting findings\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nExperience in data visualization software (i.e., Tableau)\n\n\nHighly desired\n\n\n1\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nName : Lokesh\nContact : Eight three two - Nine nine zero -Two four two six\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
+        "start_date": "07/27/26",
+        "start_dateStr": 1785110400000
       },
       "end": {
         "end_dateStr": "06/30/27",
@@ -393,73 +105,37 @@
       "remote": 2,
       "assigned_recruiter": "",
       "recruiter": {
-        "contact": "Lokesh lokesh@gsksolutions.com",
+        "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/Duzlq0Zipip8cC8CuEI6zvhbI1Tq-axdmcmhqPSzi-0",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c6_pAihgmHF4Vs-w0gW9YFY="
+      "apply": "https://candidateportal.ceipal.com/job-details/BPQWeqBZYCmh4RtMqM8B-UhtmkX6GMiJbpx8N2JPOec",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c0TWPIla9V9sBjmR1cPTsPw="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c4KGwftz43IM7vc4xj9F4C0=",
-      "title": "Sr. Project Manager",
-      "location": "100 N. Senate Ave., Indianapolis, IN 46204",
+      "id": "z5G7h3l6a1kMvyS65NP3c_CNcprKaIm_tC6MZutaROA=",
+      "title": "Senior Cloud AI Architect ",
+      "location": "45 Trinity\\nAtlanta GA",
       "experience": {
         "experience": "10-12 years",
         "min_experience": "10"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "\n\n\n\n\nJob Title:\n\n\nSr. Project Manager (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nIndianapolis, IN\n\n\n\n\nDuration:\n\n\n12 months+\n\n\n\n\nPay Rate:\n\n\n$51.51/hr on C2C / 1099 / W2 all inclusive\n\n\n\n\nInterview Process:\n\n\nPhone and in-person\n\n\n\n\nNote:\n\n\nResource will be required to work onsite in Indianapolis 1-2 days per week based on the needs of the project.\nInitial interview will be via Teams and second interview, if needed will be in person.\n \n\n\n\n\nJob Description\n\n\nIn this position, you will collaborate with senior management, stakeholders and the overall project teams to meet business objectives and provide professional leadership, while fostering mentorship, respect and trust.  \r\n\t\t\t \nThe essential functions of this role are as follows: \n\n\nOversee multiple projects to ensure proper management towards successful conclusion. \n\n\nManage large enterprise-type projects that involve multiple internal stakeholders or contracted resources. \n\n\nDevelop, monitor, and maintain project plans. \n\n\nDefine users and project team members’ roles and responsibilities on the project. \n\n\nDefine user requirements, deliverables, and approvals. \n\n\nCoordinate and monitor activities of all stakeholders to ensure timelines and budgets are met. \n\n\nCommunicate project status to management and project stakeholders. \n\n\nMentor and provide guidance to intermediate level project managers including recommending training and experience. \n\n\n\r\n\t\t\t \nSkills: \n\n\nExperience in IT Project Management and IT digital transformation. \n\n\nPrior experience working on State of Indiana large software projects desired. \n\n\nStrong knowledge of information systems development life cycle, information technology, project tools and approaches to development and implementation. \n\n\nExperience with multiple methodologies including Agile, Waterfall, and Hybrid. \n\n\nAbility to translate technology terms and explain concepts of the SDLC to program/business/stakeholders who may have little to no exposure working on or with large software projects/teams. \n\n\nStrong knowledge in leading modernizing Oracle, PL/SQL, data warehouses using BigQuery, Dataflow, and DataStream. \n\n\nAbility to work with technical team members, and other IT professionals to flesh out project plans and risk registers and overcome obstacles. \n\n\nStrong communication and presentation skills required. \n\n\n \nDescription: \n\n\nResponsible for relationship management, project planning, resource management, tactical execution, and the creation and/or oversight of final project deliverables. \n\n\nLead end-to-end migration of our on-premises Oracle Data Warehouse to Google Cloud Platform (GCP). \n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nExperience in complex IT project or portfolio coordination involving multiple stakeholders across multiple business areas and geographies\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nExperience with Cloud migration, Google, Data Warehouse, Migration experience\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nAbility to translate technology terms and explain concepts of SDLC to program/business folks who have little to no exposure to large software projects\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nAbility to support Sr. project team staff to drive projects to success\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nStrong organization, communication and presentation skills\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nExperience in organizing highly complex and technical information.\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nPrior experience working on State of Indiana large software projects\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nKnowledge of multiple methodologies including agile and waterfall\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nExperience managing projects within Azure DevOps\n\n\nHighly desired\n\n\n0\n\n\n \n\n\n\n\nPMP Certified\n\n\nDesired\n\n\n0\n\n\n \n\n\n\n\nLed end-to-end migration of an on-premise to cloud data warehouse migrations\n\n\nDesired\n\n\n0\n\n\n \n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nName : Lokesh\nContact : Eight three two - Nine nine zero -Two four two six\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
+      "description": "\n\n\n\nJob Title\n\n\nSenior Cloud AI Architect (Hybrid)\n\n\n\n\nLocation\n\n\nAtlanta, GA\n\n\n\n\nDuration\n\n\n12 months\n\n\n\n\nPay Rate\n\n\n$74.51/hr. On C2C/1099/W2\n\n\n\n\nInterview Type\n\n\nEither Web Cam or In Person\n\n\n\n\nNote\n\n\n*MUST be local to Metro Atlanta**\n\n\n\n\nJob Description\n\n\n\nPlans and schedules team resources, status reporting and completion of required documentation for team assignment and projects. Analyzes and develops work or project plans for team assignments. Analyzes and implements solutions. Supervises subordinates.\n \nJOB SUMMARY:\nThe Senior Cloud and AI Architect is an experienced, advanced-level professional responsible for creating the design and implementation of secure, scalable, and ethical AI solutions to support government and public service missions. This role combines deep AI/ML expertise with architectural leadership to modernize public sector operations, improve citizen engagement, and drive data-informed decision-making — all while maintaining compliance, transparency, and trust. This position requires advanced skills in multiple areas of architecture, with expert or specialized knowledge in cloud platforms and AI. The architect will communicate with stakeholders at all levels, support multiple teams and projects, and mentor other architects. A key responsibility is to work with GTA to design, develop, and implement IT architecture, AWS cloud implementations, and advanced AI/ML solutions across State Agencies.\n \nCORE QUALIFICATIONS:\n\n\n 10+ years of overall experience, including a minimum of 5 years of enterprise, full-life cycle architecture experience in the professional IT/Software Development services industry.\n\n\nProven experience in designing and implementing secure, scalable, and ethical AI/ML solutions, leveraging public cloud or hybrid environments.\n\n\nStrong technical expertise in machine learning, deep learning, and natural language processing.\n\n\nEvaluate and recommend AI platforms, frameworks, and tools (e.g., Azure ML, AWS SageMaker, Google Vertex AI, PyTorch).\n\n\nDesign secure and compliant AI/ML solutions leveraging public cloud or hybrid environments. \n\n\n \nAGENCY SPECIFIC QUALIFICATIONS:\nMinimum Qualifications:\nMust meet one of the following requirements:\n\n\nBachelor's degree in Information Technology, Computer Science, Data Science, or an equivalent work experience.\n\n\nAt least 5 years of progressive experience with the concepts, philosophies, and tools behind the design of applications, solution architecture, and underlying information technologies on AWS/Public Cloud and AI/ML platforms. Preferred Qualifications:\n\n\n \n(Preference will be given to candidates who demonstrate some or all of the following skills/experience):\n\n\nAWS Certified Solutions Architect.\n\n\nExperience with state and local Government is a plus.\n\n\nEnterprise-wide integration experience for both cloud and AI solutions.\n\n\nExperience with cutting-edge AI technologies in developing chatbots and generative AI (GenAI) and LLM deployment for public sector use cases.\n\n\nKnowledge of integration standards and best practices for cloud and AI systems.\n\n\nUnderstanding of public sector security and compliance standards (e.g., FedRAMP, FISMA, NIST AI RMF, NIST 800-53).\n\n\nExperience with AI ethics, bias mitigation, and responsible AI frameworks.\n\n\nPrior work with federal, state, or municipal digital transformation programs.\n\n\nCertification in cloud architecture or AI specialties (AWS, Azure, or GCP).\n\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\nRequired/Desired Skills\n\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nExperience with the concepts, philosophies, and tools behind the design of applications, solution architecture, and underlying information technologie\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nEnterprise, full-life cycle architecture experience in the professional IT/Software Development services industry.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nHands-on technical application architecture experience, including application build and modernization.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nEvaluating architectural alternatives for private, public, and hybrid cloud models (IaaS, PaaS, and other cloud services)\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nExperience with cutting-edge AI technologies in developing chatbots and generative AI (GenAI) and LLM deployment for public sector use cases.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nExperience with AI ethics, bias mitigation, and responsible AI frameworks\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nAI platforms, frameworks, and tools (e.g., Azure ML, AWS SageMaker, Google Vertex AI, PyTorch)\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nDesign secure and compliant AI/ML solutions leveraging public cloud or hybrid environments\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nAWS Certified Solutions Architect (PLS UPLOAD CERTIFICATION)\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nBachelor's degree in information technology, Computer Science, Data Science, or an equivalent work experience.\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nExperience with state and local Government is a plus.\n\n\nHighly desired\n\n\n0\n\n\n \n\n\n\n\nCertification in cloud architecture or AI specialties (AWS, Azure, or GCP). (PLS UPLOAD CERTIFICATION)\n\n\nHighly desired\n\n\n0\n\n\n \n\n\n\n\n\n \n\n\n\n\n\nRecruiter Details\n\n\nContact: Jitendar - jitendar@gsksolutions.com - Eight three two - Five nine nine - Seven zero zero nine\n\n\n\n",
       "closing": {
-        "closing_date": "2026-06-02T23:59:00Z",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-03T22:00:00Z",
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
+        "start_date": "05/15/26",
+        "start_dateStr": 1778803200000
       },
       "end": {
-        "end_dateStr": "01/01/28",
-        "end_date": 1830297600000
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "Lokesh lokesh@gsksolutions.com",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/cgl0SGa8Kasz555q_M7asu7IUcvfUg7wS6hNcrDcApY",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c4KGwftz43IM7vc4xj9F4C0="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c1u_S9dhqVvbj4CPFu3zglU=",
-      "title": "Business Analyst 4",
-      "location": "9120 Lockwood Boulevard, Mechanicsville, VA",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\nJob Title:\n\n\nBusiness Analyst 4 (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nRichmond, VA\n\n\n\n\nDuration:\n\n\n12 months+\n\n\n\n\nPay Rate:\n\n\n$70/hr. On 1099/ C2C OR $65/hr on W2\n\n\n\n\nInterview Process:\n\n\n**Interviews will be virtual and require a webcam** \n\n\n\n\nNote:\n\n\nNote: \r\n\t\t\t**Local candidates strongly preferred**\r\n\t\t\t**Candidate must be able to come to Richmond as needed to attend meetings as needed**\r\n\t\t\t**candidate must be able to come to Richmond, VA to pick up laptop**\n\n\n\n\nJob Description\n\n\nThe IT Division is seeking a Functional Analyst to work with both internal staff and external clients to optimize processes and improve quality for the design, development and maintenance of client Tolling technical assets. It is critical for a functional analyst to understand the operational systems of a client, and what the client requires as changes to their existing systems. The systems analyst must translate those requirements into technical specifications to be used by internal staff to develop the system modifications; diagrams must also be prepared explaining the modifications so that both technical staff and executive management can understand what must be done. The functional analyst must propose alternative solutions that balance cost and benefits and adequately test the possibilities for business and technical compatibility.\n \nThe client is a fast-paced organization that upholds the highest standards for work quality and efficiency. We are committed to continuous improvement, and every team member is expected to contribute proactively to our success. If you are a problem-solver with a passion for data governance and a drive to make a significant impact, we would love to have you on our team.\n \nKey Responsibilities:\n\n\nPartner with project team members and business stakeholders to deeply understand business processes, identify pain points, and develop expertise in the customers’ business applications.\n\n\nConduct thorough root cause analysis to uncover system gaps and deficiencies, proposing effective business, technical, or blended solutions.\n\n\nDevelop process flows, context diagrams, and data flow diagrams to document current processes and propose modifications.\n\n\nDiscover and meticulously document requirements and user stories with a focus on improving both business and technical processes.\n\n\nDecompose requirements into Epics and Features, creating clear and actionable user stories that can be easily understood and implemented by technical teams. Use progressive elaboration to map stories to technical design specifications.\n\n\nSupport the Product Owner in maintaining the product backlog, grouping related user stories into Themes, and documenting dependencies.\n\n\nCreate conceptual prototypes and mock-ups to visualize proposed solutions and enhance stakeholder understanding.\n\n\nPropose cost-effective solutions, rigorously testing their feasibility for both business and technical compatibility.\n\n\nDefine test objectives, create test plans and cases, execute tests (including regression testing), and facilitate User Acceptance Testing (UAT) with the business. Keep Project Managers and Scrum Masters informed of the progress of testing activities.\n\n\n \nQualifications:\nRequired:\n\n\nAdvanced understanding of enterprise data managementconcepts and tools.\n\n\nMinimum of 10 years of experience delivering business andsystems analysis artifacts.\n\n\n5+ years of experience as an Agile Business Analyst with astrong understanding of Scrum concepts and methodology.\n\n\nProven experience in organizing and maintaining Product andSprint backlogs.\n\n\nProficiency in translating client and product strategyrequirements into application requirements and user stories.\n\n\nExpertise in defining acceptance criteria and managing theacceptance process with development teams.\n\n\nExperience with large, multi-module enterprise systems.\n\n\nProficiency with Microsoft Office products (Word, Excel,Access, Outlook, Visio, PowerPoint, Project Server).\n\n\nExperience with Application Lifecycle Management (ALM).\n\n\nExceptional written and oral communication skills, with aproven ability to work well with a diverse set of peers and customers.\n\n\n•Must be proficient in business process management conceptson BPM tools. Strong experience in creating business process models.\n\n\n \nPreferred:\n\n\nCertified Business Analysis Professional (CBAP)\n\n\nPMI - Professional in Business Analysis (PMI-PBA)\n\n\nPMI - Agile Certified Practitioner (PMI-ACP)\n\n\nExperience using Azure DevOps for agile software development and work item tracking.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nAdvanced understanding of enterprise data management concepts and tools.\n\n\nRequired\n\n\n8\n\n\nYears\n\n\n\n\nExperience delivering business and systems analysis artifacts\n\n\nRequired\n\n\n8\n\n\nYears\n\n\n\n\nAnalyst with a strong understanding of Scrum concepts and methodology.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nProven experience in organizing and maintaining Product and Sprint backlogs.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nProficiency in translating client and product strategy requirements into application requirements and user stories.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nDefining acceptance criteria and managing the acceptance process with development teams.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nExceptional written and oral communication skills, with a proven ability to work well with a diverse set of peers and customers\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nName : Praveen\nContact : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "06/30/26",
-        "end_date": 1782777600000
+        "end_dateStr": "05/29/26",
+        "end_date": 1780012800000
       },
       "salary": "",
       "remote": 2,
@@ -468,80 +144,188 @@
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/l4j7F0pcYRxlMmj6oCftU1j-UZpwgMB3yGgE2Zw1Q5c",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c1u_S9dhqVvbj4CPFu3zglU="
+      "apply": "https://candidateportal.ceipal.com/job-details/bMIJoC3rIxHwB0UmqXE25K2y21ASOn8gDHjulK0BK6w",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c_CNcprKaIm_tC6MZutaROA="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c4_RvFGozPV0D2VxvG0_sc8=",
-      "title": "Oracle EBS Jr. Analyst",
-      "location": "NJ Transit HQ, 2 Gateway Center, 283-299 Market St. Newark, NJ 07102",
+      "id": "z5G7h3l6a1kMvyS65NP3czHZeylw3K2-48vf8Cyotvw=",
+      "title": "Senior Salesforce DevOps Engineer",
+      "location": "100 Riverview Plaza, Trenton, NJ",
       "experience": {
         "experience": "10-12 years",
         "min_experience": "10"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "\n\n\n\n\n\nJob Title:\n\n\nOracle EBS Jr. Analyst (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nNewark, NJ\n\n\n\n\nDuration:\n\n\n6 months+\n\n\n\n\nPay Rate:\n\n\n$55/hr. On 1099/ C2C OR $50/hr. on W2\n\n\n\n\nInterview Process:\n\n\niLinc Web Cam Interview Only\n\n\n\n\nJob Description\n\n\nExtensive experience in Oracle EBS suite. Consultant will be responsible for providing support of all aspects of Oracle Financials, Procurement, and Warehousing system.\n\r\n\t\t\tExtensive experience in Oracle EBS suite. Consultant will be responsible for providing support of all aspects of Oracle Financials, Procurement, and Warehousing system.\n\n\nWill be responsible for a leading a functional and technical team engaged in the continued enhancement and support of Oracle eBS suite.\n\n\nCoordinates project assignments for staff or consultants working on assigned projects to ensure that project tasks are completed on time and staff are working at optimal efficiency. Ensures that the application meet business requirements and goals, fulfill end user requirements, and identify and resolve issues.\n\n\n3 or more years of progressive experience in implementing large-scale ERP projects. Hands on experience in Analysis, design, Software Development, testing, and support of Oracle EBS suite.\n\n\nOversee project from concept through completion through the project life cycle while meeting scope, schedule and resource targets while achieving the desired business results. Should have knowledge in E-business Upgrade Methodology and in project management.\n\n\nExperience with Full Implementation Life Cycle, Support and upgrade projects in Oracle SCM/Finance modules (INV, PO, Shipping Execution, OM, ISupplier, IProcurement, Sourcing, AP, GL, FA) with excellent command over P2P cycles, GL, Inventory Management.\n\n\nCandidate should be good at validating the SCM & Finance Business flows and processes to provide the solutions to the users for any issues.\n\n\nWell versed with Defect Life Cycle, Defect analysis, resolution, fixes and retesting. Experience in Data Integration and Migration. Strong analytical and problem-solving skills. Excellent verbal and written communications skills.\n\n\nFacilitate the identification and mitigation of project risks and issues. Collaborate with project teams and lead the development of consistent and standard project plans at the milestone level. Experience with Customization/Personalization of Oracle forms.\n\n\nSystems supported: Oracle EBS. Skillsets preferred: SQL, SQL Developer, Oracle API, XML Publisher, TOAD, PL/SQL, Workflow, Oracle Forms, Integration, Bartender, Barcoding.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired/Desired Skills\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nDesign, functional specifications, development, and testing for Oracle EBS.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nPL/SQL, Oracle API, Oracle Forms Personalization, Workflows, XML Publisher, TOAD.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nImplementing large-scale ERP projects.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nHands on experience in Analysis, design, Software Development, testing, and support of Oracle EBS suite.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\n\n\n\n\nRecruiter Details:\n\n\nKris : Kris@gsksolutions.com\nLokesh : Eight three two - Nine nine zero -Two four two six\nSameer : Seven one nine – two three nine – Five five five five\nPraveen : praveen@gsksolutions.com\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission\n",
+      "description": "\n\n\n\nJob Title\n\n\nSenior Salesforce DevOps Engineer (Hybrid Onsite)\n\n\n\n\nLocation\n\n\nTrenton, NJ\n\n\n\n\nDuration\n\n\n10 months\n\n\n\n\nPay Rate\n\n\n$90/hr on C2C / 1099 all inclusive (OR) $85/hr on W2\n\n\n\n\nInterview Type\n\n\nBoth Phone and In Person\n\n\n\n\nNote\n\n\nHybrid role requiring 3 days / onsite, 2 days remote (no exceptions)\n\n\n\n\nJob Description\n\n\n\nManagement and optimization of release processes within the Salesforce ecosystem. Expertise in Copado and Salesforce DevOps tools will drive efficient deployments.\n \nSenior Salesforce DevOps Engineer\nAs a Senior Salesforce & AWS DevOps Engineer, you will play a pivotal role in managing, optimizing, and securing release processes across both the Salesforce ecosystem and AWS cloud infrastructure. You will focus on the continuous improvement of established Copado-driven automated release workflows across Salesforce teams while driving the automation, provisioning, and integration of cloud-native infrastructure. Your expertise in Copado, AWS DevOps tools, and Infrastructure as Code (IaC) will drive efficient deployments and support the evolution of robust, cross-platform CI/CD pipelines. You will collaborate with development, QA, and operations teams to establish a reliable, scalable, and secure environment with an emphasis on automation, monitoring, and continuous improvement.\n \nKey Responsibilities:\n\n\nManage and optimize established Copado-driven automated release workflows and CI/CD pipelines across Salesforce teams to ensure efficient, timely deployments.\n\n\nUnderstand the Salesforce Meta-data , merge conflicts management using git & Salesforce\n\n\nImplement Quality gates for Security, Test Coverage and other best practices\n\n\nImplement Change governance and communication for Shared Production infrastructure with multiple independent internal teams and vendors.\n\n\nDevelop and enforce version control and branching strategies using Git and Copado to maintain consistency across all environment phases.\n\n\nArchitect, provision, and maintain scalable cloud infrastructure using Terraform to support enterprise environments and applications.\n\n\nDesign and manage cloud-native CI/CD pipelines using AWS DevOps tools or Jenkins to automate application and infrastructure provisioning.\n\n\nCollaborate with development and QA teams to integrate automated testing into both the Copado and AWS pipelines, ensuring high code quality.\n\n\nMonitor system performance using Salesforce tools and AWS monitoring services, proactively identifying and resolving operational bottlenecks.\n\n\nMaintain documentation for release processes, CI/CD pipelines, Terraform configurations, and cloud environments to ensure transparency and knowledge sharing.\n\n\nStay updated on industry trends and DevOps best practices across both SaaS and public cloud ecosystems to continuously improve release efficiency.\n\n\nRequired Proficiency in Copado and automated Salesforce release management Proficiency in AWS DevOps tools, services, and cloud infrastructure management Proficiency in Infrastructure as Code (IaC) utilizing Terraform and Jenkins pipelines Strong scripting capabilities (Python, Bash, or similar) to automate operational workflows\n\n\n \n﻿Desired\n\n\nFamiliarity with tools like Jenkins, Terraform\n\n\nProficiency in AWS DevOps tools and infrastructure management.\n\n\n \n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\nRequired/Desired Skills\n\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nEnterprise DevOps Experience (SaaS & Cloud ecosystems)\n\n\nRequired\n\n\n10\n\n\nYears\n\n\n\n\nUnderstand the Salesforce meta-data for Change and Release using SFDX, Copado and Git\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nCopado & Automated Salesforce Release Management\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nAWS DevOps Tools, Services & Cloud Architecture\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nInfrastructure as Code (IaC) utilizing Terraform\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nCI/CD Pipeline Orchestration via Jenkins or AWS CodePipeline\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nScripting & Automation (Python, Bash, or similar)\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nGit Version Control & Branching Strategies\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nContainerization (Docker, ECS/EKS)\n\n\nHighly desired\n\n\n7\n\n\nYears\n\n\n\n\nAgile/Scrum Framework Methodology\n\n\nDesired\n\n\n7\n\n\nYears\n\n\n\n\n\n \n\n\n\n\n\nRecruiter Details\n\n\nContact: Jitendar - jitendar@gsksolutions.com - Eight three two - Five nine nine - Seven zero zero nine\n\n\n\n",
       "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-02T23:59:00Z",
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "06/01/26",
-        "start_dateStr": 1780272000000
+        "start_date": "07/27/26",
+        "start_dateStr": 1785110400000
       },
       "end": {
-        "end_dateStr": "11/30/26",
-        "end_date": 1795996800000
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/XFEhieAJJ6JnW2jiKBdU4mq6tF0HCm8DK4cy-7dxlxs",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c4_RvFGozPV0D2VxvG0_sc8="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c8w8ARVjwhIZ_v70cZONmcE=",
-      "title": "Cloud Engineer",
-      "location": "7285 Parksons Dr,Dimondale,Michigan,48821,UNITED STATES",
-      "experience": {
-        "experience": "10-12 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\n\n\n\nJob Title:\n\n\nCloud Engineer (Hybrid Onsite)\n\n\n\n\nLocation:\n\n\nDimondale, MI\n\n\n\n\nDuration:\n\n\n12 months\n\n\n\n\nPay Rate:\n\n\n$70/hr on C2C / 1099 all inclusive (OR) $65/hr on W2\n\n\n\n\nNote:\n\n\nReferences are required for this position. Please include a separate attachment with your submission that includes 2-3 professional references. Each reference should include the name, email, phone number, and their position title/company name.\n- Will close submissions on: 6/8/26 @ 10am EST\n- Duration: 1 year with possible extension\n- Hybrid: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week. (Tuesdays and Wednesdays are required onsite days).\n- Local candidates (strongly preferred) or non-local (must be willing to relocate at their own expense from acceptance with no delays & follow the hybrid schedule)\n \n\n\n\n\nInterview Process:\n\n\nVirtual Interview via MS Teams video. Please use laptop and be prepared to share screen if asked.\n\n\n\n\nJob Description\n\n\nThe client is looking for a candidate with a focus on basic cloud engineering Cloud deployment. This role will wear multiple hats assisting client Cloud Architects and team to comprehend objectives, generate solutions, POC the solution, generate recommendations then implement the decisions.\n \nThe Entry-Level Cloud Engineer will support the client’s cloud architecture and engineering teams in designing, deploying, and maintaining cloud-based solutions across public, private, and hybrid environments. This role is ideal for early‑career technologists who have foundational cloud knowledge and are eager to grow into a full cloud engineering or cloud architecture role.\nThe engineer will assist senior architects in understanding business objectives, developing solution concepts, performing proof‑of‑concepts, and implementing cloud technologies that improve delivery, automation, and operational efficiency\n \nCore Competencies\n\n\nAbility to learn and apply cloud engineering concepts quickly.\n\n\nStrong analytical and troubleshooting skills.\n\n\nAbility to interpret technical requirements and assist in developing cloud-based solutions.\n\n\nInterest in automation, DevOps, and continuous improvement.\n\n\nClear communication skills for explaining technical concepts to both technical and non‑technical audiences.\n\n\nCollaborative mindset and willingness to work across teams.\n\n\nOther desired skills: Containerization, Linux, Database skills, security and recovery, web services and applications programming interfaces (APIs)\n\n\nSupport integration of cloud services with on-premises technologies (VMware, Cisco, Dell, Nutanix, etc.).\n\n\nLeverage client Institutional knowledge to cloud engineering projects.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\n \n\n\n\n\nSkill Matrix:\n\n\nRequired\n\n\n \n\n\n\n\nCloud Delivery Analyst / Business Analyst\n\n\n1-3 years\n\n\n \n\n\n\n\nKnowledge of concepts of designing and developing dynamic Cloud solutions in Google Cloud Platform and Amazon Web Services and moving parts involved in continuous integration and delivery.\n\n\n1-3 years\n\n\n \n\n\n\n\n \n\n\n \n\n\n\n\nExperience with Tooling and Automation to enable seamless automation of infrastructure provisioning and configuration.\n\n\n Highly Desirable\n\n\n \n\n\n \n\n\n\n\n \n\n\n \n\n\n\n\nPipeline Design and Architecture to improve development flow and delivery.\n\n\n Highly Desirable\n\n\n \n\n\n \n\n\n\n\nSolid understanding and skill with DevOps, web services and application programming interfaces (APIs).\n\n\n 1-3 years\n\n\n \n\n\n \n\n\n\n\n \n\n\n \n\n\n\n\nCreate, maintain, and troubleshooting skills for cloud infrastructure\n\n\n Highly Desirable\n\n\n \n\n\n \n\n\n\n\n \n\n\n \n\n\n\n\nFoundational institutional knowledge of State of Michigan platforms, cloud architecture, security requirements and processes.\n\n\n 1-3 years\n\n\n \n\n\n \n\n\n\n\nCloud security and compliance experience\n\n\n \nHighly Desirable\n\n\n \n\n\n \n\n\n\n\nCertification(s):\nGoogle – Cloud Certified Cloud Digital Leader\n               AWS – Certified Cloud Practitioner\n \n\n\n Highly Desirable\n\n\n \n\n\n \n\n\n\n\n \n\n\n \n\n\n \n\n\n \n\n\n\n\n \n\n\n\n\nRecruiter Details:\n\n\nName : Lokesh\nContact : Eight three two - Nine nine zero -Two four two six\n\n\n\n\n\n \nAbout US: \nGSK Solutions Inc. is a premier information technology services company dedicated to delivering exceptional consulting solutions and staff augmentation to our valued clients. With an unwavering commitment to quality, timeliness, and budgetary considerations, we consistently strive to exceed client expectations, building a strong reputation through our reliable execution. Our expertise spans commercial and custom product development, covering information security, software development, consulting, and IT audits. We excel in managing critical, time-sensitive projects for Fortune 500 clients nationwide, ensuring their success is always at the forefront of our mission.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
+        "end_dateStr": "04/30/27",
+        "end_date": 1809043200000
       },
       "salary": "",
       "remote": 2,
       "assigned_recruiter": "",
       "recruiter": {
-        "contact": "Lokesh lokesh@gsksolutions.com",
+        "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/TU06h719KzaOcNQ5pJsDek15RDf8cD5ecVwX1DwkBDM",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c8w8ARVjwhIZ_v70cZONmcE="
+      "apply": "https://candidateportal.ceipal.com/job-details/mWeC9fzpf4cumyBOSR32zTBlE_eRc1PtqBgikq6HRa4",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3czHZeylw3K2-48vf8Cyotvw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6Rt7d44fv_47cLinqlUXbY=",
+      "title": "Oracle Fusion Cloud Techno-Functional Consultant (Hybrid Onsite)",
+      "location": "Newark",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "\n\n\n\nJob Title\n\n\nOracle Fusion Cloud Techno-Functional Consultant (Hybrid Onsite)\n\n\n\n\nLocation\n\n\nNewark, NJ\n\n\n\n\nDuration\n\n\n6 months\n\n\n\n\nPay Rate\n\n\n$90/hr on C2C / 1099 all inclusive (OR) $80/hr on W2\n\n\n\n\nInterview Type\n\n\niLinc Web Cam or In Person interview\n\n\n\n\nNote\n\n\nLocals preferred.\n\n\n\n\nJob Description\n\n\n\nWe are seeking a Techno-Functional Consultant to support our Sourcing and Supplier Qualification workstream.\n \nWe are seeking a highly capable Oracle EBS 12.2.15 Techno-Functional Consultant to support our Sourcing and Supplier Qualification workstream. This role requires a professional who can work directly with business stakeholders and project teams to understand requirements, evaluate solution options, and deliver practical outcomes aligned with business objectives.\nThe ideal candidate will serve as a solution partner, bridging the gap between functional business needs and technical implementation. This person should be able to analyze requirements, identify the right Oracle EBS approach, and coordinate with both functional and technical teams to drive efficient delivery.\n \nRole Responsibilities\n\n\nEngage with business stakeholders to gather, clarify, and analyze requirements.\n\n\nTranslate business needs into functional and technical solution options.\n\n\nSupport Oracle EBS processes related to Sourcing and Supplier Qualification.\n\n\nPerform fit-gap analysis and recommend appropriate solutions.\n\n\nCollaborate with technical teams to ensure accurate mapping of requirements to system design.\n\n\nPrepare and review functional specifications, solution documents, and process flows.\n\n\nSupport testing, issue resolution, and user validation activities.\n\n\nWork closely with project teams to ensure timely progress and resolution of open items.\n\n\nProvide proactive recommendations to improve process efficiency and solution quality.\n\n\n \nDesired Experience\n\n\nStrong hands-on experience with Oracle EBS 12.2.15.SQL/PL-SQL\n\n\nSolid understanding of Contract, Sourcing and Supplier Qualification processes.\n\n\nProven ability to operate in a techno-functional capacity.\n\n\nExperience working directly with business users and delivery teams.\n\n\nStrong analytical, communication, and problem-solving skills.\n\n\nAbility to provide solutions rather than just execute tasks.\n\n\nExperience in implementation, enhancement, or support engagements within Oracle EBS.\n\n\n \nWhat We Are Looking For\nWe are looking for a resource who can contribute as a true solution provider, not only as a functional or technical support person. The candidate should bring both business understanding and system knowledge to help shape effective, practical, and timely solutions.\n \n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\nRequired/Desired Skills\n\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nStrong hands-on experience with Oracle EBS 12.2.15.\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nSolid understanding of Contract, Sourcing and Supplier Qualification processes.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nSQL and PL/SQL proficiency for data validation, reconciliation, and transformation\n\n\nRequired\n\n\n7\n\n\nYears\n\n\n\n\nExperience with data migration from legacy ERP to Oracle Cloud, including reconciliation strategy and post-load validation.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\nProficiency in tools such as OTBI, FRS, Smart View, and Oracle Data Integrator (ODI) or similar ETL tools.\n\n\nRequired\n\n\n5\n\n\nYears\n\n\n\n\n\n\n\n\n\n\nRecruiter Details\n\n\nContact: Praveen - praveen@gsksolutions.com - Eight three two - Nine Nine Zero - Two four two seven\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "07/13/26",
+        "start_dateStr": 1783900800000
+      },
+      "end": {
+        "end_dateStr": "01/15/27",
+        "end_date": 1799971200000
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/6pmSm6FhItUYZnD0k31ahGVvvMsz6-ksyQmuVdw38Xg",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c6Rt7d44fv_47cLinqlUXbY="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c787dIoXoBwwYaqpQaLeM-I=",
+      "title": "IT Support Specialist",
+      "location": "DDS Headquarters, 2206 Eastview Pkwy NE, Conyers, GA 30013",
+      "experience": {
+        "experience": "10-12 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "\n\n\n\nJob Title\n\n\nIT Support Specialist (Onsite)\n\n\n\n\nLocation\n\n\nConyers, GA\n\n\n\n\nDuration\n\n\n12 months\n\n\n\n\nPay Rate\n\n\n$25/hr on W2 / 1099 all inclusive\n\n\n\n\nInterview Type\n\n\nIn Person Only\n\n\n\n\nNote\n\n\nMust Be Local to Metro Atlanta Professional certification (e.g., A+, Network+, Cloud+ or equivalent) MUST UPLOAD CERTIFICATION\n\n\n\n\nJob Description\n\n\n\nUnder direct supervision, provides management information system user support on a continuing basis either by phone or site visit. Troubleshoots end-user problems.\n \nDuties and Responsibilities: \nThis position is looking for an IT Support Specialist 3 who will maintain business applications and critical infrastructure and provide management and support for additional DDS systems (e.g., Nemo Q/GALA, VRT cameras, A/V, mobile systems). Experience providing operations support to triage production incidents and engage with respective partners to restore services and post incident review to prevent future occurrences. This position will require an individual who is willing to continuously learn and remain current and knowledgeable about emerging IT technologies\n \nSpecific Duties Include:\n\n\nMaintaining cost-efficient, scalable cloud environments for the organization.\n\n\nUnderstanding business objectives of the company and creating cloud-based solutions to facilitate those objectives.\n\n\nDesigning, building, and maintaining internal cloud applications for the organization.\n\n\nKeeping up to date on best practices in cloud computing and making improvements to the cloud infrastructure of their company or organization.\n\n\nMaking hardware and software recommendations for the organization, based on needs of the project and organization.\n\n\nExperience in automation and provisioning technologies, such as AWS CLI and Terraform.\n\n\nMonitors Service Now ticket queue, responds to tickets in a timely manner and provides follow-up with end users.\n\n\nProvides customer support in supporting software, configurations, and business submission processes.\n\n\nLooking for ways to improve operations within company to digitize common tasks.\n\n\nKeeping data leakage and downtime to an absolute minimum.\n\n\nAssists other members of the IT Infrastructure team.\n\n\nMonitors ticket activities and provide escalation when needed.\n\n\nTroubleshoot and support PC, laptop (Win 10/11), scanners and local and network printers, google print, chrome boxes and other field system support.\n\n\nMay act as an administrator or agency subject matter expert for lobby management software or other DDS applications as needed.\n\n\n \nMinimum Qualifications:\nBachelor's degree from an accredited college or university in a related field such as computer and information technology, computer science, software engineering AND three years of related experience.\nOR\nAssociate's/Vocational/Technical degree in a related field such as computer and information technology, computer science, software engineering from an accredited college or university AND five years of related experience.\nOR\nOne year of experience at the lower-level IT Support Specialist 2 or position equivalent. \n \nCompetencies Needed\n\n\n2-3+ years providing IT support and management experience\n\n\nProfessional certification (e.g. A+, Network+, Cloud+ or equivalent)\n\n\nExperience with using ServiceNow.\n\n\nAbility to present ideas in business-friendly and user-friendly language.\n\n\nExcellent communication and interpersonal skills are essential. Must be a result and goal-oriented individual with the persistence and patience necessary to work effectively with a variety of internal and external constituencies.\n\n\nMust have the ability to detect emerging trends and make recommendations for change.\n\n\nExperience with installation, maintenance, and troubleshooting of desktop computer hardware, operating systems, and application software in a multi-computer environment.\n\n\nDisplay current knowledge of technologies (computer systems, mobile devices, and technology products).\n\n\nExperience with resolving TCP/IP network issues.\n\n\nExperience or the ability to learn how to effectively maintain and support video conferencing, A/V and dash cam software and equipment.\n\n\nProven problem-solving skills.\n\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\nRequired/Desired Skills\n\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nBachelor's degree from an accredited college or university in a related field such as computer and information technology, computer science, software\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nKnowledge of basic network troubleshooting.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nKnowledge of Microsoft Windows Active Directory – Domain Name Service and Dynamic Host Configuration Protocol.\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\nExperience with installation, maintenance, and troubleshooting of desktop computer hardware, operating systems, and application software\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\nKnowledge of Microsoft Active Directory local and group policy.\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\nProfessional certification (e.g. A+, Network+, Cloud+ or equivalent) MUST UPLOAD CERTIFICATION\n\n\nRequired\n\n\n0\n\n\n \n\n\n\n\nExperience with using ServiceNow\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\nExperience with resolving TCP/IP network issues\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\nExperience in automation and provisioning technologies, such as AWS CLI and Terraform\n\n\nRequired\n\n\n2\n\n\nYears\n\n\n\n\n\n\n\n\n\n\nRecruiter Details\n\n\nContact: Sameer - sameer@gsksolutions.com - Seven one nine – two three nine – Five five five five\n\n\n\n",
+      "closing": {
+        "closing_date": "2026-07-08T23:59:00Z",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "07/20/26",
+        "start_dateStr": 1784505600000
+      },
+      "end": {
+        "end_dateStr": "06/30/27",
+        "end_date": 1814313600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/WUXpi_IP_IJT8VT2ssp5qKrCr6HJr2y1OFY6bP_47zE",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c787dIoXoBwwYaqpQaLeM-I="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c6Emxg0IIfQsEI_4_C_O7no=",
+      "title": "Project Manager",
+      "location": "9120 Lockwood BLVD, Mechanicsville, VA 23116",
+      "experience": {
+        "experience": "5-7 years",
+        "min_experience": "5"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "\n\n\n\nJob Title\n\n\nProject Manager (Remote)\n\n\n\n\nLocation\n\n\nMechanicsville, VA\n\n\n\n\nDuration\n\n\n12 months\n\n\n\n\nPay Rate\n\n\n$65/hr on C2C /1099 all inclusive (OR) $60/hr on W2\n\n\n\n\nInterview Type\n\n\nBoth Phone and In Person\n\n\n\n\nNote\n\n\n-\n\n\n\n\nJob Description\n\n\n\nProvide project coordination and Agile support for client technology initiatives. This role assists Delivery manager with planning, documentation, reporting, and facilitation of Agile ceremonies.\n \nResponsibilities\n\n\nSupport client project planning activities, including maintaining project schedules, sprint plans, task lists, and work breakdown structures.\n\n\nAssist with Agile ceremonies (daily standups, sprint planning, sprint reviews, retrospectives) and help ensure teams follow Agile practices.\n\n\nUpdate and maintain Agile boards (Azure DevOps) including user stories, tasks, acceptance criteria, and sprint progress.\n\n\nPrepare project and team documentation such as meeting minutes, status reports, risk and issue logs, change requests, and project artifacts required by COV PMD standards.\n\n\nCoordinate meetings, prepare agendas, track action items, and follow up with team members to ensure timely completion.\n\n\nSupport project and sprint monitoring, escalating risks, blockers, or delays to senior PMs, Scrum Masters, or Product Owners.\n\n\nMaintain project repositories, SharePoint sites, and documentation libraries in accordance with client and Commonwealth governance requirements.\n\n\nAssist with stakeholder communication, gathering updates, clarifying requirements, and supporting project deliverables.\n\n\nPerform basic data analysis to support reporting, dashboards, and decision‑making.\n\n\nEnsure compliance with client ITD processes, COV ITRM standards, and CAI engagement expectations.\n\n\nProvide general administrative and logistical support to project and Scrum teams.\n\n\n \nKnowledge, Skills, and Abilities\n\n\nUnderstanding of project management principles, Agile methodologies (Scrum, Kanban), and the project lifecycle.\n\n\nExperience with Agile concepts such as user stories, acceptance criteria, sprint velocity, burndown charts, and team capacity.\n\n\nAbility to facilitate Agile ceremonies and supporting Scrum team operations.\n\n\nStrong organizational and time‑management skills with the ability to manage multiple priorities in a structured environment.\n\n\nClear written and verbal communication skills, including the ability to prepare concise documentation and status updates.\n\n\nBasic analytical skills with the ability to gather, interpret, and present information.\n\n\nProficiency with Microsoft Office, SharePoint, Teams, and Agile tools such as Azure DevOps.\n\n\nAbility to work collaboratively with cross‑functional teams, business partners, and technical staff.\n\n\nAttention to detail and commitment to accuracy in documentation and reporting.\n\n\nAbility to follow established VDOT and Commonwealth processes and seek guidance when encountering unfamiliar situations.\n\n\nWillingness to learn and grow in both traditional and Agile project management disciplines.\n\n\n \nMinimum Requirements\n\n\nInformation Technology, Project Management, or related field; equivalent experience may be considered.\n\n\n2-5 years of experience supporting projects, Agile teams, or administrative operations.\n\n\nExposure to Agile methodologies through coursework, training, or hands‑on experience.\n\n\nExperience using standard office software and collaboration tools.\n\n\nExperience with Tolling environment\n\n\nPreferred but not required:\n\n\nCertified Scrum Master (CSM), Scrum Foundations, or equivalent Agile certification\n\n\nCAPM or other entry‑level project management certification\n\n\n \n\n\n\n\n\nTop Skills & Years of Experience\n\n\n\nRequired/Desired Skills\n\n\n\n\n\nSkill\n\n\nRequired /Desired\n\n\nAmount\n\n\nof Experience\n\n\n\n\nexperience supporting projects, Agile teams, or administrative operations.\n\n\nRequired\n\n\n3\n\n\nYears\n\n\n\n\nCertified Scrum Master (CSM), Scrum Foundations, or equivalent Agile certification\n\n\nHighly desired\n\n\n5\n\n\nYears\n\n\n\n\nAbility to analyze and document business and systems processes\n\n\nDesired\n\n\n5\n\n\nYears\n\n\n\n\nExperience with Tolling environment\n\n\nRequired\n\n\n1\n\n\nYears\n\n\n\n\n\n\n\n\n\n\nRecruiter Details\n\n\nContact: Praveen - praveen@gsksolutions.com - Eight three two - Nine Nine Zero - Two four two seven\n\n\n\n\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "07/01/26",
+        "start_dateStr": 1782864000000
+      },
+      "end": {
+        "end_dateStr": "06/30/27",
+        "end_date": 1814313600000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ZqcLDd_pUNFU12bpgOpPsqheNd8FLaR50Udo-CGgiuk",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3c6Emxg0IIfQsEI_4_C_O7no="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cxmy62z-gmBx7KlJCfXlaao=",
+      "title": "IBM MDM Integration Developer",
+      "location": "320 S Walnut St,Lansing,Michigan,48933,UNITED STATES",
+      "experience": {
+        "experience": "10-11 years",
+        "min_experience": "10"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "\n\n\n\nJob Title\n\n\nIBM MDM Integration Developer ( Hybrid ) \n\n\n\n\nLocation\n\n\nLansing, MI\n\n\n\n\nDuration\n\n\n12 months+\n\n\n\n\nPay Rate\n\n\n$75/hr on C2C / 1099 all inclusive (OR) $70/hr on W2\n\n\n\n\nInterview Type\n\n\n-\n\n\n\n\nNote\n\n\n\n\nContract that is able to extend. Dependent on Business need\n\n\nPosting closes 7/7 at 10 AM ET. No Late submissions will be accepted\n\n\nInterview Process: Virtual, Mostly technical interview with hiring manager and other team members with a little soft skills portion at the end. Likely to only be 1 round, but could be more if needed.\n\n\nHybrid position, Mondays and Tuesdays are required on-site days (non-negotiable) Must meet these requirements from beginning\n\n\nLocation: Open to local candidates or those willing to relocate to Lansing. Must be able to relocate from day one with no delays (non-negotiable).\n\n\n\n\n\n\nJob Description\n\n\nThe position is responsible for providing ongoing maintenance and support for Master Person Index (MPI), Michigan Index Data Stewardship Portal and Symmetry applications supported within our department. These applications are part of the Technology and Database area. The resource is integral to supporting and improving MDHHS automated processes, streamlining critical business processes, data integrity, SEM/SUITE compliance, and securing the applications. As a lead, the resource participates in a variety of assignments that provides for the enhancement, integration, maintenance, and implementation of projects. The resource also provides application oversight to business analysts and to other teams integrating with Master Person index. Not having a resource on staff will delay ongoing and future project work within the area and lead to client inability to deliver on periodized enhancements and maintenance from MPI to all major applications like Bridges, MiIntegrate.\n \nResponsibilities\n\n\nWrite high level functional requirement documents.\n\n\nWork in Linux Operating Systems\n\n\nDevelop scripts in PowerShell.\n\n\nWork in Git and GitHub for repositories.\n\n\nWork closely with Database Administrators to develop and execute SQL scripts.\n\n\nCreate monthly reports for MDM applications.\n\n\nWork with client for task and ticket resolutions in MPI and MIDSP.\n\n\nWork on creating and deploying certificates on Windows and Linux systems.\n\n\nWork closely with Infrastructure teams like Server team (Linux, Windows) and Network team for maintenance and issue resolution.\n\n\nExecute full software development life cycle (SDLC) including experience in gathering requirements. and writing functional/technical specifications for complex projects.\n\n\nExperience developing, prototypes, mockup for users review and approval.\n\n\nExposure to flowcharts, screen layouts and documentation to ensure logical flow of the system requirements.\n\n\nAssist with Enterprise Architecture Solution Assessment (EASA), Hosting document and Firewall Rules.\n\n\nDesign, develop, and implement test plans and test reports for applications or subsystems.\n\n\nCreate or collect test data and execute approved tests to determine the accuracy of program logic to produce desired results.\n\n\nAssist with UAT Testing, Test cases, Post Implementation testing.\n\n\nProvide defect and incident tracking information.\n\n\nAssist with implementation of Request for Change (RFC - application changes, infrastructure changes, etc.).\n\n\nMaintain/update system documentation as a result of system upgrades.\n\n\nMonitors applications both production and non-production environments.\n\n\nProvide application support for business client applications that are maintained by client\n\n\nDelivering product and service based upon the core concepts of software Development.\n\n\n\n\n\n\nTop Skills & Years of Experience\n\n\nRequired Skills\n\n\n8+ years of software development experience supporting enterprise-scale systems\n\n\nStrong hands-on experience with IBM InfoSphere MDM v14.x Standard Edition (Virtual MDM), including MDM data models, entities, transactions, batch processing, configuration, customization, and troubleshooting\n\n\nHands-on experience with Apache Kafka\n\n\n \nDesired Skills\n\n\nStrong understanding of MDM concepts and IBM MDM product capabilities, with the ability to understand, maintain, and enhance an existing MDM Standard Edition implementation built by a third-party vendor\n\n\n8+ years of Java / J2EE experience, including Java, JSP, and REST/SOAP-based services, with strong production troubleshooting skills\n\n\n5+ years of experience working with Linux/Unix operating systems, including command-line usage, log analysis, and system-level troubleshooting\n\n\nHands-on experience with Apache Kafka, including topic creation and configuration, producer and consumer development, message flow troubleshooting, and understanding of Zookeeper and Kafka KRaft concepts using strimzi operator.\n\n\nExperience with batch processing using WildFly and Kafka\n\n\nExperience working with application servers such as WildFly, including application deployments, startup, configuration, health checks, and runtime issue resolution\n\n\nExperience integrating Kafka with WildFly-based applications and IBM MDM Standard Edition\n\n\nProficiency in writing and optimizing SQL queries in Oracle and Microsoft SQL Server environments\n\n\nStrong Linux/Unix shell scripting skills (Bash), including automation and operational scripting\n\n\nExperience creating, scheduling, and maintaining CRON jobs for batch and scheduled processes\n\n\nExperience in development of Flowable is a strong plus\n\n\nExperience with CI/CD pipelines using Azuredevops, azure git repo, or similar tools\n\n\nExperience deploying and supporting applications in cloud and OCP containerized environments\n\n\nFamiliarity with cloud platforms such as AWS and/or Azure\n\n\nExposure to OpenShift and Kubernetes is a strong plus\n\n\nExperience with ELK / Elastic Stack for log monitoring and troubleshooting, including correlating logs across Kafka, WildFly, and MD\n\n\nExperience working with data and supporting mission-critical production systems\n\n\nAbility to independently own, maintain, and support complex systems with minimal external dependency\"\n\n\n\n\n\n\nRecruiter Details\n\n\nContact: Sameer - sameer@gsksolutions.com - Seven one nine – two three nine – Five five five five\n\n\n\n\n \n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "07/29/26",
+        "start_dateStr": 1785283200000
+      },
+      "end": {
+        "end_dateStr": "09/30/26",
+        "end_date": 1790726400000
+      },
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/mrDKwE99o2X19qJ4ESUXf7kqHXt8CLuN2lMA-a9mXpE",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=b0xDT2pNRVRSbUwwVms4Z3AydVpuZz09&job_id=z5G7h3l6a1kMvyS65NP3cxmy62z-gmBx7KlJCfXlaao="
     }
   ]
 }

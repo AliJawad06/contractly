@@ -1,478 +1,46 @@
 {
   "company": "Stellar Professionals LLC",
-  "scrape_date": "2026-06-02T22:36:16.016533",
-  "total_jobs": 51,
+  "scrape_date": "2026-07-02T07:49:04.836675",
+  "total_jobs": 7,
   "jobs": [
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c0SzNgwbqjbsnS-wHWzMXWc=",
-      "title": "VDH Technical Support Analyst 4",
-      "location": "",
+      "id": "z5G7h3l6a1kMvyS65NP3c4l5poVZ0bd_otKq-SgOqCA=",
+      "title": "Lansing, MI - IT - CSS - End User Support - MiECC - Business Analyst 5",
+      "location": "400 S. Pine St,Lansing,Michigan,48933,UNITED STATES",
       "experience": {
         "experience": "5-50 years",
         "min_experience": "5"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "\nWe are looking for a Desktop Support who can own their workflow, manage device deployments, and serve as a vital technical liaison.\nLocation: Petersburg, VA\nWork Arrangement: Hybrid\nInterview Process: In-Person\nKey Responsibilities\n\nPC Refresh Ownership: Schedule deployment appointments directly with users, handle imaging, data transfers, software installation, and full hardware setup.\nRegional IT Support: Act as the main point of contact for technical needs, coaching staff through computer, mobile, phone, and printer troubleshooting.\nAsset & Incident Management: Track IT assets, manage service requests, and escalate critical network or security outages to the central operations center.\nReporting: Maintain an active log of regional IT initiatives and deliver clear weekly status reports.\n\nRequirements & Core Skills\nTo excel in this position, you must have at least 1+ years of experience in the following:\n\nPC Refresh Projects: Direct experience with large-scale computer deployments and data migration.\nHardware & Software Troubleshooting: Solid hands-on or service desk experience fixing PCs, peripherals, and mobile devices.\nITSM Frameworks: Practical knowledge of Incident, Change, Service Request, and Asset Management.\nMicrosoft 365 Suite: Proficiency with Word, Excel, Teams, SharePoint, and MS Bookings (for user scheduling).\nCommunication & Autonomy: Strong ability to manage your own schedule, write clear technical emails, and lead collaborative troubleshooting conversations with non-technical users.\nCompliance: Familiarity with state government-level information technology policies and security standards.\n\n\n",
+      "description": "We are seeking a Senior CRM Business Analyst to support the development, onboarding, tracking, and continuous improvement of strategic public health workflows mapped into a Salesforce CRM ecosystem for a project based in Lansing, MI.\n\n\nLocation: Lansing, MI 48933 (Candidates must be located within 90 miles of Lansing at the time of submission)\n\n\nWork Arrangement: Hybrid\n\n\nRole Type: 14-Month Contract (With long-term potential)\n\n\nInterview: Virtual\n\n\nKey Responsibilities\n\n\nRequirements & Process Reengineering: Review, analyze, and map complex business workflows. Author detailed functional and technical specifications to optimize Salesforce configurations.\n\n\nQueue Triage & Communications: Actively manage and prioritize the primary CRM inbox communications and user ticketing loops, assigning priority and severity metrics.\n\n\nData & BI Architecture: Partner with development teams to gather enterprise reporting datasets, formulate cost/benefit matrices, and support downstream data warehouse upgrades.\n\n\nTraining & Support: Design, publish, and present comprehensive training assets, detailed job aids, step-by-step documentation, and web-based instructional webinars for end-users.\n\n\nQuality Assurance: Collaborate with core QA/Testing teams during peak release cycles to validate features against defined requirements before deployment.\n\n\nRequired Skills & Experience\n\n\nBusiness Analysis: 5+ years of progressive professional experience acting as a dedicated IT Business Analyst.\n\n\nSalesforce Platform: Proven experience as a Business Analyst specifically working with applications and custom modules built directly on the Salesforce CRM platform.\n\n\nTesting Background: Demonstrable experience assisting with Quality Assurance (QA / Testing) execution, script writing, and system validation.\n\n\nDesired Skills\n\n\nDirect experience operating within Local, State, or Federal government agency workflows.\n\n\nFamiliarity navigating work item tracking systems inside Azure DevOps.\n\n\nWorking knowledge of regulatory compliance rules and frameworks, including HIPAA and FedRAMP.\n\n\nExperience with enterprise contact center infrastructure suites (such as Nice CXone).\n\n\nStrong understanding of relational database concepts and proficiency across the Microsoft Office suite.\n\n\n",
       "closing": {
         "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "06/02/26",
-        "start_dateStr": 1780358400000
+        "start_date": "08/03/26",
+        "start_dateStr": 1785715200000
       },
       "end": {
-        "end_dateStr": null,
-        "end_date": null
+        "end_dateStr": "09/30/27",
+        "end_date": 1822262400000
       },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/vak0KwibHPiynlWxflEwwiLf3b7HlN16kR24hcnaCtY",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c0SzNgwbqjbsnS-wHWzMXWc="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cxK40EOZDHujHGBBQrEDHxU=",
-      "title": "IT - ADMIN - Security Analyst - Project Lead",
-      "location": "4430 Broad River Road,Columbia,South Carolina,29212,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "Security Comments:Position Description:Please ensure you attach the SC Cover Sheet (attached), a valid Right to Represent, and the candidate's resume with full legal first name, and last name. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please submit the Sub Vendor usage form. \r\n \r\nThe State of South Carolina is looking for a Security Analyst - Project Lead\r\nWhy is this position open: Repost of 10792 as two new vacancies are available for the same manager/team. Candidates submitted to 10792 may NOT apply to this posting.  \r\nMax Bill Rate: $98.00/hour\r\nWill close to submissions on June 9th, 2026, at 5:00PM EST.\r\nInterview Process: 1 Round of Virtual/Online Interviews - potential for second round of in-person interviews \r\nDuration of the Contract: 12 Months \r\nPossibility for Extension: Yes\r\nWork Location: Role is 100% Remote \r\nCandidate location: No SC residency required. Open to nationwide candidates. \r\nAdditional Information: Preference will be given to candidates that are local to SC and are able to come onsite for project needs. \r\n\r\nFull job description attached and required and preferred skills are listed below.",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "62",
-      "remote": 1,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/mmtNuxP9PrL2oR5Fw3YPrhQOpuYbCfJFIP8Hz2ddRao",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cxK40EOZDHujHGBBQrEDHxU="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cxRlLP_nb55i_dc-ZLQ7R4U=",
-      "title": "Medical University of South Carolina - Research Applications & Services (RAS) - Programmer",
-      "location": "1201 Main Street Suite 600,Columbia,South Carolina,29201,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking an Epic Bridges Interface Developer to join our team in a fully remote capacity. In this position, you will build secure data structures, analyze large datasets, and develop web-based solutions to integrate third-party systems with an enterprise Electronic Health Record (EHR) system to support clinical research.\nPosition Details\n\nWork Arrangement: 100% Fully Remote (Nationwide candidate’s welcome; EST Shift)\nLocation: Columbia, SC\nInterview Process: 1 Round, Virtual/Online\n\nCore Focus Pillars\n\nSystem Integration: Connecting research applications safely into the EHR system.\nData Security: Working with security teams to develop QA measures and secure clinical data pathways.\nClinical Build: Planning and testing workflows for physicians, university faculty, and medical staff.\n\nKey Skills Required\nPlease note: Candidates must possess all three mandatory requirements to be considered.\n\nEpic Bridges Certification (Mandatory)\nCloverleaf Integration Engine experience (Mandatory)\n7+ Years of technical Epic build experience (Mandatory)\nAdvanced coding skills using HL7 and FHIR techniques\nExperience integrating platforms like REDCap, OnCore, or SPARC (Highly Preferred)\nBackground with Epic Research workflows (Preferred)\n\n \n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/01/26",
-        "start_dateStr": 1782864000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "52",
-      "remote": 1,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/Apuj-y2IK7D5r9NXPbw6uN-6SHTG1nK2eZe21P_hlNA",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cxRlLP_nb55i_dc-ZLQ7R4U="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c891dWjM9g1alYbjma5jH_Y=",
-      "title": "PUC: FA2 A4 SC3 LT",
-      "location": "Dauphin County",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a VMWare Admin to design, implement, and maintain high-performing network and server environments.\nLocation: Harrisburg, PA 17101\nWork Arrangement: Hybrid (Minimum 2 days per week onsite/in-office)\nShift: EST\nInterview Process: Webcam or In-Person\nKey Position Focus Areas:\n\nEnterprise VMware Stack: High proficiency with vSphere, vCenter, vSan, NSX, VCF, and Log Insight.\nNetwork & Server Admin: 5+ years of experience managing physical/virtual servers and complex network architecture.\nOperating Systems: Direct experience with Microsoft, RedHat, and Linux appliances.\nCore Services & Resiliency: Strong handling of Active Directory, DHCP, DNS, patch management, and data backup/recovery.\n\n Position Requirements at a Glance:\n\nMinimum 5 years of dedicated VMware and Networking systems administration experience.\nProven ability to optimize systems, plan lifecycles, and meet tight project timelines.\nExcellent communication skills for cross-team collaboration.\nAvailability: Prompt response to critical technical or emergency issues if contacted outside of standard hours.\nCompliance Note: Must work strictly within the United States; government-issued equipment cannot leave the country.\n\n",
-      "closing": {
-        "closing_date": "2026-06-05T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/01/26",
-        "start_dateStr": 1782864000000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "74",
-      "remote": 0,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/Yi__n_4fVAJJz55kHIPDn2tlxPLRYssx3quaozLZeyk",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c891dWjM9g1alYbjma5jH_Y="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c1pPscY3Ax8qXPnp8SF2Z1g=",
-      "title": "VDOT Sr. Azure Infrastructure Engineer",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a passionate Azure Certified Engineer to implement, configure, and manage a secure, stable cloud environment. If you thrive on taking on technical challenges, guiding others, and advising leadership on mission-critical infrastructure, we want to hear from you!\nPosition Details\n\nLocation: Mechanicsville, VA (Hybrid)\nInterview Mode: In-Person\n\nKey Responsibilities & Skill Requirements\nTo be successful in this position, you should have 8+ years of experience across the following core areas:\n\nAzure Infrastructure: Expert-level implementation, maintenance, and monitoring of cloud resources.\nCloud Migrations: Proven track record planning and executing migrations from on-premises to Azure.\nBCDR: Designing and executing backup and Disaster Recovery (DR) strategies for enterprise environments.\nSecurity & Compliance: Implementing network/security policies and managing vulnerability remediation (experience with tools like Tenable is a plus).\nObservability: Building advanced monitoring dashboards, workbooks, and alerts using Azure Monitor.\nTech Stack Familiarity: Comfortable supporting environments utilizing .NET, Java, SQL, Oracle, and Microsoft Dynamics.\n\nPreferred Certifications\n\nAzure Administrator Associate / Azure Solutions Architect\nNetwork+ / CCNA (Strong understanding of OSI layers and protocols)\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/02/26",
-        "start_dateStr": 1780358400000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "",
-      "remote": 2,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/jzLL7726g6OlqR5wlX4yvCt0DQeWAeMYTzvOSrCwHJQ",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c1pPscY3Ax8qXPnp8SF2Z1g="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c6VoR5V9HIXVsT1TJcMTCLs=",
-      "title": "PSDC - TAS1 A4 SC3 (Cloud Engineer)",
-      "location": "Cumberland County",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We Are Looking for a hands-on Cloud Engineer specializing in multi-cloud architectures, application modernization, and cutting-edge Generative AI integration.\n\nLocation: Mechanicsburg, PA 17050\nWork Arrangement: Hybrid (60% Remote / 40% Onsite — 2 days per week onsite)\nInterview Process: WebCam (Microsoft Teams) or In-Person. Note: Video interviews require a valid photo ID check and a 360-degree room pan.\n\nThe Position Focus\nYou will design, migrate, and support secure cloud-native applications while implementing applied AI solution patterns (GPT model integration, prompt engineering, semantic search, and intelligent chatbots) in a secure public safety context.\nKey Skills & Experience Required\n\nDual-Cloud Expertise: 5+ years of production experience with both Microsoft Azure AND AWS (compute, storage, and networking).\nSoftware Engineering: 4+ years of cloud-native development using .NET/.NET Core (C#) AND Python.\nDevOps & Containers: 3+ years with CI/CD tools (Azure DevOps, GitHub) and container orchestration (Docker, Kubernetes, AKS, ECS).\nApplied AI: 1+ year of hands-on experience with AI model integration, prompt engineering, and chatbot/summarization app development.\nTotal Experience: Minimum of 7 years as a Cloud Engineer.\nEducation: 4-year college degree or equivalent technical study.\n",
-      "closing": {
-        "closing_date": "2026-06-05T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "05/18/26",
-        "start_dateStr": 1779062400000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "55",
+      "salary": "51",
       "remote": 0,
       "assigned_recruiter": ", , , ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/uL4GolevTcZFgbWlHXS6ri5dwoBYW3IjygKK8jciZkA",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c6VoR5V9HIXVsT1TJcMTCLs="
+      "apply": "https://candidateportal.ceipal.com/job-details/kSdNU8EsIklE--S40F52NA78DPQIQo52dF5mPmQVOGM",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c4l5poVZ0bd_otKq-SgOqCA="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c6c8-B6oJpyGH2BckHEsH1c=",
-      "title": "IT - ADMIN - SAP Technical Support Engineer I",
-      "location": "301 Gervais Street,Columbia,South Carolina,29201,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a senior SAP BI/BO Developer to design, optimize, and maintain dashboards and reports within an enterprise SAP environment. You will bridge the gap between business needs and technical delivery by optimizing data universes, building interactive visualizations, and streamlining back-end data flows.\nLocation: Columbia, SC (100% REMOTE – Nationwide US candidates welcome)\nWork Arrangement: 100% Remote\nInterview Process: One Round of Virtual Interviews (Quick Process!)\nCore Focus Pillars\n\nSAP BI Development: Web Intelligence (Webi) reports, Crystal Reports, and universe optimization.\nTableau Administration: Server/Online architecture, upgrades, user security, and data source management.\nData Integration: Designing ETL workflows to merge disparate database systems.\n\nKey Requirements & Important Skills\nMandatory Experience:\n\n5+ Years: SAP BI Environment & Business Objects architecture.\n5+ Years: Complex Web Intelligence & Crystal Reports development.\n5+ Years: Tableau Administration (Server/Online configuration and management).\n3+ Years: Public Sector / Government agency experience.\nEducation: Bachelor's Degree in Computer Science, IT, Engineering, or a related field.\n\nHighly Valued Skills (Pluses):\n\nExperience with Microsoft SSIS or Azure Synapse for ETL development.\nStrong understanding of dimensional modeling and data warehousing concepts.\n\nPre-Employment Compliance\n\nSelected candidates must clear standard background checks (Criminal, Credit, Drug, and E-Verify).\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/01/26",
-        "start_dateStr": 1782864000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "76",
-      "remote": 1,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/5_bv_hxy7mZuJAxW1fxAQAnIsjNr9JCixBcY5ocWKqc",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c6c8-B6oJpyGH2BckHEsH1c="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c3sFbmV66Kn1Z3MgaIHWWM8=",
-      "title": "VBOA - Project Manager 4 (Part-time)",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a senior-level Part Time SAAS project manager to provide expert oversight for the design, configuration, and implementation of a replacement licensing and management system.\nIf you are a certified PMP with strong SaaS implementation experience and a knack for vendor management, we want to hear from you!\nKey Logistics\n\nPosition: Project Manager 4\nLocation: Richmond, VA\nWork Arrangement: Hybrid (1 day per week ON-SITE required, no exceptions)\nHours: Part-Time (Strictly 20 hours/week up to a maximum of 640 hours)\nInterview Process: In-Person Only (No remote/virtual interviews)\n\nCore Responsibilities\n\nEnd-to-End Oversight: Lead team members through process mapping, requirements gathering, and user acceptance testing (UAT).\nSystem Deployment: Oversee the implementation phases of a cloud-based solution and certify readiness for deployment.\nStakeholder & Change Management: Drive adoption of the new system, manage organizational change, and lead project closeout.\n\nHighlighted Skills & Requirements\nTo be considered, candidates must have 10+ years of experience in the following areas:\n\nActive PMP® Certification: Must hold an active Project Management Professional certification from PMI (Proof of certification required at submission).\nCloud & SaaS/PaaS Expertise: Proven background in planning, executing, and managing cloud-hosted software implementations.\nVendor Management: Strong skills in collaborating with and managing third-party IT vendors.\nRequirements Management: Extensive experience guiding business and IT stakeholders through technical requirement documentation.\nHybrid Methodologies: Deep, hands-on knowledge of both Agile (Scrum/Kanban) and Waterfall principles.\nPublic Sector Experience: Prior experience planning and validating functional requirements in compliance with state/government agency IT standards and security policies.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "05/28/26",
-        "start_dateStr": 1779926400000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "78",
-      "remote": 2,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/n-7oZSfKckXtSlkwP4msj4XwHDoapUH58nXKNtHU_s4",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c3sFbmV66Kn1Z3MgaIHWWM8="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c2hW4ARdUAGyXY7Djh2wtsk=",
-      "title": "Developer - .NET/PowerBI Developer - MS - MDWFP",
-      "location": "3771 Eastwood Dr,Jackson,Mississippi,39211,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "Security Comments:Position Description:No max bill rate.  100% onsite required, do NOT submit remote candidates.  See attached.\r\nScoring that will be used during interviews include but not limited to: \r\nCost: 30%\r\nInterview: 30%\r\nPossession of preferred experience: 30\r\nResume accurately reflects skills possessed by candidate: 10",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/02/26",
-        "start_dateStr": 1780358400000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/vQlZz4B4LK9DJV10qubFZlBbXJiGcTtfudv_25V-CVk",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c2hW4ARdUAGyXY7Djh2wtsk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c56qMYnQinw-EcwijFw54D4=",
-      "title": "Business Analyst",
-      "location": "4190 Aumsville Highway                          &nbsp; Salem,&nbsp; Oregon &nbsp;&nbsp; 97317-0000",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "\n\nWe are seeking an experienced Business Analyst (BA) to support the procurement and enterprise-wide implementation of a new Learning Management System (LMS) for a multidisciplinary public sector training institution.\nIn this role, you will bridge the gap between training operations, IT, and compliance teams to analyze current workflows, define future-state processes, and translate complex business needs into actionable technical requirements.\nWork Arrangement: Remote (Requires a one-time, initial on-site visit to Salem, OR to pick up state-issued equipment)\nWork Location: Salem, Oregon\nShift: EST\nInterview Mode: Webcam or In-Person\nCore Responsibilities\n\nStakeholder Engagement: Lead workshops, interviews, and working sessions with diverse teams to gather requirements and resolve conflicting priorities.\nProcess Modeling: Document existing training systems, analyze inefficiencies, and design optimized future-state workflows, process maps, and user journeys.\nSystems & Integration Analysis: Inventory interfacing systems (HRIS, records management, scheduling, identity management) and define data flows and system integration points.\nProcurement Support: Assist with RFP documentation, vendor demonstrations, and solution evaluations.\nImplementation & Testing: Support User Acceptance Testing (UAT), clarify requirements during system configuration, and help manage organizational change.\n\nImportant Skills & Qualifications (Checklist)\nTo be successful in this position, your background must include:\n\n3–7+ Years of BA Experience: Proven track record on complex, large-scale system implementation projects.\nSystem Integrations: Strong capability in analyzing data flows, system interactions, and technical dependencies.\nRegulated Environments: Experience working within the public sector, public safety, or highly compliance-driven industries.\n Advanced Documentation: Mastery in creating Requirements Traceability Matrices (RTM), gap analyses, use cases, and workflow diagrams.\nFacilitation: Exceptional communication skills to translate needs between technical and non-technical stakeholders.\n\nPreferred (Plus Skills)\n\nExperience with LMS implementations or enterprise training platforms.\nExperience supporting formal RFP/procurement processes.\nCertifications such as CBAP, CCBA, or PMI-PBA.\n\nNote: The final candidate will be subject to a standard background check including fingerprinting.\n\n\n",
-      "closing": {
-        "closing_date": "2026-06-05T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "08/01/26",
-        "start_dateStr": 1785542400000
-      },
-      "end": {
-        "end_dateStr": "07/31/27",
-        "end_date": 1816992000000
-      },
-      "salary": "53",
-      "remote": 1,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/gXTctO1EikHve3xgB5ZU6OaGkdZE5_tPyD-8tgRAgIA",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c56qMYnQinw-EcwijFw54D4="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cxgiLDUlZThd5ZjZTP3FwSc=",
-      "title": "Anne Arundel County - PC/Laptop Imaging & Deployment Technician",
-      "location": "1 Harry Truman Parkway, Annapolis, MD 21401\\n\\nFully Onsite Position",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a dependable, hands-on Desktop Support to support a fast-paced hardware refresh initiative. You will image, configure, and deploy new Dell laptops, desktops, and workstations, providing direct, face-to-face support to professional end-users.\nPosition Overview\n\nRole: PC/Laptop Imaging & Deployment Technician\nLocation: Annapolis, MD 21401\nWork Arrangement: 100% Onsite (40 hours/week)\nInterview Process: Strict In-Person Interview Only\n\nKey Requirements (3+ Years Experience)\n\nImaging & OS: Direct experience imaging PCs using MDT, SCCM/MECM, or similar deployment tools, along with Windows 10/11 troubleshooting.\nDell Hardware: Experience configuring, deploying, and swapping Dell desktops, laptops, and peripherals.\nBasic Networking: Confident with domain joining, VPN setup, network drives, and printer configuration.\nLogistics & Mobility: Valid driver’s license with a clean driving record (a fleet vehicle is provided for travel between deployment sites).\nPhysical Ability: Able to safely lift and move equipment weighing up to 50 lbs.\nSoft Skills: Top-tier customer service skills to support non-technical users through the upgrade process.\n\nHighly Desired (Stand Out from the Crowd)\n\nCompTIA A+ or equivalent certification.\nExperience with Active Directory, BitLocker, or Dell Command tools.\nExperience using enterprise ticketing systems (ServiceNow, Jira, etc.).\n\n",
-      "closing": {
-        "closing_date": "2026-06-05T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/08/26",
-        "start_dateStr": 1780876800000
-      },
-      "end": {
-        "end_dateStr": "12/04/26",
-        "end_date": 1796342400000
-      },
-      "salary": "30",
-      "remote": 0,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/a9erBsE-DH5mPoFX_WdIte9bM0JqOviyT9y6PHWDqh8",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cxgiLDUlZThd5ZjZTP3FwSc="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c8VV5IjKwC-yleGUWM9L0jk=",
-      "title": "IN-DCS-Senior Java Developer",
-      "location": "500 North Meridian Street\\nIndianapolis, IN 46204",
-      "experience": {
-        "experience": "10-50 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking an experienced Senior Java Developer to join our team in delivering enterprise-grade backend solutions. This role is perfect for a backend architect who thrives on building scalable APIs, managing high-volume data streams, and handling enterprise integrations.\nKey Details\n\nLocation: Indianapolis, IN\nWork Arrangement: Hybrid (3 days onsite / 2 days remote)\nInterview Process: Webcam only (100% remote interview)\nShift: Monday – Friday, 8:00 AM – 5:00 PM EST\n\nThe 4 Core Pillars of this Position\nTo be successful, candidates must have deep expertise in these key areas:\n\nBackend & API Architecture (7+ Years): Strong expertise in Java and the Spring Boot framework to design secure, scalable RESTful APIs and microservices.\nData & Queue Optimization (5+ Years): Hands-on experience building/optimizing batch processes and implementing event-driven, asynchronous messaging using Kafka, RabbitMQ, or AWS SQS.\nEnterprise Integration (3+ Years): Proven experience with MuleSoft integration flows and API-led connectivity.\nCloud & Database Environment: Practical experience deploying applications to AWS and writing advanced PostgreSQL functions/stored procedures.\n\nFamiliarity with UI frameworks (Angular/React) and document automation tools (SmartDocuments/Adobe Forms) is a strong plus.\n",
-      "closing": {
-        "closing_date": "2026-06-04T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/01/26",
-        "start_dateStr": 1780272000000
-      },
-      "end": {
-        "end_dateStr": "01/01/27",
-        "end_date": 1798761600000
-      },
-      "salary": "65",
-      "remote": 2,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/NctjZDin2R_sYt2bbIITJncnlU4MxVI3LSgoqEkW5F8",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c8VV5IjKwC-yleGUWM9L0jk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c-SGTT3_MB65O9RoC99S6Jg=",
-      "title": "IT - ADMIN - Internet / Web Engineer - Project Lead",
-      "location": "4430 Broad River Road,Columbia,South Carolina,29210,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a senior-level web developer to architect, code, and deploy complex web solutions across the full SDLC. If you have strong technical leadership skills and a passion for open-source tech, we want to hear from you!\nPosition Details\n\nWork Arrangement: 100% Remote (Nationwide candidates welcome)\nLocation/Timezone: Columbia, SC / EST Shift (Includes on-call rotations for emergency updates)\nInterview Process: One Round of Virtual Interviews (Quick decision process!)\n\nThe Crux of the Position\nYou will turn design mockups into functional, standards-compliant websites, write front-end and back-end code, and maintain/convert legacy applications. You will also provide technical leadership, collaborate with creative teams, and deliver training to users.\nKey Skills & Experience Required\n\n5+ Years: Coding, developing, and debugging web applications in a team environment.\n5+ Years: Open-source backend development with Linux, PHP, Drupal (8+), and WordPress.\n5+ Years: Front-end tech including HTML, DHTML, CSS, Dreamweaver, and Adobe Flash.\n5+ Years: Relational databases (SQL or MySQL).\n5+ Years: Experience working within the Public Sector / Government space.\nCore Skills: Apache web server configuration and full-cycle CMS deployment.\n\nHighly Desired & Additional Skills\n\nCMS maintenance (applying Drupal patches and fixing application security issues).\nStrong design tool literacy (Adobe Photoshop, Captivate, and Adobe Pro for fillable forms).\nCore understanding of web accessibility/disability compliance and cross-browser standards.\nExcellent verbal/written communication and a knack for knowledge transfer/training.\n\nEducation Requirements\n\nBachelor’s degree OR 5+ years of equivalent professional work experience.\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/01/26",
-        "start_dateStr": 1782864000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "63",
-      "remote": 1,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/zcP1JDkwFYjmsfrN2w-f-6Ufyf-fcLewiiV0qghg4LE",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c-SGTT3_MB65O9RoC99S6Jg="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cxbV7wsCBSwR1EvvBW4fatI=",
+      "id": "z5G7h3l6a1kMvyS65NP3cwmWVZc1LR5TIauMbMbTq_M=",
       "title": "GA - DOR Developer 1",
       "location": "2595 Century Pkwy, NE\\nAtlanta, GA 30345",
       "experience": {
@@ -481,611 +49,143 @@
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "We are seeking a .NET Developer, problem-solving Developer to design, code, test, and debug secure software while supporting a specialized configuration system.\nLocation: Atlanta, GA 30345\nWork Arrangement: Hybrid\nInterview Process: In-Person Only \nCore Requirements\n\nExperience: 1+ years of experience in .NET Programming and SQL.\nWork Authorization: US Citizen or Green Card / Permanent Resident only.\nLocality: Must be local to Metro Atlanta (or willing to relocate immediately).\n\nMandatory Compliance (Strict)\n\nMust be able to provide a Tax Clearance Letter at the time of application.\nMust pass a comprehensive background check and fingerprinting.\nZero tolerance for any prior felony convictions or overdue/unpaid taxes.\n\nPreferred Qualifications\n\nBachelor’s degree in Computer Science, MIS, or related coursework.\nExperience working in small, collaborative team environments.\n\n",
+      "description": "We are seeking a motivated Recent Undergrad Graduate to join our team. In this role, you will design, code, test, and debug software, translating business requirements into secure, maintainable code, and supporting the configuration of a major tax application.\nPosition Overview\n\nLocation: Atlanta, GA (Must be local to Metro Atlanta)\nWork Arrangement: Hybrid\nInterview Process: In-Person Only\n\nMandatory Compliance Note: Candidates must be US Citizens or Green Card holders. Due to strict regulatory compliance, an official Tax Clearance Letter is required at the exact time of application. A comprehensive background check, tax compliance screening, and fingerprinting are mandatory.\nKey Requirements & Skills\nTechnical Skills\n\n.NET Programming: 1+ years of experience in any .NET language (Required).\nSQL: 1+ years of working knowledge with Structured Query Language (Required).\n\nEducation & Soft Skills\n\nDegree: Bachelor's degree in Computer Science or Management Information Systems (MIS).\nCore Competencies: Strong analytical problem-solving skills, professional resiliency, and the ability to thrive in a small team environment.\n\n",
       "closing": {
-        "closing_date": "2026-06-10T23:59:00Z",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-10T23:59:00Z",
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "06/29/26",
-        "start_dateStr": 1782691200000
+        "start_date": "07/20/26",
+        "start_dateStr": 1784505600000
       },
       "end": {
         "end_dateStr": "06/30/27",
         "end_date": 1814313600000
       },
       "salary": "32.25",
-      "remote": 2,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/msTyiHYXR1s-4ynCF1U5DGku7pogZ_Ba77AmpW6A5zQ",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cxbV7wsCBSwR1EvvBW4fatI="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7rTXHVptwQOwbfaHhIEBoA=",
-      "title": "IN-DOH-Microbiologist II Antimicrobial Resistance",
-      "location": "550 W 16th St Ste B\\nMarion County, Indianapolis, IN 46202",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a skilled Microbiologist II to join a dynamic public health laboratory network focused on combating Antimicrobial Resistance. In this role, you will work independently to conduct high-complexity testing, isolation, and molecular identification of critical bacterial and yeast pathogens (including E. coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Acinetobacter baumannii, and Candida auris).\nLocation: Indianapolis, IN (Marion County)\nWork Arrangement: 100% Onsite\nShift: Monday – Friday, 37.5 hours/week (Flexible daytime hours, no weekends)\nInterview Process: Initial video interview (MS Teams) - Final In-Person interview\nKey Responsibilities\n\nHigh-Complexity Testing: Perform a full range of microbiological examinations, culture techniques, and biochemical tests.\nMolecular Diagnostics: Handle manual and automated nucleic acid extractions. Utilize advanced methodologies including PCR, Sequencing, MALDI-TOF, and Whole Genome Sequencing (WGS).\nCompliance & QA/QC: Maintain meticulous records and strictly adhere to CLIA regulations for specimen handling, test analysis, and proficiency testing.\nData Management: Evaluate, interpret, and validate laboratory results; assist in preparing epidemiological and statistical data reports.\n\nWhat We Are Looking For (Core Skills)\nHigh-Complexity Lab Experience: 2+ years of experience performing and overseeing high-complexity testing is highly desired.\nMolecular Techniques: Proven hands-on experience with PCR, WGS, and automated extraction platforms.\nRegulatory Knowledge: Strong familiarity with CLIA standards and public health laboratory safety practices.\nEducation: BA/BS in a biological science is highly preferred.\nEnvironment Adaptability: Ability to maintain a clear thought process while working independently in full protective gear (PPE) with biohazardous materials.\n",
-      "closing": {
-        "closing_date": "2026-06-05T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/29/26",
-        "start_dateStr": 1782691200000
-      },
-      "end": {
-        "end_dateStr": "01/01/27",
-        "end_date": 1798761600000
-      },
-      "salary": "31.14",
-      "remote": 0,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/ftATwTKnCUnR-bwEW_AdZyQHBVmFVqITjMXbiSnUZVY",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c7rTXHVptwQOwbfaHhIEBoA="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c1yXHXDzwk-FDaba8kZJLcY=",
-      "title": "VRC - Network Administrator 4 - IN PERSON IVS ONLY",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking an IT Professional who can bridge the gap between technical contractors and non-technical staff. Despite the title, this role focuses heavily on IT vendor management, project coordination, and helpdesk triage within a structured environment.\nKey Details\n\nLocation: New Kent, VA (Moving to Richmond, VA in the future)\nWork Arrangement: 100% Onsite initially (Hybrid flexibility may be considered later based on performance)\nSchedule: Monday – Friday, 8:00 AM – 5:00 PM\nInterview Process: In-Person Only (Local candidates strongly preferred)\n\nCore Responsibilities & Critical Skills\nTo be successful in this position, you must have at least 5 years of experience in the following core areas:\n\nVendor & Contractor Management: Coordinating external IT vendors, tracking deliverables, and ensuring accountability.\nProject & Ticket Coordination: Managing help desk triage, tracking open tickets, and escalating issues as needed.\nAsset Tracking: Managing IT hardware inventory and software licenses.\nWebsite Content Coordination: Managing and organizing website updates (no hands-on coding or development required).\n\nAdditional Requirements:\n\n3+ years of general networking, systems, and Microsoft Office productivity tools knowledge (awareness level to effectively triage issues).\nFamiliarity with State/Government compliance and cybersecurity awareness is highly desired.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "05/29/26",
-        "start_dateStr": 1780012800000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "32",
-      "remote": 0,
-      "assigned_recruiter": ", , , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/FzEQnfD_ZnUPn1MbwjyHBeos4fYWR66Q2OdH_mV29B4",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c1yXHXDzwk-FDaba8kZJLcY="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c2e28RxLdOKv0VR98guHq0c=",
-      "title": "Lansing, MI - IT - Agency Services - MDOS - N/A - System Analyst 3",
-      "location": "430 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are Looking for a Business Systems analyst who excels at both business analysis and quality assurance! If you are a local specialist who thrives in an Agile environment, we want to hear from you.\n Location & Work Arrangement\n\nLocation: Lansing, MI (430 West Allegan Street) – Must live within 1 hour of Lansing at the time of application.\nWork Arrangement: Hybrid. * Month 1: 5 days/week on-site for onboarding.\n\nMonth 2 onwards: 2 days/week on-site (Tuesdays & Wednesdays are mandatory, 8 hours/day). No fully remote option.\n\n\n\n Interview Process\n\nIn-Person Only: Candidates MUST be available for a face-to-face, on-site interview.\n\n Important Skills & Core Focus\nTo be successful, your experience must be within the last 5 years and focus on these 3 main pillars:\n\nDual BA/QA Expertise (3+ Years): You must have strong experience in both gathering/documenting clear business requirements and writing/executing detailed test plans and test cases.\nAzure DevOps Ecosystem (3+ Years): Heavy, hands-on experience managing project lifecycles, creating epics/features/user stories, and serving as a ScrumMaster. (Jira experience is also acceptable).\nProcess Mapping & Roadmaps (3+ Years): Proven ability to create As-Is/To-Be process flows, build product roadmaps, and utilize tools like Figma or Visio.\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": "09/30/27",
-        "end_date": 1822262400000
-      },
-      "salary": "40",
-      "remote": 2,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/7mbikXbcwCVEQe_Bv9qDvkj7yhgtbXKzz1YyJQIpLcI",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c2e28RxLdOKv0VR98guHq0c="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7BZAmhPTRqZM5Z5Z57RAzk=",
-      "title": "Dimondale, MI - IT - CTO - CT01 Cloud and Infrastructure Delivery - N/A - Cloud Engineer",
-      "location": "7285 Parksons Dr,Dimondale,Michigan,48821,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking an Cloud Engineer to support senior cloud architects in designing, deploying, and maintaining dynamic multi-cloud solutions.\nPosition Details\n\nLocation: Dimondale, MI (Local or willing to relocate immediately at own expense)\nWork Arrangement: Hybrid Only (Required onsite 2 days a week: Tuesdays & Wednesdays). No remote-only option.\nInterview Process: Virtual via MS Teams Video (Laptop required; must be prepared to share screen).\n\nKey Skills We Are Looking For\nIf you have 1–3 years of experience in the following areas, we want to hear from you:\n\nCloud Delivery & Business Analysis: Strong capability to gather technical requirements, assist with solution design, and write clear documentation.\nMulti-Cloud Foundation: Basic knowledge of designing dynamic solutions within Amazon Web Services (AWS) and Google Cloud Platform (GCP).\nDevOps & APIs: Solid understanding of continuous integration/delivery (CI/CD) pipelines, web services, and application programming interfaces.\nPublic Sector Frameworks: Foundational institutional knowledge of localized state-level cloud architecture, public platforms, and security processes.\n\nHighly Desirable Plusses: * Infrastructure automation tooling, pipeline design, Linux, or containerization.\n\nCertifications: AWS Certified Cloud Practitioner or Google Cloud Digital Leader.\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "58",
-      "remote": 2,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/XGOdVWC31kGFtysJo6FYgCm8WrawIqdTIIG0e0LGiUs",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c7BZAmhPTRqZM5Z5Z57RAzk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7klk4RVqvDg3W6hmDDChoU=",
-      "title": "Lansing, MI - IT - Agency Services - DHHS - N/A - Programmer Analyst 4",
-      "location": "235 Grand S Ave,Lansing,Michigan,48933,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a senior-level Java Developer to join our team in a critical role focused on maintaining, modernizing, and securing enterprise-level healthcare applications. If you excel at bridging robust backend Java code with modern frontend frameworks and complex database tuning, we want to hear from you!\nLocation & Work Arrangement\n\nLocation: Lansing, MI (48933)\nWork Arrangement: Strict Hybrid (Non-Negotiable) * Onsite: Mondays & Tuesdays | Remote: Wednesdays, Thursdays, & Fridays\n\nRequirement: Candidates must live within a 90-mile radius of Lansing, MI at the time of application.\n\n\n\nCore Technical Pillars & Important Skills\n1. Enterprise Backend Power (5+ Years Required)\n\nJava 17+ & Spring / Spring Boot 3.0 (MVC, Data, Batch, Security, Web Services).\nHeavy experience with Hibernate / JPA and legacy Apache Struts frameworks.\nEnterprise application servers: Apache Tomcat, JBOSS, WebSphere, or OpenShift.\n\n2. Modern Frontend & UI (3+ Years Required)\n\nSolid production experience with Angular and React.js (ES6+, Redux, React Router).\nProficiency in JavaScript, jQuery, HTML5, and XML.\n\n3. Database Mastery (5+ Years Required)\n\nAdvanced SQL Server and PL/SQL development.\nMust be highly proficient in writing and tuning complex Stored Procedures, Functions, Triggers, Views, and Linked Servers.\n\n4. Agile Delivery & DevOps (2+ Years Required)\n\nActive sprint planning and task tracking using Azure DevOps (ADO) and Git/Maven.\nSolid grasp of Test-Driven Development (TDD) and Agile/Waterfall hybrid environments.\n\nBonus Skill: Hands-on experience using AI coding tools (like Copilot, ChatGPT, etc.) to accelerate code generation, refactoring, and documentation.\nInterview Process\n\nFormat: 1-hour Virtual Interview via MS Teams (Video Required).\nSetup: You must join via laptop and be prepared to share your screen.\nVerification: A quick candidate identity verification (photo screenshot) will be conducted at the start of the interview.\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/29/26",
-        "start_dateStr": 1782691200000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "55",
-      "remote": 2,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/QzPIUk3QDaG4acDxga13zEhbxE5gLtQWOaEFmbZZqxQ",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c7klk4RVqvDg3W6hmDDChoU="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c1y2Df6HilcUby9CBLkzQko=",
-      "title": "DODD - Business Analyst 4(BA4)",
-      "location": "30 East Broad Street. Columbus OH 43215",
-      "experience": {
-        "experience": "10-50 years",
-        "min_experience": "10"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a senior-level Business Analyst to lead enterprise-level requirements discovery and business process transformation. In this role, you will bridge the gap between business leadership, product owners, and technical delivery teams to drive complex, cross-functional initiatives.\nLocation: Columbus, OH (30 East Broad Street)\nWork Arrangement: 100% Onsite\nInterview Process: In-Person / Onsite Interviews Required\nKey Responsibilities & Core Skills\n\nEnterprise Discovery & Facilitation: Lead requirements gathering for large-scale initiatives. Facilitate collaborative workshops with stakeholders, technical teams, vendors, and executive leadership to drive alignment.\nProcess Modeling (BPMN): Map, review, and optimize current-state and future-state workflows using formal process notation like BPMN.\nRequirements Engineering: Translate high-level business goals into precise functional, non-functional, reporting, and acceptance criteria requirements. Ensure all documentation is clear, testable, and traceable.\nImpact & Risk Analysis: Analyze downstream impacts across systems, reporting, policy, and training. Proactively identify gaps, risks, and system dependencies.\nMentorship & Quality Control: Review artifacts produced by other analysts, provide coaching, and uphold high BA documentation standards.\n\nRequired Experience\n\n10+ Years of experience leading enterprise-level requirements discovery.\n10+ Years of experience facilitating stakeholder and technical workshops.\n10+ Years of current/future-state gap and risk analysis.\n10+ Years creating formal business process models (BPMN).\n10+ Years translating business goals into functional requirements and acceptance criteria.\n\nMandatory Compliance Requirements\n\nMust pass a fingerprint background check prior to onboarding.\nStrict US-Only Policy: Government equipment cannot leave or be used outside of the United States under any circumstances.\n",
-      "closing": {
-        "closing_date": "2026-06-01T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "55",
-      "remote": 0,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/fZ5ruAdakUqpFRwmQMtIXSOlZwmj17jdid0pHS_6vUI",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c1y2Df6HilcUby9CBLkzQko="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cwMgv_OO5lAw9RseA-6xDbk=",
-      "title": "DODD-Program Manager 4/ (PM4)",
-      "location": "Columbus, OH",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/26",
-        "date_posted": 1780358400000
-      },
-      "description": "We are seeking a senior Program Manager to lead complex, full-lifecycle enterprise projects. If you have a strong blend of traditional program governance and Agile execution, we want to hear from you!\nLocation: Columbus, OH 43215\nWork Arrangement: 100% On-site (5 days/week)\nInterview Process: In-Person / On-site Interview Required\nCore Position Requirements\nTo be considered, candidates must have 9+ years of documented experience in the following areas:\n\nEnd-to-End Project Estimation: Developing and adjusting project estimates across planning, analysis, design, testing, and implementation.\nSchedule & Scope Control: Tracking milestones, managing scope changes, and taking swift corrective actions to prevent project slippage.\nMetrics & Governance: Capturing, analyzing, and reporting critical program metrics and KPIs to stakeholders.\nAgile & Scrum Leadership: Serving as a Scrum Master for cross-functional teams, facilitating ceremonies, and collaborating with Shared Services.\n\nWhat Makes You a Great Fit?\n\nYou have a proven track record of managing long-term, large-scale delivery cycles (8–12 months).\nYou excel at building relationships with portfolio managers, executive stakeholders, and vendors.\nYou are proactive at identifying risks, mitigating blockers, and balancing team workloads.\n\n",
-      "closing": {
-        "closing_date": "2026-06-01T23:59:00Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "74",
-      "remote": 0,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/GeY7-3nvR-ve3MCaLhRLjjRxZYLCkRTefTb_FO2ax74",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cwMgv_OO5lAw9RseA-6xDbk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c_fIDxqcYjRdiLdYBfbG8p0=",
-      "title": "DODD- Business Analyst 3(BA3)",
-      "location": "Remote",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/01/26",
-        "date_posted": 1780272000000
-      },
-      "description": "We are looking for an Business analyst to join our team for a long-term contract opportunity.\n Location: Columbus, Ohio\n Work Arrangement: 100% REMOTE (Must report onsite in Columbus, OH for Day 1 setup)\n Interview Process: 100% Virtual (via Microsoft Teams)\nPosition Focus (The 3 Pillars)\n\nAgile Backlog Mastery: Driving backlog refinement and user story lifecycles.\nVisual Workflow Design: Turning complex processes into visual diagram models.\nStakeholder Collaboration: Facilitating alignment between Product Owners, Developers, and QA.\n\nCore Requirements (9+ Years Experience Required)\nTo be successful in this position, candidates must possess at least 9 years of proven experience in the following:\n\nAgile Lifecycle Tools: Heavy hands-on experience using JIRA, Azure DevOps, or equivalent ALM tools.\nRequirements & User Stories: Proven mastery in translating stakeholder needs into clear, testable functional/non-functional requirements and acceptance criteria.\nProcess Mapping: Creating detailed visual documentation and workflows using Visio, Lucidchart, or BPMN notation.\nCross-Functional Facilitation: Exceptional skills leading discovery sessions across business and highly technical teams.\n\n",
-      "closing": {
-        "closing_date": "2026-06-05T23:59:00Z",
-        "closing_dateStr": 1780272000000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "50",
-      "remote": 1,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/NhtQfYDndX3GWKczUnprTNm4_EJnnjvlKB7XL44SeW8",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c_fIDxqcYjRdiLdYBfbG8p0="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c9BkDjIDykez0AriUC34UsQ=",
-      "title": "VDH Business Analyst 3",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/01/26",
-        "date_posted": 1780272000000
-      },
-      "description": "We are looking for a senior-level Business analystto drive a major application and data migration initiative.\nPosition Details\n\nLocation: Richmond, VA\nWork Arrangement: Hybrid (Onsite at least 1 day per week; must be local to Richmond)\nInterview Process: Strict In-Person/Onsite Interview Only\n\n(Note: Parking is not provided for onsite days/interview)\nKey Skills & Expertise We Are Looking For\nIf you have a strong background in the following areas, we want to hear from you:\n\nMigration & Analysis: Proven experience with Application & Data Migration projects, including documenting current/future states, performing GAP Analysis, and creating User Stories with Acceptance Criteria.\nProject Coordination: Ability to facilitate project calls, track tasks across multiple cross-functional teams, manage timelines, and act as a consultant to stakeholders.\nProcess Mapping: Strong skills in representing complex business requirements into clear process flows and pictorial diagrams.\nTesting & QA: Hands-on experience creating test plans/scenarios, participating in integration testing, and guiding users through User Acceptance Testing (UAT).\nSecurity & Documentation: Experience assisting with system security documents and creating end-user training manuals.\nTech Stack: High proficiency in SharePoint, MS Project, MS Teams, and standard MS Office applications.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780272000000
-      },
-      "start": {
-        "start_date": "05/26/26",
-        "start_dateStr": 1779753600000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "46",
-      "remote": 2,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/GCYmWWCIpOrsAB8S65st2HVfg3rbLe9zWcngnfifGwc",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c9BkDjIDykez0AriUC34UsQ="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cyX4iHRPskdoOqBe7sdh15Y=",
-      "title": "DOT - Programmer 5(PR5)",
-      "location": "1980 West Broad St, Columbus, OH",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/01/26",
-        "date_posted": 1780272000000
-      },
-      "description": "We are seeking a highly skilled Senior Front-End Web Developer to join a collaborative development team. In this role, you will bridge the gap between design and functionality, creating intuitive, responsive, and visually appealing user interfaces while collaborating closely with backend developers.\nKey Details\n\nLocation: Columbus, Ohio (43223)\nWork Arrangement: 100% Fully On-site (5 days/week)\nInterview Process: In-Person Interview Required (Local Ohio candidates preferred)\n\nCore Responsibilities\n\nUI/UX Execution: Gather UI requirements, review designs, and create/maintain wireframes, mockups, and prototypes.\nFront-End Development: Design, implement, and test responsive, accessible web interfaces.\nBackend Integration: Collaborate with backend developers to integrate UI components seamlessly with backend services.\nOptimization & Troubleshooting: Resolve issues related to cross-browser compatibility, responsiveness, and performance.\n\nRequired Technical Skills\nTo be considered for this position, candidates must possess at least 4+ years of experience in the following:\n\nC# – Solid back-end/integration experience.\nHTML5 & CSS3+ – Expert-level design execution using Bootstrap 4+.\nJavaScript / TypeScript – Strong client-side scripting skills.\nStandard SQL – Proficient in structured query language and database interactions.\nEducation: 4-year college degree or equivalent technical/advanced study.\n\nHighly Desired Skills (Big Plus)\n\nExperience with Angular framework.\nVersion control using Git.\nHands-on UI/UX Design principles.\n\n",
-      "closing": {
-        "closing_date": "2026-05-22T23:59:00Z",
-        "closing_dateStr": 1780272000000
-      },
-      "start": {
-        "start_date": "07/06/26",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "52",
-      "remote": 0,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/IPVeZ0Ex5pGDWMB4K6NYP21WZG7GvswhHdPQPwLW7Js",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cyX4iHRPskdoOqBe7sdh15Y="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c5xt4cEsmmYkkVRzTyKlqvQ=",
-      "title": "Lansing, MI - IT - Agency Services - MB - N/A - Programmer 3 - GRC Administrator and Developer",
-      "location": "",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/01/26",
-        "date_posted": 1780272000000
-      },
-      "description": "We are seeking a GRC Administrator to maintain, enhance, and automate a Web-based Governance, Risk, and Compliance (GRC) tool. You will design automation solutions for security accreditations, build unified controls frameworks, and collaborate across cyber security, audit, and project management teams.\nLocation: Lansing, MI 48933\nWork Arrangement: Hybrid – Onsite Mondays & Tuesdays required from Day 1 (No remote-only)\nInterview Mode: In-person only\nLocal Candidates Only: Must be within 1.5 hours of Lansing, MI\nCore Responsibilities & Pillars\n\nPrimary Focus: Serve as the administrator and developer for the web-based GRC platform.\nAutomation: Develop Python scripts and integrate RESTful APIs to automate evidence collection, workflow routing, and data ingestion (JSON/CSV).\nFramework Integration: Build security controls frameworks aligned with industry standards (such as CJIS, IRS, and PCI).\nSource Control: Maintain documentation and centralized code in Azure repositories and SharePoint.\n\nKey Skills & Experience Required\n\nPython Programming: 2–3+ years (Primary Requirement)\nDatabase Design: 2–3+ years\nAPI Integration & Automation (RESTful APIs): 1–2+ years\nRisk Management Concepts & Agile (Sprints): 1–2+ years\nBasic Coding: Foundational skills in Java or C#\n\nPreferred/Bonus Skills\n\nFamiliarity with GRC tools (Navex IRM / Keylight is a major plus)\nExperience with security compliance frameworks (CJIS, IRS 1075, PCI)\nAutomated testing and DevOps practices\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780272000000
-      },
-      "start": {
-        "start_date": "06/01/26",
-        "start_dateStr": 1780272000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "41",
-      "remote": 2,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/d2Dp4eIkVvHdVXlHgl1DtmgLqQv5Dcl3mN67ZJOGxP0",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c5xt4cEsmmYkkVRzTyKlqvQ="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c8KC8mByb1N1Ty0xQ1w68l8=",
-      "title": "VDH Programmer Analyst 3",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/01/26",
-        "date_posted": 1780272000000
-      },
-      "description": "We are seeking a skilled .NET Developer to develop, maintain, and enhance critical web applications. If you are a seasoned developer with strong backend and database skills, we want to hear from you!\nQuick Details\n\nPosition: Programmer Analyst 3\nLocation: Richmond, VA\nWork Arrangement: Hybrid (Requires occasional onsite meetings/project planning; local candidates preferred)\nInterview Process: High volume may require an initial phone screen, followed by a mandatory In-Person/Onsite Interview.\n\nCore Technical Skills Required\nTo be successful in this position, you must have at least 8 years of experience in the following:\n\nC# .NET: Expert-level web application design and development (including ASP.NET/MVC and .NET Core).\nSQL Server 2019: Strong database design, optimization, and complex SQL programming.\nFront-End Development: 5+ years of experience with JavaScript, JQuery, and HTML.\nCommunication: Excellent written documentation and verbal communication skills.\n\nPreferred (Nice-to-Have) Skills\n\nTelerik UI controls (3+ years)\nAgile development methodologies (2+ years)\nM365 Power Platform & Azure Cloud (2+ years)\nGitLab & DevSecOps pipelines (1+ years)\n\nKey Requirements for Applicants\n\nCandidates must physically reside within the US for the duration of the assignment (no offshore contractors).\nMust be willing and able to attend an onsite interview and work in a hybrid capacity in Richmond, VA.\nNote: This role is for fresh applicants only. If you have been submitted to recent .NET positions in the Richmond public sector area, you will not be eligible.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780272000000
-      },
-      "start": {
-        "start_date": "05/26/26",
-        "start_dateStr": 1779753600000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "49",
-      "remote": 2,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/8pC0c6CD4IU8Jac2jtvS0gpgujVxfbT7yG2WZpRuMGc",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c8KC8mByb1N1Ty0xQ1w68l8="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3czF1q-ZYNCIfMjib5ka59Ac=",
-      "title": "IN - INDOT IT Sr. Project Manager",
-      "location": "100 N. Senate Ave., Indianapolis, IN 46204",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/01/26",
-        "date_posted": 1780272000000
-      },
-      "description": "We are seeking a seasoned Senior IT Project Manager to provide professional leadership, relationship management, and tactical execution for large-scale enterprise projects. The ideal candidate will bridge the gap between technical teams and business stakeholders while guiding key modernization initiatives.\nLocation: Indianapolis, IN (Hybrid: 1–2 days onsite per week)\nInterview Process: Initial interview via Microsoft Teams $\\rightarrow$ Final interview in-person\nKey Project Focus\n\nLead the end-to-end migration of an on-premises Oracle Data Warehouse to Google Cloud Platform (GCP) using BigQuery, Dataflow, and DataStream.\n\nMust-Have Core Skills\n\n10+ Years of Experience: Proven track record in complex IT project/portfolio coordination across multiple business areas and geographies.\nData Warehouse & Cloud Migration: Strong background in data modernization, specifically moving on-premises databases to Cloud ecosystems (Google Cloud preferred).\nTechnical Translation: Exceptional ability to translate complex technology terms and SDLC concepts to non-technical business partners.\nFramework Flexibility: Deep knowledge of multiple methodologies including Agile, Waterfall, and Hybrid frameworks.\nTeam Leadership & Mentorship: 10+ years of experience driving senior staff to success and mentoring intermediate project managers.\n\nHighly Desired Skills\n\nExperience managing and tracking project workflows within Azure DevOps.\nActive PMP Certification.\nPrior experience managing large-scale public sector or state-level software projects.\n\nKey Responsibilities\n\nDevelop, monitor, and maintain comprehensive project plans, risk registers, and budgets.\nCoordinate activities across multiple internal stakeholders and contracted vendors.\nDefine project team roles, user requirements, deliverables, and approval metrics.\nCommunicate clear, high-level project status updates to senior management.\n\nNote for Applicants: Candidates must currently reside in Indiana and be comfortable working in a hybrid capacity (onsite 1–2 days a week in Indianapolis).\n",
-      "closing": {
-        "closing_date": "2026-06-02T23:59:00Z",
-        "closing_dateStr": 1780272000000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "01/01/28",
-        "end_date": 1830297600000
-      },
-      "salary": "51.51",
-      "remote": 0,
-      "assigned_recruiter": ", , , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/8JmVQw5UzIGYnAxmaX1SCokvf8ba-uHvYkpSB7zS_U4",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3czF1q-ZYNCIfMjib5ka59Ac="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c0LmNX5UfHM3K7-eOCsYQJc=",
-      "title": "PTC - PC Refresh Tech",
-      "location": "Dauphin County",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/29/26",
-        "date_posted": 1780012800000
-      },
-      "description": "We are seeking Desktop Technician for an exciting on-site opportunity. If you have basic Windows knowledge, love hands-on IT work, and want to boost your tech career, this position is for you!\nLocation: Middletown, PA, 17057\nWork Arrangement: 100% Fully On-site\nShift: Monday–Friday, 8:00 AM – 4:30 PM (No Overtime)\nInterview Process: Webcam or In-person\nKey Position Highlights\nWhat You Will Do\n\nImage & Deploy: Apply Windows 11 OS images using SCCM & Intune, and install core software.\nHardware Setup: Unbox, organize, and assemble desktops, laptops, monitors, and accessories.\nTrack Assets: Log equipment and update records in ServiceNow.\nDecommission: Assist with retired equipment cleanup.\n\nImportant Skills & Requirements\n\nTechnical: Basic knowledge of Windows OS and hardware imaging tools.\nPhysical: Ability to lift up to 50 lbs comfortably for hardware handling.\nProfessional: High attention to detail, strong time management, and clear communication.\nEducation: High School Diploma or equivalent.\nCompliance: Must be able to pass a State and National Background Check.\n\n",
-      "closing": {
-        "closing_date": "2026-06-03T23:59:00Z",
-        "closing_dateStr": 1780012800000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "11/01/26",
-        "end_date": 1793491200000
-      },
-      "salary": "32",
-      "remote": 0,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/7RNFyKKQ2D7uTmNo9cbxtTPJW8HjOSMQUtnJOamvVbY",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c0LmNX5UfHM3K7-eOCsYQJc="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c8RMuHIZPSiM8ROz31aF_G0=",
-      "title": "GA DOL Computer Operator 2",
-      "location": "148 Andrew Young International Blvd NE\\nAtlanta, GA 30303",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/29/26",
-        "date_posted": 1780012800000
-      },
-      "description": "We are seeking a NOC Operator to join our team in Atlanta. This critical position bridges IT operations and physical data center monitoring to ensure 24/7 system uptime and security.\nPosition Logistics\n\nLocation: Downtown Atlanta, GA (30303)\nWork Arrangement: 100% Onsite (No remote/hybrid flexibility)\nInterview Process: Webcam or In-Person\nTarget Audience: LOCAL CANDIDATES ONLY\n\nUnique 40-Hour Shift Schedule\nThis position features an unconventional, highly flexible weekly schedule:\n\nWeekend Core: 24 hours over the weekend (7:00 PM – 7:00 AM, Saturday and Sunday).\nWeekday Flex: 16 hours completed anytime during the week (pick your own 1st, 2nd, or 3rd shift).\n\nKey Technical Skills Required\nTo be qualified for this position, you must have at least 2 years of experience in the following areas:\n\nProduction Control & Scheduling: Hands-on experience with Control-M and TPE/BPE Manager.\nSystems & Networking: Monitoring distributed servers (AIX, Linux, Windows) and network protocols (LAN/WAN, TCP/IP).\nData Center Facilities: Direct experience monitoring critical infrastructure, including HVAC, UPS systems, backup generators, raised floors, and fire suppression systems.\nITIL Framework: Practical knowledge of Incident, Problem, Change, and Asset Management policies/software.\n\nMinimum Qualifications\n\nA 2-year technical/vocational degree or certificate in an IT field OR equivalent foundational IT work experience.\n\n",
-      "closing": {
-        "closing_date": "2026-06-01T23:59:00Z",
-        "closing_dateStr": 1780012800000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "30",
       "remote": 0,
       "assigned_recruiter": ", , , , , , ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/nfli2Tk-U-43tPqb-Egn4XoLC8no7FYHRNJvchI_i-0",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c8RMuHIZPSiM8ROz31aF_G0="
+      "apply": "https://candidateportal.ceipal.com/job-details/o8NugSLeU6vNLBXv70NMBdo0D1OXGc21KS9OfpFqG6E",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cwmWVZc1LR5TIauMbMbTq_M="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c9y1GuQwgmXGmhv4XGEFH38=",
-      "title": "GDOT Business Analyst (Procurement Operations)",
-      "location": "Atlanta, Georgia",
+      "id": "z5G7h3l6a1kMvyS65NP3c5qAcZNsJtZ_qaKCG65BANw=",
+      "title": "Developer - Microsoft Dynamics 365 Developer - MS - MDA",
+      "location": "3771 Eastwood Dr,Jackson,Mississippi,39211,UNITED STATES",
+      "experience": {
+        "experience": "8-50 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "We are seeking an Advanced Microsoft Dynamics 365 Developer to modernize enterprise applications, automate workflows, and design scalable cloud solutions.\nWork Arrangement: 100% Remote (EST Shift)\nLocation: Jackson, MS\nInterview Process: Webcam or In-Person\nPosition Overview\nYou will design, configure, and develop enterprise business applications within the Microsoft Dynamics 365 and Power Platform ecosystems—specifically supporting grants management, licensing, and workflow automation.\nKey Skills & Core Requirements\nTo qualify for an interview, your resume must clearly reflect the following core experience:\n\nMicrosoft Dynamics 365: 5+ years of professional development and environment configuration.\nPower Platform: 3+ years of experience building Power Apps (Model-Driven/Canvas) and Power Automate workflows.\nCustom Development: Proven experience writing custom plugins, workflow extensions, custom APIs, and web resources using C#, .NET, JavaScript, and TypeScript.\nData & Integration: Strong experience with Microsoft Dataverse, MS SQL Server, and integrating enterprise systems via REST APIs / Azure Functions.\nReporting: Experience building executive dashboards and operational reports in Power BI.\nEducation: Bachelor’s degree in Computer Science, IT, Software Engineering, or a related field.\n\nPreferred Pluses (Boost Your Chance)\n\nActive Microsoft Certifications (Dynamics 365, Power Platform, or Azure).\nHands-on experience with Azure DevOps, Git, and CI/CD pipelines.\nBackground working with public sector/government agencies.\nExperience with grants management, financial systems, or permitting applications.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "07/01/26",
+        "start_dateStr": 1782864000000
+      },
+      "end": {
+        "end_dateStr": null,
+        "end_date": null
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": ", , , , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/iWJ8r3BuzH1IVrQOAEHcne6L8Y0k1MIqqnM53IcmqMA",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c5qAcZNsJtZ_qaKCG65BANw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3cyUMmM7Nr4iZYUNcMJiPx3k=",
+      "title": "CT - DOB - AI Engineer",
+      "location": "",
       "experience": {
         "experience": "5-50 years",
         "min_experience": "5"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "05/29/26",
-        "date_posted": 1780012800000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "We are seeking a highly analytical Business Analyst to support and optimize operational contracting processes within a procurement department. This role focuses on mastering, managing, and optimizing existing data infrastructure—transforming raw data into actionable insights for strategic sourcing.\nQuick Details\n\nLocation: Atlanta, Georgia\nWork Arrangement: Hybrid (1–2 days onsite per week)\nInterview Mode: Web Cam or In-Person\nShift: EST\n\nKey Skills Required (Must-Haves)\nTo be successful in this role, candidates must possess:\n\nM365 & Power Platform Expertise (2+ Years): Intermediate to advanced knowledge of SharePoint, Excel, and the Power Platform ecosystem (Power BI, Power Apps, or Power Automate).\nData-Driven Process Optimization (3+ Years): Proven experience learning existing software systems to analyze data, find trends, and create more efficient workflows.\nTechnical Agility: A strong ability to quickly learn and adapt to unfamiliar software and IT systems.\nIndependent Execution: A self-motivated mindset with a track record of driving analytical projects from start to finish with minimal supervision.\n\nPreferred (Bonus Points)\n\nBackground or familiarity with procurement or supply chain operations.\nMicrosoft certifications in SharePoint or Power Platform.\n\n \n",
+      "description": "We are seeking a hands-on, applied AI Engineer to support the ongoing operation, modernization, and extension of AI-enabled applications. This role operates within an AI-assisted software development environment, where you will use modern coding assistants as a primary tool to write, review, and debug production code.\n\nWork Arrangement: 100% Remote (Must work within US/Eastern Time Zone business hours)\nWork Location: 55 Farmington Ave. Hartford, CT\nMode of Interview: Teams Meeting (Video)\n\nKey Requirements & Skills\nPrimary Technical Skills (Required)\n\nPython Development: 3+ years of experience writing clean application logic and building Web APIs within modern frameworks (like FastAPI).\nLLM Integration: 2+ years of experience building production applications powered by Large Language Models (Gemini, Claude, GPT).\nModel Evaluation: 2+ years of experience comparing and selecting AI models (e.g., performing A/B testing on model tasks).\n\nCloud & DevOps (Highly Desired)\n\nMicrosoft Azure: 2+ years deploying and maintaining cloud services (App Service, Storage, Key Vault).\nVersion Control: Proficiency with Git-based source control and structured pull-request workflows.\n\nCore Competencies\n\nData Security: Experience implementing secure development practices and handling highly confidential or regulated data.\nAI Productivity: High comfort level directing AI coding assistants, validating their output, and shipping reliable code.\nCommunication: Exceptional oral and written communication skills to collaborate effectively with centralized AI teams and stakeholders.\n\nMain Duties\n\nMaintain, enhance, and extend existing AI applications and data flows.\nConfigure, deploy, and monitor services in cloud environments.\nAnalyze user requirements and translate them into technical production code.\nDocument system processes, workflows, and technical procedures.\n",
       "closing": {
-        "closing_date": "2026-06-01T23:59:00Z",
-        "closing_dateStr": 1780012800000
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1782864000000
       },
       "start": {
         "start_date": "06/29/26",
         "start_dateStr": 1782691200000
       },
       "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
+        "end_dateStr": null,
+        "end_date": null
       },
-      "salary": "30",
-      "remote": 0,
-      "assigned_recruiter": ", ",
+      "salary": "62",
+      "remote": 1,
+      "assigned_recruiter": ", , , , , , , , ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/gbot3a7KponzxrdmQkHNfVWhzFkEpIYxm19CBjqIA-s",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c9y1GuQwgmXGmhv4XGEFH38="
+      "apply": "https://candidateportal.ceipal.com/job-details/XWW7EwRR5reKw17LIz_oi6Uv68wmlyQQyqcUV2sIjZM",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cyUMmM7Nr4iZYUNcMJiPx3k="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c-vo7PqgzIwo_4Le2nS8hLM=",
-      "title": "Lansing, MI - IT - Agency Services - EGLE - N/A - Business Analyst 5",
+      "id": "z5G7h3l6a1kMvyS65NP3c3iatxjYXMdsXffIubSJe3I=",
+      "title": "MI IT Agency Services DHHS Programmer Analyst 6 - IBM Master Data Management & Integration Developer",
+      "location": "320 S Walnut St,Lansing,Michigan,48933,UNITED STATES",
+      "experience": {
+        "experience": "8-50 years",
+        "min_experience": "8"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "We are seeking a senior-level professional to provide 100% production support and maintenance for enterprise-scale Master Data Management (MDM) platforms and downstream application integrations. The ideal candidate will operate independently to secure data integrity, resolve incidents, and manage application uptime.\n\nLocation: 320 S Walnut St, Lansing, MI, 48933\nWork Arrangement: Hybrid (Mondays and Tuesdays are strictly required on-site from day one; non-negotiable)\nInterview Process: Virtual, single-round panel interview (mostly technical evaluation with a brief soft-skills assessment)\n\nHighlighted Technical Core Skills\nRequired Capabilities (Non-Negotiable):\n\n8+ Years of enterprise software development experience.\nIBM InfoSphere MDM v14.x Standard Edition (Virtual MDM) — Deep knowledge of data models, entities, transactions, batch processing, and troubleshooting.\nApache Kafka — Multi-year event-streaming experience including topic creation, configuration, message flow debugging, and Zookeeper/KRaft concepts via Strimzi operator.\n\nHighly Desired Skills:\n\nJava/J2EE Stack: 8+ years with Java, JSP, and REST/SOAP-based services alongside production logging diagnosis.\nOS & Automation: 5+ years with Linux/Unix systems (command-line, log analysis, Bash/Shell scripting, and CRON jobs) plus Windows PowerShell.\nMiddleware: Hands-on experience with WildFly application servers (deployments, health checks, and integrating WildFly with Kafka/MDM).\nDatabases: Strong proficiency writing and optimizing SQL queries within Oracle and Microsoft SQL Server environments.\nDevOps & Infrastructure: Experience deploying to Cloud/Containerized environments (AWS, Azure, OpenShift, Kubernetes) and working with Azure DevOps CI/CD pipelines.\nMonitoring & Security: Log aggregation using the ELK/Elastic Stack and managing/deploying SSL/TLS Certificates across Windows/Linux.\nBonus: Hands-on experience with the Flowable workflow engine.\n\nKey Responsibilities\n\nProvide application support and track defects/incidents across critical production and non-production systems.\nCollaborate with Infrastructure teams (Linux, Windows, Network) to resolve runtime environment issues and execute Requests for Change (RFC).\nCoordinate with DBAs to implement database enhancements and pull system metrics.\nExecute the full SDLC loop by gathering functional requirements, generating technical specifications, and overseeing UAT/Post-Implementation testing.\n",
+      "closing": {
+        "closing_date": "Open Until Filled",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "07/29/26",
+        "start_dateStr": 1785283200000
+      },
+      "end": {
+        "end_dateStr": "09/30/26",
+        "end_date": 1790726400000
+      },
+      "salary": "60",
+      "remote": 0,
+      "assigned_recruiter": ", , , ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/SIi9ranI4r3XBvYvTkaNqjtL2uNORSJsCCeDxNV_kX0",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c3iatxjYXMdsXffIubSJe3I="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c8byC9ieXPhE3dXH9YsD25c=",
+      "title": "Lansing, MI - IT - Agency Services - Central Procurement - N/A - Programmer 3",
       "location": "525 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
       "experience": {
         "experience": "8-50 years",
@@ -1093,751 +193,67 @@
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "05/29/26",
-        "date_posted": 1780012800000
+        "date_postedStr": "06/30/26",
+        "date_posted": 1782777600000
       },
-      "description": "We are hiring a Business Analyst for a long-term contract opportunity in Lansing, MI.\nHere is everything you need to know at a glance:\nLocation & Work Arrangement\n\nHybrid: 2 days on-site per week (Wednesdays & Thursdays are mandatory).\nLocation: Lansing, MI.\nRequirement: Must live in the state of Michigan (or relocate immediately at your own expense upon hire).\n\nInterview Process\n\nRound 1: 1-hour virtual interview (Technical & Experience screening).\nRound 2: 1-hour MANDATORY ON-SITE interview in Lansing, MI (Focused on leadership alignment and soft skills).\n\nPosition Pillars & Core Responsibilities\nThis role focuses on bridging the gap between high-level business strategy and technical execution. You will succeed if you excel in:\n\nExecutive Facilitation: Driving roadmaps and building consensus with senior leadership.\nAgile Product Delivery: Translating complex business needs into crisp technical execution.\nRegulatory Compliance: Navigating state/federal frameworks for public-use IT solutions.\n\nHighlighted Skills & Experience Required\n\nBusiness Process Review (7+ Years): Expert-level requirements elicitation, documentation, and process modeling.\nAgile Frameworks (5+ Years): Developing and managing user stories on live Agile projects.\nExecutive Presence (2+ Years): Working directly with senior management to facilitate strategy and resolve opposing viewpoints.\nContracts & SOWs (2+ Years): Supporting or managing compliance for Statements of Work/contracts.\nPublic IT Solutions (2+ Years): Implementing IT solutions designed for public use.\nRegulated Environments (1+ Year): Working under strict state or federal regulations.\n\n",
+      "description": "We are seeking a highly skilled and self-sufficient Programmer 3 to join a collaborative 10-member team. If you excel in modern web technologies, possess strong ownership, and thrive in an Agile environment, we want to hear from you!\nKey Details\n\nLocation: Lansing, MI\nWork Arrangement: Hybrid (Non-Negotiable) – 2 days per week in-office from day one. (Open to non-local candidates willing to relocate/commute from the start).\nPosition Type: 1-Year Contract with potential for extension.\n\nCore Technical Skills Required\nTo be successful in this position, you must have 6+ years of hands-on experience in:\n\nAngular Development\n.NET Technologies\nAzure DevOps\nCloud AWS Migration\nTest-Driven Development (TDD)\nProcess-oriented Agile Methodologies\n\nPreferred (Bonus) Skills\n\nExperience with Playwright (for integration testing)\nFamiliarity with PowerApps\n\nPosition Responsibilities\n\nCode, design, and maintain secure, reusable web and standalone applications.\nRemediate security vulnerabilities and mitigate application-level risks.\nCollaborate directly with stakeholders, participate in code reviews, and draft technical models.\nManage a small portfolio of contracts and oversee multiple batch job processes.\n\nInterview Process\n\nFormat: 30-minute virtual interview via MS Teams (Video required).\nRequirements: Candidates must join via a laptop, be prepared to share their screen, and participate in an initial identity validation check.\n\n \n",
       "closing": {
         "closing_date": "Open Until Filled",
-        "closing_dateStr": 1780012800000
+        "closing_dateStr": 1782777600000
       },
       "start": {
-        "start_date": "06/29/26",
-        "start_dateStr": 1782691200000
+        "start_date": "08/03/26",
+        "start_dateStr": 1785715200000
       },
       "end": {
-        "end_dateStr": "09/30/27",
-        "end_date": 1822262400000
+        "end_dateStr": null,
+        "end_date": null
       },
-      "salary": "55",
-      "remote": 2,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/XLnGjCziglqbQQCJya8J7h4w0LBU7jIaPulo5ONLqCs",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c-vo7PqgzIwo_4Le2nS8hLM="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c5q-YDBL1GHlmK6O_JQ9sY0=",
-      "title": "IA-DOM-DOIT-INTS4 Cloud/Platform/Systems Specialist",
-      "location": "200 E Grand Avenue | Des Moines, IA 50309",
-      "experience": {
-        "experience": "7-99 years",
-        "min_experience": "7"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
-      },
-      "description": "We are seeking AWS Solutions Architect to lead the modernization of critical IT infrastructure. You will bridge the gap between on-premises systems and AWS, ensuring a seamless, secure, and scalable hybrid environment.\nLocation: Des Moines, IA (200 E Grand Avenue)\nWork Arrangement: 100% Onsite\nInterview Process: Web Cam or In-Person (Scheduled for April 21–23)\nCore Requirements\n\nCitizenship: US Citizens Only (Required for Public Safety clearances).\nExperience: 5+ years in AWS Cloud and Systems Engineering.\nClearance: Ability to pass rigorous Level 1 & Level 2 background checks and fingerprinting.\n\nKey Technical Skills\n\nAWS Expertise: Advanced administration of EC2, VPC, IAM (RBAC), and S3.\nHybrid Infrastructure: Designing patterns where identity and application services function across both cloud and on-prem systems.\nMigration: Moving legacy systems to AWS and developing modernization roadmaps.\nAutomation & IaC: Defining patterns using Terraform and Ansible to automate deployments.\nFinOps: Strong understanding of AWS cost estimation, rightsizing, and lifecycle automation.\nSecurity & Compliance: Enforcing guardrails (Encryption, MFA) and producing audit-ready documentation.\nResiliency: Designing systems with no single point of failure; managing RTO/RPO for disaster recovery.\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779926400000
-      },
-      "start": {
-        "start_date": "05/18/26",
-        "start_dateStr": 1779062400000
-      },
-      "end": {
-        "end_dateStr": "06/30/26",
-        "end_date": 1782777600000
-      },
-      "salary": "70",
+      "salary": "43",
       "remote": 0,
-      "assigned_recruiter": ", , , , , , ",
+      "assigned_recruiter": ", , , ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/2sKw3GMr42hTxPmQYgI1kBqDHBM80pa0pAf_-QVYgGI",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c5q-YDBL1GHlmK6O_JQ9sY0="
+      "apply": "https://candidateportal.ceipal.com/job-details/rIvjMNFx-BHTptLT1ANBwmrAA6WivdvBoT9V9_EUxTc",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c8byC9ieXPhE3dXH9YsD25c="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c5rILHSgnbH_FV8f6iIbats=",
-      "title": "IN-DOH-Oral Health Educator",
-      "location": "2 N. Meridian St.\\nIndianapolis, IN 46204",
-      "experience": {
-        "experience": "0-30 years",
-        "min_experience": "0"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
-      },
-      "description": "We are looking for an Oral Health Educator to promote oral hygiene awareness across skilled nursing facilities, schools, early learning centers, and local community organizations.\nIn this role, you will bridge the gap between complex health information and the community, helping educators, patients, and families improve their oral health outcomes.\nPosition Details\n\nLocation: 2 N. Meridian St., Indianapolis, IN 46204.\nWork Arrangement: Hybrid (60% on-site / 40% remote).\nTravel: Approximately 30% in-state travel required.\nSchedule: 37.5 hours/week (variable days based on community needs).\nInterview Process: Initial interview via Microsoft Teams, with a mandatory in-person second interview.\n\nWhat You’ll Do\n\nDevelop & Deliver Training: Lead workshops and educational sessions for school nurses, educators, and nursing staff.\nCreate Resources: Design accessible materials like guides, checklists, videos, and digital content.\nCommunity Engagement: Support outreach events, health fairs, and public health campaigns.\nAdvocate: Promote the vital link between oral health and overall well-being for vulnerable populations.\nCollaborate: Partner with facility leadership and community stakeholders to implement oral health best practices.\n\nWhat You Bring\n\nEducation: Bachelor’s degree or certification in Dental Hygiene, Public Health, Education, or a related field.\nExperience: 1+ year in health education, training, or community outreach (school/healthcare settings preferred).\nExpertise: Strong knowledge of oral hygiene practices, preventative care, and behavior change techniques.\nCommunication: Exceptional presentation skills and the ability to simplify complex health information for diverse audiences.\nBonus Skills: Data management, program evaluation, or grant writing experience.\n\n",
-      "closing": {
-        "closing_date": "2026-05-04T23:59:00Z",
-        "closing_dateStr": 1779926400000
-      },
-      "start": {
-        "start_date": "05/18/26",
-        "start_dateStr": 1779062400000
-      },
-      "end": {
-        "end_dateStr": "01/01/27",
-        "end_date": 1798761600000
-      },
-      "salary": "32",
-      "remote": 2,
-      "assigned_recruiter": ", , , , , , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/Okkj_TqZk77YxYqVB5w3g7YtyVvDni3w63CSTCtSrbM",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c5rILHSgnbH_FV8f6iIbats="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c95Q62JoSDjgkakLZZWgDqc=",
-      "title": "DCS - Research/Data Analyst Senior",
-      "location": "270 Washington Street SE, Suite 5-181, Atlanta, GA 30334",
+      "id": "z5G7h3l6a1kMvyS65NP3c_AwOMrALINti9uD_9BQ2sk=",
+      "title": "GA DDS IT Support Specialist 3",
+      "location": "DDS Headquarters, 2206 Eastview Pkwy NE, Conyers, GA 30013",
       "experience": {
         "experience": "8-50 years",
         "min_experience": "8"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
+        "date_postedStr": "06/30/26",
+        "date_posted": 1782777600000
       },
-      "description": "We are seeking a Data Analyst to perform complex data analysis, trend identification, and reporting to support strategic decision-making. If you love extracting data, building dashboards, and turning complex datasets into actionable insights, we want to hear from you!\nRole Details\n\nPosition: Senior Research / Data Analyst\nLocation: Atlanta, GA (30334)\nWork Arrangement: Hybrid (Must be local or willing to relocate; required on-site Day 1 for equipment pickup and drug testing).\nInterview Process: On-Site Interview Required in Atlanta, GA.\n\nKey Skills & Requirements\nTo be successful in this position, you must have:\n\nSQL & Oracle Databases (5+ Years): Strong experience accessing, extracting, and cleaning primary data from large institutional databases.\nQueries & Report Writing (3+ Years): Proficient in writing complex queries and translating findings into clear, written reports for leadership.\nData Visualization (1+ Years): Hands-on experience creating interactive dashboards using Tableau.\nCriminal Justice Experience (2 Years): Experience working within the Criminal Justice field or specialized data management is highly desired.\n\nWhat You Will Do\n\nExtract and clean complex datasets using advanced SQL techniques.\nIdentify trends, discrepancies, and patterns to improve operational efficiency.\nBuild and maintain Tableau visualization dashboards.\nPresent research findings, metrics, and implications clearly to stakeholders.\n\nMinimum Qualifications\n\nBachelor’s Degree + 2 years in a lead/supervisory role OR Associate’s Degree + 4 years of related experience (2 of which in a lead role).\n",
+      "description": "We are seeking a highly skilled IT Support Specialist 3 to join our team in Metro Atlanta. This dynamic role is a hybrid of traditional IT support and cloud/automation operations, managing critical business applications and infrastructure.\n\nWork Arrangement: 100% Onsite\nLocation: Conyers, GA (Must be local to Metro Atlanta)\nInterview Mode: In-Person Only\n\nKey Technical Skills Required\nTo be considered for this position, candidates must possess strong experience in the following areas:\n1. Cloud & Automation\n\nAWS & Terraform: Minimum 2 years of hands-on experience using AWS CLI and Terraform for automation and environment provisioning.\nCloud Infrastructure: Ability to maintain, design, and optimize scalable, cost-efficient internal cloud applications.\n\n2. Systems & Networking\n\nActive Directory: 2+ years managing Active Directory, including DNS, DHCP, and Local/Group Policies.\nNetwork Troubleshooting: 3+ years resolving TCP/IP and basic network connectivity issues.\nHardware & OS: 2+ years installing, maintaining, and troubleshooting desktop hardware, Windows 10/11, Chrome boxes, and peripherals (scanners, network printers).\n\n3. Operations & Support\n\nServiceNow: 2+ years managing, triaging, and escalating tickets within ServiceNow.\nPeripherals & Specialized Equipment: Ability to learn and support specialized operational equipment (lobby management software, A/V systems, video conferencing, camera equipment).\n\nMinimum Qualifications & Requirements\n\nMandate: Professional certification is REQUIRED (e.g., CompTIA A+, Network+, Cloud+, or equivalent). You must be able to provide a copy of your certification upon submission.\nEducation & Experience: * Bachelor’s degree in IT/Computer Science + 3 years of related IT support experience OR\n\nAssociate/Vocational degree + 5 years of related IT support experience.\n\n\n\nCompetencies for Success\n\nExcellent communication and customer service skills to support end-users effectively.\nStrong incident triage, problem-solving skills, and a desire to continuously learn emerging IT technologies.\nProven ability to minimize system downtime and data leakage.\n",
       "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779926400000
+        "closing_date": "2026-07-08T23:59:00Z",
+        "closing_dateStr": 1782777600000
       },
       "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
+        "start_date": "07/20/26",
+        "start_dateStr": 1784505600000
       },
       "end": {
         "end_dateStr": "06/30/27",
         "end_date": 1814313600000
       },
-      "salary": "53.76",
-      "remote": 0,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/27LbEOWv-ZJZbp34G6D6VZ0tRDwN6_h80c6Q4u3Vzxg",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c95Q62JoSDjgkakLZZWgDqc="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c8sc3gZM06qN7O9DCTMFbnw=",
-      "title": "PennDOT - HDA3 A4 SC3 (Tier 1 Help Desk)",
-      "location": "Dauphin County",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
-      },
-      "description": "We are seeking a reliable, communication-focused Tier 1 Help Desk Analyst to join our team. This is a 100% phone-based operational role focused on delivering exceptional application support and password resets.\nNote: We can teach you the specific IT systems, but you must bring top-tier people skills, patience, and a great telephone manner!\nLocation: Harrisburg, PA 17104\nWork Arrangement: 100% Onsite (Telework every Friday!)\nInterview Process: 1-Hour In-Person Interview (Local candidates heavily preferred)\nKey Responsibilities\n\nProvide technical assistance, software support, and advice to end-users via phone.\nResolve password resets and account lockouts using Active Directory.\nDocument, track, and escalate technical issues using ticketing software.\nWalk non-technical users through basic troubleshooting steps with clarity and patience.\n\nImportant Skills & Qualifications (Must Have)\nTo be considered, your resume must clearly show 1+ years of experience in the following areas:\n\nIT Help Desk / Call Center: At least 1 year of experience handling high-volume phone support.\nActive Directory: Basic administration, including managing user accounts and security groups.\nOffice 365 & Windows: Strong skills troubleshooting O365 (permissions, calendar sharing, delegation) within a network environment.\nTicketing Systems: Practical experience using call tracking and ticketing software.\nCommunication: Exceptional verbal and written communication skills with a professional telephone etiquette.\n\nSchedule & Extra Details\n\nFull-time (40 hours/week).\nSaturday work (8 AM – 12 PM) is required only once a quarter (with a 2-week advance notice).\nIncludes a comprehensive 3-to-4-week training cycle upon starting.\n\n \n",
-      "closing": {
-        "closing_date": "2026-05-20T23:59:00Z",
-        "closing_dateStr": 1779926400000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "20",
-      "remote": 0,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/zlDt5dT4_ylkPnzl994DQ11u3ES05M4rEuv7vMUWb28",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c8sc3gZM06qN7O9DCTMFbnw="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cz8iUem3WnqHQ2xae35xtDE=",
-      "title": "IT - SCDHHS - Quality Assurance Analyst - Advanced",
-      "location": "1801 Main Street,Columbia,South Carolina,29201,UNITED STATES",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
-      },
-      "description": "We are seeking an Medicaid QA to serve as a system testing specialist on complex, change-oriented enrollment, eligibility, and claims processing systems. If you have a strong background in QA methodologies, automation, and healthcare data, we want to hear from you!\n\nLocation: Columbia, SC (Candidate must be a South Carolina resident or willing to relocate prior to starting at their own expense)\nWork Arrangement: Fully Onsite (5 days/week)\nInterview Process: 1 Round, Virtual/Online\nDress Code: Business Casual to Casual\n\nKey Responsibilities\n\nDevelop test plans, user acceptance testing (UAT) processes, and test cases based on business policies.\nPerform Smoke, System Integration (SIT), Negative, Usability, and End-to-End (E2E) testing.\nDesign, develop, and support user interface testing applications and regression testing automation scripts.\nReview, guide, and approve vendor unit and system integrated test plans/results.\n\nMust-Have Skills & Qualifications (Required)\n\n5+ years of dedicated experience in Quality Assurance & Quality Control.\n5+ years translating business requirements or policy documentation into test cases and scenarios.\n3+ years of hands-on experience with Sahi Pro or Selenium Automation Frameworks.\nDirect experience with formal test design techniques like Equivalence Class Partitioning and Pairwise Analysis.\nHands-on experience with test design tools like PICT or equivalent orthogonal-based tools.\nWorking knowledge of at least ONE of the following process areas: Spice, TPI, TMMI, or CMMI (OPF, OPD, PPQA).\nEducation: Bachelor’s degree in a technical, business, or healthcare field (or 5+ additional years of equivalent QA experience).\n\nHighly Valued Skills (Preferred)\n\n3+ years of Medicaid or Healthcare operations experience (deep knowledge of healthcare business processes).\nExperience with X.12 Standards and HIPAA EDI Transactions.\n5+ years of large enterprise or e-business systems experience.\nProficiency with JIRA and Confluence (Atlassian Suite).\nSolid background working in both Waterfall (SDLC) and Agile delivery environments.\n\n \n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779926400000
-      },
-      "start": {
-        "start_date": "06/30/26",
-        "start_dateStr": 1782777600000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "47",
-      "remote": 0,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/lAuu3BbAD9uyC8QeuIsqgEGydqE6v_Cf4KLu4F_573E",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cz8iUem3WnqHQ2xae35xtDE="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3czGYRpx_4qZgb18_a-EF024=",
-      "title": "OAG - System Administrator 3 - 2 Openings",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
-      },
-      "description": "We are looking for two experienced, process-oriented Systems Administrators to support a secure, stable, and high-performing hybrid IT environment. If you excel at server administration, identity management, and structured patch management, we want to hear from you!\nPosition Overview\n\nWork Location: Richmond, VA, USA, 23219\nWork Arrangement: 100% Onsite (EST Shift)\nMode of Interview: In-person\nCandidates: Local candidates strongly preferred\n\nKey Responsibilities\n\nInfrastructure: Administer Windows Server environments (on-premises & cloud), Active Directory, Group Policy, DNS, DHCP, and Microsoft 365 (Exchange Online, Entra ID).\nPatch & Vulnerability Management: Execute structured server patching, validate deployments, and track security compliance.\nSecurity & Compliance: Implement identity/access controls (MFA), assist with system hardening, and support security framework alignments.\nOperations: Provide Tier 2/3 infrastructure support, follow strict change management (CAB) processes, and administer backup/disaster recovery solutions.\n\nHighlighted Core Skills Required\nTo qualify for this role, candidates must possess the following minimum experience:\n\nWindows Server & AD Administration (5+ Years)\nOperating System Troubleshooting (5+ Years)\nGroup Policy, DNS, DHCP Management (3+ Years)\nMicrosoft 365 Administration (3+ Years)\nServer Patch Management & Alert Response (3+ Years)\nBackup & Recovery Administration (3+ Years)\nVirtualization (VMware and/or Hyper-V) (3+ Years)\nEntra ID / Azure AD Administration (2+ Years)\nPowerShell Scripting (2+ Years)\nChange Management & Incident Response (2+ Years)\nVulnerability Remediation & System Hardening (2+ Years)\nNIST or similar security framework exposure (2+ Years)\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779926400000
-      },
-      "start": {
-        "start_date": "05/22/26",
-        "start_dateStr": 1779408000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "35",
+      "salary": "25",
       "remote": 0,
       "assigned_recruiter": ", , , , , ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/vx8QdJmLim5HfgtAnllidMXLPO0V1m4N0YHRlE8EZfM",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3czGYRpx_4qZgb18_a-EF024="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c48cUbsr_T_4flO4tGXjLk0=",
-      "title": "IT - SCDHHS - Business Analyst - Intermediate",
-      "location": "1801 Main Street,Columbia,South Carolina,29201,UNITED STATES",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
-      },
-      "description": "We are seeking an adaptable, Business Data analyst to join a dynamic oversight team. If you thrive in fast-paced environments and love turning complex data into clear stories, this position is for you!\nLocation: Columbia, SC\nWork Arrangement: 100% Fully Onsite (Must be a South Carolina resident)\nInterview Process: 1 Round, Virtual/Online (Quick process!)\nThe Crux of the Position\nYou will gather program requirements, build tracking templates, and perform deep-dive data analysis (trends and outlier identification) on grievance, appeal, and compliance data. You will translate these findings into clear reports and visualizations for executive leadership.\nHighlighted Skills & Requirements\n\nTechnical Stack: Strong proficiency in SAS, Excel, and Python is required.\nCore Analytics: Background in research design, data manipulation, trend forecasting, and statistical modeling.\nIndustry Domain: Experience with federal or state health data systems (e.g., Medicaid, HHS, HRSA) is strongly preferred.\nSoft Skills: Superb communication skills to explain complex data to non-technical stakeholders; comfort handling ambiguous projects.\n\nEducation Requirement\n\nMaster’s Degree in Data Science, Public Health, Statistics, Health Informatics, or a related field is mandatory.\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779926400000
-      },
-      "start": {
-        "start_date": "06/23/26",
-        "start_dateStr": 1782172800000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "31",
-      "remote": 0,
-      "assigned_recruiter": ", , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/uVqJhdUAzqVEdF3A16lIPm3zwJnunjDptMuMn6rHwzA",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c48cUbsr_T_4flO4tGXjLk0="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cw7hrfewsu43_DtF_zyMYac=",
-      "title": "GDOT Technical Product Manager",
-      "location": "600 West Peachtree St. NW",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/26",
-        "date_posted": 1779840000000
-      },
-      "description": "We are seeking a Technical Product Manager (TPM) to bridge the gap between complex business workflows and technical engineering execution. Operating within an enterprise IT environment, you will be responsible for assessing specialized applications, platforms, and data product requests. This role requires a blend of business acumen and a deep understanding of technical architecture, system integrations, and data structures.\nLocation: Atlanta, GA (600 West Peachtree St. NW)\nWork Arrangement: Hybrid\nInterview Process: Webcam or In-Person (In-person preferred)\nShift: EST\nKey Responsibilities\n\nStakeholder Management: Act as the primary liaison between business units, executive leadership, and engineering teams to transform business requests into structured, prioritized product backlogs.\nTechnical Leadership & Governance: Collaborate with enterprise architects, security teams, and DBAs to evaluate technical feasibility, manage dependencies, and ensure features conform to security and regulatory compliance.\nBuy-vs-Build Analysis: Evaluate APIs, data integration plans, and existing software capabilities within the IT and transportation technology markets.\nDocumentation & Process Optimization: Enforce consistent documentation protocols for internal/external solutions and optimize the IT project intake process.\n\nWhat We Are Looking For (Core Skills)\n\nProduct / Technical Program Management: 4+ years of experience (ideally within a government agency, enterprise IT, or transportation technology ecosystem).\nTechnical Acumen: 2+ years of experience and familiarity with data pipelines, GIS/spatial data systems, cloud infrastructure (Azure/AWS), or enterprise service platforms (e.g., ServiceNow).\nVendor Management: 2+ years of experience overseeing outsourced or contractor-led software development efforts (highly desired).\n\n",
-      "closing": {
-        "closing_date": "2026-05-29T23:59:00Z",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "06/22/26",
-        "start_dateStr": 1782086400000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "60.89",
-      "remote": 2,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/Bb7Xy7KmGW2RkgXd--xInqgGWcovrXH-xK-4A-7a6ME",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cw7hrfewsu43_DtF_zyMYac="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c9AchoLP3Jaypvu4j4ZjPTM=",
-      "title": "DCS IT Business Analyst 3",
-      "location": "276 Memorial Dr SW, Atlanta, GA 30303",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/26",
-        "date_posted": 1779840000000
-      },
-      "description": "We are seeking a senior Business Analyst to serve as the strategic bridge between business units and technical teams. In this position, you will lead requirements gathering, system design, and process optimization for high-impact enterprise systems. We need a forward-thinking analyst who excels at traditional SDLC methodologies while leveraging modern AI productivity and UI/UX design tools.\nLocation: Atlanta, GA (30303)\nWork Arrangement: Hybrid\nInterview Process: In-Person Only (Must be a Georgia resident)\nHighlighted Core Skills (5+ Years Required)\nTo be successful in this position, your background must clearly reflect:\n\nRequirements Management: Leading workshops, writing detailed BRDs/FRDs, and creating user stories/use cases.\nUI/UX Prototyping: Hands-on experience using Figma for wireframing, mockups, and user journey mapping.\nAI & Productivity Tools: Experience with AI-assisted documentation and prompt engineering for requirement generation.\nData & Technical Literacy: Ability to run basic SQL queries, perform data mapping, and analyze system integrations.\nSDLC Methodologies: Deep familiarity with Agile, Scrum, and Waterfall frameworks.\nUser Enablement: Experience delivering end-user training and providing Tier-2/3 application support.\nStakeholder Management: Exceptional communication, negotiation, and cross-functional collaboration skills.\n\nQualifications\n\nEducation: Bachelor's degree in IT, Computer Science, Business Administration, or a related field.\nBonus Points: CBAP/PMI-PBA certification or experience acting as a proxy Product Owner/Scrum Master.\n\nImportant Application Notes\n\nLocal Candidates Only: You must currently reside in Georgia to be considered.\nOnsite Commitment: You must be comfortable with a hybrid work schedule and available for an in-person interview in Atlanta.\n\n",
-      "closing": {
-        "closing_date": "2026-05-22T17:00:00Z",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "06/24/27",
-        "end_date": 1813795200000
-      },
-      "salary": "46.45",
-      "remote": 2,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/oro35yGPKiwdHbbEtO9Wph77Yc0UISOznB0Sv_jX4to",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c9AchoLP3Jaypvu4j4ZjPTM="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cymqiNJ6jU7YtequLykDEnk=",
-      "title": "DBHDS - Project Manager 4 - Both Web & IN PERSON IVS Required",
-      "location": "1220 Bank Street, Richmond VA. 23219",
-      "experience": {
-        "experience": "8-99 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/26",
-        "date_posted": 1779840000000
-      },
-      "description": "We are looking for a Data Center Migration Project manager to spearhead a massive, multi-workstream network deployment for a brand-new facility.\n\nLocation: Richmond, VA (Local/Regional candidates preferred)\nWork Arrangement: Hybrid (On-site 1–2 days a week)\nInterview Process: Web Cam + Required In-Person Interview\n\nPosition Overview\nYou will lead the end-to-end planning, technical requirements gathering, and installation of complex network technology for a brand-new facility build-out. You will manage multiple workstreams, collaborate with senior IT leadership, and oversee teams to ensure a flawless operational transition.\nCore Position Requirements (Must-Haves)\nTo be considered for this role, your resume must explicitly show:\n\nActive PMP Certification is mandatory.\n10+ Years of overall Project Management experience.\n10+ Years of experience regularly engaging with Senior IT Leadership (CIO, CTO, etc.).\n3+ Years (Minimum 1 project) leading a physical IT Network Buildout for a New Facility. (Crucial: This must be detailed on your resume).\n3+ Years managing complex, multi-workstream technical projects.\nCompliance: Must be willing to obtain a standard state PM qualification within 2 weeks of starting (provided at no cost).\n\nHighly Desired Skills (Big Plus)\n\nExperience with Data Center Migrations.\nExperience with Facility IT Project Management & Relocations.\nFamiliarity with building or reviewing a Network Bill of Materials (BOM).\n\n",
-      "closing": {
-        "closing_date": "2026-05-22T23:59:00Z",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "06/01/26",
-        "start_dateStr": 1780272000000
-      },
-      "end": {
-        "end_dateStr": "12/04/26",
-        "end_date": 1796342400000
-      },
-      "salary": "78",
-      "remote": 2,
-      "assigned_recruiter": ", , , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/EQnOQ-r4SJogd0z7x247v8imUCKpoFSuYVHK4hYOZJs",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cymqiNJ6jU7YtequLykDEnk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c3z7RTnQV8vvMC02Dxy7p_Q=",
-      "title": "DOT - Network Engineer 3/NE3",
-      "location": "1980 West Broad Street  Columbus, Ohio 43223",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/26",
-        "date_posted": 1779840000000
-      },
-      "description": "We are seeking a hands-on Network Engineer to support a major infrastructure effort upgrading and replacing networking equipment for regional Intelligent Transportation Systems (ITS).\nPlease Note: This role involves both office-based configuration and field deployment. You will be working directly on network equipment located inside field cabinets along state highways, which requires working outdoors and near vehicular traffic in various weather conditions.\nLocation: Columbus, Ohio 43223\nWork Arrangement: Fully On-Site (5 days a week)\nEmployment Type: Long-term Contract (W2 / C2C)\nInterview Process: Strict In-Person Interview required in Columbus, OH\nCore & Mandatory Skills\nTo be considered, your resume must clearly reflect the following:\n\nNetwork & Server Expertise: 5+ years of hands-on experience installing, configuring, and upgrading network applications, switches, routers, and servers.\nCabling Specialist: 5+ years of direct experience with network cabling and fiber optic cabling (splicing, patching, and troubleshooting).\nActive Certification: Valid Cisco Certified Network Associate (CCNA) is required.\nEducation: 4-year college degree, equivalent technical study, or 5+ years of equivalent relevant experience.\n\nHighly Desired Skills (Big Plus)\n\nExperience with Ubiquity Wireless or Sierra Wireless equipment.\nFamiliarity with FortiSIEM for security monitoring.\nPrior experience working on outdoor infrastructure, telecom enclosures, or roadside telemetry.\n\nPosition Responsibilities\n\nIndependently configure, test, and deploy network hardware (Ethernet switches, routers, wireless bridges, firewalls, and access points).\nWork along highways within field cabinets to execute physical hardware replacements and network assessments.\nWrite clear technical documentation and collaborate with network architects to ensure compliance with infrastructure standards.\nAct as an escalation point for high-priority network support and troubleshooting issues.\n\n",
-      "closing": {
-        "closing_date": "2026-05-22T23:59:00Z",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "07/13/26",
-        "start_dateStr": 1783900800000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "42",
-      "remote": 0,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/3OtvOK7Z1UjSgRCCcNP5RImrkHz3Aj5KICIUsgMEs_M",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c3z7RTnQV8vvMC02Dxy7p_Q="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c9xIue-q-P1G6D0FZpmyOiI=",
-      "title": "VDOT Tolling Business Analyst 4",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are seeking a seasoned Functional Analyst to optimize business processes, bridge the gap between business needs and technical execution, and help drive the success of critical tolling technical assets.\nPosition Details:\n\nPosition: Tolling Business Analyst 4\nLocation: Mechanicsville, VA (Must be able to travel to Richmond, VA for equipment pickup and occasional meetings)\nWork Arrangement: Hybrid (Local candidates strongly preferred)\nInterview Process: Virtual via Webcam (Candidates must also be comfortable with an in-person interview if requested)\n\nKey Responsibilities:\n\nRequirement Elaboration: Translate complex business strategies into actionable Epics, Features, and User Stories.\nProcess Modeling: Create process flows, context diagrams, and data flow diagrams to map out \"as-is\" and \"to-be\" systems.\nBacklog Management: Partner with Product Owners to groom, organize, and maintain Product and Sprint backlogs using Scrum methodologies.\nTesting & UAT: Define test objectives, write test cases, execute regression testing, and facilitate User Acceptance Testing (UAT).\n\nWhat You Bring (Core Requirements):\n\nEnterprise Data: 8+ years of advanced understanding of enterprise data management concepts and tools.\nSystems Analysis: 8+ years of experience delivering high-quality business and systems analysis artifacts.\nAgile/Scrum Expertise: 5+ years of experience working as an Agile BA, managing backlogs, and writing acceptance criteria.\nBPM Tools & Documentation: Deep proficiency in Business Process Management (BPM) concepts, process modeling, and MS Visio.\nCommunication: Exceptional written and verbal communication skills to manage relationships between technical teams and executive stakeholders.\n\nPreferred (Bonus Points):\n\nExperience using Azure DevOps for agile work tracking.\nCertifications such as CBAP, PMI-PBA, or PMI-ACP.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "05/21/26",
-        "start_dateStr": 1779321600000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "53",
-      "remote": 0,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/bARlUQPtRSRNJxPRQY8qY2ulZwEvReTwgZOfyzG29qI",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c9xIue-q-P1G6D0FZpmyOiI="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cxSaLk8jKjI7DrlTajJLs1g=",
-      "title": "PUC: TAS2 A4 SC3 LT",
-      "location": "Dauphin County",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are seeking a detail-oriented Business Analyst to join our team in Harrisburg, PA. This role is critical for developing structured documentation and ensuring clear communication between stakeholders and technical teams.\nQuick Details\n\nLocation: Harrisburg, PA (100% Onsite)\nWork Arrangement: Onsite\nInterview Process: WebCam or In-person\nShift: EST\n\nKey Responsibilities\n\nDocumentation: Develop structured project governance documents, project charters, and Statements of Work (SOW).\nRequirements: Elicit, analyze, and document business and functional requirements.\nProcess Mapping: Create workflow diagrams for current-state and future-state business processes.\nTraceability: Maintain requirements traceability matrices to align design, testing, and delivery.\nTesting Support: Develop acceptance criteria and support User Acceptance Testing (UAT).\nCollaboration: Act as the bridge between technical teams and business stakeholders.\n\nTop Skills We’re Looking For\n\n3+ Years of experience in structured Business Analysis and Project Governance.\nExpertise in developing Statements of Work (SOW) and Project Charters.\nStrong experience in Requirements Elicitation and stakeholder management.\nProficiency in producing Use Cases, Functional Specifications, and Workflow Diagrams.\nExperience managing Documentation Repositories for audit readiness and knowledge management.\n\n \n",
-      "closing": {
-        "closing_date": "2026-05-07T23:59:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "05/25/26",
-        "start_dateStr": 1779667200000
-      },
-      "end": {
-        "end_dateStr": "06/30/26",
-        "end_date": 1782777600000
-      },
-      "salary": "45",
-      "remote": 0,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/XdCdXEiG0gsS3gGM46Vbhz4I6ayPNVinNJEcCwftG5A",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3cxSaLk8jKjI7DrlTajJLs1g="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c8oTbI0QWKeFSTeM9l--wlQ=",
-      "title": "VDOT ITD Planning PM PMP",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are seeking a senior-level PMP Certified Project manager to lead complex IT initiatives through the full project lifecycle. This role acts as a hands-on technical liaison between development staff and business groups to ensure the delivery of high-priority technology solutions.\nQuick Details\n\nLocation: Mechanicsville, VA\nWork Arrangement: Hybrid (2-3 days onsite per week)\nInterview Process: In-person preferred (Webcam option available)\nShift: EST\n\nKey Responsibilities\n\nFull Lifecycle Management: Lead projects through Initiation, Planning, Execution, and Closeout.\nTechnical Liaison: Translate business requirements into technical system specifications.\nVendor Management: Collaborate with external consultants and contractors.\nGovernance: Adhere to strict project management standards and reporting metrics.\nDocumentation: Facilitate design workshops and ensure robust test plans/use cases.\n\nRequired Skills & Qualifications\n\nCertification (Non-Negotiable): Active PMP (from PMI) or State-level PM Certification.\nExperience: Minimum 15 years of total Project Management experience.\nMethodologies: Expert proficiency in both Agile and Waterfall environments.\nTools: Advanced mastery of Microsoft Project, Excel, and SharePoint.\nTechnical Literacy: Strong understanding of the Software Development Life Cycle (SDLC) and data modeling.\nCommunication: Proven ability to communicate complex timelines and risks to executive leadership and technical teams.\n\nPreferred Skills\n\nAgile Scrum Master Certification.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "05/07/26",
-        "start_dateStr": 1778112000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "64",
-      "remote": 2,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/yPI-goxgF5Mpwh8ZElnM-JYFim7Lxbfd9CSm_XGiN1w",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c8oTbI0QWKeFSTeM9l--wlQ="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c-GY20iMNp1a1fMh8DklO9E=",
-      "title": "DBHDS - ERP Analyst 3",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are seeking a senior Oracle Cloud Fusion analyst to support an ongoing Phase 2 Oracle Cloud implementation, post-go-live stabilization, and hypercare activities. You will sit at the intersection of Finance, Supply Chain, and Quality Assurance—validating configurations, triaging system issues, and leading comprehensive regression testing for quarterly releases.\nQuick Details\n\nLocation: Richmond, VA\nWork Arrangement: 100% Remote (Must be able to pick up IT equipment in person if requested)\nInterview Process: Webcam / Remote (In-person interview highly preferred)\nShift: EST\n\nCore & Mandatory Skills\nTo be considered, your resume must clearly show 5+ years of experience in the following areas:\n\nOracle Fusion Cloud ERP & SCM: Deep hands-on experience, specifically with Inventory Management modules.\nOracle Enterprise Performance Management (EPM): Solid understanding of Planning, Budgeting, Forecasting, and Cost Reporting.\nRigorous Regression Testing: Expert-level experience creating, maintaining, and executing highly detailed test scripts and coordinating User Acceptance Testing (UAT).\nHypercare & Stabilization: Proven track record supporting large-scale ERP implementations immediately following go-live.\nOracle Quarterly Release Management: Minimum of 3 years managing and testing Oracle Cloud quarterly patches.\n\nHighly Desired Skills (Strong Plus)\n\nOracle Reporting Tools: 4+ years of experience with OTBI, BI Publisher, and Smart View.\nData Analysis & SQL: 3+ years writing SQL queries for data validation and financial reconciliation.\nPlatform Security: Strong knowledge of Oracle Fusion security roles and workflow approvals.\nPublic Sector or highly regulated environment experience is a plus!\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "05/18/26",
-        "start_dateStr": 1779062400000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "66",
-      "remote": 1,
-      "assigned_recruiter": ", , , , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/zUQDZyMB47QZ1t-23hDh4jkRMXNeRFDTiYY08r2id7Y",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c-GY20iMNp1a1fMh8DklO9E="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7uB4P98hMwaF-B7ShicmWo=",
-      "title": "L&I: Azure DevOps Engineer & Administrator",
-      "location": "Dauphin County",
-      "experience": {
-        "experience": "8-50 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are seeking a proactive Azure DevOps Engineer & Administrator to help support mission-critical systems and drive secure cloud modernization initiatives.\nIf you are a platform administrator who thrives on CI/CD automation, IaC, and secure cloud operations, we want to hear from you!\nPosition Details\n\nLocation: Harrisburg, PA (Dauphin County, 17101)\nWork Arrangement: Part-Time Hybrid Telework\n\nMonths 1–3: 2 days/week in-office (Wednesday & Thursday).\nMonth 4 onwards: 1 day/month in-office (First Wednesday of each month).\n\n\nSchedule: Full-time, 40 hours/week (Monday – Friday, 8:30 AM – 5:00 PM EST).\nInterview Process: 1st Round via MS Teams Potential final In-Person interview in Harrisburg, PA.\n\nCore Responsibilities\n\nDual-Platform Admin: Administer and optimize Azure DevOps Services and GitHub Enterprise (managing RBAC, SSO, repositories, and branch policies).\nPipeline Engineering: Design and maintain secure, automated YAML-based CI/CD pipelines in both Azure Pipelines and GitHub Actions.\nCloud Integration: Connect pipelines with Azure cloud services (AKS, App Services, Functions, Key Vault, SQL).\nGovernance & Mentorship: Enforce cloud security compliance, document standards, and guide development teams on DevOps best practices and GitHub Copilot.\n\nKey Requirements & Skills\nMandatory Skills:\n\n5+ Years of experience in Azure DevOps as both a Developer and an Administrator.\nDeep hands-on experience administering GitHub Enterprise (Cloud or Server).\nStrong expertise in YAML pipelines, Git branching strategies, and CI/CD best practices.\nSolid understanding of Infrastructure as Code (IaC) using Terraform, Bicep, or ARM templates.\nProficient with scripting languages like PowerShell.\nExperience supporting cloud environments within regulated, policy-driven, or compliance-heavy settings.\n\nHighly Desired (Big Plus):\n\nMicrosoft Certifications (AZ-400, AZ-104, or AZ-305).\nGitHub Certifications (Foundations, Actions, or Administration).\nExperience with Azure Monitor, App Insights, and Log Analytics.\nBackground in .NET, Java, or Node.js ecosystems.\n\nImportant Compliance Notes\n\nCandidates must currently reside in or be willing to commute to Harrisburg, PA for hybrid days.\nA secure, high-speed internet connection is required for remote work days.\nStrict Security Rule: Government equipment and data cannot be taken or accessed outside the Continental United States (CONUS) under any circumstances.\n\n",
-      "closing": {
-        "closing_date": "2026-05-28T23:59:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "07/08/26",
-        "start_dateStr": 1783468800000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "47",
-      "remote": 2,
-      "assigned_recruiter": ", , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/m6cTZnUVUvY4Iy-qHVLQGwcdEQ_r3nEjofr9-AmnR68",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c7uB4P98hMwaF-B7ShicmWo="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7QDD_4d2kG1VYeUuLuWEiI=",
-      "title": "VDOT Tolling Solutions Architect 4",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are looking for a Solutions Architect to drive the design, implementation, and evolution of our enterprise solutions.\nPosition Details\n\nLocation: Mechanicsville, VA 23116\nWork Arrangement: Hybrid (Mostly remote, up to 1 day/week onsite for meetings)\nInterview Process: Virtual (Webcam required)\n\nCore Responsibilities\n\nDesign & Integration: Create end-to-end conceptual, logical, and physical system designs, sequence diagrams, and data models for enterprise and COTS solutions.\nCloud Architecture: Define topologies for on-prem, hybrid, and cloud environments.\nStrategy & Security: Implement enterprise security patterns and collaborate with cross-functional teams to build technical roadmaps.\nCollaboration: Translate complex business requirements into scalable, automated technology solutions within an Agile environment.\n\nKey Skills & Qualifications\nTo be successful in this position, your background must clearly reflect:\n\n8+ Years of Enterprise-level Application Design & Integration\n8+ Years of Azure Cloud Architecture (Cloud-native & Hybrid topologies)\n8+ Years of SaaS (Software as a Service) Architecture\n8+ Years of Integration Architecture working inside Agile/Scrum/SAFe teams\nTechnical Protocols: Strong proficiency with APIs (REST, SOAP), XML constructs, schemas, and relational database design.\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "05/20/26",
-        "start_dateStr": 1779235200000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "81",
-      "remote": 1,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/0yIR6Tbpg2N8Q6mzc_4GjgfVNnLlyJCANJnAi9_XhD8",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c7QDD_4d2kG1VYeUuLuWEiI="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7V-8hye3tN5m5UjvKBxhQg=",
-      "title": "EDU - Programmer 5",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are looking for a seasoned Full Stack .NET Developer to join our team. If you have a deep background in the Microsoft ecosystem and love building scalable cloud solutions, we want to hear from you!\nThe Role at a Glance\n\nWork Arrangement: 100% Remote\nLocation: Remote (Priority consideration for Ohio-based candidates)\nShift: EST Hours\nInterview Process: Remote or In-Person\n\nWhat You’ll Do\n\nDevelop (60%): Build high-performance User Interfaces and APIs using .NET Core, Angular, and C#.\nMaintain (20%): Debug and optimize existing codebases.\nCollaborate & Test (20%): Participate in Agile design sessions and ensure code quality through TDD and automated testing.\n\nTechnical Must-Haves\nBackend & Cloud:\n\n10+ Years: .NET Development (C#) & Relational Databases (MS SQL/Oracle).\n3+ Years: .NET Core (1.0/2.0 and above).\n2+ Years: Microsoft Azure (Azure Functions, Azure Batch, WebJobs).\n2+ Years: Azure DevOps & CI/CD Pipeline management.\n\nFrontend & UI:\n\n2+ Years: Angular 14.0+ (TypeScript, Bootstrap, Jasmine/Karma).\n5+ Years: General Web UI (JavaScript, jQuery, Ajax, MVC).\n\nMethodology & Tools:\n\nORM: 6+ years with Entity Framework.\nProcess: 4+ years of Agile Development (TFS).\nTesting: 3+ years of Test-Driven Development (TDD).\n\nCompliance Requirements\n\nBackground: Must complete a BCI fingerprint background check prior to start.\nEquipment: Must work within the United States (Government equipment cannot be taken/used outside the US).\n\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "05/12/26",
-        "start_dateStr": 1778544000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "53",
-      "remote": 1,
-      "assigned_recruiter": ", , , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/llsO477UXFFamierNLRDtOypHDM-d3d-DyiWTIIIOMI",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c7V-8hye3tN5m5UjvKBxhQg="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c-wC4EBU30WKIw3YZM6pvMo=",
-      "title": "OAG - Network Engineer 3",
-      "location": "",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are seeking a hands-on, technically proficient Network Engineer to support and maintain a secure, stable, and high-performing enterprise hybrid network infrastructure. If you thrive in a structured environment and excel at routing, switching, and firewall management, we want to hear from you!\nQuick Overview\n\nPosition: Network Engineer 3\nWork Arrangement: 100% Onsite\nLocation: Richmond, VA, 23219 (Local candidates strongly preferred)\nInterview Process: In-Person Interview Required\nShift: EST (Office hours, with occasional after-hours maintenance)\n\nCore Responsibilities\n\nInfrastructure Management: Administer enterprise routing, switching, LAN/WAN, wireless infrastructure, and hybrid MPLS / SD-WAN connectivity.\nSecurity & Firewalls: Configure and maintain firewalls, VPN solutions, network segmentation, and secure remote access.\nOperations & Monitoring: Monitor network health, troubleshoot circuit/connectivity issues, conduct root-cause analysis, and execute changes through structured change management processes.\nCollaboration: Coordinate with telecom carriers, vendor support, and cross-functional infrastructure and security teams.\n\nMust-Have Skills & Experience\nTo be successful in this position, your background should include:\n\nRouting, Switching & TCP/IP: 5+ years of enterprise experience.\nFirewall Administration & LAN/WAN Support: 4+ years of hands-on experience.\nCisco Networking Technologies: 4+ years of technical experience (CCNA/CCNP preferred).\nVLAN, VPN, & Wireless Administration: 3+ years of experience.\nSD-WAN Support & Network Resiliency: 2+ years of experience.\nNetwork Monitoring & Troubleshooting: Deep familiarity with performance analysis and network monitoring tools.\n\nNice-to-Have Skills\n\nExperience working in government or highly regulated environments.\nFamiliarity with network security frameworks (e.g., NIST).\n",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "05/21/26",
-        "start_dateStr": 1779321600000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "40",
-      "remote": 0,
-      "assigned_recruiter": ", , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/YmJQCRMsDQcOGg89clAaLSrWthv8an-_4eV4ojb3fYo",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c-wC4EBU30WKIw3YZM6pvMo="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c0P73ymDLzL3BuPgzk9ltxw=",
-      "title": "DOAS HCM Training Specialist",
-      "location": "200 Piedmont Ave SE, Suite 1804 West Tower, Atlanta, GA 30334",
-      "experience": {
-        "experience": "5-50 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "We are seeking four dynamic, tech-savvy Workday HCM Trainer to lead the rollout of a new state-wide Workday platform. This is a high-visibility role focused on transforming Talent Acquisition and Performance Management processes through expert-led training and data analysis.\nQuick Details\n\nLocation: Atlanta, GA (30334)\nWork Arrangement: Hybrid (Remote flexibility with some required days in office)\nInterview Process: Web Cam or In-Person\n\n \nCore Responsibilities\n\nDeliver Training: Lead virtual and in-person sessions on the new Workday-based HR system.\nOptimize Recruiting: Partner with recruiters to streamline hiring, internship programs, and talent pool management.\nCreate Content: Develop and maintain training manuals, digital resources, and exams.\nData Analysis: Analyze system-related data to create graphic reports and presentations for leadership.\nLMS Support: Manage learning paths and enrollments within the Learning Management System.\n\n \nImportant Skills & Qualifications\nThe \"Must-Haves\":\n\n2+ Years of Training Delivery: Proven experience in classroom, virtual, and multimedia instruction.\n3+ Years of HR Experience: Deep understanding of the recruitment lifecycle and performance management.\nTech Proficiency: Expert level in MS Office (Excel & PowerPoint) and an aptitude for learning new HRIS software.\nCommunication: Ability to explain complex system processes to audiences at all levels.\n\nThe \"Nice-to-Haves\" (Preferred):\n\nWorkday Experience: Previous experience with Workday modules (Core HCM, Recruiting, or Talent).\nHRIS Implementation: Experience training users during a large-scale system transition.\n\n \n",
-      "closing": {
-        "closing_date": "2026-05-11T23:59:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "06/15/26",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "06/30/27",
-        "end_date": 1814313600000
-      },
-      "salary": "40",
-      "remote": 0,
-      "assigned_recruiter": ", , , , , , , , ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/xxwptOt588up8rRqFQuVpCLIFoG37C0ed2VkZj7X-T8",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c0P73ymDLzL3BuPgzk9ltxw="
+      "apply": "https://candidateportal.ceipal.com/job-details/soEEi5KFkIbv15sxiBqlpOM6R3lvGpY_qyFGS5E50Qw",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=dU1aS01yMUw3TlcybkZyWjRPajRyQT09&job_id=z5G7h3l6a1kMvyS65NP3c_AwOMrALINti9uD_9BQ2sk="
     }
   ]
 }

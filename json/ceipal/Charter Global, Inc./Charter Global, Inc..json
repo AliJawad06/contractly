@@ -1,295 +1,151 @@
 {
   "company": "Charter Global, Inc.",
-  "scrape_date": "2026-06-02T22:16:26.971495",
-  "total_jobs": 8,
+  "scrape_date": "2026-07-02T07:42:32.394247",
+  "total_jobs": 4,
   "jobs": [
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c1aTjI3TXUH-V0cZaz-QaQE=",
-      "title": "Senior Java Developer",
+      "id": "z5G7h3l6a1kMvyS65NP3c3u5uOphYNW_MR7QbeljqZA=",
+      "title": "Senior Cyber Security Engineer – 49965 / 49973",
       "location": "",
       "experience": {
-        "experience": "7-10 years",
-        "min_experience": "7"
+        "experience": "5-8 years",
+        "min_experience": "5"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "05/30/26",
-        "date_posted": 1780099200000
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
       },
-      "description": "esponsibilities\n\nDesign, develop, and maintain enterprise-grade applications using Java 17+ and Spring Boot\nBuild and optimize RESTful APIs and microservices for high availability and performance\nCollaborate with front-end teams to integrate solutions with modern UI frameworks\nLead technical discussions, conduct code reviews, and ensure best coding practices\nImplement and monitor CI/CD pipelines for seamless deployments\nDeploy and manage applications in cloud environments (AWS/Azure/GCP)\nWork with databases, caching, and messaging systems to ensure efficient data processing\nTroubleshoot, debug, and resolve production issues proactively\nMentor and support junior developers in the team\n\nRequirements\n\n7+ years of experience in Java development with strong knowledge of Java 17+\nHands-on experience with Windsurf tool forefficient automation and project execution.\nExperience in creating automated test cases using JUnit to support continuous integration and delivery.\nProficiency in Spring Boot, microservices architecture, and REST API development\nHands-on experience with UI technologies including React.js / Angular / Node.js, along with strong fundamentals in HTML, CSS, and JavaScript.\nExposure to Golang is a plus.\nFamiliarity with cloud platforms (AWS) and containerization tools (Docker, Kubernetes)\nGood knowledge of databases (SQL & NoSQL)\nExperience with messaging systems like ActiveMQ / Kafka.\nExperience with CI/CD pipelines and version control systems (Git)\nStrong problem-solving, analytical, and communication skills\n\nAbility to mentor, collaborate, and work in an agile environment",
+      "description": "Job Description, Day to Day, Education, Certification, etc.:\n\nPURPOSE: \n\r\nDevelops and implements security solutions. Administers security technology systems by architecting and engineering/developing trusted systems into secure systems. Assists in the development of implementation and deployment plans that are aligned to the organizational strategic plan objectives and security requirements. Advises management in developing cybersecurity policies, processes, and procedures. \n \nESSENTIAL FUNCTIONS:\n\r\n20% Assists with day-to-day support of security solutions. \n \n20% Assists with engineering support and system administration of specialized cybersecurity solutions.\n \n15% Solves complex problems and answers routine questions about the installation, operation, configuration, and customization of cybersecurity software. \n \n15% Identifies potential conflicts with the implementation of any cybersecurity solutions. \n \n10% Answers routine questions about the installation, operation, configuration, and customization of cybersecurity solutions. \n \n10% Reviews and analyzes appropriate cybersecurity solution system logs for performance and functional anomalies.\n \n10% Works with system design architects and project managers to provide security requirements. \n \nQualifications\n\nEducation Level: Bachelor's Degree\n\nEducation Details: Computer Science, Information Technology, or related field\n\nExperience: 5 plus years relevant IT security experience\n \nIn Lieu of Education\r\nIn lieu of a bachelor's degree, an additional 4 years of relevant work experience is required in addition to the required work experience.\n \nPreferred Qualifications\n\nSenior Cybersecurity Engineer\n\r\n• Strong hands-on experience in Application security, secure SDLC, DevSecOps , Cloud Security and vulnerability management.\n\r\n• Deep understanding of OWASP top 10, API security top 10, common vulnerability classes, secure coding practices, and modern exploit techniques.\n\r\n• Hands-on experience with security testing tools and techniques, including SAST, DAST, IAST, SCA, manual penetration testing, secure code review, and threat modeling.\n\r\n• Extensive experience with CNAPP, CSPM, KSPM, CWPP or cloud native security platforms, preferably tools such as Wiz, CrowdStrike or similar solutions.\n\r\n• Hands-on experience securing cloud environments, preferable AWS, including services such as IAM, EC2, S3, Lamda, EKS, CloudTrail, Security Hub, Guard Duty, or similar services.\n\r\n• Deep knowledge of Kubernetes and container security, including Amazon EKS, pod security, RBAC, network policies, image security, runtime security, and container hardening best practices.\n\r\n• Direct experience mapping application and cloud native controls to frameworks such as NIST CSF, NIST 800-53, ISO 27001, SOC2, CIS Benchmarks, MITRE ATT&CK or similar frameworks.\n\r\n• Strong working knowledge of CI/CD platforms, DevOps toolchain and secure pipeline practices, including building security, artifact management, secrets protection, and code signing.\n\r\n• Experience working directly with development teams to explain security findings, recommend practical remediation and validation fixes.\n\r\n• Hands-on experience securing AWS cloud environments, including strong understanding of IAM, networking, logging, monitoring, encryption, workload security, and cloud security posture management.\n\r\n• Experience with infrastructure-as-code and policy-as-code practices using tools such as Terraform, Helm, CloudFormation’s, Rego/OPA or similar technologies.\n\r\n• Strong written and verbal communication skills, with the ability to translate complex technical risks into clear recommendations for developers, architects, leadership and governance stakeholders. \n\r\n• Security certifications such as CISSP, AWS certified Security-specialty, CISA, GWEB or similar credentials are preferred.\n \nLicenses/Certifications\n\r\nCISSP Certified Information Systems Security Professional Upon Hire Req or\n\r\nCISM - Certified Information Security Manager Upon Hire Req or\n\r\nCertified Ethical Hacker (CEH) Upon Hire Req or\n\r\nCertified Information Systems Auditor (CISA) Upon Hire Req\n \n",
       "closing": {
-        "closing_date": "2026-08-27T22:00:00Z",
-        "closing_dateStr": 1780099200000
+        "closing_date": "2026-07-15T10:00:00Z",
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "05/30/26",
-        "start_dateStr": 1780099200000
+        "start_date": "08/03/26",
+        "start_dateStr": 1785715200000
       },
       "end": {
-        "end_dateStr": "08/31/26",
-        "end_date": 1788134400000
+        "end_dateStr": "02/03/27",
+        "end_date": 1801612800000
       },
-      "salary": "1200000",
-      "remote": 0,
-      "assigned_recruiter": ", , ",
+      "salary": "",
+      "remote": 2,
+      "assigned_recruiter": ", ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/z3u55TrNsRRbHAlv7-t0S-IcNE24cPNkne2AIpmb6oY",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1aTjI3TXUH-V0cZaz-QaQE="
+      "apply": "https://candidateportal.ceipal.com/job-details/0G3LAwG5pzGlOxIAoaGsmvzJYoi-wN3MUdLCX0L57OI",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c3u5uOphYNW_MR7QbeljqZA="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c6ciqyGBkO1fDyhIgRH_Vac=",
-      "title": "Sourcing Analyst (49474)",
+      "id": "z5G7h3l6a1kMvyS65NP3cxL2BJLmSNKCWDvaF-AhRlo=",
+      "title": "AI Platform Engineer – 50092",
       "location": "",
       "experience": {
-        "experience": "1-5 years",
+        "experience": "3-5 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "Job Title:        AI Platform Engineer\nLocation:        Reston, VA (Remote Job)\nDuration:        6-12 Months+\n \n \nRole Summary\r\nThe AI Platform Engineer translates AI reference architectures into secure, scalable cloud configurations that enable development teams to build and operate AI solutions in a regulated healthcare environment. Reporting into the AI Platform team and working closely with the Lead AI Platforms (Domain Architect), this role operationalizes platform standards, automates guardrails, and ensures every AI workload deployed meets enterprise security, compliance, and governance requirements.\n \nKey Responsibilities\nPlatform Engineering & Cloud Configuration\r\n• Convert approved AI reference architectures into deployable cloud configurations across Azure, MuleSoft, and Salesforce Agentforce, using infrastructure-as-code (Terraform, Bicep, ARM) and CI/CD pipelines.\r\n• Build and maintain reusable platform components, modules, and landing zones that accelerate AI solution delivery across product teams.\r\n• Configure and operate core AI platform services (e.g., Azure OpenAI, Azure AI Foundry, AI Search, MuleSoft integration layers, Salesforce Agentforce agents, Antrhopic, OpenAI) in alignment with enterprise architecture standards.\r\n• Implement environment promotion patterns (dev → test → prod), secrets management, and observability tooling for AI workloads.\n\nGovernance & Guardrails Enablement\r\n• Translate AI governance policies (risk tiering, model approval, PHI/PII handling, audit logging) into enforceable technical controls — policy-as-code, Azure Policy, RBAC, network isolation, and data egress restrictions.\r\n• Implement controls that enforce HIPAA, CMS, and internal compliance requirements for AI solutions, including Zero Data Retention configurations, audit log integration, and prompt/response logging where required.\r\n• Partner with the AI Governance Lead and Coordinator to ensure platform configurations match documented governance posture and are audit-ready.\r\n• Configure model gateways, content safety filters, bias/PII safeguards, and usage telemetry to support responsible AI operations at scale.\n \n \nRequired Qualifications\r\n• Bachelor's degree in Computer Science, Engineering, or related field; equivalent experience considered.\r\n• 5+ years of cloud platform engineering experience, with 2+ years focused on Azure (or comparable hyperscaler).\r\n• Hands-on experience with infrastructure-as-code (Terraform/Bicep), CI/CD pipelines (Azure DevOps, GitHub Actions), and policy-as-code frameworks.\r\n• Working knowledge of AI/ML platform services — Azure OpenAI, AI Foundry, vector databases, model gateways, or equivalent.\r\n• Experience implementing technical controls for regulated data environments (HIPAA, PCI, or similar).\r\n• Strong understanding of identity, networking, encryption, and secrets management patterns in the cloud.\n \n \n \n \n#LI-MK1\n",
+      "closing": {
+        "closing_date": "2026-07-15T10:00:00Z",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "08/03/26",
+        "start_dateStr": 1785715200000
+      },
+      "end": {
+        "end_dateStr": "02/03/27",
+        "end_date": 1801612800000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/57vnYZBp0G_F2scVfA3nVjL2GxHruQGFDQc4AQ9_y88",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cxL2BJLmSNKCWDvaF-AhRlo="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c3AkYoGSP36C3rXYR6EoGmQ=",
+      "title": "AI Governance Coordinator – 50091",
+      "location": "",
+      "experience": {
+        "experience": "3-5 years",
+        "min_experience": "3"
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "07/01/26",
+        "date_posted": 1782864000000
+      },
+      "description": "Job Title:      AI Governance Coordinator\nLocation:      Reston, VA (Remote Job)\nDuration:      6-12 Months+\n \n \nRole Summary\r\nThe AI Governance Coordinator supports the AI Governance Lead in operationalizing the enterprise AI governance program — managing the use case registry, executing risk assessments, coordinating mitigation follow-ups, and supporting audit and regulatory readiness. This role is the operational engine of the governance function, ensuring that AI use cases are properly intake, risk-rated, documented, and tracked through their lifecycle. The Coordinator will play a central role in supporting the AI governance platform and executing gap closure activities identified through internal and third-party assessments.\n \n \nRequired Qualifications\r\n• Bachelor's degree in Business, Information Systems, Risk Management, or a related field; equivalent experience considered.\r\n• 3–5 years of experience as a business analyst, governance analyst, or risk/compliance analyst in a regulated industry.\r\n• Demonstrated experience reviewing and supporting one or more of the following: AI use cases, risk assessments, incident reporting, third-party risk assessments, information security assessments, risk and control self-assessments (RCSAs), or privacy risk assessments.\r\n• Strong communication and collaboration skills, with proven experience working alongside control function partners (Risk, Compliance, Privacy, Information Security).\r\n• Excellent writing skills — able to draft clear, audit-ready communications, mitigation plans, follow-ups, and process documentation.\r\n \nPreferred Qualifications\r\n• Direct AI governance or AI risk management experience highly desirable.\r\n• Familiarity with AI governance frameworks (NIST AI RMF, ISO 42001) and healthcare regulatory requirements (HIPAA, CMS).\r\n• Experience with governance, risk, and compliance (GRC) tooling — AI governance platform experience (e.g., AlignmtAI) a strong plus.\r\n• Healthcare payer or other highly regulated industry experience preferred.\r\n• Experience supporting audit, regulator, or third-party assurance engagements.\n \n \n#LI-MK1\n",
+      "closing": {
+        "closing_date": "2026-07-15T10:00:00Z",
+        "closing_dateStr": 1782864000000
+      },
+      "start": {
+        "start_date": "08/03/26",
+        "start_dateStr": 1785715200000
+      },
+      "end": {
+        "end_dateStr": "02/03/27",
+        "end_date": 1801612800000
+      },
+      "salary": "",
+      "remote": 1,
+      "assigned_recruiter": ", ",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/BX05q8trwXDQ4nuwv0Z_cs6kGkiMuub3wEJfH1tN9nc",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c3AkYoGSP36C3rXYR6EoGmQ="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c4k0WR7Yf5ndm3JlXRWsl2M=",
+      "title": "Claims Adjuster – 49210-1",
+      "location": "",
+      "experience": {
+        "experience": "1-3 years",
         "min_experience": "1"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "05/27/26",
-        "date_posted": 1779840000000
+        "date_postedStr": "06/30/26",
+        "date_posted": 1782777600000
       },
-      "description": "\nTitle:                Sourcing Analyst\r\nDuration:        12 Months+\r\nLocation:         Fairfax, VA (Remote Job)\nDuties and Responsibilities\r\n• Owns execution of sourcing events from intake through contract execution, ensuring timelines, quality, and documentation standards are consistently met.\n \nLead Stakeholder Engagement and Sourcing Initiatives:\r\n• Collaborates with business stakeholders and procurement management to determine sourcing category strategy.\r\n• Responsible for working with business stakeholders and procurement management to frame and develop project objectives, requirements, and sourcing strategy prior to supplier engagement.\r\n• Drafts and leads the applicable sourcing process through scoring and completion (e.g. RFx, sole source, etc.).\r\n• Acts as primary contact with potential suppliers during the RFx, selection, and negotiation process.\r\n• Leads supplier negotiations throughout RFx and contracting process to achieve optimal savings, value, and risk profile.\n \nNegotiate and Draft Contracts:\r\n• Implements the sourcing strategy and negotiation and redlining process with the supplier to draft contracts that accurately capture business, technical, and legal requirements (including contractual and purchase order documentation).\r\n• Acts as liaison with business owner and supplier during negotiations.\r\n• Works closely with legal and risk groups to ensure consistent communication and socialization of significant legal and risk issues throughout the negotiation process.\r\n• Interacts routinely with legal and business owner to resolve issues.\r\n• Responsible for the preparation and submission of documentation for consent from the Federal Government (as applicable).\r\n• Ensures and adheres to corporate purchasing policy directives and Federal Government regulations.\r\n• Ensures compliance with contractual requirements for Federal Employee Program and other state and local contracts specifically related to MBE/WBE requirements and reporting.\r\n• Consolidates requirements and coordinates with management to determine the most suitable method of purchase such as spot purchase orders, contracts, blanket orders and supplier stocking arrangements.\n \nSupplier Management:\r\n• Ensures procurement process is followed and all documentation is complete and accessible in the Ariba source to pay system.\r\n• Analyzes and compares service and/or product offerings and specifications, investigates future renewal requirements and options, and resolves contract and invoice discrepancies.\r\n• Manages existing contracts to anticipate and prepare for ongoing renewals.\r\n• Provides other services related to the sourcing, contracting, and supplier management function as required.\n \n \n \n#LI-MK1\n\n",
+      "description": "Job Title: Claims Adjuster\nLocation: Baltimore, MD (Remote Job)\nDuration: 6 Months+\n \nLooking for candidates from either DC, MD or VA\n \nPURPOSE: \r\nInvestigate and perform adjustment of claims and ensure that claims are handled properly within authority limits, and in line with standard procedures and guidelines. Verifies insurance claims by reviewing claims requirements; examining documentation and calculations; highlighting and summarizing out-of-line situations; recommending changes in operating processes; completing reports, logs, and audit records.\n \nESSENTIAL FUNCTIONS:\r\n60% Proactively investigate and perform adjustments of claims. Ensure claims are handled within authority limits, and in line with standard procedures and guidelines.\n20% Updates claims audit records by entering, verifying, and securing data.\n10% Settle standard/complex claims through payment or denial.\n5% Provides claims audit information and reports by collecting, analyzing, and summarizing data and trends.\n5% Improves claims adjustment job knowledge by attending training sessions\n \nRequired Experience:\r\n3 years years claims experience and complete understanding of all systems, policies and procedures.\n3 years of Claims Processing experience (Payer side)\r\n1 years of Claims Adjuster experience\r\nFacets G6 system preferred but not required\r\nSubrogation experience is nice to have\n \n \n \n \n#LI-MK1\n",
       "closing": {
-        "closing_date": "2026-12-15T10:00:00Z",
-        "closing_dateStr": 1779840000000
+        "closing_date": "2026-07-03T17:00:00Z",
+        "closing_dateStr": 1782777600000
       },
       "start": {
-        "start_date": "05/25/26",
-        "start_dateStr": 1779667200000
+        "start_date": "07/14/26",
+        "start_dateStr": 1783987200000
       },
       "end": {
-        "end_dateStr": "05/25/27",
-        "end_date": 1811203200000
+        "end_dateStr": "12/22/27",
+        "end_date": 1829433600000
       },
-      "salary": "",
+      "salary": "0",
       "remote": 1,
       "assigned_recruiter": ", ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/ZenEYbQRF-6a5DuH635tQ62WAJbJvh3gUHOe3-Y4lxM",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c6ciqyGBkO1fDyhIgRH_Vac="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c0OwF0TGqLKqXjrWCRJ_164=",
-      "title": "Functional Analyst",
-      "location": "",
-      "experience": {
-        "experience": "2-5 years",
-        "min_experience": "2"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/26",
-        "date_posted": 1779840000000
-      },
-      "description": "Job Description, Day to Day, Education, Certification, etc.:\n \nNotes:\n\nFunctional Analyst\n\r\n100% remote role (CF approved states only)\n \nJob Title: Functional Analyst\n\nLocation: Baltimore, MD (Remote Job)\n\nDuration: 12 Months+\n \nW2 Rate: $32/hr.\n \nJob Purpose: \n\r\nProvides Operations Support by obtaining facts; analyzing problems; designing solutions; developing testing methods; conducting and documenting tests; providing operating information to customers.\n \nEssential Functions:\n\r\n50% Research and improve operations by examining and researching systems problems by obtaining facts, analyzing problems/identifying root cause recommending and facilitating resolution.\n\r\n20% Supports operations systems by providing operating information to customers; answering questions; providing training.\n\r\n20% Contributes to operations analysis and organization success by welcoming related, different, and new requests; helping others accomplish job results, development of Standard Operating Procedures (SOP) and other essential documentation, \n\r\n5% Verifies operations systems by developing testing methods; conducting and documenting tests.\n\r\n5% Improves operations analysis job knowledge by attending training sessions; reading technical publications.\n \nQualifications / Required Experience:\n\r\n2-3 years experience in Functional Analyst operational role with bachelors OR 6 years as Functional Analyst role without bachelors\n\r\nShould have Functional Analyst title and experience required with 834 EDI files transactions, Excel (Macros, Pivot tables) \n\r\nFacets experience is nice to have\n \n \n ",
-      "closing": {
-        "closing_date": "2026-05-29T10:00:00Z",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "05/18/26",
-        "start_dateStr": 1779062400000
-      },
-      "end": {
-        "end_dateStr": "05/18/27",
-        "end_date": 1810598400000
-      },
-      "salary": "",
-      "remote": 1,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/_f3HQ-N79taYR-YWzAYiMAZyFyy35DJzurHyNaCWTDs",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0OwF0TGqLKqXjrWCRJ_164="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cwZLqnZqauXZcDRjpx9fTtY=",
-      "title": "Senior Data Analysis Consultant – 49456-1",
-      "location": "",
-      "experience": {
-        "experience": "5-10 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "Job Title: Senior Data Analysis Consultant \nLocation: Baltimore, MD\nDuration: 12 Months+ CTH \n \n \nTwice a month onsite (Primarily remote)\r\nSenior Data Analysis Consultant (10 years)\nMust have knowledge CMS, Risk adjustment, data analysis, modeling and reporting\r\nExperience with Salesforce, Facets, SQL, PowerBI, Azure is preferred\n\nPURPOSE: \r\nThe Data Analysis Consultant leads the creation of cutting-edge analytic tools to drive better and faster decision making within the organization and provides critical support for key corporate programs, Medicare Advantage Stars and Risk Adjustment programs as it relates to provider data, provider to claims process.\n \nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.\n \nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.\n\nESSENTIAL FUNCTIONS:\r\n50% Supports enterprise Stars and Risk adjustment strategy through collaboration with analysts, healthcare policy makers, and strategy leaders throughout the company to identify trends and opportunities across the Medicare and Medicaid healthcare landscape. Consults with business leaders, IT partners, and product owners to facilitate product development and guide Stars and Risk Adjustment priorities through insightful analytics.\n \n30% Identify and quantify key drivers for the Risk Adjustment and Quality/Stars programs, investigate areas of opportunity, evaluate effectiveness and make recommendations. Apply business knowledge to Analytics projects and provide value-added insights to impact business outcomes, working cooperatively with various internal and external partners. Using the application of sophisticated analytical capabilities, develops and maintains visualizations to support all business divisions across all levels. Develop and maintain scheduled and ad hoc reports for Risk Adjustment and Quality in response to business needs given tight deadlines, minimal direction, and shifting priorities.\n \n20% Provide on-going tracking and monitoring of application performance and recommend improvements to methods and algorithms. Work closely with clients, data stewards, and other business and technology leaders to frame problem definition and potential solutions. Required to stay current with Government Programs requirements and directives including those specific to Medicare and Medicaid and update all their reporting and analytics accordingly. Work with external vendors and governmental agencies as required. Excellent organizational skills and ability to set priorities and handle multiple projects concurrently.\n \nExperience: 10 years experience in data science methodologies, data analysis, modeling and reporting\r\nMasters or Phd in disciplines identified above\r\nAgile software development experience\nExperience with large data sets and distributed computing (Hive/Hadoop) a plus \nProgramming experience with R, SQL, SAS, Python or similar stack, Expert\r\nProficiency at transforming data, data classification and translations, as well as resolving data quality and data cleansing challenges, Proficient\nBusiness knowledge of government programs (Medicare Advantage and Medicaid) healthcare data and systems, Advanced\n \n \n \n \n#LI-MK1\n",
-      "closing": {
-        "closing_date": "2026-05-31T10:00:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "06/08/26",
-        "start_dateStr": 1780876800000
-      },
-      "end": {
-        "end_dateStr": "06/08/27",
-        "end_date": 1812412800000
-      },
-      "salary": "",
-      "remote": 1,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/-pdiq22pvsagka0uWdu4s21GwkJCoJT4Kg0ToZFbQNw",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cwZLqnZqauXZcDRjpx9fTtY="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c7Gz8wSJP-mMD_DBDs8C6Eg=",
-      "title": "Associate Data Engineer – 49451-1",
-      "location": "",
-      "experience": {
-        "experience": "5-10 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "Job Title: Associate Data Engineer (Healthcare)\nLocation: Baltimore, MD\nDuration: 12 Months+\n\nTwice a month onsite (Primarily remote)\n\nAssociate Data Engineer (3 years)\r\nCreate the reports/metrics, do the documentation, experience with claims and provider data sector. (Hospital and Healthcare setting)\r\nGrab the data using python/salesforce and other tools\r\nTableau and Databricks experience/knowledge is required\r\nFacets is nice to have\n \n \nPURPOSE: \r\nUnderstands data needs and advise company on technological resources. Partners with senior level team members to aggregate and analyze various data sets to provide actionable insight. Develop reports, dashboards, and tools for business-users. Develop technical solutions to improve access to data and data usage. Develops and executes ETL code and ensures that the data loading processes are reliable and data quality remains high.\n \nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.\n \nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.\n\nESSENTIAL FUNCTIONS:\r\n30% Analyzes and validates existing routines and communicates impacts. Assists with data transformation, manipulation, and presentation to users.\n \n20% Works with Business Analysts, Business Intelligence Developers, Infrastructure Architects, and key business users to review, design, and develop data models and ETL processes.\n \n20% Supports the Software Engineering team with data analysis and validation with extensive SQL queries.\n \n15% Writes and executes ETL code, primarily complex SQL stored procedures, but with a strong ability to leverage other technologies.\n \n15% Partner with senior team members on the design, configuration and implementation of Data Integration Framework.\n \n \n \n \n#LI-MK1\n",
-      "closing": {
-        "closing_date": "2026-05-31T10:00:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "06/08/26",
-        "start_dateStr": 1780876800000
-      },
-      "end": {
-        "end_dateStr": "06/08/27",
-        "end_date": 1812412800000
-      },
-      "salary": "",
-      "remote": 1,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/GTI_V-okLxGQyD0hCVq-prXUKGs41k1bOPJtJ8uKMow",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7Gz8wSJP-mMD_DBDs8C6Eg="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cwWcwCMfUnHhiS6pHDZ7XOI=",
-      "title": "Business Process Manager– 49455-1",
-      "location": "",
-      "experience": {
-        "experience": "5-10 years",
-        "min_experience": "5"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "Job Title: Business Process Manager\nDuration: 12 Months+ CTH \nLocation: Baltimore, MD (Remote)\n\nTwice a month onsite (Primarily remote)\n\r\nLead the discussions, to change the business requirement, able to guide the leaders, provider data transformations, changing the behavior of the cohesive business process.\n\r\nLeading the projects, prior experience with talking to leaders and been able to transform the business process.\n \n \nPURPOSE: \r\nThis position will play a key role in delivering on all aspects of enterprise wide, cross functional process management initiatives including developing process architecture and hierarchy, process transformation, process automation and reengineering. The incumbent will function as a champion of process improvement methodologies and implementation throughout the organization. This individual will help drive the measurement of business effectiveness, research business processes and practices and analyze process data to develop and implement sustainable, repeatable and quantifiable operational and strategic process improvement. This individual will be part of Provider Business System team leadership that will drive process improvement initiatives and bring efficiency, effectiveness and a culture of continuous improvement to the department. \n \nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.\n \nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.\n\nESSENTIAL FUNCTIONS:\r\n40% Develop industry standard best practices for process management, innovation and continuous improvement across the enterprise\n \n25% Develop framework to align process architecture with strategic business capabilities and govern linkages. Ensures that policies and procedures align with corporate vision\n \n20% Develop core program framework, governance structure, tools and templates for delivering cross functional process improvement initiatives\n \n15% Manage resources (change agents and champions) within a matrix environment to lead process improvement initiatives across the enterprise. Engage in training activities with change agents and champions to develop this capability and skill set across the enterprise.\n \nQualifications\nExperience: 10 years relevant business process specialization (i.e. business process management, consulting or other applicable business process transformation experience).\n \nPreferred Qualifications\r\nProficient in Microsoft Office programs., Advanced\r\nKnowledge of web based applications and documentation tools., Expert\r\nExcellent communication skills both written and verbal., Expert\n \n \n \n#LI-MK1\n \n",
-      "closing": {
-        "closing_date": "2026-05-31T10:00:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "06/08/26",
-        "start_dateStr": 1780876800000
-      },
-      "end": {
-        "end_dateStr": "06/08/27",
-        "end_date": 1812412800000
-      },
-      "salary": "",
-      "remote": 1,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/JYR_nJ8XWtjZPF4v8RjFf8Z1EcW165x1eFTMM_GHpyU",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cwWcwCMfUnHhiS6pHDZ7XOI="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c4dRwh8XYANpQl_4TQvx8LE=",
-      "title": "Data Scientist – 49457-1",
-      "location": "",
-      "experience": {
-        "experience": "8-10 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "Job Description, Day to Day, Education, Certification, etc.:\n\nNotes: \n\r\n12 Months+ CTH\n\r\nTwice a month onsite (Primarily remote)\n\nMust have: LLM, AI/ML, Healthcare Provider data specifics, Salesforce\n\r\nLearning Modules must be created, laid the foundation but need someone to help build\n \nPURPOSE: \n\r\nLeads proliferation of machine learning and artificial intelligence throughout the enterprise. Identifies and solves business problems by using various numerical techniques, algorithms, and models in statistical modeling, machine learning, operations research, and data mining. Uses advanced analytical capabilities to support data science initiatives. Communicates across product teams and with customers and educates on artificial intelligence, machine learning, and statistical models. Leads interactions between analytics, business units and other departments.\n \nMust have previous Provider data experience working with leadership on provider data issues, accuracy, and provider data interactions with claims and claims platforms. Knowledge of Salesforce and Facets is required.\n \nPrevious demonstrable experience with reporting to leadership and working remotely with teams is preferred.\n \nESSENTIAL FUNCTIONS:\n\r\n20% Leads all data mining and extraction activities and applies algorithms to derive insights.\n \n15% Synthesizes analytical findings for consumption by the teams and senior executives.\n \n15% Leads proliferation of machine learning and artificial intelligence solutions.\n \n15% Applies artificial intelligence techniques to achieve concrete business goals while managing limited resources and constraints around data.\n \n15% Mentors and develops junior data scientists for advanced data analysis. \n \n10% Translates business priorities and creates data science deliverables.\n \n10% Leads implementation of ML/AI/DS best practices for new data products and builds robust and scalable software.\n \nQualifications\n\r\nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n \nEducation Level: Bachelor's Degree\n \nEducation Details: Statistics, Mathematics, Computer Science or related field\n \nExperience: 8 years of relevant work experience.\n \nIn Lieu of Education\r\nIn lieu of a Bachelor's degree, an additional 4 years of relevant work experience is required in addition to the required work experience.\n \nPreferred Qualifications\n\nKnowledge, Skills and Abilities (KSAs)\n\r\nAbility to communicate effectively and document objectives and procedures., Expert\n\r\nAbility to leverage a wide variety of data science tools and frameworks., Expert\n\r\nAbility to support data exploration and data analysis tasks in support of analytics objectives., Expert\n\r\nKnowledge in model evaluation, tuning and performance, operationalization, and scalability of scientific techniques., Expert\n\r\nProficiency in statistical modeling applications., Expert\n\r\nProficiency in advanced SQL in multiple syntaxes., Expert\n \n \n \n",
-      "closing": {
-        "closing_date": "2026-05-31T10:00:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "06/08/26",
-        "start_dateStr": 1780876800000
-      },
-      "end": {
-        "end_dateStr": "06/08/27",
-        "end_date": 1812412800000
-      },
-      "salary": "",
-      "remote": 1,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/ej20zCBD-0VjoqCmagCk-5IhT2xuF3_aDcanZsdOAfg",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4dRwh8XYANpQl_4TQvx8LE="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cyEOg-ex9oUnYBwmGP3Dius=",
-      "title": "Instructional Designer",
-      "location": "",
-      "experience": {
-        "experience": "2-5 years",
-        "min_experience": "2"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/26/26",
-        "date_posted": 1779753600000
-      },
-      "description": "\nJob Description, Day to Day, Education, Certification, etc.:\n \nPURPOSE: \n\r\nFocuses on the systematic process employed to develop learning products for the organization through the analysis of learning/business needs, adult learning theory, partnering with subject matter experts, and the ongoing evaluation of programs to maintain accuracy and relevance. Learning products include online courses, instructional manuals, video tutorials, and learning simulations. \n \nESSENTIAL FUNCTIONS:\n\r\n25% Designs, develops and delivers high quality Instructor-led, eLearning, and multimedia course materials including: course design documents, course outlines, course descriptions, presentation slides, diagrams, lab exercises, instructor guides, lab setup guides, job aids, and assessments..\n \n25% Creates visually appealing products that adhere to branding guidelines utilizing graphic, authoring, and video production tools. \n \n20% Partners cross functionally to scope requirements, objectives, and deliver projects. Conducting front end analysis including needs assessment, task analysis, content analysis, and instructional analysis\n \n15% Applies instructional design principles, methodologies and adult learning theories for better learning experiences.\n \n15% Owns the end-to-end design and development process for assigned projects through consistent status updates, leading quality content/product reviews and lessons-learned discussions.\n \nExperience: 5 years experience as an instructional designer, trainer or similar role\n\r\nIn lieu of a Bachelor's degree, an additional 4 years of relevant work experience is required in addition to the required work experience.\n\r\nInstructional Design Expertise (ADDIE, SAM, adult learning principles)\n\n- Authoring Tools: Articulate 360 (Rise, Storyline), Adobe Captivate, Camtasia\n\r\n-SCORM/xAPI standards\n\n- Learning technologies: LMS, Panopto, SharePoint, WellSaid Labs\n\r\n- Project & program management \n\r\n- Strong communication and facilitation skills \n\r\n- Data analysis & learning measurement\n \n \n",
-      "closing": {
-        "closing_date": "2026-05-15T10:00:00Z",
-        "closing_dateStr": 1779753600000
-      },
-      "start": {
-        "start_date": "06/01/26",
-        "start_dateStr": 1780272000000
-      },
-      "end": {
-        "end_dateStr": "06/01/27",
-        "end_date": 1811808000000
-      },
-      "salary": "",
-      "remote": 1,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/ZesL5lG5z6NGKb2FuzcmMJuNKwik7ik9g-A9fitcPI4",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyEOg-ex9oUnYBwmGP3Dius="
+      "apply": "https://candidateportal.ceipal.com/job-details/AWJyv7IBnkMgAnaVnH0lGVoJ681DV7CC-z_0uKWKZ08",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4k0WR7Yf5ndm3JlXRWsl2M="
     }
   ]
 }

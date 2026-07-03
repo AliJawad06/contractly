@@ -5,6 +5,8 @@ import anthropic
 from redis import Redis
 from rq import Worker
 import sys
+from pathlib import Path
+import time 
 
 OUTPUT_PATH = Path("/root/contractly/day/day.jsonl")
 
@@ -22,7 +24,7 @@ def load_existing_urls():
     return seen
 
 
-def process_event(payload):
+def process_event():
     client = anthropic.Anthropic()
 
     OUTPUT_PATH = Path("/root/contractly/day/day.jsonl")
@@ -31,13 +33,14 @@ def process_event(payload):
         jobs = [json.loads(line) for line in f if line.strip()]
 
     lookup = {obj["custom_id"]: obj for obj in jobs if obj.get("custom_id")}
-
-    batch_id = payload["data"]["id"]
+    batch_id = Path("/root/contractly/pending_batch.txt").read_text().strip()
     batch = client.messages.batches.retrieve(batch_id)
-    print("event is being processed")
-    if batch.processing_status != "ended":
-        return {"status": "not_ready"}
-    print(payload)
+    Path("/root/contractly/pending_batch.txt").unlink()
+    print(f"batch{batch_id} is being processed")
+    while batch.processing_status != "ended":
+         print({"status": "not_ready"})
+         batch = client.messages.batches.retrieve(batch_id)
+         time.sleep(300)
 
     seen = load_existing_urls()
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -75,11 +78,10 @@ def process_event(payload):
     return {"status": "processed", "written": written}
 
 
-redis_conn = Redis()
 
 if __name__ == "__main__":
     #payload = {}
     #payload["data"] = {"id": "msgbatch_013waLQf7kvRFGaLqEFeXeRJ"}
-    #process_event(payload)
-    worker = Worker(["webhook"], connection=redis_conn)
-    worker.work()
+    process_event()
+    #worker = Worker(["webhook"], connection=redis_conn)
+    #worker.work()

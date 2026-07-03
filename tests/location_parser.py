@@ -1,8 +1,8 @@
 import re
 import traceback
 from typing import Dict, Any
-from AI_location_parser import Ai_parse_location
-from mappers import LocationMapper, TitleMapper
+from tests.AI_location_parser import Ai_parse_location
+from tests.mappers import LocationMapper, TitleMapper
 
 
 # Constants

@@ -1,14 +1,14 @@
 [
   {
-    "id": 32400368,
-    "title": "Packaging Associate INT",
-    "location": "VI, Sturtevant",
+    "id": 32542922,
+    "title": "system Admin",
+    "location": "IA, None",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/3/2026",
-      "date_posted": 1780514713000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783034513000
     },
     "start": {
       "start_dateStr": null,
@@ -20,28 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "Requisition ID:<br />\r\nHCR0003221<br />\r\n<br />\r\nJob Title:<br />\r\nPackaging Associate INT<br />\r\n<br />\r\n<label for=\"null\" id=\"null\" name=\"null\" sm-content=\"id name for text\" sm-id=\"JobDescrLbl\" sm-parent=\"JobDescrLblWrpr\" sm-source=\"label,span:not([id*='$star'])\">Job Description:</label><br />\r\nPack or package by hand a wide variety of products and materials.<br />\r\nHours<br />\r\nMonday - Thursday 2:30pm - 1 am<br />\r\nFriday - OT<br />\r\nHourly Rate $21.00<br />\r\nProficiency in fundamental computer operations is required<br />\r\nMust be able to pass vision testing requirements (with or without corrective eyewear)<br />\r\n ",
+    "description": "<p><strong>Job role: System Admin </strong></p>\r\n\r\n<p><strong>Location: Des Moines, Iowa - (Onsite)</strong></p>\r\n\r\n<p><strong>Contract</strong></p>\r\n\r\n<p><strong>Job Description</strong></p>\r\n\r\n<p><strong>Responsibilities</strong></p>\r\n\r\n<ul>\r\n\t<li>&middot; Install, configure, and manage Windows and Linux servers (physical &amp; virtual) Perform system builds, patching, upgrades, vulnerability management, and lifecycle management Manage Active Directory / LDAP and implement identity &amp; access controls Monitor server performance, availability, and capacity metrics</li>\r\n\t<li>&middot; Manage, monitor, and troubleshoot VMware environments (ESXi hosts, clusters, VMs) Perform VM provisioning, cloning, and migrations (vMotion, Storage vMotion) Manage VMware clusters (HA, DRS, resource pools) Monitor and optimize virtualization performance and availability</li>\r\n\t<li>&middot; Support and maintain enterprise storage platforms (SAN/NAS/Object storage, e.g., PowerFlex) Perform LUN provisioning, zoning, masking, and volume management Manage storage capacity, upgrades, replication, snapshots, and performance tuning Identify and resolve storage space constraints and performance issues</li>\r\n\t<li>&middot; Configure and manage enterprise backup solutions (Dell PowerProtect preferred) Implement secure and air-gapped backup strategies Perform backup monitoring, restore validation, and compliance checks Execute VM/file-level restores, DR testing, failover, and failback operations Maintain disaster recovery strategies and resiliency planning</li>\r\n\t<li>&middot; Administer servers, workstations, and network-connected systems Support endpoint and security tools (Defender, CrowdStrike) Implement RBAC, security controls, encryption, and compliance requirements</li>\r\n\t<li>&middot; Support enterprise applications (RightFax, Kofax, OpenText) Assist with platform upgrades, integrations, and performance tuning Collaborate with application teams for system stability and availability</li>\r\n\t<li>&middot; Support data center operations including migrations, decommissioning, and relocations Assist in EOL transitions, rack decommissioning, and secure system movement Participate in migration planning and execution activities</li>\r\n\t<li>&middot; Monitor infrastructure health across compute, storage, virtualization, and applications Troubleshoot multi-layer issues (VMware, storage latency, connectivity, application failures) Provide L2/L3 support, incident resolution, and root cause analysis</li>\r\n\t<li>&middot; Perform patching, upgrades, performance tuning, and lifecycle management Maintain infrastructure documentation, SOPs, and runbooks Handle capacity planning and forecasting</li>\r\n\t<li>&middot; Support ITSM processes (incident, problem, change, release management) Ensure CMDB is updated and aligned with infrastructure and cloud environments</li>\r\n\t<li>&middot; Develop automation scripts (PowerShell, Bash, Python) Improve provisioning efficiency and integrate tools using APIs</li>\r\n\t<li>&middot; Collaborate with infrastructure, security, cloud, and service delivery teams Ensure system availability, performance, and service continuity</li>\r\n</ul>\r\n\r\n<p><strong>Skills &amp; Qualifications</strong></p>\r\n\r\n<ul>\r\n\t<li>&middot; Strong VMware administration experience (ESXi, vCenter, clusters, HA, DRS) Hands-on experience with enterprise storage systems (PowerFlex, EMC, NetApp, etc.) Strong knowledge of SAN/NAS, RAID, iSCSI, Fibre Channel</li>\r\n\t<li>&middot; Experience with enterprise backup platforms (Dell PowerProtect preferred) Knowledge of backup compliance, air-gapped backups, and disaster recovery testing</li>\r\n\t<li>&middot; Proficiency in Windows and Linux server administration Experience managing Active Directory / LDAP and access controls</li>\r\n\t<li>&middot; Experience with endpoint/security tools (Defender, CrowdStrike) Strong understanding of infrastructure security and compliance practices</li>\r\n\t<li>&middot; Ability to support enterprise applications (RightFax, Kofax, OpenText) Experience with application integrations and platform support</li>\r\n\t<li>&middot; Strong troubleshooting skills across compute, virtualization, storage, and applications Ability to perform root cause analysis and documentation</li>\r\n\t<li>&middot; Experience with ITSM tools/processes (incident, change, problem management) Familiarity with monitoring and infrastructure management tools</li>\r\n\t<li>&middot; Scripting and automation experience (PowerShell, Bash, Python, REST APIs) Exposure to cloud and hybrid environments (AWS/Azure is a plus)</li>\r\n\t<li>&middot; Strong communication, documentation, and collaboration skills</li>\r\n\t<li> </li>\r\n</ul>\r\n",
     "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
+      "Saravanan Infoway",
+      "saravanan@infowaygroup.com",
+      "3186201293"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32400368",
-    "time_scraped": 1780517078802,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542922",
+    "time_scraped": 1783057907858,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32397825,
-    "title": "App Support",
-    "location": "None, None",
+    "id": 32542885,
+    "title": "devops engineer with Gen AI",
+    "location": "CA, None",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/3/2026",
-      "date_posted": 1780497418000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783033504000
     },
     "start": {
       "start_dateStr": null,
@@ -53,28 +53,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<ul>\r\n\t<li>Java or Python developers with good Experience of troubleshooting/Debugging the code issues</li>\r\n\t<li>SME in K8s/containerization concepts.</li>\r\n\t<li>Telecom domain experience is a must-have</li>\r\n\t<li>Excellent Oral and Written communications skills</li>\r\n</ul>\r\n",
+    "description": "<p><strong>Role: Devops engineer</strong></p>\r\n\r\n<p><strong>Location: Sanjose, CA/Moresville, NC</strong></p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Skills: AWS, GCP, Cloud Infra, IAC, ACD, dockers, Kubernetes, EKS, AI Tools, Gen AI</p>\r\n",
     "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
+      "Saravanan Infoway",
+      "saravanan@infowaygroup.com",
+      "3186201293"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32397825",
-    "time_scraped": 1780517078737,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542885",
+    "time_scraped": 1783057907326,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32396685,
-    "title": "Monitoring & Observability Engineer",
-    "location": "None, None",
+    "id": 32542845,
+    "title": "BUSINESS ANALYST ",
+    "location": "MA, Greater Boston",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/3/2026",
-      "date_posted": 1780484859000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783032618000
     },
     "start": {
       "start_dateStr": null,
@@ -86,259 +86,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p><b>Monitoring &amp; Observability Engineer </b>will design, build, and implement monitoring frameworks for modern cloud-native applications. This role focuses on engineering observability solutions, not just consuming dashboards or alerts.</p>\r\n\r\n<p><b>Key Responsibilities</b></p>\r\n\r\n<p>&bull;     Design and develop end-to-end monitoring and observability solutions.</p>\r\n\r\n<p>&bull;     Create, deploy, migrate, and standardize Datadog monitors, dashboards, reports, and SLOs.</p>\r\n\r\n<p>Required Skills</p>\r\n\r\n<p>&middot;                  Kubernetes monitoring expertise</p>\r\n\r\n<p>&middot;                  AWS: CloudWatch, EC2, Lambda, EKS</p>\r\n\r\n<p>&middot;                  Datadog (Must-Have): monitors, dashboards, alerts, reports, migrations</p>\r\n\r\n<p>&middot;                  Splunk: logs, dashboards, alerts</p>\r\n\r\n<p>&middot;                  Python for automation</p>\r\n\r\n<p>&middot;                  Ansible playbooks</p>\r\n\r\n<p>&middot;                  Strong SQL skills</p>\r\n\r\n<p align=\"center\">1</p>\r\n\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\r\n</table>\r\n",
-    "recruiter": [
-      "Harshita Upadhyay",
-      "Harshita@infowaygroup.com",
-      "7389811796"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396685",
-    "time_scraped": 1780517078892,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32396660,
-    "title": "Senior DevOps Engineer + AI/ML",
-    "location": "None, None",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/3/2026",
-      "date_posted": 1780484737000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p>Drive the AI, Automation initiatives within the team</p>\r\n\r\n<p>DevOps Background experience</p>\r\n\r\n<ol start=\"1\" type=\"1\">\r\n\t<li>Infra (Cloud, OnPrem)</li>\r\n\t<li>CICD</li>\r\n\t<li>Observability (Monitoring)</li>\r\n\t<li>Basic Development Background</li>\r\n</ol>\r\n\r\n<p> <b>AI skills</b> : Amazon Q and KIRO</p>\r\n",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396660",
-    "time_scraped": 1780517088004,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32396621,
-    "title": "Sr. Monitoring Arch Design",
-    "location": "None, None",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/3/2026",
-      "date_posted": 1780484565000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": " \r\n<ul type=\"disc\">\r\n\t<li>Log ingestion, Anomaly monitoring, Synthetic test, Custom metrics, APM instrumentation, DB Monitoring.</li>\r\n\t<li><b>Experience in setting up end-to-end monitoring (Infra, APM, Alerts, Dashboards across both Splunk/DataDog) based on the HLDs/LLDs shared</b></li>\r\n\t<li><b>SME-</b>Splunk</li>\r\n\t<li>Skilled in Datadog, Grafana, Prometheus</li>\r\n</ul>\r\n<br />\r\n ",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396621",
-    "time_scraped": 1780517088037,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32396546,
-    "title": "Y2 Retail platform BA",
-    "location": "None, None",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/3/2026",
-      "date_posted": 1780482686000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Various experiences as IS Business Analyst in Retail&#39;s domain &middot; Strong skills in Retail processes &middot; Functional and technical expertise in the solution Cegid Retail Y2 (Proficiency in the various modules of the solution, configuration, creation of SQL queries, etc.) &middot; Ability to grasp, unders",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32396546",
-    "time_scraped": 1780517088161,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32395703,
-    "title": "XCUI + API Automation Engineer",
-    "location": "CA, Cupertino",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780439821000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Position Title    # Open Positions    Location    Rate    JD    Must Haves<br />\r\nXCUI &plus; API Automation Engineer    1    Cupertino    Max 60    Minimum # years of experience    proficiency with UI automation tools, XCUI is must have<br />\r\n5 days in office    3-5 years     <br />\r\n     Tools/technologies    expert in Java automation   <br />\r\n     Programming Languages: Java, Python, Swift.     <br />\r\n     UI Automation Tools: Selenium WebDriver, Playwright, XCUITest.     <br />\r\n     API Automation Tools: Postman (for manual testing/prototyping) and Rest Assured, TestNG (for API automation frameworks).     <br />\r\n     Test Runners/Frameworks: TestNG, PyTest.     <br />\r\n     Version Control: Git     <br />\r\n     Specific automation skills     <br />\r\n     Framework Design: Experience establishing and maintaining industry-standard design patterns like the Page Object Model (POM) for UI and Data-Driven approaches.     <br />\r\n     CI/CD Integration: Ability to orchestrate and run automated test suites on a schedule within pipelines.     <br />\r\n     Server Testing: Understanding of RESTful APIs, JSON/XML data formats, and handling HTTP status codes.     <br />\r\n     Experience working with Apple devices (iPhone, iPad, Mac, Watch etc.).       <br />\r\n                          ",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32395703",
-    "time_scraped": 1780517097704,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32395583,
-    "title": "CI CD-DevOps, M-scripting, C/C++ Competency",
-    "location": "FL, Sunrise",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780438150000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p data-ogsb=\"white\">Location &ndash; Sunrise FL</p>\r\n\r\n<p data-ogsb=\"white\"><b data-ogsc=\"\">Mandatory skills- Primary Skills- </b><b data-ogsc=\"\">CI CD-</b><b data-ogsc=\"\">DevOps, M-scripting, C/C&plus;&plus; Competency</b><b data-ogsc=\"\"> with Automotive Experience.</b></p>\r\n\r\n<p data-ogsb=\"white\"> </p>\r\n<button aria-label=\"Show original size\" title=\"Show original size\" type=\"button\"><i aria-hidden=\"true\" fill=\"currentColor\"></i></button>\r\n\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" data-editing-info=\"{&quot;topBorderColor&quot;:&quot;#000000&quot;,&quot;bottomBorderColor&quot;:&quot;#000000&quot;,&quot;verticalBorderColor&quot;:&quot;#000000&quot;,&quot;hasHeaderRow&quot;:false,&quot;hasFirstColumn&quot;:false,&quot;hasBandedRows&quot;:true,&quot;hasBandedColumns&quot;:false,&quot;bgColorEven&quot;:null,&quot;bgColorOdd&quot;:&quot;#CCCCCC&quot;,&quot;headerRowColor&quot;:&quot;#000000&quot;,&quot;tableBorderFormat&quot;:0,&quot;verticalAlign&quot;:null}\" id=\"x_x_table_0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\"><b>Experience required</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\">4(yrs) 0 (Months)</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(62, 128, 149)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p><b>Qualification</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p>B.E/B.Tech, master&#39;s in engineering</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\"><b>Domain Knowledge</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\">Experience in automotive ADAS systems. Knowledge about ECU software development, control models and application software.. Knowledge of software development life cycle (SDLC) models, including V-cycle and Agile methodologies.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(62, 128, 149)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p><b>Job Description</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\">\r\n\t\t\t<p>Onsite Engineer - to support from Sunrise Florida &bull; Standardize pipeline scripting across teams and environments- prioritizing maintainability and readability. &bull; Monitor and maintain CI/CD builds and testing, analyze trends, and implement continuous improvements for reliability and build times. &bull; Develop and maintain Confluence WIKI documentation for tools and processes. &bull; Contribute to team results through ownership in agile scrum development sprints. &bull; Participate in code review activities to ensure changes follow best practices and stay up to date on the team&#39;s solutions. &bull; Collaborate frequently with various external teams (software developers, Corporate IT, Security, etc.).</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\"><b>Skill Set</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td data-ogsb=\"rgb(204, 204, 204)\" data-ogsbbc=\"black\" data-ogsblc=\"black\" data-ogsbrc=\"black\" data-ogsbtc=\"black\" data-ogsc=\"rgb(0, 0, 0)\">\r\n\t\t\t<p data-ogsc=\"black\">DevOps, M-scripting, C/C&plus;&plus;.</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p data-ogsb=\"white\"> </p>\r\n<br />\r\n ",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32395583",
-    "time_scraped": 1780517097836,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32395224,
-    "title": "Pharmacy Technician 2",
-    "location": "MI, Canton",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780436160000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><b data-olk-copy-source=\"MessageBody\">Description:</b></p>\r\n<b>Summary:</b><br />\r\nThe Pharmacy Technician Fulfillment assists in the preparation and distribution of drug products. The Technician is responsible for preparing prescription medications using the fulfillment system.<br />\r\n<b>Job Responsibilities:</b> \r\n\r\n<ul>\r\n\t<li>Process prescription exceptions, which may include resolving claim rejects and outreach to members and physicians.</li>\r\n\t<li>Enter member demographics and prescription information into the data processing system.</li>\r\n\t<li>Research and resolve rejected insurance billing issues and/or escalated member issues.</li>\r\n\t<li>Escalate questions regarding prescriptions to a Pharmacist for interpretation or provide direction on processing.</li>\r\n\t<li>Assist with inbound and/or outbound calls from patients or physicians.</li>\r\n\t<li>Other duties as assigned.</li>\r\n</ul>\r\n<b>Skills:</b>\r\n\r\n<ul>\r\n\t<li>Education: High School diploma.</li>\r\n\t<li>2-4 years of Pharmacy Technician experience.</li>\r\n\t<li>Current Pharmacy Registration and Certification as required by the state of operation.</li>\r\n\t<li>Basic computer skills.</li>\r\n</ul>\r\n<b>Work Location: <a data-auth=\"NotApplicable\" data-linkindex=\"2\" href=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\">41460 Haggerty Cir S</a> </b><br />\r\n <b><a data-auth=\"NotApplicable\" data-linkindex=\"3\" href=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https://www.google.com/maps/search/41460&plus;Haggerty&plus;Cir&plus;S&plus;\r\n&plus;Canton\r\n&plus;Township,&plus;MI&plus;48188?entry=gmail&amp;source=g\">Canton Township, MI 48188</a></b>",
-    "recruiter": [
-      "Lokeeswaran Infoway",
-      "lokeeswaran@infowaygroup.com",
-      "5102280663"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32395224",
-    "time_scraped": 1780517097875,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32394779,
-    "title": "Kotlin Developer",
-    "location": "NC, Raleigh",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780433527000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p>Kotlin Developer</p>\r\n\r\n<p>Sunnyvale, CA and Raleigh , NC</p>\r\n\r\n<p> </p>\r\n\r\n<p>JD:</p>\r\n\r\n<p>Strong Kotlin, Java, AWS, DynamoDB (Developers should be able to do some DevOps work so they are self-sufficient and can handle basic rotation support work)</p>\r\n\r\n<p> </p>\r\n\r\n<p>About the program :</p>\r\n\r\n<p>The project re-architects Apple&#39;s core provisioning platform, critical for transforming user credentials into Wallet&#39;Passes&#39;. </p>\r\n\r\n<p>The existing system is an outdated, complex, and monolithic architecture, leading to scalability and domain-driven, layered architecture to unify provisioning across all Wallet offerings. </p>\r\n\r\n<p>The project aims to create a flexible, scalable, and consistent platform, designed for faster development velocity and enhanced resilience. </p>\r\n\r\n<p>It supports both Platform-as-a-Service and custom composition models for diverse integration needs.</p>\r\n",
+    "description": "<p><strong>BUSINESS ANALYST with good capital market exp, exp with python, pyspark, databricks</strong></p>\r\n\r\n<p><strong>Location:Boston,MA</strong></p>\r\n\r\n<p> </p>\r\n\r\n<p>good capital market exp, exp with python, pyspark, databricks</p>\r\n",
     "recruiter": [
       "Jayaraman Infoway",
       "jayaraman@infowaygroup.com",
       "9252415719"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32394779",
-    "time_scraped": 1780517108663,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542845",
+    "time_scraped": 1783057907599,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32394152,
-    "title": "Support Lead – Teamcenter PLM Production Support",
-    "location": "CA, Sunyvale",
+    "id": 32542778,
+    "title": "Informatica Developer",
+    "location": "TX, Austin",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780429007000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783030341000
     },
     "start": {
       "start_dateStr": null,
@@ -350,127 +119,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<br />\r\n<b data-olk-copy-source=\"MessageBody\">Support Lead &ndash; Teamcenter PLM Production Support</b><br />\r\n <br />\r\n<b>Role Summary</b><br />\r\nExperienced Support Lead responsible for managing production support operations for a large-scale Teamcenter PLM platform supporting global engineering and business teams. The role involves leading incident management, deployment coordination, operational governance, and hypercare support across multiple POD teams and enterprise integrations.<br />\r\nActs as the central operational lead coordinating Business, QA, Development, DevOps, Infrastructure, and Vendor teams to ensure production stability, timely issue resolution, and smooth day-to-day operations in a highly customized Teamcenter ecosystem.\r\n<hr /><br />\r\n<br />\r\n<b>Key Responsibilities</b><br />\r\n<b>Production Support &amp; Incident Management</b>\r\n\r\n<ul>\r\n\t<li>Lead day-to-day production support activities for Teamcenter PLM applications and integrations.</li>\r\n\t<li>Manage incident triage, prioritization, escalation handling, and resolution tracking.</li>\r\n\t<li>Drive P1/P2 issue management, RCA reviews, and preventive action tracking.</li>\r\n\t<li>Ensure adherence to support SLAs, operational KPIs, and response timelines.</li>\r\n</ul>\r\n<b>Release &amp; Deployment Coordination</b>\r\n\r\n<ul>\r\n\t<li>Coordinate production deployments, release readiness reviews, and validation tracking.</li>\r\n\t<li>Partner with QA, DevOps, and Engineering teams during deployment and hypercare windows.</li>\r\n\t<li>Ensure deployment governance, rollback readiness, and operational controls are followed.</li>\r\n</ul>\r\n<b>Cross-Functional Coordination</b>\r\n\r\n<ul>\r\n\t<li>Coordinate activities across Business, QA, Development, DevOps, Infrastructure, and Vendor teams.</li>\r\n\t<li>Manage follow-the-sun support operations across IST and PDT/CDT teams.</li>\r\n\t<li>Facilitate operational reviews, support triage calls, and escalation meetings.</li>\r\n</ul>\r\n<b>Operational Governance &amp; Reporting</b>\r\n\r\n<ul>\r\n\t<li>Publish support dashboards and operational metrics including SLA adherence, incident aging, and deployment success trends.</li>\r\n\t<li>Support leadership reviews, escalation governance, and continuous improvement initiatives.</li>\r\n\t<li>Drive standardization of support processes, incident tracking, and operational controls.</li>\r\n</ul>\r\n\r\n<hr /><br />\r\n<br />\r\n<b>Required Skills &amp; Experience</b>\r\n\r\n<ul>\r\n\t<li>8&plus; years of experience in application production support or support operations.</li>\r\n\t<li>Strong experience supporting Teamcenter PLM or enterprise engineering applications.</li>\r\n\t<li>Experience managing global support teams and production incidents.</li>\r\n\t<li>Strong understanding of release management, deployments, and operational governance.</li>\r\n\t<li>Excellent stakeholder communication and escalation management skills.</li>\r\n\t<li>Experience working in highly customized enterprise environments with multiple integrations.</li>\r\n</ul>\r\n\r\n<hr /><br />\r\n<br />\r\n<b>Key Competencies</b>\r\n\r\n<ul>\r\n\t<li>Strong operational ownership</li>\r\n\t<li>Incident and escalation management</li>\r\n\t<li>Cross-functional coordination</li>\r\n\t<li>Structured problem-solving</li>\r\n\t<li>High-pressure production support management</li>\r\n\t<li>Strong stakeholder management</li>\r\n</ul>\r\n\r\n<hr /><br />\r\n<br />\r\n<b>Success Metrics</b>\r\n\r\n<ul>\r\n\t<li>Production stability and SLA adherence</li>\r\n\t<li>Faster incident resolution and reduced aging</li>\r\n\t<li>Deployment success rate</li>\r\n\t<li>Reduction in recurring production issues</li>\r\n\t<li>Effective hypercare and steady-state support transition</li>\r\n\t<li>Stakeholder satisfaction</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Jayaraman Infoway",
-      "jayaraman@infowaygroup.com",
-      "9252415719"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32394152",
-    "time_scraped": 1780517108434,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32389296,
-    "title": "SAP FICO Consultant",
-    "location": "None, None",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780396877000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p><b data-olk-copy-source=\"MessageBody\">Job Description:</b></p>\r\n\r\n<p> </p>\r\n\r\n<p>We are looking for an experienced SAP FICO Consultant with strong expertise in SAP Finance (FI) and Controlling (CO) modules. The ideal candidate should possess hands-on experience in SAP implementation, configuration, support, and enhancement projects. The consultant should be capable of gathering business requirements, designing solutions, performing system configurations, and providing end-user support.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Key Requirements:</p>\r\n\r\n<p>&bull; Strong experience in SAP FI and CO modules</p>\r\n\r\n<p>&bull; Experience in implementation, rollout, or support projects</p>\r\n\r\n<p>&bull; Good understanding of business processes related to Finance and Controlling</p>\r\n\r\n<p>&bull; Ability to work independently and interact with business stakeholders</p>\r\n\r\n<p>&bull; Strong problem-solving and communication skills</p>\r\n\r\n<p>&bull; Experience in SAP S/4HANA will be an added advantage</p>\r\n",
+    "description": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td nowrap=\"nowrap\" valign=\"top\">\r\n\t\t\t<p><b>Position Title</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" valign=\"top\">\r\n\t\t\t<p><b>Location</b></p>\r\n\t\t\t</td>\r\n\t\t\t<td nowrap=\"nowrap\" valign=\"top\">\r\n\t\t\t<p><b>Job Description</b></p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td valign=\"top\">\r\n\t\t\t<p>Informatica Developer</p>\r\n\t\t\t</td>\r\n\t\t\t<td valign=\"top\">\r\n\t\t\t<p>[Austin, TX]</p>\r\n\t\t\t</td>\r\n\t\t\t<td valign=\"top\">\r\n\t\t\t<p><b>Role: Informatica Developer</b></p>\r\n\r\n\t\t\t<p><b>Location: Austin, TX (Hybrid)</b></p>\r\n\r\n\t\t\t<p><b>Duration: Long Term</b></p>\r\n\r\n\t\t\t<p><b>Rate: $70/HR C2C/1099 OR $55-60/HR W2</b></p>\r\n\r\n\t\t\t<p><b>Visa: No OPT/CPT</b></p>\r\n\r\n\t\t\t<p><b>Need 3 references&hellip; Previous State experience is highly desirable</b></p>\r\n\r\n\t\t\t<p> </p>\r\n\r\n\t\t\t<p><b>Responsibilities:</b></p>\r\n\r\n\t\t\t<ul type=\"disc\">\r\n\t\t\t\t<li>Understands business objectives and problems, identifies alternative solutions, performs studies and cost/benefit analysis of alternatives.</li>\r\n\t\t\t\t<li>Analyzes user requirements, procedures, and problems to automate processing or to improve existing computer system</li>\r\n\t\t\t\t<li>Confers with personnel of organizational units involved to analyze current operational procedures, identify problems, and learn specific input and output requirements, such as forms of data input, how data is to be; summarized, and formats for reports.</li>\r\n\t\t\t\t<li>Writes detailed description of user needs, program functions, and steps required to develop or modify computer program.</li>\r\n\t\t\t\t<li>Reviews computer system capabilities, specifications, and scheduling limitations to determine if requested program or program change is possible within existing system.</li>\r\n\t\t\t</ul>\r\n\r\n\t\t\t<p><b>Minimum Requirements:</b></p>\r\n\r\n\t\t\t<p><b>Required Skills</b></p>\r\n\r\n\t\t\t<ul type=\"disc\">\r\n\t\t\t\t<li>10&plus; years of experience with Informatica tools including PowerCenter, IICS, IDMC, MDM, Axon, EDC, IDQ, Customer360, Supplier360, and Entity360.</li>\r\n\t\t\t\t<li>10&plus; years of experience establishing Master Data Management (MDM) and Reference Data Management solutions for large enterprise organizations, with expertise in Informatica MDM.</li>\r\n\t\t\t\t<li>10&plus; years of experience implementing Data Quality rules, validation frameworks, and profiling using Informatica Data Quality (IDQ).</li>\r\n\t\t\t</ul>\r\n\r\n\t\t\t<p><b>Preferred Skills</b></p>\r\n\r\n\t\t\t<ul type=\"disc\">\r\n\t\t\t\t<li>4&plus; years of experience working with Snowflake and enterprise-scale data platforms.</li>\r\n\t\t\t\t<li>Bachelor&#39;s degree in Computer Science, Information Systems, or a related field (equivalent experience accepted); Master&#39;s degree or 6&plus; years of relevant experience preferred.</li>\r\n\t\t\t\t<li>2&plus; years of experience in the Healthcare/Public Health domain.</li>\r\n\t\t\t\t<li>2&plus; years of experience working with State Government/Public Sector agencies.</li>\r\n\t\t\t\t<li>2&plus; years of experience developing Python scripts for automation and API integrations.</li>\r\n\t\t\t</ul>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
     "recruiter": [
       "Mani Infoway",
       "mani.t@infowaygroup.com",
       "9252415753"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32389296",
-    "time_scraped": 1780517108659,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542778",
+    "time_scraped": 1783057919324,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32389094,
-    "title": "Denodo Developer ",
-    "location": "None, None",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780390743000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<p>Role: Denodo Developer</p>\r\n\r\n<p>Experience: 5&ndash;10 Years</p>\r\n\r\n<p>Location: Pune</p>\r\n\r\n<p> </p>\r\n\r\n<p>Primary Skills:</p>\r\n\r\n<p> </p>\r\n\r\n<p>Denodo</p>\r\n\r\n<p>Data Virtualization</p>\r\n\r\n<p>VQL</p>\r\n\r\n<p>AWS (S3, Redshift, Glue, Lambda)</p>\r\n\r\n<p>SQL</p>\r\n\r\n<p>Secondary Skills:</p>\r\n\r\n<p> </p>\r\n\r\n<p>ETL / Data Integration</p>\r\n\r\n<p>REST APIs</p>\r\n\r\n<p>Snowflake / Data Warehousing</p>\r\n\r\n<p>Performance Tuning</p>\r\n\r\n<p>BI Tools (Tableau / Power BI)</p>\r\n\r\n<p>Job Summary:</p>\r\n\r\n<p>Looking for a Denodo Developer with AWS experience to build data virtualization solutions, integrate multiple data sources, and support scalable data architecture</p>\r\n",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32389094",
-    "time_scraped": 1780517118438,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32388555,
-    "title": "SAP FICO Consultant INDIA ",
+    "id": 32542764,
+    "title": "Cloud Infrastructure Idty Mngmt",
     "location": "",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/1/2026",
-      "date_posted": 1780356551000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 100,
-    "description": "<strong><span style=\"font-size:12.0pt;\">Hi Team,</span></strong><br />\r\n <br />\r\n<strong><span style=\"font-size:12.0pt;\">Kindly find the below requirement for SAP FICO Consultant.</span></strong><br />\r\n <br />\r\n<strong><span style=\"font-size:12.0pt;\">Position: SAP FICO Consultant</span></strong><br />\r\n<strong><span style=\"font-size:12.0pt;\">Location: India (Remote)</span></strong><br />\r\n<strong><span style=\"font-size:12.0pt;\">Experience Level: Mid-Senior</span></strong><br />\r\n<br />\r\n<br />\r\n<strong><span style=\"font-size:18.0pt;\">Manager name - Anirudh Das -- Program Director, Enterprise Solutions at Tata Consultancy Services<br />\r\nEmail to send the resumes - <a href=\"mailto:Ani.das@tcs.com\">Ani.das@tcs.com</a></span></strong><br />\r\n <br />\r\n<br />\r\n<span style=\"font-size:12.0pt;\"><strong>Job Description:</strong></span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">We are looking for an experienced SAP FICO Consultant with strong expertise in SAP Finance (FI) and Controlling (CO) modules. The ideal candidate should possess hands-on experience in SAP implementation, configuration, support, and enhancement projects. The consultant should be capable of gathering business requirements, designing solutions, performing system configurations, and providing end-user support.</span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">Key Requirements:</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Strong experience in SAP FI and CO modules</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Experience in implementation, rollout, or support projects</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Good understanding of business processes related to Finance and Controlling</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Ability to work independently and interact with business stakeholders</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Strong problem-solving and communication skills</span><br />\r\n<span style=\"font-size:12.0pt;\">&bull; Experience in SAP S/4HANA will be an added advantage</span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">This is a remote opportunity for candidates located in India.</span><br />\r\n <br />\r\n<span style=\"font-size:12.0pt;\">Please share suitable profiles for review.</span><br />\r\n<br />\r\n ",
-    "recruiter": [
-      "Nirmal Sharma",
-      "nirmal.sharma@infowaygroup.com",
-      "9111941541"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32388555",
-    "time_scraped": 1780517118340,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32388523,
-    "title": "Principal NSX Architect",
-    "location": "CA, Rosemead",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/1/2026",
-      "date_posted": 1780355272000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783030245000
     },
     "start": {
       "start_dateStr": null,
@@ -482,28 +152,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "Role Overview\r\n<p>As a Field Principal NSX Architect, you will lead the strategic design and modernization of network infrastructure for client. You will serve as the SME for VMware Cloud Foundation (VCF) 9.1, transitioning legacy SDDC environments into a unified, high-performance networking stack. This includes high-level design (HLD), low-level design (LLD), and technical mentorship for deployment teams.</p>\r\n\r\n<p>Key Responsibilities</p>\r\n\r\n<ul>\r\n\t<li>Architectural Design: Lead NSX design and implementation within VCF 9.1, focusing on unified multi-vCenter management and modernized topologies.</li>\r\n\t<li>Technical Leadership: Act as the primary lead for Broadcom and Client engineers; facilitate architecture review boards and ensure adherence to best practices.</li>\r\n\t<li>Design Validation: Oversee HLD/LLD documentation and conduct peer reviews for scalable architectures.</li>\r\n\t<li>Enterprise Architecture: Integrate Broadcom solutions (VCF, Tanzu, NSX, vSAN) into the existing IT landscape, developing detailed blueprints and implementation guides.</li>\r\n\t<li>PoC Guidance: Design and oversee Proof of Concepts to demonstrate solution benefits.</li>\r\n</ul>\r\n\r\n<p>Technical Requirements</p>\r\n\r\n<ul>\r\n\t<li>VCF 9.0 Expertise: Deep familiarity with VCF 9.0, including Networking underlay and Arista interoperation.</li>\r\n\t<li>NSX Mastery: Advanced experience with NSX 4.x/9.x (Overlay/Underlay, VPC topologies, BGP, and Load Balancing).</li>\r\n\t<li>Training: Completion of official VMware/Broadcom VCF 9.0 enablement or equivalent certification.</li>\r\n\t<li>Enterprise Experience: Proven track record with Fortune 100 financial institutions.</li>\r\n</ul>\r\n\r\n<p><b>-Python/Ansible experience</b></p>\r\n\r\n<p>Preferred Qualifications</p>\r\n\r\n<ul>\r\n\t<li>VCDX-NV, VCF Architect, or VCF Administrator certifications.</li>\r\n\t<li>Experience with VCF Automation (formerly Aria) and Infrastructure as Code (Terraform/Ansible).</li>\r\n\t<li>Familiarity with financial industry security protocols and change management.</li>\r\n</ul>\r\n\r\n<p>Core Competencies for VCF 9.1 Transition</p>\r\n\r\n<p>The architect must be familiar with new VCF 9.1 concepts, including:</p>\r\n\r\n<ul>\r\n\t<li>Unified Fleet Management: Managing multiple instances without Enhanced Linked Mode.</li>\r\n\t<li>Configuration Profiles: Declarative cluster-level configurations.</li>\r\n\t<li>VCF Installer: New unified deployment workflows.</li>\r\n</ul>\r\n",
+    "description": "<p>Merz Therapeutics is modernizing its global IT landscape to enable secure, seamless, and compliant digital collaboration. As a key member of the Corporate Software Services IT organization, the Manager, Cloud Infrastructure &amp; Identity Management plays a central role in driving Microsoft 365&ndash;centric projects that modernize the digital workplace at global scale.<br />\r\nThis role combines hands-on engineering expertise with strong project leadership, supporting enterprise initiatives such as Microsoft 365 platform modernization, Copilot adoption, Zero Trust security, and cloud-first transformation.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Key Responsibilities<br />\r\nMicrosoft 365 Platform &amp; Project Leadership (Primary Focus)</p>\r\n\r\n<p> </p>\r\n\r\n<p>Lead the architecture, engineering, and continuous improvement of Microsoft 365 services, including Entra ID, Exchange Online, SharePoint Online, Teams, and OneDrive. <br />\r\nDrive global Microsoft 365 projects from initiation through delivery, ensuring secure, scalable, and compliant outcomes. <br />\r\nOwn end-to-end project lifecycles, including planning, execution, stakeholder coordination, and successful delivery across regions. <br />\r\nLead optimization initiatives across the Microsoft 365 collaboration suite to improve performance, reliability, and user adoption at enterprise scale. <br />\r\nSupport the integration of third-party applications and automation initiatives within the Microsoft 365 ecosystem.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Copilot &amp; Digital Workplace Innovation</p>\r\n\r\n<p> </p>\r\n\r\n<p>Contribute to Copilot readiness and adoption initiatives, ensuring alignment with security, compliance, and identity governance requirements. <br />\r\nPartner with security, infrastructure, and endpoint teams to enable AI-assisted productivity within the Microsoft 365 platform. <br />\r\nSupport continuous improvement of digital workplace capabilities through automation, standardization, and governance.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Microsoft Teams, SharePoint &amp; Power Platform</p>\r\n\r\n<p> </p>\r\n\r\n<p>Lead and support Microsoft Teams and SharePoint Online services as core collaboration platforms. <br />\r\nEnable and govern Power Platform integrations and solutions aligned with enterprise standards. <br />\r\nDevelop technical documentation, standards, governance models, and best practices for collaboration and low-code platforms.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Security, Identity &amp; Compliance</p>\r\n\r\n<p> </p>\r\n\r\n<p>Implement and maintain security and compliance configurations, including identity governance, data protection, and Zero Trust principles. <br />\r\nCollaborate closely with security and endpoint teams on integrated identity and access solutions.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Operations, Support &amp; Team Leadership</p>\r\n\r\n<p> </p>\r\n\r\n<p>Provide Tier 3 engineering support for complex Microsoft 365, identity, and cloud-related incidents. <br />\r\nLead and motivate small, distributed project teams, fostering collaboration, accountability, and delivery excellence. <br />\r\nCoordinate cross-functional and international teams to ensure alignment with business and IT objectives.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Ideal Candidate Profile<br />\r\nThe ideal candidate is a hands-on Microsoft 365 engineer and project leader with a strong foundation in identity, security, and enterprise collaboration platforms. You thrive in a global environment and enjoy combining platform ownership, project execution, and digital workplace innovation, including Copilot and automation capabilities.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Work Experience<br />\r\nRequired Experience</p>\r\n\r\n<p> </p>\r\n\r\n<p>Strong experience in Microsoft 365 engineering, cloud security, and enterprise IT infrastructure <br />\r\nProven ability to lead and deliver global Microsoft 365&ndash;focused projects <br />\r\nSolid background in operational support, platform optimization, security, and compliance controls <br />\r\nYears of Experience</p>\r\n\r\n<p> </p>\r\n\r\n<p>We expect 5-10 years of Microsoft 365 Services experience.</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>Required Skills</p>\r\n\r\n<p> </p>\r\n\r\n<p>Microsoft 365 administration (Exchange Online, SharePoint Online, Teams, OneDrive) <br />\r\nEntra ID / identity and endpoint integration <br />\r\nZero Trust concepts and cloud security best practices <br />\r\nExposure to Copilot, automation, or AI-enabled productivity within Microsoft 365 <br />\r\nIncident management and structured problem-solving <br />\r\nDocumentation, standards, and governance development <br />\r\nStrong project management skills (Agile, Hybrid, or Waterfall)</p>\r\n",
     "recruiter": [
       "Hema Chandiran Infoway",
       "hemachandiran@infowaygroup.com",
       "9252664471"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32388523",
-    "time_scraped": 1780517118358,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542764",
+    "time_scraped": 1783057919315,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32387732,
-    "title": "Financial Analyst",
-    "location": "IL, Deerfield",
+    "id": 32542757,
+    "title": "Informatica Developer",
+    "location": "TX, Austin",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/1/2026",
-      "date_posted": 1780346394000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783030068000
     },
     "start": {
       "start_dateStr": null,
@@ -515,28 +185,94 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p>Job description:</p>\r\n\r\n<p><b>Summary:</b></p>\r\n\r\n<p>The main functions of a financial analyst are to gather and analyze financial information; will typically conduct quantitative analyses of information affecting investment programs of public or private institutions. A typical financial analyst is responsible for analyzing and communicating financial information for clients.</p>\r\n\r\n<p><b>Job Responsibilities:</b></p>\r\n\r\n<ul>\r\n\t<li>Assemble spreadsheets and draw charts and graphs used to illustrate technical reports.</li>\r\n\t<li>Analyze financial information to produce a forecast of business, industry and economic conditions for use in making investment decisions.</li>\r\n\t<li>Interpret data affecting investment programs, such as price, yield, stability and future trends in investment risks.</li>\r\n</ul>\r\n\r\n<p><b>Skills:</b></p>\r\n\r\n<ul>\r\n\t<li>Verbal and written communication skills, attention to detail, and critical thinking.</li>\r\n\t<li>Basic ability to work independently and manage one&Acirc;&#39;s time.</li>\r\n\t<li>Basic ability to analyze business trends and project future revenues and expenses.</li>\r\n\t<li>Basic knowledge of economic and accounting principles, the financial markets, and reporting of financial data.</li>\r\n\t<li>Basic knowledge of federal, state, and company policies, procedures and regulations as related to accounting.</li>\r\n\t<li>Previous experience with computer applications, such as Microsoft Word, Excel and PowerPoint, and any other related financial software.</li>\r\n</ul>\r\n\r\n<p><b>Education/Experience:</b></p>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in accounting or related financial discipline required. An advanced degree in a financial discipline is preferred.</li>\r\n\t<li>0-2 years of financial and/or accounting experience required.</li>\r\n</ul>\r\n\r\n<p><b>Location: 104 Wilmot Rd, Deerfield, IL 60015</b></p>\r\n",
+    "description": "<b data-olk-copy-source=\"MessageBody\">Role: Informatica Developer</b><br />\r\n<b>Location: Austin, TX (Hybrid)</b><br />\r\n<b>Duration: Long Term</b><br />\r\n<br />\r\n<b>Need 3 references&hellip; Previous State experience is highly desirable</b><br />\r\n <br />\r\n<b>Responsibilities:</b>\r\n<ul>\r\n\t<li>Understands business objectives and problems, identifies alternative solutions, performs studies and cost/benefit analysis of alternatives.</li>\r\n\t<li>Analyzes user requirements, procedures, and problems to automate processing or to improve existing computer system</li>\r\n\t<li>Confers with personnel of organizational units involved to analyze current operational procedures, identify problems, and learn specific input and output requirements, such as forms of data input, how data is to be; summarized, and formats for reports.</li>\r\n\t<li>Writes detailed description of user needs, program functions, and steps required to develop or modify computer program.</li>\r\n\t<li>Reviews computer system capabilities, specifications, and scheduling limitations to determine if requested program or program change is possible within existing system.</li>\r\n</ul>\r\n<b>Minimum Requirements:</b><br />\r\n<b>Required Skills</b>\r\n\r\n<ul>\r\n\t<li>10&plus; years of experience with Informatica tools including PowerCenter, IICS, IDMC, MDM, Axon, EDC, IDQ, Customer360, Supplier360, and Entity360.</li>\r\n\t<li>10&plus; years of experience establishing Master Data Management (MDM) and Reference Data Management solutions for large enterprise organizations, with expertise in Informatica MDM.</li>\r\n\t<li>10&plus; years of experience implementing Data Quality rules, validation frameworks, and profiling using Informatica Data Quality (IDQ).</li>\r\n</ul>\r\n<b>Preferred Skills</b>\r\n\r\n<ul>\r\n\t<li>4&plus; years of experience working with Snowflake and enterprise-scale data platforms.</li>\r\n\t<li>Bachelor&#39;s degree in Computer Science, Information Systems, or a related field (equivalent experience accepted); Master&#39;s degree or 6&plus; years of relevant experience preferred.</li>\r\n\t<li>2&plus; years of experience in the Healthcare/Public Health domain.</li>\r\n\t<li>2&plus; years of experience working with State Government/Public Sector agencies.</li>\r\n\t<li>2&plus; years of experience developing Python scripts for automation and API integrations.</li>\r\n</ul>\r\n",
+    "recruiter": [
+      "Jayaraman Infoway",
+      "jayaraman@infowaygroup.com",
+      "9252415719"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542757",
+    "time_scraped": 1783057919127,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32542608,
+    "title": "Java Full Stack(React)",
+    "location": "",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783026929000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "Java Full Stack(React)-- Irvine, CA",
+    "recruiter": [
+      "Adil Infoway",
+      "adil.s@infowaygroup.com",
+      "9255926170"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542608",
+    "time_scraped": 1783057932818,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32542454,
+    "title": "Product Surveillance Associate",
+    "location": "WI, Sturtevant",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783024554000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<br />\r\n<label for=\"null\" id=\"null\" name=\"null\" sm-content=\"id name for text\" sm-id=\"JobDescrLbl\" sm-parent=\"JobDescrLblWrpr\" sm-source=\"label,span:not([id*='$star'])\">Job Description:</label><br />\r\nThe Product Surveillance Specialist V performs day-to-day tasks and provides technical data assessment of post-market events and can support the Quality Department with Quality System activities including Change Control and Client/CAPA. This position plays an integral role in maintaining compliance with global regulations. The Product Surveillance Specialist V works with minimal supervision and requires a high degree of interaction with customers, health care professionals, global government agencies, and Global Merz employees at all levels within the organization.<br />\r\n<br />\r\nWork Environment:<br />\r\nOnsite Required<br />\r\nOvertime limited<br />\r\nMust be able to pass vision testing requirements at 20/20 near acuity vision (with or without corrective eyewear).<br />\r\n<br />\r\nKey Responsibilities:<br />\r\n&bull; Independently field inquiries received by phone, electronic or verbal correspondence and determine if it qualifies as a complaint; document reported issues according to applicable SOP(s).<br />\r\n&bull; Provide technical support and remote troubleshooting guidance as needed.<br />\r\n&bull; Independently review associated records, and contact users and customers to collect information on the treatment, product performance, functionality, etc.<br />\r\n&bull; Conduct periodic follow-up to close complaints in a timely manner.<br />\r\n&bull; Manage customer relationship and expectations during the course of the complaint investigation.<br />\r\n&bull; Independently complete investigations, which may include execution or coordination of product returns and subsequent evaluations, review of manufacturing records and ensuring proper approvals are obtained as part of closure.<br />\r\n&bull; Develop solutions to a variety of moderate problems.<br />\r\n&bull; Conduct statistical analysis of complaint trends.<br />\r\n&bull; Support training program by training users on the complaint process and tools used to assess and investigate complaints.<br />\r\n<br />\r\nProcess Improvement Initiatives:<br />\r\n&bull; Supports and may identify operational changes to improve efficiencies in all aspects of complaint handling.<br />\r\n&bull; Support and sometimes lead investigations associated with product deviations, product non-conformances, CAPAs, scrap and rework, and analyzing the data for the reasons of Quality Improvement and reporting.<br />\r\n&bull; Update internal operating procedures and specifications through the Document Change process.<br />\r\n<br />\r\nCompliance Initiatives:<br />\r\n&bull; Support and participate in internal quality system audits. Support external quality system audits.<br />\r\n&bull; Evaluate complaints and determine if the submission of a Medical Device Report (MDR) or other Vigilance Report is required.<br />\r\n&bull; Support submitting MDRs and Vigilance Reports according to regulatory timelines.<br />\r\n<br />\r\nEducation (required):<br />\r\nHigh School Diploma with 4 years of experience OR Associate&#39;s Degree with 2 years of experience OR Bachelor&#39;s Degree<br />\r\n<br />\r\nWork Experience:<br />\r\nMedical or Surgical Office Experience (preferred)<br />\r\nCustomer Service Experience (preferred)<br />\r\n<br />\r\nKnowledge, Skills, Abilities:<br />\r\n&bull; Familiar with ISO 13485 Quality System Standards, FDA Quality System Regulations, GMPs, and/or other international medical device regulations.<br />\r\n&bull; Basic medical and/or scientific terminology.<br />\r\n&bull; Highly organized with attention to detail.<br />\r\n&bull; Strong ability to prioritize and manage multiple records/reports simultaneously.<br />\r\n&bull; Professional phone etiquette with the ability to appropriately handle sensitive information.<br />\r\n&bull; Effective communication skills including written and verbal.<br />\r\n&bull; Ability to work with company staff and communicate effectively throughout the organization.<br />\r\n&bull; Proficient in Microsoft Office Suite.",
     "recruiter": [
       "Lokeeswaran Infoway",
       "lokeeswaran@infowaygroup.com",
       "5102280663"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32387732",
-    "time_scraped": 1780517127783,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32542454",
+    "time_scraped": 1783057932817,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32385284,
-    "title": "Full Stack Developer",
-    "location": "None, Greater Toronto Area",
+    "id": 32541981,
+    "title": "Product Manager",
+    "location": "CA, Pleasanton",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/1/2026",
-      "date_posted": 1780333825000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783019669000
     },
     "start": {
       "start_dateStr": null,
@@ -548,28 +284,94 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<h1>Full Stack Developer</h1>\r\n\r\n<p><strong>Location:</strong> Austin, TX<br />\r\n </p>\r\n\r\n<h2>Job Description</h2>\r\n\r\n<h3>1. Full Stack Development Expertise</h3>\r\n\r\n<ul>\r\n\t<li>5&plus; years of hands-on experience designing, developing, and deploying end-to-end web applications.</li>\r\n\t<li>Strong proficiency in frontend technologies such as React, Angular, or Vue.js.</li>\r\n\t<li>Strong backend development experience using Node.js, Java, or Python.</li>\r\n</ul>\r\n\r\n<h3>2. API Design &amp; Integration</h3>\r\n\r\n<ul>\r\n\t<li>Proven experience building and consuming RESTful and/or GraphQL APIs.</li>\r\n\t<li>Experience integrating third-party and internal services.</li>\r\n\t<li>Familiarity with API lifecycle management, versioning, and sandbox/test environment deployments.</li>\r\n</ul>\r\n\r\n<h3>3. Cloud &amp; DevOps Fundamentals</h3>\r\n\r\n<ul>\r\n\t<li>Working knowledge of cloud platforms such as AWS, GCP, or Azure.</li>\r\n\t<li>Experience with CI/CD pipelines and deployment automation.</li>\r\n\t<li>Hands-on experience with containerization technologies including Docker and Kubernetes.</li>\r\n\t<li>Understanding of environment variable management and secrets management best practices.</li>\r\n</ul>\r\n\r\n<h3>4. Event-Driven Architecture</h3>\r\n\r\n<ul>\r\n\t<li>Experience working with message streaming or event-driven systems such as Kafka or similar technologies.</li>\r\n\t<li>Ability to support asynchronous communication between microservices within distributed environments.</li>\r\n</ul>\r\n\r\n<h3>5. Database Proficiency</h3>\r\n\r\n<ul>\r\n\t<li>Strong command of relational databases including PostgreSQL and MySQL.</li>\r\n\t<li>Experience with NoSQL databases such as MongoDB and DynamoDB.</li>\r\n\t<li>Knowledge of schema design, query optimization, and scalable data modeling practices.</li>\r\n</ul>\r\n\r\n<h3>6. Collaboration &amp; Agile Delivery</h3>\r\n\r\n<ul>\r\n\t<li>Demonstrated ability to collaborate effectively with product, design, and engineering teams.</li>\r\n\t<li>Experience working within Agile/Scrum development environments.</li>\r\n\t<li>Proven track record of delivering features iteratively while maintaining high code quality.</li>\r\n\t<li>Commitment to code reviews, testing best practices, and continuous improvement.</li>\r\n</ul>\r\n",
+    "description": "<p><strong>Job Title: </strong>Product Manager</p>\r\n\r\n<p><strong>Location:</strong> South San Francisco</p>\r\n\r\n<p> </p>\r\n\r\n<p>We are seeking an experienced <strong><u>Product Manager</u></strong><u> with deep expertise in the pharmaceutical commercial space</u> to strategically drive and support <u>upcoming product launches for one of our pharma clients.</u></p>\r\n\r\n<p>Location: Hybrid (3 days a week at South San Francisco office)</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Position Overview:</strong></p>\r\n\r\n<p>We are currently seeking a strong Product Manager to help us build and launch the brand performance tracker for the upcoming client launch. We are looking for an outcome-driven approach structured around clear deliverables, SLAs, and measures of success. Rather than a standard metrics-mapping exercise, we need rigorous product management support through the MVP launch.</p>\r\n\r\n<p> </p>\r\n\r\n<p><strong>Key Requirements and Success Criteria:</strong></p>\r\n\r\n<p>&bull; Scalable Design &amp; Setup: The Brand view must be scalable to accommodate future launches and Tier 1/2 brands (e.g., future models may be hybrid SP/no-SP, need/not need REMS, hubs, etc.).</p>\r\n\r\n<p>&bull; Intuitive User Journey &amp; Harmonization: The tool needs logical, intuitive drilldowns from the National level down to the Segment/Ecosystem, Target List, HCO, and HCP levels. At the most granular levels, this must harmonize with existing Figma designs from other workstreams.</p>\r\n\r\n<p>&bull; Strategic Thought Partnership: When interfacing with TA I&amp;A and FAI, we expect thought partnership on metrics, business rules, and data visualization. We are looking for a partner to help systemically up level the product, rather than just consuming provided inputs.</p>\r\n\r\n<p>&bull; Technical Rigor &amp; Documentation: The PM must interface seamlessly with data teams. This requires writing detailed requirements and comprehensive documentation, assessing capabilities, and conducting testing and analysis on the data and metrics.</p>\r\n\r\n<p>&bull; Cross-Functional Process Management: The PM will need to efficiently link existing product readiness, manage the overall cross-functional process (both input and output perspectives), and provide daily/weekly updates to our core team.</p>\r\n\r\n<p>We are looking for a presentation from a candidate who can walk us through a tailored product management process specifically for the asked brand launch tracker, rather than a generic 101-level outline.</p>\r\n ",
     "recruiter": [
       "Ashish Infoway",
       "ashish.m@infowaygroup.com",
       "9253994684"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32385284",
-    "time_scraped": 1780517127658,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32541981",
+    "time_scraped": 1783057932817,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32385080,
-    "title": "Senior .NET Developer",
+    "id": 32541501,
+    "title": " Jira SaaS Administrator",
+    "location": "DC, Washington, DC",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783015977000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": " \r\n<p><b data-olk-copy-source=\"MessageBody\">Client: Client Board</b></p>\r\n\r\n<p><b>Primary Vendor: Innovee Consulting Inc</b></p>\r\n\r\n<p><b>Role: Jira SaaS Administrator</b></p>\r\n\r\n<p><b>Location: Washington, DC</b></p>\r\n\r\n<p><b>Duration: Long Term</b></p>\r\n\r\n<p><b> </b></p>\r\n\r\n<p><b>Only USC for this role</b></p>\r\n\r\n<p><b>***3 professional References****</b></p>\r\n\r\n<p><b> </b></p>\r\n\r\n<p><b>Position Overview:</b></p>\r\n\r\n<p>We are seeking an experienced Jira SaaS Administrator to manage, maintain, and optimize our Atlassian Cloud environment. The ideal candidate will have deep expertise in Jira Software, Jira Service Management, and Atlassian Cloud administration. This role will partner with technology and DevSecOps teams to implement scalable solutions, improve workflows, and ensure platform reliability, security, and governance.</p>\r\n\r\n<p><b>Key Responsibilities:</b></p>\r\n\r\n<ul>\r\n\t<li>Administer and maintain Jira Cloud instance(s) including user management, permissions, and security</li>\r\n\t<li>Design, configure, and maintain projects, workflows, screens, issue types, fields, permissions, and notification schemes.</li>\r\n\t<li>Install, configure, and maintain Marketplace apps/plugins</li>\r\n\t<li>Manage Jira projects, boards (Scrum/Kanban), and dashboards</li>\r\n\t<li>Configure and support integration with enterprise applications and third-party tools</li>\r\n\t<li>Monitor system performance and implement optimization strategies</li>\r\n\t<li>Develop and maintain automation rules to improve operational efficiency</li>\r\n\t<li>Create and maintain technical documentation, knowledge articles, and operational procedures</li>\r\n\t<li>Support migration, enhancement, and continuous improvement initiatives.</li>\r\n\t<li>Manage user provisioning, access controls, groups, roles, and permissions</li>\r\n\t<li>Implement governance, standards, and best practices for Atlassian Cloud platforms</li>\r\n\t<li>Provide guidance and training to end users, project teams, and administrators</li>\r\n\t<li>Monitor platform health, usage, performance, and licensing</li>\r\n\t<li>Ensure compliance with security policies and data governance</li>\r\n\t<li>Troubleshoot and resolve platform issues, collaborating with vendors and stakeholders as needed.</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p><b>Required Qualifications:</b></p>\r\n\r\n<ul>\r\n\t<li>5&plus; years of hands-on Jira Cloud/SAAS administration experience</li>\r\n\t<li>Strong understanding of Agile/Scrum methodologies</li>\r\n\t<li>Proficiency with Jira workflows, schemes, and configurations</li>\r\n\t<li>Experience with JQL (Jira Query Language)</li>\r\n\t<li>Knowledge of Jira permissions and security schemes</li>\r\n\t<li>Familiarity with Atlassian Marketplace apps</li>\r\n\t<li>Strong problem-solving and analytical skills</li>\r\n\t<li>Excellent communication and documentation skills</li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<p><b>Preferred Qualifications</b></p>\r\n\r\n<ul>\r\n\t<li>Atlassian Certified Jira Administrator (ACP-620) or similar certification</li>\r\n\t<li>Experience with Jira Service Management</li>\r\n\t<li>Background in IT service management or DevOps</li>\r\n</ul>\r\n\r\n<p> </p>\r\n",
+    "recruiter": [
+      "Sourabh Shukla",
+      "Sourabh@infowaygroup.com",
+      "8959078051"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32541501",
+    "time_scraped": 1783057942229,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32541467,
+    "title": "BI Developer",
+    "location": "IL, Chicago",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783015669000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<p>CCC Reporting &amp; Dashboard Development</p>\r\n\r\n<p>SCOPE OF WORK</p>\r\n\r\n<p> </p>\r\n\r\n<p>THE CITY COLLEGES OF CHICAGO</p>\r\n\r\n<p>https://ccc.edu</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>5/22/2026</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p>OVERVIEW</p>\r\n\r\n<p>City Colleges of Chicago (CCC) is seeking an experienced BI Developer to support the development of interactive dashboards, reports, and analytical solutions that provide centralized access to key institutional metrics. These solutions will support data-informed decision making, operational planning, and student success initiatives in alignment with institutional priorities, including 55 for All. The consultant will support multiple reporting and analytics initiatives across departments by developing scalable, user-friendly reporting solutions and improving access to institutional data. The ideal consultant will have expertise in Tableau dashboard development, data visualization, and reporting tools, along with experience translating business and operational needs into technical solutions. CCC&#39;s Decision Support and Business Intelligence teams will provide the necessary data access, licenses, and institutional support. The consultant may work on multiple reporting projects, dashboards, and analytical initiatives that support institutional health, operational effectiveness, strategic planning, and continuous improvement efforts across the organization.</p>\r\n\r\n<p>SCOPE OF WORK</p>\r\n\r\n<p>The selected consultant will be responsible for:</p>\r\n\r\n<p>Dashboard Design and Development</p>\r\n\r\n<p>&middot; Designing, developing, and maintaining interactive dashboards, reports, and visual analytics solutions for institutional and operational reporting needs</p>\r\n\r\n<p>&middot; Creating standardized and reusable dashboard templates and reporting frameworks that can support multiple initiatives and departments</p>\r\n\r\n<p>&middot; Developing intuitive navigation, filtering, and self-service functionality for end users</p>\r\n\r\n<p>&middot; Supporting reporting initiatives related to institutional effectiveness, student success, compliance, operations, and strategic planning</p>\r\n\r\n<p>&middot; Applying data visualization best practices and accessibility standards across reporting solutions</p>\r\n\r\n<p>Data Integration and Automation</p>\r\n\r\n<p>&middot; Connecting dashboards and reports to institutional data systems and data sources for scheduled or real-time updates</p>\r\n\r\n<p>&middot; Supporting automated data refresh processes, validation procedures, and quality assurance activities</p>\r\n\r\n<p>&middot; Collaborating with internal teams to establish appropriate data governance, security, and reporting standards</p>\r\n\r\n<p>&middot; Assisting with integration of reporting tools with databases, APIs, SharePoint lists, and other enterprise systems</p>\r\n\r\n<p>Content Organization</p>\r\n\r\n<p>&middot; Collaborating with stakeholders to standardize metric definitions, calculations, and reporting methodologies</p>\r\n\r\n<p>&middot; Ensuring consistency in reporting structures, dashboard layouts, and visualization practices across projects</p>\r\n\r\n<p>&middot; Supporting documentation of reporting processes, governance standards, and technical workflows</p>\r\n\r\n<p>Testing and Continuous Improvement</p>\r\n\r\n<p>&middot; Conducting usability testing and gathering stakeholder feedback to improve reporting solutions</p>\r\n\r\n<p>&middot; Developing sustainable maintenance and support processes for long-term reporting initiatives</p>\r\n\r\n<p>User Training and Documentation</p>\r\n\r\n<p>&middot; Creating Developing training materials and guides for end users and administrators</p>\r\n\r\n<p> </p>\r\n\r\n<p>Timeline</p>\r\n\r\n<p>Proposals should include a clear timeline, but we aim to begin this work in mid-July 2026 and end in late-August with the possibility of extending based on institutional needs.</p>\r\n\r\n<p>Preferred Qualifications</p>\r\n\r\n<p>Technical Expertise</p>\r\n\r\n<p>&middot; Expert proficiency in Tableau Desktop, Prep and Cloud with demonstrated experience creating interactive dashboards, is required</p>\r\n\r\n<p>&middot; Experience in dashboard development, including interactive features and automated data pipelines</p>\r\n\r\n<p>&middot; Strong knowledge of higher education data structures and common metrics</p>\r\n\r\n<p>&middot; Ability to integrate Tableau with institutional data systems and databases, including PeopleSoft CS9, SharePoint, OpenBook, and application programming interfaces (APIs).</p>\r\n\r\n<p>&middot; Strong background in data visualization best practices and accessibility standards</p>\r\n\r\n<p>&middot; Proficiency in SQL, ETL processes, and relevant programming languages</p>\r\n\r\n<p> </p>\r\n\r\n<p>Collaboration &amp; Communication Skills</p>\r\n\r\n<p>&middot; Ability to work collaboratively with stakeholders across multiple departments</p>\r\n\r\n<p>&middot; Strong problem-solving skills and ability to translate user needs into technical solutions</p>\r\n\r\n<p>&middot; Experience creating clear documentation and training materials</p>\r\n\r\n<p>&middot; Excellent verbal and written communication skills</p>\r\n\r\n<p> </p>\r\n\r\n<p>Preferred Experience &amp; Certifications</p>\r\n\r\n<p>&middot; Tableau dashboard development experience in a higher education environment</p>\r\n\r\n<p>&middot; Previous work with community college data systems and metrics</p>\r\n\r\n<p>&middot; Tableau certifications such as:</p>\r\n\r\n<p>o Tableau Desktop Certified Professional</p>\r\n\r\n<p>o Tableau Server Certified Professional</p>\r\n\r\n<p>o Tableau Data Management Certified</p>\r\n",
+    "recruiter": [
+      "Adil Infoway",
+      "adil.s@infowaygroup.com",
+      "9255926170"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32541467",
+    "time_scraped": 1783057942391,
+    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
+    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32541458,
+    "title": "Program Manager",
     "location": "",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/1/2026",
-      "date_posted": 1780332221000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783015583000
     },
     "start": {
       "start_dateStr": null,
@@ -581,28 +383,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<h2>Job Title: Senior .NET Developer</h2>\r\n\r\n<p><strong>Client:</strong> Cognizant/End client not disclosed yet<br />\r\n<strong>Location:</strong> Remote<br />\r\n<strong>Experience:</strong> 10&plus; Years</p>\r\n\r\n<hr />\r\n<h2>Job Summary</h2>\r\n\r\n<p>We are seeking a highly skilled Senior .NET Developer with strong coding expertise and extensive experience in building enterprise-scale applications using .NET Core, C#, GCP, and Microservices architecture. The ideal candidate should have hands-on experience with cloud-native development, messaging systems, containerization, and team leadership.</p>\r\n\r\n<hr />\r\n<h2>Mandatory Skills</h2>\r\n\r\n<h3>.NET Development</h3>\r\n\r\n<ul>\r\n\t<li>10&plus; years of experience developing enterprise applications</li>\r\n\t<li>C#.NET</li>\r\n\t<li>.NET Core</li>\r\n\t<li>Entity Framework</li>\r\n\t<li>Backend Service Development</li>\r\n</ul>\r\n\r\n<h3>Cloud Technologies</h3>\r\n\r\n<ul>\r\n\t<li>Google Cloud Platform (GCP)</li>\r\n\t<li>Cloud-native application development</li>\r\n\t<li>GCP Spanner</li>\r\n\t<li>Firestore</li>\r\n\t<li>Functions &amp; Triggers</li>\r\n\t<li>Stored Procedures</li>\r\n</ul>\r\n\r\n<h3>Messaging &amp; Integration</h3>\r\n\r\n<ul>\r\n\t<li>Google Pub/Sub</li>\r\n\t<li>Kafka</li>\r\n\t<li>Queue-based architectures</li>\r\n</ul>\r\n\r\n<h3>Architecture &amp; Development</h3>\r\n\r\n<ul>\r\n\t<li>Microservices Architecture</li>\r\n\t<li>Scalable, secure, and high-performance applications</li>\r\n\t<li>Design Principles &amp; Solution Design</li>\r\n\t<li>Application Performance Tuning</li>\r\n</ul>\r\n\r\n<h3>Containers &amp; Orchestration</h3>\r\n\r\n<ul>\r\n\t<li>Docker</li>\r\n\t<li>Kubernetes</li>\r\n\t<li>Containerization Technologies</li>\r\n</ul>\r\n\r\n<h3>Development Practices</h3>\r\n\r\n<ul>\r\n\t<li>Code Reviews</li>\r\n\t<li>Unit Testing</li>\r\n\t<li>Application Deployment</li>\r\n\t<li>Agile Framework</li>\r\n\t<li>Team Leadership &amp; Mentoring</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Key Responsibilities</h2>\r\n\r\n<ul>\r\n\t<li>Design and develop scalable backend services using C# and .NET Core</li>\r\n\t<li>Build cloud-native applications on Google Cloud Platform</li>\r\n\t<li>Develop and support microservices-based solutions</li>\r\n\t<li>Participate in architecture, design, development, validation, and support activities</li>\r\n\t<li>Perform code reviews and ensure coding best practices</li>\r\n\t<li>Troubleshoot development and production issues across multiple environments</li>\r\n\t<li>Lead and mentor development teams</li>\r\n\t<li>Collaborate in Agile development processes</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Good to Have Skills</h2>\r\n\r\n<ul>\r\n\t<li>DevOps using open-source tools</li>\r\n\t<li>GitHub Actions</li>\r\n\t<li>Git Source Control</li>\r\n\t<li>Agile &amp; Scrum Methodologies</li>\r\n\t<li>Pub/Sub and Messaging Platforms</li>\r\n\t<li>Strong analytical and problem-solving skills</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Technology Stack</h2>\r\n\r\n<h3>Languages &amp; Frameworks</h3>\r\n\r\n<ul>\r\n\t<li>C#.NET</li>\r\n\t<li>.NET Core</li>\r\n\t<li>Entity Framework</li>\r\n</ul>\r\n\r\n<h3>Cloud Platform</h3>\r\n\r\n<ul>\r\n\t<li>Google Cloud Platform (GCP)</li>\r\n</ul>\r\n\r\n<h3>Compute &amp; Orchestration</h3>\r\n\r\n<ul>\r\n\t<li>Google Kubernetes Engine (GKE)</li>\r\n\t<li>Cloud Run</li>\r\n\t<li>App Engine</li>\r\n</ul>\r\n\r\n<h3>Storage &amp; Databases</h3>\r\n\r\n<ul>\r\n\t<li>Cloud Storage</li>\r\n\t<li>Spanner</li>\r\n\t<li>Firestore</li>\r\n</ul>\r\n\r\n<h3>Networking &amp; Security</h3>\r\n\r\n<ul>\r\n\t<li>Cloud Load Balancing</li>\r\n\t<li>Cloud Service Mesh</li>\r\n\t<li>Google Cloud Armor</li>\r\n</ul>\r\n\r\n<h3>API Management</h3>\r\n\r\n<ul>\r\n\t<li>Apigee</li>\r\n</ul>\r\n\r\n<h3>Messaging &amp; Integration</h3>\r\n\r\n<ul>\r\n\t<li>Pub/Sub</li>\r\n\t<li>Workflows</li>\r\n\t<li>Kafka</li>\r\n</ul>\r\n\r\n<h3>Developer Tools &amp; CI/CD</h3>\r\n\r\n<ul>\r\n\t<li>Git</li>\r\n\t<li>GitHub Actions</li>\r\n\t<li>Gemini / GHCP</li>\r\n\t<li>Artifact Registry</li>\r\n</ul>\r\n\r\n<h3>Monitoring &amp; Operations</h3>\r\n\r\n<ul>\r\n\t<li>Cloud Monitoring</li>\r\n\t<li>Cloud Logging</li>\r\n\t<li>Cloud Trace</li>\r\n</ul>\r\n\r\n<hr />\r\n<h2>Preferred Qualifications</h2>\r\n\r\n<ul>\r\n\t<li>Experience with Data Warehouse concepts</li>\r\n\t<li>Strong understanding of cloud-native architecture</li>\r\n\t<li>Experience leading development teams</li>\r\n\t<li>Excellent communication and stakeholder collaboration skills</li>\r\n</ul>\r\n",
+    "description": "<p><strong>Job Title: </strong>Program Manager</p>\r\n\r\n<p><strong>Location: </strong>New Jersey, US</p>\r\n\r\n<p><strong>Experience:</strong> 20&plus; Years</p>\r\n\r\n<p> </p>\r\n\r\n<h1><strong>Job Description</strong></h1>\r\n\r\n<p>Lead end-to-end delivery of the <strong>Oracle Retail MFCS implementation</strong> covering <strong>program governance, solution design, build, testing, and rollout</strong>, ensuring alignment with business objectives and successful transformation outcomes </p>\r\n\r\n<p> </p>\r\n\r\n<h1><strong>Core Skills</strong></h1>\r\n\r\n<p>Program Leadership | Stakeholder Management | Oracle Retail MFCS | Retail Merchandising | Delivery Governance | Risk Management </p>\r\n\r\n<p> </p>\r\n\r\n<h1><strong>Experience Required</strong></h1>\r\n\r\n<ul>\r\n\t<li>Proven track record in large-scale retail transformation programs</li>\r\n\t<li>Experience in global delivery models and multi-phase rollouts</li>\r\n\t<li>Strong leadership in stakeholder management, executive communication, and program governance </li>\r\n</ul>\r\n\r\n<p> </p>\r\n\r\n<h1><strong>Key Responsibilities</strong></h1>\r\n\r\n<p>&bull;     <strong>Own full program delivery</strong> lifecycle (Design &rarr; Build &rarr; Test &rarr; Deploy &rarr; Hypercare) with accountability for scope, schedule, and outcomes </p>\r\n\r\n<h1>       &bull;     Establish and drive program governance, including executive reporting, KPIs, and steering committees</h1>\r\n\r\n<ul>\r\n\t<li>Act as the primary interface for <strong>client leadership and business stakeholders</strong>, ensuring alignment and decision-making</li>\r\n\t<li>Provide <strong>executive leadership</strong> across business and IT, driving program direction and outcomes</li>\r\n\t<li><strong>Partner closely with business</strong> teams to understand priorities, align solutions, and ensure adoption readiness</li>\r\n\t<li><strong>Oversee solution</strong> design and architecture across MFCS and integrated systems</li>\r\n\t<li><strong>Drive risk, issue, and dependency management</strong>, ensuring proactive mitigation and escalation</li>\r\n\t<li>Ensure business readiness, change management, and user adoption across the enterprise</li>\r\n\t<li>Maintain <strong>strong communication</strong> cadence across stakeholders, ensuring transparency and alignment</li>\r\n\t<li>Manage cross-functional teams (functional, technical, data, testing) across global locations</li>\r\n\t<li>Coordinate build, integrations, and data migration ensuring seamless execution across systems</li>\r\n\t<li>Govern end-to-end testing, quality assurance, and readiness for go-live</li>\r\n\t<li>Lead cutover planning, phased rollouts, and hypercare stabilization </li>\r\n</ul>\r\n",
     "recruiter": [
       "Ashish Infoway",
       "ashish.m@infowaygroup.com",
       "9253994684"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32385080",
-    "time_scraped": 1780517127802,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32541458",
+    "time_scraped": 1783057943468,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15
   },
   {
-    "id": 32384683,
-    "title": "Connected Services / Telematics Engineer – Automotive Domain Location",
-    "location": "",
+    "id": 32540905,
+    "title": ".Net Developer",
+    "location": "GA, None",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/1/2026",
-      "date_posted": 1780328915000
+      "date_postedStr": "7/2/2026",
+      "date_posted": 1783011502000
     },
     "start": {
       "start_dateStr": null,
@@ -614,47 +416,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<h1>Job Title: Connected Services / Telematics Engineer &ndash; Automotive Domain</h1>\r\n\r\n<h2>Location</h2>\r\n\r\n<p>Remote (U.S. Based Candidates Preferred)</p>\r\n\r\n<h2>Employment Type</h2>\r\n\r\n<p>Contract / Full-Time</p>\r\n\r\n<h2>Client</h2>\r\n\r\n<p>Toyota (Through Infosys)</p>\r\n\r\n<h2>Job Overview</h2>\r\n\r\n<p>We are looking for experienced Automotive Connected Services Engineers with strong hands-on expertise in connected vehicle technologies, telematics, and multimedia systems. The ideal candidate should have real-world automotive product development experience working on connected vehicle features and remote services platforms.</p>\r\n\r\n<p>Candidates with only automotive parts or manufacturing experience will not be considered.</p>\r\n\r\n<h2>Key Responsibilities</h2>\r\n\r\n<ul>\r\n\t<li>Design, develop, integrate, and support connected vehicle services and telematics solutions</li>\r\n\t<li>Work on automotive remote services and mobile application integrations</li>\r\n\t<li>Support and enhance features including:\r\n\t<ul>\r\n\t\t<li>Remote Engine Start</li>\r\n\t\t<li>Remote Door Lock/Unlock</li>\r\n\t\t<li>Vehicle Locator</li>\r\n\t\t<li>Vehicle Status Notifications through Mobile Apps</li>\r\n\t\t<li>Connected Vehicle Services</li>\r\n\t\t<li>Multimedia &amp; Telematics Systems</li>\r\n\t\t<li>Remote Vehicle Operations</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Collaborate with cross-functional engineering teams including mobile, cloud, embedded, and backend teams</li>\r\n\t<li>Troubleshoot connectivity, integration, and system-level issues</li>\r\n\t<li>Participate in system validation, testing, and deployment activities</li>\r\n\t<li>Work closely with OEM stakeholders and program teams</li>\r\n</ul>\r\n\r\n<h2>Required Skills</h2>\r\n\r\n<ul>\r\n\t<li>Strong hands-on experience in Automotive Connected Services</li>\r\n\t<li>Experience with Telematics, Infotainment, or Multimedia Systems</li>\r\n\t<li>Knowledge of connected vehicle architecture and remote vehicle functionality</li>\r\n\t<li>Experience integrating vehicle functions with mobile applications</li>\r\n\t<li>Understanding of automotive communication systems and connected platforms</li>\r\n\t<li>Experience working with OEMs or Tier-1 automotive suppliers preferred</li>\r\n\t<li>Strong debugging, integration, and troubleshooting skills</li>\r\n\t<li>Excellent communication and collaboration skills</li>\r\n</ul>\r\n\r\n<h2>Mandatory Requirements</h2>\r\n\r\n<ul>\r\n\t<li>Automotive hands-on experience is REQUIRED</li>\r\n\t<li>Candidates must have worked directly on automotive software/products/platforms</li>\r\n\t<li>Candidates with only automotive parts experience will NOT be considered</li>\r\n</ul>\r\n\r\n<h2>Preferred Qualifications</h2>\r\n\r\n<ul>\r\n\t<li>Prior experience with Toyota or similar automotive OEMs is a plus</li>\r\n\t<li>Experience in Connected Vehicle Platforms or Remote Services programs</li>\r\n\t<li>USC and GC candidates preferred over H1B</li>\r\n</ul>\r\n",
+    "description": "<p><strong>Role: .NET Developer</strong></p>\r\n\r\n<p><strong>Duration: 12&plus; Months</strong></p>\r\n\r\n<p><strong>Location: 2595 Century Pkwy, NE, Atlanta, GA 30345</strong></p>\r\n\r\n<p><strong>Work Arrangement: Hybrid</strong></p>\r\n\r\n<p><strong>Interview Mode: In-Person</strong></p>\r\n\r\n<p> </p>\r\n\r\n<p><strong> </strong></p>\r\n\r\n<p><strong>Candidate MUST be local to Metro Atlanta*</strong></p>\r\n\r\n<p><strong>*RECENT UNDERGRAD GRADUATE*</strong><br />\r\n<br />\r\n<strong>Do NOT submit candidates previously submit to #803256</strong><br />\r\n </p>\r\n\r\n<p><strong>**US Citizen or GC-Permanent Resident**</strong><br />\r\n<strong>*Tax Clearance Letter, due at the time of submission* (pls review the attachment on how the CANDIDATE must obtain this letter)</strong></p>\r\n\r\n<p><strong> </strong></p>\r\n\r\n<p><strong>Job Description:</strong></p>\r\n\r\n<p>Under direct supervision, designs, codes, tests, modifies and debugs computer software. Researches and analyzes program or systems problems and develops program documentation. Translates business requirements into development activities in secure and maintainable code. Supports configuration of all aspects of the GenTax&reg; COTS application.<br />\r\n<br />\r\n<strong>*MUST BE LOCAL METRO ATLANTA CANDIDATES*</strong><br />\r\n<br />\r\n<strong>Qualifications:</strong><br />\r\n&bull;US Citizenship or Green Card status is required <br />\r\n&bull;Working knowledge of Structured Query Language (SQL)<br />\r\n&bull;Experience in Microsoft .NET<br />\r\n<br />\r\n<strong>Qualifications:</strong><br />\r\n&bull;Bachelor&#39;s degree from an accredited college or university with coursework in computer science or<br />\r\nmanagement information systems.<br />\r\n&bull;Knowledge and experience working with software development organizations<br />\r\n&bull;Strong analytical and problem-solving skills<br />\r\n<br />\r\n<strong>Other Notes:</strong><br />\r\n&bull;DOR will conduct a background check on all candidates considered for the position. Individuals must be compliant with Georgia tax obligations.<br />\r\n&bull;Individuals having any overdue and unpaid taxes or any felony convictions (no matter how long ago) will not be offered the position or hired.<br />\r\n&bull;All employees will be fingerprinted.<br />\r\n&bull;Candidates must be willing to relocate to Georgia for at least the duration of the contract, if not already a resident of Georgia.</p>\r\n",
     "recruiter": [
       "Ashish Infoway",
       "ashish.m@infowaygroup.com",
       "9253994684"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32384683",
-    "time_scraped": 1780517135177,
-    "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
-    "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32381412,
-    "title": "Pen Testers",
-    "location": "None, None",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/1/2026",
-      "date_posted": 1780308716000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Pen Testers for Bangalore location",
-    "recruiter": [
-      "Mani Infoway",
-      "mani.t@infowaygroup.com",
-      "9252415753"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32381412",
-    "time_scraped": 1780517135179,
+    "url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google&SearchString=#/jobs/32540905",
+    "time_scraped": 1783057952287,
     "source_company": "27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72",
     "source_url": "https://www1.jobdiva.com/portal/?a=27jdnwd8fhffpt2xve797ym4nkhbo7060cuzlqid0wza3mxw0qff4at17y3ouv72&jobid=29994863&source=google",
     "date_cutoff_days": 15

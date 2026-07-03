@@ -1,14 +1,14 @@
 [
   {
-    "id": 32344592,
-    "title": "Quality Engineer",
+    "id": 32534556,
+    "title": "Technical Lead",
     "location": "CA, Los Angeles",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779386719000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782923626000
     },
     "start": {
       "start_dateStr": null,
@@ -20,61 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  1. Manage and maintain internal LADBS applications from deployment through <br /> \r\ncutover to LADBS staff. <br /> \r\n2. Provide UAT Execution Summary Reports (Clariti) <br /> \r\n3. Prepare internal QA test plans and Standard Operating Procedures (SOPs) <br /> \r\n4. Prepare Jira and Zephyr configuration and usage guides <br /> \r\n5. Develop and maintain QA Dashboard with metrics (coverage, bugs, velocity) <br /> \r\n6. Create and update documentation for QA Environment setup <br /> \r\n7. Deliver monthly progress reports <br /> \r\n8. Other related tasks identified by LADBS. </span> </span> </div> \r\n",
-    "recruiter": [
-      "Harish Venkataswamy",
-      "harish.venkataswamy@satwic.com",
-      "8182307636"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0&SearchString=#/jobs/32344592",
-    "time_scraped": 1779749857033,
-    "source_company": "nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr",
-    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32332122,
-    "title": "BI Developer",
-    "location": "CA, Los Angeles",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779231884000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>  QUALIFICATIONS AND DUTIES<br />  \r\n1. Design, automate and support sophisticated data extraction, transformation, and loading applications.<br />  \r\n2. Strong knowledge of Oracle database for batch application development within data warehouse / data lake environment.<br />  \r\n3. Perform data ingestion from heterogeneous data sources to on-premises or cloud data storage, (including and not limited to snowflake, AWS, etc.)<br />  \r\n4. Experience managing ETL using DBT, ODI, Oracle PL/SQL, Oracle SQL and ShellScript.<br />  \r\n5. Experience and knowledge in developing dimensional hierarchies, design data model to support multiple Enterprise Data Management reports. Work with all stakeholders including business customers, vendors, and internal resources to facilitate team communication and achieve the mission.<br />  \r\n6. Creates and improves data solutions that enable smooth data delivery and is in charge of gathering, processing, maintaining, and analyzing enormous amounts of data.<br />  \r\n7. Experience in data quality validation.<br />  \r\n8. Knowledge/Experience in API development frameworks.<br />  \r\n9. Knowledge/Expierience in Cloud native data integration technologies<br />  \r\n10. Data lake migration experience from on prem systems to cloud platform<br />  \r\n11. Previous Experience working on LAUSD Data Lake systems<br />  \r\n12. Min 3 years' experience in building incremental models/handling raw data layers and building DBT models for LAUSD Vendors/Application<br />  \r\n13. Proficiency in dbt (Data Build Tool) development, including macros, hooks, and incremental models. Experience converting complex Oracle stored procedures into modular dbt models.<br />  \r\n14. Ability to write DBT tests for data quality and manage security on DBT models.<br />  \r\n15. Expert-level knowledge of Git workflows, implementing branching strategies, and establishing CI/CD pipelines for automated deployment</div>  \r\n",
+    "description": "<div>Onsite Tech lead responsible for overseeing DCMS operations, ensuring seamless content delivery, system performance, and user support. Leads incident management, stakeholder coordination, and cross-team collaboration to resolve issues and drive continuous service improvement. Ensures system reliability through proactive monitoring, maintenance, and root cause analysis.<br />\r\n <br />\r\n<strong>Responsibilities:</strong>\r\n<ul>\r\n\t<li>Manage day-to-day operations of Digital Content Management Systems, including user onboarding, configuration, content deployment, and reporting.</li>\r\n\t<li>Enable immediate onsite action for critical incidents and access issues</li>\r\n\t<li>Lead incident, problem, and service recovery management during outages</li>\r\n\t<li>Serve as primary interface with LAWA IT and Business teams ensuring real-time communication and issue tracking.</li>\r\n\t<li>Collaborate with L1/L2/L3 support teams, customer IT teams, OEMs, and partners for timely resolution of incidents and continuous service improvement.</li>\r\n\t<li>Review and approve scheduled maintenance and application upgrades</li>\r\n\t<li>Monitor offshore deliverables, ensuring consistent service quality</li>\r\n\t<li>Perform root cause analysis to resolve production issues.</li>\r\n\t<li>Diagnose and troubleshoot DSD &amp; ACN applications.</li>\r\n\t<li>Support and manage DCMS platform, ensuring seamless content delivery and system performance.</li>\r\n\t<li>Conduct preventive maintenance, system health checks, patching, performance tuning, and software upgrades within defined maintenance windows.</li>\r\n</ul>\r\n<strong>Required Skills:</strong>\r\n\r\n<ul>\r\n\t<li>Strong troubleshooting across Application &plus; Cloud &plus; Infrastructure.</li>\r\n\t<li>Hands-on Azure cloud operations exposure.</li>\r\n\t<li>ITSM expertise (ServiceNow).</li>\r\n\t<li>Network and system administration expertise.</li>\r\n\t<li>Excellent communication and stakeholder management.</li>\r\n\t<li>Ability to manage critical incidents within SLA.</li>\r\n\t<li>Collaborative approach with client&ndash;offshore teams.</li>\r\n</ul>\r\n<strong>Preferred Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>12-15 years of experience in IT including application support programs.</li>\r\n\t<li>Strong experience in application/platform operations, incident management, and production support environments.</li>\r\n\t<li>Proficiency in troubleshooting applications, performing root cause analysis, and managing system performance.</li>\r\n\t<li>Hands-on experience with ITSM tools (e.g., ServiceNow) and stakeholder coordination in a multi-vendor environment.</li>\r\n\t<li>Knowledge of preventive maintenance, system upgrades, patching, and offshore team coordination.</li>\r\n</ul>\r\n</div>\r\n",
     "recruiter": [
       "Neetu Minhas",
       "neetu.minhas@satwic.com",
       "8755582991"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0&SearchString=#/jobs/32332122",
-    "time_scraped": 1779749857036,
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0&SearchString=#/jobs/32534556",
+    "time_scraped": 1782975746419,
     "source_company": "nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr",
     "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32332036,
-    "title": "Sr. NET Developer",
-    "location": "CA, Los Angeles",
+    "id": 32534397,
+    "title": "Systems Analysts",
+    "location": "None, Los Angeles",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779230296000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782922487000
     },
     "start": {
       "start_dateStr": null,
@@ -86,80 +53,14 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<div>  Minimum Qualifications:<br />  \r\n<br />  \r\n The proposed candidate must have 5 years of experience building complex .NET web applications, API services, functions, workflow, and SQL.<br />  \r\n Experience in the following area(s) is required:<br />  \r\n1. 5 years of ASP.NET/MVC<br />  \r\n2. 5 years of C# Programming<br />  \r\n3. 5 years of REST/SOAP API and web services design<br />  \r\n4. 3 years of modern/mobile responsive front-end development using JavaScript, JQuery, Bootstrap, HTML5, CSS3<br />  \r\n5. 3 years of Angular<br />  \r\n6. 3 years of Entity Framework and SQL Server 2012 or higher database<br />  \r\n7. 5 years of .NET Core<br />  \r\n8. Copilot or any AI tool for development<br />  \r\n Proposed candidate must have a BS/BA degree in computer science, information technology, or related field. Additional qualifying experience may be substituted for the required degree on a year-for-year basis<br />  \r\n<br />  \r\nSCOPE OF SERVICES<br />  \r\nThe District seeks resource(s) that will perform the required work closely with LAUSD project team members and perform below responsibilities:<br />  \r\n1) Effectively complete applications development by coordinating requirements, schedules and activities; troubleshooting development and production support issues across multiple environments and platforms;<br />  \r\n2) Lead the system design and development methodologies and toolset to deliver a modernized web-based system application;<br />  \r\n3) Perform unit, integration, and load testing of complex websites, systems integration and applications interfaces;<br />  \r\n4) Lead role in the design and implementation of databases architecture, as well as expert management of data loads and data quality assurance;<br />  \r\n5) Gather customer software requirements and proposed best software solution and technologies to address business needs;<br />  \r\n6) Lead role in establishing and implementing consistent standards, practices, and procedures that will facilitate a high-quality application delivery to district users;<br />  \r\n7) Effectively work with project management, leadership and business users to provide time estimates, schedules for projects and any change revisions, communicating regularly with department management and functional users on project requirements, activities and status;<br />  \r\n8) Participate in application design strategy and team code review meetings;<br />  \r\n9) Provide mentoring as lead to other team members as needed;<br />  \r\n10) Ensure knowledge transfer and documentation of all facets of the system application for team members and develop user guide and assistance tools to end users.</div>  \r\n",
+    "description": "<span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:black;\">Duties:</span></strong>\r\n<ul>\r\n\t<li>Windows 11 enterprise deployment, administration, and end-user transition support.</li>\r\n\t<li>Device enrollment, configuration, and lifecycle management through Microsoft Intune.</li>\r\n\t<li>Configuration and management of Windows Autopilot provisioning workflows.</li>\r\n\t<li>Cloud-based endpoint management, including mobile device management (MDM) and mobile application management (MAM).</li>\r\n\t<li>Deployment and management of Microsoft 365 applications via Intune.</li>\r\n\t<li>Development and maintenance of PowerShell scripts for endpoint automation, configuration, and security policy enforcement.</li>\r\n\t<li>Configuration and monitoring of endpoint security controls in alignment with departmental and City security standards.</li>\r\n\t<li>Windows operating system management, troubleshooting, and compliance reporting.</li>\r\n</ul>\r\n<strong><span style=\"color:black;\">Qualification:</span></strong>\r\n\r\n<ul>\r\n\t<li>Windows 11 enterprise deployment, administration, and end-user transition support.</li>\r\n\t<li>Windows operating system administration, including update management, Group Policy, and compliance baseline configuration.</li>\r\n\t<li>Microsoft Intune device enrolment, policy configuration, application deployment, and cloud-based endpoint management.</li>\r\n\t<li>Windows Autopilot configuration and zero-touch provisioning scenarios.</li>\r\n\t<li>Microsoft 365 application management, packaging, and delivery via Intune, with familiarity with Microsoft 365 F3 and E3 licensing plans.</li>\r\n\t<li>Mobile device management (MDM) and mobile application management (MAM) in enterprise environments.</li>\r\n\t<li>PowerShell scripting for system administration, endpoint configuration, and security policy automation.</li>\r\n</ul>\r\n",
     "recruiter": [
       "Chetan Shiva",
       "chetan.shiva@satwic.com",
       "8188691513"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0&SearchString=#/jobs/32332036",
-    "time_scraped": 1779749856750,
-    "source_company": "nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr",
-    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32324972,
-    "title": "Data Conversion Lead – SAP to Oracle Cloud (Project‑Management Focus)",
-    "location": "None, Glendale",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/18/2026",
-      "date_posted": 1779137391000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>  <span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">   Overview<br />  \r\n<br />  \r\nWe are seeking a highly capable Data Conversion Lead to manage and coordinate all data migration activities as we transition from SAP to Oracle Cloud. This role is primarily project‐management‐driven, responsible for orchestrating dozens of individual conversion objects across multiple business areas. The Data Conversion Lead will partner closely with Customer functional leads, product owners, and the implementation partner to ensure each conversion is planned, executed, validated, and delivered on schedule.<br />  \r\n<br />  \r\nThis position replaces an existing resource and requires someone who can immediately bring structure, discipline, and strong communication to a complex, multi‐threaded workstream. Once conversion cycles are complete, this role will transition into cutover leadership, coordinating the end‐to‐end cutover plan.<br />  \r\n<br />  \r\n <br />  \r\n<br />  \r\nKey Responsibilities<br />  \r\n<br />  \r\nServe as the lead for all data conversion activities across the SAP‐to‐Oracle migration.<br />  \r\nPartners with Customer functional leads and product owners to ensure each conversion object has clear requirements, mapping, ownership, and acceptance criteria.<br />  \r\nCoordinate planning, scheduling, and execution of multiple conversion cycles (mock loads, dry runs, dress rehearsals).<br />  \r\nTrack progress, dependencies, risks, and issues across dozens of conversion objects.<br />  \r\nFacilitate cross‐functional working sessions to resolve mapping questions, data quality issues, and validation gaps.<br />  \r\nOversee extraction, cleansing, transformation, and load activities performed by technical teams and the implementation partner.<br />  \r\nDrive reconciliation and validation efforts with business SMEs to ensure data accuracy and completeness.<br />  \r\nMaintain detailed conversion plans, dashboards, and status reporting for program leadership.<br />  \r\nLead cutover planning and execution, including load sequencing, checkpoints, and go/no‐go readiness.<br />  \r\nCommunicate clearly and consistently with business stakeholders, technical teams, and leadership.<br />  \r\n <br />  \r\n<br />  \r\nRequired Skills & Experience<br />  \r\n<br />  \r\nIdeally this candidate has strong experience managing conversions in either SAP or Oracle.<br />  \r\nDemonstrated success managing complex, multi‐object conversion portfolios.<br />  \r\nExceptional communication skills with the ability to influence and drive accountability.<br />  \r\nStrong project management discipline: planning, RAID management, dependency tracking, and stakeholder coordination.<br />  \r\nExperience working with system integrators and cross‐functional business teams.<br />  \r\nAbility to quickly stabilize a challenged workstream and implement structure.<br />  \r\n <br />  \r\n<br />  \r\nPreferred Qualifications<br />  \r\n<br />  \r\nExperience migrating from SAP ECC or S/4HANA to Oracle Cloud.<br />  \r\nFamiliarity with data governance, data quality frameworks, and reconciliation processes.<br />  \r\nPrior experience leading cutover for a large ERP implementation.</span>  </span>  </div>  \r\n",
-    "recruiter": [
-      "Chetan Shiva",
-      "chetan.shiva@satwic.com",
-      "8188691513"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0&SearchString=#/jobs/32324972",
-    "time_scraped": 1779749866827,
-    "source_company": "nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr",
-    "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32324960,
-    "title": "General Ledger BSA Consultant – SAP to Oracle Cloud",
-    "location": "None, Glendale",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/18/2026",
-      "date_posted": 1779137265000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">   </span>  </span>  <b>  <u>  Minimum Qualifications: </u>  </b>  \r\n<p>  <b>  Overview</b>  </p>  \r\n\r\n<p>  We are seeking a highly skilled <b>  General Ledger Business Systems Analyst (BSA)</b>   to support the Finance workstream during our SAP‐to‐Oracle Cloud migration. This role will focus on <b>  requirements gathering, data validation, sprint participation, testing, and close collaboration with our implementation partner</b>  . This position replaces an existing resource and requires someone who can immediately bring structure, clarity, and strong communication to a fast‐moving program.</p>  \r\n\r\n<p>   </p>  \r\n<b>  <u>  Primary Skill:</u>  </b>    <b>  General Ledger Business Systems Analyst (BSA)</b>   to support the Finance workstream during SAP‐to‐Oracle Cloud migration. \r\n\r\n<p>  <br />  \r\n </p>  \r\n<b>  Key Responsibilities</b>  \r\n\r\n<ul>  \r\n\t<li>  Serve as the primary BSA for the <b>  General Ledger</b>   workstream during the Oracle Cloud implementation.</li>  \r\n\t<li>  Collect, refine, and validate business and functional requirements.</li>  \r\n\t<li>  Validate data migration results for GL, COA, balances, journals, and related financial objects.</li>  \r\n\t<li>  Partner with the implementation partner to ensure configuration aligns with business needs.</li>  \r\n\t<li>  Support testing cycles (SIT, UAT) by developing test scenarios, validating results, and documenting defects.</li>  \r\n\t<li>  Provide clear, concise communication with business stakeholders and project leadership.</li>  \r\n\t<li>  Track issues, dependencies, and risks with strong project management discipline.</li>  \r\n\t<li>  Support cutover readiness activities related to GL data and financial close processes.</li>  \r\n</ul>  \r\n\r\n<p>  <b>   </b>  </p>  \r\n\r\n<p>  <b>  Required Skills & Experience</b>  </p>  \r\n\r\n<ul>  \r\n\t<li>  Strong understanding of <b>  Oracle Cloud Financials (GL)</b>  .</li>  \r\n\t<li>  Hands‐on experience with data validation, reconciliation, and financial reporting.</li>  \r\n\t<li>  Excellent communication skills—able to work effectively with finance users and technical teams.</li>  \r\n\t<li>  Strong analytical and documentation skills, including requirements, process flows, and test scripts.</li>  \r\n\t<li>  Experience working in Agile or hybrid project environments (optional).</li>  \r\n\t<li>  Ability to step into a challenged workstream and quickly bring structure and clarity.</li>  \r\n</ul>  \r\n\r\n<p>  <b>   </b>  </p>  \r\n\r\n<p>  <b>  Preferred Qualifications</b>  </p>  \r\n\r\n<ul>  \r\n\t<li>  Experience migrating from SAP to Oracle Cloud, or other large-scale migration/implementation projects.</li>  \r\n\t<li>  Familiarity with COA redesign, financial close processes, and cross‐module dependencies.</li>  \r\n\t<li>  Background in large, complex transformation programs.</li>  \r\n</ul>  \r\n",
-    "recruiter": [
-      "Harish Venkataswamy",
-      "harish.venkataswamy@satwic.com",
-      "8182307636"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0&SearchString=#/jobs/32324960",
-    "time_scraped": 1779749867101,
+    "url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0&SearchString=#/jobs/32534397",
+    "time_scraped": 1782975746428,
     "source_company": "nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr",
     "source_url": "https://www1.jobdiva.com/portal/?a=nrjdnwt5qws4wevppctr2mir3akha00570za1wuj5oubh7tca96nr2v2gl6qy4xr&compid=0",
     "date_cutoff_days": 15

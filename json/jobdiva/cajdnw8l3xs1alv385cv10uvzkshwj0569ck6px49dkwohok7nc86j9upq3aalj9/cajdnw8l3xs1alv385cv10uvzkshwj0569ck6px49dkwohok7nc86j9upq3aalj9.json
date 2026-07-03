@@ -27,7 +27,73 @@
       "6175432437"
     ],
     "url": "https://www1.jobdiva.com/portal/?a=cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9&compid=0&SearchString=#/jobs/32329793",
-    "time_scraped": 1779746492489,
+    "time_scraped": 1781026756108,
+    "source_company": "cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 29958273,
+    "title": "Senior Security Administrator",
+    "location": "PR, San Juan",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "3/25/2025",
+      "date_posted": 1742915144000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "<div><strong>**Must be fully bilingual (English and Spanish), oral and written.</strong><br />\r\nThe Senior Security Administrator is responsible for implementing, maintaining, and troubleshooting all security-related systems and policies across the IT infrastructure. This role works collaboratively with IT teams to ensure that security best practices, as determined by the vCISO, CIO, and MSSP, are embedded into all enterprise systems. The position will actively coordinate with the other Systems Administrators (Networking and Communication, Applications, Servers and Cloud) to enforce security standards and mitigate risks effectively.<br />\r\n<strong>Responsibilities: </strong><br />\r\nSecurity Implementation &amp; Maintenance:\r\n<ul>\r\n\t<li>Deploy, configure, and maintain enterprise security tools, including endpoint protection, firewalls, intrusion detection/prevention systems (IDS/IPS), and SIEM solutions.</li>\r\n\t<li>Implement security policies and procedures across IT systems, ensuring compliance with industry&#39;s best practices and regulatory requirements.</li>\r\n\t<li>Work with IT teams to integrate security controls within networking, applications, cloud, and server environments.</li>\r\n\t<li>Support vulnerability management processes, including scanning, analysis, and remediation planning.</li>\r\n\t<li>Assist in the deployment of security patches and updates across systems to mitigate vulnerabilities.</li>\r\n</ul>\r\nMonitoring, Detection &amp; Incident Response:\r\n\r\n<ul>\r\n\t<li>Continuously monitor security alerts and respond to security incidents in collaboration with the MSSP and IT teams.</li>\r\n\t<li>Investigate and remediate security breaches, unauthorized access attempts, or other security-related events.</li>\r\n\t<li>Utilize SIEM and other security tools to analyze logs and detect suspicious activity.</li>\r\n\t<li>Assist in forensic analysis and post-incident reviews to prevent future occurrences.</li>\r\n</ul>\r\nCollaboration &amp; Security Best Practices:\r\n\r\n<ul>\r\n\t<li>Work closely with vCISO, CIO, and MSSP to implement and refine security strategies.</li>\r\n\t<li>Collaborate with Networking, Applications, and Server/Cloud teams to ensure security is integrated into system design and operations.</li>\r\n\t<li>Ensure IAM (Identity and Access Management) policies align with the least privilege principles and enforce Multi-Factor Authentication (MFA).</li>\r\n\t<li>Support IT teams in implementing Zero Trust security models and segmentation policies.</li>\r\n\t<li>Provide security configuration management for cloud environments, including Azure, WPEngine, Sucuri, and Microsoft 365 security settings.</li>\r\n</ul>\r\nCompliance &amp; Risk Management:\r\n\r\n<ul>\r\n\t<li>Maintain compliance with regulatory frameworks such as NIST, GDPR, HIPAA, and PCI-DSS.</li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Work with IT Security Team to assist in periodic security audits, access reviews, and risk assessments</span> </span></li>\r\n</ul>\r\n<strong> Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>Fully bilingual (English and Spanish), oral and written.</li>\r\n\t<li>Bachelor&#39;s degree in Information Technology, Cybersecurity, or a related field.</li>\r\n\t<li>7+ years of experience in IT security administration, systems security, or related fields.</li>\r\n\t<li>Strong understanding of security frameworks, including NIST, CIS, and ISO 27001.</li>\r\n\t<li>Experience with SIEM platforms, IDS/IPS, firewalls, endpoint protection, and vulnerability management tools.</li>\r\n\t<li>Knowledge of cloud security best practices (Azure Security Center, AWS Security Hub, M365 Defender).</li>\r\n\t<li>Proficiency in IAM, MFA, encryption, and access control policies.</li>\r\n\t<li>Ability to assess and mitigate cyber threats, malware, and phishing attacks.</li>\r\n\t<li>Experience in incident response, digital forensics, and threat intelligence.</li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Familiarity with IT networking, system administration, and application security.</span> </span></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Lisa Brody",
+      "lisa.brody@harvardpartners.com",
+      "6175432437"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9&compid=0&SearchString=#/jobs/29958273",
+    "time_scraped": 1781026756157,
+    "source_company": "cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9",
+    "source_url": "https://www1.jobdiva.com/portal/?a=cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 29957857,
+    "title": "Cloud Engineer",
+    "location": "PR, San Juan",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "3/25/2025",
+      "date_posted": 1742911766000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><strong>**Must be fully bilingual (English and Spanish), oral and written.</strong><br />\r\nThe Cloud Engineer is responsible for managing and maintainingour cloud-hosted infrastructure and server environments. This role&#39;s main focus is to ensure stability, security, and efficiency of cloud-based and on-premises servers, web hosting, and monitoring platforms. The position involves advanced troubleshooting, cloud architecture design, configuration, performance monitoring, and working closely with IT teams to support business operations.&nbsp;<br />\r\n<br />\r\n<strong>Responsibilities: </strong><br />\r\nCloud Infrastructure and Server Management:\r\n<ul>\r\n\t<li>Deploy, configure, and maintain cloud-hosted servers and services primarily in MS Azure.</li>\r\n\t<li>Manage virtualized environments using VMware, Hyper-V, or cloud-native virtualization solutions.</li>\r\n\t<li>Optimize and manage WP Engine-hosted websites, ensuring uptime, security, and performance.</li>\r\n\t<li>Maintain and monitor Sucuri Web Application Firewall (WAF) and security services for all web properties.</li>\r\n\t<li>Ensure high availability, scalability, and redundancy of cloud-based infrastructure.</li>\r\n\t<li>Manage cloud networking configurations, including VPNs, load balancers, and cloud firewalls</li>\r\n</ul>\r\nSecurity and Compliance:\r\n\r\n<ul>\r\n\t<li>Maintain security best practices and standards, including web application firewalls (WAF), malware detection, and participate with incident response as needed.</li>\r\n\t<li>Ensure cloud security best practices, including IAM, Entra ID, O365 Defender, encryption, network security policies, and compliance with GDPR, HIPAA, NIST, and PCI-DSS.</li>\r\n\t<li>Configure and enforce access control policies in WP Engine, AWS, Azure and O365 Services, and WAF.</li>\r\n</ul>\r\nMonitoring and Performance Optimization:\r\n\r\n<ul>\r\n\t<li>Utilize monitoring tools, such as SolarWinds and Pingdom, to track and remediate cloud and server performance, uptime, and network health.</li>\r\n\t<li>Proactively monitor WP Engine-hosted websites for performance bottlenecks, downtime, and security threats.</li>\r\n\t<li>Optimize cloud resource utilization to manage/reduce costs and improve efficiency.</li>\r\n\t<li>Perform regular system maintenance, including patching, updates, and performance tuning.</li>\r\n</ul>\r\nTroubleshooting and Support:\r\n\r\n<ul>\r\n\t<li>Diagnose and resolve complex cloud, server, and website performance issues, including system failures, connectivity problems, and security threats.</li>\r\n\t<li>Provide advanced support for cloud-based applications, database servers, and virtualized workloads.</li>\r\n\t<li>Act as an escalation point for cloud and web hosting-related incidents.</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Coordinate with Sucuri, WP Engine, AWS, and Azure support teams for troubleshooting and system enhancements.</li>\r\n</ul>\r\nCloud Automation and Infrastructure as Code (IaC):\r\n\r\n<ul>\r\n\t<li>Utilize Infrastructure as Code (IaC) tools such as Azure Resource Manager (ARM), Terraform, or CloudFormation for automated deployments.</li>\r\n\t<li>Implement cloud automation for provisioning, scaling, and backup management.</li>\r\n\t<li>Develop scripts in PowerShell to enhance system administration and automate tasks.</li>\r\n</ul>\r\nDocumentation and Compliance:\r\n\r\n<ul>\r\n\t<li>Develop and maintain detailed cloud and system documentation, including architecture diagrams, configurations, and procedures.</li>\r\n\t<li>Ensure compliance with IT governance policies, security best practices, and regulatory frameworks.</li>\r\n\t<li>Maintain accurate WP Engine, Sucuri, SolarWinds, and Pingdom documentation for performance tracking and issue resolution.</li>\r\n</ul>\r\nCollaboration and Communication:\r\n\r\n<ul>\r\n\t<li>Work closely with network, security, and application teams to ensure seamless integration of cloud services.</li>\r\n\t<li>Communicate system updates, security alerts, and best practices to stakeholders.</li>\r\n\t<li>Provide recommendations for cloud service adoption, optimization, and migration strategies.</li>\r\n</ul>\r\nContinuous Learning and Development:\r\n\r\n<ul>\r\n\t<li>Stay updated with emerging cloud technologies, best practices, and industry trends.</li>\r\n\t<li>Evaluate new cloud solutions and monitoring tools to enhance infrastructure performance and security.</li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Participate in cloud-related certifications and training programs to stay ahead of industry developments.</span> </span></li>\r\n</ul>\r\n<strong> Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>Fully bilingual (English and Spanish), oral and written.</li>\r\n\t<li>Bachelor&#39;s degree in Computer Science, Information Technology, or a related field.</li>\r\n\t<li>7+ years of experience in system administration, cloud infrastructure, and web hosting management.</li>\r\n\t<li>Strong PowerShell scripting expertise and experience automating systems configuration operations</li>\r\n\t<li>Experience with cloud platforms such as Azure.</li>\r\n\t<li>Strong knowledge of WP Engine, Sucuri, SolarWinds, and Pingdom for website hosting, security, and monitoring.</li>\r\n\t<li>Experience managing virtualized environments (VMware, Hyper-V) and cloud networking principles. Knowledge on Acropolis</li>\r\n\t<li>Expertise in server administration (Windows, Linux) and identity management (ADFS,Active Directory, Azure/Entra ID).</li>\r\n\t<li>Familiarity with web application security, monitoring tools, and firewall configurations and knowledge in micro segmentation</li>\r\n\t<li>Experience with cloud-based disaster recovery and backup solutions such as Veeam-Backup, CA Arcserve or Azure backups (formerly knows as Data Protection Manager) .</li>\r\n\t<li><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\"><span style=\"font-size:11pt;\">Knowledge in Citrix Cloud environment. </span> </span> </span></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Lisa Brody",
+      "lisa.brody@harvardpartners.com",
+      "6175432437"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9&compid=0&SearchString=#/jobs/29957857",
+    "time_scraped": 1781026755218,
     "source_company": "cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9",
     "source_url": "https://www1.jobdiva.com/portal/?a=cajdnw8l3xs1alv385cv10uvzkshwj0569ck6px49dkwohok7nc86j9upq3aalj9&compid=0",
     "date_cutoff_days": 15

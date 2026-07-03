@@ -30,7 +30,7 @@ class LocationMapper(BaseMapper):
     
     def format_locations(self, locations: list) -> list:
         """Format location objects to 'City, State' strings"""
-        return [f"{loc['City']}, {loc['State']}" for loc in locations]
+        return [f"{loc['city']}, {loc['state']}" for loc in locations]
 
 
 class TitleMapper(BaseMapper):

@@ -1,33 +1,33 @@
 {
   "company": "Mindlance Inc",
-  "scrape_date": "2026-05-15T21:00:34.790996",
+  "scrape_date": "2026-07-01T06:02:39.790373",
   "total_jobs": 1,
   "jobs": [
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c2jSqA2BCGnpGlg0vOkCW0s=",
-      "title": "Systems Analyst",
+      "id": "z5G7h3l6a1kMvyS65NP3cwgjxX9TxMK-NSD9DlBTZtk=",
+      "title": "CAPPS Financials Reports Analyst",
       "location": "",
       "experience": {
         "experience": "10-15 years",
         "min_experience": "10"
       },
-      "skills": "EHR, Cerner Command Language (CCL), SQL, Linux, Java, C, C++, Python, Perl, OCI",
+      "skills": null,
       "posted": {
-        "date_postedStr": "05/11/26",
-        "date_posted": 1778457600000
+        "date_postedStr": "06/29/26",
+        "date_posted": 1782691200000
       },
-      "description": "\nJob Title: Systems Analyst\nLocation: Austin, TX - Remote\n \nJob Description:\n\n\n\n11 Required Strong understanding of clinical workflows and healthcare operations.\n11 Required Demonstrated experience supporting large scale EHR implementations, migrations, or optimization initiatives.\n11 Required Proven ability to translate clinical requirements into technical and data specifications.\n11 Required Advanced, hands on experience with Cerner Command Language (CCL).\n11 Required Working knowledge of Cerner Millennium architecture and Oracle databases\n11 Required Experience with SQL, Linux, and enterprise data extraction or migration patterns.\n11 Required Experience designing and supporting ETL processes.\n11 Required Familiarity with healthcare data integrations and reporting environments.\n11 Required Experience with REST / SOA development.\n11 Required Knowledge of distributed systems, networking, and performance tuning.\n11 Required Experience writing, executing, and tuning CCL scripts in production environments.\n11 Required Experience with data extraction, system integration, and code development.\n11 Required Working knowledge of one or more of the following: Java, C, C++, Python, Perl, OCI.\n11 Required Hands on experience developing or supporting services on public cloud platforms (AWS, Azure, GCP, OCI).\n11 Preferred Experience supporting Cerner Millennium environments.\n11 Preferred Prior experience serving as a senior Cerner consultant or technical lead.\n\n\n",
+      "description": "\nJob Title: CAPPS Financials Reports Analyst\nLocation: Austin, TX – Remote\n \nJob Description:\n\n\n\n8 Required Extensive Texas public sector experience, directly working for or supporting a Texas state government agency\n8 Required Extensive experience in reporting support for the financial modules in PeopleSoft Financials version 9.2\n8 Required Extensive knowledge and understanding of State of Texas applicable policy.\n8 Required Extensive knowledge of Financials Table Entity Relationship Diagrams.\n8 Required Experience preparing WCAG 2.1-compliant materials for distribution.\n8 Required Experience designing, executing, and documenting structured UAT and regression testing for reporting impacts during upgrades, PUM cycles, or patch deployments.\n8 Required Experience in interpreting contractual language and integrating it into daily workflows, while consistently holding vendors accountable to contractual requirements\n8 Required Extensive knowledge of/experience with data integration, data quality, and SDLC processes and methodologies\n8 Required Experience developing or supporting cross module reports that incorporate data from GL, AP, PO, AM, IN, T&E, PC, or related modules.\n8 Required Extensive experience analyzing PeopleSoft FSCM data structures, including effective dating rules, table relationships, and multi row logic, to support complex statewide reporting requirements.\n8 Required Experience writing CAPPS Complex reports using SAP Business Objects.\n3 Required Experience with CAPPS Central production and expansion functional support activities for more than 100 agencies and 5 Hub instances.\n3 Required Knowledge of Information Technology Infrastructure Library principles and practices for IT activities such as IT service management (ITSM) and IT asset management (ITAM) that focus on aligning IT services with the needs of the business\n4 Preferred CPA experience participating in Fiscal Year-End processes specific to reorganizational changes and legislative mandates for CAPPS\n4 Preferred CPA experience performing customer-facing responsibilities in support of the CAPPS expansion efforts for Central and Hub agencies\n\n\n",
       "closing": {
         "closing_date": "Open Until Filled",
-        "closing_dateStr": 1778457600000
+        "closing_dateStr": 1782691200000
       },
       "start": {
-        "start_date": "05/27/26",
-        "start_dateStr": 1779840000000
+        "start_date": "07/16/26",
+        "start_dateStr": 1784160000000
       },
       "end": {
-        "end_dateStr": "06/24/27",
-        "end_date": 1813795200000
+        "end_dateStr": "09/24/27",
+        "end_date": 1821744000000
       },
       "salary": "",
       "remote": 1,
@@ -36,8 +36,8 @@
         "contact": "John john@mindfore.com",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/IRyBoeMT4Is2zRgkG3OOrhNasccxMtVNfoFP-Gle3FE",
-      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=cEpRSG55OXp3bXd1c2lURkk0N3d4QT09&job_id=z5G7h3l6a1kMvyS65NP3c2jSqA2BCGnpGlg0vOkCW0s="
+      "apply": "https://candidateportal.ceipal.com/job-details/qr5TzJxEsfiMUHzIVKTIIIT5TMsKZPz2ryrn61T9Kqw",
+      "url": "https://jobsapi.ceipal.com/APISource/v1/index.html?api_key=cEpRSG55OXp3bXd1c2lURkk0N3d4QT09&job_id=z5G7h3l6a1kMvyS65NP3cwgjxX9TxMK-NSD9DlBTZtk="
     }
   ]
 }

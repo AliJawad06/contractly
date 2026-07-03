@@ -1,150 +1,18 @@
 [
   {
-    "id": 32345171,
-    "title": "Data Scientist",
-    "location": "NJ, None",
-    "experience": {
-      "experience": 2
-    },
-    "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779390668000
-    },
-    "start": {
-      "start_dateStr": "5/21/2026",
-      "start_date": 1779336000000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 40,
-    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\"> Contract to hire position with a major financial firm. <br /> \r\n<br /> \r\nNewark, NJ hybrid is preferred. Remote working EST hours may be an option.  </span> </span> <br /> \r\n<br /> \r\n<span style=\"font-size:11.0pt;\"> Here is what you can expect in a typical day:<br /> \r\n• Responsible for the hands-on development of advanced data science solutions comprising the portfolio developed by the Lead Data Scientist and the technical requirements specified by the Lead Data Scientist. Perform hands-on data analysis, model development, model training, model testing.<br /> \r\n• Write production-level code and partner with machine learning engineers to push development code into production.<br /> \r\n• Continuously research new methods for problem solution, including new algorithms, modeling techniques, and data analytics techniques.<br /> \r\n• Partner with machine learning engineers to productionized machine learning models. Partner with data engineers to build data pipelines. Partner with software engineers to integrate solutions with business platforms.<br /> \r\n<br /> \r\nThe Skills and expertise you bring:<br /> \r\n• Advanced degree (Masters, Ph.D.) in Mathematics, Statistics, Engineering, Econometrics, Physics, Computer Science, Actuarial, Data Science, or comparable quantitative disciplines.<br /> \r\n• Working on complex problems in which analysis of situations or data requires an in-depth evaluation of various factors. Exercises judgment within broadly defined practices and policies in selecting methods, techniques and evaluation criteria for obtaining results.<br /> \r\n• Ability to learn new skills and knowledge on an ongoing basis through self-initiative and seeking challenges.<br /> \r\n• Excellent problem solving, communication and collaboration skills.<br /> \r\n<br /> \r\nApplied experience with several of the following:<br /> \r\n• Machine Learning: Understanding of machine learning theory, including the mathematics underlying machine learning algorithms. Expertise in the application of machine learning theory to building, training, testing, interpreting and monitoring machine learning models.<br /> \r\n• Generative AI & Natural Language Processing: Experience with modeling and interpreting text analysis including NLP, LLMs (BERT, etc), and Generative AI. Experience in modern Gen AI technologies including RAG, LangChain, LangGraph, vector DB and their application in Individual Retirement Strategies area.<br /> \r\n• Statistics and Computing: Exceptional understanding of: Multivariable Calculus, Linear Algebra, Differential Equations, Applied Probability, Applied Statistics, Computer Science (Programming Methodologies), and Cloud.<br /> \r\n• Knowledge of statistical techniques such as the use of descriptive, inferential, Bayesian statistics, time series analysis etc. to extract business insights and experimentation to solve business problems.<br /> \r\n• Data Acquisition and Transformation: Acquiring data from disparate data sources using API's and SQL. Transform data using SQL and Python. Visualizing data using a diverse tool set including but not limited to Python.<br /> \r\n• Database Management System: Knowledge of how databases are structured and function in order to use them efficiently. May include multiple data environments, cloud/AWS, primary and foreign key relationships, table design, database schemas, etc.<br /> \r\n• Data Wrangling: Preparing data for further analysis; Redefining and mapping raw data to generate insights; Processing of large datasets (structured, unstructured).<br /> \r\n• AWS DevOps: Experience in the project development life cycle in an AWS environment. Familiar with development, QA, staging and production deployment stages.<br /> \r\n• Programming Languages: Python, SQL.<br /> \r\n<br /> \r\n#LI-RR1</span> <br /> \r\n <br /> \r\n <br /> \r\n </div> \r\n",
-    "recruiter": [
-      "Reddy Raju",
-      "rraju@jsrtechconsulting.com",
-      "9082704368"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/32345171",
-    "time_scraped": 1779747942985,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32333539,
-    "title": "Data Engineer - AWS, python",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": 5
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779282139000
-    },
-    "start": {
-      "start_dateStr": "5/26/2026",
-      "start_date": 1779768000000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 40,
-    "description": "Description: AWS Data Engineer <br /> \r\n<br /> \r\ncontract position with a major investment firm. Hybrid 3 days/week in Newark, NJ.<br /> \r\n<br /> \r\nQualifications:<br /> \r\n<br /> \r\n• Bachelor's degree in computer science, Software Engineering, MIS or equivalent combination of education and experience<br /> \r\n• Experience implementing, supporting data lakes, data warehouses and data applications on AWS for large enterprises<br /> \r\n• Programming experience with Python, Shell scripting and SQL<br /> \r\n• Solid experience of AWS services such as CloudFormation, S3, Athena, Glue, EMR/Spark, RDS, Redshift, DynamoDB, Lambda, Step Functions, IAM, KMS, SM etc.<br /> \r\n• Solid experience implementing solutions on AWS based data lakes.<br /> \r\n• Should have good experience with AWS Services - API Gateway, Lambda, Step Functions, SQS, DynamoDB, S3, Elasticsearch<br /> \r\n• Serverless application development using AWS Lambda<br /> \r\n• Experience in AWS data lake/data warehouse/business analytics<br /> \r\n• Experience in system analysis, design, development, and implementation of data ingestion pipeline in AWS<br /> \r\n• Knowledge of ETL/ELT<br /> \r\n• End-to-end data solutions (ingest, storage, integration, processing, access) on AWS<br /> \r\n• Architect and implement CI/CD strategy for EDP<br /> \r\n• Implement high velocity streaming solutions using Amazon Kinesis, SQS, and Kafka (preferred)<br /> \r\n• Migrate data from traditional relational database systems, file systems, NAS shares to AWS relational databases such as Amazon RDS, Aurora, and Redshift<br /> \r\n• Migrate data from APIs to AWS data lake (S3) and relational databases such as Amazon RDS, Aurora, and Redshift<br /> \r\n• Implement POCs on any new technology or tools to be implemented on EDP and onboard for real use-case<br /> \r\n• AWS Solutions Architect or AWS Developer Certification preferred<br /> \r\n• Good understanding of Lakehouse/data cloud architecture<br /> \r\n<br /> \r\nResponsibilities:<br /> \r\n<br /> \r\n• Designing, building and maintaining efficient, reusable, and reliable architecture and code.<br /> \r\n• Build reliable and robust Data ingestion pipelines (within AWS, onprem to AWS ,etc.)<br /> \r\n• Ensure the best possible performance and quality of high scale data engineering project<br /> \r\n• Participate in the architecture and system design discussions<br /> \r\n• Independently perform hands on development and unit testing of the applications.<br /> \r\n• Collaborate with the development team and build individual components into complex enterprise web systems.<br /> \r\n• Work in a team environment with product, production operation, QE/QA and cross functional teams to deliver a project throughout the whole software development cycle.<br /> \r\n• Responsible to identify and resolve any performance issues<br /> \r\n• Keep up to date with new technology development and implementation<br /> \r\n• Participate in code review to make sure standards and best practices are met.<br /> \r\n<br /> \r\npayrate: 60 - 70 per hour depending on experience<br /> \r\n<br /> \r\n#LI-AC1",
-    "recruiter": [
-      "Anvesh Chandra",
-      "achandra@jsrtechconsulting.com",
-      "9087934637"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/32333539",
-    "time_scraped": 1779747942912,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32330396,
-    "title": "Software Engineer",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": 5
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779218539000
-    },
-    "start": {
-      "start_dateStr": "6/8/2026",
-      "start_date": 1780891200000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 40,
-    "description": "Description: This position is hybrid in Newark 3 days a week.<br />\r\n<br />\r\nHere is What You Can Expect on a Typical Day<br />\r\n&bull;Build applications ensuring that the code follows latest coding practices and industry standards, using modern design patterns and architectural principles; remove technical impediments<br />\r\n&bull;Develop high quality, well documented and efficient code adhering to all applicable standards<br />\r\n&bull;Collaborate with product owners in understanding needs and defining feature stories, tech leads in defining technical design and other team members to understand the system end-to-end and deliver robust solutions that bring about business impact<br />\r\n&bull;Write unit, integration tests and functional automation, researching problems discovered by quality assurance or product support, developing solutions to address the problems<br />\r\n&bull;Bring a strong understanding of relevant and emerging technologies, provide input and coach team members and embed learning and innovation in the day-to-day<br />\r\n&bull;Work on complex problems in which analysis of situations or data requires an evaluation of intangible variables.<br />\r\n&bull;Use programming languages including but not limited to Python, Java, or JavaScript and React, Springboot, frameworks<br />\r\n<br />\r\nThe Skills &amp; Expertise You Bring<br />\r\n&bull;Bachelor of Computer Science or Engineering or experience in related fields<br />\r\n&bull;6&plus; years of hands-on experience building enterprise-grade applications using modern Java and JavaScript ecosystems<br />\r\n&bull;Experience with agile development methodologies and Test-Driven Development (TDD)<br />\r\n&bull;Knowledge of business concepts tools and processes that are needed for making sound decisions in the context of the company&#39;s business<br />\r\n&bull;Ability to learn new skills and knowledge on an on-going basis through self-initiative and tackling challenges<br />\r\n&bull;Excellent problem solving, communication and collaboration skills<br />\r\n<br />\r\n&bull;Advanced experience and/or expertise with several of the following:<br />\r\n&bull;Programming Languages: Python, Java, Java Script; Typescript, C#, working in distributed systems, object oriented programming, design patterns and design methodology; JAVA services using Spring, Maven, Microservices, multi-threading, Concurrency and parallel processing<br />\r\n&bull;Frameworks: React, Springboot, Flask, Django, Node.js (Run time)<br />\r\n&bull;Data Store: NoSQL or Relational Data structures &ndash; PL/SQ, DB2, Oracle, Postgres, RedShift<br />\r\n&bull;Data Streaming: SQS, Kinesis, AWS MSK, Event Bridge<br />\r\n&bull;Application Programming Interfaces (API): Consumption &amp; Development; implementing service oriented architecture (SOA) patterns; Web service technologies such as APIs, REST, JSON, SOAP, XML, JDBC, MySQL<br />\r\n&bull;API Management &amp; Integration : Kong, Apigee<br />\r\n&bull;Unit, interface and end user testing concepts and tooling (functional &amp; non-functional)<br />\r\n&bull;Automated testing<br />\r\n&bull;Accessibility awareness<br />\r\n&bull;Software security skills including secure coding, web application security and DevSecOps; Solid grasp of security concepts (authentication, authorization, encryption, digital signature, JWT), SSL, web service proxies, firewall, SAML 2.0, OpenID Connect, OAuth 2.0)<br />\r\n&bull;Dev Ops Tools &amp; Practices: Branching techniques and usage of GitHub, Bitbucket or Subversion; DevOps, Jenkins<br />\r\n&bull;Software Development Life Cycle (SDLC): Monitoring and logging techniques<br />\r\n&bull;AWS Core Services across compute, storage, DB, IAM and analytics incl specific services listed above<br />\r\n&bull;Preferred Qualifications:<br />\r\n&bull;Strong experience with Domain Driven Development (DDD)<br />\r\n&bull;AWS cloud native solution development<br />\r\n&bull;Architecture Patterns<br />\r\n&bull;Design and critical Thinking<br />\r\n&bull;Financial/Insurance industry experience is a must, not a plus<br />\r\n&bull;Experience with agentic frameworks and AI driven development tools is a Must. [Claude Code, GitHub Copilot etc]<br />\r\n<br />\r\nPayrate 60 - 65 per hour depending on experience.&nbsp;<br />\r\n<br />\r\n#LI-RR1",
-    "recruiter": [
-      "Reddy Raju",
-      "rraju@jsrtechconsulting.com",
-      "9082704368"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/32330396",
-    "time_scraped": 1779747941558,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32327419,
-    "title": "Power BI Developer w/Redshift",
-    "location": "NJ, Newark",
-    "experience": {
-      "experience": 5
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779197538000
-    },
-    "start": {
-      "start_dateStr": "6/1/2026",
-      "start_date": 1780286400000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 40,
-    "description": "Contract position with a major investment firm. <br /> \r\n<br /> \r\nPower BI Developer Job Description:<br /> \r\n<br /> \r\nAs a Power BI Developer, you will design, develop, and maintain high-performance dashboards while optimizing the connectivity between Power BI and AWS cloud infrastructure. You will partner with our solution architect and AWS developers to design raw data transformation from our Amazon Redshift warehouse into actionable business intelligence.<br /> \r\n<br /> \r\nYou will need experience in an Enterprise environment managing extremely large data sets and the ability to interact with Senior Finance Leaders on dashboard designs.<br /> \r\n<br /> \r\nSkills Needed:<br /> \r\n<br /> \r\nPower BI Proficiency: 5&plus; years of experience with Power BI Desktop, Power BI Service, and Power Query (M Language)<br /> \r\n<br /> \r\nExperience with scenario logic, calculated columns, dax security group, incremental refresh, data cleansing<br /> \r\n<br /> \r\nAWS Redshift Expertise: Proven experience identifying Redshift data sources and managing report connectivity.<br /> \r\n<br /> \r\nPython coding experience -DAX Mastery: Ability to create sophisticated calculated columns, measures, and KPI scorecards.<br /> \r\n<br /> \r\nData Warehousing: Solid understanding of ETL/ELT processes and cloud data warehouse architecture.<br /> \r\n<br /> \r\nSecurity: Experience with Row Level Security (RLS) and role-based access in Power BI<br /> \r\n<br /> \r\npayrate: 65 - 75 per hour depending on experience. <br /> \r\n<br /> \r\n#LI-PP1<br /> \r\n<br /> \r\n<br /> \r\n ",
-    "recruiter": [
-      "Parth Panchal",
-      "ppanchal@jsrtechconsulting.com",
-      "8622134457"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/32327419",
-    "time_scraped": 1779747950238,
-    "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
-    "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32316773,
-    "title": "Scrum Master",
+    "id": 32533127,
+    "title": "Quadient Developer",
     "location": "",
     "experience": {
-      "experience": 5
+      "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/15/2026",
-      "date_posted": 1778867130000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782914537000
     },
     "start": {
-      "start_dateStr": "6/1/2026",
-      "start_date": 1780286400000
+      "start_dateStr": "7/13/2026",
+      "start_date": 1783915200000
     },
     "end": {
       "end_dateStr": null,
@@ -152,14 +20,14 @@
     },
     "salary": null,
     "remote": 100,
-    "description": "<div>  <span style=\"color:black;\">  Remote long term contract Scrum Master position.<br />  \r\n<br />  \r\nLooking for a scrum master with Marketing technologies and/or Content Management Systems experience. <br />  \r\n<br />  \r\nMarketing Technology Group is seeking an experienced Scrum Master with the right mix of skills and passion for managing the dynamics of a fast-paced environment.<br />  \r\n<br />  \r\nThe contractor will collaborate with Product Owners, Tech Leads, and Architecture teams to successfully deliver complex cross-functional projects.<br />  \r\n<br />  \r\nKey Responsibilities:<br />  \r\n<br />  \r\n• Guide teams and stakeholders on implementing Agile/Scrum practices and values to deliver customer value<br />  \r\n• Coach teams on maximizing the benefits of self-organization and autonomy<br />  \r\n• Help teams navigate and fill intentional gaps in Agile/Scrum frameworks<br />  \r\n• Assess team Scrum maturity and provide coaching to achieve higher maturity levels at a sustainable pace<br />  \r\n• Identify and remove impediments, or guide teams to resolve blockers by connecting with appropriate stakeholders<br />  \r\n• Foster a trusting, safe environment that encourages open problem-solving without blame or judgment<br />  \r\n• Facilitate work completion through collaboration rather than task assignment or directive management<br />  \r\n• Lead facilitation of discussions, decision-making processes, and conflict resolution<br />  \r\n• Improve internal and external communication, transparency, and information sharing<br />  \r\n• Support and coach Product Owners on backlog grooming and maintenance<br />  \r\n• Apply servant leadership principles and lead by example<br />  \r\n• Drive software development activities to meet project schedules and timelines<br />  \r\n• Provide regular status reporting to leadership, proactively identifying risks to budget and timeline<br />  \r\n<br />  \r\nRequired Qualifications:<br />  \r\n<br />  \r\n• 10&plus; years of professional experience, including 5&plus; years in Scrum Master role<br />  \r\n• Proven experience managing mission-critical applications in agile environments<br />  \r\n• Strong verbal and written communication skills<br />  \r\n• Demonstrated ability to collaborate effectively with engineers, cross-functional teams, and business partners<br />  \r\n• Deep understanding of servant leadership, facilitation, situational awareness, conflict resolution, continuous improvement, empowerment, and transparency<br />  \r\n• Knowledge of Scrum patterns and techniques including Burndown charts, Retrospective formats, and defect management<br />  \r\n• Expert-level proficiency in JIRA<br />  \r\n• Familiarity with additional Agile frameworks: XP, Kanban, Crystal, FDD, JIRA Align<br />  \r\n• Experience with Agile engineering practices: User Stories, ATDD, TDD, Continuous Integration, Continuous Testing, Pair Programming, Automated Testing, Agile Games<br />  \r\n• Working knowledge of technologies used by development teams<br />  \r\n• 3&plus; years managing projects in Marketing Technologies utilizing Content Management Systems and Marketing Automation Platforms<br />  \r\n<br />  \r\nPreferred Qualifications:<br />  \r\n<br />  \r\n• Scrum Master Certification (CSM, PSM, or equivalent)<br />  \r\n• Experience with Agile SAFe methodology and scaled agile execution<br />  \r\n• Bachelor's degree in Computer Science, Engineering, or related field<br />  \r\n<br />  \r\n#LI-AR1</span>  </div>  \r\n",
+    "description": "Contract to hire position.&nbsp;<br />\r\n<br />\r\nRemote or hybrid in Newark (preferred).<br />\r\n<br />\r\n<br />\r\nDescription: Quadient Inspire Developer<br />\r\n<br />\r\nSkills<br />\r\n<br />\r\n&bull;Bachelor of Computer Science or Engineering or equivalent experience in related fields.<br />\r\n&bull;Ability to take on assignments with minimal guidance and effectively leverage diverse ideas, experiences, thoughts, and perspectives to the benefit of the organization. <br />\r\n&bull;Experience with agile development methodologies and Test-Driven Development (TDD). <br />\r\n&bull;Knowledge of business concepts, tools and processes that are needed for making sound decisions in the context of the company&#39;s business. <br />\r\n&bull;Ability to learn new skills and knowledge on an on-going basis through self-initiative and tackling challenges. <br />\r\n&bull;Excellent problem solving, communication and collaboration skills. 3 or more years hands-on experience<br />\r\n&bull;<br />\r\n&bull;experience and/or expertise with several of the following:  <br />\r\nProgramming Languages: Java Script, design patterns and design methodology; Microservice, multi-threading, Concurrency and parallel processing. <br />\r\nApplication Programming Interfaces (API): Consumption &amp; Development; implementing service-oriented architecture (SOA) patterns; Web service technologies such as APIs, REST, JSON, SOAP, XML, JDBC, MySQL. <br />\r\nUnit, interface and end user testing concepts and tooling (functional &amp; non-functional). <br />\r\nAutomated testing <br />\r\nAccessibility awareness <br />\r\nSoftware security skills including secure coding, web application security and DevSecOps; Solid grasp of security concepts (authentication, authorization, encryption, digital signature, JWT), SSL, web service proxies, firewall, SAML 2.0, OpenID Connect, OAuth 2.0). <br />\r\nDev Ops Tools &amp; Practices: Branching techniques and usage of GitHub, Bitbucket or Subversion; DevOps, Jenkins. <br />\r\nSoftware Development Life Cycle (SDLC): Monitoring and logging techniques. <br />\r\n<br />\r\nRequired:<br />\r\nAt least 3 years hands on experience in Quadient Inspire Designer, Interactive and ICM developing customer communications.<br />\r\nCreating communications that use Tickets in Quadient Interactive to guide the user experience and customize output<br />\r\n<br />\r\n&bull;Preferred Qualifications:  <br />\r\nQuadient Inspire Designer and Interactive certification<br />\r\n<br />\r\nCreating communications that use Tickets in Quadient Interactive to guide the user experience and customize output<br />\r\nContent rationalization Concepts<br />\r\nADA document compliance<br />\r\nDesign Thinking <br />\r\nFinancial/Insurance industry experience is a plus, not a must<br />\r\n<br />\r\n#LI-PP1",
     "recruiter": [
-      "Arianna Russo",
-      "arusso@jsrtechconsulting.com",
-      "9083076083"
+      "Parth Panchal",
+      "ppanchal@jsrtechconsulting.com",
+      "8622134457"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/32316773",
-    "time_scraped": 1779747950230,
+    "url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1&SearchString=#/jobs/32533127",
+    "time_scraped": 1782974966463,
     "source_company": "ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9",
     "source_url": "https://www1.jobdiva.com/portal/?a=ehjdnwmyyxmf5toz90iwpo1ep5ypcl0466sphrvzn3s298e3b0b0zova8aqp9hg9&compid=-1",
     "date_cutoff_days": 15

@@ -2,7 +2,6 @@ import json
 
 from openai import OpenAI
 
-client = OpenAI()
 
 
 locations_field = { 

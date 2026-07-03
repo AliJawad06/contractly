@@ -1,33 +1,33 @@
 {
   "company": "Precision Technologies Corp.",
-  "scrape_date": "2026-06-02T22:26:08.024443",
-  "total_jobs": 12,
+  "scrape_date": "2026-07-02T07:46:02.338367",
+  "total_jobs": 5,
   "jobs": [
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c0zqdcelnNumqrP1kDb1vtU=",
-      "title": "Lansing, MI - IT - Agency Services - DHHS - N/A - Programmer Analyst 4",
-      "location": "235 Grand S Ave,Lansing,Michigan,48933,UNITED STATES",
+      "id": "z5G7h3l6a1kMvyS65NP3c0ink3zQLpcEXld2jdTfIBE=",
+      "title": "Lansing, MI - IT - Agency Services - DHHS - N/A - Programmer Analyst 6 - Senior IBM Master Data Management(MDM) & Integration Developer",
+      "location": "320 S Walnut St,Lansing,Michigan,48933,UNITED STATES",
       "experience": {
         "experience": "N/A",
         "min_experience": ""
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/2026",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/2026",
+        "date_posted": 1782864000000
       },
-      "description": "Security Comments:Position Description:Please ensure you attach the Cover Sheet (attached), valid Right to Represent with hybrid work schedule acknowledged and confirmed by candidate, and the candidate's resume with full legal first name, and last name ONLY. (Refer to Bid Submission Requirements). We request that resumes are kept to 4-5 pages, and your candidate may be rejected if this criteria is not met. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please use dotStaff Forms link:  https://forms.dotstaff.com/en-US/public/SOMI/forms/df22aa32-ddd7-4035-91ac-2a10092614e3 \n\nThe State of Michigan is looking for: Programmer Analyst 4\nMax Assigned: Assigned/HR\nRepost from 157611 (which was a repost of 156249). Please do not resubmit any candidates previously submitted to these postings that were rejected after client review.\n  \nTop Skills & Years of Experience:  \n- Possess a minimum of 5 years of recent experience working with: Angular, JavaScript, SSRS, SQL Server, and working in an environment utilizing hybrid agile/waterfall project management methodologies.\n- Possess a minimum of 5 years of recent experience working with: Java, Spring.\n- Possesses a minimum of 3 years of recent experience writing, compiling, modifying, and debugging complex SQL Server database configuration items, including, but not limited to, Stored Procedures, Functions, Triggers, Views, Tables, and linked servers.\n- Possess a minimum of 3 years of recent experience working with Azure DevOps (ADO) for backlog management, sprint planning, task tracking, and progress reporting, supporting Agile methodologies.\n- Ability to provide quality customer service, build trust through integrity of work, and build strategic relationships through teamwork are required.\n\n-Prescreening questions attached. Please include in attachments when submitting or your bid will be rejected\n- Vendor submissions will close on 6/8 at 10am ET. Late submissions will not be accepted\n- Interview Process: 1-hour Virtual Interview via MS Teams (video required). Candidates should join from a laptop and be prepared to share their screen if requested. A screenshot photo of candidate will be required for any interviews as well as a vendor present at beginning of virtual interview to validate candidate. Planning to schedule interviews the week of 4/27\n- Assignment duration: Initial 1-year contract with a possibility of extension based on performance and business needed\n- Hybrid Work Schedule (Non-Negotiable): There is no remote-only option\nRequired onsite days- Mondays and Tuesdays\nRemote eligible days- Wednesdays, Thursdays, and Fridays \nThe resource must meet these requirements from the beginning  \n- Candidates must be local to the Lansing, Michigan area (within 90 miles) at time of submission. This requirement is non-negotiable\n \n  Full Job Description Attached",
+      "description": "Security Comments:Position Description:Please ensure you attach the Cover Sheet (attached), valid Right to Represent with hybrid work schedule acknowledged and confirmed by candidate, and the candidate's resume with full legal first name, and last name ONLY. (Refer to Bid Submission Requirements). We request that resumes are kept to 4-5 pages, and your candidate may be rejected if this criteria is not met. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please use dotStaff Forms link:  https://forms.dotstaff.com/en-US/public/SOMI/forms/df22aa32-ddd7-4035-91ac-2a10092614e3\n\n \n\nThe State of Michigan is looking for: Senior IBM Master Data Management(MDM) & Integration Developer \nMaxAssigned\n\nRequired Skills\n•\t8+ years of software development experience supporting enterprise-scale systems\n•\tStrong hands-on experience with IBM InfoSphere MDM v14.x Standard Edition (Virtual MDM), including MDM data models, entities, transactions, batch processing, configuration, customization, and troubleshooting\n•\tHands-on experience with Apache Kafka\n\nPosition is 100% support and maintenance\n\n\n\n-Contract that is able to extend. Dependent on Business need\n-Posting closes 7/7 at 10 AM ET. No Late submissions will be accepted\n-Interview Process: Virtual, Mostly technical interview with hiring manager and other team members with a little soft skills portion at the end. Likely to only be 1 round, but could be more if needed.\n-Hybrid position, Mondays and Tuesdays are required on-site days (non-negotiable) Must meet these requirements from beginning\n-Location: Open to local candidates or those willing to relocate to Lansing. Must be able to relocate from day one with no delays (non-negotiable).",
       "closing": {
-        "closing_date": "2026-06-08T23:59:59Z",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-07T23:59:59Z",
+        "closing_dateStr": 1782864000000
       },
       "start": {
-        "start_date": "06/29/2026",
-        "start_dateStr": 1782691200000
+        "start_date": "07/29/2026",
+        "start_dateStr": 1785283200000
       },
       "end": {
-        "end_dateStr": null,
-        "end_date": null
+        "end_dateStr": "09/30/2026",
+        "end_date": 1790726400000
       },
       "salary": "",
       "remote": 0,
@@ -36,84 +36,12 @@
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/ToEL5HriDTWQsi1Ab0qKVtGkB6_dYetfaZaiKahA7Iw",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0zqdcelnNumqrP1kDb1vtU="
+      "apply": "https://candidateportal.ceipal.com/job-details/w64Uamub9Nu842fpscwQp73F8lC-Pl-ZJ0VdzjyA_us",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0ink3zQLpcEXld2jdTfIBE="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c7qtlqPw2n_rOA-_NZPInPQ=",
-      "title": "Dimondale, MI - IT - CTO - CT01 Cloud and Infrastructure Delivery - N/A - Cloud Engineer",
-      "location": "7285 Parksons Dr,Dimondale,Michigan,48821,UNITED STATES",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/2026",
-        "date_posted": 1780358400000
-      },
-      "description": "Security Comments:Position Description:Please ensure you attach the Cover Sheet (attached), valid Right to Represent with hybrid work schedule acknowledged and confirmed by candidate, and the candidate's resume with full legal first name, and last name ONLY. (Refer to Bid Submission Requirements). We request that resumes are kept to 4-5 pages, and your candidate may be rejected if this criteria is not met. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please use dotStaff Forms link: \nhttps://forms.dotstaff.com/en-US/public/SOMI/forms/df22aa32-ddd7-4035-91ac-2a10092614e3\n\nReferences are required for this position. Please include a separate attachment with your submission that includes 2-3 professional references. Each reference should include the name, email, phone number, and their position title/company name.\n\nThe State of Michigan is looking for a Cloud Engineer\nMax Assigned: Assigned/hr\nPlease note, Assigned will be taken into consideration for this posting. The manager prefers a more entry level candidate that meets requirements and is submitted at a lower Assigned over a more experienced candidate submitted at a higher Assigned.\n\nTop Skills & Years of Experience: \n- Cloud Delivery Analyst / Business Analyst - 1-3 years\n- Knowledge of concepts of designing and developing dynamic Cloud solutions in Google Cloud Platform and Amazon Web Services and moving parts involved in continuous integration and delivery - 1-3 years\n- Solid understanding and skill with DevOps, web services and application programming interfaces (APIs) - Solid understanding and skill with DevOps, web services and application programming interfaces (APIs) - 1-3 years\n- Foundational institutional knowledge of State of Michigan platforms, cloud architecture, security requirements and processes - 1-3 years\n\nClear and concise written and verbal communication is crucial to success and productivity in this role.\n\n- Will close submissions on: 6/8/26 @ 10am EST\n- Interview Process: Virtual Interview via MS Teams video. Please use laptop and be prepared to share screen if asked. \n- Duration: 1 year with possible extension\n- Hybrid: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week. (Tuesdays and Wednesdays are required onsite days).\n- Local candidates (strongly preferred) or non-local (must be willing to relocate at their own expense from acceptance with no delays & follow the hybrid schedule)\n\nFull Job Description Attached",
-      "closing": {
-        "closing_date": "2026-06-08T23:59:59Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "07/06/2026",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/DZPsx_Ku6e8EFPBE-YqfeSizlNRdKA9AqoefLRSey_4",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c7qtlqPw2n_rOA-_NZPInPQ="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c_GGCgiltYdXA1rb9eOa3kw=",
-      "title": "Lansing, MI - IT - Agency Services - EGLE - N/A - Business Analyst 5",
-      "location": "525 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/2026",
-        "date_posted": 1780358400000
-      },
-      "description": "Security Comments:Position Description:Please ensure you attach the Cover Sheet (attached), valid Right to Represent with hybrid work schedule acknowledged and confirmed by candidate, and the candidate's resume with full legal first name, and last name ONLY. (Refer to Bid Submission Requirements). We request that resumes are kept to 4-5 pages, and your candidate may be rejected if this criteria is not met. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please use dotStaff Forms link:  https://forms.dotstaff.com/en-US/public/SOMI/forms/df22aa32-ddd7-4035-91ac-2a10092614e3\n\n \nThe State of Michigan is looking for: Business Analyst 5\nMaxAssigned\n\nResources MUST provide 2 professional references\n\nInterview Process: First rounds is virtual interview with 2 people from DTMB agency services and one agency partner, 2nd round requires resource to come on-site to potentially meet with leadership and people from other business areas. Both expected to last about an hour, 2nd round may be a little longer and more of an informal soft skills interview. 2nd round interview MUST be on-site \n\nResource Location: Local candidates (strongly preferred) or non-local (must be willing to relocate at their own expense from acceptance with no delays & follow the hybrid schedule)\n\nWork Schedule: Hybrid on-site 2 days per week, Wednesdays and Thursdays are the required on-site days. Resources MUST be located in the state of Michigan during remote days.\n\n\nRequired Skills\n-Minimum of 7 years conducting business process review and requirements elicitation and documentation to include process modeling\n\n-Minimum of 5 years developing and/or managing user stories on Agile development project(s)\n\n-Minimum of 2 years working directly with senior management in facilitating discussions to determine strategy, develop road maps and/or gain consensus to resolve opposing positions\n\n-Minimum of 2 years supporting the development of or compliance to statement of work and/or other work agreements/contracts\n\n-Minimum of 2 years working on projects developing/implementing IT solutions for public use\n\n-Minimum of 1 year working with programs governed by state and/or federal regulations",
-      "closing": {
-        "closing_date": "2026-06-04T23:59:59Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/29/2026",
-        "start_dateStr": 1782691200000
-      },
-      "end": {
-        "end_dateStr": "09/30/2027",
-        "end_date": 1822262400000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/Ok4iOf4GoBMfMW870u79NSZ72C3dHrEkzYBmU80KvfI",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_GGCgiltYdXA1rb9eOa3kw="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c2lqzNw1hwgaP-JxwDgys3g=",
-      "title": "Developer - .NET/PowerBI Developer - MS - MDWFP",
+      "id": "z5G7h3l6a1kMvyS65NP3c0CliPvgpUecgPDPdPsbLmQ=",
+      "title": "Developer - Microsoft Dynamics 365 Developer - MS - MDA",
       "location": "3771 Eastwood Dr,Jackson,Mississippi,39211,UNITED STATES",
       "experience": {
         "experience": "N/A",
@@ -121,13 +49,13 @@
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/2026",
-        "date_posted": 1780358400000
+        "date_postedStr": "07/01/2026",
+        "date_posted": 1782864000000
       },
-      "description": "Security Comments:Position Description:No max Assigned.  100% onsite required, do NOT submit remote candidates.  See attached.\nScoring that will be used during interviews include but not limited to: \nCost: 30%\nInterview: 30%\nPossession of preferred experience: 30\nResume accurately reflects skills possessed by candidate: 10",
+      "description": "Security Comments:Position Description:No max Assigned.  100% remote. Very likely to extend past one year.  See attached.",
       "closing": {
-        "closing_date": "2026-06-09T23:59:59Z",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-09T23:59:59Z",
+        "closing_dateStr": 1782864000000
       },
       "start": {
         "start_date": null,
@@ -144,12 +72,48 @@
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/hcJC2LhmfUj-YNECKH3IFposc1dcaW8QbT1dvAlxiro",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c2lqzNw1hwgaP-JxwDgys3g="
+      "apply": "https://candidateportal.ceipal.com/job-details/JL5BDH8TSKmzt3vNwbUrM4ABZ5ugRNnjWLVt1dX4dwc",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c0CliPvgpUecgPDPdPsbLmQ="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c3E_7am7mW5Ldovxm6NU53Y=",
-      "title": "Lansing, MI - IT - Agency Services - MB - N/A - Programmer 3 - GRC Administrator and Developer",
+      "id": "z5G7h3l6a1kMvyS65NP3c1ycM6Y9B4y60asjRk7fcIw=",
+      "title": "IN-DOH-Oral Health Educator",
+      "location": "2 N. Meridian St.\\nIndianapolis, IN 46204",
+      "experience": {
+        "experience": "N/A",
+        "min_experience": ""
+      },
+      "skills": null,
+      "posted": {
+        "date_postedStr": "06/30/2026",
+        "date_posted": 1782777600000
+      },
+      "description": " The Oral Health Educator will play a pivotal role in promoting oral health awareness and education across skilled nursing facilities, schools, early learning centers, and community settings. Oral Health Educator Job Description: Overview:\\u2028The Oral Health Educator will play a pivotal role in promoting oral health awareness and education across skilled nursing facilities, schools, early learning centers, and community settings. This position will focus on equipping Certified Nursing Assistants (CNAs), school nurses, educators, children and families, and community partners with the knowledge and skills needed to support oral hygiene practices, preventive care, and improved oral health outcomes. Responsibilities: ● Training & Education: Develop and deliver tailored workshops, and training sessions for CNAs, school nurses, early learning centers, and community partners on oral health best practices. ● Resource Development: Create and distribute educational materials such as guides, checklists, pamphlets, posters, videos, and digital content tailored to skilled nursing facilities, school settings, and families. ● Collaboration: Work closely with Skilled Nursing Facilities (SNFs) leadership, school administrators, healthcare professionals, and community organizations to align oral health education with patient care protocols, school health needs, and community-based initiatives. ● Oral Health Advocacy: Promote the importance of oral health in overall health, especially for elderly residents, chronically ill patients, children, and vulnerable populations. ● Support & Guidance: Serve as a resource to CNAs, school nurses, educators, and community partners by providing ongoing support, answering questions, and offering solutions to oral health challenges. ● Outreach & Events: Support planning, coordination, and participation in community outreach events, health fairs, school-based programs, and public health campaigns to expand oral health awareness and access. ● Program Support: Assist with program planning, preparation and distribution of oral health education materials, grant proposals, budgets, data collection, and reporting. ● Evaluation: Monitor and assess the impact of educational programs and outreach activities and recommend improvements to enhance care delivery, school-based prevention, and community engagement. Qualifications: ● Bachelor’s degree or certification in Dental Hygiene, Public Health, Education, or a related field. ● Experience delivering health education or training programs, preferably in school, healthcare, long-term care, or community settings. ● Knowledge of oral hygiene practices, common dental conditions, preventive care strategies, and behavior change techniques. ● Strong communication and presentation skills with the ability to engage CNAs, school nurses, healthcare teams, educators, families, and community partners. ● Ability to develop accessible, engaging, and culturally appropriate educational materials. ● Familiarity with skilled nursing facility workflows, school health programs, and public health outreach preferred. ● Relevant background in public health, data management, program evaluation, and grant writing preferred. Skills: ● Excellent interpersonal skills to engage with CNAs, school nurses, administrators, healthcare teams, and community stakeholders. ● Ability to present complex oral health information in a clear, accessible, and impactful manner. ● Empathy and understanding when addressing oral health challenges in vulnerable populations. ● Organizational skills to manage multiple training sessions, outreach activities, and program responsibilities. ● Creativity in developing materials and presenting oral health information in an engaging way. ● Proficiency in data management and analysis to support program evaluation and reporting.  ● Flexibility to support oral health education needs across long-term care, school, early learning, and community settings. ·         Relevant background in public health.  ·         Prior experience with grant writing preferred.  Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceBachelor's degree in Public Health, Education or a related field.Required0Experience in delivering health education or training programs, ideally in a school-based setting, early learning center or healthcare setting.Required1YearsStrong communication and interpersonal skillsRequired0Ability to develop accessible, engaging, and culturally appropriate educational materialsRequired0Knowledge of oral hygiene practices, common dental issues and preventative care strategiesHighly desired2YearsProficiency in data management & analysis.Highly desired0Prior experience with grant writing and budgetingHighly desired0QuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you agree to this requirement?Question2What is your candidate's email address?Question3Where does your candidate currently reside (City & State)?Question4If selected for engagement, your candidate’s hourly Pay Rate must be Assigned/hour. The Provider Markup for this position is 30%. Do you agree to these requirements?Question5\t\nInitial interview will be via Teams with 2nd interviews requiring in-person attendance. Does candidate agree to this requirement?Question6Candidate is required to be on-site 60% of the time when not in the field, 40% remote. Does candidate accept this requirement?Question7\t\nCandidate will be required to travel throughout the state approx. 30% of the time. Does candidate accept this requirement?Question8Position is 7.5H days/37.5H week, variable days depending on meetings scheduled in the community. Does candidate accept this requirement?",
+      "closing": {
+        "closing_date": "2026-07-07T23:59:59Z",
+        "closing_dateStr": 1782777600000
+      },
+      "start": {
+        "start_date": "07/27/2026",
+        "start_dateStr": 1785110400000
+      },
+      "end": {
+        "end_dateStr": "01/01/2027",
+        "end_date": 1798761600000
+      },
+      "salary": "",
+      "remote": 0,
+      "assigned_recruiter": "",
+      "recruiter": {
+        "contact": "N/A",
+        "client": "N/A"
+      },
+      "apply": "https://candidateportal.ceipal.com/job-details/ggZiLQRHSEJXJaJQJkCrdepKvKuczj5fM0RmJIk3jDc",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1ycM6Y9B4y60asjRk7fcIw="
+    },
+    {
+      "id": "z5G7h3l6a1kMvyS65NP3c_la2zA44C1E3GCGdatFbSE=",
+      "title": "Lansing, MI - IT - Agency Services - Central Procurement - N/A - Programmer 3",
       "location": "525 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
       "experience": {
         "experience": "N/A",
@@ -157,17 +121,17 @@
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/2026",
-        "date_posted": 1780358400000
+        "date_postedStr": "06/30/2026",
+        "date_posted": 1782777600000
       },
-      "description": "Security Comments:Position Description:Please ensure you attach the Cover Sheet (attached), valid Right to Represent with hybrid work schedule acknowledged and confirmed by candidate, and the candidate's resume with full legal first name, and last name ONLY. (Refer to Bid Submission Requirements). We request that resumes are kept to 4-5 pages, and your candidate may be rejected if this criteria is not met. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please use dotStaff Forms link: \nhttps://forms.dotstaff.com/en-US/public/SOMI/forms/df22aa32-ddd7-4035-91ac-2a10092614e3\n\nReferences are required for this position. Please include a separate attachment with your submission that includes 2-3 professional references. Each reference should include the name, email, phone number, and their position title/company name.\n\nThe State of Michigan is looking for a Programmer 3\nMax Assigned: Assigned/hr\n\nTop Skills & Years of Experience: \n•\tPython programming (primary requirement) – 2-3+ years\n•\tAPI integration and automation experience – 1-2+ years\n•\tAgile methodology experience – 1-2+ years\n•\tRisk Management knowledge – 1-2+ years\n•\tDatabase design expertise – 2-3+ years\n•\tGRC tool familiarity (preferred) – 1-2+ years\n\nClear and concise written and verbal communication is crucial to success and productivity in this role.\n\n- Will close submissions on: 6/5 at 10am EST\n- Interview Process: In-person interviews (bringing laptops, headsets, etc. to the interview is not permitted). Candidates MUST be available for an in-person interview.\n- Duration: 1 year with possible extension \n- Hybrid: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week (Mondays and Tuesdays required)\n- Local candidates ONLY (must be within 1.5 hours from Lansing, MI at time of submission)\n\nFull Job Description Attached",
+      "description": "Security Comments:Position Description:Please ensure you attach the Cover Sheet (attached), valid Right to Represent with hybrid work schedule acknowledged and confirmed by candidate, and the candidate's resume with full legal first name, and last name ONLY. (Refer to Bid Submission Requirements). We request that resumes are kept to 4-5 pages, and your candidate may be rejected if this criteria is not met. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please use dotStaff Forms link:  https://forms.dotstaff.com/en-US/public/SOMI/forms/df22aa32-ddd7-4035-91ac-2a10092614e3 \n\nThe State of Michigan is looking for a Programmer 3\nMax Assigned: Assigned/hr\n2 openings \n\nTop Skills & Years of Experience:\n•\t6+ years of Angular Development experience\n•\t6+ years of experience with Azure DevOps\n•\t6+ years of experience with .NET technologies\n•\t6+ years of experience with Cloud AWS Migration\n•\tStrong experience working within process-oriented Agile methodologies\n•\tProven experience with Test-Driven Development\nPreferred:\n•\tExperience with Playwright for integration testing\n\n- Vendor submissions will close on 7/7 at 10am ET. Late submissions will not be accepted. \n- Interview Process: 30-minute Virtual Interview via MS Teams (video required). Candidates should join from a laptop and be prepared to share their screen if requested. A screenshot photo of candidate will be required for any interviews as well as a vendor present at beginning of virtual interview to validate candidate. Planning to schedule interviews the week of 7/13\n- Assignment duration: Initial 1-year contract with a possibility of extension based on performance and business needed.\n- Hybrid Work Schedule (Non-Negotiable): There is no remote-only option. In-office for the 2 days per week is required, but the specific days have not yet been defined. However, the resource must meet the hybrid schedule from the beginning.\n- Candidates are not required to be local to Lansing as long as they are able to follow the hybrid schedule from the beginning. This requirement is non-negotiable",
       "closing": {
-        "closing_date": "2026-06-05T23:59:59Z",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-07T23:59:59Z",
+        "closing_dateStr": 1782777600000
       },
       "start": {
-        "start_date": "07/06/2026",
-        "start_dateStr": 1783296000000
+        "start_date": "08/03/2026",
+        "start_dateStr": 1785715200000
       },
       "end": {
         "end_dateStr": null,
@@ -180,66 +144,30 @@
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/Fjd59ArW6suX1KP2XEU9QP5XXeGhozNyGk7qybWn72s",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c3E_7am7mW5Ldovxm6NU53Y="
+      "apply": "https://candidateportal.ceipal.com/job-details/mG1qvlexzjtPHPOTPPgJchrdf-TnRKsUNB2RBYeNXpA",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c_la2zA44C1E3GCGdatFbSE="
     },
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c66XkYcMLv8cR-P811Is_Qk=",
-      "title": "Lansing, MI - IT - Agency Services - MDOS - N/A - System Analyst 3",
-      "location": "430 West Allegan Street,Lansing,Michigan,48933,UNITED STATES",
+      "id": "z5G7h3l6a1kMvyS65NP3c3IhjF-fzwCWVlG15fzHXGs=",
+      "title": "GA DDS IT Support Specialist 3",
+      "location": "DDS Headquarters, 2206 Eastview Pkwy NE, Conyers, GA 30013",
       "experience": {
         "experience": "N/A",
         "min_experience": ""
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "06/02/2026",
-        "date_posted": 1780358400000
+        "date_postedStr": "06/30/2026",
+        "date_posted": 1782777600000
       },
-      "description": "Security Comments:Position Description:Please ensure you attach the Cover Sheet (attached), valid Right to Represent with hybrid work schedule acknowledged and confirmed by candidate, and the candidate's resume with full legal first name, and last name ONLY. (Refer to Bid Submission Requirements). We request that resumes are kept to 4-5 pages, and your candidate may be rejected if this criteria is not met. Withdrawn candidates will not be permitted to be replaced. If you would like to use a sub vendor, only 1 level deep, please use dotStaff Forms link: \nhttps://forms.dotstaff.com/en-US/public/SOMI/forms/df22aa32-ddd7-4035-91ac-2a10092614e3\n\nThe State of Michigan is looking for: System Analyst 3\nMax Assigned: Assigned/hour\n\nTop Skills & Years of Experience: \n- Experience as a Business Analyst (3+ years) - Please note, candidates must have both BA and QA experience.\n- Experience as a Quality Assurance Analyst (3+ years) - Please note, candidates must have both BA and QA experience.\n- Azure DevOps Knowledge – or similar tool like JIRA (comfortable with creating epics/features/user stories for projects as well as moving cards through project lifecycle) (3+years)\n- Understanding of BA, QA, DEV roles/responsibilities\n- Experienced with as-is/to-be processes and content creation (3+ years)\n- Experience with creating product roadmap (3+ years)\n- Familiarity with Project Management Methodologies/Agile (3+ years)\n- Adept with using BA tools (e.g., FIGMA, Visio) (3+ years)\n\nClear and concise written and verbal communication is crucial to success and productivity in this role.\n\n- Will close submissions on: 6/8 @10am EST\n- Interview Process: Interviews will be held in-person. Candidates MUST be available for an in-person interview.\n- Duration: 1.5 years with desire for contractor to convert to fulltime with SOMI in 1-2 years. At the time of conversion, candidate must be authorized to work in the US without VISA sponsorship by the State of Michigan.\n- Hybrid: Resource will be working a hybrid schedule. NO REMOTE ONLY OPTION. Will need to be onsite from day 1, two days a week (required in-person days are Tuesdays and Wednesdays). Please note, the first month of work will require onsite presence 5 days per week for onboarding.\n- Local candidates ONLY. Must be located within 1 hour of Lansing, MI at time of submission.\n\nFull Job Description Attached",
+      "description": "Under direct supervision, provides management information system user support on a continuing basis either by phone or site visit. Troubleshoots end-user problems.*Must Be Local to Metro Atlanta***Professional certification (e.g., A+, Network+, Cloud+ or equivalent) MUST UPLOAD CERTIFICATION***Duties and Responsibilities:   This position is looking for an IT Support Specialist 3 who will maintain business applications and critical infrastructure and provide management and support for additional DDS systems (e.g., Nemo Q/GALA, VRT cameras, A/V, mobile systems).  Experience providing operations support to triage production incidents and engage with respective partners to restore services and post incident review to prevent future occurrences.  This position will require an individual who is willing to continuously learn and remain current and knowledgeable about emerging IT technologiesSpecific Duties Include:• Maintaining cost-efficient, scalable cloud environments for the organization.• Understanding business objectives of the company and creating cloud-based solutions to facilitate those objectives.• Designing, building, and maintaining internal cloud applications for the organization.• Keeping up to date on best practices in cloud computing and making improvements to the cloud infrastructure of their company or organization.• Making hardware and software recommendations for the organization, based on needs of the project and organization.• Experience in automation and provisioning technologies, such as AWS CLI and Terraform.• Monitors Service Now ticket queue, responds to tickets in a timely manner and provides follow-up with end users.• Provides customer support in supporting software, configurations, and business submission processes.• Looking for ways to improve operations within company to digitize common tasks.• Keeping data leakage and downtime to an absolute minimum.• Assists other members of the IT Infrastructure team.• Monitors ticket activities and provide escalation when needed.• Troubleshoot and support PC, laptop (Win 10/11), scanners and local and network printers, google print, chrome boxes and other field system support.• May act as an administrator or agency subject matter expert for lobby management software or other DDS applications as needed.Minimum Qualifications: Bachelor's degree from an accredited college or university in a related field such as computer and information technology, computer science, software engineering AND three years of related experience.  OR  Associate's/Vocational/Technical degree in a related field such as computer and information technology, computer science, software engineering from an accredited college or university AND five years of related experience. OR One year of experience at the lower-level IT Support Specialist 2 or position equivalent. Competencies Needed• 2-3+ years providing IT support and management experience• Professional certification (e.g. A+, Network+, Cloud+ or equivalent)• Experience with using ServiceNow.• Ability to present ideas in business-friendly and user-friendly language.• Excellent communication and interpersonal skills are essential. Must be a result and goal-oriented individual with the persistence and patience necessary to work effectively with a variety of internal and external constituencies.• Must have the ability to detect emerging trends and make recommendations for change.• Experience with installation, maintenance, and troubleshooting of desktop computer hardware, operating systems, and application software in a multi-computer environment.• Display current knowledge of technologies (computer systems, mobile devices, and technology products).• Experience with resolving TCP/IP network issues.• Experience or the ability to learn how to effectively maintain and support video conferencing, A/V and dash cam software and equipment.• Proven problem-solving skills. Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceBachelor's degree from an accredited college or university in a related field such as computer and information technology, computer science, software Required0Knowledge of basic network troubleshooting.Required3YearsKnowledge of Microsoft Windows Active Directory – Domain Name Service and Dynamic Host Configuration \nProtocol.Required2YearsExperience with installation, maintenance, and troubleshooting of desktop computer hardware, operating systems, and application softwareRequired2YearsKnowledge of Microsoft Active Directory local and group policy.Required2YearsProfessional certification (e.g. A+, Network+, Cloud+ or equivalent) MUST UPLOAD CERTIFICATIONRequired0Experience with using ServiceNowRequired2YearsExperience with resolving TCP/IP network issuesRequired2YearsExperience in automation and provisioning technologies, such as AWS CLI and TerraformRequired2YearsQuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?Question2Please list candidate's email address.Question3Candidate must be paid AT LEAST Assigned if selected for engagement. Candidate can be paid more; however, the SRP rate cannot exceed Assigned. Do you accept this requirement?Question4The maximum mark-up for this engagement’s SRP rate is 35%.  To be competitive on pricing, a mark-up below the 35% threshold is suggested.  Do you agree to propose a mark-up at or below 35%?Question5This assignment is contingent upon customer renewal and availability of adequate funding. Do you accept this requirement?Question6The selected candidate will be expected to start their engagement no later than 2 weeks (10 business days) from the client’s selection date. Do you accept this requirement?Question7Onsite Required: Due to the essential nature of the work to be performed, this position REQUIRES the selected candidate to work ONSITE for the duration of the assignment. Candidates will not be permitted to work remotely. Do you accept this requirement?",
       "closing": {
-        "closing_date": "2026-06-08T23:59:59Z",
-        "closing_dateStr": 1780358400000
+        "closing_date": "2026-07-08T23:59:59Z",
+        "closing_dateStr": 1782777600000
       },
       "start": {
-        "start_date": "07/06/2026",
-        "start_dateStr": 1783296000000
-      },
-      "end": {
-        "end_dateStr": "09/30/2027",
-        "end_date": 1822262400000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/-IN9ouHlEDUBmLTvo3XkRcLXsg74DNCXTQTCNw_EId0",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c66XkYcMLv8cR-P811Is_Qk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c8zVqeMVbAzH_1SLRS-u2K8=",
-      "title": "GA DDS Level 1 Help Desk Analyst",
-      "location": "2206 East View Parkway\\nConyers, GA 30013",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/02/2026",
-        "date_posted": 1780358400000
-      },
-      "description": "Under direct supervision, assists customers with tier one issues or forwards to second tier support for issues beyond their subject matter expertise.LOCAL CANDIDATES*This position is located at DDS Headquarters in Conyers, Georgia**Bilingual, Spanish required**MUST have IT Help Desk Call Center exp*Provides technical assistance to both internal and external customers for tier one issues.  This position requires handling a high volume of calls in a call center environment focused on customer service.Internal customer support involves troubleshooting hardware, software, and connectivity issues.  The Analyst will be responsible for escalation to the appropriate second tier support, opening tickets with various vendors, and escalation to Senior level management.  External customer support ranges from general website support, assistance with password resets, online account management and the provisioning of mobile driver's licenses.  The Analyst will be expected to provide a high level of customer service while handling a large volume of calls and difficult situations all the way to completion of the ticket.  Job Responsibilities•             Oversee the daily performance of computer systems and applications.•             Answer user inquiries regarding computer software or hardware operation to resolve problems.•             Monitor ticket queues, assign tickets to appropriate internal and external support staff, escalate tickets until resolved.•             Confer with users or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.Qualifications:•          Six months of experience handling customers, questions, complaints, and/or providing information in a call center environment.• 2+ years’ experience performing as Helpdesk Technician with hands on knowledge in resolving issues with Outlook, MS Office, Win 7 and 10.•             Vocational/Technical degree in computer applications, computer technology or a closely related area from an accredited college•          Knowledge of Apple iOSThis position is located at DDS Headquarters in Conyers, Georgia.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceVocational/Technical degree in computer applications, computer technology or a closely related area from an accredited college Required0Experience performing as Helpdesk Technician with hands on knowledge in resolving issues with Outlook, MS Office, Win 7 and 10, Active Directory.Required2YearsMonitor ticket queues, assign tickets to appropriate internal and external support staff, escalate tickets outside of SLA’s until resolved.Required2YearsInstall and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications.Required2YearsAnswer user inquiries regarding computer software or hardware operation to resolve problems.Required2YearsBilingual - SpanishRequired0IT Help Desk Call Center expRequired2YearsQuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?\nQuestion2Please list candidate's email address.Question3Candidate must be paid AT LEAST Assigned if selected for engagement. Candidate can be paid more; however, the SRP rate cannot exceed Assigned. Do you accept this requirement?Question4The maximum mark-up for this engagement’s SRP rate is 35%.  To be competitive on pricing, a mark-up below the 35% threshold is suggested.  Do you agree to propose a mark-up at or below 35%?Question5This assignment is contingent upon customer renewal and availability of adequate funding. Do you accept this requirement?Question6The selected candidate will be expected to start their engagement no later than 2 weeks (10 business days) from the client’s selection date. Do you accept this requirement?Question7Onsite Required: Due to the essential nature of the work to be performed, this position REQUIRES the selected candidate to work ONSITE for the duration of the assignment. Candidates will not be permitted to work remotely. Do you accept this requirement?Question8Is the candidate fluent in Spanish?",
-      "closing": {
-        "closing_date": "2026-06-08T23:59:59Z",
-        "closing_dateStr": 1780358400000
-      },
-      "start": {
-        "start_date": "06/22/2026",
-        "start_dateStr": 1782086400000
+        "start_date": "07/20/2026",
+        "start_dateStr": 1784505600000
       },
       "end": {
         "end_dateStr": "06/30/2027",
@@ -252,188 +180,8 @@
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/qGZenLk20I32eDxKencd6Tpj8FI29yt-u8Ysydm7gdg",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c8zVqeMVbAzH_1SLRS-u2K8="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cyen3wUItRpMLKSi0SCZOHQ=",
-      "title": "IN-DOH-Microbiologist II Antimicrobial Resistance",
-      "location": "550 W 16th St Ste B\\nMarion County, Indianapolis, IN 46202",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "06/01/2026",
-        "date_posted": 1780272000000
-      },
-      "description": "This position is part of the Indiana Department of Health Laboratory, Antimicrobial Resistance Lab Network.Purpose of Position/Summary:Incumbent is responsible for coordinating and performing the full range of microbiological examinations and analyses including culture, biochemical tests, PCR, and WGS of clinical specimens for isolation and identification of bacteria and yeast  including but not limited to E.coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Acinetobacter baumanii, and Candida auris. Incumbent will also be responsible for the documentation of all quality control and quality assurance activities according to CLIA regulations. In addition, this position may cross-train in other areas of the lab that may include molecular, microbiological, viral, serological, and other techniques to support routine testing and provide backup capacity.Essential Duties/Responsibilities:Incumbent will have in-depth knowledge and ability in the area of microbiology and molecular biology and is able to perform laboratory associated assays or the ability to learn these techniques upon successful completion of proficiency testing.  Representative duties include:• Conducting examinations of samples and/or reference samples for analyses such as but not limited to, molecular detection or isolation and identification of microorganisms or their nucleic acids.• Strictly follow the laboratory's procedures for specimen handling and processing, test analyses, reporting and maintaining records of patient test results.• Extraction of nucleic acids from specimens, isolates, and samples via a variety of manual and automated methods;•Utilize molecular techniques such as, but not limited to, PCR, sequencing, MALDI-TOF, and WGS;• Evaluate, interpret, and validate laboratory results and reports findings.• Maintain laboratory record system of submitted samples and specimens and their possible referral.• Conduct quality control checks on laboratory methods, materials, and equipment in strict adherence to the laboratory's quality control policies. • Maintain an inventory of laboratory supplies and order as needed to ensure testing needs are met. • Assist in preparations of epidemiological and/or statistical reports from data compiled on a daily, weekly, monthly, or annual basis.• Maintain competency in all trained areas.• Perform all related work as required.•Testing personnel responsibilities (493.1495 Standard):    The testing personnel are responsible for specimen processing, test performance and for reporting test results.    (a)    Each individual performs only those high complexity tests that are authorized by the laboratory director and require a degree of skill       commensurate with the individual’s education, training or experience, and technical abilities.    (b)    Each individual performing high complexity testing must—        (1)    Follow the laboratory’s procedures for specimen handling and            processing, test analyses, reporting and maintaining records of patient             test results;         (2)    Maintain records that demonstrate that proficiency testing samples are             tested in the same manner as patient specimens;        (3)    Adhere to the laboratory’s quality control policies, document all quality             control activities, instrument and procedural calibrations and             maintenance performed;        (4)    Follow the laboratory’s established policies and procedures whenever            test systems are not within the laboratory’s established acceptable levels            of performance;        (5)    Be capable of identifying problems that may adversely affect test            performance or reporting of test results and either must correct the            problems or immediately notify the general supervisor, technical            supervisor, clinical consultant, or director;        (6)    Document all corrective actions taken when test systems deviate from            the laboratory’s established performance specifications; and        (7)    Except as specified in paragraph (c) of this section, if qualified under §            493.1489(b)(5), perform high complexity testing only under the onsite,            direct supervision of a general supervisor qualified under § 493.1461.    (c)    Exception. For individuals qualified under § 493.1489(b)(5), who were performing        high complexity testing on or before January 19, 1993, the requirements of        paragraph (b)(7) of this section are not effective, provided that all high complexity        testing performed by the individual in the absence of a general supervisor is        reviewed within 24 hours by a general supervisor qualified under § 493.1461.Job Requirements:• Extensive knowledge of the principles, theories and practices of microbiology and related sub- specialties;• Specialized knowledge of current scientific methods and testing procedures and the ability to apply them when seeking solutions to public health laboratory problems;• Specialized knowledge of and ability to use a full range of standard technical equipment, complex scientific apparatus, and automated techniques of analysis;• Extensive knowledge of laboratory safety practices and principles;• Aware of state and federal laws, rules, regulations, and policies concerning the program area (i.e. CLIA); • Ability to meet requirements for personnel certification as a technologist pursuant to the Clinical Laboratory Improvement Act (CLIA)• Ability to effectively communicate technical information both verbally and in writing and maintain productive working relationships;• Ability to satisfactorily participate in proficiency testing programs and recognize QA problems;• Ability to compile, analyze, evaluate, and prepare laboratory reports.Supervisory Responsibilities/Direct Reports:N/ADifficulty of Work:Incumbent is engaged in scientific analyses that demand accuracy and demonstrated proficiency in applying laboratory analytical skills to select pertinent guidelines and formulated plans for problem solving.  Projects involve many complex variables of great intricacy and the microbiologist is often called upon to analyze and identify unusual specimens/samples. Work requires use of analytical judgment and technical knowledge in order to draw accurate, logical conclusions. Incumbent will also be required to develop and research new testing procedures.Responsibility:Incumbent works independently as an expert in the assigned area. Technical and/or detailed instruction is provided only upon request when necessitated by a procedural change and/or special project.  Incumbent maintains established safety practices when working with materials that have a chemical hazard or biohazard potential.  Reports are reviewed for general technical accuracy; however, tasks are performed independently.  Errors in work could adversely affect the health, safety and well being of the incumbent or coworkers.Personal Work Relationships:Incumbent works with supervisor and with other State Department of Health staff such as Laboratory Safety Officer and/or external entities (e.g. local health departments, etc.) to devise and implement work procedures and information dissemination.  Individual will have contact with employees and the public as a laboratory expert and in the explanation of laboratory procedures and recommendations when appropriate.Physical Effort:The required personal protective equipment can be cumbersome and awkward. Extra effort and concentration will be necessary to perform routine laboratory manipulations under these conditions.  Working Conditions:The incumbent will be performing tests on potentially dangerous specimens. Consequently, safety standards are of primary importance.  This position will be required to use all appropriate personal protective equipment in the designated laboratory area. The laboratory space and equipment can experience a dramatic increase in temperature. The incumbent will be required to work in these conditions and maintain a clear thought process during the testing.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceExtensive knowledge of the principles, theories and practices of microbiology and related sub-\tspecialties;Required0Specialized knowledge of current scientific methods and testing procedures and the ability to apply them when seeking solutions to public health lab.Required0Specialized knowledge of/ability to use a full range of standard technical equip., complex scientific apparatus, and automated techniques of analysisRequired0Extensive knowledge of laboratory safety practices and principles;Required0Aware of state and federal laws, rules, regulations, and policies concerning the program area (i.e. CLIA); Required0Ability to effectively communicate technical information both verbally and in writing and maintain productive working relationships;Required0Ability to satisfactorily participate in proficiency testing programs;Required0Ability to compile, analyze, evaluate, and prepare laboratory reports.Required02 years of high complexity laboratory experience as testing personnel, w/exp. providing oversight of daily performance of high complex testingHighly desired2YearsBA/BS in biological science.Highly desired0QuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?Question2Please list candidate's email address.Question3Please list the city and state where candidate currently resides.Question4Candidate must be paid Assigned if selected for engagement. The provider markup for this position is 28%. Do you accept this requirement?Question5Initial interview will be on Teams. Follow-up interview is required to be in-person. Do you accept this requirement?Question6Position is Monday through Friday, 7.5H days, 37.5H week; core hours are 8:15am – 4:45pm (one hour lunch) but schedule can be flexible, with the possibility of a 30 minute lunch. Weekends would not be required. Do you accept this requirement?",
-      "closing": {
-        "closing_date": "2026-06-05T23:59:59Z",
-        "closing_dateStr": 1780272000000
-      },
-      "start": {
-        "start_date": "06/29/2026",
-        "start_dateStr": 1782691200000
-      },
-      "end": {
-        "end_dateStr": "01/01/2027",
-        "end_date": 1798761600000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/ULMp5rMiba6kRdWqkiH0yntH_IQnqvdCyqH0Sb7SKhQ",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyen3wUItRpMLKSi0SCZOHQ="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c35kh5BwRmvhmlZgzxSZdEU=",
-      "title": "IN-DCS-Senior Java Developer",
-      "location": "500 North Meridian Street\\nIndianapolis, IN 46204",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/29/2026",
-        "date_posted": 1780012800000
-      },
-      "description": "Experienced Java developer with expertise in Spring Boot, REST API development, batch processing, event-driven queue processing, MuleSoft integration, and document generation tools.Complete Description:•       Resource is required with strong hands-on experience in Java, Spring Boot framework for backend development, and creation of scalable RESTful APIs. •       The candidate must have practical exposure to designing and executing batch processes. •       Implementing event-driven and queue-based asynchronous processing using technologies such as AS400 Data Queues, Kafka, RabbitMQ, or AWS SQS.  •       Resource must have hands-on experience deploying Java-based applications to AWS applications and web server environments. •       Experience in writing PostgreSQL functions, stored procedures, and advanced SQL queries is a strong plus. •       Experience in MuleSoft integration flows, API-led connectivity. •       Familiarity with Angular/React for frontend development is preferred. •       Preferred experience with document automation and template management tools such as SmartDocuments or Adobe Forms Development. •       Candidates will work with cross-functional teams to deliver enterprise-grade solutions.Required/Desired SkillsSkillRequired /DesiredAmountof ExperienceJava and Spring Boot development.Required7YearsStrong exposure to REST API design, authentication, authorization, and microservice patterns.Required5YearsExperience building and optimizing batch processesRequired5YearsHands-on experience with event-driven architectures and message queues.Required5YearsMuleSoft development experience (including integrations and API management).Required3YearsWorking knowledge of template-based document generation platforms.Required0QuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?Question2Please list candidate's email address.Question3Candidate must be currently located in Indiana. Please list the city and state where candidate currently resides.Question4Candidate pay rate for this position is Assigned per hour if selected for engagement. The provider markup for this position is 35%. Do you accept this requirement?Question5Work schedule Monday to Friday, 8:00am to 5:00pm. Do you accept this requirement?Question6Selected candidate will be required to work onsite 3 days per week and 2 days remote. Please confirm the resource understands the work schedule. Question7This position requires a passed fingerprint and background check. Please confirm the resource understand this requirement.Question8Duration of position is expected to be 1 year with the possibility of an extension past that date. Please confirm the resource understands the duration of the position.Question9This position requires the resource to work a hybrid schedule. The manager is willing to consider resources outside of Indiana that are willing to relocate. Please confirm the resource understands relocation will be required if selected for the position.",
-      "closing": {
-        "closing_date": "2026-06-04T23:59:59Z",
-        "closing_dateStr": 1780012800000
-      },
-      "start": {
-        "start_date": "06/01/2026",
-        "start_dateStr": 1780272000000
-      },
-      "end": {
-        "end_dateStr": "01/01/2027",
-        "end_date": 1798761600000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/8T2UqCtTys-WK_CZscOf4xJBlKXM7VYm20QpektzM5s",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c35kh5BwRmvhmlZgzxSZdEU="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c1Nyj2eC8ky1KH3wr1fQh-s=",
-      "title": "IN - INDOT IT Sr. Project Manager",
-      "location": "100 N. Senate Ave., Indianapolis, IN 46204",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/2026",
-        "date_posted": 1779840000000
-      },
-      "description": "In this position, you will collaborate with senior management, stakeholders and the overall project teams to meet business objectives and provide professional leadership, while fostering mentorship, respect and trust.  \n \nThe essential functions of this role are as follows: \n \nOversee multiple projects to ensure proper management towards successful conclusion. \n \nManage large enterprise-type projects that involve multiple internal stakeholders or contracted resources. \n \nDevelop, monitor, and maintain project plans. \n \nDefine users and project team members’ roles and responsibilities on the project. \nDefine user requirements, deliverables, and approvals. \n \nCoordinate and monitor activities of all stakeholders to ensure timelines and budgets are met. \n \nCommunicate project status to management and project stakeholders. \n \nMentor and provide guidance to intermediate level project managers including recommending training and experience. \n \nSkills: \n \nExperience in IT Project Management and IT digital transformation. \nPrior experience working on State of Indiana large software projects desired. \n \nStrong knowledge of information systems development life cycle, information technology, project tools and approaches to development and implementation. \n \nExperience with multiple methodologies including Agile, Waterfall, and Hybrid. \n \nAbility to translate technology terms and explain concepts of the SDLC to program/business/stakeholders who may have little to no exposure working on or with large software projects/teams. \n \nStrong knowledge in leading modernizing Oracle, PL/SQL, data warehouses using BigQuery, Dataflow, and DataStream. \n \nAbility to work with technical team members, and other IT professionals to flesh out project plans and risk registers and overcome obstacles. \n \nStrong communication and presentation skills required. \n \nDescription: \n \nResponsible for relationship management, project planning, resource management, tactical execution, and the creation and/or oversight of final project deliverables. \n \nLead end-to-end migration of our on-premises Oracle Data Warehouse to Google Cloud Platform (GCP). \n \n\nRequired/Desired Skills\n \n\n\n\n\nSkill\nRequired /Desired\nAmount\nof Experience\n\n\nExperience in complex IT project or portfolio coordination involving multiple stakeholders across multiple business areas and geographies\nRequired\n10\nYears\n\n\nExperience with Cloud migration, Google, Data Warehouse, Migration experience\nRequired\n0\n \n\n\nAbility to translate technology terms and explain concepts of SDLC to program/business folks who have little to no exposure to large software projects\nRequired\n10\nYears\n\n\nAbility to support Sr. project team staff to drive projects to success\nRequired\n10\nYears\n\n\nStrong organization, communication and presentation skills\nRequired\n0\n \n\n\nExperience in organizing highly complex and technical information.\nRequired\n10\nYears\n\n\nPrior experience working on State of Indiana large software projects\nRequired\n0\n \n\n\nKnowledge of multiple methodologies including agile and waterfall\nRequired\n0\n \n\n\nExperience managing projects within Azure DevOps\nHighly desired\n0\n \n\n\nPMP Certified\nDesired\n0\n \n\n\nLed end-to-end migration of an on-premise to cloud data warehouse migrations\nDesired\n0\n \n\n\n\n",
-      "closing": {
-        "closing_date": "2026-06-02T23:59:59Z",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "06/15/2026",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "01/01/2028",
-        "end_date": 1830297600000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/I2HxqMW3-GT3-R4ZL1_yXKFmrlQyBQNAQ7yuMojIESg",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c1Nyj2eC8ky1KH3wr1fQh-s="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c20kCz5RxDFSwzaAWReG-Ww=",
-      "title": "GA DOL Computer Operator 2",
-      "location": "148 Andrew Young International Blvd NE\\nAtlanta, GA 30303",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/2026",
-        "date_posted": 1779840000000
-      },
-      "description": "Under general supervision, operates computer and peripheral equipment. Performs clerical and maintenance tasks in support of a mainframe computer complex or other large centralized IT system.\n\n*LOCAL CANDIDATES ONLY*\n\nThis is a weekend shift with the hours of 7pm – 7am, Saturday and Sunday. They would then need to get in an additional 16 hours anytime during the week. These additional 16hrs can be picked up on any shift. 1st, 2nd or 3rd.\n\nJob Summary:\n\nUnder limited supervision, monitors BPE/TPE transactions, all environmental, security, electrical & UPS systems. Checks the network systems to ensure statewide access. Works with vendors for hw/sw. Ensure all printed output is of high quality and defect free.\n\nPreferred Qualifications\nSignificant experience as a Computer Operations Operator in a large data center. Exp w/a Network Operations Center (NOC). Exp w/production control. Exp with distributed servers running AIX, Linux, and Windows. Exp w/data center security, HVAC and electrical in a data center. Exp w/Control-M, TPE/BPE Manager.\n\nQualifications:\n•Vocational/Technical degree in a related field from an accredited college AND 2 years of related experience\n\n \nRequired/Desired Skills\n \n\n\n\n\nSkill\nRequired /Desired\nAmount\nof Experience\n\n\nCompletion of either a two-year certificate/degree from a college, university, or technical school in an IT field or equivalent work experience in IT.\nRequired\n0\n \n\n\nExperience as Computer Operator in a large Data Center.\nRequired\n2\nYears\n\n\nExperience with a Network Operations Center (NOC).\nRequired\n2\nYears\n\n\nExperience with Production Control.\nRequired\n2\nYears\n\n\nExperience with Control-M.\nRequired\n2\nYears\n\n\nExperience with TPE/BPE Manager.\nRequired\n2\nYears\n\n\nExperience with security in a Data Center.\nRequired\n2\nYears\n\n\nExperience with Heating, Ventilation, and Air Conditioning (HVAC) in a Data Center.\nRequired\n2\nYears\n\n\nExperience with electrical power in a Data Center including generators and Uninterruptible Power Supplies (UPS).\nRequired\n2\nYears\n\n\nExperience with a raised floor in a Data Center.\nRequired\n2\nYears\n\n\nExperience with fire detection and fire suppression systems in a Data Center.\nRequired\n2\nYears\n\n\nExperience with Change Management policies, procedures, and software.\nRequired\n2\nYears\n\n\nExperience with Incident/Problem Management policies, procedures, and software.\nRequired\n2\nYears\n\n\nExperience with Asset Management policies, procedures, and software.\nRequired\n2\nYears\n\n\nExperience with Networks, such as LAN/WAN, MPLS, TCP/IP, and SNA.\nRequired\n2\nYears\n\n\nExperience with Microsoft Office.\nRequired\n2\nYears\n\n\nExperience with Information Technology Infrastructure Library (ITIL).\nRequired\n2\nYears\n\n\nExperience with automated job schedulers.\nRequired\n2\nYears\n\n\nExperience with hardware/software maintenance contracts.\nRequired\n2\nYears\n\n\nExperience with Business Continuity and Disaster Recovery.\nRequired\n2\nYears\n\n\nExperience with State and/or Federal government.\nDesired\n2\nYears\n\n\nExperience with distributed servers running AIX, LINUX, and Windows.\nRequired\n2\nYears\n\n\n\n",
-      "closing": {
-        "closing_date": "2026-06-01T23:59:59Z",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "06/15/2026",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "06/30/2027",
-        "end_date": 1814313600000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/xNO-0i7qynfwBLN5dimN7l8OLatPk2jLnaWEoXlvjgk",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c20kCz5RxDFSwzaAWReG-Ww="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3cyeRDDT3oOnJS2GDJyh8AWs=",
-      "title": "DCS - Research/Data Analyst Senior",
-      "location": "270 Washington Street SE, Suite 5-181, Atlanta, GA 30334",
-      "experience": {
-        "experience": "N/A",
-        "min_experience": ""
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/2026",
-        "date_posted": 1779840000000
-      },
-      "description": "Under broad supervision, performs complex administrative duties and statistical, financial, or operational data analysis and reporting in support of management decision making in the functional area. Identifies trends, discrepancies, and variances to imp******************************ON-SITE INTERVIEW REQUIRED - ATLANTA/GA***************************************************************ON-SITE INTERVIEW REQUIRED - ATLANTA/GA*********************************This position is available for extensions.JOB SUMMARYUnder broad supervision, performs complex administrative duties and statistical, financial, or operational data analysis and reporting in support of management decision making in the functional area. Identifies trends, discrepancies, and variances to improve the efficiency and effectiveness of operations. May partner with other departments, divisions, outside agencies, and vendors to address business issues. Exercises various latitudes of independent judgment. May administer or provide high-level support for various projects, grants, contracts, implementation of procedures, and/or any specialized functions. Assists with orientation, training, or providing task guidance of junior team members. Provides strategic analysis.PRIMARY DUTIES AND RESPONSIBILITIESPerform job responsibilities with minimal supervisionExtract primary data from Oracle Database with the use of SQLInterpret data, analyze results using statistical techniques and provide ongoing reportsProvide timely and accurate data to fulfill internal and external data requestsIdentify, compile, and ‘clean’ data for research projectsIdentify, analyze, and interpret trends or patterns in complex data setsOversee evaluation and research projectsCommunicate the evaluation plan and its details to leadership and stakeholdersCollaborate with external research partners to ensure understanding of data points and data setsDevelop and monitor internal and external data requestsManage, summarize, and analyze quantitative and/or qualitative dataSummarize and explain research findings and their implicationsPrepare findings for publicationDevelop, review, and abstract published researchProduce data visualization dashboards with TableauMINIMUM QUALIFICATIONSBachelor's degree in a related field from an accredited college or university AND Two years in a related lead or supervisory role OR Associate's degree in a related field from an accredited college or university AND Four years of related experience, Two years of which in a related lead or supervisory role OR Two years of experience at the lower level IT Business Analyst or position equivalent.PREFERRED QUALIFICATIONS5+ years of knowledge and experience with databases (SQL, Oracle, etc)5+ years of experience in accessing and extracting data from organizational and/or other institutional databases Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy2+ years of relevant work experience in the Criminal Justice field and/or Data Management/AnalysisProficient skills in queries, report writing, and presenting findingsExperience in data visualization software (i.e., Tableau)Required/Desired SkillsSkillRequired /DesiredAmountof Experience5+ years of knowledge and experience with databases (SQL, Oracle, etc)Required5Years5+ years of experience in accessing and extracting data from organizational and/or other institutional databasesRequired5YearsStrong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail aRequired1Years2+ years of relevant work experience in the Criminal Justice field and/or Data Management/AnalysisHighly desired2YearsProficient skills in queries, report writing, and presenting findingsRequired3YearsExperience in data visualization software (i.e., Tableau)Highly desired1YearsQuestionsNo.QuestionQuestion1Absences greater than two weeks MUST be approved by CAI management in advance, and contact information must be provided to CAI so that the resource can be reached during his or her absence. The Client has the right to dismiss the resource if he or she does not return to work by the agreed upon date. Do you accept this requirement?\nQuestion2Please list candidate's email address that will be used when submitting E-RTR.\nQuestion3Candidate must be paid the rate of at least Assigned if selected for engagement therefore the SRP rate cannot exceed Assigned. Do you accept this requirement?\nQuestion4The maximum mark-up for this engagement’s SRP rate is 35%. To be competitive on pricing, a mark-up below the 35% threshold is suggested. Do you agree to propose a mark-up at or below 35%?\nQuestion5ON-SITE INTERVIEWS ONLY! Do you and your candidate accept this requirement?Question6Client DOES NOT SHIP EQUIPMENT. The chosen candidate will be required ON-SITE Day 1 to pick up equipment and take a Drug Test. Do you and your candidate accept this requirement?Question7In what City and State is your candidate located?",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "06/15/2026",
-        "start_dateStr": 1781481600000
-      },
-      "end": {
-        "end_dateStr": "06/30/2027",
-        "end_date": 1814313600000
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/Jpsk7KuLmOM9LrI1hCkIwMyY_08E2Szm2lQFb2CfEk0",
-      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3cyeRDDT3oOnJS2GDJyh8AWs="
+      "apply": "https://candidateportal.ceipal.com/job-details/x4KFNaWzZ7RPgZJjv5yLgxeizIu9Zlp03bN1p1E5OjE",
+      "url": "https://jobsapi.ceipal.com/APISource/v2/index.html?job_id=z5G7h3l6a1kMvyS65NP3c3IhjF-fzwCWVlG15fzHXGs="
     }
   ]
 }

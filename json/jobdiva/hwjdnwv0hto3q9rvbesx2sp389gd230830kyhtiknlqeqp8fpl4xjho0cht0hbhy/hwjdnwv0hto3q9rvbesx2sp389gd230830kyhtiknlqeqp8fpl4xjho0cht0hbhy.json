@@ -1,14 +1,14 @@
 [
   {
-    "id": 32336875,
-    "title": "Manager, Product Development",
-    "location": "FL, Boca Raton",
+    "id": 32522593,
+    "title": "Full Stack Developer",
+    "location": "CO, Boulder",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779303925000
+      "date_postedStr": "6/29/2026",
+      "date_posted": 1782758638000
     },
     "start": {
       "start_dateStr": null,
@@ -19,15 +19,48 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<p><strong>Manager, Product Development (SunPass Program Lead)</strong></p>\r\n\r\n<ul>\r\n\t<li>Responsible for managing the lifecycle of SunPass products, solutions, and applications, ensuring they meet business requirements and align with the SunPass Operations roadmap.</li>\r\n\t<li>Oversees product development activities, reporting standards, and operational governance while coordinating with cross-functional teams to deliver high-quality, customer-focused solutions.</li>\r\n\t<li>Acts as a liaison between SunPass Operations, Toll Operations leadership, and technical teams to ensure timely delivery, continuous improvement, and compliance with established standards.</li>\r\n</ul>\r\n\r\n<p><strong>Essential Duties &amp; Responsibilities:</strong></p>\r\n\r\n<p><strong>Product Development &amp; Delivery</strong></p>\r\n\r\n<ul>\r\n\t<li>Manages research and development activities related to the design, enhancement, and qualification of SunPass products and solutions.</li>\r\n\t<li>Works with cross-functional teams to ensure fulfillment of product requirements and transition products from development to commercialization.</li>\r\n\t<li>Assists in determining product delivery and deployment schedules for new releases, feature updates, and maintenance cycles.</li>\r\n\t<li>Acts as a technical consultant to the SunPass Operations team, leading testing and evaluation of innovative technologies.</li>\r\n\t<li>Ensures technology and product specifications align with SunPass business objectives.</li>\r\n\t<li>Oversees product delivery, managing schedules and tasks related to all aspects of product development.</li>\r\n</ul>\r\n\r\n<p><strong>Operational Governance &amp; Reporting</strong></p>\r\n\r\n<ul>\r\n\t<li>Develops and maintains a centralized inventory of SunPass products, solutions and applications.</li>\r\n\t<li>Captures and tracks SunPass Operations initiative updates in compliance with reporting standards.</li>\r\n\t<li>Monitors input from all business units to ensure products meet functional and performance requirements.</li>\r\n\t<li>Identifies opportunities for improvement and lifecycle replacement needs; prepares documentation and summaries for leadership visibility.</li>\r\n\t<li>Collaborates with Toll Operations Business Intelligence team to develop dashboards and reporting tools for program performance monitoring.</li>\r\n\t<li>Ensures Standard Operating Procedures (SOPs) are created and maintained, establishing a lifecycle process for updates.</li>\r\n</ul>\r\n\r\n<p><strong>Strategic Support &amp; Emergency Response</strong></p>\r\n\r\n<ul>\r\n\t<li>Gains detailed knowledge of all facets of SunPass Operations to support decision-making and implementation of initiatives.</li>\r\n\t<li>Serves in times of emergency to support state response efforts and ensure continuity of operations.</li>\r\n</ul>\r\n\r\n<p><strong>Education:</strong></p>\r\n\r\n<p>Bachelor&#39;s or Master&#39;s Degree in Computer Science, Information Systems, Business Administration, Operations Management, Project Management or other related field.</p>\r\n\r\n<p><strong>Experience:</strong></p>\r\n\r\n<ul>\r\n\t<li>A minimum of 7 years of tech industry, product engineering, operations, technology integration, or other related work experience.</li>\r\n</ul>\r\n",
+    "remote": 100,
+    "description": "<div>\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Strong front-end skills with Angular experience preferred; solid understanding of advanced UI concepts (component architecture, reactive patterns, state management)</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Full stack capability across front-end and back-end services</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">TypeScript experience a plus; Go (Golang) familiarity a bonus but not required</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Solid grasp of modern development workflows &mdash; source control, CI/CD, code review practices</span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\">Some AWS experience desired (EC2, S3, Lambda, RDS, or similar core services)</span></li>\r\n</ul>\r\n</div>\r\n",
     "recruiter": [
       "Kaitlyn May",
       "kaitlyn@ecastaffingsolutions.com",
       "9046993317"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=hwjdnwv0hto3q9rvbesx2sp389gd230830kyhtiknlqeqp8fpl4xjho0cht0hbhy&compid=0&SearchString=#/jobs/32336875",
-    "time_scraped": 1779748788659,
+    "url": "https://www1.jobdiva.com/portal/?a=hwjdnwv0hto3q9rvbesx2sp389gd230830kyhtiknlqeqp8fpl4xjho0cht0hbhy&compid=0&SearchString=#/jobs/32522593",
+    "time_scraped": 1782800201073,
+    "source_company": "hwjdnwv0hto3q9rvbesx2sp389gd230830kyhtiknlqeqp8fpl4xjho0cht0hbhy",
+    "source_url": "https://www1.jobdiva.com/portal/?a=hwjdnwv0hto3q9rvbesx2sp389gd230830kyhtiknlqeqp8fpl4xjho0cht0hbhy&compid=0",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 32522578,
+    "title": "Sr. Account Manager - Supplements",
+    "location": "FL, St. Augustine",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/29/2026",
+      "date_posted": 1782758450000
+    },
+    "start": {
+      "start_dateStr": null,
+      "start_date": null
+    },
+    "end": {
+      "end_dateStr": null,
+      "end_date": null
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><strong><span style=\"font-family:Arial,sans-serif;\">Sr. Account Manager &ndash; Supplements</span></strong><br />\r\n<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Company Overview</span></strong><br />\r\n<span style=\"font-family:Arial,sans-serif;\">Our client is a leading provider of high-quality nutritional supplements, vitamins, minerals, botanicals, and functional ingredients for the dietary supplement, sports nutrition, and wellness industries. They help brand and manufacturer creative, effective, science-backed products that support consumer health and performance.</span><br />\r\n<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Job Summary</span></strong><br />\r\n<br />\r\n<span style=\"font-family:Arial,sans-serif;\">The Sr. <strong>Account Manager</strong> is responsible for building and growing long-term relationships with key accounts (brands, distributors, and retailers) in the nutritional supplements sector. You will drive sales growth, manage the full customer lifecycle, identify new business opportunities, and act as the primary point of contact to ensure high customer satisfaction and retention. This role combines strategic account management, consultative selling, and deep industry knowledge to deliver revenue targets in a competitive, regulated market.</span><br />\r\n<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Key Responsibilities</span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Manage a portfolio of existing accounts and develop new business within the dietary supplement, nutraceutical, sports nutrition, and related segments.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Build strong, consultative relationships with stakeholders in R&amp;D, purchasing, marketing, and senior leadership at client organizations.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Conduct regular customer visits, calls, and presentations to understand needs, uncover formulation or supply chain gaps, and recommend tailored solutions (ingredients, finished products, or custom blends).</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Achieve or exceed sales targets, revenue goals, and profit margins through upselling, cross-selling, and contract negotiations.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Develop and execute account-specific business plans, including forecasting, budgeting, and pipeline management.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Monitor market trends, competitor activity, and regulatory changes (e.g., FDA, DSHEA compliance) to provide strategic insights to both clients and internal teams.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Collaborate with internal departments (marketing, product development, quality, logistics, and finance) to ensure seamless delivery and resolve issues promptly.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Prepare sales reports, CRM updates, and performance reviews; track key metrics such as sales volume, customer retention, and growth opportunities.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Identify and qualify new leads, manage the sales cycle from prospecting to close, and expand into adjacent categories (e.g., functional foods or medical nutrition).</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Represent the company at trade shows, industry events, and client meetings while maintaining the highest standards of professionalism.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Qualifications and Requirements</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Bachelor&#39;s degree in Business, Marketing, Nutrition, Life Sciences, or a related field (preferred).</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">5&plus; years of proven B2B sales or account management experience in the nutritional supplements, nutraceutical ingredients, dietary supplements, sports nutrition, or health ingredients industry.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Strong understanding of supplement formulations, ingredients (vitamins, minerals, botanicals, proteins, etc.), supply chain dynamics, and regulatory landscape.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Demonstrated ability to meet sales quotas and build long-term customer partnerships.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Excellent communication, negotiation, and presentation skills; ability to explain technical product benefits to non-technical audiences.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Proficiency with CRM systems (e.g., Salesforce), Microsoft Office, and virtual selling tools.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Self-motivated with strong organizational skills and the ability to work independently in a fast-paced environment.</span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Arial,sans-serif;\">Preferred Skills</span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Existing network of contacts within dietary supplement manufacturers, contract manufacturers (CMOs), or retail brands.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Experience with private-label or custom formulation projects.</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Knowledge of sports nutrition, weight management, immune health, or other trending supplement categories</span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Competitive base salary &plus; commission structure.</span></li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\">Opportunities for career growth in a dynamic, health-focused industry.</span></li>\r\n</ul>\r\n</div>\r\n",
+    "recruiter": [
+      "Kaitlyn May",
+      "kaitlyn@ecastaffingsolutions.com",
+      "9046993317"
+    ],
+    "url": "https://www1.jobdiva.com/portal/?a=hwjdnwv0hto3q9rvbesx2sp389gd230830kyhtiknlqeqp8fpl4xjho0cht0hbhy&compid=0&SearchString=#/jobs/32522578",
+    "time_scraped": 1782800200910,
     "source_company": "hwjdnwv0hto3q9rvbesx2sp389gd230830kyhtiknlqeqp8fpl4xjho0cht0hbhy",
     "source_url": "https://www1.jobdiva.com/portal/?a=hwjdnwv0hto3q9rvbesx2sp389gd230830kyhtiknlqeqp8fpl4xjho0cht0hbhy&compid=0",
     "date_cutoff_days": 15

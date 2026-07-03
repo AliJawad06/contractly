@@ -8,9 +8,25 @@ echo "Starting batch processing..."
 echo "================================"
 
 
+cd /root/contractly
+source venv/bin/activate
+
+
+export ANTHROPIC_API_KEY="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"
+
+
+
 SCRIPTS=(
-    "main.py"
-    "jobapi.py"
+	"source venv/bin/activate"
+	"> day/day.jsonl"
+        "> day/day_intermediate.jsonl"
+        "> day/day_loc_processing.jsonl"
+	"> batching_tests.jsonl"
+	"python main.py"
+	"python jobapi.py"
+	"python combine.py"
+        "python worker.py"
+	"python tests/users/job_matcher.py"
 )
 
 
@@ -22,7 +38,7 @@ for script in "${SCRIPTS[@]}"; do
     script_start=$(date +%s)
     echo "[$(date '+%H:%M:%S')] Running $script..."
     
-    python3 "$script"
+    eval "$script"
     
     script_end=$(date +%s)
     echo "$script completed in $((script_end - script_start)) seconds"

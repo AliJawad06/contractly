@@ -1,79 +1,43 @@
 {
   "company": "Zillion Technologies",
-  "scrape_date": "2026-06-02T22:43:34.160315",
-  "total_jobs": 2,
+  "scrape_date": "2026-07-02T07:52:12.158202",
+  "total_jobs": 1,
   "jobs": [
     {
-      "id": "z5G7h3l6a1kMvyS65NP3c-PEanZ9RfGZ2-183sbTYtk=",
-      "title": "Product Manager Consultant",
+      "id": "z5G7h3l6a1kMvyS65NP3c9SQxDZDkRB41-X7F8NbcGM=",
+      "title": "Document Processing Specialist",
       "location": "",
       "experience": {
-        "experience": "5-10 years",
-        "min_experience": "5"
+        "experience": "1 year",
+        "min_experience": "0"
       },
       "skills": null,
       "posted": {
-        "date_postedStr": "05/28/26",
-        "date_posted": 1779926400000
+        "date_postedStr": "06/30/26",
+        "date_posted": 1782777600000
       },
-      "description": " \n \nJob Description:\n \n\nTitle: Product Manager Consultant\n \nRemote\n\r\nTargeted Start Date: 6/29\r\n \nMust haves: Product manager, product management, mobile app/web/digital experience, client relationship experience and stakeholder management. Jira Agile experience.\n \nProduct Manager Consultant (to cover maternity leave) 3-6 months \n\r\nAbout the Role\r\nWe are seeking an experienced Product Management Consultant to provide full-time support during a planned maternity leave. This is a time-bound engagement ideal for a seasoned product professional who thrives in client-facing environments and can step in with minimal ramp-up time on a high visibility mobile app product.\n\r\nKey Responsibilities:\r\n• Serve as the primary day-to-day point of contact for client teams, fielding inquiries, providing timely responses, and ensuring a seamless communication experience throughout the engagement.\r\n• Synthesize and escalate key client requirements, feedback, and blockers to the Lead Product Manager, ensuring nothing falls through the cracks.\r\n• Develop and maintain high-quality presentation materials, including decks and supporting content, for client meetings and business stakeholder reviews.\r\n• Maintain continuity across ongoing product initiatives by staying closely aligned with existing documentation, roadmaps, and team workflows.\r\n• Build and sustain strong working relationships with client stakeholders, representing the product team with professionalism and clarity.\r\n• Work with key mobile train leads to support resolution and escalation of blockers, priorities and client requests (where needed).\n\r\nQualifications\r\n• 4+ years of experience in product management or a closely related role within the tech/software industry.\r\n• Prior experience working on mobile products is strongly preferred, with a solid understanding of mobile development cycles, platform considerations (iOS and/or Android), and mobile-first user experience principles.\r\n• Proven ability to manage client relationships and navigate cross-functional team dynamics.\r\n• Strong written and verbal communication skills, with the ability to distill complex information into clear, actionable updates.\r\n• Self-directed with excellent organizational skills; comfortable operating in a consulting or interim capacity.\n",
+      "description": "\n\n\n\nJob Title:\n\n\nProcessing Specialist\n\n\n\n\nLocation:\n\n\nRemote\n\n\n\n\nPay:\n\n\n$18.00/hr\n\n\n\n\nJob Type:\n\n\n6 month contract\n\n\n\n\nJob Start Date:\n\n\nASAP\n\n\n\n\nShift Dates/Times:\n\n\nMonday – Friday 8:00 a.m. – 5:00 p.m. EST with a 1 hour lunch\n\n\n\n\nBenefits:\n\n\nBenefits include medical, dental, vision, and disability insurance, and 401(k). Contractors are not eligible for PTO or paid holidays.\n\n\n\n\nWork Authorization:\n\n\nWork sponsorship is not available for this position. Applicants must be a United States citizen or green card holder, at the direction of our client.\n\n\n\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, genetic information, veteran status, sexual orientation, gender identity, or any other characteristic protected by applicable federal state, or local law.\n\n\n\n\n \nJob Description: The Processing Specialist handles insurance documents on behalf of financial institution clients, directly impacting the timeliness and accuracy of the homeowner's property insurance coverage. This role requires proven ability to manage deadlines and meet quality standards with accuracy and consistent attention to detail. It also requires the use of good judgment to solve problems and make appropriate business decisions consistent with company procedures and best practices.\nJob Details:\n\nProcess documents in an accurate and timely manner to ensure proper insurance coverage for homeowners and client satisfaction goals.\nIdentify policy type and determine appropriate action needed. For example, Townhome, Flood, Wind, etc.\nMake appropriate updates to client database to meet regulatory obligations.\nMake timely premium payments from established escrow accounts to ensure continuous coverage.\nManage time to handle multiple demands and competing priorities. Meet deadlines and quality standards\nCommunicate and coordinate with insurance agents and/or insurance carriers to verify information, update status, and meet deadlines/requirements\nDemonstrate empathy regarding your work and the impact it has on the Client and homeowner Address any questions, concerns, or suggestions in a timely and appropriate manner.\nBuild and maintain effective internal working relationships and support teamwork in meeting company goals.\nUnderstand how the Processing Specialist role fits into the larger organizational context and ensure the smooth hand off of work (incoming and outgoing).\nCommunicate status updates and appropriately escalate issues and opportunities to meet the needs of clients and homeowners.\n\nSuccessful candidates will possess the following:\n\nHigh School Diploma or GED \nExperience in the insurance, mortgage, and/or banking industry is preferred\nProficiency in Microsoft Excel\nPrevious customer service and data entry experience\nBasic knowledge of computers and proficiency with MS Office\nExcellent written and verbal communication skills\nThe ability to easily adapt as procedures/assignments may change frequently\nStrong multitasking and organization skills\nAn eye for detail\n",
       "closing": {
         "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779926400000
+        "closing_dateStr": 1782777600000
       },
       "start": {
-        "start_date": "05/28/26",
-        "start_dateStr": 1779926400000
+        "start_date": "07/13/26",
+        "start_dateStr": 1783900800000
       },
       "end": {
         "end_dateStr": null,
         "end_date": null
       },
       "salary": "",
-      "remote": 0,
-      "assigned_recruiter": "",
+      "remote": 1,
+      "assigned_recruiter": ", , ",
       "recruiter": {
         "contact": "N/A",
         "client": "N/A"
       },
-      "apply": "https://candidateportal.ceipal.com/job-details/8oZr9Dtz9T18Gptm3ysNwQKzjFaTP8GZPE4NGuFu4W8",
-      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c-PEanZ9RfGZ2-183sbTYtk="
-    },
-    {
-      "id": "z5G7h3l6a1kMvyS65NP3c4F1ramvaq9wU9XvFGGugyQ=",
-      "title": "Digital Personalization Manager",
-      "location": "",
-      "experience": {
-        "experience": "8-15 years",
-        "min_experience": "8"
-      },
-      "skills": null,
-      "posted": {
-        "date_postedStr": "05/27/26",
-        "date_posted": 1779840000000
-      },
-      "description": " \n \nJob Description:\n\r\nLocation: Remote/EST Hours\r\nDuration: 1 year with possible extension\n\r\nMust Haves:\r\n• 7+ years progressive experience in digital marketing, digital A/B testing, campaign management and/or digital personalization\r\n• Running a team building campaigns-web strategies-worked with personalization tools\r\n• Working with stakeholder’s to figure out requirements and build out the campaign and work with analytics to build the tracker\n\r\nRole Summary/Purpose:\r\nThe Digital Personalization Manager will drive business results and provide strategic guidance by leading the design, development and execution of personalization technology that delivers best in class customer experience. This role will support the development and refinement of digital journeys across the web and app world focusing on engaging consumers online throughout the customer life cycle. The Digital Personalization Manager will collaborate with cross functional stakeholders to identify use cases and enable targeting of key audience segments both on and offsite and lead Digital Personalization (Segmentation & Targeting) and Optimization (A/B, MVT website testing) efforts.\r\nTo accomplish this, the Digital Personalization Manager will need to be rooted in user experience and comfortable working with personalization platforms. This role will act a subject matter expert and help envision, sell in, and build the platform of the future for the Company. This role will also have primary responsibility for providing forward thinking and insightful analysis and managing personalization roadmap.\n \nEssential Responsibilities:\r\n• Translate digital product owner and customer data stakeholder requirements into implementation roadmaps and project plans for the website.\r\n• Help to identify use case opportunities that drive user engagement.\r\n• Prepare project status reports; make alterations in project plan as needed.\r\n• Direct and monitor project activity across Business Platforms or Functions.\r\n• Assist with or prepare project implementation steps and documentation as appropriate; ensures a smooth implementation of project; resolves problems.\r\n• Provide training on marketing technologies as applicable.\r\n• Facilitate launching of personalization campaigns, trouble shoots as needed and ensures successful campaign execution from start to finish.\r\n• Participate in project evaluation against estimated plans and provides continuing support and service as required.\r\n• Perform other duties and/or special projects as assigned.\r\nQualifications/Requirements:\r\n• Bachelor’s Degree OR in lieu of degree, high school diploma/GED and 10+ years of digital marketing experience\r\n• 7+ years progressive experience in digital marketing, digital A/B testing, campaign management and/or digital personalization\r\n• Direct experience working with marketing technologies such as Adobe Test & Target, Sales Force Marketing Cloud, Pega Systems, Dynamic Yield and Optimizely\n \nDesired Characteristics:\r\n• Experience working with the Agile methodology\r\n• Proven collaborative skill sets, experience developing plans and consistently meeting deadlines in a fast-paced environment\r\n• Creative and Resourceful: proven ability to problem solve, develop and execute a range of recommendations to meet business objectives\r\n• Excellent team skills; flexibility to pivot with strategy, regulatory and market evolution; and proven ability to work cross functionally, as well as within own function\r\n• Strong project management & communication skills\r\n• Experience with Content Management System (CMS), Machine Learning, and Artificial Intelligence is desirable but not mandatory\r\n• Agency, e-commerce or direct experience in consumer financial services with exposure to credit card or retail environment or other heavily regulated industries",
-      "closing": {
-        "closing_date": "Open Until Filled",
-        "closing_dateStr": 1779840000000
-      },
-      "start": {
-        "start_date": "05/27/26",
-        "start_dateStr": 1779840000000
-      },
-      "end": {
-        "end_dateStr": null,
-        "end_date": null
-      },
-      "salary": "",
-      "remote": 0,
-      "assigned_recruiter": ", ",
-      "recruiter": {
-        "contact": "N/A",
-        "client": "N/A"
-      },
-      "apply": "https://candidateportal.ceipal.com/job-details/cr1ffnA_alROGFvHSBWeInXrn9pHk7R8nN45Qi1gNfY",
-      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c4F1ramvaq9wU9XvFGGugyQ="
+      "apply": "https://candidateportal.ceipal.com/job-details/5NVtayq5tUkQV-pl4uNqNSfN7EK4b5sLI6E3Wu1qZdo",
+      "url": "https://jobsapi.ceipal.com/APISource/v4/index.html?job_id=z5G7h3l6a1kMvyS65NP3c9SQxDZDkRB41-X7F8NbcGM="
     }
   ]
 }

@@ -1,14 +1,14 @@
 [
   {
-    "id": 32354266,
-    "title": "Data Scientist",
-    "location": "Karnataka, Bangalore",
+    "id": 32535368,
+    "title": "Senior .NET Full Stack Developer",
+    "location": "TX, Austin",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/25/2026",
-      "date_posted": 1779704564000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782929385000
     },
     "start": {
       "start_dateStr": null,
@@ -20,292 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<div><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  <span style=\"color:#222222;\">Data Scientist</span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 5 to 7 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.850/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<br />\r\n \r\n<ul>\r\n\t<li><span style=\"color:black;\">Data Scientist-Artificial Intelligence Develop tools, frameworks and custom components to address regulatory needs in machine learning platforms, such as model training, model deployments, model observability, versioning, explainability, security, infrastructure focusing on AI Governance perspective Design, Develop, and maintain large scale data and cloud infrastructure required for machine learning projects. </span></li>\r\n\t<li><span style=\"color:black;\">Working with CI/CD flow where we strive for total automation of bringing code from a developer to production. </span></li>\r\n\t<li><span style=\"color:black;\">Utilize software engineering to create efficient, scalable solutions for deployment in critical production environments hosted on GCP/Azure. Understanding of Large Language Models and Agentic AI (Highly desired). 7A Bangalore</span></li>\r\n</ul>\r\n<span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span></div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32354266",
-    "time_scraped": 1779754096819,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32353927,
-    "title": "Salesforce Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/25/2026",
-      "date_posted": 1779697783000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><strong><span style=\"font-size:10pt;\">Salesforce Developer</span></strong><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Bangalore and Gurgoan<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> Distribution</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 450/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong><br />\r\n </span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Customize and maintain Salesforce applications based on business requirements.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Create and manage objects, workflows, reports, and dashboards in Salesforce CRM.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Support users by resolving Salesforce-related issues and providing technical assistance.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Integrate Salesforce with other business systems and ensure data accuracy.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Collaborate with teams to improve sales, customer service, and business processes using Salesforce</span></h2>\r\n\t</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32353927",
-    "time_scraped": 1779754096415,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32353741,
-    "title": "Windows Administrator",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/25/2026",
-      "date_posted": 1779682795000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  <span style=\"color:#222222;\">Windows Administrator</span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Chennai &amp; Pune (onsite)<br />\r\n<strong>Total Experience</strong>: 3 to 5 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.350/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong>\r\n<ul>\r\n\t<li><span style=\"color:black;\">Perform system management and optimization tuning for operational systems implemented with high-availability configurations (Windows 11, macOS, Linux). </span></li>\r\n\t<li><span style=\"color:black;\">Develop scripts and automate system/OS tasks based on requirements across the different platforms mentioned. &middot; Act as Level 3 (L3) support for systems and applications. </span></li>\r\n\t<li><span style=\"color:black;\">Work with business units to gather and understand requirements and translate them into technical solutions for implementation. </span></li>\r\n\t<li><span style=\"color:black;\">Use a ticketing system to track and manage incidents, service requests, problems, and changes. &middot; Provide on-call support for various systems, including during emergency situations when systems are in emergency management mode.</span></li>\r\n\t<li><span style=\"color:black;\">Maintain a high level of expertise in Windows Server operating systems and associated hardware components. </span></li>\r\n\t<li><span style=\"color:black;\">Provide troubleshooting support and advanced analysis within the Windows Server environment (DNS, DHCP, Domain Controllers). </span></li>\r\n\t<li><span style=\"color:black;\">Own, track, and resolve issues related to Windows servers (both physical and virtual), including incidents and service requests. </span></li>\r\n\t<li><span style=\"color:black;\">Configure and support mobile devices and smartphones. &middot; Plan and implement network security and redundancy, including cryptography, host security, file permissions, backup and disaster recovery, file system integrity, and user account management. </span></li>\r\n\t<li><span style=\"color:black;\">Develop and deliver training sessions for users on operating systems and other applications. &middot; Anticipate communication and network issues and implement preventive measures. &middot; Manage file server permissions and create/delete shared folders.</span></li>\r\n\t<li><span style=\"color:black;\">Investigate user issues, identify root causes, determine solutions, and implement fixes. &middot; Install, configure, and maintain desktops, laptops (Windows and macOS), network cabling, and related equipment. </span></li>\r\n\t<li><span style=\"color:black;\">Perform and/or oversee software installation and upgrades, including Windows OS (7/10/11), macOS, Microsoft Office, Adobe products, Citrix clients, antivirus software, VPN, DLP, and other applications. </span></li>\r\n\t<li><span style=\"color:black;\">Resolve a wide range of technical issues related to computer hardware, software, and networks.</span></li>\r\n\t<li><span style=\"color:black;\">Support a mixed environment including VDI (VMware View), Windows 11, macOS, Windows Server 2022/2025, and Red Hat Linux. </span></li>\r\n\t<li><span style=\"color:black;\">Collaborate with Service Operations teams (Windows and Unix Administration) to design, implement, manage, maintain, deploy, troubleshoot, and support customer environments. </span></li>\r\n\t<li><span style=\"color:black;\">Implement new system hardware and software, and develop local operating procedures and policies as required. &middot; Monitor system performance and provide utilization reports to identify issues and recommend corrective actions. </span></li>\r\n\t<li><span style=\"color:black;\">Update firmware and maintain device profiles for VDI client systems. </span></li>\r\n\t<li><span style=\"color:black;\">Deliver efficient and accurate service while meeting strict deadlines. </span></li>\r\n\t<li><span style=\"color:black;\">Design solutions and collaborate with IT teams to manage Group Policies in Active Directory. </span></li>\r\n\t<li><span style=\"color:black;\">Maintain and optimize centralized imaging solutions.</span></li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32353741",
-    "time_scraped": 1779754096236,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32353738,
-    "title": "Software Developer",
-    "location": "Maharashtra, Pune",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/25/2026",
-      "date_posted": 1779682545000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<section data-scroll-anchor=\"false\" data-testid=\"conversation-turn-3\" data-turn=\"user\" data-turn-id=\"754d92d8-64dd-471b-9440-a0e33142a58c\" data-turn-id-container=\"754d92d8-64dd-471b-9440-a0e33142a58c\" dir=\"auto\">\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><span style=\"font-size:10pt;\"><strong>Software Developer</strong></span><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Bangalore, Pune and Chennai<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> FSS</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 450/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong></span></h2>\r\n</section>\r\n\r\n<section data-scroll-anchor=\"false\" data-testid=\"conversation-turn-4\" data-turn=\"assistant\" data-turn-id=\"request-WEB:e154a531-7b9c-4d82-96fd-f2bb12c5741e-1\" data-turn-id-container=\"request-WEB:e154a531-7b9c-4d82-96fd-f2bb12c5741e-1\" dir=\"auto\">\r\n<ul data-end=\"521\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"0\">\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Develop and maintain applications using <strong>C#</strong>, <strong>Python</strong>, and <strong>SQL</strong> based on business requirements.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Write and optimize <strong>SQL queries</strong>, stored procedures, and database operations for efficient data management.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Use <strong>PowerShell scripting</strong> to automate routine tasks, deployments, and system administration activities.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Troubleshoot application, database, and performance issues while providing technical support.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Collaborate with cross-functional teams to test, deploy, and enhance software solutions.</span></h2>\r\n\t</li>\r\n</ul>\r\n</section>\r\n</div>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32353738",
-    "time_scraped": 1779754105374,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32351528,
-    "title": "Senior UX Researcher and Designer",
-    "location": "NY, Brooklyn",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779478824000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>Job Title: Senior UX Researcher and Designer</strong><br />\r\n<strong>Location: Brooklyn, NY (Hybrid)</strong><br />\r\n<strong>Duration: 12&plus; Months </strong><br />\r\n <br />\r\n<strong>Job Description:</strong>\r\n<ul>\r\n\t<li>Execute end-to-end research for high-priority public services, defining challenges and identifying opportunities for evidence-based guided experience.</li>\r\n\t<li>Collaborate with product manager, digital strategist, analytics and other user researchers to create user research plan, hypotheses and shape user requirements for product development.</li>\r\n\t<li>Partner with analytics to synthesize qualitative data with behavioral data, providing a holistic view of user&#39;s experience.</li>\r\n\t<li>Compile finished, well-documented research findings to deliver meaningful and actionable insights for internal team and stakeholders.</li>\r\n\t<li>Audit and mature internal user research toolkit, introducing new methodologies that broadens team&#39;s ability to capture user insights and strengthen with our data-driven culture.</li>\r\n\t<li>Wireframe user journeys based on user research and requirements</li>\r\n</ul>\r\n <br />\r\n<strong>Required Skills:</strong>\r\n\r\n<ul>\r\n\t<li>8 years experience required in the following</li>\r\n\t<li>Proven expertise in leading generative (field studies, interviews) and evaluative (usability testing, A/B testing) research and ability to wireframe user journeys based on insights</li>\r\n\t<li>Ability to translate research hypotheses into actionable research plans using mixed- methods and statistically sound analysis.</li>\r\n\t<li>Experience recruiting users that align with required demographic and behavioural profiles.</li>\r\n\t<li>Expertise of methodologies that prevent over-generalization, sample under- representation, and correlation/causation fallacies.</li>\r\n\t<li>Nurture a culture of exploring creative solutions that prioritize the best digital experience for New Yorkers that is informed by strategy, user evidence, analytics and competitive research.</li>\r\n\t<li>Inspire cross-departmental partners and colleagues to anchor their work in user- centricity, user research methodologies and evidence-based solutioning.</li>\r\n\t<li>Certification in evaluation practice (e.g., The Evaluators&#39; Institute (TEI)) or equivalent education in qualitative evaluation and research methodology.</li>\r\n\t<li>10&plus; years of experience interpreting complex patterns across qualitative and quantitative data sets.</li>\r\n\t<li>Understanding of statistical principles to evaluate data.</li>\r\n\t<li>Experience working in cross-disciplinary teams of product, engineer and data experts to deliver products and services that improve user&#39;s experience and organizational goals, on time.</li>\r\n\t<li>Experience facilitating group synthesis sessions with cross-disciplinary teams (engineering, data, product).</li>\r\n\t<li>Exemplifies diverse representation and accessibility in research practice and past projects.</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Subash R",
-      "subash@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32351528",
-    "time_scraped": 1779754105402,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32351245,
-    "title": "Teaching Assistant",
-    "location": "IN, Logansport",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779476033000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>  <span style=\"font-family: verdana\">  <span style=\"font-size: 12px\">   </span>  </span>  <strong>  Role: Teaching Assistant<br />  \r\nLocation: Logansport, IN (Onsite)<br />  \r\nDuration: 6&plus; Month<br />  \r\nType: Contract</strong><br />  \r\n<br />  \r\nIn-person Interview<br />  \r\n<br />  \r\n<strong>  Job descriptions:</strong><br />  \r\nThe incumbent serves as a Teaching Assistant in the Education Department in a juvenile correctional facility. The incumbent supervises students in the classroom in the absence of the classroom teacher with the following responsibilities: Attendance Taking, Behavior Monitoring, Assignment Monitoring, and Daily Record Monitoring. Furthermore, the Teaching Assistant provides students with guidance in completing assignments left by the classroom teacher and to support classroom instruction as needed. The incumbent is responsible for effectively managing the classroom. Incumbent participates in faculty and professional meetings. The Teaching Assistant reports directly to the School Principal and performs duties with minimal supervision.<br />  \r\n<br />  \r\n<strong>  RESPONSIBILITIES/DUTIES TO BE PERFORMED WITH OR WITHOUT REASONABLE ACCOMMODATION:</strong><br />  \r\n<strong>  ESSENTIAL DUTIES MAY INCLUDE:</strong>\r\n<ul>  \r\n\t<li>  Following policy in critical incidents preventing injury, escape, or property damage.</li>  \r\n\t<li>  Maintains confidentiality.</li>  \r\n\t<li>  Incumbent supervises the daily work of students and evaluates the achievement of individual student knowledge.</li>  \r\n\t<li>  Operates all job-related equipment.</li>  \r\n\t<li>  Collaborates with other departments in order to enhance the learning environment of students.</li>  \r\n\t<li>  Providing written reports to/participates in multidisciplinary treatment team.</li>  \r\n\t<li>  Attending and successfully completing all required training and certifications.</li>  \r\n\t<li>  Developing and reviewing clear, accurate, and concise reports that are in compliance with departmental policies and procedures.</li>  \r\n\t<li>  Promoting good working relationship with students, staff, contractual personnel, interns and volunteers, and applicable community public or private agencies.</li>  \r\n\t<li>  Maintaining a positive image to the public in all related responsibilities.</li>  \r\n\t<li>  Performs related duties as assigned.</li>  \r\n</ul>  \r\n<strong>  JOB REQUIREMENTS AND DIFFICULTY OF WORK WITH OR WITHOUT REASONABLE ACCOMMODATION MAY INCLUDE:</strong>\r\n\r\n<ul>  \r\n\t<li>  Ability to implement daily and weekly teacher lesson plans designed to enforce full course objectives in the absence of an educator.</li>  \r\n\t<li>  Ability to create and provide a positive learning environment conducive to and supportive of individual growth and development of students.</li>  \r\n\t<li>  Ability to maintain and control educational department supplies, equipment, and tools.</li>  \r\n\t<li>  Ability to effectively communicate both orally and written.</li>  \r\n\t<li>  Ability to work effectively in a teamwork environment.</li>  \r\n\t<li>  Ability to accept supervision and constructive feedback.</li>  \r\n\t<li>  Ability to test negative on all drug tests.</li>  \r\n\t<li>  Ability to successfully complete all required training and certifications.</li>  \r\n</ul>  \r\n<strong>  Required Skills:</strong>\r\n\r\n<ul>  \r\n\t<li>  HS diploma required</li>  \r\n\t<li>  Ability to effectively communicate both orally and written</li>  \r\n\t<li>  Ability to implement daily and weekly teacher lesson plans designed to enforce full course objectives in the absence of an educator.</li>  \r\n\t<li>  Ability to create and provide a positive learning environment conducive to and supportive of individual growth and development of students</li>  \r\n\t<li>  Substitute teaching permit</li>  \r\n\t<li>  Experience working with students in an educational setting.</li>  \r\n</ul>  \r\n</div>  \r\n",
-    "recruiter": [
-      "Prakash SP",
-      "Prakash@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32351245",
-    "time_scraped": 1779754105390,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32348440,
-    "title": "Transition Specialist",
-    "location": "IN, Indianapolis",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779455678000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong>Title: </strong><strong> Transition Specialist<br />\r\nLocation:</strong> <strong> Indianapolis, IN (Hybrid)<br />\r\nDuration: 8&plus; months</strong><br />\r\n<br />\r\n<strong>Role Overview</strong><br />\r\n<br />\r\nThe <strong> Transition Specialist</strong> provides oversight and coordination of transition and reentry practices across Indiana&#39;s juvenile correctional facilities. This role focuses on preparing youth for successful reintegration into the community through structured programs, partnerships, and individualized support.<br />\r\n<strong>Key Responsibilities</strong><br />\r\n<strong>1. Transition Program Implementation</strong>\r\n<ul>\r\n\t<li>Facilitate the delivery of the <strong> Next Steps</strong> life skills curriculum.</li>\r\n\t<li>Utilize the Transition Coordinator Handbook to standardize transition practices across facilities.</li>\r\n\t<li>Evaluate and monitor the completion of five required <strong> Transition Consultations</strong> for each student.</li>\r\n</ul>\r\n<strong> 2. Reentry Planning &amp; Case Coordination</strong>\r\n\r\n<ul>\r\n\t<li>Participate weekly in <strong> Administrative Release Committees (ARC)</strong> to review and reinforce student reentry plans.</li>\r\n\t<li>Assist in developing individualized <strong> Education Learning Plans (ELPs)</strong> upon student intake.</li>\r\n\t<li>Ensure each youth has a structured and actionable transition plan.</li>\r\n</ul>\r\n<strong> 3. Post-Release Support</strong>\r\n\r\n<ul>\r\n\t<li>Conduct follow-up calls with released youth at:\r\n\t<ul>\r\n\t\t<li>1 month</li>\r\n\t\t<li>3 months</li>\r\n\t\t<li>6 months</li>\r\n\t\t<li>9 months</li>\r\n\t\t<li>12 months</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Monitor progress and provide guidance to support successful reintegration.</li>\r\n</ul>\r\n<strong> 4. Interagency Collaboration &amp; Partnerships</strong>\r\n\r\n<ul>\r\n\t<li>Collaborate with state, county, and private agencies to provide comprehensive reentry services.</li>\r\n\t<li>Support partnerships with:\r\n\t<ul>\r\n\t\t<li>Indiana Department of Workforce Development</li>\r\n\t\t<li>HIRE Program</li>\r\n\t\t<li>Indiana University HOPE Mentoring Program</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Represent the Division of Youth Services at conferences, meetings, and community events.</li>\r\n</ul>\r\n<strong> 5. Education &amp; Career Reintegration</strong>\r\n\r\n<ul>\r\n\t<li>Assist youth in transitioning back to public schools or alternative education programs.</li>\r\n\t<li>Provide guidance on:\r\n\t<ul>\r\n\t\t<li>Employment opportunities</li>\r\n\t\t<li>Apprenticeship programs</li>\r\n\t\t<li>Military service pathways</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong> 6. Documentation &amp; Life Readiness Support</strong>\r\n\r\n<ul>\r\n\t<li>Help youth obtain essential documents, including:\r\n\t<ul>\r\n\t\t<li>Social Security cards</li>\r\n\t\t<li>State ID</li>\r\n\t\t<li>Driver&#39;s license</li>\r\n\t\t<li>Birth certificates</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Support overall life readiness and independence skills.</li>\r\n</ul>\r\n<strong> Required Skills &amp; Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>Experience working with youth, preferably in juvenile justice, education, or social services.</li>\r\n\t<li>Knowledge of reentry and transition planning practices.</li>\r\n\t<li>Strong communication and interpersonal skills.</li>\r\n\t<li>Ability to collaborate with multiple stakeholders and agencies.</li>\r\n\t<li>Organizational and case management skills.</li>\r\n</ul>\r\n<strong> Preferred Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>Experience in correctional or rehabilitation environments.</li>\r\n\t<li>Familiarity with workforce development programs.</li>\r\n\t<li>Background in counseling, social work, or education.</li>\r\n</ul>\r\n<strong> Sot Skills</strong>\r\n\r\n<ul>\r\n\t<li>Empathy and ability to work with at-risk youth.</li>\r\n\t<li>Strong problem-solving and decision-making skills.</li>\r\n\t<li>Ability to manage sensitive situations with professionalism.</li>\r\n\t<li>Effective communication across diverse groups.</li>\r\n</ul>\r\n<strong> Required skills:</strong>\r\n\r\n<ul>\r\n\t<li>Experience utilizing strong communication skills (written and verbal).</li>\r\n\t<li>Proficiency in Microsoft Word, Outlook, Excel, and PowerPoint.</li>\r\n\t<li>Experience working in a customer service role.</li>\r\n\t<li>Experience in data entry.</li>\r\n\t<li>Experience working in a team environment.</li>\r\n\t<li>Experience working with at-risk youth.</li>\r\n\t<li>Experience in community or state programs.</li>\r\n\t<li>Experience working in youth educational programs</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Bijun C",
-      "Bijun@cresconsultancy.com",
-      "8623259006"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32348440",
-    "time_scraped": 1779754115095,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32348394,
-    "title": "System Administrator",
-    "location": "VA, Richmond",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779454634000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <strong> Role: System Administrator<br /> \r\nLocation: Richmond, VA (Onsite)<br /> \r\nDuration: 6&plus; Month<br /> \r\nType: Contract</strong><br /> \r\n <br /> \r\n<strong> In-Person Interview.</strong><br /> \r\n<br /> \r\n<strong> Job descriptions:</strong><br /> \r\n<br /> \r\nThe Virginia Office of the Attorney General (OAG) seeks 2 Systems Administrators to support a secure, stable, and high-performing hybrid IT environment. This role administers servers, identity systems, and enterprise services across on-premises and cloud platforms. The Systems Administrator is a hands-on technical role focused on disciplined execution of operational processes, including patching, monitoring, backup, and system maintenance. The position works under the direction of the Director of Infrastructure & Operations and collaborates with Network Engineering, Information Security, End User Services, and Application/Data teams.<br /> \r\n <br /> \r\n<strong> Key Responsibilities:</strong><br /> \r\n <br /> \r\n<strong> Infrastructure Administration:</strong><br /> \r\nAdminister Windows Server environments (on-premises and cloud) Manage Active Directory, Group Policy, DNS, and DHCP Support Microsoft 365 services (Exchange Online, Entra ID/Azure AD) Maintain system performance, availability, and configuration<br /> \r\n <br /> \r\n<strong> Patch Management & Vulnerability Remediation</strong><br /> \r\nExecute structured patching for servers and core systems Coordinate with leadership on scheduling and system impact Support vulnerability remediation aligned to security priorities Validate patches prior to deployment Track patch compliance and status<br /> \r\n <br /> \r\n<strong> Security & Compliance Support</strong><br /> \r\nImplement security controls defined by the Information Security Office Support identity and access management practices, including MFA Assist with system hardening, logging, and monitoring integrations Provide support for audits and compliance activities<br /> \r\n <br /> \r\n<strong> Monitoring & Incident Response</strong><br /> \r\nMonitor systems and respond to alerts and operational issues Provide Tier 2/3 support for infrastructure incidents Participate in incident response and escalation processes Contribute to root cause analysis and service improvements<br /> \r\n <br /> \r\n<strong> Backup & Disaster Recovery</strong><br /> \r\nAdminister backup and recovery solutions Perform and validate backup and restore testing Support recovery objectives (RTO/RPO)<br /> \r\n <br /> \r\n<strong> Change Management & Operations</strong><br /> \r\nFollow defined change management processes Execute infrastructure changes in a controlled manner Participate in CAB or similar governance processes<br /> \r\n <br /> \r\n<strong> Cross-Team Collaboration</strong><br /> \r\nPartner with Network Engineering on infrastructure dependencies Coordinate with End User Services on user-impacting changes Support Application/Data teams on system integrations Communicate system status, risks, and issues to leadership<br /> \r\n <br /> \r\n<strong> Required Qualifications</strong><br /> \r\nExperience administering Windows Server environments Strong knowledge of Active Directory and Group Policy Experience supporting Microsoft 365 (Exchange Online, Entra ID/Azure AD) Experience with patch management and system maintenance Familiarity with backup and recovery solutions Basic understanding of networking concepts<br /> \r\n <br /> \r\n<strong> Preferred Qualifications</strong><br /> \r\nExperience in government or regulated environments Experience with hybrid infrastructure (on-premises and Azure) Familiarity with NIST or similar frameworks Experience with virtualization (VMware or Hyper-V) Exposure to monitoring, SIEM, or endpoint management tools<br /> \r\n <br /> \r\n<strong> Knowledge, Skills, and Abilities</strong><br /> \r\nStrong troubleshooting and problem-solving skills Ability to manage multiple operational tasks and priorities Effective communication and teamwork across technical groups Ability to follow structured processes and governance standards Focus on system reliability, security, and continuous improvement<br /> \r\n <br /> \r\n<strong> Working Conditions</strong><br /> \r\nOffice-based environment Occasional after-hours support for maintenance or incidents Limited travel between office locations may be required<br /> \r\n <br /> \r\n<strong> Additional Information</strong><br /> \r\nThis role supports core Infrastructure & Operations functions and contributes to the agency's ability to deliver secure and reliable IT services. The Systems Administrator operates within defined governance processes to ensure consistency, stability, and risk reduction across the environment.<br /> \r\n <br /> \r\n<strong> Required Skills:</strong>\r\n<ul> \r\n\t<li> Windows Server administration</li> \r\n\t<li> Active Directory administration</li> \r\n\t<li> Group Policy management</li> \r\n\t<li> DNS and DHCP administration</li> \r\n\t<li> Microsoft 365 administration</li> \r\n\t<li> Entra ID (Azure AD) administration</li> \r\n\t<li> Server patch management</li> \r\n\t<li> System monitoring and alert response</li> \r\n\t<li> Backup and recovery administration</li> \r\n\t<li> Virtualization (VMware and/or Hyper-V)</li> \r\n\t<li> File and print services</li> \r\n\t<li> PowerShell scripting</li> \r\n\t<li> Operating system troubleshooting</li> \r\n\t<li> Change management participation</li> \r\n\t<li> Incident response support</li> \r\n\t<li> Root cause analysis participation</li> \r\n\t<li> Documentation maintenance</li> \r\n\t<li> Maintenance window execution</li> \r\n\t<li> Ticket/work management systems</li> \r\n\t<li> MFA administration/support</li> \r\n\t<li> System hardening practices</li> \r\n\t<li> Vulnerability remediation execution</li> \r\n\t<li> Access control management</li> \r\n\t<li> Security policy adherence</li> \r\n\t<li> NIST/security framework exposure</li> \r\n\t<li> Communication and collaboration</li> \r\n\t<li> Operational prioritization</li> \r\n\t<li> Structured/process-oriented work</li> \r\n\t<li> Working in team-based IT operations</li> \r\n\t<li> Azure infrastructure administration</li> \r\n\t<li> Hybrid cloud environments</li> \r\n\t<li> Intune/endpoint management</li> \r\n\t<li> Identity federation/SSO</li> \r\n\t<li> Conditional Access policies</li> \r\n\t<li> SIEM/EDR exposure</li> \r\n\t<li> Advanced PowerShell scripting</li> \r\n\t<li> Infrastructure automation</li> \r\n\t<li> Government IT experience</li> \r\n\t<li> Regulated environment experience</li> \r\n</ul> \r\n</div> \r\n",
-    "recruiter": [
-      "Prakash SP",
-      "Prakash@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32348394",
-    "time_scraped": 1779754114748,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32348329,
-    "title": "Azure DevOps Engineer & Administrator",
-    "location": "PA, Harrisburg",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779453445000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> \r\n<p data-end=\"54\" data-start=\"0\"> <span style=\"font-size:11pt;\"> <span style=\"font-family:Calibri,Helvetica,sans-serif;\"> <strong data-end=\"14\" data-start=\"0\"> Job Title:</strong> <strong> Azure DevOps Engineer & Administrator</strong><br /> \r\n<strong data-end=\"69\" data-start=\"56\"> Location:</strong> <strong> Harrisburg, PA (Hybrid)</strong><br data-end=\"96\" data-start=\"93\" /> \r\n<strong data-end=\"109\" data-start=\"96\"> Duration:</strong> <strong> 12&plus; Months</strong><br /> \r\n<strong> Type: Contract</strong></span> </span> <br /> \r\n<br /> \r\n<strong> Notes:</strong><br /> \r\n<br /> \r\n<strong> Work Schedule:</strong></p> \r\n\r\n<ul data-end=\"3320\" data-start=\"3138\"> \r\n\t<li data-end=\"3180\" data-section-id=\"1587etq\" data-start=\"3138\"> Monday to Friday, 8:30 AM – 5:00 PM EST.</li> \r\n\t<li data-end=\"3320\" data-section-id=\"t7d2oe\" data-start=\"3181\"> Hybrid role:\r\n\t<ul data-end=\"3320\" data-start=\"3198\"> \r\n\t\t<li data-end=\"3268\" data-section-id=\"vzsx6y\" data-start=\"3198\"> First 3 months: Onsite every Wednesday & Thursday in Harrisburg, PA.</li> \r\n\t\t<li data-end=\"3320\" data-section-id=\"15q0pfy\" data-start=\"3271\"> After 3 months: Minimum 1 onsite day per month</li> \r\n\t</ul> \r\n\t</li> \r\n</ul> \r\n\r\n<p data-end=\"54\" data-start=\"0\">  </p> \r\n\r\n<h3 data-end=\"220\" data-section-id=\"1mg5ql9\" data-start=\"200\"> <strong> Job Description:</strong></h3> \r\n\r\n<p data-end=\"647\" data-start=\"221\"> We are seeking an experienced <strong data-end=\"292\" data-start=\"251\"> Azure DevOps Engineer & Administrator</strong> to support mission-critical government systems and cloud modernization initiatives for the Commonwealth of Pennsylvania. The ideal candidate will be responsible for administering and optimizing Azure DevOps and GitHub Enterprise environments, implementing secure CI/CD pipelines, and ensuring compliance with enterprise security and governance standards.</p> \r\n\r\n<p data-end=\"856\" data-start=\"649\"> The candidate should possess strong expertise in Azure DevOps administration, GitHub Enterprise management, CI/CD automation, Infrastructure as Code (IaC), and cloud operations within regulated environments.</p> \r\n\r\n<h3 data-end=\"883\" data-section-id=\"14uqk01\" data-start=\"858\"> <strong> Key Responsibilities:</strong></h3> \r\n\r\n<ul data-end=\"1960\" data-start=\"884\"> \r\n\t<li data-end=\"994\" data-section-id=\"11e7wpw\" data-start=\"884\"> Administer and maintain Azure DevOps Services including Boards, Repos, Pipelines, Artifacts, and Test Plans.</li> \r\n\t<li data-end=\"1078\" data-section-id=\"gn684v\" data-start=\"995\"> Configure branch policies, security groups, service connections, and agent pools.</li> \r\n\t<li data-end=\"1181\" data-section-id=\"1pvu4zl\" data-start=\"1079\"> Administer GitHub Enterprise (Cloud/Server), repositories, teams, permissions, and SSO integrations.</li> \r\n\t<li data-end=\"1278\" data-section-id=\"4v2q6m\" data-start=\"1182\"> Design, develop, and maintain secure CI/CD pipelines using Azure Pipelines and GitHub Actions.</li> \r\n\t<li data-end=\"1372\" data-section-id=\"bp2o2x\" data-start=\"1279\"> Implement reusable YAML pipeline templates, workflow automation, and deployment strategies.</li> \r\n\t<li data-end=\"1481\" data-section-id=\"1x6d8r8\" data-start=\"1373\"> Integrate pipelines with Azure services such as App Services, AKS, Functions, SQL, Key Vault, and Storage.</li> \r\n\t<li data-end=\"1553\" data-section-id=\"cpvuwh\" data-start=\"1482\"> Implement and support Infrastructure as Code (Terraform, Bicep, ARM).</li> \r\n\t<li data-end=\"1626\" data-section-id=\"1c0aft5\" data-start=\"1554\"> Manage RBAC, audit logs, governance policies, and compliance controls.</li> \r\n\t<li data-end=\"1735\" data-section-id=\"1o30a5o\" data-start=\"1627\"> Collaborate with development, infrastructure, cloud, and cybersecurity teams on modernization initiatives.</li> \r\n\t<li data-end=\"1806\" data-section-id=\"1y56xhs\" data-start=\"1736\"> Support migration efforts between Azure DevOps and GitHub platforms.</li> \r\n\t<li data-end=\"1878\" data-section-id=\"ddtecj\" data-start=\"1807\"> Troubleshoot complex deployment, infrastructure, and pipeline issues.</li> \r\n\t<li data-end=\"1960\" data-section-id=\"14y2fp\" data-start=\"1879\"> Provide DevOps best practices guidance, mentoring, and technical documentation.</li> \r\n</ul> \r\n\r\n<h3 data-end=\"1982\" data-section-id=\"6jbfav\" data-start=\"1962\"> <strong> Required Skills:</strong></h3> \r\n\r\n<ul data-end=\"2627\" data-start=\"1983\"> \r\n\t<li data-end=\"2062\" data-section-id=\"1qkrmie\" data-start=\"1983\"> 5&plus; years of experience with Azure DevOps as both Administrator and Developer.</li> \r\n\t<li data-end=\"2141\" data-section-id=\"1b4b1d4\" data-start=\"2063\"> Strong experience with Azure DevOps Services and Azure Cloud Administration.</li> \r\n\t<li data-end=\"2214\" data-section-id=\"d8bkx6\" data-start=\"2142\"> Hands-on experience administering GitHub Enterprise (Cloud or Server).</li> \r\n\t<li data-end=\"2299\" data-section-id=\"c74q94\" data-start=\"2215\"> Expertise in CI/CD methodologies, branching strategies, and DevOps best practices.</li> \r\n\t<li data-end=\"2360\" data-section-id=\"1xsa7cm\" data-start=\"2300\"> Strong proficiency with Git and source control management.</li> \r\n\t<li data-end=\"2451\" data-section-id=\"6iow6l\" data-start=\"2361\"> Experience with Infrastructure as Code tools such as Terraform, Bicep, or ARM templates.</li> \r\n\t<li data-end=\"2491\" data-section-id=\"i4rano\" data-start=\"2452\"> Scripting experience with PowerShell.</li> \r\n\t<li data-end=\"2560\" data-section-id=\"ideqiy\" data-start=\"2492\"> Experience working in regulated or compliance-driven environments.</li> \r\n\t<li data-end=\"2627\" data-section-id=\"1dfjsd2\" data-start=\"2561\"> Strong communication, troubleshooting, and documentation skills.</li> \r\n</ul> \r\n\r\n<h3 data-end=\"2655\" data-section-id=\"1xkdctp\" data-start=\"2629\"> <strong> Highly Desired Skills:</strong></h3> \r\n\r\n<ul data-end=\"3117\" data-start=\"2656\"> \r\n\t<li data-end=\"2707\" data-section-id=\"d1w8gy\" data-start=\"2656\"> Microsoft Certifications: AZ-400, AZ-104, AZ-305.</li> \r\n\t<li data-end=\"2791\" data-section-id=\"oowfqk\" data-start=\"2708\"> GitHub Certifications: GitHub Foundations, GitHub Actions, GitHub Administration.</li> \r\n\t<li data-end=\"2865\" data-section-id=\"6ht5eh\" data-start=\"2792\"> Experience with Azure Monitor, Application Insights, and Log Analytics.</li> \r\n\t<li data-end=\"2921\" data-section-id=\"1f730as\" data-start=\"2866\"> Knowledge of cloud security and compliance practices.</li> \r\n\t<li data-end=\"2995\" data-section-id=\"1qmeie\" data-start=\"2922\"> Development background in .NET, Java, Node.js, or similar technologies.</li> \r\n\t<li data-end=\"3067\" data-section-id=\"1qpwpq6\" data-start=\"2996\"> Experience with YAML pipelines in Azure Pipelines and GitHub Actions.</li> \r\n\t<li data-end=\"3117\" data-section-id=\"5as4di\" data-start=\"3068\"> Knowledge of AI platforms and automation tools.</li> \r\n</ul> \r\n\r\n<h3 data-end=\"3137\" data-section-id=\"zyia0o\" data-start=\"3119\">  </h3> \r\n",
+    "description": "<strong>Job Title:</strong> <strong> Senior .NET Full Stack Developer<br />\r\nLocation:</strong> <strong> Austin, TX (Onsite)<br />\r\nDuration:</strong> <strong> 6&plus; months</strong><br />\r\n<strong>Type: Contract</strong>\r\n\r\n<h3><strong>Job Description</strong></h3>\r\n\r\n<p>We are seeking an experienced <strong> Software Developer 3</strong> to design, develop, and support enterprise applications for the Client&nbsp;The ideal candidate will have extensive experience in <strong> full-stack development using .NET Core, C#, React JS, SQL Server, Oracle, Power BI, and Microsoft Azure</strong>, with a strong background in modern web application development, cloud technologies, and Agile methodologies.</p>\r\n\r\n<h3><strong>Key Responsibilities</strong></h3>\r\n\r\n<ul>\r\n\t<li>Design, develop, enhance, and maintain enterprise web applications using <strong> .NET Core, C#, React JS, JavaScript, HTML, and CSS</strong>.</li>\r\n\t<li>Develop and maintain <strong> RESTful APIs</strong>, backend services, and responsive front-end applications.</li>\r\n\t<li>Design, optimize, and maintain <strong> SQL Server</strong> databases, stored procedures, views, and performance tuning.</li>\r\n\t<li>Perform <strong> Oracle database development and legacy data migration</strong> to SQL Server.</li>\r\n\t<li>Build and maintain <strong> Power BI dashboards, reports, and paginated reports</strong> for business intelligence and operational reporting.</li>\r\n\t<li>Develop, deploy, and support cloud-based applications using <strong> Microsoft Azure</strong>, including App Services, Storage, and security services.</li>\r\n\t<li>Implement and maintain <strong> CI/CD pipelines</strong>, Git repositories, and DevOps practices for automated deployments.</li>\r\n\t<li>Troubleshoot production issues and perform application maintenance, testing, debugging, and performance optimization.</li>\r\n\t<li>Collaborate with business analysts, architects, UX designers, and stakeholders to translate business requirements into scalable technical solutions.</li>\r\n\t<li>Prepare technical documentation, solution designs, and system architecture diagrams.</li>\r\n\t<li>Mentor junior developers and contribute to coding standards and best practices.</li>\r\n\t<li>Participate in <strong> Agile/Scrum ceremonies</strong>, sprint planning, backlog refinement, and release management.</li>\r\n</ul>\r\n\r\n<h3><strong>Required Qualifications:</strong></h3>\r\n\r\n<ul>\r\n\t<li>11&plus; years of experience in full-stack application development using <strong>.NET Core, C#, React JS, JavaScript, HTML, and CSS</strong>.</li>\r\n\t<li>11&plus; years of experience with <strong>SQL Server</strong>, including data modeling, query optimization, performance tuning, stored procedures, views, and functions.</li>\r\n\t<li>11&plus; years of experience with <strong>Oracle</strong>, including legacy data migration to SQL Server and Oracle database development.</li>\r\n\t<li>11&plus; years of experience developing <strong>Power BI dashboards, paginated reports, and data transformation solutions</strong>.</li>\r\n\t<li>11&plus; years of hands-on experience with <strong>cloud platforms</strong>, preferably <strong>Microsoft Azure</strong>, including application deployment, App Services, Storage, and security.</li>\r\n\t<li>11&plus; years of experience transforming and migrating <strong>legacy applications and data</strong> to modern web-based solutions.</li>\r\n\t<li>11&plus; years of experience converting <strong>legacy applications into web-based applications</strong>.</li>\r\n\t<li>11&plus; years of proficiency with <strong>CI/CD pipelines, Git, and DevOps tools</strong>.</li>\r\n\t<li>11&plus; years of experience performing <strong>Oracle data migration</strong>.</li>\r\n\t<li>Knowledge of <strong>Section 508 accessibility standards</strong>.</li>\r\n\t<li>Strong analytical, problem-solving, communication, and collaboration skills.</li>\r\n</ul>\r\n\r\n<h3><strong>Preferred Qualifications:</strong></h3>\r\n\r\n<ul>\r\n\t<li>8&plus; years of experience supporting large-scale IT systems in <strong>government or other regulated environments</strong>.</li>\r\n\t<li>8&plus; years of experience working in <strong>Agile/Scrum</strong> environments, including sprint planning, backlog refinement, and release activities.</li>\r\n\t<li>6&plus; years of experience working with <strong>Texas State agencies, healthcare, or public sector organizations</strong>.</li>\r\n\t<li>Bachelor&#39;s degree in <strong>Computer Science, Information Systems, Business, or a related field</strong>.</li>\r\n</ul>\r\n",
     "recruiter": [
       "Ashok kumar",
       "ashok@cresconsultancy.com",
       "7323052858"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32348329",
-    "time_scraped": 1779754114624,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32535368",
+    "time_scraped": 1782977151911,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32347681,
-    "title": "Front End Developer(React.Js)",
+    "id": 32532214,
+    "title": "Senior AI/GenAI Engineer",
     "location": "Karnataka, Bangalore",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779441097000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782902020000
     },
     "start": {
       "start_dateStr": null,
@@ -316,62 +52,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><strong><span style=\"font-size:10pt;\">Front End Developer(React.Js)</span></strong><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Bangalore, KA<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> FSS</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 580/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">React, Redux and Next.js, JavaScript, HTML, CSS, Bootstrap</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"> </span></h2>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32347681",
-    "time_scraped": 1779754124973,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32347615,
-    "title": "Informatica IICS (Cloud ETL) Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779434935000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  Informatica IICS (Cloud ETL) Developer<br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 5 to 7 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.800/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong>\r\n<ul>\r\n\t<li><span style=\"color:black;\">We are looking for a highly skilled Senior Informatica IICS (Cloud Data Integration - CDI) Developer with strong experience in data integration, ETL development, and cloud-based data platforms. </span></li>\r\n\t<li><span style=\"color:black;\">The ideal candidate should also have basic to intermediate Java knowledge to support custom transformations, extensions, and API integrations. </span></li>\r\n\t<li><span style=\"color:black;\">Key Responsibilities:Design, develop, and implement ETL pipelines using Informatica IICS (CDI) Build and optimize data integration workflows, mappings, and task flows Work with various data sources including databases, flat files, APIs, and cloud platforms Develop reusable components and frameworks for scalable data processing Perform data validation, error handling, and performance tuning</span></li>\r\n</ul>\r\n</div>\r\n",
+    "remote": 50,
+    "description": "<div><strong><span style=\"font-family:arial,sans-serif\"><span style=\"font-size:10pt\">Job Title:</span> </span> </strong> Senior AI/GenAI Engineer<br />\r\n<span style=\"font-family:arial,sans-serif\"><span style=\"font-size:10pt\"><strong>Location:</strong> </span> </span> Bangalore<span style=\"font-family:arial,sans-serif\"> <span style=\"font-size:10pt\"> (onsite)<br />\r\n<strong>Total Experience</strong>: 7 to 9 years</span> </span><br />\r\n<strong><span style=\"color:black\"><span style=\"font-family:arial,sans-serif\"><span style=\"font-size:10pt\">Mode of Interview</span> </span> </span> </strong><span style=\"color:black\"> <span style=\"font-family:arial,sans-serif\"> <span style=\"font-size:10pt\"> : Face to Face (Mandatory)</span> </span> </span><br />\r\n<span style=\"font-family:arial,sans-serif\"><span style=\"font-size:10pt\">Pay Rate-Rs.750/hr</span> </span><br />\r\n<strong><span style=\"color:black\">Mandatory Skill</span> </strong>\r\n<ul>\r\n\t<li><strong><span style=\"font-size:12pt\">AI/ML &amp; GenAI:</span> </strong><span style=\"font-size:12pt\"> ML, AI, Python, RAG, LLM, Agent Creation, Agentic Orchestration, Multi-Agent Systems, NLP, Responsible AI, RAG Pipelines.</span></li>\r\n\t<li><strong><span style=\"font-size:12pt\">Azure AI Stack:</span> </strong><span style=\"font-size:12pt\"> Azure OpenAI, Azure AI Foundry, Azure Cognitive Services, Azure AI Search, Azure ML, Agentic Development using Azure AI Stack.</span></li>\r\n\t<li><strong><span style=\"font-size:12pt\">Databases &amp; Search:</span> </strong><span style=\"font-size:12pt\"> Vector DBs, Vector Index, AI Search, Cosmos DB, PostgreSQL, Databricks.</span></li>\r\n\t<li><strong><span style=\"font-size:12pt\">Development &amp; APIs:</span> </strong><span style=\"font-size:12pt\"> Strong Python Coding, C#, REST APIs, GraphQL APIs, Testing, Code Reviews, Common Coding Standards, Linters, Formatters, PEP 8.</span></li>\r\n\t<li><strong><span style=\"font-size:12pt\">DevOps &amp; Deployment:</span> </strong><span style=\"font-size:12pt\"> CI/CD, GitHub Branching Strategies, GitHub Actions Pipeline, Docker, AKS, Azure App Service, Azure Functions, Azure Key Vault, Managed Identity, RBAC, Network Security.</span></li>\r\n</ul>\r\n</div>\r\n",
     "recruiter": [
       "Ashok Kumar NGL",
       "ashoks@cresconsultancy.com",
       "7323052858"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32347615",
-    "time_scraped": 1779754125045,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32532214",
+    "time_scraped": 1782977152468,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32347589,
-    "title": "SAP SAC Consultant,",
+    "id": 32532205,
+    "title": " Business Analyst",
     "location": "Karnataka, Bangalore",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779431729000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782901920000
     },
     "start": {
       "start_dateStr": null,
@@ -382,95 +85,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><strong><span style=\"font-size:10pt;\">SAP SAC Consultant,</span></strong><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Bangalore, KA<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> Distribution.</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 300/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong><br />\r\n <br />\r\nThe Technical Consultant &ndash; SAC will be responsible for designing, developing, and deploying advanced analytics, dashboards, and planning solutions using SAP Analytics Cloud for retail business functions. This role requires strong technical expertise in SAC along with a solid understanding of retail operations such as merchandising, supply chain, store operations, sales, and inventory management. The consultant will work closely with business users, data teams, and SAP functional teams to deliver high<span style=\"font-family:Cambria Math,serif;\">‐</span>quality analytics and planning capabilities.<br />\r\nKey Responsibilities:</span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Design and develop SAC dashboards, stories, analytic applications, and planning models to support retail business processes including sales performance, inventory insights, category management, and supply chain analytics.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Build and maintain SAC data models integrating data from SAP S/4HANA, SAP BW/4HANA, and other retail data sources.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Develop SAC planning templates, allocation logic, forecast models, and predictive scenarios tailored to retail planning cycles.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Configure data connections, import jobs, and live data integrations ensuring accuracy, performance, and security.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Analyze requirements from retail stakeholders and translate them into SAC technical solutions aligned with best practices.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Work with functional teams (SD, MM, FI, Retail, and Supply Chain) to ensure consistent and accurate data across reporting layers.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Optimize SAC applications for performance, usability, and scalability in high<span style=\"font-family:Cambria Math,serif;\">‐</span>volume retail environments.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Troubleshoot issues related to data loads, model calculations, permission models, and front-end visualizations.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Support UAT, prepare technical documentation, and deliver training to users on SAC functionality.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Participate in solution design workshops, sprint reviews, and continuous improvement activities.</span></h2>\r\n\t</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32347589",
-    "time_scraped": 1779754125193,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32347543,
-    "title": "Talend ETL Developer,",
-    "location": "Kerala, Kochi",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779426321000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><strong><span style=\"font-size:10pt;\">Talend ETL Developer,</span></strong><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Kerala, Chennai<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> Distribution.</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 300(1-3 yrs) Rs. 500/hr(3-5yrs)</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Design, develop, maintain, and optimize ETL jobs using Talend Open Studio and Talend Server</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Translate business and technical requirements into data interfaces, transformation workflows, and dimensional models</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Contribute to data architecture decisions and ensure scalability, maintainability, and performance of ETL solutions</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Develop and optimize SQL queries, stored procedures, and database transformations</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Manage data integration across multiple source systems, applications, and environments</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Monitor and troubleshoot ETL executions, data quality issues, and production incidents</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Participate in deployments, CI/CD pipelines, and release activities</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Ensure compliance with data governance, security, and development standards</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Document data flows, mappings, technical specifications, and architecture decisions</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Collaborate with distributed teams including data architects, DBAs, business analysts, QA, and project managers</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Mentor other developers and promote best practices in Talend development</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong>Technologies and Tools:</strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Talend ETL - Proficiency in Talend Open Studio and Talend Server</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strong knowledge in Talend Administration Consol ( TAC)</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strong SQL knowledge</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Java/J2EE</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Dimensional Data Modeling</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Data Warehousing Concepts and Reporting Concepts</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Cloud Platforms (Docker, Kubernetes)</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Version Control Systems (Git)</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">CI/CD Pipelines</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"> <br />\r\n<strong>Required skills:</strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Talend ETL - fully proficient with development and administration of Talend Open Studio and Talend Server - Experience developing with the Talend product suite</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strong SQL knowledge</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Java/J2EE</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Deep knowledge and hands on experience with dimensional Data modeling</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Data warehousing concepts, reporting concepts</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Working with cloud platforms (docker, Kubernetes)</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Quick learner, ability to collaborate with different stakeholders</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Communication skills: English, French</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong>Required Soft Skills:</strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strong ownership and autonomy</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Analytical mindset and structured problem-solving</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Ability to clearly explain technical concepts and design decisions</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Proactivity and attention to detail</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Quick learner with adaptability to complex environments</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strong collaboration skills in distributed teams</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Leadership and mentoring abilities</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Professional working proficiency in English</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">French is an advantage</span></h2>\r\n\t</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32347543",
-    "time_scraped": 1779754135279,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32347538,
-    "title": "Frontend Angular Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779424993000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  Frontend Angular Developer<br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 5 to 7 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.580/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong>\r\n<ul>\r\n\t<li>Angular (3&plus;) expertise | Strong understanding of Angular framework | Experience with Angular CLI</li>\r\n\t<li>Knowledge of RxJS and Observable patterns | Familiarity with Angular Material</li>\r\n\t<li>TypeScript (ES6&plus;) | HTML5 | CSS3/SCSS/SASS | REST APIs integration | Version control (Git)</li>\r\n\t<li>Component-based architecture | State management (NgRx/Redux) | Unit testing (Jasmine, Karma) | Responsive design principles | Cross-browser compatibility</li>\r\n</ul>\r\n</div>\r\n",
+    "remote": 50,
+    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong> Business Analyst<br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><strong>Location:</strong> </span></span>Bangalore<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">(onsite)<br />\r\n<strong>Total Experience</strong>: 7 to 9 years</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Pay Rate-Rs.600/hr</span></span><br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Description</span></span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>We need more strong candidates with Insurance/pension &plus; Digital experience</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>Able to hit the ground running</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>Advanced SQL skills and data transformations incl (this is critical as M&amp;G will be testing the candidate on their skills and approach towards assessing SQL logic)  </span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>CASE WHEN logic Joins Transformations COALESCE, ABS, TRIM        </span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>String manipulation and arithmetic operations            </span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>Conditional inclusion / exclusion rules            </span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>Derivation rules e.g. absolute values, currency conversions</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>Ability to translate complex business logic into technical expressions using SQL</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span>Strong analytical skills to analyse complex SQL queries and able to break it down into its individual components when required, as well as perform in-depth analysis to identify and resolve issues</span><br />\r\n<span style=\"font-family:Symbol;\">&middot;<span style=\"font-family:Times New Roman;\"><span style=\"font-size:7pt;\">         </span></span></span><span style=\"color:black;\">Comfortable owning both business logic and technical implementation</span>  </div>\r\n",
     "recruiter": [
       "Ashok Kumar NGL",
       "ashoks@cresconsultancy.com",
       "7323052858"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32347538",
-    "time_scraped": 1779754135229,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32532205",
+    "time_scraped": 1782977152533,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32342324,
-    "title": "Business Analyst - LMS Implementation",
-    "location": "OR, Salem",
+    "id": 32531861,
+    "title": " ServiceNow QA Tester (ITOM)",
+    "location": "Maharashtra, Pune",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779374097000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782894556000
     },
     "start": {
       "start_dateStr": null,
@@ -481,128 +118,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<div><strong><span style=\"color:#222222\">Title:</span> </strong> <strong> <span style=\"color:#222222\"> Business Analyst - LMS Implementation</span> </strong><br />\r\n<strong><span style=\"color:#222222\">Location:</span>&nbsp;(</strong><strong><span style=\"color:#222222\">Remote) </span> </strong><br />\r\n<strong><span style=\"color:#222222\">Duration: 12&plus; month </span> </strong><br />\r\n<strong><span style=\"color:#222222\">Type: Contract</span><br />\r\n<br />\r\nThis position will primarily work remote. This contracted position will be issued a cell phone, and laptop. </strong><br />\r\n<strong>Initial travel to the DPSST campus is required to receive a laptop and cell phone, after which the position will be primarily remote.&nbsp;&nbsp; </strong><br />\r\n&nbsp;<br />\r\n<br />\r\n<strong>Project Overview</strong><br />\r\nA multidisciplinary public safety learning institution currently lacks the modern technological tools needed to efficiently create, manage, and deliver learning materials. Existing systems for managing training resources, curriculum, and instructional content are outdated, do not support distance learning, and no longer meet the evolving needs of students and stakeholders. To address these challenges and support more flexible, accessible, technology-driven training models, funding was approved in the 2025&ndash;2027 biennium to procure and implement a modern Learning Management System (LMS).<br />\r\n<br />\r\n<strong>Position Summary</strong><br />\r\nWe are seeking an experienced Business Analyst (BA) to support the procurement and implementation of a new Learning Management System (LMS) for a public safety training institution. This role will play a critical part in ensuring the selected LMS integrates effectively with existing systems, supports operational workflows, and meets compliance and reporting requirements.<br />\r\nThe BA will work closely with the project manager and stakeholders across training, operations, IT, and administration to analyze current processes, define future-state workflows, and translate business needs into clear, actionable requirements.<br />\r\nThis full-time role averages 40 hours per week, with hours adjusted as needed but not exceeding 40 hours. The estimated project duration is approximately 12 months, though it may be extended if necessary or completed sooner.<br />\r\n<br />\r\n<strong>Key Responsibilities</strong><br />\r\n<strong>Stakeholder Engagement &amp; Facilitation</strong>\r\n\r\n<ul>\r\n\t<li>Identify and engage stakeholders across departments including training, operations, IT, and compliance</li>\r\n\t<li>Lead workshops, interviews, and working sessions to gather input and build consensus</li>\r\n\t<li>Surface and resolve conflicting requirements and priorities</li>\r\n</ul>\r\n<strong> Current State Analysis</strong>\r\n\r\n<ul>\r\n\t<li>Document existing training processes, systems, and workflows</li>\r\n\t<li>Analyze current methods for course delivery, certification tracking, and compliance reporting</li>\r\n\t<li>Identify inefficiencies, risks, and opportunities for improvement</li>\r\n</ul>\r\n<strong> Future State Design</strong>\r\n\r\n<ul>\r\n\t<li>Define desired future-state processes supported by the LMS</li>\r\n\t<li>Develop process maps, use cases, and user journeys</li>\r\n\t<li>Ensure alignment with operational realities, including shift-based work environments and certification requirements</li>\r\n</ul>\r\n<strong> Systems &amp; Integration Analysis</strong>\r\n\r\n<ul>\r\n\t<li>Inventory systems that will interface with the LMS (e.g., HRIS, records systems, scheduling, identity management)</li>\r\n\t<li>Define data flows, system interactions, and integration points</li>\r\n\t<li>Collaborate with technical teams to assess integration feasibility and constraints</li>\r\n\t<li>Identify system dependencies and risks</li>\r\n</ul>\r\n<strong> Requirements Management</strong>\r\n\r\n<ul>\r\n\t<li>Elicit, analyze, and document business and technical requirements</li>\r\n\t<li>Develop functional and non-functional requirements, including security and compliance needs</li>\r\n\t<li>Maintain a requirements traceability matrix</li>\r\n\t<li>Support prioritization and validation of requirements with stakeholders</li>\r\n</ul>\r\n<strong> Procurement &amp; Vendor Evaluation Support</strong>\r\n\r\n<ul>\r\n\t<li>Contribute to development of RFP documents and evaluation criteria</li>\r\n\t<li>Participate in vendor demonstrations and solution evaluations</li>\r\n\t<li>Assist in scoring vendor responses based on organizational needs</li>\r\n</ul>\r\n<strong> Impact Assessment &amp; Change Support</strong>\r\n\r\n<ul>\r\n\t<li>Assess the impact of the LMS on business processes, roles, and policies</li>\r\n\t<li>Identify organizational readiness considerations</li>\r\n\t<li>Collaborate with change management and training teams as needed</li>\r\n</ul>\r\n<strong> Implementation Support</strong>\r\n\r\n<ul>\r\n\t<li>Provide requirements clarification during system configuration and development</li>\r\n\t<li>Support user acceptance testing (UAT)</li>\r\n\t<li>Assist in resolving gaps between business needs and system capabilities</li>\r\n</ul>\r\n<strong> Required Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree in Business Administration, Information Systems, or related field (or equivalent experience)</li>\r\n\t<li>Business analysis experience on complex system implementation projects</li>\r\n\t<li>Demonstrated experience analyzing system integrations and data flows</li>\r\n\t<li>Strong documentation and requirements management skills</li>\r\n\t<li>Experience working in public sector, public safety, or highly regulated environments</li>\r\n\t<li>Familiarity with compliance-driven training environments</li>\r\n\t<li>Experience supporting RFP or procurement processes</li>\r\n\t<li>Knowledge of identity management or records management systems</li>\r\n\t<li>Experience with LMS implementations or enterprise training systems</li>\r\n\t<li>Certification such as CBAP, CCBA, or PMI-PBA</li>\r\n\t<li>Strong analytical and problem-solving skills</li>\r\n\t<li>Ability to translate business needs into technical requirements</li>\r\n\t<li>Excellent facilitation and stakeholder engagement skills</li>\r\n\t<li>Process modeling and documentation</li>\r\n\t<li>Effective communication across technical and non-technical audiences</li>\r\n\t<li>Ability to work independently and manage multiple priorities</li>\r\n\t<li>Learning ability</li>\r\n\t<li>Presentation skills</li>\r\n\t<li>Project management</li>\r\n\t<li>Team work</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Kalimuthu S",
-      "kalimuthu@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32342324",
-    "time_scraped": 1779754135378,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32341451,
-    "title": "Network Engineer",
-    "location": "VA, Richmond",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779367723000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><strong>Job Title</strong>: <strong>Network Engineer</strong><br />\r\n<strong>Location: </strong><strong>Richmond, VA</strong><br />\r\n<strong>Duration: 6&plus;months</strong><br />\r\n<strong>Type: Contract</strong><br />\r\n <br />\r\n<strong>Does your candidate agree to interview and work on-site as required by the agency</strong><br />\r\n<br />\r\n<strong>Key Responsibilities:</strong><br />\r\n <br />\r\n<strong>Network Infrastructure Administration </strong>\r\n<ul>\r\n\t<li>Administer enterprise routing and switching infrastructure</li>\r\n\t<li>Configure and maintain LAN, WAN, wireless, and remote access environments</li>\r\n\t<li>Support hybrid MPLS and SD-WAN connectivity across multiple locations</li>\r\n\t<li>Maintain network availability, resiliency, and performance</li>\r\n</ul>\r\n <br />\r\n<strong>Firewall &amp; Secure Connectivity Management </strong>\r\n\r\n<ul>\r\n\t<li>Administer firewalls, VPN solutions, and secure remote connectivity</li>\r\n\t<li>Implement and maintain network segmentation and access controls</li>\r\n\t<li>Support secure connectivity for cloud and hybrid environments</li>\r\n\t<li>Coordinate firewall rule changes and network security updates</li>\r\n</ul>\r\n <br />\r\n<strong>Monitoring &amp; Troubleshooting</strong>\r\n\r\n<ul>\r\n\t<li>Monitor network health, utilization, and performance</li>\r\n\t<li>Respond to outages, connectivity issues, and infrastructure incidents</li>\r\n\t<li>Perform network troubleshooting across routing, switching, wireless, and VPN environments</li>\r\n\t<li>Conduct root cause analysis and implement corrective actions</li>\r\n</ul>\r\n <br />\r\n<strong>Security &amp; Compliance Support </strong>\r\n\r\n<ul>\r\n\t<li>Support implementation of network security controls and standards</li>\r\n\t<li>Collaborate with the Information Security Office on vulnerability remediation and risk reduction</li>\r\n\t<li>Assist with logging, monitoring, and audit activities</li>\r\n\t<li>Support secure configuration and hardening practices</li>\r\n</ul>\r\n <br />\r\n<strong>Change Management &amp; Operations </strong>\r\n\r\n<ul>\r\n\t<li>Execute network changes through defined change management processes</li>\r\n\t<li>Validate planned changes and maintain rollback procedures</li>\r\n\t<li>Participate in maintenance windows and operational planning</li>\r\n\t<li>Maintain network documentation and diagrams</li>\r\n</ul>\r\n <br />\r\n<strong>Vendor &amp; Carrier Coordination </strong>\r\n\r\n<ul>\r\n\t<li>Coordinate with telecommunications providers and vendors</li>\r\n\t<li>Support circuit provisioning, troubleshooting, and escalations</li>\r\n\t<li>Assist with hardware lifecycle and support renewals</li>\r\n</ul>\r\n <br />\r\n<strong>Cross-Team Collaboration </strong>\r\n\r\n<ul>\r\n\t<li>Partner with Systems Administration on infrastructure dependencies</li>\r\n\t<li>Coordinate with End User Services regarding user-impacting network issues</li>\r\n\t<li>Support Application/Data teams with connectivity and performance needs</li>\r\n\t<li>Communicate operational risks and system impacts to leadership</li>\r\n</ul>\r\n <br />\r\n<strong>Required Qualifications </strong>\r\n\r\n<ul>\r\n\t<li>Experience administering enterprise network environments</li>\r\n\t<li>Strong knowledge of routing and switching concepts</li>\r\n\t<li>Experience with firewalls, VPNs, and secure remote access</li>\r\n\t<li>Experience troubleshooting network connectivity and performance issues</li>\r\n\t<li>Familiarity with wireless networking technologies</li>\r\n\t<li>Understanding of structured operational and change management processes</li>\r\n</ul>\r\n <br />\r\n<strong>Preferred Qualifications </strong>\r\n\r\n<ul>\r\n\t<li>Experience with Cisco networking technologies</li>\r\n\t<li>Experience with SD-WAN and hybrid network environments</li>\r\n\t<li>Experience in government or regulated environments</li>\r\n\t<li>Familiarity with network monitoring and logging tools</li>\r\n\t<li>Knowledge of security frameworks such as NIST</li>\r\n\t<li>Relevant certifications such as CCNA or CCNP</li>\r\n</ul>\r\n <br />\r\n<strong>Knowledge, Skills, and Abilities </strong>\r\n\r\n<ul>\r\n\t<li>Strong troubleshooting and analytical skills</li>\r\n\t<li>Ability to manage multiple operational priorities</li>\r\n\t<li>Effective written and verbal communication skills</li>\r\n\t<li>Ability to work collaboratively across technical teams</li>\r\n\t<li>Focus on reliability, security, and operational consistency</li>\r\n</ul>\r\n <br />\r\n<strong>Working Conditions </strong>\r\n\r\n<ul>\r\n\t<li>Office-based environment</li>\r\n\t<li>Occasional after-hours support for maintenance or incident response</li>\r\n\t<li>Limited travel between office locations may be required</li>\r\n</ul>\r\n <br />\r\n<strong>Additional Information</strong>\r\n\r\n<ul>\r\n\t<li>This position supports the agency&#39;s core network infrastructure and plays a critical role in ensuring secure and reliable connectivity for agency operations.</li>\r\n\t<li>The Network Engineer operates within established governance and operational processes to support stability, resiliency, and risk reduction across the enterprise environment.</li>\r\n</ul>\r\n <br />\r\n<strong>Required:</strong>\r\n\r\n<ul>\r\n\t<li>Routing and switching</li>\r\n\t<li>TCP/IP networking</li>\r\n\t<li>VLAN configuration</li>\r\n\t<li>VPN administration</li>\r\n\t<li>Firewall administration</li>\r\n\t<li>Wireless networking administration</li>\r\n\t<li>Network troubleshooting</li>\r\n\t<li>LAN/WAN support</li>\r\n\t<li>SD-WAN support</li>\r\n\t<li>Network monitoring tools</li>\r\n\t<li>DNS fundamentals</li>\r\n\t<li>Network performance analysis</li>\r\n\t<li>Cisco networking technologies</li>\r\n\t<li>Remote access technologies</li>\r\n\t<li>Circuit troubleshooting</li>\r\n\t<li>Carrier/vendor coordination</li>\r\n\t<li>Network resiliency concepts</li>\r\n\t<li>High availability concepts</li>\r\n\t<li>Network documentation/diagramming</li>\r\n\t<li>Network segmentation</li>\r\n\t<li>Firewall rule management</li>\r\n\t<li>Secure remote connectivity</li>\r\n\t<li>Access control concepts</li>\r\n\t<li>Vulnerability remediation support</li>\r\n\t<li>Security incident support</li>\r\n\t<li>Change management execution</li>\r\n\t<li>Maintenance window coordination</li>\r\n\t<li>Incident response participation</li>\r\n\t<li>Root cause analysis</li>\r\n\t<li>Structured troubleshooting methodology</li>\r\n\t<li>Communication and collaboration</li>\r\n\t<li>Operational discipline</li>\r\n\t<li>Independent work capability</li>\r\n\t<li>Prioritization under pressure</li>\r\n\t<li>BGP</li>\r\n\t<li>Dynamic routing protocols</li>\r\n\t<li>Advanced firewall administration</li>\r\n\t<li>Cisco ASA or NGFW experience</li>\r\n\t<li>SD-WAN design/optimization</li>\r\n\t<li>QoS configuration</li>\r\n\t<li>Azure networking</li>\r\n\t<li>Hybrid cloud networking</li>\r\n\t<li>Zero Trust networking concepts</li>\r\n\t<li>SIEM/network logging integration</li>\r\n\t<li>IDS/IPS familiarity</li>\r\n\t<li>Government IT experience</li>\r\n\t<li>Multi-site enterprise experience</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Hari M",
-      "hari@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32341451",
-    "time_scraped": 1779754150389,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32341037,
-    "title": "IT Service coordinator",
-    "location": "Maharashtra, Mumbai",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779364734000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Job title : </span><strong><span style=\"font-size:10pt;\">IT Service coordinator</span></strong><br />\r\n<span style=\"font-size:9pt;\">Location : Mumbai, MH<br />\r\nDuration : 12 months Job after that it is converted into full time.<br />\r\nSector : FSS<br />\r\nRate : Rs. 400/hr<br />\r\n<br />\r\nJob Description :<br />\r\n<br />\r\n*** Note - Resource should be available for F2F Interview ***<br />\r\n<br />\r\nMandatory Skills:</span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">We are seeking an experienced Service coordinator with a strong background in IT infrastructure and cloud technologies to lead Service and deliver complex Services Operations.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">The candidate should be organized, comfortable working with cross-functional technical teams, and proficient in project tracking, reporting, and Service Management ,</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">The service Coordinator will be in charge of the coordination of the tasks linked to projects and impacting the activity of the GCIS.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Candidate should familiar with tools such as JIRA, PowerBI, Service now and presentation skills are mandatory.</span></h2>\r\n\t</li>\r\n</ul>\r\n",
+    "remote": 50,
+    "description": "<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> :<strong> ServiceNow QA Tester (ITOM)</strong><br />\r\n<strong>Location : </strong>Bangalore, Pune, Chennai<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">FSS</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Rate :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> Rs. 700/hr</span></span></strong><br />\r\n<br />\r\n<strong><span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span></strong><span style=\"color:black;\"> :</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong>            ***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">5&plus; years of Service Now testing experience.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Experience using defect tracking and test management tools such as JIRA etc.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Exposure to test automation and API testing using Postman or similar tools.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Hands-on experience testing Service Now ITOM modules (Discovery, Service Mapping, Event Management, and CMDB)</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Experience with Service Now Automated Test Framework (ATF).</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Experience using defect tracking and test management tools such as JIRA.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Good communication and stakeholder management skills</span></h2>\r\n\t</li>\r\n</ul>\r\n",
     "recruiter": [
       "Ajith Kumar",
       "ajithk@cresconsultancy.com",
       "7323052858"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32341037",
-    "time_scraped": 1779754150496,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32531861",
+    "time_scraped": 1782977162497,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32340279,
-    "title": "Quality Engineer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779353624000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><strong><span style=\"font-size:10pt;\">Quality Engineer</span></strong><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Bangalore, KA<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> Communication</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 450/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong><br />\r\n </span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Develop and execute automated test scripts using Python and Robot Framework.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Perform functional, regression, and integration testing to ensure application quality.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Identify, track, and report defects while collaborating with development teams.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Support automation framework enhancement and participate in QA activities.</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"> <br />\r\n<strong>Mandatory Skills : </strong>Robot Framework using Python</span></h2>\r\n</div>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32340279",
-    "time_scraped": 1779754150341,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32340132,
-    "title": "Java Developer",
+    "id": 32531658,
+    "title": "Fullstack Developer(.Net & AWS)",
     "location": "Telangana, Hyderabad",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779337084000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782878066000
     },
     "start": {
       "start_dateStr": null,
@@ -613,29 +151,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span> <br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : <strong>J</strong></span><strong><span style=\"font-size:10pt;\">ava Developer</span></strong><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Hyderabad, TS<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> FSS</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 1000/hr</span></span><br />\r\n<br />\r\n<span style=\"font-size:9pt;\"><span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :</span></h2>\r\n\r\n<h2 style=\"font-style: italic; text-align: center;\"><span style=\"font-size:9pt;\"><span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strong experience in Java 21 and integration frameworks.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Hands-on experience with MongoDB</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Solid understanding of CI/CD concepts and tools.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Familiarity with AI tools for code generation and productivity (e.g., Claude code/console).</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Proven ability to work independently and take ownership of tasks.</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"> <br />\r\n<strong>Mandatory Skills : </strong>Java, Springboot, Microservices, Azure Cloud, Mongo DB</span></h2>\r\n",
+    "remote": 50,
+    "description": "<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : <strong>Fullstack Developer(.Net &amp; AWS)</strong><br />\r\n<strong>Location : </strong>Hyderabad, TS<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">FSS</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Rate :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> Rs. 550/hr</span></span></strong><br />\r\n<br />\r\n<strong><span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span></strong><span style=\"color:black;\"> :</span><br />\r\n<span style=\"color:black;\"><strong>                        ***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Truist-specific knowledge, process, and skills. .Net, HTML5, CSS, JavaScript, Angular, ReactJS, Java, Python, .Net, SQLServer, APIs (Rest/Soap), etc.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Technical development experience with SAAS systems/applications. Platform Operations, System Interactions, security protocols, troubleshooting, problem/ticket resolution.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Efforts to include analysis, design, coding/creating/development, testing and delivery of highly complex solutions.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Agile lifecycle development/delivery experience, specifically scrum team experience</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong>Mandatory skills: AWS &plus; .Net &plus; Angular</strong></span></h2>\r\n",
     "recruiter": [
       "Ajith Kumar",
       "ajithk@cresconsultancy.com",
       "7323052858"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32340132",
-    "time_scraped": 1779754164240,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32531658",
+    "time_scraped": 1782977162191,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32340131,
-    "title": "Data Engineer",
-    "location": "Karnataka, Bangalore",
+    "id": 32530461,
+    "title": "Senior IAM Engineer",
+    "location": "TX, Austin",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/21/2026",
-      "date_posted": 1779336951000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782851773000
     },
     "start": {
       "start_dateStr": null,
@@ -646,29 +184,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<div><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  <span style=\"color:black;\">Data Engineer</span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 5 to 7 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.800/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Must Have Skills</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\"> - PySpark writing optimized Hive queries python</span></span></span></div>\r\n",
+    "remote": 50,
+    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <strong> Job Title: Senior IAM Engineer</strong><br /> \r\n<strong> Location: Austin, TX (Hybrid)</strong><br /> \r\n<strong> Duration: 12&plus; Months</strong><br /> \r\n  <br /> \r\n<strong> Responsibilities:</strong>\r\n<ul> \r\n\t<li> The Software Developer III will design, implement and maintain an enterprise Identity and Access Management ecosystem over the life of the contract. Duties will include implementing the architectural design of a centralized identity provider framework using SAML 2.0 and IODC for SSO and MFA; building Joiner, Mover and Leaver lifecycle workflows; onboarding enterprise applications via REST APIs; and implementing Role-Based Access Control models.</li> \r\n\t<li> Additional duties will include deploying a privileged access management solution featuring secure credential vaulting, automated password rotation, and just-in-time provisioning. Beyond initial deployment responsibilities, responsibilities extend to long-term system maintenance, including performance tuning, troubleshooting provisioning errors and connection failures, and continuing onboarding of business applications.</li> \r\n</ul> \r\n <br /> \r\n<strong> Required Skills:</strong>\r\n\r\n<ul> \r\n\t<li> IAM Platform governance, engineering, lifecycle automation and Scripting</li> \r\n\t<li> Application onboarding, Integrate business applications with IAM systems</li> \r\n\t<li> Designing and implementing RBAC models, enforcing separation of duties and designing certification campaigns</li> \r\n\t<li> Managing Centralized Identity Provider and configuring SSO, MFA</li> \r\n\t<li> Managing centralized identity providers, configuring SSO, MFA and federation protocols</li> \r\n\t<li> SailPoint ISC implementation and operations</li> \r\n</ul> \r\n</div> \r\n",
     "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
+      "Prathap C",
+      "Prathapc@cresconsultancy.com",
+      "7324567181"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32340131",
-    "time_scraped": 1779754164343,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32530461",
+    "time_scraped": 1782977161878,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32337243,
-    "title": "Lead EDI Specialist/Tester",
-    "location": "NC, Raleigh",
+    "id": 32528592,
+    "title": "Oral Health Educator",
+    "location": "None, Indianapolis",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779306192000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782841510000
     },
     "start": {
       "start_dateStr": null,
@@ -679,29 +217,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<div> <strong> Title: Lead EDI Specialist/Tester</strong><br /> \r\n<strong> Location: Raleigh, NC (Hybrid)</strong><br /> \r\n<strong> Duration: 6&plus; Months</strong><br /> \r\n<strong> Type: Contract</strong><br /> \r\n<br /> \r\n<strong> Note: Once COVID-19 restrictions are lifted, all work must be completed on site. Do you accept this requirement?</strong><br /> \r\n<br /> \r\n<strong> Description:</strong><br /> \r\nThe client is seeking a Lead EDI Specialist / Tester to perform work related to support the Managed Care Transition Project. This position is responsible for the following activities related to a critical system being developed in-house at the State:\r\n<ul> \r\n\t<li> High degree of business and technical knowledge with significant practical experience in HIPAA X12 EDI Transactions.</li> \r\n\t<li> Expert in EDI mapping for 837, 277CA, 834, 835, TA1, 999, 820, NCPDP D.0</li> \r\n\t<li> Develop and execute test scripts related to X12 Transmission Conducts QA and Testing on EDI application</li> \r\n\t<li> Develop and execute Test scripts related to X12 Transmission Experience setting up users/new Trading Partner relationship/Standards/Envelope and full cycle testing</li> \r\n\t<li> Provides technical support during and after implementation for healthcare electronic data interchange applications</li> \r\n\t<li> Responds to inquiries regarding EDI issues with encounter claims and trading partner activities</li> \r\n\t<li> Management of catalog of EDI document types such as 837, 277CA, 834, 835, TA1, 999, 820, NCPDP D.0</li> \r\n\t<li> Communication between Trading Partners and department</li> \r\n\t<li> Maintain detailed documentation and process flow of all EDI processes</li> \r\n\t<li> Identify and facilitate issues with partner data mapping from onset through completion</li> \r\n\t<li> Process and monitor all inbound and outbound X12 transactions</li> \r\n\t<li> Support Customer Service group with EDI related issues</li> \r\n\t<li> Identifies, recommends and implements process improvements in support of the EDI system</li> \r\n\t<li> Troubleshoot EDI document processing errors and work with trading partners directly to resolve in a timely matter</li> \r\n\t<li> Conducts analysis of EDI transactions and is responsible for documentation and reports</li> \r\n\t<li> Collaborate with EDI partners to resolve transmission problems.</li> \r\n\t<li> Track day-to-day EDI & batch processes to identify and address problems as they arise reporting levels of activity using key established metrics for senior management</li> \r\n\t<li> Effectively communicate issues and needs with internal business partners, external vendors, and healthcare providers</li> \r\n\t<li> Develops and maintains cross walking and validation rules for file exchanges</li> \r\n\t<li> Triages incoming EDI issues thru monitoring</li> \r\n\t<li> Ability to communicate effectively with technical and business staff</li> \r\n\t<li> Support internal resources to resolve issues, answer questions, and retransmit EDI documents when necessary</li> \r\n\t<li> Work with end users to ensure user acceptance testing is thorough and complete</li> \r\n\t<li> Employees should be able to work independently with minimal supervision.</li> \r\n\t<li> Knowledge of Agile Methodology</li> \r\n</ul> \r\n<strong> Required Skills:</strong>\r\n\r\n<ul> \r\n\t<li> Expert in developing and executing test scripts related to X12 EDI transmissions</li> \r\n\t<li> Demonstrated proficiency in QA and testing of EDI applications</li> \r\n\t<li> Expert-level experience in EDI mapping for transactions including 837, 277CA, 834, 835, TA1, 999, 820, and NCPDP D.0</li> \r\n\t<li> Strong business and technical knowledge with hands-on experience in HIPAA X12 EDI transactions</li> \r\n\t<li> Solid understanding of healthcare claims processing, including Claims, Provider, and Eligibility workflows</li> \r\n\t<li> Experience setting up users and new trading partner relationships, including standards, envelopes, and full-cycle testing</li> \r\n\t<li> Experience creating and managing a catalog of EDI document types (837, 277CA, 834, 835, TA1, 999, 820, NCPDP D.0)</li> \r\n\t<li> Working knowledge of Medicaid and/or MMIS systems</li> \r\n\t<li> Proven experience processing and monitoring inbound and outbound X12 transactions</li> \r\n\t<li> Experience collaborating with EDI trading partners to identify and resolve transmission issues</li> \r\n\t<li> Knowledge of Agile methodology</li> \r\n\t<li> Excellent verbal and written communication skills, with the ability to present to both technical and business audiences</li> \r\n\t<li> Local candidate availability</li> \r\n</ul> \r\n</div> \r\n",
+    "remote": 50,
+    "description": "<div> <strong> Job title : Oral Health Educator</strong><br /> \r\n<strong> Location: Indianapolis, IN (Hybrid)</strong><br /> \r\n<strong> Duration : 5&plus; Months Contract  </strong><br /> \r\n<strong> Type : Contract</strong><br /> \r\n <br /> \r\n <strong>  *****</strong> <strong> Initial interview will be via Teams with 2nd interviews requiring in-person attendance***</strong><br /> \r\n<br /> \r\n<strong> Short Description:</strong>\r\n<ul> \r\n\t<li> The Oral Health Educator will play a pivotal role in promoting oral health awareness and education across skilled nursing facilities, schools, early learning centers, and community settings.</li> \r\n</ul> \r\n <br /> \r\n<strong> Job Description:</strong><br /> \r\n<strong> Overview:</strong>\r\n\r\n<ul> \r\n\t<li> The Oral Health Educator will play a pivotal role in promoting oral health awareness and education across skilled nursing facilities, schools, early learning centers, and community settings. This position will focus on equipping Certified Nursing Assistants (CNAs), school nurses, educators, children and families, and community partners with the knowledge and skills needed to support oral hygiene practices, preventive care, and improved oral health outcomes.</li> \r\n</ul> \r\n <br /> \r\n<strong> Responsibilities:</strong>\r\n\r\n<ul> \r\n\t<li> Training & Education: Develop and deliver tailored workshops, and training sessions for CNAs, school nurses, early learning centers, and community partners on oral health best practices.</li> \r\n\t<li> Resource Development: Create and distribute educational materials such as guides, checklists, pamphlets, posters, videos, and digital content tailored to skilled nursing facilities, school settings, and families.</li> \r\n\t<li> Collaboration: Work closely with Skilled Nursing Facilities (SNFs) leadership, school administrators, healthcare professionals, and community organizations to align ora health education with patient care protocols, school health needs, and communitybased initiatives.</li> \r\n\t<li> Oral Health Advocacy: Promote the importance of oral health in overall health, especially for elderly residents, chronically ill patients, children, and vulnerable populations.</li> \r\n\t<li> Support & Guidance: Serve as a resource to CNAs, school nurses, educators, and community partners by providing ongoing support, answering questions, and offering solutions to oral health challenges.</li> \r\n\t<li> Outreach & Events: Support planning, coordination, and participation in community outreach events, health fairs, school-based programs, and public health campaigns to expand oral health awareness and access.</li> \r\n\t<li> Program Support: Assist with program planning, preparation and distribution of oral health education materials, grant proposals, budgets, data collection, and reporting.</li> \r\n\t<li> Evaluation: Monitor and assess the impact of educational programs and outreach activities and recommend improvements to enhance care delivery, school-based prevention, and community engagement.</li> \r\n</ul> \r\n <br /> \r\n<strong> Qualifications:</strong>\r\n\r\n<ul> \r\n\t<li> Bachelor's degree or certification in Dental Hygiene, Public Health, Education, or a related field.</li> \r\n\t<li> Experience delivering health education or training programs, preferably in school, healthcare, long-term care, or community settings.</li> \r\n\t<li> Knowledge of oral hygiene practices, common dental conditions, preventive care strategies, and behavior change techniques.</li> \r\n\t<li> Strong communication and presentation skills with the ability to engage CNAs, school nurses, healthcare teams, educators, families, and community partners.</li> \r\n\t<li> Ability to develop accessible, engaging, and culturally appropriate educational materials.</li> \r\n\t<li> Familiarity with skilled nursing facility workflows, school health programs, and public health outreach preferred.</li> \r\n\t<li> Relevant background in public health, data management, program evaluation, and grant writing preferred.</li> \r\n</ul> \r\n <br /> \r\n<strong> Skills:</strong>\r\n\r\n<ul> \r\n\t<li> Excellent interpersonal skills to engage with CNAs, school nurses, administrators, healthcare teams, and community stakeholders.</li> \r\n\t<li> Ability to present complex oral health information in a clear, accessible, and impactful manner.</li> \r\n\t<li> Empathy and understanding when addressing oral health challenges in vulnerable populations.</li> \r\n\t<li> Organizational skills to manage multiple training sessions, outreach activities, and program responsibilities.</li> \r\n\t<li> Creativity in developing materials and presenting oral health information in an engaging way.</li> \r\n\t<li> Proficiency in data management and analysis to support program evaluation and reporting.</li> \r\n\t<li> Flexibility to support oral health education needs across long-term care, school, early learning, and community settings.</li> \r\n\t<li> Relevant background in public health.</li> \r\n\t<li> Prior experience with grant writing preferred.</li> \r\n</ul> \r\n </div> \r\n",
     "recruiter": [
-      "Ram Prakash",
-      "rprakash@cresconsultancy.com",
-      "7323052858"
+      "Shining Raj",
+      "shining@cresconsultancy.com",
+      "9082012481"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32337243",
-    "time_scraped": 1779754164392,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32528592",
+    "time_scraped": 1782977171119,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32334637,
-    "title": "Salesforce Application Support Analyst",
-    "location": "CT, Hartford",
+    "id": 32526152,
+    "title": "IT Support Specialist",
+    "location": "GA, Conyers",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779290056000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782826247000
     },
     "start": {
       "start_dateStr": null,
@@ -712,29 +250,29 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<strong>  Job title : Salesforce Application Support Analyst</strong><br />  \r\n<strong>  Location:</strong><strong>   Hartford,CT</strong><br />  \r\n<strong>  Contract : 9 &plus; Months </strong> <br />  \r\n <br />  \r\n<strong>  Scope of Work:</strong><br />  \r\n <br />  \r\nThe Contractor will provide day-to-day technical support for end users of the Salesforce-based portals, troubleshoot issues, validate enhancements, and assist in feature rollout activities. Additionally, the Contractor will support technical analysts with requirement clarifications, testing, small configuration updates, communication with stakeholders, and documentation. The Contractor will also assist in the adoption and support of the upcoming Single-Entry Portal, including user onboarding, issue intake, root cause identification, and coordination with the technical team for resolution.<br />  \r\n <br />  \r\n<strong>  Deliverables:</strong>\r\n<ul>  \r\n\t<li>  End-user technical support responses and resolutions</li>  \r\n\t<li>  Issue triage, documentation, and tracking in Azure DevOps and JIRA</li>  \r\n\t<li>  Support tickets with troubleshooting notes</li>  \r\n\t<li>  Feedback documentation for enhancements and new portal features</li>  \r\n\t<li>  UAT support for Salesforce and Single Entry Portal releases</li>  \r\n\t<li>  User support guides, knowledge base entries, or process documentation as needed</li>  \r\n</ul>  \r\n<strong>  Responsibilities</strong> \r\n\r\n<ul>  \r\n\t<li>  Provide technical support to end users of the provider portal, parent portal, and Single Entry Portal</li>  \r\n\t<li>  Assist technical analysts with enhancements, testing, and documentation</li>  \r\n\t<li>  Participate in agile ceremonies, backlog refinement, and release readiness discussions</li>  \r\n\t<li>  Perform root cause analysis and collaborate with developers on bug resolution</li>  \r\n\t<li>  Support UAT test cycles and portal validation activities</li>  \r\n\t<li>  Maintain clear communication with stakeholders and users</li>  \r\n</ul>  \r\n<strong>  Required /Desired :</strong>\r\n\r\n<ul>  \r\n\t<li>  Adobe Acrobat</li>  \r\n\t<li>  Communication skills both verbal and written</li>  \r\n\t<li>  Software Troubleshooting</li>  \r\n\t<li>  MicrosoftOffice</li>  \r\n</ul>  \r\n <br />  \r\n ",
+    "remote": 50,
+    "description": "<strong> <span style=\"color:#222222;\"> Job Title: </span> </strong><strong> IT Support Specialist</strong><br /> \r\n<strong> <span style=\"color:#222222;\"> Location: Conyers, GA (Onsite)</span> </strong><br /> \r\n<span style=\"color:#222222;\"> <strong> Duration: 12&plus; months</strong></span> <br /> \r\n <br /> \r\n<strong> NOTES:</strong>\r\n<ul> \r\n\t<li> *Must Be Local to Metro Atlanta*</li> \r\n\t<li> **Professional certification (e.g., A&plus;, Network&plus;, Cloud&plus; or equivalent) MUST UPLOAD CERTIFICATION***               </li> \r\n</ul> \r\n <br /> \r\n<strong> Short description</strong>\r\n\r\n<ul> \r\n\t<li> Under direct supervision, provides management information system user support on a continuing basis either by phone or site visit. Troubleshoots end-user problems.</li> \r\n</ul> \r\n <br /> \r\n<strong> Job </strong><strong> <span style=\"color:#222222;\"> description</span> </strong><strong> :</strong><br /> \r\n<strong> Duties and Responsibilities:</strong><br /> \r\nThis position is looking for an IT Support Specialist 3 who will maintain business applications and critical infrastructure and provide management and support for additional DDS systems (e.g., Nemo Q/GALA, VRT cameras, A/V, mobile systems). Experience providing operations support to triage production incidents and engage with respective partners to restore services and post incident review to prevent future occurrences. This position will require an individual who is willing to continuously learn and remain current and knowledgeable about emerging IT technologies<br /> \r\n <br /> \r\n<strong> Specific Duties Include:</strong>\r\n\r\n<ul> \r\n\t<li> Maintaining cost-efficient, scalable cloud environments for the organization.</li> \r\n\t<li> Understanding business objectives of the company and creating cloud-based solutions to facilitate those objectives.</li> \r\n\t<li> Designing, building, and maintaining internal cloud applications for the organization.</li> \r\n\t<li> Keeping up to date on best practices in cloud computing and making improvements to the cloud infrastructure of their company or organization.</li> \r\n\t<li> Making hardware and software recommendations for the organization, based on needs of the project and organization.</li> \r\n\t<li> Experience in automation and provisioning technologies, such as AWS CLI and Terraform.</li> \r\n\t<li> Monitors Service Now ticket queue, responds to tickets in a timely manner and provides follow-up with end users.</li> \r\n\t<li> Provides customer support in supporting software, configurations, and business submission processes.</li> \r\n\t<li> Looking for ways to improve operations within company to digitize common tasks.</li> \r\n\t<li> Keeping data leakage and downtime to an absolute minimum.</li> \r\n\t<li> Assists other members of the IT Infrastructure team.</li> \r\n\t<li> Monitors ticket activities and provide escalation when needed.</li> \r\n\t<li> Troubleshoot and support PC, laptop (Win 10/11), scanners and local and network printers, google print, chrome boxes and other field system support.</li> \r\n\t<li> May act as an administrator or agency subject matter expert for lobby management software or other DDS applications as needed.</li> \r\n</ul> \r\n <br /> \r\n<strong> Minimum Qualifications:</strong>\r\n\r\n<ul> \r\n\t<li> Bachelor's degree from an accredited college or university in a related field such as computer and information technology, computer science, software engineering AND three years of related experience. <strong> OR</strong> Associate's/Vocational/Technical degree in a related field such as computer and information technology, computer science, software engineering from an accredited college or university AND five years of related experience. <strong> OR</strong> One year of experience at the lower-level IT Support Specialist 2 or position equivalent.</li> \r\n</ul> \r\n <br /> \r\n<strong> Competencies Needed</strong>\r\n\r\n<ul> \r\n\t<li> 2-3&plus; years providing IT support and management experience</li> \r\n\t<li> Professional certification (e.g. A&plus;, Network&plus;, Cloud&plus; or equivalent)</li> \r\n\t<li> Experience with using ServiceNow.</li> \r\n\t<li> Ability to present ideas in business-friendly and user-friendly language.</li> \r\n\t<li> Excellent communication and interpersonal skills are essential. Must be a result and goal-oriented individual with the persistence and patience necessary to work effectively with a variety of internal and external constituencies.</li> \r\n\t<li> Must have the ability to detect emerging trends and make recommendations for change.</li> \r\n\t<li> Experience with installation, maintenance, and troubleshooting of desktop computer hardware, operating systems, and application software in a multi- computer environment.</li> \r\n\t<li> Display current knowledge of technologies (computer systems, mobile devices, and technology products).</li> \r\n\t<li> Experience with resolving TCP/IP network issues.</li> \r\n\t<li> Experience or the ability to learn how to effectively maintain and support video conferencing, A/V and dash cam software and equipment.</li> \r\n\t<li> Proven problem-solving skills.</li> \r\n</ul> \r\n <br /> \r\n<strong> Required Skills:</strong>\r\n\r\n<ul> \r\n\t<li> Bachelor's degree from an accredited college or university in a related field such as computer and information technology, computer science, software</li> \r\n\t<li> Knowledge of basic network troubleshooting.</li> \r\n\t<li> Knowledge of Microsoft Windows Active Directory – Domain Name Service and Dynamic Host Configuration Protocol.</li> \r\n\t<li> Experience with installation, maintenance, and troubleshooting of desktop computer hardware, operating systems, and application software</li> \r\n\t<li> Knowledge of Microsoft Active Directory local and group policy.</li> \r\n\t<li> Professional certification (e.g. A&plus;, Network&plus;, Cloud&plus; or equivalent) MUST UPLOAD CERTIFICATION</li> \r\n\t<li> Experience with using ServiceNow</li> \r\n\t<li> Experience with resolving TCP/IP network issues</li> \r\n\t<li> Experience in automation and provisioning technologies, such as AWS CLI and Terraform</li> \r\n</ul> \r\n",
     "recruiter": [
-      "Bijun C",
-      "Bijun@cresconsultancy.com",
-      "8623259006"
+      "Neelesh Kumar",
+      "neeleshkumar@cresconsultancy.com",
+      "9082014333"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32334637",
-    "time_scraped": 1779754177917,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32526152",
+    "time_scraped": 1782977170140,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15
   },
   {
-    "id": 32334177,
-    "title": "GIS Data Integration Engineer (ESRI Roads & Highways)",
-    "location": "NC, Raleigh",
+    "id": 32526089,
+    "title": ".Net developer",
+    "location": "GA, Atlanta",
     "experience": {
       "experience": -1
     },
     "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779287067000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782825600000
     },
     "start": {
       "start_dateStr": null,
@@ -745,477 +283,15 @@
       "end_date": null
     },
     "salary": null,
-    "remote": 0,
-    "description": "<div> <strong> Title: GIS Data Integration Engineer (ESRI Roads & Highways)</strong><br /> \r\n<strong> Location: Raleigh, NC (Remote)</strong><br /> \r\n<strong> Duration: 12&plus; Months</strong><br /> \r\n<strong> Type: Contract</strong><br /> \r\n<br /> \r\n<strong> Job description:</strong>\r\n<ul> \r\n\t<li> Expert that will support the long-term maintenance and enterprise integration of the Client Hydrography Layer, a critical GIS dataset compiled by the Client Environmental Analysis Unit over the past five years. The dataset has reached a maturity level requiring migration into the Enterprise GIS environment and ongoing operation support until ownership transitions to Client Environmental Quality.</li> \r\n\t<li> Role requires 7&plus; years of relevant experience and expertise in enterprise database and linear referencing specific to datasets of this type including advanced database reporting, creation and execution of QA/QC processes and enterprise database query.</li> \r\n\t<li> The primary focus is to support the geometry, event and attribute changes to the GIS data with additional responsibilities of data QA/QC, progress reporting, direct SQL Server Database query, and Extract, Transfer, Load (ETL) process creation and maintenance during this period of management.</li> \r\n\t<li> The complexity of these responsibilities are essential to ensure accurate, stable, and reliable management of the Hydrography Layer within the enterprise environment.</li> \r\n</ul> \r\n<br /> \r\n<strong> Required Skills:</strong>\r\n\r\n<ul> \r\n\t<li> Data QA/QC</li> \r\n\t<li> ETL Process creation and Maintenance</li> \r\n\t<li> Direct SQL Server Database Queries</li> \r\n\t<li> Progress Reporting</li> \r\n\t<li> Linear Referencing</li> \r\n\t<li> ESRI Roads and Highways</li> \r\n</ul> \r\n</div> \r\n",
+    "remote": 50,
+    "description": "<div><strong>Job title: </strong><strong> .Net developer</strong><br />\r\n<strong>Location: Atlanta, GA (Hybrid)</strong><br />\r\n<strong>Duration: 12&plus; months</strong><br />\r\n<br />\r\n<strong>Notes<br />\r\nDo NOT submit candidates previously submit to #803256</strong><br />\r\n<strong>*Candidate MUST be local to Metro Atlanta*<br />\r\n*Tax Clearance Letter, due at the time of submission* (pls review compliance tab for instruction on how the CANDIDATE must obtain this letter)</strong><br />\r\n<br />\r\n<strong>Short description</strong>\r\n<ul>\r\n\t<li>Under direct supervision, designs, codes, tests, modifies and debugs computer software.</li>\r\n</ul>\r\n<br />\r\n<strong>Job description</strong>\r\n\r\n<ul>\r\n\t<li>Under direct supervision, designs, codes, tests, modifies and debugs computer software. Researches and analyzes program or systems problems and develops program documentation. Translates business requirements into development activities in secure and maintainable code. Supports configuration of all aspects of the GenTax&reg; COTS application.</li>\r\n</ul>\r\n<br />\r\n<strong>Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>US Citizenship or Green Card status is required</li>\r\n</ul>\r\nWorking knowledge of Structured Query Language (SQL)\r\n\r\n<ul>\r\n\t<li>Experience in Microsoft .NET</li>\r\n</ul>\r\n<br />\r\n<strong>Preferred Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>Bachelor&#39;s degree from an accredited college or university with coursework in computer s</li>\r\n\t<li>Knowledge and experience working with software development organizations</li>\r\n\t<li>Strong analytical and problem-solving skills</li>\r\n</ul>\r\n<br />\r\n<strong>Other Notes:</strong>\r\n\r\n<ul>\r\n\t<li>DOR will conduct a background check on all candidates considered for the position. Individuals must be compliant with Georgia tax obligations.</li>\r\n\t<li>Individuals having any overdue and unpaid taxes or any felony convictions (no matter how long ago) will not be offered the position or hired.</li>\r\n\t<li>All employees will be fingerprinted.</li>\r\n\t<li>Candidates must be willing to relocate to Georgia for at least the duration of the contract, if not already a resident of Georgia.</li>\r\n\t<li>*THE TAX CLEARANCE LETTER COMPLIANCE ITEM, IS DUE AT THE TIME OF CANDIDATE SUBMISSION*</li>\r\n\t<li>DOR will conduct a background check on all candidates considered for the position. Individuals must be compliant with Georgia tax obligations.</li>\r\n\t<li>Individuals having any overdue and unpaid taxes, or any felony convictions (no matter how long ago) will not be offered the position or hired.</li>\r\n\t<li>All employees will be fingerprinted.</li>\r\n</ul>\r\n<br />\r\n<strong>Required Skills</strong>\r\n\r\n<ul>\r\n\t<li>Experience in any .NET programming language</li>\r\n\t<li>Working knowledge of Structured Query Language (SQL)</li>\r\n\t<li>Strong problem solving skills</li>\r\n\t<li>Demonstrated resiliency</li>\r\n\t<li>Experience working in a small team environment</li>\r\n\t<li>Bachelor&#39;s degree from an accredited college or university with coursework in computer science or management information systems.</li>\r\n</ul>\r\n</div>\r\n",
     "recruiter": [
-      "Ram Prakash",
-      "rprakash@cresconsultancy.com",
-      "7323052858"
+      "Neelesh Kumar",
+      "neeleshkumar@cresconsultancy.com",
+      "9082014333"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32334177",
-    "time_scraped": 1779754177931,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32333079,
-    "title": "Data Scientist",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779275847000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong>  <span style=\"color:black;\">Data Scientist</span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 5 to 7 years</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Pay Rate-Rs.850/hr</span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-size:12pt;\">Data Scientist-Artificial Intelligence AI</span></span><br />\r\n <br />\r\n<span style=\"color:black;\"><span style=\"font-size:12pt;\">Skills -</span></span><br />\r\n<span style=\"font-family:Symbol;\">&middot;         </span>ChatGPT<br />\r\n<span style=\"font-family:Symbol;\">&middot;         </span>Claude<br />\r\n<span style=\"font-family:Symbol;\">&middot;         </span>GitHub Copilo   DOMO<br />\r\n<span style=\"font-family:Symbol;\">&middot;         </span>Power BI<br />\r\n<span style=\"font-family:Symbol;\">&middot;         </span>Tableau<br />\r\n<span style=\"font-family:Symbol;\">&middot;         </span>Node.js/Python<br />\r\n </div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32333079",
-    "time_scraped": 1779754177827,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32332783,
-    "title": "Pega Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779271844000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span> <strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><span style=\"font-size:10pt;\"><strong>Pega Developer</strong></span><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : </strong>Bangalore, KA<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> FSS</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 350/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong><br />\r\n </span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strong in Pega knowledge and should have prior experience working in Pegasystems</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Prior banking domain experience is good to have</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Good in Communication</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"> <br />\r\n<strong>Mandatory Skills : </strong>Strong in Pega knowledge and should have prior experience working in Pegasystems</span></h2>\r\n</div>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32332783",
-    "time_scraped": 1779754189534,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32332686,
-    "title": "Project manager",
-    "location": "Tamil Nadu, Chennai",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779270324000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span></div>\r\n\r\n<div><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong>  <span style=\"color:black;\">Project manager</span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><strong>Location:</strong> Chennai, Tamilnadu (onsite)<br />\r\n<strong>Total Experience</strong>: 3 to 5 years</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Pay Rate-Rs.300/hr</span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;</span></span>         <span style=\"color:black;\">experience in project management &amp; operational activities</span><br />\r\n </div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32332686",
-    "time_scraped": 1779754189568,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32332461,
-    "title": "RPA Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779252052000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : <strong>RPA Developer</strong><br />\r\n<strong>Location : </strong>Bangalore, KA<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> FSS</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 450/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong><br />\r\n </span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Experience with RPA and exposure to automation tools like UIPath and other technologies like Python, microservices, SQL.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Expertise using UiPath Studio and UiPath Orchestrator and to know various capabilities that the RPA product provides.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">UiPath Advanced Developer certification.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Experience in understanding business needs and translating them into an automated solution.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Knowledge and experience in Finance and Accounting domain.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Experience in Solution Designing, development, testing, deployment and monitoring of the robots. Knowledge of RPA integration with other tools like Splunk for reporting.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Azure knowledge and certification.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Experience with DevOps methodology.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Understanding of intelligent automation and RPA inbuilt AI capabilities</span></h2>\r\n\t</li>\r\n</ul>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"> </span></h2>\r\n</div>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32332461",
-    "time_scraped": 1779754189537,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32332338,
-    "title": "Linux System Administrator",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779250341000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  <span style=\"color:black;\">Linux System Administrator</span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 3 to 5 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.350/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong>\r\n<ul>\r\n\t<li><span style=\"color:black;\">We are seeking a skilled Linux System Administrator with strong expertise in Python and Shell scripting to manage, automate, and optimize our infrastructure and software installation procedures. </span></li>\r\n\t<li><span style=\"color:black;\">The ideal candidate will ensure system reliability, security, and performance while developing automation tools to streamline operations.</span></li>\r\n</ul>\r\n<br />\r\n<span style=\"color:black;\"><strong>Key Responsibilities required:</strong></span><br />\r\n<br />\r\n \r\n<ul>\r\n\t<li><span style=\"color:black;\">Install software&#39;s and setup the configurations and maintain Linux (RHEL7)servers</span></li>\r\n\t<li><span style=\"color:black;\">Monitor system performance, troubleshoot issues</span></li>\r\n\t<li><span style=\"color:black;\">Develop and maintain automation scripts using Python and Shell</span></li>\r\n\t<li><span style=\"color:black;\">Perform regular system updates, OS/DB patch management, and backups</span></li>\r\n\t<li><span style=\"color:black;\">Document processes, configurations, and troubleshooting steps.</span></li>\r\n\t<li><span style=\"color:black;\">Strong knowledge of Linux operating systems and command-line tools</span></li>\r\n\t<li><span style=\"color:black;\">Proficiency in Python programming for automation and system integration.</span></li>\r\n\t<li><span style=\"color:black;\">Expertise in Shell scripting</span></li>\r\n\t<li><span style=\"color:black;\">strong problem-solving and analytical skills</span></li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32332338",
-    "time_scraped": 1779754199199,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32326542,
-    "title": "Azure middleware/platform engineer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779186541000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong>  Azure middleware/platform engineer<br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 7 to 9 years</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Pay Rate-Rs.750/hr</span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">We are looking for a hands-on, experienced implementation lead / lead developer. The primary role will be to independently establish Azure platform for Middleware services.</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">This will include API management, networking, and connectivity to/from Azure/AWS and on Prem.</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">The ideal candidate will balance industry best practise with a practical application tailored to the current client stack.</span><br />\r\n <br />\r\n<strong><span style=\"color:black;\">Must Have :</span></strong><br />\r\n<br />\r\n<br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Ability to setup and manage AKS, Kubernetes / docker and other containerized applications on azure</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Experience in handling security related features such as Key Vault integration, certificate setups</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Experience in building Azure Infrastructure using Azure resource Manager/Terraform</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Comfortable implementing cloud logging systems like Azure Monitor/Any similar tool</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Ability to setup / work with CI/ CD pipelines. Exposure to Jenkins /Harness/Github actions /Azure devops pipeline/ Any similar tool</span><br />\r\n <br />\r\n<strong><span style=\"color:black;\">Nice to have skills</span></strong><br />\r\n<br />\r\n<br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Exposure to serverless computing using Azure Functions</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Experience in APIM.</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Ability to setup and manage testing resources on Azure</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Exposure in networking and connectivity setup including MTLS and token management.</span></div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32326542",
-    "time_scraped": 1779754199510,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32326540,
-    "title": "Java Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779186421000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong>  <span style=\"color:black;\">Java Developer</span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 7 to 9 years</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Pay Rate-Rs.600/hr</span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Candidate must have experience Java coding, springboot, Microservices, algorthims, Datastructure, problem solving, any cloud experience</span></div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32326540",
-    "time_scraped": 1779754199448,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32326319,
-    "title": "Fullstack Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779180703000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span><strong>Job title</strong> : </span><strong><span style=\"font-size:10pt;\">Fullstack Developer</span></strong></h2>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><b>Location : </b>Bangalore, KA</span></h2>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong>Duration : </strong><strong>12 months Job after that it is converted into full time.</strong></span></h2>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><strong>Sector  :</strong><strong> FSS</strong></span></h2>\r\n\r\n<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><b>Rate <strong> : </strong> </b>Rs. 540/hr<br />\r\n<br />\r\n<strong>Job Description</strong> :</span></h2>\r\n\r\n<h2 style=\"font-style: italic; text-align: center;\"><span style=\"font-size:9pt;\"><b>***</b><b> Note - Resource should be available for F2F Interview </b><b>**</b></span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">React is Mandatory ,Java 8, Spring, Spring Boot, Microservices ,JavaScript (React) ,Test Driven Development (JUnit, Relational DB - DB2 / PostGres ,Dev Ops Tools - GitHub, Bitbucket ,</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">AWS Services - IAM, ECS, EC2, S3, Lambda, SQS, SNS, API Gateway, DynamoDB, CloudWatch, Cloud Formation, CodePipeline, ALB, AWS EventBridge, KMS, SSM, parameter store, DynamoDB </span></h2>\r\n\t</li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32326319",
-    "time_scraped": 1779754211984,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32326171,
-    "title": "Service now Architect",
-    "location": "Tamil Nadu, Chennai",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779170235000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\"><span style=\"font-family: verdana\"> </span><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Job title</span></span></strong> : </span><span style=\"font-size:10pt;\"><strong>Service now Architect</strong></span><br />\r\n<span style=\"font-size:9pt;\"><strong>Location : All Over India IBM Locations</strong><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Duration : </span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">12 months Job after that it is converted into full time.</span></span></strong><br />\r\n<strong>Shift Requirement: </strong>3:00 PM to 12:00 AM IST<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\">Sector  :</span></span></strong><strong><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"> ISA</span></span></strong><br />\r\n<strong><span style=\"color:black;\">Rate <strong><span style=\"font-family:Calibri,sans-serif;\"> : </span></strong></span> </strong><span style=\"color:black;\">Rs. 750/hr</span><br />\r\n<br />\r\n<span style=\"color:black;\"><strong><span style=\"font-family:Calibri,sans-serif;\">Job Description</span></strong></span> :<br />\r\n<br />\r\n<span style=\"color:black;\"><strong>***</strong></span><strong> Note - Resource should be available for F2F Interview </strong><strong><span style=\"color:black;\">***</span></strong><br />\r\n </span></h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Strategic Solution Leadership and Architecture</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Lead the technical solutioning process for all Service Now projects, ensuring alignment with business objectives, architectural standards, and the overall Service Now strategy.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Define and communicate a clear architectural vision and roadmap for the Service Now platform, ensuring alignment with Highmark Health&#39;s enterprise strategy.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Establish and enforce architectural standards, governance policies, and development best practices.</span></h2>\r\n\t</li>\r\n\t<li>\r\n\t<h2 style=\"font-style:italic;\"><span style=\"font-size:9pt;\">Lead the end-to-end design of scalable, resilient, and high-performing Service Now solutions,</span></h2>\r\n\t</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Ajith Kumar",
-      "ajithk@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32326171",
-    "time_scraped": 1779754212121,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32323616,
-    "title": "Project Manager",
-    "location": "VA, Richmond",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/18/2026",
-      "date_posted": 1779128041000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div> <span style=\"font-family: verdana\"> <span style=\"font-size: 12px\">  </span> </span> <strong> Role: Project Manager<br /> \r\nLocation: Richmond, VA (Onsite)<br /> \r\nDuration: 6&plus; Month<br /> \r\ntype: contract</strong><br /> \r\n<br /> \r\nCandidate will need to be ON SITE at DBHDS Central Office min 1-2 days on site.<br /> \r\nParking will be in public lots with a daily rate (cost to be incurred by candidate).<br /> \r\n <br /> \r\n<strong> Job description:</strong>\r\n<ul> \r\n\t<li> The Senior PM will be responsible for Implementing the Network technology, and plan for the installation of technology/be able to work in a program mgmt setting delivering services for multiple work streams.</li> \r\n\t<li> Standard MS project /office tools.</li> \r\n\t<li> Central State Hospital (CSH) is constructing a new Behavioral Health Hospital housing 141 Civil Beds and 111 Maximum Security Beds (252 Total).</li> \r\n\t<li> Our HIRM Davis Facility currently houses Lab, Pharmacy, Radiology, Dental and Physical Therapy which will transition operations to the new CSH.</li> \r\n\t<li> Move in date is currently being discussed and is planned for June 2027.</li> \r\n\t<li> A comprehensive plan is required to transition to the new hospital and involves complex operational, clinical, technical, regulatory, logistical considerations and requires early alignment between executive leadership, the project management team and project stakeholders.</li> \r\n\t<li> PM will be responsible for successfully planning, organizing, and motivating diverse project teams to deliver throughout all phases of the project.</li> \r\n\t<li> The PM must have experience in implementing a new facility, planning for installation of a new Network technology and familiar with Move/relocation of a facility.</li> \r\n\t<li> The PM will oversee the work a Business System Analysts, the IT Director for the CSH.</li> \r\n\t<li> VITA network team is the reviewer and approver of a Network Solution and support build of a Bill of Materials (BOM) to support the IT Director at CSH.</li> \r\n\t<li> Familiarity with Building a Network Build of Material (BOM) is preferred for the ideal candidate, with the support of the Business System Analyst and IT Director.<br /> \r\n\tOversee requirements gathering and review / acceptance by IT Network team.</li> \r\n\t<li> Assist in team development while holding teams accountable for their commitments and removing roadblock.</li> \r\n\t<li> Manage working relationships with key stakeholders, including executive management, business management, project sponsors, and technology management.</li> \r\n\t<li> Lead and coordinate the scoping, technical requirements gathering, estimating and planning for single or multiple work-streams.</li> \r\n\t<li> Set project goals that are consistent with technical objectives and the agency's overall technology strategy.</li> \r\n\t<li> Manage deadlines and push the team to ensure timeliness.</li> \r\n\t<li> Facilitates resolution of technical issues.</li> \r\n\t<li> Track and communicate a project's progress from a schedule, cost, and risk perspective to the project team, customers, and project stakeholders.</li> \r\n\t<li> Collaborate with Business Owners, support Deployment of Technology attached to the network, incorporate agency best practices into project plans.</li> \r\n\t<li> Drive consistent project delivery through the entire project lifecycle, including execution of procurements, definition of project plans, resource allocation, management of project risks, scope, and schedule, delivery of value, and well-ordered transitions to operations.</li> \r\n\t<li> Adhere to DBHDS & VITA project management practices and governance requirements.</li> \r\n\t<li> Additional responsibilities as assigned.</li> \r\n\t<li> Because of the size and criticality of the Hospital, strong budget and risk management skills are required to meet funding reporting and VITA oversight requirements.</li> \r\n</ul> \r\n<strong> Required Skills:</strong>\r\n\r\n<ul> \r\n\t<li> Active PMP-certified required:</li> \r\n\t<li> 10 years experience as a PM overall:</li> \r\n\t<li> Prior por current exp with IT Network Buildout (new Facility Build) at least 1 project of this type:</li> \r\n\t<li> Experience managing Multi-workstream projects:</li> \r\n\t<li> Experience engaging with Senior IT Leadership (CIO, CTO, etc):</li> \r\n\t<li> Resource will agree to obtain VITA PMDP qualification within 2 weeks of starting (no fee or cost to the contractor for this test):</li> \r\n\t<li> Exp with Facility IT Project Management:</li> \r\n\t<li> Exp with Data Ctr migrations a</li> \r\n</ul> \r\n</div> \r\n",
-    "recruiter": [
-      "Prakash SP",
-      "Prakash@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32323616",
-    "time_scraped": 1779754212138,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32320650,
-    "title": "Java Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/18/2026",
-      "date_posted": 1779107782000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong>  <span style=\"color:black;\">Java Developer</span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 3 to 5 years</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Pay Rate-Rs.300/hr</span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Candidate must have experience Java coding, springboot, Microservices, algorthims, Datastructure, problem solving, any cloud experience</span><br />\r\n ",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32320650",
-    "time_scraped": 1779754221864,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32320605,
-    "title": "Salesforce Marketing Data Cloud Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/18/2026",
-      "date_posted": 1779107221000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Job Title:</span></span></strong>  <span style=\"color:black;\">Salesforce Marketing Data Cloud Developer</span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 5 to 7 years</span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10pt;\">Pay Rate-Rs.700/hr</span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Data Ingestion - Data Stream configuration (API, Other connectors)</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Setting up Identity Resolution rule set</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Creating segments and Activations</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Integration with MCE and other</span><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Symbol;\">&middot;         </span></span><span style=\"color:black;\">Data mapping while creating DLOs and DMO</span></div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32320605",
-    "time_scraped": 1779754221625,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32319808,
-    "title": "Python Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/18/2026",
-      "date_posted": 1779093757000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  <span style=\"color:black;\">Python Developer</span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 5 to 7 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.465/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong><br />\r\n<span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11.0pt;\">Python (3.x), Experience with CI/CD tools (e.g., Jenkins, GitHub Actions, Kafka.</span></span></span></div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32319808",
-    "time_scraped": 1779754221574,
-    "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
-    "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32319608,
-    "title": "Power BI Developer",
-    "location": "Karnataka, Bangalore",
-    "experience": {
-      "experience": -1
-    },
-    "posted": {
-      "date_postedStr": "5/18/2026",
-      "date_posted": 1779078313000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><span style=\"font-family: verdana\"><span style=\"font-size: 12px\"> </span></span><strong><span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></span></strong>  Power BI Developer<br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"><strong>Location:</strong> Bangalore, Karnataka (onsite)<br />\r\n<strong>Total Experience</strong>: 7 to 9 years</span></span></span><br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Mode of Interview</span></span></span></strong><span style=\"color:black;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">: Face to Face (Mandatory)</span></span></span><br />\r\n<span style=\"color:#222222;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Pay Rate-Rs.980/hr</span></span></span><br />\r\n<strong><span style=\"color:black;\">Job Description:</span></strong>\r\n<ul>\r\n\t<li><span style=\"color:black;\">Data Visualization &amp; Reporting Design, develop, and maintain interactive and static dashboards using Power BI.</span></li>\r\n\t<li><span style=\"color:black;\">Translate business requirements into intuitive and actionable visualizations.</span></li>\r\n\t<li><span style=\"color:black;\">Integrate data from multiple sources including Snowflake, SQL Server, Oracle and Cognos. </span></li>\r\n\t<li><span style=\"color:black;\">Data Engineering &amp; Ingestion Develop and optimize ETL workflows to support reporting and analytics needs. </span></li>\r\n\t<li><span style=\"color:black;\">Data Analysis &amp; Modeling Perform deep-dive analysis to uncover trends, patterns, and insights. </span></li>\r\n\t<li><span style=\"color:black;\">Write complex SQL queries for data extraction, transformation, and validation. </span></li>\r\n\t<li><span style=\"color:black;\">Collaborate with data advisers to design robust data models in Snowflake Data Governance &amp; Documentation Ensure data quality, integrity, and compliance with governance standards. </span></li>\r\n\t<li><span style=\"color:black;\">Document data flows, dashboard logic, and pip&quot;</span></li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Ashok Kumar NGL",
-      "ashoks@cresconsultancy.com",
-      "7323052858"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32319608",
-    "time_scraped": 1779754228463,
+    "url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0&SearchString=#/jobs/32526089",
+    "time_scraped": 1782977170887,
     "source_company": "xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn",
     "source_url": "https://www1.jobdiva.com/portal/?a=xejdnw91lqd2it1jrqxtmfi07othmx00c4ja100h06yknv85iac8i2omnpu27wnn&compid=0",
     "date_cutoff_days": 15

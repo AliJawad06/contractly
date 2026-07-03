@@ -1,80 +1,14 @@
 [
   {
-    "id": 32397040,
-    "title": "Database Administrator 2",
+    "id": 32535600,
+    "title": "Software Developer 3",
     "location": "TX, Austin",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "6/3/2026",
-      "date_posted": 1780505400000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<h1><strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Database Administrator 2&nbsp;</span></span></strong><br />\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Client:</span></span></strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\"> Texas Health and Human Services Commission</span></span><br />\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Duties and Responsibilities</span></span></strong></h1>\r\n\r\n<ol>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Supports the installation of database software and migrations to new data management system software levels, and tests the migrations to ensure data reliability and functionality.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Analyzes, designs, modifies, and maintains database structures.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Designs and implements procedures necessary to save, retrieve, and recover databases from hardware and software failures.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Establishes and implements database security controls and user access levels.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Evaluates and recommends database software packages for potential acquisition.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Prepares and develops database documentation, procedures, and definitions for data.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">dictionaries.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Performs logical and physical data modeling, designs relational database models, and creates physical data models from logical data models.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Performs database performance monitoring and implements efficiency improvements.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Assists in modifying existing databases and database management systems.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Assists in developing standards, guidelines, policies, and procedures designed to ensure the integrity of the database environment.</span></span></li>\r\n</ol>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Required</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Strong knowledge of database management systems, as well as data warehouse management and decision support tools</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Extensive experience in the development, implementation and maintenance of data warehouses and data marts is desired</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Experience in business objects and in building the data dictionary</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Ability to use data base access tools for application delivery</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Strong familiarity with analysis, planning and management reporting functions</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Well-developed oral and written communications skills</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Strong teamwork and interpersonal skills</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Extremely high level of analytical ability where problems are very unusual and extremely difficult</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Understanding of benchmarking processes and techniques</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Very high level of interpersonal skills to work effectively with others, motivate employees, and elicit work output</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Data Warehousing data population and data modeling techniques for target structures such as Star Schemas, Snowflake Schemas, and highly normalized data models</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - GUI based ETL tools such as Informatica, IBM WebSphere DataStage, or similar tools.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Implementation experience with enterprise class databases e.g. Teradata, Oracle, SQL Server, etc. or similar technologies.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Implementation experience with analytical and reporting tools e.g. Business Objects, Cognos, Hyperion, MicroStrategy or similar tools.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Experience with data warehouse implementation process, from business requirements through logical modeling, physical database design, data sourcing and data transformation, data loading, Structured Query Language (SQL), end-user tools, database and SQL.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Implementation experience with analytical and reporting tools e.g. Business Objects, Cognos, Hyperion, MicroStrategy or similar tools.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Excellent analytical; problem-solving; team playing; and oral and written communication skills.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Proven ability to work successfully with technical and non-technical groups and manage multiple responsibilities.</span></span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Preferred</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - Oracle Database experience</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years - SSRS report creation</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">1 year - M204 database experience</span></span></li>\r\n</ul>\r\n\r\n<h1>&nbsp;</h1>\r\n\r\n<ul data-spread=\"false\">\r\n</ul>\r\n",
-    "recruiter": [
-      "Caitlin Adair Schenk",
-      "caitlin@millgroupusa.com",
-      "5125510641"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32397040",
-    "time_scraped": 1780516132982,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32390640,
-    "title": "QA Engineer Automated 3",
-    "location": "TX, Austin",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780436940000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<div>\r\n<h1><strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">QA Engineer Automated 3 &ndash; Texas Health and Human Services Commission (HHSC)</span></span></strong><br />\r\n<br />\r\n<span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">QA automation engineers design automated tests by creating scripts that run testing functions automatically. This includes determining the priority for test scenarios and creating execution plans to implement these scenarios. Designing documentation for automated processes.</span></span><br />\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Duties and Responsibilities</span></span></strong></h1>\r\n\r\n<ol>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Coordinates and/or performs work on programming projects including those that are highly complex in nature and/or large in scale.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Coordinates and/or writes test plans and test data.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Writes complex software code and debugs software.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Analyzes proposed applications for software regression suites</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Analyzes, reviews, and revises software to increase operating efficiency or to adapt new</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">procedures.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Prepares detailed analyses, plans, diagrams, and verification procedures for existing and proposed applications.</span></span></li>\r\n</ol>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Required</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years &ndash; Experience with designing automated tests by creating scripts that run testing functions automatically</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years &ndash; Experience in prioritizing test scenarios and creating execution plans to implement these scenarios</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years &ndash; Experience in creating test plans, test cases, and preparing test environments</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years &ndash; Experience in performing moderately complex functional, application, and regression testing</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years&ndash; Knowledge of the software development life cycle and software development methodologies</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years&ndash; Able to interpret requirement documents and able to update test documents accordingly</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years&ndash; Strong familiarity with analysis, planning and management reporting functions</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years&ndash; Acquires knowledge of the Customer&#39;s business in assigned area</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years &ndash; Strong teamwork and interpersonal skills</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years&ndash; Able to work with Customer as needed during test cycle</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years &ndash; Excellent analytical; problem-solving; team playing; and oral and written communication skills</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">8 years &ndash; Proven ability to work successfully with technical and non-technical groups and manage multiple responsibilities</span></span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Preferred</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years&ndash; Experience with Texas DIR Project Delivery Framework and document templates</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years &ndash; Familiarity with company&#39;s information architecture and information management methodologies</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years &ndash; Familiarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components</span></span></li>\r\n</ul>\r\n\r\n<h1>&nbsp;</h1>\r\n\r\n<ul data-spread=\"false\">\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Caitlin Adair Schenk",
-      "caitlin@millgroupusa.com",
-      "5125510641"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32390640",
-    "time_scraped": 1780516132965,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32394066,
-    "title": "Software Developer 2",
-    "location": "TX, Austin",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780436760000
+      "date_postedStr": "7/1/2026",
+      "date_posted": 1782931440000
     },
     "start": {
       "start_dateStr": null,
@@ -86,193 +20,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<p><strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Software Developer 2</span></span></strong><br />\r\n<span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\"><strong>Texas Health and Human Services Commission</strong></span></span><br />\r\n<br />\r\n<strong><span style=\"font-family:Times New Roman,serif;\">Additional Job Details and Special Considerations</span></strong></p>\r\n\r\n<ol>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Designs, codes and modifies complex computer programs, subroutines, triggers, stored procedures, objects, classes and scripts using Angular, C#, ASP.net, and Oracle Database. Performs necessary testing of assigned programs, including the generation of test data, writing test scripts/execution sequences, examining test results, debugging detected errors, etc. Uses current software development methods/techniques and established development standards (which include programming standards, documentation standards and testing standards) to ensure the quality and maintainability of applications. Participates in code reviews to ensure compliance with development standards and system/business requirements. (35%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Works with trainers, technical support staff, network specialists and contract staff to perform modifications and/or updates to existing systems or to implement new systems. Identifies, investigates and resolves production problems. This may include analyzing problems, coding, testing, implementing and training of other technical staff and/or customers. (25%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Analyzes requirements for new applications/enhancements to be implemented in the division. (10%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Works with a software development team. Communicates with other team members to coordinate development efforts. Provides development status to the team leader or project manager. (20%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Assists in the development and maintenance of systems documentation. (10%)</span></span></li>\r\n</ol>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Required</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years&rsquo; Experience in computer programming, analysis and development of complex business processes and system solutions</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years&rsquo; Experience in coding, testing, and debugging programs that are in development and/or requiring support for issue resolution, performance or enhancement</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years&rsquo; Ability to process information logically; to design programs and systems logic; to prepare program specifications.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years-Highly developed oral and written communications skills</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years-High level of interpersonal skills to work effectively with others motivate employees and elicit work output</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years -Knowledge and understanding of Information Technology industry trends, directions and market experience; ability to relate them to own organization</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years -Knowledge of architectural concepts, principles, and tools relevant to infrastructure, information, applications, organizational structure, etc.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years - Knowledge of emerging technologies (new to company systems as well as those that are new to the information systems industry)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years - Knowledge of tools, techniques and good practices for protecting the integrity of corporate data and associated processing, company technology practices, standards and procedures</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">7 years- Knowledge of solution delivery utilizing Agile or Scrum methodology</span></span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Preferred</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years Familiarity with company&#39;s information architecture and information management methodologies</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years Familiarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components</span></span></li>\r\n</ul>\r\n\r\n<ul data-spread=\"false\">\r\n</ul>\r\n",
+    "description": "<div>Software Developer 3 / Full Stack Developer<br />\r\n&nbsp;<br />\r\nWe are seeking a senior Full Stack Software Developer to support enterprise application development, reporting solutions, cloud-based integrations, and legacy system modernization for a Texas public-sector client.<br />\r\n&nbsp;<br />\r\nThis role will be responsible for designing, developing, enhancing, testing, deploying, and supporting secure, scalable applications using .NET Core, C#, React JS, SQL Server, Oracle, Power BI, and Azure. The developer will work closely with business stakeholders, architects, analysts, and IT teams in an Agile environment.<br />\r\n&nbsp;<br />\r\nResponsibilities include:<br />\r\nDesign, develop, and maintain enterprise applications using .NET Core, C#, React JS, JavaScript, HTML, and CSS.<br />\r\nBuild and support backend services, APIs, and frontend web applications.<br />\r\nDevelop and optimize SQL Server databases, stored procedures, views, functions, and queries.<br />\r\nPerform Oracle data migration and support legacy system modernization.<br />\r\nDevelop Power BI dashboards, reports, paginated reports, and data transformations.<br />\r\nSupport cloud-based application development, deployment, monitoring, and security using Azure or similar cloud platforms.<br />\r\nTroubleshoot production issues across the full technology stack.<br />\r\nUse CI/CD pipelines, Git, and DevOps tools for automated builds, testing, and deployments.<br />\r\nCollaborate with business and technical teams to translate requirements into technical solutions.<br />\r\n&nbsp;<br />\r\nRequired Skills:<br />\r\n11+ years of full stack development experience using .NET Core, C#, React JS, JavaScript, HTML, and CSS.<br />\r\n11+ years of SQL Server experience, including data modeling, query optimization, and performance tuning.<br />\r\n11+ years of Oracle experience, including Oracle data migration.<br />\r\n11+ years of Power BI experience, including dashboards, paginated reports, and data transformations.<br />\r\n11+ years of hands-on cloud platform experience, Azure preferred.<br />\r\n11+ years of CI/CD, Git, and DevOps tools experience.<br />\r\n11+ years of experience converting legacy applications to web-based solutions.<br />\r\nKnowledge of accessibility standards, including Section 508.<br />\r\nStrong analytical, problem-solving, communication, and collaboration skills.<br />\r\n&nbsp;<br />\r\nPreferred Skills:<br />\r\nExperience supporting government, healthcare, public sector, or regulated environments.<br />\r\nExperience working with Texas state agencies.<br />\r\nExperience with Agile/Scrum methodologies, sprint planning, backlog refinement, and release activities.<br />\r\nBachelor&rsquo;s degree in Computer Science, Information Systems, Business, or a related field preferred.<br />\r\nPossible extension to FY27.<br />\r\n&nbsp;</div>\r\n",
     "recruiter": [
       "Frank Weskamp",
       "frank@millgroupusa.com",
       "5125510628"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32394066",
-    "time_scraped": 1780516132945,
+    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32535600",
+    "time_scraped": 1782971613233,
     "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
     "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
     "date_cutoff_days": 15
   },
   {
-    "id": 32389969,
-    "title": "Systems Analyst 2",
-    "location": "TX, Austin",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780436520000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<div>\r\n<h1><strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Systems Analyst 2 &ndash; Texas Health and Human Services Commission (HHSC)</span></span></strong><br />\r\n<br />\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Duties and Responsibilities</span></span></strong></h1>\r\n\r\n<ol>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Assists in development of project documentation based on HHSS/DIR requirements. Assists in the development of application on-line help. Conducts requirements gathering with non-technical Subject Matter Experts to understand business process needs and program requirements to create Use Cases, flow charts, acceptance criteria and other documentation needed for system enhancements. Analyzes new and existing business processes to determine how modifications and changes will impact the system. Will serve as a technical expert responsible for working with non-technical and technical stakeholders to ensure clear and effective communication is maintained throughout the Software Development Life Cycle. (30%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Ensures that design complies with HHSS standards (5%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Performs necessary testing of assigned programs, including the generation of test data, writing test scripts/execution sequences, examining test results, debugging detected errors, etc. Uses current software development methods/techniques and established development standards (which include testing standards) to ensure the quality and maintainability of applications. (25%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Provide status reports on enhancement activities and resolution of issues impacting system. Notify immediate manager and technical lead of critical issues impacting the system&#39;s ability to deliver services as designed. Attends regular status meetings to update team members such as developers, business analysts, database administrators and project managers on progress of assigned work. Regularly updates assignments through the use of a ticketing system allowing for the sharing of information with project team members. Provides information to non-technical and technical staff via email, telephone and formal presentations covering such topics as system functionality, data collection processes and other technical issues as needed. Audiences for these communications would be both internal business groups and external entities to the agency including governmental organizations as well as contract service providers. (25%)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Facilitate information sharing to ensure knowledge transfer and the elimination of single points of failure for an information system. This will be done through one-on-one discussions, group sessions to review system documentation, preparation of documentation illustrating system architecture, workflows and dependencies for project deliverables. Update immediate supervisor, other management team members and system stakeholders as needed regarding recommended implementation strategies and solutions. (15%)</span></span></li>\r\n</ol>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Required</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Experience with Medicaid Claims Processing</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years- Experience in business objectives and problems and identifying alternative solutions</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Experience in reviewing, analyzing, and evaluating user requirements, operational procedures, and problems to automate processing and/or to improve existing computer systems</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Experience in writing detailed descriptions of user needs, program functions, and steps required to develop and/or modify computer program</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Experience in cost/benefit analysis of systems and alternatives</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years &ndash; Experience in analyzing and documenting input and output requirements, such as forms of data input, how data is to be summarized, and formats for reporting.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Experience with Azure DevOps and generation of wireframes</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years &ndash; High level of sound logic and analytical ability difficult</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Highly developed oral and written communications skills</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years -High level of interpersonal skills to work effectively with others motivate employees and elicit work output</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Knowledge and understanding of Information Technology industry trends, directions and market experience; ability to relate them to own organization</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years Knowledge of architectural concepts, principles, and tools relevant to infrastructure, information, applications, organizational structure, etc.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years &ndash; Knowledge of emerging technologies (new to company systems as well as those that are new to the information systems industry)</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years &ndash; Knowledge of tools, techniques and good practices for protecting the integrity of corporate data and associated processing, company technology practices, standards and procedures</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">5 years&ndash; Knowledge of solution delivery utilizing Agile or Scrum methodology</span></span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Preferred</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years&ndash; Experience with Texas DIR Project Delivery Framework and document templates</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years&ndash; Familiarity with company&#39;s information architecture and information management methodologies</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">2 years&ndash; Familiarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components</span></span></li>\r\n</ul>\r\n\r\n<h1>&nbsp;</h1>\r\n\r\n<ul data-spread=\"false\">\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Katie Elliott",
-      "katie@millgroupusa.com",
-      "5122981736"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32389969",
-    "time_scraped": 1780516143229,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32394822,
-    "title": "Graphic/Media Designer",
-    "location": "NC, SAT/Charlotte/Remote",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780419420000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><strong><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:12.0pt;\">Graphic / Media Designer</span></span></strong><br />\r\n<br />\r\n<strong><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:12.0pt;\">Overview</span></span></strong><br />\r\n<span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">We are seeking a <strong>Graphic / Media Designer</strong> who excels at transforming complex ideas into <strong>clear, compelling visual stories</strong>. This role supports executive-level stakeholders by creating polished, professional visuals that communicate technical and strategic concepts in a simple, engaging way.</span></span><br />\r\n<span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">This is not a traditional marketing or print design role; the focus is <strong>digital storytelling, presentations, and conceptual design</strong> for an internal corporate audience.</span></span><br />\r\n<br />\r\n<strong><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:12.0pt;\">Key Responsibilities</span></span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Translate complex concepts (including technical and risk-related topics) into clear visual narratives</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Build storyboards, presentations, and infographics&mdash;primarily using PowerPoint</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Create executive-ready visuals for leadership and senior stakeholders</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Partner with internal teams to interpret ideas and convert them into structured visual outputs</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Manage competing priorities in a fast-paced, deadline-driven environment</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Deliver both planned and urgent, last-minute requests with high quality and precision </span></span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:12.0pt;\">Required Qualifications</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Proven ability to create <strong>visual storytelling artifacts</strong> (storyboards, infographics, presentations)</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Strong portfolio demonstrating: </span></span>\r\n\t<ul>\r\n\t\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Clean, professional design style</span></span></li>\r\n\t\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Clear alignment between visuals and messaging</span></span></li>\r\n\t\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Business-focused, narrative-driven outputs</span></span></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Experience designing <strong>digital content (not print-heavy work)</strong></span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Strong written communication and ability to interpret abstract ideas</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Ability to work independently with minimal supervision in a dynamic environment</span></span></li>\r\n</ul>\r\n<strong><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:12.0pt;\">Preferred Qualifications</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Exposure to technology, AI, or innovation-related topics</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Experience in financial services, risk, or compliance environments</span></span></li>\r\n\t<li><span style=\"font-family:Segoe UI,sans-serif;\"><span style=\"font-size:10.5pt;\">Awareness of current technology trends (functional knowledge, not hands-on development) </span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n&nbsp;<br />\r\n&nbsp;</div>\r\n",
-    "recruiter": [
-      "Frank Weskamp",
-      "frank@millgroupusa.com",
-      "5125510628"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32394822",
-    "time_scraped": 1780516143215,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32389981,
-    "title": "QA Engineer Automated 3",
-    "location": "TX, Austin",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780406520000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<span style=\"font-family:Calibri,sans-serif;\">QA Engineer Automated 3</span><br />\r\n<br />\r\n<span style=\"font-family:Calibri,sans-serif;\">Client requires the services of 1 QA Engineer Automated 3, hereafter referred to as Candidate(s), who meets the general qualifications of QA Engineer Automated 3, Quality Assurance (QA) and Testing and the specifications outlined in this document for Client.</span><br />\r\n<br />\r\n<span style=\"font-family:Calibri,sans-serif;\">All work products resulting from the project shall be considered &quot;works made for hire&quot; and are the property of Client and may include pre-selection requirements that potential Vendors and their Candidates submit to and satisfy criminal background checks as authorized by applicable law. Client will pay no fees for interviews or discussions, which occur during the process of selecting a Candidate(s).</span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\">Client requires the services of 1 QA Engineer Automated 3, hereafter referred to as Worker, who meets the general qualification of QA Engineer Automated 3 and the specifications outlined in this document for the above-named customer.</span><br />\r\n<br />\r\n<span style=\"font-family:Calibri,sans-serif;\">QA automation engineers design automated tests by creating scripts that run testing functions automatically. This includes determining the priority for test scenarios and creating execution plans to implement these scenarios. Designing documentation for automated processes.</span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\">&bull; Design and execute test plans and test cases for database applications.<br />\r\n&bull; Perform functional, performance, and regression testing on various databases.<br />\r\n&bull; Identify, document, and report defects and issues found during testing.<br />\r\n&bull; Work with development and database administration teams to resolve issues.<br />\r\n&bull; Develop and maintain automated scripts for database testing.<br />\r\n&bull; Ensure data integrity and consistency across various database systems.<br />\r\n&bull; Monitor database performance and provide recommendations for optimization.<br />\r\n&bull; Collaborate with stakeholders to gather testing requirements and objectives.</span><br />\r\n<br />\r\n<span style=\"font-family:Calibri,sans-serif;\">Minimum Requirements:</span><br />\r\n<span style=\"font-family:Calibri,sans-serif;\">&bull; 8 Required Experience with designing automated tests by creating scripts that run database testing functions automatically<br />\r\n&bull; 8 Required Experience in prioritizing test scenarios and creating execution plans to implement these scenarios<br />\r\n&bull; 8 Required Experience in creating test plans, test cases, and preparing test environments<br />\r\n&bull; 8 Required Experience in performing moderately complex functional, application, and regression testing<br />\r\n&bull; 8 Required Knowledge of the software development life cycle and software development methodologies<br />\r\n&bull; 8 Required Able to interpret requirement documents and able to update test documents accordingly<br />\r\n&bull; 8 Required Strong familiarity with analysis, planning and management reporting functions<br />\r\n&bull; 8 Required Acquires knowledge of the Customer&#39;s business in assigned area<br />\r\n&bull; 8 Required Strong teamwork and interpersonal skills<br />\r\n&bull; 8 Required Able to work with Customer as needed during test cycle<br />\r\n&bull; 8 Required Excellent analytical; problem-solving; team playing; and oral and written communication skills<br />\r\n&bull; 8 Required Proven ability to work successfully with technical and non-technical groups and manage multiple responsibilities<br />\r\n&bull; 2 Preferred Experience with Client Project Delivery Framework and document templates<br />\r\n&bull; 2 Preferred Familiarity with company&#39;s information architecture and information management methodologies<br />\r\n&bull; 2 Preferred Familiarity with the existing and planned software technology and the global, regional and local software architecture and infrastructure components</span><br />\r\n&nbsp;<br />\r\n&nbsp;<br />\r\n&nbsp;<br />\r\n&nbsp;",
-    "recruiter": [
-      "Chrissie Ortenzio",
-      "chrissie@millgroupusa.com",
-      "2108993196"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32389981",
-    "time_scraped": 1780516143215,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32394004,
-    "title": "QA / Testing (Functional / Automation) - Sr. QA / Tester",
-    "location": "TX, Remote",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "6/2/2026",
-      "date_posted": 1780403460000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<h2>Digital Optimization Testing Analyst</h2>\r\n\r\n<p>We are seeking a Digital Optimization Testing Analyst to support website and app experimentation, including A/B and multivariate testing. This role partners with business, analytics, and technology teams to define testing requirements, develop hypotheses, launch experiments, monitor performance, and deliver recommendations that improve digital customer experiences.</p>\r\n\r\n<h3>Key Responsibilities</h3>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Partner with stakeholders to define digital testing needs, business goals, hypotheses, and success metrics.</li>\r\n\t<li>Develop test plans and strategies for web/app optimization opportunities.</li>\r\n\t<li>Manage multiple tests at various stages, from intake and planning through launch, monitoring, analysis, and recommendation.</li>\r\n\t<li>Launch and manage experiments using Optimizely, Adobe Target, or a similar testing platform.</li>\r\n\t<li>Use Adobe Analytics, Google Analytics, or similar tools to build reports, analyze test performance, and interpret results.</li>\r\n\t<li>Provide weekly test updates, final analysis, lift reporting, and business recommendations.</li>\r\n\t<li>Partner with technical teams to assess feasibility, gather technical specs, and understand platform capabilities.</li>\r\n</ul>\r\n\r\n<h3>Required Qualifications</h3>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>6+ years of experience in business, digital, analytics, or technical roles involving quantitative and qualitative analysis.</li>\r\n\t<li>Hands-on experience leading A/B and multivariate testing for websites, apps, or digital experiences.</li>\r\n\t<li>4+ years of experience with Optimizely, Adobe Target, or a similar experimentation platform.</li>\r\n\t<li>4+ years of experience with Adobe Analytics, Google Analytics, or similar digital analytics tools.</li>\r\n\t<li>Ability to build reports, analyze raw data, and translate testing results into clear business recommendations.</li>\r\n\t<li>Basic understanding of HTML, CSS, and JavaScript.</li>\r\n\t<li>Strong stakeholder management skills and comfort working in a large, matrixed environment.</li>\r\n\t<li>Experience using workflow tools such as Jira or similar.</li>\r\n</ul>\r\n\r\n<h3>Preferred Qualifications</h3>\r\n\r\n<ul data-spread=\"false\">\r\n\t<li>Optimizely experience.</li>\r\n\t<li>Adobe Analytics experience.</li>\r\n\t<li>Glassbox or similar digital experience analytics/session replay tool experience.</li>\r\n\t<li>Financial services, insurance, banking, or large enterprise experience.</li>\r\n\t<li>Familiarity with statistical significance, lift, confidence levels, sample size, and test validity.</li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Caitlin Adair Schenk",
-      "caitlin@millgroupusa.com",
-      "5125510641"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32394004",
-    "time_scraped": 1780516152809,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32376554,
-    "title": "Presentation Designer",
-    "location": "AZ, Phoenix",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/29/2026",
-      "date_posted": 1780089900000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "&nbsp;<br />\r\n&nbsp;We are seeking a Presentation Designer for a client in Phoenix.<br />\r\n&nbsp;<br />\r\n<u>Job Description:</u><br />\r\n<br />\r\nDevelop high-profile, powerful presentations.<br />\r\nEnsure all information is accurate and aligned to internal branding processes/procedures.<br />\r\nCollaborate with other internal stakeholders to deliver presentations within applicable compliance guidelines.<br />\r\n&nbsp;<br />\r\n<u>Requirements:</u><br />\r\n<br />\r\n4 years of executive level presentation experience<br />\r\nHighly organized<br />\r\nAbility to design presentations for story telling<br />\r\nCorporate experience<br />\r\nFinancial, Insurance or Military background highly preferred<br />\r\nMS Office proficiency including PowerPoint<br />\r\n<br />\r\n<br />\r\n&nbsp;",
-    "recruiter": [
-      "Katie Elliott",
-      "katie@millgroupusa.com",
-      "5122981736"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32376554",
-    "time_scraped": 1780516152523,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32378339,
-    "title": "Administrative Assistant",
+    "id": 32527769,
+    "title": "Recruiter Sr",
     "location": "TX, San Antonio",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "5/29/2026",
-      "date_posted": 1780081669000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782852660000
     },
     "start": {
       "start_dateStr": null,
@@ -284,193 +53,28 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "We are seeking an Administrative Assistant / Office Manager for a client in San Antonio, Texas!&nbsp;<br />\r\n100% in office role.&nbsp;<br />\r\n&nbsp;<br />\r\nResponsibilities:&nbsp;<br />\r\nOverseeing orders of supplies<br />\r\nWorking on spreadsheets<br />\r\nReporting onto excel<br />\r\nManaging the day to day needs of employees<br />\r\n&nbsp;<br />\r\nMinimum Education:<br />\r\nHigh School Diploma or General Equivalency Diploma Required.<br />\r\n&nbsp;<br />\r\nMinimum Experience:<br />\r\n1 year of office management experience&nbsp;<br />\r\nUp to 1 year related experience to include multi-tasking in a fast-paced and complex business environment required.<br />\r\n&nbsp;\r\n",
-    "recruiter": [
-      "Chrissie Ortenzio",
-      "chrissie@millgroupusa.com",
-      "2108993196"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32378339",
-    "time_scraped": 1780516152991,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32371486,
-    "title": "Program Manager Lead",
-    "location": "TX, SAT/Plano",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/28/2026",
-      "date_posted": 1780004940000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong><span style=\"font-size:12.0pt;\">Program Manager Lead</span></strong><br />\r\n<br />\r\nThis role ensures that complex, cross‑functional work comes together seamlessly across dozens of systems, teams, and delivery streams. You will own program‑level orchestration, delivery governance, dependency management, and operational rigor at scale.<br />\r\n<br />\r\n<strong>Key Responsibilities:</strong><br />\r\n<br />\r\n<strong>Cross‑Functional Delivery Orchestration</strong>\r\n<ul>\r\n\t<li>Coordinate delivery across:\r\n\t<ul>\r\n\t\t<li>Technology</li>\r\n\t\t<li>Analytics</li>\r\n\t\t<li>Marketing</li>\r\n\t\t<li>Lines of Business (LOBs)</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Ensure all teams are aligned to shared milestones, dependencies, and release plans.</li>\r\n</ul>\r\n<strong>Program Roadmap &amp; Dependency Management</strong>\r\n\r\n<ul>\r\n\t<li>Manage execution of the end‑to‑end program roadmap.</li>\r\n\t<li>Identify, track, and resolve dependencies across channels, platforms, and workstreams.</li>\r\n\t<li>Maintain a clear, predictable delivery path for high‑visibility initiatives.</li>\r\n</ul>\r\n<strong>Governance &amp; Operating Cadence</strong>\r\n\r\n<ul>\r\n\t<li>Establish and run a scaled operating cadence that supports consistent, repeatable delivery.</li>\r\n\t<li>Lead delivery governance, including:\r\n\t<ul>\r\n\t\t<li>Intake</li>\r\n\t\t<li>Prioritization</li>\r\n\t\t<li>Release planning</li>\r\n\t\t<li>Cross‑team alignment</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Program Health &amp; Reporting</strong>\r\n\r\n<ul>\r\n\t<li>Track and report on:\r\n\t<ul>\r\n\t\t<li>Program health</li>\r\n\t\t<li>Milestones</li>\r\n\t\t<li>Risks and issues</li>\r\n\t\t<li>Financials and resource utilization</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Provide executive‑ready visibility into progress, blockers, and decisions needed.</li>\r\n</ul>\r\n<strong>Scaling &amp; Operational Maturity</strong>\r\n\r\n<ul>\r\n\t<li>Support the evolution from <strong>400+ experiences</strong> to sustainable, scalable growth.</li>\r\n\t<li>Build the structures, processes, and rhythms needed to scale without chaos.</li>\r\n</ul>\r\n<strong>Resource &amp; Capacity Planning</strong>\r\n\r\n<ul>\r\n\t<li>Drive resource planning across teams and ensure capacity aligns with program priorities.</li>\r\n\t<li>Partner with leaders to anticipate needs and proactively address gaps.</li>\r\n</ul>\r\n<strong>Qualifications:</strong>\r\n\r\n<ul>\r\n\t<li>8+ years in program management, delivery leadership, or large‑scale orchestration</li>\r\n\t<li>Proven experience managing complex, multi‑team programs</li>\r\n\t<li>Strong understanding of marketing technology, personalization, or customer experience ecosystems</li>\r\n\t<li>Expertise in dependency management, governance, and cross‑functional alignment</li>\r\n\t<li>Exceptional communication and executive‑level reporting skills</li>\r\n\t<li>Ability to bring structure, clarity, and predictability to fast‑moving environments</li>\r\n</ul>\r\n&nbsp;<br />\r\n&nbsp;\r\n<div>&nbsp;</div>\r\n",
-    "recruiter": [
-      "Caitlin Adair Schenk",
-      "caitlin@millgroupusa.com",
-      "5125510641"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32371486",
-    "time_scraped": 1780516162473,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32371613,
-    "title": "Business Process Owner Lead",
-    "location": "TX, SAT/PLANO",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/28/2026",
-      "date_posted": 1780001760000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Business Process Owner Lead</span></span></strong><br />\r\n<br />\r\nWe are seeking a <strong>Business Process Owner Lead</strong> to drive the design, governance, and continuous improvement of scalable business processes that power our Next Best Experience (NBE) and Personalization capabilities. This leader will own the end‑to‑end operating model across teams, ensuring alignment, standardization, and measurable impact.<br />\r\n<strong>Key Responsibilities</strong><br />\r\n<strong>Process Design &amp; Standardization</strong>\r\n<ul>\r\n\t<li>Define and maintain standardized processes for:\r\n\t<ul>\r\n\t\t<li>Intake and prioritization</li>\r\n\t\t<li>Experience design</li>\r\n\t\t<li>Journey orchestration</li>\r\n\t\t<li>Measurement and optimization</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Establish enterprise‑ready processes, risks, and controls that ensure consistency and compliance.</li>\r\n</ul>\r\n<strong>Cross‑Team Operating Model</strong>\r\n\r\n<ul>\r\n\t<li>Define and clarify roles and responsibilities across Marketing, Market Verticals (MV), and Lines of Business (LOB).</li>\r\n\t<li>Drive alignment and accountability across teams to ensure seamless execution.</li>\r\n</ul>\r\n<strong>Strategic Evolution</strong>\r\n\r\n<ul>\r\n\t<li>Lead the transition from <strong>tactical execution</strong> to <strong>intent‑driven, personalized experiences</strong>.</li>\r\n\t<li>Champion a culture of continuous improvement and operational excellence.</li>\r\n</ul>\r\n<strong>Enablement &amp; Adoption</strong>\r\n\r\n<ul>\r\n\t<li>Promote adoption of centralized tools, frameworks, and best practices across teams.</li>\r\n\t<li>Build and maintain playbooks for:\r\n\t<ul>\r\n\t\t<li>Detours</li>\r\n\t\t<li>Splash pages</li>\r\n\t\t<li>Personalized feeds</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n<strong>Measurement &amp; Analytics Integration</strong>\r\n\r\n<ul>\r\n\t<li>Partner closely with Analytics teams to ensure measurement is embedded into every process.</li>\r\n\t<li>Ensure data‑driven insights inform prioritization, optimization, and experience evolution.</li>\r\n</ul>\r\n<strong>Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>8+ years in business process design, operations, experience orchestration, or related fields</li>\r\n\t<li>Proven experience leading cross‑functional process transformation</li>\r\n\t<li>Strong understanding of personalization, customer journeys, or marketing operations</li>\r\n\t<li>Ability to design governance frameworks and risk/control structures</li>\r\n\t<li>Excellent communication, facilitation, and stakeholder‑management skills</li>\r\n\t<li>Experience building playbooks, frameworks, or operating models at scale</li>\r\n</ul>\r\n&nbsp;<br />\r\n&nbsp;",
-    "recruiter": [
-      "Chrissie Ortenzio",
-      "chrissie@millgroupusa.com",
-      "2108993196"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32371613",
-    "time_scraped": 1780516162602,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32371506,
-    "title": "Product Owner - Senior",
-    "location": "TX, SAT/PLANO",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/28/2026",
-      "date_posted": 1779995520000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong>Product Owner</strong><br />\r\n<br />\r\n<strong>Key Responsibilities</strong>\r\n<ul>\r\n\t<li>Serve as Product Owner for <strong>&nbsp;teams</strong> operating in a SAFe Agile environment</li>\r\n\t<li>Own, prioritize, and manage the product backlog in <strong>Jira</strong> (100% of work managed in Jira)</li>\r\n\t<li>Manage features and user stories through the full development lifecycle in accordance with internal policies and controls</li>\r\n\t<li>Partner with IT throughout design, development, testing, and delivery</li>\r\n\t<li>Structure and deliver work aligned to <strong>SAFe Agile</strong> methodology</li>\r\n\t<li>Run and support Scrum team ceremonies and execution</li>\r\n\t<li>Proactively learn business processes related to deposit account restrictions</li>\r\n\t<li>Ensure clear communication between business and technical stakeholders</li>\r\n\t<li>Support a risk mitigation initiative impacting restricted account interactions</li>\r\n</ul>\r\n<strong>Required Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>Agile Product Owner experience in a SAFe Agile environment</li>\r\n\t<li>3-5 years of experience working in banking</li>\r\n\t<li>Extensive hands-on experience using <strong>Jira</strong> for backlog and feature management</li>\r\n\t<li>Experience managing features and stories through the full development lifecycle</li>\r\n\t<li>Strong understanding of how to run a Scrum team</li>\r\n\t<li>Self-starter who requires minimal supervision</li>\r\n\t<li>Strong written and verbal communication skills</li>\r\n\t<li>Experience working with infrastructure or core banking systems</li>\r\n\t<li>Ability and willingness to quickly learn new business processes</li>\r\n\t<li>Experience with deposit accounts or payments processing</li>\r\n\t<li>Familiarity with JWM and ServiceNow (supplemental systems)</li>\r\n</ul>\r\n\r\n<div>&nbsp;</div>\r\n",
+    "description": "Technical Recruiter&nbsp;<br />\r\n&nbsp;<br />\r\nThe Technical Recruiter will manage the full recruitment lifecycle for technical roles, including sourcing, screening, qualifying, submitting, and supporting candidates through the interview and offer process. This role partners closely with hiring managers and stakeholders to understand technical hiring needs, build strong candidate pipelines, and deliver a high-quality candidate experience.<br />\r\n&nbsp;<br />\r\nKey Responsibilities<br />\r\nManage full-cycle recruiting for technical positions, including software engineering, architecture, cloud, data, cybersecurity, DevOps, and IT infrastructure roles.<br />\r\nSource, screen, interview, and qualify candidates using job boards, internet searches, databases, referrals, networking, and sourcing tools.<br />\r\nPartner with hiring managers to understand role requirements, review candidates, advise on talent availability, and support hiring decisions.<br />\r\nPost job advertisements and maintain accurate candidate activity and requisition updates in the ATS.<br />\r\nBuild and maintain diverse talent pipelines for current and future hiring needs.<br />\r\nUse recruiting analytics, market intelligence, compensation insights, funnel metrics, and pipeline data to guide recruiting strategy.<br />\r\nSupport salary discussions, offer coordination, and candidate closing efforts.<br />\r\nManage multiple recruiting priorities while maintaining strong communication with candidates, hiring managers, and stakeholders.<br />\r\n&nbsp;<br />\r\nRequired Skills and Experience<br />\r\n5+ years of technical recruiting experience.<br />\r\nExperience recruiting for technical roles such as software engineers, architects, cloud engineers, data scientists, cybersecurity analysts, DevOps engineers, or IT infrastructure professionals.<br />\r\nStrong understanding of SDLC, cloud technologies such as AWS, Azure, or GCP, and modern technology stacks.<br />\r\nExperience managing full-cycle recruiting while maintaining a high-touch candidate experience.<br />\r\nAbility to influence and advise hiring managers using market trends, compensation insights, and real-time talent availability.<br />\r\nStrong sourcing skills and ability to identify, engage, and qualify technical talent.<br />\r\nExperience using recruiting analytics, including time-to-fill, funnel metrics, pipeline health, and market intelligence.<br />\r\nStrong written and verbal communication skills.<br />\r\nStrong time management skills with the ability to manage multiple roles and priorities simultaneously.<br />\r\n&nbsp;<br />\r\nTechnology Tools<br />\r\nWorkday or similar Applicant Tracking System<br />\r\nEightfold or similar CRM tool<br />\r\nLinkedIn, HireEZ, or similar sourcing tools<br />\r\n&nbsp;",
     "recruiter": [
       "Frank Weskamp",
       "frank@millgroupusa.com",
       "5125510628"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32371506",
-    "time_scraped": 1780516162631,
+    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32527769",
+    "time_scraped": 1782971613885,
     "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
     "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
     "date_cutoff_days": 15
   },
   {
-    "id": 32371723,
-    "title": "Systems Analyst 3",
-    "location": "TX, Austin",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/28/2026",
-      "date_posted": 1779987240000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 50,
-    "description": "<div>\r\n<p>Systems Analyst 3<br />\r\n&nbsp;<br />\r\nHHSC IT is continuing to develop an HHS data integration hub in the Performance Management &amp; Analytics System (PMAS) with a goal to accomplish the following:<br />\r\n&nbsp;<br />\r\n&bull; Implementation and configuration of the infrastructure for the data integration hub<br />\r\n&bull; Design, development, and implementation (DD&amp;I) of the data integration hub using an agile methodology for all standard SDLC phases that includes, but is not limited to:<br />\r\no Validation of performance metric requirements<br />\r\no Creation of Epics/User Stories/Tasks<br />\r\no Automation of data acquisition from a variety of data sources<br />\r\no Development of complex SQL scripts<br />\r\no Testing &ndash; integration, load and stress<br />\r\no Deployment / publication internally and externally<br />\r\n&bull; Operations support and enhancement of the data integration hub<br />\r\nThis development effort will utilize an agile methodology based upon the approach currently in use at HHSC for the Performance Management &amp; Analytics System (PMAS).<br />\r\n&nbsp;<br />\r\nAs a member of the agile development team, the worker responsibilities may include:<br />\r\n&nbsp;<br />\r\n&bull; Data acquisition from a variety of data sources for multiple uses.<br />\r\n&bull; Developing complex SQL scripts to transform the source data to fit into a dimensional model, then to create views and materialized views in Oracle.<br />\r\n&bull; Developing automation with Informatica Power Center/IICS to pull data from external data sources and transform it to fit into a dimensional model.<br />\r\n&bull; Collaborating with other members of the Data Engineering Team on the design and implementation of an optimal data design.<br />\r\n&bull; Verification and validation of SQL scripts, Informatica automation and database views.<br />\r\n&bull; Developing automated means of performing verification and validation.<br />\r\n&bull; Participating in all sprint ceremonies<br />\r\n&bull; Work closely with the Architects and Data Engineering Team on implementation designs and data acquisition strategies.<br />\r\n&bull; Develop mockups and work with customers for validation<br />\r\n&bull; Working closely with other members of the team to address technical problems<br />\r\n&bull; Assisting with the implementation and configuration of developmental tools<br />\r\n&bull; Producing and maintaining technical specifications, diagrams, or other documentation as needed to support the DD&amp;I efforts<br />\r\n&bull; Participation in requirements and design sessions<br />\r\n&bull; Interpreting new and changing business requirements to determine the impact and proposing enhancements and changes to meet these new requirements<br />\r\n&bull; All other duties as assigned.<br />\r\n&nbsp;<br />\r\nRequired:<br />\r\n&bull; 8 years&rsquo; Experience developing mappings and workflows to automate ETL processes using Informatica Power Center or IICS.<br />\r\n&bull; 8 Required - Experiencing acquiring and integrating data from multiple data sources/technologies using Informatica Power Center or IICS for use by a Tableau data visualization object. Data source techs should include Oracle, SQL Server, Excel, Access and Adobe PDF.<br />\r\n&bull; 8 Required - Experience designing and developing complex Snowflake SQL scripts that are fast and efficient<br />\r\n&bull; 8 Required - Strong analytical and problem-solving skills with experience as a system analyst for a data analytics, performance management system, or data warehousing project.<br />\r\n&bull; 8 years of technical writing and diagraming skills, including proficiency with modeling and mapping tools (e.g., Visio, Erwin), and the Microsoft Office Suite (Word, Excel, and PowerPoint) and MS Project.<br />\r\n&bull; 8 years&rsquo; Experience in planning and delivering software platforms used across multiple products and organizational units.<br />\r\n&bull; 8 years of Proven ability to write well designed, testable, efficient code by using best software development practices<br />\r\n&nbsp;<br />\r\nPreferred:<br />\r\n&bull; Excellent oral and written communication skills.<br />\r\n&bull; Effectively manage multiple responsibilities, prioritize conflicting assignments, and switch quickly between assignments, as required.<br />\r\n&bull; Experience on an agile sprint team<br />\r\n&bull; Understanding of security principles and how they apply to healthcare data<br />\r\n&bull; Experience with state of the art software components for a performance metrics data visualization or business intelligence environment<br />\r\n&bull; Bachelor&#39;s degree in Computer Science, Information Systems, or Business or equivalent experience.<br />\r\n&bull; Prior experience in the Healthcare Industry<br />\r\n&bull; Prior experience with an HHS agency<br />\r\n&bull; Prior experience working with PII or PHI data<br />\r\n&bull; Experience designing and developing scripts using Python<br />\r\n&bull; Experience with JIRA software<br />\r\n&bull; Functional knowledge or hands on design experience with Web Services (REST, SOAP, etc.)<br />\r\n&bull; Experience designing and developing code using Java and JavaScript<br />\r\n&bull; Experience developing CI/CD pipelines with GitHub and Git Actions<br />\r\n&bull; Experience as a Mulesoft developer<br />\r\n&bull; Experience developing using AI tools such as Snowflake Cortex and Intelligence, and/or Informatica Claire<br />\r\n&nbsp;<br />\r\n&nbsp;</p>\r\n</div>\r\n",
-    "recruiter": [
-      "Katie Elliott",
-      "katie@millgroupusa.com",
-      "5122981736"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32371723",
-    "time_scraped": 1780516172154,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32366930,
-    "title": "Recruiter Intermediate",
-    "location": "AZ, Phoenix",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/27/2026",
-      "date_posted": 1779917160000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<u>Recruiter - Intermediate</u><br />\r\n<br />\r\nWe are seeking a <strong>Recruiter- Intermediate level</strong>&nbsp;to support high-volume hiring in a <strong>large, highly regulated corporate environment.</strong><br />\r\n&nbsp;<br />\r\n<strong>Top Skills &amp; Experience:</strong>\r\n<ol>\r\n\t<li><strong>Full-Cycle Recruiting in Regulated Environments</strong> <em>(2+ years)</em>\r\n\t<ul>\r\n\t\t<li>Experience managing full-cycle recruiting within large organizations (30,000+ employees)</li>\r\n\t\t<li>Background in <strong>highly regulated industries</strong> (e.g., financial services, insurance)</li>\r\n\t\t<li>Knowledge of applicable employment laws and compliance requirements</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>High-Volume Recruiting &amp; Delivery</strong> <em>(2+ years)</em>\r\n\t<ul>\r\n\t\t<li>Proven ability to manage and fill <strong>100&ndash;300 positions annually</strong></li>\r\n\t\t<li>Strong sourcing, screening, and interviewing capabilities</li>\r\n\t\t<li>Ability to balance speed and quality in a high-demand environment</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>Stakeholder Management &amp; Consultative Support</strong> <em>(2+ years)</em>\r\n\t<ul>\r\n\t\t<li>Experience supporting and advising hiring managers</li>\r\n\t\t<li>Strong relationship management and communication skills</li>\r\n\t\t<li>Ability to influence hiring decisions and provide market insight</li>\r\n\t</ul>\r\n\t</li>\r\n</ol>\r\n&nbsp;<br />\r\n<strong>Required Qualifications</strong>\r\n\r\n<ul>\r\n\t<li>Bachelor&rsquo;s degree <strong>OR</strong> additional 2+ years of related experience (in lieu of degree)</li>\r\n\t<li>2+ years of progressive experience in:\r\n\t<ul>\r\n\t\t<li>Staffing, recruiting, HR, or account management</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>2+ years of <strong>full-cycle recruiting experience</strong> in a corporate, regulated environment</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li><strong>Microsoft Office Suite</strong> (Outlook, Word, Excel, PowerPoint)</li>\r\n\t<li><strong>Workday (ATS)</strong></li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Chrissie Ortenzio",
-      "chrissie@millgroupusa.com",
-      "2108993196"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32366930",
-    "time_scraped": 1780516172418,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32367205,
-    "title": "Instructional Designer ",
+    "id": 32527027,
+    "title": "Recruiter Sr",
     "location": "TX, San Antonio",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "5/27/2026",
-      "date_posted": 1779912000000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782851580000
     },
     "start": {
       "start_dateStr": null,
@@ -482,179 +86,14 @@
     },
     "salary": null,
     "remote": 100,
-    "description": "Instructional Designer - REMOTE!!<br />\r\n&nbsp;<br />\r\nDuties:<br />\r\n<br />\r\nDesigns training programs, including classroom lectures, online courses, and self-study sessions, directed at employees and organization members<br />\r\nDevelops and updates course content and coordinates learning curriculum.<br />\r\nConducts assessment and analysis to identify new development needs and recommend training methods accordingly.<br />\r\n<br />\r\nRequirements:\r\n<ul>\r\n\t<li>2 or more years of Instructional Design/ILT</li>\r\n\t<li>Experience in an Agile Environment.</li>\r\n\t<li>Experienced with Adobe Suite &amp; Articulate</li>\r\n\t<li>Ability to handle multiple projects/deadlines at once</li>\r\n\t<li>Visual Design/Familiarity with UI/UX</li>\r\n\t<li>Audio Editing experience</li>\r\n\t<li>Strong Portfolio/examples of work</li>\r\n\t<li>Insurance/claims experience is preferred.</li>\r\n</ul>\r\n&nbsp;<br />\r\n&nbsp;",
+    "description": "Technical Recruiter &ndash; 100% Remote<br />\r\n&nbsp;<br />\r\nThe Technical Recruiter will manage the full recruitment lifecycle for technical roles, including sourcing, screening, qualifying, submitting, and supporting candidates through the interview and offer process. This role partners closely with hiring managers and stakeholders to understand technical hiring needs, build strong candidate pipelines, and deliver a high-quality candidate experience.<br />\r\n&nbsp;<br />\r\nKey Responsibilities<br />\r\nManage full-cycle recruiting for technical positions, including software engineering, architecture, cloud, data, cybersecurity, DevOps, and IT infrastructure roles.<br />\r\nSource, screen, interview, and qualify candidates using job boards, internet searches, databases, referrals, networking, and sourcing tools.<br />\r\nPartner with hiring managers to understand role requirements, review candidates, advise on talent availability, and support hiring decisions.<br />\r\nPost job advertisements and maintain accurate candidate activity and requisition updates in the ATS.<br />\r\nBuild and maintain diverse talent pipelines for current and future hiring needs.<br />\r\nUse recruiting analytics, market intelligence, compensation insights, funnel metrics, and pipeline data to guide recruiting strategy.<br />\r\nSupport salary discussions, offer coordination, and candidate closing efforts.<br />\r\nManage multiple recruiting priorities while maintaining strong communication with candidates, hiring managers, and stakeholders.<br />\r\n&nbsp;<br />\r\nRequired Skills and Experience<br />\r\n5+ years of technical recruiting experience.<br />\r\nExperience recruiting for technical roles such as software engineers, architects, cloud engineers, data scientists, cybersecurity analysts, DevOps engineers, or IT infrastructure professionals.<br />\r\nStrong understanding of SDLC, cloud technologies such as AWS, Azure, or GCP, and modern technology stacks.<br />\r\nExperience managing full-cycle recruiting while maintaining a high-touch candidate experience.<br />\r\nAbility to influence and advise hiring managers using market trends, compensation insights, and real-time talent availability.<br />\r\nStrong sourcing skills and ability to identify, engage, and qualify technical talent.<br />\r\nExperience using recruiting analytics, including time-to-fill, funnel metrics, pipeline health, and market intelligence.<br />\r\nStrong written and verbal communication skills.<br />\r\nStrong time management skills with the ability to manage multiple roles and priorities simultaneously.<br />\r\n&nbsp;<br />\r\nTechnology Tools<br />\r\nWorkday or similar Applicant Tracking System<br />\r\nEightfold or similar CRM tool<br />\r\nLinkedIn, HireEZ, or similar sourcing tools<br />\r\n&nbsp;",
     "recruiter": [
       "Katie Elliott",
       "katie@millgroupusa.com",
       "5122981736"
     ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32367205",
-    "time_scraped": 1780516172422,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32369211,
-    "title": "Multimedia Specialist",
-    "location": "TX, San Antonio",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/27/2026",
-      "date_posted": 1779885180000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong><span style=\"font-size:11pt;\">Multimedia Specialist &ndash; Intermediate&nbsp;</span></strong><br />\r\n<br />\r\n<span style=\"font-size:11pt;\">This&nbsp;multimedia&nbsp;specialist role will be focused on the creation and refinement of explainer video assets for&nbsp;company website and mobile app. This specialist will be tasked with converting video scripts into compelling and engaging video content that adheres to company brand standards.</span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-size:11pt;\">Required:</span></strong><br />\r\n<span style=\"font-size:11pt;\">Video editing and motion graphics (2&nbsp;years minimum)&nbsp;</span><br />\r\n<span style=\"font-size:11pt;\">Very familiar&nbsp;with Adobe Creative Cloud applications (2&nbsp;years minimum)&nbsp;</span><br />\r\n<span style=\"font-size:11pt;\">Experienced in working with subject matter experts and business clients to understand project requirements</span><br />\r\n<span style=\"font-size:11pt;\">Must submit a portfolio/reel for review.</span><br />\r\n<span style=\"font-size:11pt;\">Tools:&nbsp;​After Effects, Premiere Pro, Illustrator&nbsp;</span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-size:11pt;\">Preferred:</span></strong><br />\r\n<span style=\"font-size:11pt;\">Experience dealing with business clients and Adobe certifications (premier pro, after effects, photoshop, illustrator, etc)</span><br />\r\n&nbsp;",
-    "recruiter": [
-      "Caitlin Adair Schenk",
-      "caitlin@millgroupusa.com",
-      "5125510641"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32369211",
-    "time_scraped": 1780516181181,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32359823,
-    "title": "Systems Analyst 3",
-    "location": "TX, Austin",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/26/2026",
-      "date_posted": 1779819240000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<section data-scroll-anchor=\"false\" data-testid=\"conversation-turn-2\" data-turn=\"assistant\" data-turn-id=\"request-WEB:56df6d9d-f5fb-40fc-9519-a7b809e64045-0\" data-turn-id-container=\"request-WEB:56df6d9d-f5fb-40fc-9519-a7b809e64045-0\" dir=\"auto\">\r\n<div><span style=\"font-size:12pt;\">Systems Analyst 3</span><br />\r\n<br />\r\nHHSC IT is continuing to develop an HHS data integration hub in the Performance Management &amp; Analytics System (PMAS) with a goal to accomplish the following:<br />\r\n<br />\r\n<u><span style=\"font-size:11.0pt;\">Key Project Objectives</span></u>\r\n<ul>\r\n\t<li>Implementation and configuration of the infrastructure for the data integration hub</li>\r\n\t<li>Design, development, and implementation (DD&amp;I) of the data integration hub using an agile methodology for all standard SDLC phases that includes, but is not limited to:\r\n\t<ul>\r\n\t\t<li>Validation of performance metric requirements</li>\r\n\t\t<li>Creation of Epics/User Stories/Tasks</li>\r\n\t\t<li>Automation of data acquisition from a variety of data sources</li>\r\n\t\t<li>Development of complex SQL scripts</li>\r\n\t\t<li>Testing &ndash; integration, load and stress</li>\r\n\t\t<li>Deployment / publication internally and externally</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li>Operations support and enhancement of the data integration hub</li>\r\n</ul>\r\nThis development effort will utilize an agile methodology based upon the approach currently in use at HHSC for the Performance Management &amp; Analytics System (PMAS).<br />\r\n<br />\r\n<u><span style=\"font-size:11.0pt;\">Responsibilities</span></u><br />\r\n<br />\r\nAs a member of the agile development team, the worker responsibilities may include:\r\n<ul>\r\n\t<li>Filling the role of a technical leader, leading an agile development team through a project</li>\r\n\t<li>Data acquisition from a variety of data sources for multiple uses</li>\r\n\t<li>Developing complex SQL scripts to transform the source data to fit into a dimensional model, then to create views and materialized views in Oracle</li>\r\n\t<li>Developing automation with Informatica Power Center/IICS to pull data from external data sources and transform it to fit into a dimensional model</li>\r\n\t<li>Collaborating with other members of the Data Engineering Team on the design and implementation of an optimal data design</li>\r\n\t<li>Verification and validation of SQL scripts, Informatica automation and database views</li>\r\n\t<li>Developing automated means of performing verification and validation</li>\r\n\t<li>Participating in all sprint ceremonies</li>\r\n\t<li>Work closely with the Architects and Data Engineering Team on implementation designs and data acquisition strategies</li>\r\n\t<li>Develop mockups and work with customers for validation</li>\r\n\t<li>Working closely with other members of the team to address technical problems</li>\r\n\t<li>Assisting with the implementation and configuration of developmental tools</li>\r\n\t<li>Producing and maintaining technical specifications, diagrams, or other documentation as needed to support the DD&amp;I efforts</li>\r\n\t<li>Participation in requirements and design sessions</li>\r\n\t<li>Interpreting new and changing business requirements to determine the impact and proposing enhancements and changes to meet these new requirements</li>\r\n</ul>\r\n<u><span style=\"font-size:11.0pt;\">Required Qualifications</span></u>\r\n\r\n<ul>\r\n\t<li>8 years &mdash; Experience developing mappings and workflows to automate ETL processes using Informatica Power Center or IICS</li>\r\n\t<li>8 years&mdash; Experiencing acquiring and integrating data from multiple data sources/technologies using Informatica Power Center or IICS for use by a Tableau data visualization object. Data source techs should include Oracle, SQL Server, Excel, Access and Adobe PDF</li>\r\n\t<li>8 years&mdash; Experience designing and developing complex Snowflake SQL scripts that are fast and efficient</li>\r\n\t<li>8 years&mdash; Strong analytical and problem-solving skills with experience as a system analyst for a data analytics, performance management system, or data warehousing project</li>\r\n\t<li>8 years &mdash; Technical writing and diagraming skills, including proficiency with modeling and mapping tools (e.g., Visio, Erwin), and the Microsoft Office Suite (Word, Excel, and PowerPoint) and MS Project</li>\r\n\t<li>8 years&mdash; Experience in planning and delivering software platforms used across multiple products and organizational units</li>\r\n\t<li>8 years &mdash; Proven ability to write well designed, testable, efficient code by using best software development practices</li>\r\n</ul>\r\n<u><span style=\"font-size:11.0pt;\">Preferred Qualifications</span></u>\r\n\r\n<ul>\r\n\t<li>6 years &mdash; Excellent oral and written communication skills</li>\r\n\t<li>6 years&mdash; Effectively manage multiple responsibilities, prioritize conflicting assignments, and switch quickly between assignments, as required</li>\r\n\t<li>4 years&mdash; Experience on an agile sprint team</li>\r\n\t<li>4 years&mdash; Understanding of security principles and how they apply to healthcare data</li>\r\n\t<li>4 years&mdash; Experience with state of the art software components for a performance metrics data visualization or business intelligence environment</li>\r\n\t<li>4 years&mdash; Bachelor&#39;s degree in Computer Science, Information Systems, or Business or equivalent experience</li>\r\n\t<li>4 years&mdash; Prior experience in the Healthcare Industry</li>\r\n\t<li>4 years&mdash; Prior experience with an HHS agency</li>\r\n\t<li>4 years&mdash; Prior experience working with PII or PHI data</li>\r\n\t<li>4 years&mdash; Experience designing and developing scripts using Python</li>\r\n\t<li>4 years&mdash; Experience with JIRA software</li>\r\n\t<li>2 years&mdash; Functional knowledge or hands on design experience with Web Services (REST, SOAP, etc.)</li>\r\n\t<li>2 years&mdash; Experience designing and developing code using Java and JavaScript</li>\r\n\t<li>2 years&mdash; Experience developing CI/CD pipelines with GitHub and Git Actions</li>\r\n\t<li>2 years &mdash; Experience as a Mulesoft developer</li>\r\n\t<li>2 years&mdash; Experience developing using AI tools such as Snowflake Cortex and Intelligence, and/or Informatica Claire</li>\r\n</ul>\r\n</div>\r\n</section>\r\n",
-    "recruiter": [
-      "Chrissie Ortenzio",
-      "chrissie@millgroupusa.com",
-      "2108993196"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32359823",
-    "time_scraped": 1780516181157,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32360546,
-    "title": "Project Lead 3",
-    "location": "TX, 529601724",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/26/2026",
-      "date_posted": 1779818100000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<h2 data-end=\"76\" data-section-id=\"n1cos3\" data-start=\"0\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Project Lead / Technical Project Manager</span></span></h2>\r\n\r\n<div data-end=\"416\" data-start=\"78\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">We are seeking an experienced Project Lead&nbsp;to support a data engineering project with an AI adoption program. This role will manage cross-functional coordination, track deliverables, support platform and data engineering initiatives, and ensure alignment between business, engineering, and AI stakeholders.</span></span></div>\r\n\r\n<p data-end=\"706\" data-start=\"418\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">The ideal candidate has a strong background leading technical projects in data, analytics, cloud, business intelligence, and enterprise environments. Familiarity with healthcare data, regulated environments, cloud platforms, data pipelines, and AI/ML adoption efforts is highly desirable.</span></span></p>\r\n\r\n<h2 data-end=\"727\" data-section-id=\"r8dte7\" data-start=\"708\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Responsibilities</span></span></h2>\r\n\r\n<ul data-end=\"2092\" data-start=\"729\">\r\n\t<li data-end=\"810\" data-section-id=\"17m0kig\" data-start=\"729\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Lead technical projects or programs in data, analytics, and cloud environments.</span></span></li>\r\n\t<li data-end=\"919\" data-section-id=\"1fmxnwr\" data-start=\"811\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Support data architecture, data modeling, and data warehousing initiatives from planning through delivery.</span></span></li>\r\n\t<li data-end=\"1020\" data-section-id=\"1k4n2zr\" data-start=\"920\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Manage business intelligence, big data, and analytics projects in complex enterprise environments.</span></span></li>\r\n\t<li data-end=\"1127\" data-section-id=\"zgswhj\" data-start=\"1021\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Support healthcare data initiatives, including projects involving standards such as FHIR, CCDA, and HL7.</span></span></li>\r\n\t<li data-end=\"1247\" data-section-id=\"15h16mc\" data-start=\"1128\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Use working knowledge of SQL and database technologies to support project planning, estimation, and issue resolution.</span></span></li>\r\n\t<li data-end=\"1324\" data-section-id=\"8emu0h\" data-start=\"1248\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Translate complex technical concepts for business and executive audiences.</span></span></li>\r\n\t<li data-end=\"1397\" data-section-id=\"1ad80qc\" data-start=\"1325\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Manage cross-functional teams, vendors, and complex project timelines.</span></span></li>\r\n\t<li data-end=\"1489\" data-section-id=\"w0cvm\" data-start=\"1398\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Collaborate effectively with data engineers, developers, analysts, and business partners.</span></span></li>\r\n\t<li data-end=\"1569\" data-section-id=\"wl4tl6\" data-start=\"1490\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Define project scope, objectives, milestones, timelines, and success metrics.</span></span></li>\r\n\t<li data-end=\"1662\" data-section-id=\"bh0ght\" data-start=\"1570\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Support project budgeting, forecasting, resource planning, and financial status reporting.</span></span></li>\r\n\t<li data-end=\"1748\" data-section-id=\"rftbmx\" data-start=\"1663\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Use project management tools such as Jira, Azure DevOps, MS Project, or Smartsheet.</span></span></li>\r\n\t<li data-end=\"1830\" data-section-id=\"1069se3\" data-start=\"1749\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Prepare project plans, charters, schedules, documentation, and lessons learned.</span></span></li>\r\n\t<li data-end=\"1900\" data-section-id=\"29k1d1\" data-start=\"1831\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Support cloud platforms, data systems, and enterprise applications.</span></span></li>\r\n\t<li data-end=\"1987\" data-section-id=\"yu78qk\" data-start=\"1901\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Work independently with a proactive leadership style and strong attention to detail.</span></span></li>\r\n\t<li data-end=\"2092\" data-section-id=\"94p01i\" data-start=\"1988\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Support AI, advanced analytics, or digital transformation initiatives at the program or project level.</span></span></li>\r\n</ul>\r\n\r\n<h2 data-end=\"2120\" data-section-id=\"1cpo032\" data-start=\"2094\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Required Qualifications</span></span></h2>\r\n\r\n<ul data-end=\"3543\" data-start=\"2122\">\r\n\t<li data-end=\"2230\" data-section-id=\"1tcfni1\" data-start=\"2122\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience leading technical projects or programs in data, analytics, and cloud environments.</span></span></li>\r\n\t<li data-end=\"2363\" data-section-id=\"1a5e1bd\" data-start=\"2231\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience leading data architecture, data modeling, and data warehousing initiatives from planning through delivery.</span></span></li>\r\n\t<li data-end=\"2490\" data-section-id=\"k1ll7n\" data-start=\"2364\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience managing business intelligence, big data, and analytics projects in complex enterprise environments.</span></span></li>\r\n\t<li data-end=\"2556\" data-section-id=\"daxwqm\" data-start=\"2491\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience supporting healthcare data initiatives.</span></span></li>\r\n\t<li data-end=\"2623\" data-section-id=\"13yjnc3\" data-start=\"2557\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of working knowledge of SQL and database technologies.</span></span></li>\r\n\t<li data-end=\"2727\" data-section-id=\"6avuf2\" data-start=\"2624\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience communicating complex technical concepts to business and executive audiences.</span></span></li>\r\n\t<li data-end=\"2837\" data-section-id=\"ympk4p\" data-start=\"2728\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of leadership experience managing cross-functional teams, vendors, and complex project timelines.</span></span></li>\r\n\t<li data-end=\"2937\" data-section-id=\"1mg972g\" data-start=\"2838\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience working with data engineers, developers, analysts, and business partners.</span></span></li>\r\n\t<li data-end=\"3043\" data-section-id=\"1s7jojy\" data-start=\"2938\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience defining project scope, objectives, milestones, timelines, and success metrics.</span></span></li>\r\n\t<li data-end=\"3157\" data-section-id=\"1fhb3l9\" data-start=\"3044\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience with project budgeting, forecasting, resource planning, and financial status reporting.</span></span></li>\r\n\t<li data-end=\"3269\" data-section-id=\"1qozhu5\" data-start=\"3158\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of experience using project management tools such as Jira, Azure DevOps, MS Project, or Smartsheet.</span></span></li>\r\n\t<li data-end=\"3384\" data-section-id=\"18mu2fl\" data-start=\"3270\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of strong documentation experience, including project plans, charters, schedules, and lessons learned.</span></span></li>\r\n\t<li data-end=\"3479\" data-section-id=\"gnkhvd\" data-start=\"3385\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">10+ years of working knowledge of cloud platforms, data systems, or enterprise applications.</span></span></li>\r\n\t<li data-end=\"3543\" data-section-id=\"8clz8p\" data-start=\"3480\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Strong attention to detail and ability to work independently.</span></span></li>\r\n</ul>\r\n\r\n<h2 data-end=\"3572\" data-section-id=\"1a9n6ci\" data-start=\"3545\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Preferred Qualifications</span></span></h2>\r\n\r\n<ul data-end=\"4278\" data-start=\"3574\">\r\n\t<li data-end=\"3710\" data-section-id=\"sf10v4\" data-start=\"3574\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">8+ years of familiarity with healthcare or other regulated environments, including compliance, security, and data governance concepts.</span></span></li>\r\n\t<li data-end=\"3793\" data-section-id=\"16ijp1t\" data-start=\"3711\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">PMP, PgMP, PMI ACP, SAFe, or similar project management certification preferred.</span></span></li>\r\n\t<li data-end=\"3837\" data-section-id=\"1xm4vhq\" data-start=\"3794\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Healthcare industry experience preferred.</span></span></li>\r\n\t<li data-end=\"3966\" data-section-id=\"dcqrvp\" data-start=\"3838\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Fundamental understanding of information management principles, IT processes, SDLC, architecture, and enterprise technologies.</span></span></li>\r\n\t<li data-end=\"4011\" data-section-id=\"14ry0ch\" data-start=\"3967\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Strong consulting and facilitation skills.</span></span></li>\r\n\t<li data-end=\"4110\" data-section-id=\"9530ki\" data-start=\"4012\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Customer-focused communication skills with the ability to engage all levels of the organization.</span></span></li>\r\n\t<li data-end=\"4197\" data-section-id=\"12fswcu\" data-start=\"4111\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">Experience supporting AI, advanced analytics, or digital transformation initiatives.</span></span></li>\r\n\t<li data-end=\"4278\" data-section-id=\"97kzdn\" data-start=\"4198\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">TOGAF, Cloud Solution Architecture, or Azure/AWS/GCP certifications preferred.</span></span></li>\r\n</ul>\r\n\r\n<p data-end=\"4537\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"4301\"><span style=\"font-size:11pt;\"><span style=\"font-family:Calibri,Helvetica,sans-serif;\">This is a hybrid role with a combination of on-site and remote work. Standard business hours are Monday through Friday, 8:00 AM to 5:00 PM, with the possibility of occasional evening, weekend, or holiday work based on project needs.</span></span></p>\r\n",
-    "recruiter": [
-      "Frank Weskamp",
-      "frank@millgroupusa.com",
-      "5125510628"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32360546",
-    "time_scraped": 1780516181012,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32358906,
-    "title": "Developer",
-    "location": "TX, San Antonio",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/26/2026",
-      "date_posted": 1779812040000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<span style=\"font-size:11.0pt;\">We are seeking a motivated and eager Developer to join our dynamic technology team.</span><br />\r\n&nbsp;<br />\r\n<span style=\"font-size:11.0pt;\">Required Qualifications:</span><br />\r\n<br />\r\n<span style=\"font-size:11.0pt;\">Bachelor&#39;s degree in Computer Science, Software Engineering, a related technical field, or equivalent practical experience.<br />\r\nDevelopment Experience in cloud computing concepts, particularly AWS services.<br />\r\nDevelopment Experience in Apache Flink Pipeline Jobs.<br />\r\nExperience with AWS services such as EKS, Lambda, API Gateway, DynamoDB, S3, Step Functions. Experience in Golang development for EKS and Lambda.<br />\r\nFoundational knowledge of Java programming.<br />\r\nFamiliarity with RESTful API principles.<br />\r\nBasic understanding of messaging queues or streaming platforms like Kafka.<br />\r\nFamiliarity with version control systems (e.g., Git).<br />\r\nStrong problem-solving and analytical skills.<br />\r\nExcellent communication and teamwork abilities.</span><br />\r\n<br />\r\n<br />\r\n<span style=\"font-size:11.0pt;\">Key Responsibilities:</span><br />\r\n<br />\r\n<span style=\"font-size:11.0pt;\">Software Development: Design, develop, code, and test new features and applications using Java and Spring Boot.<br />\r\nAPI Development: Build and maintain RESTful web services to support application integrations and data exchange.<br />\r\nMessaging Systems: Develop and work with Kafka for real-time data streaming and asynchronous communication.<br />\r\nCloud Infrastructure: Contribute to the development and deployment of applications on AWS, utilizing services such as EKS, Lambda, API Gateway, DynamoDB, S3, and Step Functions. Infrastructure as Code: Assist in defining and managing infrastructure using Terraform.<br />\r\nData Processing: Develop and maintain Apache Flink pipeline jobs for data processing and analytics.<br />\r\nCollaboration: Work collaboratively with senior engineers, product managers, and other stakeholders throughout the software development lifecycle (SDLC).<br />\r\nTesting &amp; Debugging: Write unit, integration, and end-to-end tests. Troubleshoot, debug, and resolve software defects.<br />\r\nDocumentation: Create and maintain technical documentation for code, systems, and processes.</span><br />\r\n<br />\r\n<br />\r\n&nbsp;<br />\r\n&nbsp;",
-    "recruiter": [
-      "Frank Weskamp",
-      "frank@millgroupusa.com",
-      "5125510628"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32358906",
-    "time_scraped": 1780516189280,
-    "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 32358263,
-    "title": "Business Analyst Intermediate",
-    "location": "TX, San Antonio",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/26/2026",
-      "date_posted": 1779798600000
-    },
-    "start": {
-      "start_dateStr": null,
-      "start_date": null
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div>\r\n<h2><span style=\"color:black;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:11pt;\">Business Analyst</span></span></span></h2>\r\n<span style=\"font-size:11pt;\">Our&nbsp;client&nbsp;is seeking an experienced&nbsp;Business Analyst&nbsp;to support a high-priority insurance technology initiative. This person will work closely with business stakeholders, technology teams, and delivery partners to gather requirements, document processes, support system implementation efforts, and help drive alignment across a fast-changing environment.</span><br />\r\n<br />\r\n<span style=\"font-size:11pt;\">The ideal candidate has strong insurance industry experience, excellent communication skills, and the ability to adapt quickly as priorities and scope evolve.</span><br />\r\n<br />\r\n<span style=\"font-size:11pt;\">Required Skills</span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:11pt;\">Business Analyst experience supporting technology, transformation, or system implementation projects</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Experience gathering, documenting, and validating business requirements</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Insurance background</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Strong ability to work with business stakeholders, technology teams, and delivery teams</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Excellent communication and adaptability</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Tools: Jira and Guidewire</span></li>\r\n</ul>\r\n<span style=\"font-size:11pt;\">Preferred Skills</span>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:11pt;\">Guidewire experience</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Property &amp; Casualty insurance experience</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Experience supporting platform modernization, system implementation, or operational transformation projects</span></li>\r\n\t<li><span style=\"font-size:11pt;\">Post-production monitoring with Glassbox or Gridspace (2 platforms for call monitoring)</span></li>\r\n\t<li><span style=\"color:black;\"><span style=\"font-size:11pt;\">Any Scaled Agile Certification&nbsp;</span></span></li>\r\n</ul>\r\n</div>\r\n",
-    "recruiter": [
-      "Katie Elliott",
-      "katie@millgroupusa.com",
-      "5122981736"
-    ],
-    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32358263",
-    "time_scraped": 1780516189431,
+    "url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2&SearchString=#/jobs/32527027",
+    "time_scraped": 1782971613707,
     "source_company": "02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
     "source_url": "https://www1.jobdiva.com/portal/?a=02jdnwmqoxpkrxeqcezr9nu9k0ujhe0754lfitnlp0dp4hjumm9pi11ngexfqdt2",
     "date_cutoff_days": 15

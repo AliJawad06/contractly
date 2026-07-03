@@ -1,84 +1,18 @@
 [
   {
-    "id": 28269827,
-    "title": "Engineering - Analog Designer",
-    "location": "CA, San Jose",
+    "id": 28789096,
+    "title": "Project Coordinator, Infrastructure Solutions",
+    "location": "SC, Anderson",
     "experience": {
       "experience": null
     },
     "posted": {
-      "date_postedStr": "5/22/2026",
-      "date_posted": 1779461827000
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782851454000
     },
     "start": {
-      "start_dateStr": "5/22/2026",
-      "start_date": 1779422400000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><strong>JOB DUTIES:</strong><br />\r\nDesign and verify standard cell schematics. Port schematics into new technologies. Create new schematics for new functionality requirements. Verify circuit robustness using Monte Carlo simulation. Characterize standard cell libraries for custom PVTS.<br />\r\n<br />\r\n<strong>EXPERIENCE AND EDUATION:</strong><br />\r\n10+ years of relevant work experience; Experience with Schematic Design; Experience with Circuit Stimulation using Spice; Experience in Standard Cell Characterization using industry standard tools.</div>\r\n",
-    "recruiter": [
-      "Shiv Shekhar",
-      "shiv@techproviders.com",
-      "4705369034"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28269827",
-    "time_scraped": 1779744582835,
-    "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28255436,
-    "title": "Software Developer_Addison, TX 75001",
-    "location": "TX, Addison",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779291642000
-    },
-    "start": {
-      "start_dateStr": "5/20/2026",
-      "start_date": 1779249600000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><strong><span style=\"color:black;\"><span style=\"font-family:Cambria,serif;\"><span style=\"font-size:12.0pt;\">Hi,</span></span></span></strong><br />\r\n&nbsp;<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Cambria,serif;\"><span style=\"font-size:12.0pt;\">My name is Sudheer , and I work with TPI Global Solutions. We are a global talent solutions firm providing a wide range of staffing solutions to companies and candidates within the technology field.</span></span></span></strong><br />\r\n&nbsp;<br />\r\n<strong><span style=\"color:black;\"><span style=\"font-family:Cambria,serif;\"><span style=\"font-size:12.0pt;\">I have reviewed your profile on one of the Job Portal and feel that your background could be a great fit for an exciting opportunity I am working on right now.</span></span></span></strong><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Title: Software Developer</span></strong><br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Client: AMD</span></strong><br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Duration: 12 Months</span></strong><br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Location: Addison, TX 75001</span></strong><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Job Description </span></strong><br />\r\n<span style=\"font-family:Cambria,serif;\">Software Developer to develop stress software for post-silicon validation with a focus on server CPU security features. This will include development of validation infrastructure and applications. </span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Key Responsibilities </span></strong><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Development of validation infrastructure and applications for post-silicon validation of server </span><br />\r\n<span style=\"font-family:Cambria,serif;\">CPUs, with a focus on security features </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Collaborate with cross-functional teams to innovate to improve SoC validation, debug </span><br />\r\n<span style=\"font-family:Cambria,serif;\">efficiency, coverage, and process </span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Required Experience: </span></strong><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Strong programming skills and scripting language expertise (C/C++, Python) </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; 5-7+ years of experience with Linux driver/application development </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Experience developing validation methodologies, test content, and infrastructure </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Experience with x86 microprocessor architecture and with server SOC platform architecture including firmware, IO, and DDR&nbsp; </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Experience with PCI-Express protocol </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Working knowledge of Server OSes (Linux, Windows Server) </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Team player with excellent communication skills who can work autonomously, multitask, and </span><br />\r\n<span style=\"font-family:Cambria,serif;\">set priorities. </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; CPU post-silicon validation experience </span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Cambria,serif;\">Preferred Experience: </span></strong><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Expertise in datacenter Security features such as encryption, secure boot, root of trust, key </span><br />\r\n<span style=\"font-family:Cambria,serif;\">management, confidential compute, and attestation </span><br />\r\n<span style=\"font-family:Cambria,serif;\">&bull; Security architecture and threat modeling</span><br />\r\n<br />\r\n&nbsp;</div>\r\n",
-    "recruiter": [
-      "Sudheer Paswan",
-      "spaswan@techproviders.com",
-      "0123456789"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28255436",
-    "time_scraped": 1779744583471,
-    "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28255037,
-    "title": "Corporate Recruiter",
-    "location": "OH, Westerville",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/20/2026",
-      "date_posted": 1779288863000
-    },
-    "start": {
-      "start_dateStr": "6/1/2026",
-      "start_date": 1780286400000
+      "start_dateStr": "7/13/2026",
+      "start_date": 1783915200000
     },
     "end": {
       "end_dateStr": "12/31/2026",
@@ -86,113 +20,80 @@
     },
     "salary": null,
     "remote": 0,
-    "description": "<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"> Corporate Recruiter<br />\r\n<strong>Duration:</strong> 6+ months from the start date, with the possibility of extension based on performance and business needs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />\r\n<strong>Location:</strong> Westerville, OH &ndash; Onsite position</span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Position Summary</span></span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Play a critical role in the growth and transformation of the Services organization</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Help build Talent Acquisition expertise through relationships, processes, and technology</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Manage full-cycle recruiting responsibilities for assigned requisitions</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Collaborate with HR and Services leadership on recruiting needs and overall Company goals</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Demonstrate success in hiring talent within critical Services, Engineering, Supply Chain, Marketing and/or Sales functions</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Contribute to teamwork and sharing knowledge inside the TA team and HR organization</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Focus on your own growth and development</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Be innovative:&nbsp; Bring your own ideas of improvements inside the team, look at each process and task with the goal of constantly improving to bring more value to the customer, the team, the organization and you; consulting and sales mentality</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Own your job: Approach your daily work and customers with ethics, responsibility, discipline and ownership, knowing that everything you do has an impact on the customer, the company and your development</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Define and build programs that address and support the business from a talent perspective</span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Skills</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Experience in high volume staffing preferred</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Demonstrated ability to manage multiple projects simultaneously</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Adept at setting and prioritizing your own work to perform the role successfully</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Solid communication skills with key stakeholders to create buy-in</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Ability to gather data, analyse and present findings to various audiences</span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Education: </span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Bachelor&rsquo;s Degree from a four-year College or University required</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">3 years&rsquo; minimum Full Cycle Recruitment on a regional or national level, preferably in both 3rd party and corporate</span></span></li>\r\n</ul>\r\n",
+    "description": "<strong><span style=\"color:#ee0000;\"><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Description</span></span></span></strong><br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; : Project Coordinator<br />\r\nJob location &nbsp;&nbsp; : Anderson SC<br />\r\nDuration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; : 06+ month contract with possibility for extension</span></span></strong><br />\r\n&nbsp;<br />\r\n<strong><u><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Description:</span></span></u></strong><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">&bull; Document meeting notes, action items and follow through to completion.<br />\r\n&bull; Maintaining project program tracking tools ensuring all new projects and major project milestones are accurately tracked.<br />\r\n&bull; Compiling regular project reports focusing on the main project related financial, product, and regional KPI&rsquo;s.<br />\r\n&bull; Provide regular customer-facing reporting to track and forecast project progress.<br />\r\n&bull; Ensuring projects plans are maintained and accurately reflect current project status.<br />\r\n&bull; Support the Project Management team by completing administrative and co-ordination activities relating to engineering project processes.<br />\r\n&bull; Generating and submitting project related documentation to the client (Technical Submittals, Test Documents, O&amp;M&rsquo;s, BOLs, Shipping Logs etc.).<br />\r\n&bull; Liaising with key internal and external Stakeholders, (i.e. Client, Production, Logistics, Site Teams, Accounts, etc.) ensuring efficient product delivery.<br />\r\n&bull; Coordinating site activities with field service and production teams.<br />\r\n&bull; Other duties as assigned.<br />\r\n<br />\r\n&bull; Experience in project, manufacturing, or construction management.<br />\r\n&bull; Advance knowledge of Microsoft Word, Excel, PowerPoint, Outlook, and SharePoint internet-based principles.<br />\r\n&bull; Proficient ERP and/or CRM experience is a bonus<br />\r\n&bull; Smartsheet and PoweBI knowledge is a bonus.<br />\r\n&bull; Demonstrates ability to plan, set priorities, organizes and coordinates work with others.<br />\r\n&bull; Knowledge of construction, electrical and mechanical contracting.<br />\r\n&bull; Excellent communication skills, both written and verbal<br />\r\n&bull; Excellent customer service skills<br />\r\n&bull; Excellent project management skills<br />\r\n&bull; Detail-oriented<br />\r\n&bull; Excellent organizational, analytical and interpersonal skills<br />\r\n&bull; Knowledge of engineering, manufacturing processes, data center infrastructure and commissioning processes is helpful.</span></span>",
+    "recruiter": [
+      "Vanya Smith",
+      "vanya@techproviders.com",
+      "4045946193"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28789096",
+    "time_scraped": 1782973483412,
+    "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28786643,
+    "title": "Laboratory Technician (General) 4",
+    "location": "TX, AUSTIN",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782837666000
+    },
+    "start": {
+      "start_dateStr": "7/13/2026",
+      "start_date": 1783915200000
+    },
+    "end": {
+      "end_dateStr": "7/12/2027",
+      "end_date": 1815364800000
+    },
+    "salary": null,
+    "remote": 0,
+    "description": "JOB DUTIES:<br />\r\nResponsible for post-silicon lab activities related to performance and power characterization, optimization and validation of pre-production CPU/GPU products. The following is a list of key responsibilities that the candidate will assume: Setup power and performance measurement platforms, execute power and performance test plans, support lab debug activities.<br />\r\n<br />\r\nEXPERIENCE AND EDUCATION:<br />\r\nAssociate?s or Bachelors degree in Electronics/Computer Engineering or Computer Science; 8-10 years of relevant work experience, Good understanding of PC system architecture, operating systems, drivers, ACPI and BIOS; Performance/Power/Thermal related lab work experience is an asset; Strong analytical/problem solving skills and pronounced attention to detail; Strong interpersonal and communication skills.",
+    "recruiter": [
+      "Shiv Shekhar",
+      "shiv@techproviders.com",
+      "4705369034"
+    ],
+    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28786643",
+    "time_scraped": 1782973483363,
+    "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
+    "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
+    "date_cutoff_days": 15
+  },
+  {
+    "id": 28785327,
+    "title": "Civil Process Specialist",
+    "location": "CA, Oakland",
+    "experience": {
+      "experience": null
+    },
+    "posted": {
+      "date_postedStr": "6/30/2026",
+      "date_posted": 1782830667000
+    },
+    "start": {
+      "start_dateStr": "7/7/2026",
+      "start_date": 1783396800000
+    },
+    "end": {
+      "end_dateStr": "4/2/2027",
+      "end_date": 1806638400000
+    },
+    "salary": null,
+    "remote": 100,
+    "description": "<div><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title:</span></span></strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"> Civil Process Specialist</span></span><br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Duration:</span></span></strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">&nbsp;9+ months from the date of start</span></span><br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Location:</span></span></strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"> 100% Remote</span></span><br />\r\n<br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Duties: </span></span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Responsible for processing claims to customer funds received from third parties. </span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Claims include garnishments, levies, liens and information subpoenas received from creditors and taxing authorities. </span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Also responsible for processing 1099-K corrections for customers. </span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job duties include:</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Examine garnishments, levies, liens and information subpoenas to ensure accuracy, completeness and legal sufficiency.</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Review account files to determine whether any customer accounts&nbsp;platform are implicated.</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Restrain and release funds held in accounts.</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Prepare response documents and submit responses to third parties according to established timelines and legal requirements.</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Communicate with customers, creditors, taxing authorities, attorneys and officers of the court.</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Maintain tracking system and provide details supporting actions taken in the event of escalations.</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Assist customers with making 1099-K tax form corrections</span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Skills:&nbsp; </span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Strong time management skills</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Excellent verbal and written communication skills</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">High level of reading comprehension</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Strong organization skills</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Attention to detail</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Ability to work in a fast-paced environment</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Proficient in Google docs &amp; sheets</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Experience with lien, levy or garnishment processing strongly encouraged</span></span></li>\r\n\t<li><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Experience with 1099-K tax form corrections a plus</span></span></li>\r\n</ul>\r\n</div>\r\n",
     "recruiter": [
       "Nick Brown",
       "nick@techproviders.com",
       "4705369035"
     ],
-    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28255037",
-    "time_scraped": 1779744583169,
-    "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28250347,
-    "title": "Senior SOX Analyst",
-    "location": "TX, Plano",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779210175000
-    },
-    "start": {
-      "start_dateStr": "5/19/2026",
-      "start_date": 1779163200000
-    },
-    "end": {
-      "end_dateStr": null,
-      "end_date": null
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<div><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Title: </span></span></strong><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Senior SOX Analyst </span></span></strong><br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Location: </span></span></strong><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Plano, TX/ Hybrid/ REMOTE</span></span></strong><br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Project Duration: 6&nbsp;months</span></span></strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"> <strong>with possible extension</strong></span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">NOTE: Currently the role is Remote</span></span></strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\"> but plans are that when the company rolls out the M-Th requirement for contractors, the candidate is willing and able to comply with the in-office requirement&rdquo;. Also there is no specific timeline, this could be sooner or later or next year but the candidate should be good to come onsite whenever required</span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Job Description</span></span></strong><br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">What we&rsquo;re looking for:</span></span></strong><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Client&rsquo;s SOX Program Management Office (SOX PMO) team is looking for a passionate and highly motivated Senior SOX analyst candidate. </span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">The primary responsibility of this role is to facilitate the annual assessment of Internal Controls over Financial Reporting for Client.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Reporting to the Manager SOX Compliance, the person in this role will support the Client SOX compliance department&rsquo;s objective to ensure financial reporting compliance.</span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">What you&rsquo;ll be doing:</span></span></strong><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Execution of Annual SOX Audit</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Facilitate the assessment of control effectiveness for respective business units; work with process owners as needed to implement/modify controls to mitigate risk</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Assist processes owners in documentation of processes, controls, process flow and data flow documentation.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Assist process owners in the identification of risks and design of controls</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Plan and coordinate SOX walkthroughs and testing performed by Internal and External Audit</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Coordinate with departmental SOX liaisons to ensure process consistency, consolidate status, and identify items for escalation</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Meet with process owners to understand business processes and changes to control the environment</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Provide support for key SOX stakeholders (process owners, Internal Audit, External Audit, and senior management)</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Oversee document repository and adherence to retention policies</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Support quarterly sub-certification process</span></span><br />\r\n<em><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Deficiency Identification and Remediation:</span></span></strong></em><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Lead efforts to research testing exceptions and deficiency identification</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Perform root cause analysis with process owners to identify the source of deficiencies.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Coordinate and lead remediation efforts for respective business units; develop action plans and monitor efforts for remediation.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Prepare deficiency reporting for upper management and Client, including analysis for potential financial impact.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Perform continuous improvement efforts to ensure the design of controls is improved to mitigate the risk of fraud, human error, and other design deficiencies.</span></span><br />\r\n<em><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Communication, Coordination &amp; Training:</span></span></strong></em><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Ensure ongoing communication with process owners for key SOX deliverables and support ongoing operation of controls.</span></span><br />\r\n<em><strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Special Projects:</span></span></strong></em><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Assist/lead special projects with financial reporting impact.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Serve as subject matter expert for financial reporting risks and controls.</span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Qualifications/ What you bring (Must Haves) &ndash; Highlight Top 3-5 skills</span></span></strong><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Four-Year College Degree (BA or BS] - Accounting (business/finance) Audit background</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">5-10 Years of relevant work experience &ndash; min of 5 yrs</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Familiarity with <strong>Audit, Sarbanes Oxley, COSO, GRC methodologies and frameworks</strong></span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Strong written and oral communication</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Strong analytical skills, initiative; ability to multi-task</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Ability to develop strong partnerships and influence people</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Ability to work with ambiguous or changing work situations, tasks, assignments</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Ability to quickly learn new applications or software tools</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">A high degree of organizational skills with the ability to work in a deadline driven environment</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Proficiency with <strong>Microsoft Office software</strong>: Excel, Word, PowerPoint, SharePoint, Teams</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Lucid or other process flow software</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Attention to detail and provide accurate data</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Work collaboratively with team members</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Meet regular performance expectations</span></span><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Added bonus if you have (Preferred):</span></span></strong><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Advance degree (Master of Accounting / MBA)</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">CPA / CIA / CFE</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Financial Services, banking, or automotive industry experience.</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">Archer Governance Risk and Compliance (GRC) Software</span></span><br />\r\n<span style=\"font-family:Arial,sans-serif;\"><span style=\"font-size:10.0pt;\">These questions are a mandatory to be answered and should be included in the resumes</span></span></div>\r\n",
-    "recruiter": [
-      "Peter Jackson",
-      "ppandey@techproviders.com",
-      "4045948181"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28250347",
-    "time_scraped": 1779744592043,
-    "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28250092,
-    "title": "Warranty Litigation Counsel",
-    "location": "GA, Atlanta",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779208362000
-    },
-    "start": {
-      "start_dateStr": "5/19/2026",
-      "start_date": 1779163200000
-    },
-    "end": {
-      "end_dateStr": "6/2/2027",
-      "end_date": 1811908800000
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "Pay: up to ***/hr (***k) depending on experience<br>   Duration: 12 months with possible extension<br>   In-office requirements: 2-3 days per week per the Food and Beverage Client Hybrid Work Arrangement<br>   Location: One Porsche Drive Atlanta GA 30354<br>   Status: Exempt (please make sure your candidates know this role is exempt from OT)<br>   <br>   <br>   Position Overview:<br>   Manage national warranty litigation. Serve as corporate representative in a variety of legal matters, including trials, mediations, arbitration hearings and depositions. Research, analyze, and evaluate evidence for lawsuits, manage warranty counsel throughout the United States, and negotiate settlements.<br>   Roles & responsibilities<br>   Primary responsibilities:<br>   • Manage large portfolio of warranty litigation, including working with outside counsel through the length of the case, aiding in reviewing pleadings, motions, discovery responses, helping develop effective defense strategies, and negotiating with opposing counsel.<br>   • Ability to aggregate cost data to create cost effective strategies for litigation management.<br>   • Collaborate with Porsche dealerships to complete final repair attempts, obtain necessary information and documentation to evaluate and resolve breach of warranty matters<br>   • Represent Food and Beverage Client in litigation: in court, mediation, depositions and trials throughout the United States<br>   Qualifications<br>   Education:<br>   • JD from an accredited law school, Barred in at least one state<br>   Experience:<br>   • 5&plus; of litigation experience, preferably in warranty matters<br>   Skills:<br>   • Substantive legal knowledge and understanding of warranty and lemon laws<br>   • Ability to handle case from start to finish, including managing strategy<br>   • Proficient in legal research<br>   • Self-starter and a team player<br>   Competencies:<br>   • Negotiation Skills<br>   • Detail Oriented<br>   • Communication<br>   • Conflict Resolution<br>   • Dependability<br>   • Initiative<br>   • Problem Solving<br>   • Planning & Organization",
-    "recruiter": [
-      "Simran Prakash",
-      "sprakash@techproviders.com",
-      "4705369039"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28250092",
-    "time_scraped": 1779744592229,
-    "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
-    "date_cutoff_days": 15
-  },
-  {
-    "id": 28249885,
-    "title": "Customer Care Specialist",
-    "location": "VT, Burlington",
-    "experience": {
-      "experience": null
-    },
-    "posted": {
-      "date_postedStr": "5/19/2026",
-      "date_posted": 1779207063000
-    },
-    "start": {
-      "start_dateStr": "6/22/2026",
-      "start_date": 1782100800000
-    },
-    "end": {
-      "end_dateStr": "12/1/2026",
-      "end_date": 1796101200000
-    },
-    "salary": null,
-    "remote": 0,
-    "description": "<strong><span style=\"color:#002060;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:14.0pt;\">Job Title: </span></span></span></strong><strong><span style=\"color:#002060;\"><span style=\"font-size:14.0pt;\">Customer Service Representative (CSR)</span></span></strong><br />\r\n<strong><span style=\"color:#002060;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:14.0pt;\">Location: Burlington, VT </span></span></span></strong><br />\r\n<strong><span style=\"color:#002060;\"><span style=\"font-family:Calibri,sans-serif;\"><span style=\"font-size:14.0pt;\">Duration: 12+ Months Contract with possible Extension</span></span></span></strong><br />\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Key Responsibilities</span></span></strong>\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Handle customer queries via phone, chat, and email </span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Manage issues from identification to resolution </span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Coordinate with internal teams for escalations </span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Maintain accurate documentation and track issue status </span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Build customer relationships through problem-solving and guidance </span></span></li>\r\n</ul>\r\n&nbsp;<br />\r\n<strong><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Requirements</span></span></strong>\r\n\r\n<ul>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Gains familiarity with Customer Care concepts, procedures, and methodologies.</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">With guidance, performs routine customer care agent duties, including:</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Receiving and responding to customer requests,</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Tracking tickets within the customer care system,</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Troubleshooting equipment, software, and compatibility problems,</span></span></li>\r\n\t<li><span style=\"font-family:Times New Roman,serif;\"><span style=\"font-size:12.0pt;\">Documenting customer issues, progress, and status</span></span></li>\r\n</ul>\r\n",
-    "recruiter": [
-      "Prashant Rana",
-      "prashant@techproviders.com",
-      "4706329268"
-    ],
-    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28249885",
-    "time_scraped": 1779744592278,
+    "url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd&SearchString=#/jobs/28785327",
+    "time_scraped": 1782973483323,
     "source_company": "9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
     "source_url": "https://www2.jobdiva.com/portal/?a=9jjdnwa1ryvpmo6cmg88v8p5enxni7032bn76i7pbfgsvtkwy34wtulpho4dmtmd",
     "date_cutoff_days": 15

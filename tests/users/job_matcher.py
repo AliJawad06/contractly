@@ -23,6 +23,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import sys
+import traceback as tb
 load_dotenv()
 
 
@@ -34,10 +35,10 @@ load_dotenv()
 # Supabase credentials
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY")
+SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_KEY") or os.getenv("SUPABASE_KEY")
 # Gmail SMTP credentials - UPDATE THESE
 GMAIL_ADDRESS = "03jawad.ali@gmail.com"  # <-- UPDATE THIS
-GMAIL_APP_PASSWORD = "amsl lafh qbtd gfkc"  # <-- UPDATE THIS
+GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD") # <-- UPDATE THIS
 
 # Path to jobs JSON file
 JOBS_FILE_PATH = "/root/contractly/day/day.jsonl"
@@ -148,67 +149,92 @@ def load_jobs_from_file(file_path: str) -> List[Dict[str, Any]]:
 def upsert_jobs_to_database(supabase: Client, jobs: List[Dict[str, Any]]) -> Dict[str, Any]:
     """
     Insert or update all jobs in the jobs table.
-    
+
     Returns:
         Dict with 'success_count', 'failed_count', 'failed_jobs', and 'duplicate_count'
     """
     success_count = 0
     failed_jobs = []
+
     # Deduplicate jobs by URL (keep the last occurrence)
     seen_urls = {}
     for job in jobs:
-        url = job.get("url")
+        url = job.get("apply") or job.get("url")
         if url:
             seen_urls[url] = job
-    
 
     duplicate_count = len(jobs) - len(seen_urls)
     if duplicate_count > 0:
         print(f"    Found {duplicate_count} duplicate URLs, keeping unique jobs only")
+
     # Transform deduplicated jobs to match table schema
     job_records = []
     for url, job in seen_urls.items():
-        
-        if "ceipal" in url: url = job.get("apply")
-        description = job.get("description")
-        soup = BeautifulSoup(description, 'html.parser').get_text(separator='\n', strip=True)
-        experience = job.get("experience") 
-        locations = job.get("location")
+        try:
+            
+            if type(job["location"]) is not list:
+                continue
 
-        loc_string = ", ".join([f"{l['city']}, {l['state']}" for l in locations]) if locations else "N/A"
-        recruiter = job.get("recruiter")
-        if type(recruiter) == list:                  
-                if not recruiter[0]:
-                    recruiter = "N/A"
-                else:
-                    recruiter =  ", ".join(recruiter)
-        else:
+            description = job.get("description")
+            soup = (
+                BeautifulSoup(description, "html.parser").get_text(separator="\n", strip=True)
+                if description else None
+            )
+
+            experience = job.get("experience")
+            locations = job.get("location") or []
+            cities = " ,".join([f"{l.get('city', '')}" for l in locations]) if locations else "N/A"
+            states = " ,".join([f"{l.get('state', '')}" for l in locations]) if locations else "N/A"
+            loc_string = (
+                ", ".join([f"{l.get('city', '')}, {l.get('state', '')}" for l in locations])
+                if locations else "N/A"
+            )
+
+            recruiter = job.get("recruiter")
+            if isinstance(recruiter, list):
+                recruiter = ", ".join(recruiter) if recruiter and recruiter[0] else "N/A"
+            elif isinstance(recruiter, dict):
                 recruiter = recruiter.get("contact") or "N/A"
+            else:
+                recruiter = recruiter or "N/A"
 
+            start = job.get("start") or {}
+            if isinstance(start.get("start_dateStr"), int):
+                start["start_date"], start["start_dateStr"] = (
+                    start.get("start_dateStr"),
+                    start.get("start_date"),
+                )
 
-        if type(job.get("start").get("start_dateStr")) is int:
-            temp = job["start"]["start_date"]
-            job["start"]["start_date"] = job["start"]["start_dateStr"]
-            job["start"]["start_dateStr"] = temp 
+            posted = job.get("posted") or {}
 
-        job_records.append({
-            "url": url,
-            "title": job.get("title"),
-            "category": job.get("category"),
-            "location": loc_string,
-            "description": soup or description,
-            "experience": experience,
-            "remote": job.get("remote", 0),
-            "posted": job.get("posted").get("date_posted"),
-            "posted_str": job.get("posted").get("date_postedStr"),
-            "start": job.get("start").get("start_date", "N/A"),
-            "start_str": job.get("start").get("start_dateStr", "N/A"),  
-            "recruiter": recruiter
+            job_records.append({
+                "url": url,
+                "title": job.get("title"),
+                "category": job.get("category"),
+                "location": loc_string,
+                "city": cities,
+                "state": states,
+                "description": soup or description,
+                "experience": experience,
+                "remote": job.get("remote", 0),
+                "posted": posted.get("date_posted"),
+                "posted_str": posted.get("date_postedStr"),
+                "start": start.get("start_date", "N/A"),
+                "start_date": start.get("start_dateStr", "N/A"),
+                "recruiter": recruiter,
             })
-    
+        except Exception as transform_error:
+            tb.print_exc()
+            failed_jobs.append({
+                "url": url,
+                "title": job.get("title") if isinstance(job, dict) else None,
+                "error": f"transform failed: {transform_error}",
+            })
+            print(f"    Skipping job ({url}): {transform_error}")
+            continue
+
     # Upsert in batches
     batch_size = 50
-    #len(job_records) -> 50
     for i in range(0, len(job_records), batch_size):
         batch = job_records[i:i + batch_size]
         try:
@@ -216,8 +242,7 @@ def upsert_jobs_to_database(supabase: Client, jobs: List[Dict[str, Any]]) -> Dic
             success_count += len(batch)
         except Exception as batch_error:
             # If batch fails, try inserting one by one to identify the problem job(s)
-
-            print(f"    Batch {i//batch_size + 1} failed, trying individual inserts...")
+            print(f"    Batch {i // batch_size + 1} failed, trying individual inserts...")
             for job_record in batch:
                 try:
                     supabase.table("jobs").upsert([job_record], on_conflict="url").execute()
@@ -226,17 +251,16 @@ def upsert_jobs_to_database(supabase: Client, jobs: List[Dict[str, Any]]) -> Dic
                     failed_jobs.append({
                         "url": job_record.get("url"),
                         "title": job_record.get("title"),
-                        "error": str(job_error)
+                        "error": str(job_error),
                     })
                     print(str(job_error))
-    
+
     return {
         "success_count": success_count,
         "failed_count": len(failed_jobs),
         "failed_jobs": failed_jobs,
-        "duplicate_count": duplicate_count
+        "duplicate_count": duplicate_count,
     }
-
 
 def get_all_users(supabase: Client) -> List[Dict[str, Any]]:
     """Fetch all users from the profiles table."""
@@ -275,10 +299,17 @@ def insert_matched_jobs(supabase: Client, user_id: str, matches: List[Dict[str, 
     
     # Insert in batches
     batch_size = 500
-    #len(records) -> 50
-    for i in range(0,len(records), batch_size):
+    for i in range(0, len(records), batch_size):
         batch = records[i:i + batch_size]
-        supabase.table("matched_jobs").insert(batch).execute()
+        try:
+            supabase.table("matched_jobs").insert(batch).execute()
+        except Exception as batch_error:
+            print(f"    Batch insert failed, trying one-by-one...")
+            for record in batch:
+                try:
+                    supabase.table("matched_jobs").insert(record).execute()
+                except Exception as row_error:
+                    print(f"    ✗ Failed to insert matched_job: job_url={record['job_url']} | error={row_error}")
 
 
 def get_top_jobs_for_user(supabase: Client, user_id: str, limit: int = 2) -> List[Dict[str, Any]]:
@@ -430,7 +461,7 @@ def send_email(to_email: str, subject: str, html_content: str) -> bool:
                 "Content-Type": "application/json"
             },
             json={
-                "from": "Contractly <onboarding@resend.dev>",
+                "from": "Contractly <onboarding@contract-ly.com>",
                 "to": [to_email],
                 "subject": subject,
                 "html": html_content
@@ -482,7 +513,7 @@ def process_user(
     matching_jobs = []
     for url, job in all_jobs.items():
         job_category = job.get("category", "N/A")
-        if job_category and job_category != "N/A":
+        if job_category and job_category != "N/A" and type(job["location"] is list):
             if job_category in user_industries:
                 matching_jobs.append(job)
     
@@ -533,7 +564,6 @@ def new_user(email:str):
     print(f"\n[2/6] Loading jobs from {JOBS_FILE_PATH}...")
     try:
         jobs_list = load_jobs_from_file(JOBS_FILE_PATH)
-        jobs_list = jobs_list[1:30]
         print(f"  ✓ Loaded {len(jobs_list)} jobs from file")
     except FileNotFoundError:
         print(f"  ✗ File not found: {JOBS_FILE_PATH}")
@@ -547,7 +577,7 @@ def new_user(email:str):
     # Get all users
     print("\n[4/6] Fetching users from Supabase...")
     users = []
-        users = get_user(supabase, email)
+    users = get_user(supabase, email)
     print(f"  ✓ Found {len(users)} users")
 
     if not users:
@@ -624,7 +654,6 @@ def main(email = ""):
     print(f"\n[2/6] Loading jobs from {JOBS_FILE_PATH}...")
     try:
         jobs_list = load_jobs_from_file(JOBS_FILE_PATH)
-        jobs_list = jobs_list[1:30]
         print(f"  ✓ Loaded {len(jobs_list)} jobs from file")
     except FileNotFoundError:
         print(f"  ✗ File not found: {JOBS_FILE_PATH}")
@@ -649,7 +678,7 @@ def main(email = ""):
     except Exception as e:
         print(f"  ✗ Failed to store jobs: {e}")
         print("  Make sure you've run setup_tables.sql first!")
-        return
+        #return
     # Create a dict for quick lookup
     all_jobs = {job.get("apply") or job.get("url"): job for job in jobs_list}
     

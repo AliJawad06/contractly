@@ -19,7 +19,7 @@ async def webhook(request: Request):
     # Must use raw body — signature is computed over raw bytes, not parsed JSON
     body = (await request.body()).decode("utf-8")
     headers = dict(request.headers)
-
+    
     try:
         event = client.beta.webhooks.unwrap(body, headers=headers)
     except Exception:

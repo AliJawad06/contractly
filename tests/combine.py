@@ -9,6 +9,7 @@ from location_parser import save_mappers, get_mapper_stats
 import re
 import hashlib
 from bs4 import BeautifulSoup
+import traceback as tb
 # Constants
 STATE_ABBREV_ARRAY = [
     {'full_name': 'Alabama', 'abbreviation': 'AL'},
@@ -81,7 +82,7 @@ def experience_parser(exp):
                 exp = int(exp)
             return exp
 
-def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
+def data_parser(job: Dict[str, Any]) -> Dict[str, Any]:
     """
     Parse job location and title, using cached mappings when available
 
@@ -118,7 +119,7 @@ def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
         else:
             cached_location = location_mapper.get_location(loc)
             if cached_location:
-                res['locations'] = location_mapper.format_locations(cached_location)
+                res['locations'] = cached_location
             elif match := re.match(r'^([A-Z]{2}), {1,2}([A-Za-z\s]+)$', loc):
                 state = match.group(1)
                 city = match.group(2).strip()
@@ -146,7 +147,8 @@ def location_parser(job: Dict[str, Any]) -> Dict[str, Any]:
         return row
 
     except Exception as e:
-        print(e)
+        print(f"error {e}")
+        tb.print_exc()
 
 
 def combine_json_files():
@@ -195,7 +197,7 @@ def combine_json_files():
                     custom_id = hashlib.md5(url.encode()).hexdigest()
                     row["custom_id"] = custom_id
                     job["custom_id"] = custom_id
-                    body = location_parser(job)
+                    body = data_parser(job)
                     if body.get("locations"):
                         job["location"] = body['locations']
                     if body.get("category"):
@@ -208,7 +210,9 @@ def combine_json_files():
                     loc.write(json.dumps(job) + "\n")
                 except Exception as e:
                     print(f"Error processing job {i}: {e}")
-
+                    print(tb.print_exc())
+                    print(job)
+        
         client = anthropic.Anthropic()
         requests = []
         with open("/root/contractly/batching_tests.jsonl", "r") as f:
@@ -216,7 +220,6 @@ def combine_json_files():
                 if line.strip():
                     req = json.loads(line)
                     requests.append(req)
-
         if requests:
             for attempt in range(3):
                 try:
