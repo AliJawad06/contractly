@@ -99,7 +99,7 @@ multidict==6.6.4
 multitasking==0.0.12
 numba==0.61.2
 numpy==2.2.6
-oauthlib==3.3.1
+oauthlib==4.0.0
 ollama==0.5.3
 openai==2.1.0
 openpyxl==3.1.5
